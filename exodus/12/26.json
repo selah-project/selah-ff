@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ndeen si tawa ɓiɓɓe monen ɗon wi'u on: Ko kuugal ngal woni fii mon?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si tawa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ɓiɓɓe mon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko... woni fii"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:53.037899632Z",
+  "model": "glm-5.3"
+}

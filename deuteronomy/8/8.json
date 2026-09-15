@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Leydi gawri e ibere, e reemu e citeeri e rummaan; leydi olii-diwgal e asal.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gawri"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "e ibere"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "e reemu"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "e citeeri"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "e rummaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olii"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diwgal"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e asal"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:08.369026086Z",
+  "model": "glm-5.3"
+}

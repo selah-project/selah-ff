@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mo reessa daande makko reessa nefes makko; mo udditi lebbe makko — humre fii makko.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "reessa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "reessa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefes makko"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "udditotooɗo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lebbe makko"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "humre"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:55.402928018Z",
+  "model": "glm-5.3"
+}

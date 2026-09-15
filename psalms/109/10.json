@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ɓiɗɓe mun ɗin na naat e caɗeele duumiinde, ɓe ƴama; ɓe ɗaɓɓira ɗi mum en nguura e ɗeeseaji mum en himmbe.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "na naat e"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "caɗeele duumiinde"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɗɓe mun ɗin"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ɓe ƴama"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ɓe ɗaɓɓira"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "e ɗeeseaji mum en himmbe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:12.663985819Z",
+  "model": "glm-5.3"
+}

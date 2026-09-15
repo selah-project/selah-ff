@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Sabu o wertii nokku nanngagol am, e nder ñalɗi am mi noddata mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o wertii"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "nokku nanngagol am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "e nder ñalɣi am"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:23.675220692Z",
+  "model": "glm-5.3"
+}

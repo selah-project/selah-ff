@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Haa duuminga mi yejjitataa pamari Maa; sabu e ɗii a wuurnii-mi.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "haa duuminga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "mi yejjitataa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pamari Maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e ɗii"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "a wuurnii-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:27.950969080Z",
+  "model": "glm-5.3"
+}

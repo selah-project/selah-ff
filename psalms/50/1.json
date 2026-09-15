@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Mizmoor Asaf: Eel, Eloohim, Yaawe haalti, o noddunoo leydi ndin, hmmde naange ɗen haa naange ɗen naatuki mun.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalti"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddunoo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "hmmde naange ɗen"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "naange ɗen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "naatuki mun"
+    }
+  ],
+  "timestamp": "2026-09-14T19:26:36.678283074Z",
+  "model": "glm-5.3"
+}

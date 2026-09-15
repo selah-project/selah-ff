@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Tulde ɗin ƴetti toowgol, bille ɗim njippii, to nokku ɗo a sasi ɗum fii maɓɓe.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ƴetti toowgol"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Tulde ɗin"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "njippii"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "bille ɗim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku ɗo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "a sasi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fii maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:24.415485809Z",
+  "model": "glm-5.3"
+}

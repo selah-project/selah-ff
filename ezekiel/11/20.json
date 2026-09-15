@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Fii no ɓe yahata e sariyaaji am, e ⟨את⟩ ñaawoore am ɓe rendata, ɓe waɗa ⟨את⟩ ɗum; ɓe laaratay lam, lam mi wonay ɓe Eloohim.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii no"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "e sariyaaji am"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ɓe yahata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawoore am"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ɓe rendata"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ɓe wađa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe laaratay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lam mi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T08:37:59.878294826Z",
+  "model": "glm-5.3"
+}

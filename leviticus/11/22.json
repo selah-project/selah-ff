@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ɗee ɗoo e nder mum'en ñaamoyon: ⟨את⟩ arbee ɗin e sosiyee mun, e ⟨את⟩ solaam ɗin e sosiyee mun, e ⟨את⟩ hargol ɗin e sosiyee mun, e ⟨את⟩ hagab ɗin e sosiyee mun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee ɗoo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee ɗoo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e nder mum'en"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamoyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbee ɗin"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbee ɗin"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "e sosiyee mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "solaam ɗin"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solaam ɗin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "e sosiyee mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hargol ɗin"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol ɗin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "e sosiyee mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hagab ɗin"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagab ɗin"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "e sosiyee mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:00.537897242Z",
+  "model": "glm-5.3"
+}

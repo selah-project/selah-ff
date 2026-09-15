@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "⟨את⟩ Maayo ngol gooto, e ⟨את⟩ na'i sappo e ɗiɗi les mun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maayo ngol"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "na'i"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "les mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:09:05.462966491Z",
+  "model": "glm-5.3"
+}

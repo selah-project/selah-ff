@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "A ñiftotoɗaa, a yurata Siyon, nde ko sahaa muñal-mun, nde ko waktu toɗɗaaɗo on arii.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "a ñiftotoɗaa"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "a yurata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde ko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "muñal-mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde ko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu toɗɗaaɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:15.676330387Z",
+  "model": "glm-5.3"
+}

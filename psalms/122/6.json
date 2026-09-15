@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Ñaaminoen salmaa Yerushalayim; ɓe yiɗi maa ɗen dujotoo.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Ñaaminoen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salmaa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "dujotoo"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ɓe yiɗi maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:48.554285416Z",
+  "model": "glm-5.3"
+}

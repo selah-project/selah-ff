@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Eloohim nano ɗum, o tikkii haa ɓurti, o ñiŋi Israyaayil no feewi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nano ɗum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "o tikkii haa ɓurti"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "o ñiŋi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israyaayil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:19.256326879Z",
+  "model": "glm-5.3"
+}

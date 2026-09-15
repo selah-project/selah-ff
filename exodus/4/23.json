@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mi wi'i maa: yaltin ⟨את⟩ ɓiɗɗo am, o gollo am; kono a sali yaltinde mo — ɗoo, min ⟨en⟩ wara ⟨את⟩ ɓiɗɗo maa, ɓiɗɗo maa aroowo.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "o gollo am"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "a sali"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "yaltinde mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ɓiɗɗo maa aroowo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:27.257434992Z",
+  "model": "glm-5.3"
+}

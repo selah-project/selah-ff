@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Naange yawtii, ⟨duuyeeji ɗin⟩ kawri, e kaɓɓe mum en ɗi ɗaɓɓiti.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "yawtii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "kaɓɓe mum en"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ɗi ɗaɓɓiti"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:16.846292336Z",
+  "model": "glm-5.3"
+}

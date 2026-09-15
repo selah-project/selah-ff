@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Hol neɗɗo on woni ko omo huli Yaawe? O jannginta mo laawol ngu o suɓata.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "omo huli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "O jannginta mo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngu"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "o suɓata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:15.563035616Z",
+  "model": "glm-5.3"
+}

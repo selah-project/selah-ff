@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yaawe, e moƴƴere maa durñiɗaa tulde am nde sembe; suuñiɗaa yeeso maa; mi wonii mi hulɓinii.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "e moƴƴere maa"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "durñiɗaa"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "tulde am nde"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sembe"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "suuñiɗaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonii"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "mi hulɓinii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.335939021Z",
+  "model": "glm-5.3"
+}

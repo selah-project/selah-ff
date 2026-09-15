@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mikayahu wi'i: Yaawe wuurata, ko ⟨את⟩ ɗum gan Yaawe wi'ata am, ⟨את⟩ ɗum mi kaalata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuurata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum gan Yaawe wi'ata am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'ata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum mi kaalata"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi kaalata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:08.518112399Z",
+  "model": "glm-5.3"
+}

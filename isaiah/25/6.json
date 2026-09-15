@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 25:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yaawe Sabawut mahaɗay to tulde nden, fii yimɓe fuu, ndaru wondundu laaɓundu, ndaru wondundu ƴeewnundu, wondundu ɓuuɓndu hesere, wondundu ƴeewnundu no feewi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mahaɗay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabawut"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii ... fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "to tulde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ndaru wondundu"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "laaɓundu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ndaru wondundu"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ƴeewnundu"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ɓuuɓndu hesere"
+    },
+    {
+      "surface": "ממחים",
+      "gloss": "ɓuuɓndu"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ƴeewnundu"
+    },
+    {
+      "surface": "מזקקים",
+      "gloss": "no feewi ƴeewnundu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:10.790721247Z",
+  "model": "glm-5.3"
+}

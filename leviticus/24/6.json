@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "A seŋan ⟨את⟩ ɗum layre ɗiɗi, jeegom e layre nden, e dow taabal ngal laaɓngal, yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "a seŋan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (layre ɗiɗi)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "layre"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "layre nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "laaɓngal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:12.888978936Z",
+  "model": "glm-5.3"
+}

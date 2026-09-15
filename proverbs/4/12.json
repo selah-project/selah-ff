@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nde yahdata, daande maa ɗuuɗtinaa; so a dogi, a woppaani.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "nde yahdata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ɗuuɗtina"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "so"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "a dogi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "a woppaani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:52.152582814Z",
+  "model": "glm-5.3"
+}

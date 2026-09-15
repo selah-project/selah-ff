@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Ɓiɓɓe amen rewɓe mbaɗata no lekki pamarɗi nii, mawnuɓe e cukaagu maɓɓe; ɓiɗɓe amen rewɓe no ŋoral leɗɗe taƴngal, mbaydi suudu laamu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Ɓiɓɓe amen rewɓe"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "no lekki pamarɗi nii"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "mawnuɓe"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "e cukaagu maɓɓe"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ɓiɗɓe amen rewɓe"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "no ŋoral nii"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "taƴngal"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mbaydi"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu laamu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:12.993412339Z",
+  "model": "glm-5.3"
+}

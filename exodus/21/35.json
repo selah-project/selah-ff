@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si nagge neɗɗo fi'i ⟨את⟩ nagge sehil mum, ngam mum maayi, ɓe coodoy ⟨את⟩ nagge ngu wuurii ngun, ɓe feccu ⟨את⟩ njoɓdi mum; ɓe feccu kadi ⟨את⟩ ngel maayi ngel.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "fi'i"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagge"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mum"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ngam mum maayi"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ɓe coodoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagge ngu wuurii ngun"
+    },
+    {
+      "surface": "השור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ngu wuurii ngun"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "ɓe feccu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njoɓdi mum"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "njoɓdi mum"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ɓe feccu kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngel maayi ngel"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ngel maayi ngel"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "feccu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:09.672437393Z",
+  "model": "glm-5.3"
+}

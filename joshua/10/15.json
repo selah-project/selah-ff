@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yoshuwaa artii, e Israa'iil fuu e makko, to kampaañ ñalnde Gilgaal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "artii"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yoshuwaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampaañ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgaal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:24.882795106Z",
+  "model": "glm-5.3"
+}

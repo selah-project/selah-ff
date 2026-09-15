@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Hunnde woni ka baaba mum ɓiy ahafi, e tentindol woni ka jibiniɗo mum.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "hunnde"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ka baaba mum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahafi"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "e tentindol"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "ka jibiniɗo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:58:32.923451136Z",
+  "model": "glm-5.3"
+}

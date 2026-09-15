@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Wata a accu min, Yaawe, Eloohim am; wata a woɗɗu e am.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "a accu min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "a woɗɗu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:22.052517605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O ñiiadii tawafo balɗe jeeɗiɗe goɗɗe, o ɓeydi neldude ⟨את⟩ coloore nden iwde e baati ndin.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "o ñiiadii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawafo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "o ɓeydi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coloore nden"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "coloore nden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iwde e"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "baati ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:42.961143179Z",
+  "model": "glm-5.3"
+}

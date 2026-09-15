@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde e maa mi doga e konu; e Eloohim am mi playa haa dow mahol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mi doga"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "e konu"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "e Eloohim am"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "mi playa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "haa dow mahol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:52.437341025Z",
+  "model": "glm-5.3"
+}

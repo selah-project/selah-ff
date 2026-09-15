@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kadi ɗee ko inɗe ɓiɓɓe ɗin njiibinaa mo Yerushalaam: Shammuwaa e Showaw e Natan e Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kadi ɗee"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "inɗe"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ɓiɓɓe ɗin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaam"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammuwaa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "e Showaw"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "e Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "e Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-14T06:56:28.441395580Z",
+  "model": "glm-5.3"
+}

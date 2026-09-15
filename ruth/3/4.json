@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko woni, tuma o woni e lelaade, anndu ⟨את⟩ nokku oo ɗo o leli ton; ara, ñiiwdir luaagu makko nguu, leli; kanko o wi'ay maa ⟨את⟩ ko maaɗum waɗa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ko woni"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "tuma o woni e lelaade"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "anndu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokku oo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku oo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o leli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ara"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "ñiiwdir"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "luaagu makko nguu"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "leli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "wi'ay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko maaɗum waɗa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ... waɗa"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "waɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:55:35.435367968Z",
+  "model": "glm-5.3"
+}

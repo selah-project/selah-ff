@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono a, Yaawe, a wonanii mi ko hebloto; teddungal am, e ontoowo hoore am.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ko hebloto"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "a wonanii mi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "teddungal am"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "e ontoowo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:33.951431217Z",
+  "model": "glm-5.3"
+}

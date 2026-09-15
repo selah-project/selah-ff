@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Sabu o daroto bannge ñaamo ⟨mo ŋakki⟩, fii moydude mo e ñaawooɓe nguurndam mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "o daroto"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "bannge ñaamo"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mo ŋakki"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "fii moydude mo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "e ñaawooɓe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nguurndam mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:31.013667481Z",
+  "model": "glm-5.3"
+}

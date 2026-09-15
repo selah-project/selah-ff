@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ndaar-⟨am⟩, jaaba ⟨mi⟩, Yaawe Eloohim am; lewnu gite am, wana mi ɗooƴoo ɗoŋŋu maayde ndee.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Ndaar-am"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaaba mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "lewnu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "mi ɗooƴoo"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maayde ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:20.179896528Z",
+  "model": "glm-5.3"
+}

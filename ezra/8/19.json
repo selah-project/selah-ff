@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ Hashabya, e ⟨את⟩ mum Yesh'aya, e nder ɓiɓɓe Merari — miñiraaɓe makko e ɓiɓɓe mum en, hai e ɗuuɗi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hashabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "e ⟨את⟩ mum"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yesh'aya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe makko"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "e ɓiɓɓe mum en"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai e ɗuuɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:52.403555465Z",
+  "model": "glm-5.3"
+}

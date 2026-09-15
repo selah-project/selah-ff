@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ɗum yedduɗo jeyngu mun, lackinggol ɓernde woodi; kono gorko faamuyɗo, mo muumtay.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "yedduɗo"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "jeyngu mun"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "lackinggol"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kono gorko"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "faamuyɗo"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "mo muumtay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:42.186740472Z",
+  "model": "glm-5.3"
+}

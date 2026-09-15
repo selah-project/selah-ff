@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "A waɗay ɓe no huɗore yiite nii, e sahaa peeñal maa; Yaawe e sunii mun ñaamana ɓe, yiite nden ñaamoy ɓe.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "A waɗay ɓe"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "no huɗore nii"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "peeñal maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "e sunii mun"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ñaamana ɓe"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ñaamoy ɓe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:45.502409231Z",
+  "model": "glm-5.3"
+}

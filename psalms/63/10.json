@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Kono ɓe njiylotoo nafsi am fii halkaare, ɓe naata e lesraaje leydi ndin.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "fii halkaare"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ɓe njiylotoo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi am"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ɓe naata"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "e lesraaje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:38.908536362Z",
+  "model": "glm-5.3"
+}

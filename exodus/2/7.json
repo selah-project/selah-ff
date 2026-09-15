@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Debbo mawniɗo makko oo wi'i ɓiɗɗo Farao: «Haa mi yaha, miyo waajotoo maa debbo wornoowo jeyaaɗo e Ibraniyankooɓe rewɓe ɓen, nde o wonnora maa ⟨את⟩ suka o?»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "debbo mawniido makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "haa mi yaha"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "miyo waajotoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "wornoowo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "jeyaaɗo e"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Ibraniyankooɓe rewɓe ɓen"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "nde o wonnora"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka o"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "suka o"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:17.486737498Z",
+  "model": "glm-5.3"
+}

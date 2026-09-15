@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen Paroh ɗaɓɓiri yimɓe mun fuu, wiyude: Kala ɓiɗɗo gorko jibinaaɗo, ɓe moyndan mo e maayo ndin; kala ɓiɗɗo debbo, ɓe wuurnitan mo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ɗaɓɓiri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "jibinaaɗo"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "e maayo ndin"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "ɓe moyndan mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "ɓe wuurnitan mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:03.738976387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɓe ɓadtii ɓe duuɗorii peewnugol bonɗo; e Tora maa ɓe woɗii.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ɓe ɓadtii"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ɓe duuɗorii"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "peewnugol bonɗo"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "e Tora maa"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ɓe woɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:24.182977929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Oo daande onu onu: e jeereende nden fewnu laawol Yaawe; to ɓaleeri ndin laaɓtinee laawol mawnol fii Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "onu onu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende nden"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "fewnu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "laaɓtinee"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "to ɓaleeri ndin"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "laawol mawnol"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "fii Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:13.986761657Z",
+  "model": "glm-5.3"
+}

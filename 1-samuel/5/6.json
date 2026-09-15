@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Junngo Yaawe teeddinii e yimɓe Ashdod, o halki ɓe, o fiyi ɓe ⟨את⟩ e buuli, ⟨את⟩ Ashdod e ⟨את⟩ keerolle mum.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "teeddinii"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "yimɓe Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "o halki ɓe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "buuli"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "e buuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keerolle mum"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "keerolle mum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:40:13.244066587Z",
+  "model": "glm-5.3"
+}

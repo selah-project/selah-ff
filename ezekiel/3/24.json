@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ruuhu naati e am, o dariinii am e koyɗe am, o haali ⟨את⟩ am, o wi'i am: naat, uddu hoore maa nder suudu maa.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "o dariinii am"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyɗe am"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (Ezekiel)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naat"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "uddu hoore maa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:34:57.100606941Z",
+  "model": "glm-5.3"
+}

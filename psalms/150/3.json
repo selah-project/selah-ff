@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 150,
+  "translation": "Yettoy mo e ɓuuɓol shofaar; yettoy mo e nefel e kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Yettoy mo"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "e ɓuuɓol"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofaar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yettoy mo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "e nefel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e kinor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:28.337301582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Daawuda nano ɗum, o neldi ⟨את⟩ Yowaab e ⟨את⟩ konu nguu fof gorko'en doole ɓen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowaab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konu nguu fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "gorko'en doole ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:01:53.213883920Z",
+  "model": "glm-5.3"
+}

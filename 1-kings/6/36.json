@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O mahi ⟨את⟩ denndaandu nderndu ndun: lay layɗi tati kuutoraaɗi pamɓuɗi, e lay goo kuutoraaɗi leɗɗe sidar.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denndaandu nderndu ndun"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "denndaandu"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "nderndu ndun"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tati"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "lay layɗi"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kuutoraaɗi pamɓuɗi"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "e lay goo"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kuutoraaɗi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "leɗɗe sidar"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:06.127736506Z",
+  "model": "glm-5.3"
+}

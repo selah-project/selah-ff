@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "A waɗay min ñiŋam e hoɗɓe e min, e jeertinannde e panyoore e hoɗɓe taariiɓe min.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "a waɗay min"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ñiŋam"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "e hoɗɓe e min"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "jeertinannde"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "e panyoore"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "e hoɗɓe taariiɓe min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:15.473268304Z",
+  "model": "glm-5.3"
+}

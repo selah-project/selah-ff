@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O moofti ⟨את⟩ ɗiin mawɓe Israayiil fof, e almuɗaaɗe ɗen, e Leewi en ɗen.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "o moofti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiin mawɓe Israayiil fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗiin ... fof"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "e almuɗaaɗe ɗen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e Leewi en ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:03:44.576966351Z",
+  "model": "glm-5.3"
+}

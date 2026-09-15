@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Goodu ko ndiyam ɗam: ko mun woni, kanko o tagi ɗum, e daŋre nden junngo makko ngoo seŋi ɗum.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "goodu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ko mun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "tagi ɗum"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "e daŋre nden"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "seŋi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:14.334940869Z",
+  "model": "glm-5.3"
+}

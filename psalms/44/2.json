@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Eloohim, e noppi amen men nani; baabiraaɓe amen kabbitinii men golle ɗe ɗañiɗaa e ɗunal maɓɓe, e ɗunal ɓennuungal ngal.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "e noppi amen"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "men nani"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kabbitinii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "men"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "golle"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ɗañiɗaa"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "e ɗunal maɓɓe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e ɗunal"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ɓennuungal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:31.032666279Z",
+  "model": "glm-5.3"
+}

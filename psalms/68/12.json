@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Adonaay rokki konngol; rewɓe bashirooɓe ɓen ko konu keewngu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "rewɓe bashirooɓe ɓen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewngu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:35.018633564Z",
+  "model": "glm-5.3"
+}

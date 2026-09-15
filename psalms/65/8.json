@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "O.urniɗinii muulngo maaje ɗen, muulngo baɗɓe maɓɓe ɗon, e cemmbiire yimɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "urniɗinii"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "muulngo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maaje ɗen"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "muulngo"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "baɗɓe maɓɓe ɗon"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "e cemmbiire"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "yimɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:19.909579912Z",
+  "model": "glm-5.3"
+}

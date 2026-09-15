@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yaawe fuzzata nefeeje jeyaaɗe makko; ɓe dogdortooɓe e makko fof wanaa ɓe yoɓoyta.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "fuzzata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeeje"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɗe makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ɓe yoɓoyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "ɓe dogdortooɓe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:15.927145658Z",
+  "model": "glm-5.3"
+}

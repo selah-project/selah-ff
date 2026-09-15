@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i Sataan: \"Haaju aroytaa?\" Sataan jaabii ⟨את⟩ Yaawe, o wi'i: \"Nde mi yiilotoo leydi ndin, ngartoɗaa e yiilaade nder mayre.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sataan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Haaju"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "aroytaa"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Nde mi yiilotoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ngartoɗaa e yiilaade"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nder mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:32.326896117Z",
+  "model": "glm-5.3"
+}

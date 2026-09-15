@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 82,
+  "translation": "Kono tigi, hono neɗɗaŋke on maayay; on yidday hono gooto e laamɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "kono tigi"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "hono neɗɗaŋke"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "on maayay"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "e hono gooto"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "laamɓe ɓen"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "on yidday"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:26.614738679Z",
+  "model": "glm-5.3"
+}

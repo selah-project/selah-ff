@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Tawa ko a waɗii ɗum e cuuɗri; kono min mbi'a waɗa ⟨את⟩ ko waawi ngol e yeeso Israa'iila fof, e yeeso naange on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "a waɗii"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e cuuɗri"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko waawi ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ko waawi ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:37.706483889Z",
+  "model": "glm-5.3"
+}

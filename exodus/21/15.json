@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wopputo baaba mun walla yumma mun — maayde o maayetee.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Wopputo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "walla yumma mun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o maayetee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:32.743639436Z",
+  "model": "glm-5.3"
+}

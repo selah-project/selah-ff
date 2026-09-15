@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Ɓe dariiɓe nder suudu Yaawe, nder paalaaje suudu Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ɓe dariiɓe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nder paalaaje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:40.813745977Z",
+  "model": "glm-5.3"
+}

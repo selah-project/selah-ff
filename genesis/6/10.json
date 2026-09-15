@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Noowa dañi ɓiɓɓe worɓe tato: ⟨את⟩ Shem, ⟨את⟩ Cham, e ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noowa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:06.124519234Z",
+  "model": "glm-5.3"
+}

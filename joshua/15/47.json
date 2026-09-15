@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ashdod e ɓiɗɓe mun e ceɗe mun, Gaza e ɓiɗɓe mun e ceɗe mun, haa ɓerwol Misrayim; maayo mawngo ngoo ko keerol, e keerol.",
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "e ɓiɗɓe mun"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "e ceɗe mun"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "e ɓiɗɓe mun"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "e ceɗe mun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanaa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ɓerwol"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "והים",
+      "gloss": "maayo mawngo ngoo ko"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "e keerol"
+    }
+  ],
+  "timestamp": "2026-09-14T06:18:02.409341848Z",
+  "model": "glm-5.3"
+}

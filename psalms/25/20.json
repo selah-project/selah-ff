@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Reen hoore-hoore am, hisnu am; wata mi tuubu, tawa mi cuuɗorii to maaɗa.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Reen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hoore-hoore am"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "hisnu am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mi tuubu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi cuuɗorii"
+    },
+    {
+      "surface": "בך",
+      "gloss": "to maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:32.846844702Z",
+  "model": "glm-5.3"
+}

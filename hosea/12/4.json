@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E nder reedu makko o nanngi e ƴoggere ⟨את⟩ miñiiko mun; e doole makko o haɓii e ⟨את⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "o nanngi e ƴoggere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñiiko mun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko mun"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "e doole makko"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "o haɓii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:22.269039534Z",
+  "model": "glm-5.3"
+}

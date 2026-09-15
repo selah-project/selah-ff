@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "A ɓuri welde ɓiɓɓe aadee; neene wattiraama e leppi maa; sabu ɗuum Eloohim barrii haa duumi.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "a ɓuri welde"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "wattiraama"
+    },
+    {
+      "surface": "חן",
+      "gloss": "neene"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "e leppi maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu dow"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "barrii maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:02.317582313Z",
+  "model": "glm-5.3"
+}

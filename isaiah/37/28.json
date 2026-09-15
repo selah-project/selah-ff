@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Jooɗaade maa e yaltugol maa e naatgol maa mi anndi, e ⟨את⟩ nfrufo maa ngam am.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "jooɗaade maa"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "e yaltugol maa"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "e naatgol maa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nfrufo maa ngam am"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "nfrufo maa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngam am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:14.464661925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Haruna waɗu kaaƴe-fergel dow koñɗe ɗiɗo ɗee: fergel gootel fii Yaawe, e fergel gootel fii Azaazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "waɗu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haruna"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "koñɗe ɗee"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "kaaƴe-fergel"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "fergel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "e fergel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "fii Azaazel"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:00.041531530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "O wi'i: “Laatimi, mi nanii ko kaadu ⟨jeyi⟩ e Misrayim; yaha les ɗo, soodu min heen, min nguuru, wanaa min maaya.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Laatimi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨jeyi⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "yaha les"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "soodu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "משם",
+      "gloss": "heen"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "min nguuru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "min maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:03.098057289Z",
+  "model": "glm-5.3"
+}

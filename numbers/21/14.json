@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Sabu ɗum, wi'etee e deftere konuuli Yaawe: ⟨את⟩ Waheb e Suufa, e ⟨את⟩ ɓulli ɗin Arnon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'etee"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "e deftere"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Waheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Waheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "e Suufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓulli ɗin"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ɓulli ɗin"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    }
+  ],
+  "timestamp": "2026-09-15T05:51:43.965234313Z",
+  "model": "glm-5.3"
+}

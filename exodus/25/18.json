@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Maa waɗa keruubiiji ɗiɗo kaŋŋo; golle mumtarɗe maa waɗa ⟨את⟩ ɓe e ɗooɗe ɗiɗo kaporete ɗen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Maa waɗa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruubiiji"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋo"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "golle mumtarɗe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maa waɗa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "keruubiiji ɗiɗo ɗi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "e ɗooɗe"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:35.791551017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Mi noddu-ma, maa a jaabotoo mi, Eel; wattu nanngu maa e am, nano konngol am.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "noddu-ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "a jaabotoo mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "הט",
+      "gloss": "wattu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nanngu maa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "konngol am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:48.875032584Z",
+  "model": "glm-5.3"
+}

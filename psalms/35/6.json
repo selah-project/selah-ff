@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Laawol mun ngol laatoy niɗɗere e daɓɓitorde, Malaa'ika Yaawe fellitoo ɓe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "laatoy"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "Laawol mun ngol"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɗɗere"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "e daɓɓitorde"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "Malaa'ika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "fellitoo ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:55.743189859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "E ⟨את⟩ Keshed, e ⟨את⟩ Xazoowo, e ⟨את⟩ Pildaash, e ⟨את⟩ Yidlaaf, e ⟨את⟩ Betuuwel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Keshed"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Keshed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Xazoowo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Xazoowo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Pildaash"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildaash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yidlaaf"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Betuuwel"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuuwel"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:43.446255720Z",
+  "model": "glm-5.3"
+}

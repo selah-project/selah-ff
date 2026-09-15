@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kadi miñii mi, ko min, ⟨את⟩ cemmbe am ɗen fof ɗe min cemmbintoo les naange, sabu mi accata ɗum neɗɗo mo laatay ɓaawo am.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "miñii mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cemmbe am ɗen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗen fof"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "cemmbe am ɗen"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ɗe min"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cemmbintoo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "mi accata ɗum"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "mo laatay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:07.992292069Z",
+  "model": "glm-5.3"
+}

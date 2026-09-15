@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yimɓe Ashdod ɓee ummiima faade jamma; tawi Dagon liiɗi yeeso mun ley, fewre sannde Yaawe; ɓe natti ⟨את⟩ Dagon, ɓe ruttitini ⟨את⟩ mo nokku mun.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "ɓee ummiima faade jamma"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "Yimɓe Ashdod"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ƴoƴre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "liiɗi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ley"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fewre"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sannde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe natti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ruttitini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "nokku mun"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:38.071458600Z",
+  "model": "glm-5.3"
+}

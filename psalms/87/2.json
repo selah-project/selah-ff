@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 87,
+  "translation": "Yaawe yiɗi dame Siyon ɓuri denɗe fuu Yaakub.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dame"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ɓuri ... fuu"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "denɗe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakub"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:05.832751773Z",
+  "model": "glm-5.3"
+}

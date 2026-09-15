@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yettooree Yaawe, konuuli makko fuu; ballooje makko, ɓe gonduɗe e muñal makko.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Yettooree"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "konuuli makko"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ballooje makko"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ɓe gonduɗe"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "e muñal makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:34.762584084Z",
+  "model": "glm-5.3"
+}

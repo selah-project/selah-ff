@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Laamɗo Israyail yalti, fiyi ⟨את⟩ pucci ɗin e ⟨את⟩ kuutorɗe ɗin, o fiyi Aram mbarja mawndu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyail"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci ɗin"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "pucci ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe ɗin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kuutorɗe ɗin"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mbarja"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mawndu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:26.813438372Z",
+  "model": "glm-5.3"
+}

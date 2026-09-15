@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Mosheh yamiri ⟨את⟩ ɓiɓɓe Israayiil e dow daande Yaawe, wiyude: nii kabile ɓiɓɓe Yuusufa kaalata.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israayiil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kabile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "kaalata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:31.258290913Z",
+  "model": "glm-5.3"
+}

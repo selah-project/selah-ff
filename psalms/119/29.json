@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Laawol fenaande nden momtu e am, e Tora maa yorru am.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "momtu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "e Tora maa"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "yorru am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:53.950873888Z",
+  "model": "glm-5.3"
+}

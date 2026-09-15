@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yahuusuuwa on barakii mo, o hokki ⟨את⟩ Hebron wondu Kalaaɓe ɓiy Yefunnee nge ndonu.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "on barakii mo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuusuuwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o hokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "wondu Kalaaɓe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunnee"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "nge ndonu"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:43.295657384Z",
+  "model": "glm-5.3"
+}

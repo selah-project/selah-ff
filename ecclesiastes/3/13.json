@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kadi kala neɗɗo ñaamata e yaratata, o yi'ata moƴƴere e kala makko caɗeele — ɗum dokkal Eloohim ko.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "yaratata"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "yi'ata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "makko caɗeele"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:38.779676717Z",
+  "model": "glm-5.3"
+}

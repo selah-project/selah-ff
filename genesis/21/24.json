@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Awraham wi'i: “Kanko mi, mi maa huco.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "mi maa huco"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:20.956667425Z",
+  "model": "glm-5.3"
+}

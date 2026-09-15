@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Hol to ⟨en⟩ woni e am e kammuuli? E maaɗa mi njiɗaaki hay alɗo e leydi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hol to"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "njiɗaaki"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mi njiɗaaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:12.928356674Z",
+  "model": "glm-5.3"
+}

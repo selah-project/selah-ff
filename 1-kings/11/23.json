@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Eloohim umminii mo vastaajo: ⟨את⟩ Reson ɓiy Elyadaa, mo dogi e ⟨את⟩ yimɓe Hadadezer laamɗo Suwaa, joomu mun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "umminii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "vastaajo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reson ɓiy Elyadaa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Reson"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyadaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Suwaa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:03.997508020Z",
+  "model": "glm-5.3"
+}

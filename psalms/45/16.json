@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ɓe addana bee mballa e weerndu, ɓe naata e suudu laamɗo on.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ɓe addana"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "bee mballa"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "e weerndu"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ɓe naata"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:28.191145785Z",
+  "model": "glm-5.3"
+}

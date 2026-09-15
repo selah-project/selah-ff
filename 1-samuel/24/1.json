@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Dawuudi ummiima ɗoon, o jooɗi e sorde En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗi"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "e sorde"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:25.380151135Z",
+  "model": "glm-5.3"
+}

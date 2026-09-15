@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i e Gehaasi, suka makko: “Noddu Shunamitde ndee.” O noddi nde, nde darii yeeso makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehaasi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "suka makko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Noddu"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "Shunamitde"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "nde darii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:26.616644335Z",
+  "model": "glm-5.3"
+}

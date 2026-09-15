@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Fii yoowo jimre, mizmoor Daawuuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo jimre"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:42.988192686Z",
+  "model": "glm-5.3"
+}

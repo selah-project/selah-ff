@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Balɗe ɗen fof pine am ina darii yeeso am, hoyre mandatamndi am ina ruufnii am.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "היום",
+      "gloss": "balɗe ɗen"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "pine am"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "hoyre mandatamndi am"
+    },
+    {
+      "surface": "פני",
+      "gloss": "am"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ina ruufnii am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:15.474020966Z",
+  "model": "glm-5.3"
+}

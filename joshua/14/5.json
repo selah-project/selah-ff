@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "No Yaawe wamri ⟨את⟩ Moshe nii, ko nii ɓiɓɓe Israa'iila ngollu, ɓe pecciti ⟨את⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "no…nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ngollu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "ɓe pecciti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:17:28.736702359Z",
+  "model": "glm-5.3"
+}

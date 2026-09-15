@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wata a ɗuumtu e ruuhu maa goreede, tawa kuddo e nder ɓalndu wumbooji ena foofta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "a ɗuumtu"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "e ruuhu maa"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "goreede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kuddo"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "e nder ɓalndu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wumbooji"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ena foofta"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:41.505307329Z",
+  "model": "glm-5.3"
+}

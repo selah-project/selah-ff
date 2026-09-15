@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Tawi o haalata ɗoon, yee, Yonatan ɓiy Abiyatar jaaginoowo on arii; Adoniyahu wi'i: “Aru, maa a neɗɗo doole, a addana kabaar moƴƴo.”",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "tawi o ... ɗoon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "haalata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "yee"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "jaaginoowo on"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "a addana kabaar"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:48.124460831Z",
+  "model": "glm-5.3"
+}

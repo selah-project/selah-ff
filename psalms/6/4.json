@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi neiɗel am ngartii no feewi; kono a, Yaawe, haa nde?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "kadi neiɗel am"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ngartii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:25.397908929Z",
+  "model": "glm-5.3"
+}

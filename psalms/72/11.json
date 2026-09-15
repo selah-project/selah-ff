@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Ɓe ngonnay teddingu-fuɗɗo lamuɓe fuu; leƴƴi fuu mbaɗan mo gollal.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe ngonnay teddingu-fuɗɗo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "lamuɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "leƴƴi fuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": ""
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "mbaɗan mo gollal"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:24.884208332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O woodunoo rewɓe tedduɓe jeeɗiɗi teemedde, e pilagesji tati teemedde; rewɓe makko ɗin ndartinoo ⟨את⟩ ɓernde makko nden.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tuma nden o woodunoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "tedduɓe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "pilagesji"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ndartinoo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "rewɓe makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde makko nden"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:49.528002812Z",
+  "model": "glm-5.3"
+}

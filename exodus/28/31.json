@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Maaɗ waɗ ⟨את⟩ wuddere epod on, nden wona fuu e tekellet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Maaɗ waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere epod on"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "epod on"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekellet"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:32.821513448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yettooree Yaawe, golle makko fuu, e nokkuuje laamu makko fuu; yetto, jondunde am, ⟨את⟩ Yaawe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Yettooree"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "golle makko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "nokkuuje"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "yetto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jondunde am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:34.762979979Z",
+  "model": "glm-5.3"
+}

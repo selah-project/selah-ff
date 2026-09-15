@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Daande Yaawe ina doga luuɗe yiite.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ina doga"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "luuɗe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:11.260566688Z",
+  "model": "glm-5.3"
+}

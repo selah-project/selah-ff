@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "O winndi binndi e innde Ahab, o seeli ɗe e seese makko, o neldi binndi ɗen to mawɓe ɓen e tedduɓe ɓe nguuri e wuro makko, ɓe hoɗɓe e ⟨את⟩ Nabot.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "O winndi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "binndi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "o seeli"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "e seese makko"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "binndi ɗen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mawɓe ɓen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "tedduɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "e wuro makko"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    }
+  ],
+  "timestamp": "2026-09-14T07:25:15.265925739Z",
+  "model": "glm-5.3"
+}

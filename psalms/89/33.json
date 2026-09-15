@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Mi ñaawirta mbonaaji maɓɓe e lorde, e tooñɓe maɓɓe e duƴƴe.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "mi ñaawirta"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "e lorde"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "mbonaaji maɓɓe"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "e duƴƴe"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "tooñɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:00.678969347Z",
+  "model": "glm-5.3"
+}

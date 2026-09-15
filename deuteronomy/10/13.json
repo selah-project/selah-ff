@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ngam reende ⟨את⟩ peresi Yaawe e ⟨את⟩ laabi mun ɗi mi wi'a on ñalnde nden, fii moƴƴere mon.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "Ngam reende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peresi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "peresi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laabi mun"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "laabi mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "wi'a on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde nden"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "fii moƴƴere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:59.950261585Z",
+  "model": "glm-5.3"
+}

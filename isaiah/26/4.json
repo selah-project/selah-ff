@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Hoolii e Yaawe haa e duumiidum, sabu e Yaah Yaawe woni kaaɲo duumiingo.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "hoolii"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "עד",
+      "gloss": "duumiidum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "e Yaah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaaɲo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "duumiingo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:38.773653540Z",
+  "model": "glm-5.3"
+}

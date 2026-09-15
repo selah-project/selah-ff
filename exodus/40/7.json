@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "E aaday ⟨את⟩ saare ndee haknde Layngu Kawral nguu e jaalta o; aaday ton ndiyam.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "aaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saare ndee"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "saare ndee"
+    },
+    {
+      "surface": "בין",
+      "gloss": "haknde"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Layngu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kawral"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaalta o"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "aaday"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:21.742136357Z",
+  "model": "glm-5.3"
+}

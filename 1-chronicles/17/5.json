@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Sabu mi duumaaki e suudu, gila ñalnde nde mi addi ⟨את⟩ Yisraa'iil, haa ñalnde hannde ndee; mi woniino ko e demal haa e demal, e e nder takkuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mi duumaaki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "mi addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mi woniino"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "e demal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "demal"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "e e nder takkuru"
+    }
+  ],
+  "timestamp": "2026-09-14T11:02:13.285366130Z",
+  "model": "glm-5.3"
+}

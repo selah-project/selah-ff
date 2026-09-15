@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Ɓe halkaama to En-Dor; ɓe laati dinngel ngam leydi ⟨ndin⟩.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Ɓe halkaama"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "to"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe laati"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "dinngel"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ngam leydi ⟨ndin⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:41.318954933Z",
+  "model": "glm-5.3"
+}

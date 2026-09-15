@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ko hommbo ɗum, laamɗo mawninaango on? Yaawe, wowruɗo e jaambaaro; Yaawe, jaambaaro hare.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "mawninaango on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "wowruɗo"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "e jaambaaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "jaambaaro"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hare"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:05.279226585Z",
+  "model": "glm-5.3"
+}

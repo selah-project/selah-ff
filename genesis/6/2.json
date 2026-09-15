@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓiɓɓe Eloohim ɓen ndiyi ⟨את⟩ ɓiɗɓe rewɓe aadanɓe ɓen, tawa ɓe moƴƴii, ɓe ƴetti rewɓe woɗɓe, e kala ɓe cuɓii.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ndiyi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe rewɓe aadanɓe ɓen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɗɓe rewɓe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "moƴƴii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe ƴetti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe woɗɓe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "cuɓii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:06.969710109Z",
+  "model": "glm-5.3"
+}

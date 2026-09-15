@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ kodo on o taƴii e tonngoote mun, Musa ƴoƴɓini ⟨את⟩ hoore nden e ⟨את⟩ tonngoote ɗen e ⟨את⟩ ceendu ndun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kodo on"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kodo on"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "o taƴii"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "e tonngoote mun"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "Musa ƴoƴɓini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore nden"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hoore nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tonngoote ɗen"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "tonngoote ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ceendu ndun"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ceendu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:45.231755924Z",
+  "model": "glm-5.3"
+}

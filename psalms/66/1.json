@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Fii ɗum ardinta — wiɗo, mizmor. Dewnu-ɗon fii Eloohim, leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii ɗum ardinta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wiɗo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "dewnu-ɗon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "fii Eloohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:41.345336260Z",
+  "model": "glm-5.3"
+}

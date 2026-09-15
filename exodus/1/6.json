@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yosef maayi, e miñiraaɓe mun fuu, e dorde nden fuu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe mun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dorde nden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndeen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:23.961447432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si o naatii e hoore mun, e hoore mun o yaltata; si jom debbo ko o, debbo mun yaltata e makko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o naatii"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o yaltata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "jom"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "yaltata"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:17.924742605Z",
+  "model": "glm-5.3"
+}

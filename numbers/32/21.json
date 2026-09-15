@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Kala gorko mooftuɗo cofa fuu ina yawoya ⟨את⟩ Yarden ka yeeso Yaawe, haa o ruttinana ⟨את⟩ gaññiiɓe makko ka yeeso makko.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ina yawoya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "gorko mooftuɗo cofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "o ruttinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaññiiɓe makko"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "gaññiiɓe makko"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:53.861507249Z",
+  "model": "glm-5.3"
+}

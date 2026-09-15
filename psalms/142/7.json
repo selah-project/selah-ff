@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Eeo nano am, mbonii-mi no feewi; hisnii am e ɓe ndiɗɗinmi; ɓe ɓuri lam sembe.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Eeo nano am"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "רנתי",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbonii-mi no feewi; (nde)"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "mbonii-mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hisnii am"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "e ɓe ndiɗɗinmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(nden)"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ɓe ɓuri lam sembe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.413950500Z",
+  "model": "glm-5.3"
+}

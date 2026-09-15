@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O neldi e maɓɓe putteendi yitere mun — murha, e muurngol, e caɗeele — neldugol nulaaɓe bonɓe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "putteendi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "yitere mun"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "murha"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "e muurngol"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "e caɗeele"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "neldugol"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "nulaaɓe"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bonɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:59.635537050Z",
+  "model": "glm-5.3"
+}

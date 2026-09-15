@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "'Nano yah; kadi mi tawo maa wona e daande maa, mi maa janngina ma ko maa haaltu.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kadi mi tawo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "maa wona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "mi maa janngina ma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "maa haaltu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:57.107928558Z",
+  "model": "glm-5.3"
+}

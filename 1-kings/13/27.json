@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O wiyi ɓiɓɓe mum ko woni: Paddanee ⟨את⟩ bimmbi am ngol; ɓe paddani ngol.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "o wiyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "paddanee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimmbi am ngol"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "bimmbi am ngol"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ɓe paddani ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:30.429808388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Ñalɗi cukaagu makko a ɓennitii, a wuddi mo e yaaka. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "a ɓennitii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "cukaagu makko"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "a wuddi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "e yaaka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:11.440037230Z",
+  "model": "glm-5.3"
+}

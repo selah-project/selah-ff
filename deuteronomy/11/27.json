@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Barka ⟨את⟩ on, si ⟨את⟩ nanotoɗon cmd-yeeso Yaawe Eloohim mon, ɗi min noddata on ñalnde heere.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barka on"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barka on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nanotoɗon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "cmd-yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "noddata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde heere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:25.911215747Z",
+  "model": "glm-5.3"
+}

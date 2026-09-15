@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɓe fuu nguli no tulngo, ɓe ñaami ⟨את⟩ ñaawooɓe maɓɓe; laamɓe maɓɓe fuu na'i; alaa mo noddata e am e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Ɓe fuu"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "nguli"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "no tulngo"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawooɓe maɓɓe"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ñaawooɓe maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "laamɓe maɓɓe"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mo noddata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:55.415059234Z",
+  "model": "glm-5.3"
+}

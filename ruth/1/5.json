@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Maahlon e Kilyon ɓeeɗoo ɗiɗo fay kadi maayi; debbo on heddiiimmo e ɓiɓɓe mun ɗiɗo ɓen e gorko mun on.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗiɗo ɓee"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "e Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "heddiiimmo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "משני",
+      "gloss": "e ɗiɗo"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "e gorko mun on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:09.902347496Z",
+  "model": "glm-5.3"
+}

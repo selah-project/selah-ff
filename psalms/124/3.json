@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Oo sahaa ɓe meɗɗinoo-min e nguurndam, tuma nde muuɗal maɓɓe ƴeewnoo e amen,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "oo sahaa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "e nguurndam"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ɓe meɗɗinoo-min"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "tuma nde … ƴeewnoo"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "muuɗal maɓɓe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:36.085592248Z",
+  "model": "glm-5.3"
+}

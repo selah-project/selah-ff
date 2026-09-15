@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Dewnu fii Yaawe, e muñɗo fii makko; wata a ɓuurnu e kulholla sabu balluɗo laawol mun, walla sabu neɗɗo waɗoowo peeje bonɗe.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Dewnu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "e muñɗo fii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "a ɓuurnu e kulholla"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "sabu balluɗo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "walla sabu neɗɗo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗoowo"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "peeje bonɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:22.370513523Z",
+  "model": "glm-5.3"
+}

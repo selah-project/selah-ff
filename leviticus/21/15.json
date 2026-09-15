@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wanaa o lefol ɓiɓɓe mun e nder yimɓe mun; sabo miin mi Yaawe, mo laaɓtina mo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "o lefol"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "e nder yimɓe mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "mo laaɓtina mo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:47.497641017Z",
+  "model": "glm-5.3"
+}

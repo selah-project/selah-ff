@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Sabu kelme arii e ɗuuɗugol gollal, honde no daande o wumri woniri e ɗuuɗugol konngi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "kelme"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɗuuɗugol"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "gollal"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "honde no daande"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "o wumri on"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɗuuɗugol"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konngi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:13.304425105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi weltinay hoore am e amarge maa, ɗe mi muuyi.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "mi weltinay hoore am"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "e amarge maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi muuyi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:00.559522475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kaɓirɗi ɗiin fuu — kaŋe e kaalis — ko ujunere joyi e teemedere nayi; ɗiin fuu Sheshbatsar ɗaɓɓiti yeeso e ummital eggugol ngol ummoraade Babilon fayde Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaɓirɗi"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "joyi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ujunere"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e nayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ɗiin fuu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɗaɓɓiti yeeso"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Sheshbatsar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "ummital"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "eggugol ngol"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ummoraade Babilon"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "fayde Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:59.468377522Z",
+  "model": "glm-5.3"
+}

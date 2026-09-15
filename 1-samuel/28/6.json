@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Shaul naamnii Yaawe, kono Yaawe jaabaani mo — wanaa e koorkitte, wanaa e Uuriim, wanaa e annabaaɓe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "naamnii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yaawe (e)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... jaabaani"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "jaabaani mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "e koorkitte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "e Uuriim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "e annabaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:08.087426186Z",
+  "model": "glm-5.3"
+}

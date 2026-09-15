@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Baruki a nde naatata, e baruki a nde yaltata.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "baruki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "nde naatata"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "e baruki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nde yaltata"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:00.374952997Z",
+  "model": "glm-5.3"
+}

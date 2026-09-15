@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "No lewru nii ⟨o⟩ demmitinaama haa duumi, kadi ⟨ko⟩ seedee goonguɗo ⟨e nder⟩ kammu. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "no lewru nii"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "demmitinaama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadi seedee"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "e kammu"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "goonguɗo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:34.628436162Z",
+  "model": "glm-5.3"
+}

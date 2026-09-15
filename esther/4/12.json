@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓe kelaani Mordekay ⟨את⟩ konngi Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ɓe kelaani"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:58.545611554Z",
+  "model": "glm-5.3"
+}

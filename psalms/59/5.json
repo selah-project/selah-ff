@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Tawa alaa ɓuyyeere ɓe dawoye ɓe heblu hoore mun; ummito ngam heddaade am, e yi'u.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "tawa alaa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ɓuyyeere"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ɓe dawoye"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ɓe heblu hoore mun"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ngam heddaade am"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "e yi'u"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:30.129161976Z",
+  "model": "glm-5.3"
+}

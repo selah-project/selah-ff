@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Si a yiyi bimmbi moyɗo-ma nyaamo ina suddoo les nelal mun, a dartoto yo a yaltataa nde; yaltin, a yaltinay ⟨nde⟩ e makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a yiyi"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bimmbi"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "moyɗo-ma"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ina suddoo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "nelal mun"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "a dartoto"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "yo a yaltataa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "a yaltinay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:08.235563348Z",
+  "model": "glm-5.3"
+}

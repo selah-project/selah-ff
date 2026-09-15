@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yo leppi fenaaɗi ɗen muumɗu, ɗi kaalirti e nedɗo ñaawoowo oo oo, e mawnere e veraas.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "yo ɓe muumɗu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "leppi ɗen"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaaɗi"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "ɗi kaalirti"
+    },
+    {
+      "surface": "על",
+      "gloss": "e (kaalirɗi dow)"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nedɗo ñaawoowo oo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "e tooñannge"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "e mawnere"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "e veraas"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:50.380203276Z",
+  "model": "glm-5.3"
+}

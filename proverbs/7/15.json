@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Sabo ɗum mi yalti ngam heɓde maa; mi ɗaɓɓiri yeeso maa, mi heɓi-maa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "mi yalti"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ngam heɓde maa"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "mi ɗaɓɓiri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "mi heɓi-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:30.956019525Z",
+  "model": "glm-5.3"
+}

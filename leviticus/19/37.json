@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "On reenaa ⟨את⟩ cuuɗi am ɗin fuu e ⟨את⟩ ñaawirɗe am ɗin fuu, on waɗa ⟨את⟩ ɓe; miin Yaawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reenaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi am ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "cuuɗi am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawirɗe am ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawirɗe am"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "on waɗa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:27.401617217Z",
+  "model": "glm-5.3"
+}

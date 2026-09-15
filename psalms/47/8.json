@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Tawo laamɗo leydi ndin fuu ko Eloohim woni; woyee e faamru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "woyee"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "e faamru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:36.752712039Z",
+  "model": "glm-5.3"
+}

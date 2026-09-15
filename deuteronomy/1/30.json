@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe Eloohim mon, OO yahi ko yeeso mon, ko kanko o haɓata fii mon, hono no O waɗi e ⟨את⟩ on e Misrayim, yeeso gite mon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "OO yahi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ko yeeso mon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "o haɓata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hono no fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "e ⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "yeeso gite mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:35.379981919Z",
+  "model": "glm-5.3"
+}

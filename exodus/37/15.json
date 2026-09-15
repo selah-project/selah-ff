@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O waɗi ⟨את⟩ polle ɗen e leɗɗe aasiya, o leeni ⟨את⟩ ɗum en kaŋŋe, ngam nawde ⟨את⟩ lewru ndun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polle ɗen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "polle ɗen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "aasiya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "leeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum en"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngam nawde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewru ndun"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lewru ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:47.015571460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Muusaa arti to Yaawe, o wi'i: “Adonaay, ko honno noon waɗ-ɗaa bonannde e ɗemɗe ngoo? Ko honno noon neldu-ɗaa mi?”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Muusaa arti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honno noon"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "waɗ-ɗaa bonannde"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "e ɗemɗe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honno noon"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "neldu-ɗaa mi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:47.260972221Z",
+  "model": "glm-5.3"
+}

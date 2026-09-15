@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 110,
+  "translation": "Mizmoor fii Daawuda. Orakel Yaawe to Adonaay-am: “Jooɗo to ñaamo am, haa nde mi waɗtata toryoɓe maa jooɗorde koyɗe fii koyɗe maa.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "to Adonaay-am"
+    },
+    {
+      "surface": "שב",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "to ñaamo am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi waɗtata"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "toryoɓe maa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jooɗorde koyɗe"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "fii koyɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:45.858749858Z",
+  "model": "glm-5.3"
+}

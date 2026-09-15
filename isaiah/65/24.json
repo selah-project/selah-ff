@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Ko waɗetee: hade ɓe noddata, mi jaabata; tawi hannde ɓe wowloytoo, mi nanata.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko waɗetee"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hade"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ɓe noddata"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "mi jaabata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawi hannde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ɓe wowloytoo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi nanata"
+    }
+  ],
+  "timestamp": "2026-09-14T08:04:02.461437193Z",
+  "model": "glm-5.3"
+}

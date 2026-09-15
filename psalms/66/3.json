@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Wii-ɗon Eloohim: no njiyloto-ɗaa golle maa ɗen! E ɓural doole maa, noon-no ɓe ɓuuɓnata maa, ɓeen njiy-ɗaa maa ɗon.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "wii-ɗon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "njiyloto-ɗaa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "golle maa ɗen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "doole maa"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ɓe ɓuuɓnata maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ɓeen njiy-ɗaa maa ɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:41.347158705Z",
+  "model": "glm-5.3"
+}

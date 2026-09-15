@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ɓiɓɓe Shimon, e leƴƴi mun: Nemuel — leñol Nemuweliyankeeɓe; Yamin — leñol Yaminiyankeeɓe; Yakin — leñol Yakiniyankeeɓe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e leƴƴi mun"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Nemuweliyankeeɓe"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Yaminiyankeeɓe"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Yakiniyankeeɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:11.005746424Z",
+  "model": "glm-5.3"
+}

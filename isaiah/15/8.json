@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Nde layngol ngol ɗon wertina ⟨את⟩ keerol Mowab; dirtugol maɓɓe haa Eglayim, e Beer-Elim dirtugol maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "ɗon wertina"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "layngol ngol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keerol Mowab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "dirtugol maɓɓe"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "e Beer"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "dirtugol maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:44.246637780Z",
+  "model": "glm-5.3"
+}

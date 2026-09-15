@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "No golle maa ɗen keewi, Yaawe! Fuu ɗe mbaɗɗaa e ñeeñal; leydi ndin timbii e tagooreeje maa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "no...keewi!"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "keewi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "golle maa ɗen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "fuu ɗe"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "e ñeeñal"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mbaɗɗaa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tumbii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "tagooreeje maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:16.846527777Z",
+  "model": "glm-5.3"
+}

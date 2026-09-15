@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Toowu hoore maa, ñaawoowo leydi ndin; ñaawu yoŋkit dow mawnuɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "toowu hoore maa"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ñaawu yoŋkit"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "yoŋkit"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mawnuɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:07.214978191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Kanko o fiyi ⟨את⟩ Filistiinaɓe haa Gaasa e ⟨את⟩ keerol mum, kaŋŋe nden feewleteende haa wuro tabkinde.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinaɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinaɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "keerol mum"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "keerol mum"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "nden feewleteende"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "tabkinde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:34:47.821170227Z",
+  "model": "glm-5.3"
+}

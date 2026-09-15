@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E ⟨את⟩ kuuge pelle werlaaji ɗin booyeeɓi, e ⟨את⟩ kuuge pelle tehashim ɗin, e ⟨את⟩ piteere kuuge ngun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "kuuge pelle werlaaji"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kuuge"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "werlaaji ɗin"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "booyeeɓi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuuge pelle tehashim"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kuuge"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tehashim ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "piteere kuuge ngun"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "piteere"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "kuuge ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:33.391601025Z",
+  "model": "glm-5.3"
+}

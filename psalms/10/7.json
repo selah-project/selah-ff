@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mulngol mun feewi e ñaaworɗe e fenaaji e luurɗe; les ɗemngal mun ko ceete e kaarfaare.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ñaaworɗe"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mulngol mun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "feewi e"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "e fenaaji"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "e luurɗe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ɗemngal mun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ceete"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e kaarfaare"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:15.115018104Z",
+  "model": "glm-5.3"
+}

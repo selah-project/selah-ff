@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kush wallitri ⟨את⟩ Nimrod; kanko o fuɗɗii wonude doole e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "e Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wallitri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fuɗɗii"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "wonude"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "doole"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:25.410188967Z",
+  "model": "glm-5.3"
+}

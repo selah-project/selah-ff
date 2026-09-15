@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yehonatan wuɓɓitii ⟨את⟩ wuddere nde wonnoo e mun, o hokki David — e comci mun, haa e mutti mun, haa e bocci mun, haa e cikkirde mun.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "wuɓɓitii"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere nde"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "wuddere nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "wonnoo e mun"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "o hokki mo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "e comci mun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "mutti mun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "bocci mun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "cikkirde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:29.541900076Z",
+  "model": "glm-5.3"
+}

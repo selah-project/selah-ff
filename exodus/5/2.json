@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Porŋo wi'i: \"Ko yaawe woni, noddu mi e daande makko, ngam ruddude ⟨את⟩ Israyiil? Mi anndaali ⟨את⟩ Yaawe, kammi ⟨את⟩ Israyiil mi ruddataa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Porŋo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko yaawe woni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "noddu mi"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "e daande makko"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ngam ruddude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kammi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mi ruddataa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:27.356488702Z",
+  "model": "glm-5.3"
+}

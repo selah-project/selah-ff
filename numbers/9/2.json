@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓiɓɓe Israa'iila ngalaa ⟨את⟩ Paska mun e saŋa mun laaɓtuɗo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngalaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "e saŋa mun laaɓtuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:38:09.255559559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Kono ⟨ɓe⟩ selluɓe ɓen mballitoy, ɓe weltu yeeso Eloohim, ɓe weltuya torla e weltaare.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "kono selluɓe ɓen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mballitoy"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ɓe weltuya torla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ɓe weltu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "e weltaare"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:03.266933510Z",
+  "model": "glm-5.3"
+}

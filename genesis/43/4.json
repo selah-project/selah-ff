@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "So tawa a neldi ⟨את⟩ miñi amen ⟨את⟩ min, min mitto, min soodata maa ñaameteeɗu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "So tawa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "a neldi"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñi amen"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "miñi amen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ min"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "min mitto"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "min soodata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaameteeđu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:02.280814943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "O adda ⟨את⟩ ɓe to almaami on; o ndokka ⟨את⟩ ɗum fii bakkatu gadanol, o fooƴa ⟨את⟩ hoore mun e ƴaande mun, kono o seerndaa ɗum.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "o adda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "o ndokka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum fii bakkatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "fii bakkatu"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "gadanol"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "o fooƴa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore mun"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ƴaande mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono wanaa"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "o seernda"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:05.011320839Z",
+  "model": "glm-5.3"
+}

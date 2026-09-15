@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Hissir-mi, Eloohim, sabu ndiyam njotti haa to nefes am.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "hissir-mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "njotti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa to"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:24.613769272Z",
+  "model": "glm-5.3"
+}

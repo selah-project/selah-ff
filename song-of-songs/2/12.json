@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Puɗi ɗen feeñii e leydi ndin, sahaa zamir on arii, daande tortoor nanetee e leydi amen.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "puɗi ɗen"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "feeñii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "zamir on"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "arii"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "התור",
+      "gloss": "tortoor"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nanetee"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "e leydi amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:35.708760549Z",
+  "model": "glm-5.3"
+}

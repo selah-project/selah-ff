@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Wirnagɗe deru mi ƴellitana-ma, e kuutol pawlɗi; mbaɗay na'i e paaɓe. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "wirnagɗe"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "deru"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi ƴellitana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kuutol"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "pawlɗi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mbaɗay"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "paaɓe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:56.027677986Z",
+  "model": "glm-5.3"
+}

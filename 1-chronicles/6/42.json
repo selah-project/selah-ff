@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E ɓiɓɓe Aharon ɓen ndokki ⟨את⟩ cuuɗi muusnanziizi ɗin: ⟨את⟩ Hevron e ⟨את⟩ Libna e ⟨את⟩ daawe mum ɗen, e ⟨את⟩ Yattir e ⟨את⟩ Eshetemoa e ⟨את⟩ daawe mum ɗen.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi muusnanziizi ɗin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "muusnanziizi ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daawe mum ɗen"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "daawe mum ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eshetemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshetemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "daawe mum ɗen"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "daawe mum ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:31.912944407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O weltay e kulol Yaawe; o ñaawataa e ko gite makko njiyi, o wanndataa e ko nanɗe makko nanndata.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "o weltay"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wonnaa"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "e ko njiyi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gite makko"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "o ñaawataa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wonnaa"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "e ko nanndata"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "nanɗe makko"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o wanndataa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:15.818763617Z",
+  "model": "glm-5.3"
+}

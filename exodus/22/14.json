@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si joomu mun wonii e mum, yo o yoɓa; si ⟨o⟩ gollotooɗo nanaa, o naatii e njoɓdi mun.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "joomu mun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yoɓ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "gollotooɗo nanaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatii"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "e njoɓdi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:12.206255311Z",
+  "model": "glm-5.3"
+}

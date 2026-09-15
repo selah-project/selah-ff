@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E junngo, fii Dawuuda. Naafoore wi'i nder ɓernde mun: “Eloohim alaa”; ɓe bonni, ɓe waɗi goreeji bonɗi, alaa baɗoowo moƴƴere.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "E junngo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuuda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "naafoore"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "nder ɓernde mun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ɓe bonni"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ɓe waɗi goreeji bonɗi"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baɗoowo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:46.899221005Z",
+  "model": "glm-5.3"
+}

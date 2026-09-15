@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Miin Yaawe, Eloohim maa, baɗnoowo woɗɗinde maa e leydi Misrayim, e saare jokkuɓe.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baɗnoowo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "woɗɗini maa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jokkuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:50.028196237Z",
+  "model": "glm-5.3"
+}

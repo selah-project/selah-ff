@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "E ⟨את⟩ gure maɓɓe fuu e nokkuuje jooɗorde maɓɓe, e ⟨את⟩ ballooji maɓɓe fuu, ɓe ƴucci ɗum e yiite.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gure maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "gure maɓɓe"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "e nokkuuje jooɗorde maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ballooji maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ballooji maɓɓe"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ɓe ƴucci ɗum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:32.998729812Z",
+  "model": "glm-5.3"
+}

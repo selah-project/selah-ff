@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E innde mun wi'etee nder Israa'iila: Suudu on yoɓaaɗe sangu mun.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "wi'etee"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nder Israa'iila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Suudu"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "yoɓaaɗe"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sangu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:10.357753431Z",
+  "model": "glm-5.3"
+}

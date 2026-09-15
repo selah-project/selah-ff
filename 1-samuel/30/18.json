@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Dawuuda hisni ⟨את⟩ fuu ɗi ⟨את⟩ Amalek joginoo; ɗiɗo rewɓe makko ɗin kadi Dawuuta hisni ɗi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "hisni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗi Amalek joginoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "joginoo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗiɗo rewɓe makko ɗin"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "rewɓe makko ɗin"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hisni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuta"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:32.569001089Z",
+  "model": "glm-5.3"
+}

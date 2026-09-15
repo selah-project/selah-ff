@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Nde Efrayim haalirta, kulol wonnoo; kanko o toowii e Israya'iila; kono o bonii e Baal, o maayi.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Nde...haalirta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israya'iila"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "o bonii"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "e Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:14.945070676Z",
+  "model": "glm-5.3"
+}

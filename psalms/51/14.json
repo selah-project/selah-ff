@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Artir am weltaare njangu maa, e ruuhu moyyingol ndu balla am.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Artir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "njangu maa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e ruuhu"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "moyyingol"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "balla am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:05.710195174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ittu ɗaɓɓere maa nden e am; e nder muñal junngo maa ngol mi majjii mi gasii.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ittu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ɗaɓɓere maa nden"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "muñal"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa ngol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mi majjii mi gasii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:17.998913657Z",
+  "model": "glm-5.3"
+}

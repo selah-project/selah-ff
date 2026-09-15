@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Kono wata a naatu e ñaawoore ⟨את⟩ maccuɗo maa; sabu wonnde yeeso maa ɓeydataa laaɓal neɗɗo wuuruɗo hay gooto.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Kono wata"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a naatu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo maa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "maccuɗo maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu wonnde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wataa"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ɓeydataa laaɓal"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "haysi gooto"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuuruɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:47:38.626210751Z",
+  "model": "glm-5.3"
+}

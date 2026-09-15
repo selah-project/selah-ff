@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɗen keeri mun ngoni: Helkata, Hali, Beten e Akshaaf.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "keeri mun"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkata"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "e Hali"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "e Beten"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "e Akshaaf"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:26.407989898Z",
+  "model": "glm-5.3"
+}

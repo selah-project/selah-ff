@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Dan e Naftali, Gaad e Asher.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "e Naftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e Asher"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:15.745128473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "A leeli niɓɓere, nden nden wata jemma; e nder mun kala daaba ladde nden ndillora.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "A leeli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓere"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nden wata"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e nder mun"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ndillora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "daaba"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ladde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:27.578320214Z",
+  "model": "glm-5.3"
+}

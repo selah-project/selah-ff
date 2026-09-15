@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Gite kala ɗen moytinoo faade e maa, kanko a ndokka ɓe ⟨את⟩ nguura maɓɓe e waktu mun.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala ɗen ... fuu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "moytinoo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kanko a"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ndokka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguura maɓɓe"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nguura maɓɓe"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "e waktu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:05.246163021Z",
+  "model": "glm-5.3"
+}

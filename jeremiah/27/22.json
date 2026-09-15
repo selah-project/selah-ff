@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 27:22",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Ɓe mbooynaate Babilon, ɓe wonu ton haa ñalnde nde mi yilloyu ⟨את⟩ ɓe — ko Yaawe wi'i — mi ɓennitana ɓe, mi ruttana ɓe faade e ndee nokku.",
+  "tokens": [
+    {
+      "surface": "בבלה",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "יובאו",
+      "gloss": "Ɓe mbooynaate"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ɓe wonu ton"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "nde mi yilloyu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (kuuɗe ɗen)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ko Yaawe wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והעליתים",
+      "gloss": "mi ɓennitana ɓe"
+    },
+    {
+      "surface": "והשיבתים",
+      "gloss": "mi ruttana ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ndee nokku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T08:17:21.798213681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Chamor yeewtii ⟨את⟩ ɓe, wiyu: «Ngiyaw Sikem ɓiyum am ina himmo e ɓiɗɗo debbo mon on; njuɓɓu, ndokku ⟨את⟩ mo debbo mum.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "yeewtii"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiyum am"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "ina himmo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ngiyaw"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "e ɓiɗɗo debbo mon on"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "נא",
+      "gloss": "njuɓɓu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Dina)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo mum"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:55.640298990Z",
+  "model": "glm-5.3"
+}

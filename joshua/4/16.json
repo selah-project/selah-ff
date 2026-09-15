@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Wamro ⟨את⟩ almuɓɓe rewɓe ɗee, ɗonno ngaddi sanne seedagol ngol, mbafoo umaade e Yarden o.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "wamro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almuɓɓe rewɓe ɗee"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "almuɓɓe rewɓe ɗee"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ɗonno ngaddi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanne"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "seedagol ngol"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mbafoo umaade"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden o"
+    }
+  ],
+  "timestamp": "2026-09-14T06:09:51.753587906Z",
+  "model": "glm-5.3"
+}

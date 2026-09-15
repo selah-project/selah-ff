@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Konngi ɗin ɗi mi yamira maa hannde ɗon, ɓe jonoto ⟨e⟩ ɓernde maaɗa.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ɓe jonoto"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yamira maa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ɓernde maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:59.888943033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yaawe wi'i am: Ummu, yah yeeso yimɓe ɓen, ɓe naata ɓe ndona ⟨את⟩ leydi ndin nde mi fodaniinoo baabiraaɓe maɓɓe hokkude ɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Ummu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "yeeso (yahdu)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe naata"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ɓe ndona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi fodaniinoo"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hokkude"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:33.411822043Z",
+  "model": "glm-5.3"
+}

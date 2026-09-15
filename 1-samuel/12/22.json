@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Sabu Yaawe wanaa moyya ⟨את⟩ yimɓe mun fii innde mun nde mawnde, sabu Yaawe yi'i waɗde ⟨את⟩ on yo yimɓe fii mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "moyya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe mun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nde mawnde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yo yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:57:28.346258116Z",
+  "model": "glm-5.3"
+}

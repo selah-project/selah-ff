@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Daawuuda neldi to Yowaab: Neldu to am ⟨את⟩ Uuriyaa Hittinaajo on. Yowaab neldi ⟨את⟩ Uuriyaa to Daawuuda.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaa Hittinaajo on"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaa"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittinaajo on"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:51.602573947Z",
+  "model": "glm-5.3"
+}

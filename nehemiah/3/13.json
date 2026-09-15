@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 3:13",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "⟨את⟩ damal lowre ngal Haanun ɓeydi semmbe, e yimɓe Zanoah; ɓe mahi ngol, ɓe dariini dame maggal, piiɗe maggal e palɗe maggal, e ujunere ammaaji e nderddaari ndi haa e damal wittere ngal.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damal lowre ngal"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "lowre"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ɓeydi semmbe"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Haanun"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "Zanoah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בנוהו",
+      "gloss": "mahi ngo"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ɓe dariini"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "dame maggal"
+    },
+    {
+      "surface": "מנעליו",
+      "gloss": "piiɗe maggal"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "e palɗe maggal"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e ujunere"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "e nderddaari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "השפות",
+      "gloss": "wittere"
+    }
+  ],
+  "timestamp": "2026-09-14T10:47:14.777917135Z",
+  "model": "glm-5.3"
+}

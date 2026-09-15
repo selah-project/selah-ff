@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ɓe keɓi ⟨את⟩ wuddere Yuusufa, ɓe neɓɓi bucko puccu 'iige, ɓe loyi ⟨את⟩ wuddere nden e ƴiiƴam.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe keɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere Yuusufa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ɓe neɓɓi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bucko puccu 'iige"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "'iige"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ɓe loyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere nden"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "wuddere nden"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "e ƴiiƴam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:29.415081244Z",
+  "model": "glm-5.3"
+}

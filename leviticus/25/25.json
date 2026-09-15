@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Si miñi maa ruttii e baasal o soodi jeyi mun ngal, Fooyuɗo mun ɗowɗo on ariima o foyyi ⟨את⟩ ko miñi mun soodi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "ruttii e baasal"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "o soodi"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "jeyi mun ngal"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ariima"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "Fooyuɗo mun"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ɗowɗo on"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kolte mun"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "o foyyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko miñi mun soodi"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "ko soodaa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:22.216886117Z",
+  "model": "glm-5.3"
+}

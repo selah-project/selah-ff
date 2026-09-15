@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe anndaa waɗde ko laaɓta, ko Yaawe wi'i; ɓe ngonnoo mooftuɓe tooñanal e wujjere nder cuuɗi laamɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɓe anndaa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ko laaɓta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ko ... wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ɓe ngonnoo mooftuɓe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tooñanal"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "e wujjere"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "nder cuuɗi laamɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:31:59.483639325Z",
+  "model": "glm-5.3"
+}

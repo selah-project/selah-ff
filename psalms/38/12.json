@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Ɓe njiɗ-ɓaaɓe am e sehilaaɓe am ina darii woɗɗite e ñawu am; e ɓadiiɓe am ngonti woɗɗuɓe.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ɓe njiɗ-ɓaaɓe am"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "e sehilaaɓe am"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "woɗɗite e"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ñawu am"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "darii"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "e ɓadiiɓe am"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "woɗɗuɓe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ngonti darii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:18.232411886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "O sasi leydi ndin dow jooɗorɗe mun; wanaa nde leroy haa duuɓi e haa abada.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "O sasi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "jooɗorɗe mun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "nde leroy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "haa duuɓi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:24.414954920Z",
+  "model": "glm-5.3"
+}

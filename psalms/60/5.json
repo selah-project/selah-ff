@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Hilli-ɗaa yimɓe maa ɓe njiyi saɗre; neh-ɗaa min yamre men ɓurtunde.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "hilli-ɗaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "saɗre"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "neh-ɗaa min"
+    },
+    {
+      "surface": "יין",
+      "gloss": "yamre"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "men ɓurtunde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:09.818346162Z",
+  "model": "glm-5.3"
+}

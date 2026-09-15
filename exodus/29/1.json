@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɗum ko konngol ngol mbaɗata e ⟨את⟩ maɓɓe fii laaɓtinde ɓe, fii waɗde ɓe yoƴƴuɓe am: mbaɗa ndiyam-naatooje goote ɗe ɓiɗɗo lo'ooji e waɗɗe ɗiɗo ɗe ŋakkuɗi hay huunde.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e ɗum"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "fii laaɓtinde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii waɗde yoƴƴuɓe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jooƴa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "naatooje"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "goote"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "lo'ooji"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "e waɗɗe ɗiɗo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ɗe ŋakkuɗi hay huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:43.423073722Z",
+  "model": "glm-5.3"
+}

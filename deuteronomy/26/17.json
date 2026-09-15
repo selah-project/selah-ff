@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "⟨את⟩ Yaaweɗan a wi'ii hannde, wonde ko kanko woni Eloohim maa, nde yahaa e laawol makko, nde renee hukkuuji makko ɗin e amirji makko ɗin e ñaawoore makko nden, nde nanee daande makko nden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "a wi'ii"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "nde yahaa"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "e laawol makko"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "nde renee"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hukkuuji makko ɗin"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "amirji makko ɗin"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ñaawoore makko nden"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "nde nanee"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "daande makko nden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:50:02.832521932Z",
+  "model": "glm-5.3"
+}

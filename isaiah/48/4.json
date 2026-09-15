@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Sabu mi anndi wonde a wiiɗi, a daande maa ⟨ko⟩ dowi njamndi, e ndoondi maa njamndi boɗeeri.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "sabu mi anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "a wiiɗi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "e dowi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "e ndoondi maa"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "njamndi boɗeeri"
+    }
+  ],
+  "timestamp": "2026-09-14T12:16:59.744591650Z",
+  "model": "glm-5.3"
+}

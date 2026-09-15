@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 45:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Baaba mum rewrude e ko non o neldi: pucci worɓe sappo nawruɓe ko ɓuri moƴƴude e Misra, e pucci rewɓe sappo nawruɓe generic e gerte e ñaamde fii baaba mum fii laawol ngol.",
+  "tokens": [
+    {
+      "surface": "ולאביו",
+      "gloss": "Baaba mum"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "rewrude e ko non"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "pucci worɓe"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nawruɓe"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ko ɓuri moƴƴude"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e Misra"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "pucci rewɓe"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "nawruɓe"
+    },
+    {
+      "surface": "בר",
+      "gloss": "generic"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e gerte"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "e ñaamde"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "fii laawol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:33.806945493Z",
+  "model": "glm-5.3"
+}

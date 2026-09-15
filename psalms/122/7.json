@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Salmaa wonu nder pane maa, deeƴre nder {$saraaji} maa.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salmaa"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "nder pane maa"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "deeƴre"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "nder saraaji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:48.554437354Z",
+  "model": "glm-5.3"
+}

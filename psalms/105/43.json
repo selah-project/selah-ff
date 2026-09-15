@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O yaltini yimɓe mun e weltaare, e wottinde ⟨את⟩ cuɓaaɓe mun.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "e weltaare"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "e wottinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuɓaaɓe mun"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "cuɓaaɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:21.775092193Z",
+  "model": "glm-5.3"
+}

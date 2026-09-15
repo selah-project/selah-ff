@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Ɓernde am nden ⟨ina⟩ darii, Eloohim; mi yimata, kadi mi waɗata jimre, hay teddungal am.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "darii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi yimata"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "kadi mi waɗata jimre"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hay"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "teddungal am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.565248596Z",
+  "model": "glm-5.3"
+}

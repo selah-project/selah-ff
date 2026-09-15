@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Noddu lam ñalnde caɗe; mi ñaawtortaa on, kanko on teddinay lam.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "noddu lam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "mi ñaawtortaa on"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "on teddinay lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:39.117959098Z",
+  "model": "glm-5.3"
+}

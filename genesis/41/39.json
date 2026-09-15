@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Paroh wi'i e Yuusufu: ɓaawo nde Eloohim anndini ⟨את⟩-ma ⟨את⟩ ɗum fuu, alaa faamutoowo e ganndo no ma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "anndini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩-ma",
+      "marks": "ma (Yuusufu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "faamutoowo"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "e ganndo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "no ma"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:31.536784416Z",
+  "model": "glm-5.3"
+}

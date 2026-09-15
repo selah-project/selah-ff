@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ñaawirayɓe Israa'iil ɓe mbattii ⟨את⟩ Baalim ɗin e ⟨את⟩ Ashtarot ɗin, ɓe gollanii ⟨את⟩ Yaawe tan.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ɓe mbattii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ñaawirayɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "habbe'elim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ha'ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarot ɗin"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe gollanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:37.291601210Z",
+  "model": "glm-5.3"
+}

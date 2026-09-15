@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Nde ɓe darii, ɗun darii; nde ɓe ɓeydii toowde, ɗun ɓeydii ⟨את⟩; sabu ruuhu nguurndu nduu ⟨woni⟩ nder maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "nde ɓe darii"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ɗun darii"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "nde ɓe ɓeydii toowde"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ɗun ɓeydii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nguurndu nduu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nder maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:37:43.914385510Z",
+  "model": "glm-5.3"
+}

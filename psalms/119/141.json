@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi famɗi, welsaa mi; kono pikkuɗe maa ɗen mi yiddaali.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "famɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "welsaa mi"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "pikkuɗe maa ɗen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yiddaali... walaa"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mi yiddaali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:07.086538896Z",
+  "model": "glm-5.3"
+}

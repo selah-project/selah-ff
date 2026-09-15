@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Eloohim laamiima dow leƴƴi ɗin; Eloohim jooɗiiima dow jooɗorde senaande mun.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗiiima"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "senaande mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:35.908767979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe wi'i to Muusaa: ƴeew, mi waɗii ma Eloohim faade e Fir'awn, kadi Aharon miñi maa wonata annabi maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mi waɗii ma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faade e Fir'awn"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kadi Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonata"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "annabi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:31.340693823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 70,
+  "translation": "Ɓe hoyro, ɓe muusno, ɓe ɗi ndaaru nguurndam am; ɓe ruttu ɓaawo, ɓe muusno, ɓe ɗi njiɗi bonannde am.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ɓe hoyro"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ɓe muusno"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ɓe ɗi ndaaru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ɓe ruttu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ɓe muusno"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ɓe ɣiɗi njiɗi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bonannde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:07.364226592Z",
+  "model": "glm-5.3"
+}

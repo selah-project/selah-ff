@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Laamɗo on wi'i mo: “No mbiiɗaa?” O wi'i: “Miɗo wi'a, mi debbo wuumɗo lam, gorko am maayii.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "מה",
+      "gloss": "No"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mbiiɗaa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Miɗo wi'a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wuumɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayii"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "gorko am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:54.083566720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Wanaa haa duumi a mbaɗata keloore ⟨e⟩ min, a durata ⟨nde⟩ haa dabare e dabare?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "wanaa haa duumi"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "a mbaɗata keloore"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "a durata"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "keloore maa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "haa dabare"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e dabare"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:33.384102794Z",
+  "model": "glm-5.3"
+}

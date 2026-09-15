@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe, mi yi'i hoɗorde suudu maa nden, e nokku suudu peeragol teddungal maa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa nden"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "suudu peeragol"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "teddungal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.150531606Z",
+  "model": "glm-5.3"
+}

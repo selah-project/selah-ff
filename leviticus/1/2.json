@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Haalan ɓiɓɓe Israayiil, wuudaa ɓe: neɗɗo kuɗo e mon addana korban Yaawe, ummoraade e daayeeji — e mbariiɗi e be'i — ɓe addana ⟨את⟩ korban mon.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wuudaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuɗo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "addana"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade e"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "daayeeji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mbariiɗi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "be'i"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ɓe addana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban mon"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "korban mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:05.540180385Z",
+  "model": "glm-5.3"
+}

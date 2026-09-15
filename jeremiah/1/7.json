@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i am: Wata a wi'ı 'suka mi woni'; sabu fuu ɗo mi nulata ɗum, a yahay; e ⟨את⟩ fuu ɗo mi yamirta ɗum, a haalanay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "a wi'ı"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi woni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fuu ɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "mi nulata ɗum"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "a yahay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu ɗo mi yamirta ɗum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mi yamirta ɗum"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "a haalanay"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:00.859742727Z",
+  "model": "glm-5.3"
+}

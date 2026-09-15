@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Mi waɗan dokkal makko duumi, e jookeere makko no ñalawe kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "dokkal makko"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "e jookeere makko"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no ñalawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:18.634503378Z",
+  "model": "glm-5.3"
+}

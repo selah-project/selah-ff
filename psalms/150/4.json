@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 150,
+  "translation": "Yettoy mo e tof e welli-ruŋŋo; yettoy mo e minnim e ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Yettoy mo"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "e tof"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "e welli-ruŋŋo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yettoy mo"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "e minnim"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "e ugav"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:28.337409824Z",
+  "model": "glm-5.3"
+}

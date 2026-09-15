@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Ko fii nde yimɓe leyɗe ɗen mbi'a: 'An, ko woni Eloohim mun?' Yeɗen nder yimɓe leyɗe ɗen, yeeso gite amen, njoɓgol ƴiiƴam jeyaaɓe maa ɗen ɗon ɓurtinaama ɗen.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ko fii nde"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yimɓe leyɗe ɗen"
+    },
+    {
+      "surface": "איה",
+      "gloss": "An, ko woni"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Yeɗen"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "nder yimɓe leyɗe ɗen"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "yeeso gite amen"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "njoɓgol"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɓe maa ɗen"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "ɗon ɓurtinaama ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:06.811157046Z",
+  "model": "glm-5.3"
+}

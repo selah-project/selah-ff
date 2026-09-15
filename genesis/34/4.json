@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Shekem haalani Hamor baaba mun, wiyu: Heɓanam ⟨את⟩ suka debbo ngoo fii debbo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "heɓanam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka debbo ngoo"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "suka debbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "fii debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:44.662011429Z",
+  "model": "glm-5.3"
+}

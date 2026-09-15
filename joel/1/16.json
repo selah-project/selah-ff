@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 1:16",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ee, ko yeeso gite amen ɗen ñaamri ƴettirii? A woppiri suudu Eloohim amen ndun mbeldi e dankeri?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ee, ... ko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "gite amen ɗen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamri"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ƴettirii"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a woppiri suudu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "mbeldi"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "e dankeri"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:29.048301084Z",
+  "model": "glm-5.3"
+}

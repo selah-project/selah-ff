@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kala maccuɗo neɗɗo, coodaaɗo kaalis, aɗa sunnina ⟨את⟩ mo, deve o ñaamoo nder mun.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "coodaaɗo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "aɗa sunnina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "deve"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamoo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nder mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:57.135571443Z",
+  "model": "glm-5.3"
+}

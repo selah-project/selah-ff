@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Ɓe jogotooɓe am ɗon ñaama am wuro ñalawma fuu, gongo taw keewi ɓe haɓondiroo e am, Toowɗo on.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ɓe ñaama am wuro"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "jogotooɓe am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gongo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "haɓondirooɓe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Toowɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:58.096867789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nden min reenu ⟨את⟩ fuu amaro ngaro, ko minen mi noddiri on hannde, fii min mbaawa semmbe, aroye nybbude, e jeytude ⟨את⟩ leydi ndin, nde ngonɗon naatnata ɗun fii jeytude ɗun.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "min reenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu amaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amaro ngaro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minen mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "noddiri on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "min mbaawa semmbe"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "aroye"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "nybbude e jeytude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ngonɗon"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "naatnata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "fii jeytude ɗun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:17.701954589Z",
+  "model": "glm-5.3"
+}

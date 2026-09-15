@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O neldi duumi e maɓɓe, ɗi ñaami ɓe; kadi buuli, ɗi halki ɓe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ɗi ñaami ɓe"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "kadi buuli"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ɗi halki ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:26.658715729Z",
+  "model": "glm-5.3"
+}

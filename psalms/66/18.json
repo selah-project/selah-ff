@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Bone, sin mi yi'i ⟨e nder⟩ ɓernde am, Adonaay naa nanata.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nanata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:48.170808132Z",
+  "model": "glm-5.3"
+}

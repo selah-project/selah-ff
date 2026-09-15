@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kohan on yamiray, o saakta ⟨את⟩ piɗo on gadano, e nder kaɓirgal pottital, dow ndiyam ɗam nguurndam.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "yamiray"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohan on"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "o saakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piɗo on"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "piɗo on"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "gadano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirgal"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "pottital"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ɗam nguurndam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:33.101724510Z",
+  "model": "glm-5.3"
+}

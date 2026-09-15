@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Hanuun jogii ⟨את⟩ maccuɓe Daawuuda ɓee, o juuɗi ɓe, o taƴii ⟨את⟩ comci maɓɓe ɗii feɓɓe haa eggere, o acci ɓe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogii"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɓe Daawuuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "o juuɗi ɓe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "o taƴii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci maɓɓe"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "comci maɓɓe"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "feɓɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "eggere"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "o acci ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:55.774129501Z",
+  "model": "glm-5.3"
+}

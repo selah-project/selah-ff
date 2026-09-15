@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i e ɓernde mun: “Eel danii, o suuɗii yeeso mun, o yi'aay haa abada.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "e ɓernde mun"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "o danii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "o suuɗii"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o yi'aay"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:51.401345484Z",
+  "model": "glm-5.3"
+}

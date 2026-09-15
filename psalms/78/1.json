@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Jannginirgel Asaaf. Nansen-yee, yimɓe am, tora am; tuuronitee ɗaƴɗe mon fii konngi muuɗum am.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Jannginirgel"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Nansen-yee"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora am"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "tuuronitee"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ɗaƴɗe mon"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "fii konngi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muuɗum am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:55.798272505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Mo cuuɗi laaɓɗi e ɓernde sellundi; mo ƴellitiraali ne'ɓe mun fii faande, wanaa fiiliiɗo nodeere.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "laaɓɗo"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "e sellundi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ƴellitiraali"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "faande"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ne'ɓe mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "fiiliiɗo"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "nodeere"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:20.998895981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Mosheh wannii ⟨את⟩ yimɓe ɓen ñalnde he nde, o wi'i:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wannii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "he nde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:37.189859823Z",
+  "model": "glm-5.3"
+}

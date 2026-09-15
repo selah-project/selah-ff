@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Suusol fii pucci, langol fii mbaalu, e korol fii ɓernde kesilɓe.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "suusol"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "fii pucci"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "langol"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "fii mbaalu"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "e korol"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "fii ɓernde"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kesilɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:03:32.846148640Z",
+  "model": "glm-5.3"
+}

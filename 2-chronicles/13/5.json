@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 13:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Abada on anndaa? Wonnde Yaawe, Eloohim Israa'iil, hokki laamu Daawuda dow Israa'iil duumiaye, to mun e ɓiɗɓe mun — nanondir mereum.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "abada"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "anndaade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumiaye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to mun"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e ɓiɗɓe mun"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nanondir"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "mereum"
+    }
+  ],
+  "timestamp": "2026-09-14T11:15:44.331319995Z",
+  "model": "glm-5.3"
+}

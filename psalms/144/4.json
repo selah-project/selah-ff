@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Neɗɗo nanndi e hay: ñalɗi makko ko hono folli rewotoondo.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Neɗɗo"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "e hay"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "nanndi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ñalɗi makko"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "hono folli"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "rewotoondo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.853777379Z",
+  "model": "glm-5.3"
+}

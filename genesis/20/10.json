@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kadi Avimelek wi'i e Awraham: ko njiyi-ɗaa, wano mbaɗ-ɗaa ⟨את⟩ haala ngoo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "njiyi-ɗaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wano"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mbaɗ-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala ngoo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:47.856627710Z",
+  "model": "glm-5.3"
+}

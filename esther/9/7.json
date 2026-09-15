@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ Parshandataa, e ⟨את⟩ Dalfon, e ⟨את⟩ Aspataa;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parshandataa"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandataa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dalfon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aspataa"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspataa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:39.155230140Z",
+  "model": "glm-5.3"
+}

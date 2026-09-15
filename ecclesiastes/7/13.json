@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yi'u ⟨את⟩ golle Eloohim ɗen, ko fii hommɓe waawi moƴƴinde ⟨את⟩ ɗum mo o bonnii?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Yi'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko fii"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommɓe"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "waawi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "moƴƴinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum mo o bonnii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum mo"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "o bonnii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:56.182960280Z",
+  "model": "glm-5.3"
+}

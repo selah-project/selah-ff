@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Rutteeɓe makko ngoni e ñaamo, dewbo makko ɓe muusaani.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "rutteeɓe makko"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "dewbo makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe muusaani"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ɓe muusaani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:12.372086478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "⟨את⟩ ɗoo fuu mi yi'i, kadi mi waɗii ⟨את⟩ ɓernde am e kala golle ɗe mbaɗetee les naange: sahaa mo neɗɗo laami neɗɗo, ngam bone makko.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "mi waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde am"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "mbaɗetee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "laami"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ngam bone"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:49.559919814Z",
+  "model": "glm-5.3"
+}

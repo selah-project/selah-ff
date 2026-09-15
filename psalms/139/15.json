@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Ɓalli am cuuɗaaka e maa; mi soɓɓaama e nder cuuro, mi paaldaama e lesji leydi ndin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cuuɗaaka"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "cuuɗii"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ɓalli am"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(rellante)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "soɓɓaama"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e nder cuuro"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "paaldaama"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "e lesji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:55.381058402Z",
+  "model": "glm-5.3"
+}

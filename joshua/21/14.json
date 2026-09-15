@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E ⟨את⟩ Yattir e ⟨את⟩ pallaaɗe mayre, e ⟨את⟩ Eshtemoa e ⟨את⟩ pallaaɗe mayre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaaɗe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaaɗe mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaaɗe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaaɗe mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:10.331690838Z",
+  "model": "glm-5.3"
+}

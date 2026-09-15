@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "min bakkii, min bonnii, min wursii, min fitinii, min cenii e jamirooje maa e ñaawoore maa.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "min bakkii"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "min bonnii"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "min wursii"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "min fitinii"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "min cenii"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "e jamirooje maa"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "e ñaawoore maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:38:40.984918530Z",
+  "model": "glm-5.3"
+}

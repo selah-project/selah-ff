@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yahuuta yamiri ⟨את⟩ yimɓe ɓen wondude: “Wata on ɓoŋta, wata on nanir ⟨את⟩ daande mon, konngol wanaa yalta e mun gena mon haa ñalnde nde mi wi'ete on: ‘Ɓoŋtee!’ — ndeen on ɓoŋtay.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuuta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "on ɓoŋta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata on"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "nanir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande mon"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "daande mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yalta"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "e mun gena mon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde nde"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mi wi'ete"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ɓoŋtee!"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "on ɓoŋtay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:45.062285718Z",
+  "model": "glm-5.3"
+}

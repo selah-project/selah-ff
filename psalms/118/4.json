@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 118,
+  "translation": "Wujuɓe ɗiɓbo Yaawe ɓen mbi'u: sabu haa duumiɗi hesed makko.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "mbi'u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Wujuɓe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ɗiɓbo Yaawe ɓen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiɗi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:14.765714739Z",
+  "model": "glm-5.3"
+}

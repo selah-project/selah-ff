@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ñeeñanon wonde Yaawe ceernii gooñɗo on fii makko; Yaawe nanay nde mi noddu mo.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ñeeñanon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ceernii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "gooñɗo on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nanay"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nde mi noddu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:42.904763265Z",
+  "model": "glm-5.3"
+}

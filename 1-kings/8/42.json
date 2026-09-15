@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Sabu ɓe nana ⟨את⟩ innde maa mawnde, e ⟨את⟩ junngo maa dungu ngun, e koyngal maa coorniingal, o ari o du'ii faade e ndee suudu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ɓe nana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde maa mawnde"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "junngo maa dungu ngun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "dungu"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "e koyngal maa"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "coorniingal"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "o du'ii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:53.977541687Z",
+  "model": "glm-5.3"
+}

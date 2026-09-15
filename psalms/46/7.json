@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Leƴƴi ɗin mbaɗii hawrna, laamuuji ɗin njogii; ⟨o⟩ umminii daande makko, leydi ndin jillondirii.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "mbaɗii hawrna"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "njogii"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamuuji ɗin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨o⟩ umminii"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "jillondirii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:55.031865204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Dewirɓe ɓen e Lewi'en laaɓtuɓe ko kanko'en, ngam ƴellitde ⟨את⟩ sandu Yaawe, Eloohim Israya'il.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "laaɓtuɓe ko kanko'en"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "dewirɓe ɓen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e Lewi'en"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ngam ƴellitde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'il"
+    }
+  ],
+  "timestamp": "2026-09-14T10:59:10.731117731Z",
+  "model": "glm-5.3"
+}

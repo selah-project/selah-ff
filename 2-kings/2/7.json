@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 2:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Woron capanɗe e ɓiɓɓe annabaaɓe ɓe njahi, ɓe darii ka yeeso maɓɓe e woɗɗude; ɓe ɗiɗo ɓen darii ka les Yardiin.",
+  "tokens": [
+    {
+      "surface": "וחמשים",
+      "gloss": "capanɗe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "woron"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ka yeeso"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "e woɗɗude"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "ɓe ɗiɗo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka les"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardiin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:32.611774979Z",
+  "model": "glm-5.3"
+}

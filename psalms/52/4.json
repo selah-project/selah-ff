@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Halkere ɗemngal maa ngal wi'ata; hono no puugor ɓuuɓnaama nii, a waɗo fenaande.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "halkere"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ngal wi'ata"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ɗemngal maa ngal"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "hono no puugor"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "ɓuuɓnaama"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a waɗo"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:32.756840988Z",
+  "model": "glm-5.3"
+}

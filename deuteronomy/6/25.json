@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi potndu-peewu ndu ⟨woni⟩ amen, tawi min njnettii waɗde ⟨את⟩ ɗoo fuu yamre nden yeeso Yaawe Eloohim amen, hono no O yamiri min nih.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Kadi potndu-peewu ndu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨woni⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "min njnettii"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo fuu yamre nden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗoo fuu"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "yamre nden"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "O yamiri min"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:01.260180592Z",
+  "model": "glm-5.3"
+}

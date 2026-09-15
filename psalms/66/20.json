@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Dewetee Eloohim, mo woppaali ñaajeere am, wanaa hesed mun ⟨את⟩ iwde e am.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dewetee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woppaali... naa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "woppaali \/ iwritii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ñaajeere am"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "wanaa hesed mun"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ iwde e am",
+      "marks": "hesed mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:48.173149092Z",
+  "model": "glm-5.3"
+}

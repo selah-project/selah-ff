@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe yejjiti wonde o waɗi ⟨את⟩ neɗɗo e leydi ndin, o muumni e ɓernde makko nden.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "yejjiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "o muumni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:07.197366422Z",
+  "model": "glm-5.3"
+}

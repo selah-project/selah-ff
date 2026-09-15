@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "No yimɓe ɓen ngoniri, non almuudo on wooday; mi ñaawndata ɗum laawɗi makko, kadi golle makko ɗen mi yooyay ɗum.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wooday"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "no yimɓe ɓen"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "non almuudo on"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "mi ñaawndata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "laawɗi makko"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "e golle makko ɗen"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mi yooyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:56:55.927955895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "⟨את⟩ bakkanje ngel gootel mbaɗa subaka; ⟨את⟩ bakkanje ngel ɗiɗaɓere mbaɗa hakkunde kikiiɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakkanje ngel gootel"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "bakkanje ngel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bakkanje ngel ɗiɗaɓere"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "bakkanje ngel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓere"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kikiiɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:29.963667075Z",
+  "model": "glm-5.3"
+}

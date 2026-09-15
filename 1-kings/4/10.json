@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ben-Chesed, to Arubbot; mo jogori Sokko e leydi Chefer fuu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "to Arubbot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:03.638129335Z",
+  "model": "glm-5.3"
+}

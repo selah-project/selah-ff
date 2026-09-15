@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wata a ƴetto ɓeydol on e mawni maa; ɓeydol kaalis, ɓeydol nguura, ɓeydol kala huunde yoolteende.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "a ƴetto ɓeydol on"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "e mawni maa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ɓeydol"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ɓeydol"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nguura"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ɓeydol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yoolteende"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:02.276112801Z",
+  "model": "glm-5.3"
+}

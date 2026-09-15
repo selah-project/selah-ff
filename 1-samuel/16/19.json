@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Sawul neldi nelaaɓe to Yishay, o wi'i: “Neldu am ⟨את⟩ Daawuda ɓiɗɗo maa, mo woni e pelle ɗen.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "nelaaɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "e pelle ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:19.253143619Z",
+  "model": "glm-5.3"
+}

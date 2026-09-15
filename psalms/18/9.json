@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nousiite ummi e ƴiiƴam mun, e yiite e haande mun ñaamata; gelooji gorkorii ko e mun.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "nousiite"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "e ƴiiƴam mun"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "e haande mun"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gelooji"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gorkorii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ko e mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:56.122321610Z",
+  "model": "glm-5.3"
+}

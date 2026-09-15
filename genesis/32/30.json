@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaakob naamndii, o wi'i: haalan mi toro innde maa. O wi'i: ko fii wonde ɗoo a naamndii innde am? O barkinii ⟨את⟩ mo ɗoon.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "o naamndii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toro"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii wonde"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "a naamndii"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o barkinii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:15.838234280Z",
+  "model": "glm-5.3"
+}

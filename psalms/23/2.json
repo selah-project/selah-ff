@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "E pewje huɗo booyɗo o fooɗinay lam; sara ndiyam deeƴɗam o fewnay lam.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "E pewje"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "huɗo booyɗo"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "o fooɗinay lam"
+    },
+    {
+      "surface": "על",
+      "gloss": "sara"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "deeƴɗam"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "o fewnay lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.101049411Z",
+  "model": "glm-5.3"
+}

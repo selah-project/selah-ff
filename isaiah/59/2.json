@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Kono ko bonndi mon ɗin cuurii mon e Eloohim mon, tondure mon ɗen cuuɗii yeeso makko e mon, wata o nano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "bonndi mon ɗin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ngoni⟩"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "cuurii"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "mon"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "e"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "tondure mon ɗen"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "cuuɗii"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "wata o nano"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:57.277156178Z",
+  "model": "glm-5.3"
+}

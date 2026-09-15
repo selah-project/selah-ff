@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moshe winndi ngal Tora ⟨את⟩, o hokki ɗum almuɓɓe sadaka ɓee, ɓiɓɓe Lewi, ɓe ngaddata ⟨את⟩ sanduku Yaawe ka jayre, e mawɓe Israa'iil ɓee fof.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "winndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngal Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "o hokki ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "almuɓɓe sadaka ɓee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ɓe ngaddata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ka jayre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:41.053499108Z",
+  "model": "glm-5.3"
+}

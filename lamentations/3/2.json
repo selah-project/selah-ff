@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O ardinii ⟨את⟩ mi, o yahdini mi e niɓɓere, wanaa e lewru.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ardinii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahdini"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "e niɓɓere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "e lewru"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:27.845415443Z",
+  "model": "glm-5.3"
+}

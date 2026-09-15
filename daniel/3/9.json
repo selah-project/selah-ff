@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe jaabii ɓe wi'i Nebukadnesar, laamɗo on: “Laamɗo, ngurdu haa duumii!”",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ɓe jaabii"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "haa duumii"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ngurdu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:36:14.940321760Z",
+  "model": "glm-5.3"
+}

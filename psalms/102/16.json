@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Leƴƴi ɗen na ngulɗo ⟨את⟩ innde Yaawe, e laamɓe leydi nden fow ⟨את⟩ mawninde-maa.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "na ngulɗo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde Yaawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fow"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawninde-maa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "mawninde-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:15.676610144Z",
+  "model": "glm-5.3"
+}

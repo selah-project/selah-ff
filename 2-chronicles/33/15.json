@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O itti ⟨את⟩ Eloohim yaasiɓe ɓen e ⟨את⟩ natal ngal ummoraade e suudu Yaawe, e mazbahaji fuu ɗi o mahi e tulde suudu Yaawe e Yerushalayim, o du’i ɗi yaasi wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "o itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim yaasiɓe ɓen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "yaasiɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "natal ngal"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "natal ngal"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ummoraade e suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mazbahaji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "o du’i"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wuro ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:27:07.756491286Z",
+  "model": "glm-5.3"
+}

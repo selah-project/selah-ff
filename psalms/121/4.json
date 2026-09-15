@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Ndaaree, o nelata wanaa o hintata — reenoowo Israayiila.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndaaree"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "nelata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "hintata"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "reenoowo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiila"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:39.742447421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E gardiiɗo jimɗi, e \"Al-mut labben\" — mizmor Daawuuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "e gardiiɗo jimɗi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Al-mut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "labben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:15.998808123Z",
+  "model": "glm-5.3"
+}

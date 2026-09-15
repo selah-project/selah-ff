@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Kono a yejjiti min, a bonnini min; a yalta wanaa e konuuli amen.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "a yejjiti"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "a bonnini min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a yalta"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "e konuuli amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:55.306184917Z",
+  "model": "glm-5.3"
+}

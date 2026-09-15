@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Arpakhshadaam dañi ⟨את⟩ Shelaah; Shelaah dañi ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakhshadaam"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Shelaah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:23.971650344Z",
+  "model": "glm-5.3"
+}

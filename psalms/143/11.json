@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Fii innde maa, Yaawe, wuurnit ⟨mi⟩; e gooŋŋin maa yaltin ⟨mi⟩ e muñaalle ngol neesfu am ⟨nin⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "wuurnit"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "e gooŋŋin maa"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "e muñaalle ngol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neesfu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:58.949606650Z",
+  "model": "glm-5.3"
+}

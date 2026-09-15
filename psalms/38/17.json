@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Kaba min wi'i: wata ɓe weltu e am; so koyngal am luukii, ɓe mawninii hoore maɓɓe e am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "min wi'i"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ɓe weltu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "so...luukii"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyngal am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "ɓe mawninii hoore maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:39.502328096Z",
+  "model": "glm-5.3"
+}

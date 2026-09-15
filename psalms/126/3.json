@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 126,
+  "translation": "Yaawe mawninii waɗde ko e min; min ngoniima weltuɓe.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "mawninii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ko e min"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "min ngoniima"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "weltuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:43.572201097Z",
+  "model": "glm-5.3"
+}

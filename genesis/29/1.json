@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Jaakob towi koyɗe mun, o yahri leydi ɓiɓɓe fuɗnaange.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "towi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe mun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahri"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fuɗnaange"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:57.343419551Z",
+  "model": "glm-5.3"
+}

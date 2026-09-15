@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɗemol ɓii-ɲaamirtu on ɗaɓɓitii e datho mun e yyooro; cukkuɗo ɗen ɗaɓɓata awo, kono walaa mo loowata ⟨ɓe⟩.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ɗaɓɓitii"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ɗemol"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ɓii-ɲaamirtu on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "datho mun"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "e yyooro"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "cukkuɗo ɗen"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ɓe ɗaɓɓata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "awo"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "mo loowata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:13.065749407Z",
+  "model": "glm-5.3"
+}

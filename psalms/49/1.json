@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Fii yoowoowo on — mizmor fii ɓiɓɓe Korah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowoowo on"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:53.007781588Z",
+  "model": "glm-5.3"
+}

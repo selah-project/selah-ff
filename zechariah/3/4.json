@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O jaabii, o wi'i e ɗo ɓe darii yeeso makko wanni: Momton comciilli ɓuraaɗi ɗin e dow makko. O wi'i mo: Yee, mi ittii bonndu maa e dow maa, mi ɓornan ⟨את⟩ maa comciilli tedduɗi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "o jaabii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wanni"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "momton"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "comciilli ɗin"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "ɓuraaɗi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yee"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "mi ittii"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "e dow maa"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bonndu maa"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "mi ɓornan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maa",
+      "marks": "comciilli tedduɗi"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "comciilli tedduɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:23.080196252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O memtii ɗum e haaje am, o wi'i: Ndeene, ɗum memtii e leppi maa, ndeen bonde maa momtaama, e bakkaatim maa cofaama.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "o memtii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haaje am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndeene"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "memtii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "leppi maa"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "momtaama"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "bonde maa"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "bakkaatim maa"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "cofaama"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:39.779362194Z",
+  "model": "glm-5.3"
+}

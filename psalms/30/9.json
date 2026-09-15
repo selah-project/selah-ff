@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "E maa, Yaawe, mi noddirta; e maa, Adonaay, mi ñaagirta yurme.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddirta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "mi ñaagirta yurme"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:23.705298978Z",
+  "model": "glm-5.3"
+}

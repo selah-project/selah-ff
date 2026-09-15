@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ñeeɗee, ndee tinndi noon, hooreeji galle Jaakob, e ardiiɓe galle Israayiil, ɓe ɓeydirta mispat-e njiyaagu, ɓe ɓuuɓnata ⟨את⟩ fof laaɓal ngal.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ñeeɗee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "noo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ndee tinndi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "e ardiiɓe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "ɓe ɓeydirta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "njiyaagu-mispat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fof laaɓal ngal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "laaɓal ngal"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "ɓe ɓuuɓnata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:27.366678002Z",
+  "model": "glm-5.3"
+}

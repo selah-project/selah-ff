@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ƴiɓɓe Ezraa ɓen ko Yeter, e Mered, e Efer, e Yalon; o heɓi reedu, o dañi ⟨את⟩ Miryam e ⟨את⟩ Shamay e ⟨את⟩ Yishbaax baaba Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ƴiɓɓe"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezraa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "e Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "e Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o heɓi reedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yishbaax"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbaax"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:45.022599145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mawɓe renndo ngoo fellinata ⟨את⟩ junnde maɓɓe dow hoore nagge ngal to yeeso Yaawe, o warrya ⟨את⟩ ngal to yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "ɓe fellinata"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "renndo ngoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde maɓɓe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "junnde maɓɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nagge ngal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "o warrya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagge ngal"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nagge ngal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:18.902157100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Kono mi woni sahaa fuu e maa; a nanngii juude ñaamo am.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono mi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa fuu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "a nanngii"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "juude"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ñaamo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:30.087728100Z",
+  "model": "glm-5.3"
+}

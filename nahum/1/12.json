@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko noon Yaawe wi'i: hay si ɓe timmii, e ko noon ɓe keewii, ko noon ɓe taƴaa, o yaltii; hay mi ƴiiɓinii maa, mi ƴiiɓinanaa maa tawo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay si"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ɓe timmii"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "e ko noon"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ɓe keewii"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "ɓe taƴaa"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "o yaltii"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "mi ƴiiɓinii maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "mi ƴiiɓinanaa maa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:22.793112772Z",
+  "model": "glm-5.3"
+}

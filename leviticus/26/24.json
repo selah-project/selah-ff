@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi yahat kadi miin e mon e kerii, mi fiyat ⟨את⟩ on — miin hoore am — jeenayi, fii bakkaatuuji mon.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mi yahat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "e kerii"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mi fiyat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin hoore am"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeenayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "bakkaatuuji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:55.586439210Z",
+  "model": "glm-5.3"
+}

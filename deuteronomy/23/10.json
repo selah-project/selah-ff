@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Si a yalti e kaampa fooftoɗo dow baawɓe maa ɗin, reen hoore maa e kala huunde bonnde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a yalti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "e kaampa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "baawɓe maa ɗin"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "reen hoore maa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:00.152591456Z",
+  "model": "glm-5.3"
+}

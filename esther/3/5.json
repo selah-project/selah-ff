@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Nde Haman yi'i wonde Mordekay suulaani wanaa suɓɓa ⟨mo⟩, Haman heewi yurme.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Nde ... yi'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "suulaani"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "suɓɓa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "heewi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "yurme"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:54.007973449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yaawe artirii ⟨את⟩ ngartu Iyob, nde o wanngata fii sehilaaɓe makko; Yaawe ɓeydi ⟨את⟩ kon ko Iyob mari, fii ɗiɗaɓere.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "artirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngartu Iyob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ngartu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "nde o wanngata"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fii"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehilaaɓe makko"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ɓeydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kon ko Iyob mari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iyob mari"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "fii ɗiɗaɓere"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:30.222930998Z",
+  "model": "glm-5.3"
+}

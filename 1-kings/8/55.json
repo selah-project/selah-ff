@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O darii, o yetti ⟨את⟩ kañum mbaraduuki Israa'iil, daande mawnde, wondude e mbi'ugol:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o yetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kañum mbaraduuki Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kañum"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "mbaraduuki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude e mbi'ugol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:46.490802405Z",
+  "model": "glm-5.3"
+}

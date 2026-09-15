@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "⟨את⟩ Ɓe ⟨את⟩ reenu kuutoraaji teenti kawtal on ⟨את⟩ fuu e reende ɓiɓɓe Israa'iila, ɓe golla golle ngoornirde nden.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ɓe reenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutoraaji... fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutoraaji"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "reende ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ɓe golla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle ngoornirde nden"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ngoornirde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:28.964683653Z",
+  "model": "glm-5.3"
+}

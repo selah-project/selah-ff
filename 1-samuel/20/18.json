@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yonatan wi'i mo: jaŋngo ko lewru-wuru, ɓe nana ɗaɓɓa maa, sababu jooɗorde maa ɓe nji'oyta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jaŋngo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru-wuru"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "ɓe nana ɗaɓɓa maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ɓe nji'oyta"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "jooɗorde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:53.952454516Z",
+  "model": "glm-5.3"
+}

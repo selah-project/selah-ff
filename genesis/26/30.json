@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "O waɗi ɓe balagol, ɓe ñaami, ɓe ngooñi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "balagol"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ɓe ngooñi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:22.630051139Z",
+  "model": "glm-5.3"
+}

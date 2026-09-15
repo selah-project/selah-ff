@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 44:18",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Pa'aaje colcu ɗen ngonata e hoore maɓɓe, e sarilaaji colcu ɗen ngonata e punndi maɓɓe; ɓe ɗaŋdataa e jugum.",
+  "tokens": [
+    {
+      "surface": "פארי",
+      "gloss": "pa'aaje"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "colcu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ngonata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hoore maɓɓe"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "e sarilaaji"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "colcu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ngonata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מתניהם",
+      "gloss": "punndi maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחגרו",
+      "gloss": "ɓe ɗaŋdata"
+    },
+    {
+      "surface": "ביזע",
+      "gloss": "e jugum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:55:39.577410479Z",
+  "model": "glm-5.3"
+}

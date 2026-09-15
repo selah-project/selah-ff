@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Jaakob ummi, o towi ⟨את⟩ ɓiɗɓe makko e ⟨את⟩ rewɓe makko dow gelooɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "owi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe makko"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɗɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "rewɓe makko"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "rewɓe makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "gelooɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:34.775370887Z",
+  "model": "glm-5.3"
+}

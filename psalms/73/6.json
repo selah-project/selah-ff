@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ɗum wa'i, mento ɓornorii ɓe no cikkol; mbaydi wakkere naaɓtii ɓe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ɗum wa'i"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "mento ɓornorii ɓe"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "no cikkol"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "naaɓtii"
+    },
+    {
+      "surface": "שית",
+      "gloss": "mbaydi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wakkere"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:02.742241476Z",
+  "model": "glm-5.3"
+}

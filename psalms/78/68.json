@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Kadi o suɓii ⟨את⟩ leñol Yahuuda, ⟨את⟩ tulde Sayiyoŋ nde o yi'i.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Kadi o suɓii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol Yahuuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulde Sayiyoŋ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sayiyoŋ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o yi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:36.428609989Z",
+  "model": "glm-5.3"
+}

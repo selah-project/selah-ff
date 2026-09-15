@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko waawataa waɗde e laamɗo rewɓe Wasti, e dow mayri nde o waɗaani ⟨את⟩ jamiroore laamɗo Ahashuwerosh e junnde teddinɓe ɓee?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "ko dow sariya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko waawataa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "e laamɗo rewɓe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow mayri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "o waɗaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamiroore"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "jamiroore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashuwerosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junnde"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "teddinɓe ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T10:30:33.385578135Z",
+  "model": "glm-5.3"
+}

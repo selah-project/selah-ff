@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Si mawniiko maa Ebraniyanke, walla Ebraniyankeso, soodataama maa, o gollan maa jeegom duuɓi; kono e duuɓi jeeɗiɗaɓiri ɗin neldaa mo dimmo, yaltuɗo e maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "soodataama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mawniiko maa"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "Ebraniyanke"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "Ebraniyankeso"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "o gollan maa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "kono e duuɓi"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "jeeɗiɗaɓiri ɗin"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "neldaa mo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "dimmo"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "yaltuɗo e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:52.058368225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Jaakob ummii egga Beer-Sheba; ɓiɓɓe Israa'iila ƴetti ⟨את⟩ Jaakob baaba mum en, e ⟨את⟩ cukkuɓe mum en, e ⟨את⟩ rewɓe mum en, e palaaje ɗe Fir'awna neldi ngam waddude ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "egga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beer-Sheba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob baaba mum en"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baaba mum en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "cukkuɓe mum en"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "cukkuɓe mum en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "rewɓe mum en"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "rewɓe mum en"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "e palaaje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngam waddude"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Jaakob)"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:19.489710404Z",
+  "model": "glm-5.3"
+}

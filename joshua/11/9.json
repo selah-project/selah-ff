@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yosuwa waɗi ɓe no Yaawe wi'i mun: ⟨את⟩ pucci maɓɓe o taƴi koyɗe, e ⟨את⟩ kolce maɓɓe o leli e yiite.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yosuwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci maɓɓe"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "pucci maɓɓe"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "o taƴi koyɗe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kolce maɓɓe"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "kolce maɓɓe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o leli"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T06:16:45.776715573Z",
+  "model": "glm-5.3"
+}

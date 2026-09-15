@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Nanon konngol ngol ngam ⟨את⟩ konngol ngol, ngam mi nannginan on yimoore fooftoornde, suudu Yisraa'iil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nannginan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "yimoore fooftoornde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:08.036720168Z",
+  "model": "glm-5.3"
+}

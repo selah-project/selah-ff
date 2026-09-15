@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mi lima ƴiye am ɗen fuu; kamɓe ɗoo njokku yi'annde, ɓe yi'i mi.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "mi lima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ƴiye am ɗen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe ɗoo"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "njokku yi'annde"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:48.313609842Z",
+  "model": "glm-5.3"
+}

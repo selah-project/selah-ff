@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yo renndo leƴƴi ɗin taaro maa; e dow maaje ƴellito to toowɗo.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "yo renndo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "taaro maa"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "e dow maaje"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "to toowɗo"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "ƴellito"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:21.643436819Z",
+  "model": "glm-5.3"
+}

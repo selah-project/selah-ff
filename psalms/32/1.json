@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Fii Daawuuda. Jannginirgel. Ndeenja mo peccagol mun ɗaɓɓiraa, baasi mun suddaa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fii Daawuuda"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Jannginirgel"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ndeenja mo"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "ɗaɓɓiraa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "peccagol mun"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "suddaa"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "baasi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:17.306666213Z",
+  "model": "glm-5.3"
+}

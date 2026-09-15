@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "e asal, e diidam, e baali, e kindiru na'i — ɓe njippiinani Daviida e yimɓe ɓe ⟨את⟩ woni e makko ngam ñaamde; ɓe wi'i: «Yimɓe ɗen naafoo, wowru, e yoorde, nder kayakol ngol.»",
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "e asal"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "e diidam"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e baali"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "e kindiru"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "ɓe njippiinani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daviida"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko",
+      "marks": "yimɓe ɓe"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "naafoo"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "wowru"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "e yoorde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder kayakol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:37.057886901Z",
+  "model": "glm-5.3"
+}

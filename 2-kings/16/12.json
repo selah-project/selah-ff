@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Laamɗo on arii ummoraade Dammasek, laamɗo on yi'i ⟨את⟩ daartorgal ngal, laamɗo on ɓadtii e daartorgal ngal, o waɗi qorba ɗooɗon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ummoraade Dammasek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daartorgal ngal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "daartorgal ngal"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ɓadtii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "daartorgal ngal"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o waɗi qorba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɗooɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:35.004019794Z",
+  "model": "glm-5.3"
+}

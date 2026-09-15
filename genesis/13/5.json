@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kadi Looto, yahduɗo ⟨את⟩ Awraham, ina woodani lamɗe e na'i e teenteene.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Looto"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yahduɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ina woodani"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lamɗe"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e na'i"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "e teenteene"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:08.416186568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Sabu walaa ɓuuɓri e maayde maɓɓe; jabgol ɓanndu maɓɓe ɗon huuɓtinee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "e maayde maɓɓe"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "jabgol huuɓtinaango"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ɓanndu maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:26.894159947Z",
+  "model": "glm-5.3"
+}

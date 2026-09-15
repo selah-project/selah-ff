@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Mosheh darii e damal kaampirde nden, o wi'i: Hommo jeyaa ko e Yaawe, o aru e am; ɓiɓɓe Leewi fuu kaɓɓiiti e makko.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "e damal"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampirde nden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe kaɓɓiiti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leewi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:46.405992748Z",
+  "model": "glm-5.3"
+}

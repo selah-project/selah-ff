@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "E maanduuje mun ɗen, Eloohim anndiraama woni luurburu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "e maanduuje mun ɗen"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "anndiraama"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "woni luurburu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:58.268416613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Min wi'i: naa min waɗu haray fii minen, mahde ⟨את⟩ madde nden — wanaa fii njuulgu ƴulngu, wanaa fii sadak.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "min wi'i"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "naa min waɗu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "haray"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fii minen"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madde nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "madde nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "njuulgu ƴulngu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sadak"
+    }
+  ],
+  "timestamp": "2026-09-14T06:21:23.615127576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ƴettu ⟨את⟩ hoore dental fof ɓiɓɓe Israa'iila, e leƴƴi maɓɓe, e galleeji baabiraaɓe maɓɓe, e limoore inɗe, worɓe fof, hoore e hoore.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ƴettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore dental fof"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "dental"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e leƴƴi maɓɓe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e galleeji"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "e limoore"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "inɗe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "hoore e hoore"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:19.730218655Z",
+  "model": "glm-5.3"
+}

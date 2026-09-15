@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Moƴƴu ko gorko mo neldu-hesɗitina, mo ñammirta: o ñaawa konnguɗi makko ɗin e ñaawoore.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "hesɗitina"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "mo ñammirta"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "o ñaawa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "konnguɗi makko ɗin"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.305083595Z",
+  "model": "glm-5.3"
+}

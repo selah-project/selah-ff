@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Zamru-yaa fii Yaawe e kinnoora; e kinnoora e daande jimol.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zamru-yaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kinnoora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kinnoora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "jimol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:45.689985644Z",
+  "model": "glm-5.3"
+}

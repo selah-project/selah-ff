@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde wonii, tawa o ɓeydii juulde juutnde yeeso Yaawe, Eli ina reeni ⟨את⟩ haande makko",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Nde wonii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "o ɓeydii"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "juulde juutnde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "inen reeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haande makko"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haande makko"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:01.662805255Z",
+  "model": "glm-5.3"
+}

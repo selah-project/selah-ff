@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eeno hoɗo am wootere mbattata tooñaande mon'on, e lootaande mon'on, e dingiral mon'on?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Eeno"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mbattata"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "hoɗo am wootere"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "tooñaande mon'on"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "e lootaande mon'on"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "e dingiral mon'on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:17.175903054Z",
+  "model": "glm-5.3"
+}

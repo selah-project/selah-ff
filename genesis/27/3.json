@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Ndin jooni, heɓo min kuɗe maa, taara maa e boggol maa, yoho nder layru, ƴamwoy fii am ñamri.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndin jooni"
+    },
+    {
+      "surface": "שא",
+      "gloss": "heɓo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "min"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "kuɗe maa"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "taara maa"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "boggol maa"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "yoho"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "layru"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "ƴamwoy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ñamri"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:40.007539221Z",
+  "model": "glm-5.3"
+}

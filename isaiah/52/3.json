@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Sabu ko nii Yaawe wi'i: on yeeydaama ko e nattuka, e alaa kaalis on faljitoytee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "e nattuka"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "on yeeydaama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "on faljitoytee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:40.826933884Z",
+  "model": "glm-5.3"
+}

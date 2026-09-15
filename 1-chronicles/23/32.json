@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɓe reeni ⟨את⟩ reende teddundu delluwal kewu ngal, e ⟨את⟩ reende senaande nden, e reende ɓiɓɓe Aharon banndiraawo en ɓe, fii gollal suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ɓe reeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reende teddundu delluwal kewu ngal"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teddundu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "delluwal kewu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reende senaande nden"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senaande"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "e reende"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "banndiraawo en"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "fii gollal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:04:36.134954727Z",
+  "model": "glm-5.3"
+}

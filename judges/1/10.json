@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yahuuda yahi to Kanaʼanaan ngol hoɗɓe e Chevron — innde Chevron adannde nden ko Kiryat-Arba — ɓe fiyi ⟨את⟩ Sheshay e ⟨את⟩ Ahiman e ⟨את⟩ Talmaay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaʼanaan ngol"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "e Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "— innde"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "adannde nden"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ahiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Talmaay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmaay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:03.929193461Z",
+  "model": "glm-5.3"
+}

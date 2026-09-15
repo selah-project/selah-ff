@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Pune ɓernde maɓɓe nden sakkaani mbaawka, lebbi maɓɓe ɗen kaalirta caɗe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pune"
+    },
+    {
+      "surface": "שד",
+      "gloss": "mbaawka"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "sakkaani"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓernde maɓɓe nden"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "lebbi maɓɓe ɗen"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "kaalirta"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:35.131827451Z",
+  "model": "glm-5.3"
+}

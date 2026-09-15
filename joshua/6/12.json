@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yahuuta urnii e subaka, almuɓɓe ɓen ɓe ndañi ⟨את⟩ saandu Yaawe ndun.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "urnii e subaka"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "e subaka"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ɓe ndañi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "almuɓɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saandu Yaawe ndun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "saandu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:45.062583169Z",
+  "model": "glm-5.3"
+}

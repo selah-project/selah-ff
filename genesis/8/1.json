@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Eloohim siiftorii ⟨את⟩ Noach e ⟨את⟩ kala daaba wuurɗo e ⟨את⟩ kala meere nden wonnde ⟨את⟩ mun e laana nden, nden Eloohim waɗani ruuhu yaawa leydi ndin, nden ndiyam ɗin ustii.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "siiftorii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala daaba wuurɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "daaba wuurɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala meere nden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "meere nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mun"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "e laana nden"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "waɗani yaawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ustii"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:32.828995649Z",
+  "model": "glm-5.3"
+}

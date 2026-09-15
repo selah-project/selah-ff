@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Wimi Yaawe, a hesidiiɓe makko, e yettordee ciiftagol cenndaaku makko.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Wimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "a hesidiiɓe makko"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "e yettordee"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ciiftagol"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "cenndaaku makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.334044154Z",
+  "model": "glm-5.3"
+}

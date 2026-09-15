@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Fii yoowo on, fii ɓiɓɓe Korach, janngirgel.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "janngirgel"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:31.032357646Z",
+  "model": "glm-5.3"
+}

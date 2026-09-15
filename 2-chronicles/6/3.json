@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Maldiɗo on ruttini ⟨את⟩ yeeso mun, o barkini ⟨את⟩ kala renndo Israa'iila; kala renndo Israa'iila darii.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ruttini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Maldiɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso mun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o barkini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala renndo Israa'iila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "darii"
+    }
+  ],
+  "timestamp": "2026-09-14T11:09:53.389057513Z",
+  "model": "glm-5.3"
+}

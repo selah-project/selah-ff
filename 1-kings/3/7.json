@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E ɗoo wonii, Yaawe Eloohim on, a waɗii jibaajo maa laamɗo ⟨את⟩ lomto Daawuda baaba am; kono min, mi suka tokooso, mi anndaa yaltude naatde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ɗoo wonii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am on"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "waɗii laamɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jibaajo maa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jibaajo maa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lomto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suka"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "tokooso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "yaltude"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "naatde"
+    }
+  ],
+  "timestamp": "2026-09-15T07:02:19.890416258Z",
+  "model": "glm-5.3"
+}

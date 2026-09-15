@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi nanii ⟨את⟩ daande konnguɗi makko; e nannde am ⟨את⟩ daande konnguɗi makko, mi ilaali mi wonii ɗaɗɗuɗo e dow baɗte am, hoore am feewi ley.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "konnguɗi makko"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "e nannde am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "konnguɗi makko"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mi ilaali"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ɗaɗɗuɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "baɗte am"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ley"
+    }
+  ],
+  "timestamp": "2026-09-14T10:39:06.787693368Z",
+  "model": "glm-5.3"
+}

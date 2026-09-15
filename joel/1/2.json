@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Moɗɗitee ngol, yimɓe mawɓe, e nanee, wuurnooɓe leydi ndin fuu: E jamaanu mon ɗum waɗii, walla e jamaanu baabiraaɓe mon?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Moɗɗitee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "yimɓe mawɓe"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "e nanee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "wuurnooɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "e jamaanu mon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e jamaanu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "baabiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:22.618264803Z",
+  "model": "glm-5.3"
+}

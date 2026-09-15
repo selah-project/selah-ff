@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ɗiɗoo ɗin mbonoyon; kala nieɗo e ƴi'e mum'en ɗen mbonay haa jamma.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "e ɗiɗoo ɗin"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mbonoyon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nieɗo"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "e ƴi'e mum'en ɗen"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mbonay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:00.538221663Z",
+  "model": "glm-5.3"
+}

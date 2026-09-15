@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kammuuli ɗin e leydi ndin timminaama, e konu mun fuu.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "timminaama"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "konu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:02.873376484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "e ⟨את⟩ suudu laamɗo on e ⟨את⟩ cuuɗi yimɓe ɓen Kasdim ɗen piyri e yiite; ⟨את⟩ dame Yerushalayim ɓe njani ɓe yani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu laamɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "cuuɗi yimɓe ɓen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "piyri e yiite"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim ɗen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dame Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "dame"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ɓe njani ɓe yani"
+    }
+  ],
+  "timestamp": "2026-09-14T08:25:06.852011899Z",
+  "model": "glm-5.3"
+}

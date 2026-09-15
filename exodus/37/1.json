@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Betsalel waɗi ⟨את⟩ sanne nden e ñama shittim: ammaaji ɗiɗi e feccere nden ko njuuteendi mun, e amma gooto e feccere ko yaajde mun, e amma gooto e feccere ko tooweeki mun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanne nden"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanne nden"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ñama"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ammaaji ɗiɗi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere nden"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njuuteendi mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e amma gooto"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajde mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e amma gooto"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tooweeki mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:37.637219263Z",
+  "model": "glm-5.3"
+}

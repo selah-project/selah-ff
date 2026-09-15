@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Hitande ndun a wannginii kuulal moƴƴere maa; laawol maa ɗippoto duƴƴam.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "a wannginii kuulal"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "hitande ndun"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "moƴƴere maa"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ɗippoto"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "duƴƴam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:52.710272277Z",
+  "model": "glm-5.3"
+}

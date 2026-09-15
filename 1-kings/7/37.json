@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "No ɗum waɗi o waɗi ⟨את⟩ sappo laaɓe ɗen; ɗaftugol gootol, ɓetere gootere, mbayka gootol — fii kamɓe fuu.",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "no ɗum waɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sappo laaɓe ɗen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "laaɓe ɗen"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ɗaftugol"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gootol"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ɓetere"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "gootere"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "mbayka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gootol"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "fii kamɓe fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:40.679551554Z",
+  "model": "glm-5.3"
+}

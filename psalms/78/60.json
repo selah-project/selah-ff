@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O acci hoɗorde Shiloo, wuro ngo o waɗunoo hoɗde hakkunde yimɓe.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "hođorre"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shiloo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "hođde"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "hakkunde yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:19.256475710Z",
+  "model": "glm-5.3"
+}

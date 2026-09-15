@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ɗoo woni moyƴintaaji makko e nder latte mun: so ɓernde mun ɓuuɓnii ⟨את⟩ latte mun, maa ɓernde mun uddiima sabu latte mun — ɗum woni moyƴintaaji makko.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ɗoo woni"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "moyƴintaaji makko"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "e nder latte mun"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ɓuuɓnii"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "latte mun"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "latte mun"
+    },
+    {
+      "surface": "או",
+      "gloss": "maa"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "uddiima"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "sabu latte mun"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "moyƴintaaji makko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:24:02.317041692Z",
+  "model": "glm-5.3"
+}

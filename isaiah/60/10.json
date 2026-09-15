@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Ɓiɓɓe leyɗe cewe ɗen ngadda mahgol mahdi maaɗa, laamɓe mun en golloto maaɗa; nde e culo Am Mi fiyi maa, e e yiɗde Am Mi yurmi maa.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ngadda mahgol"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "leyɗe cewe"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "mahdi maaɗa"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "laamɓe mun"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "en golloto maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "e culo Am"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "Mi fiyi maa"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "e e yiɗde Am"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "Mi yurmi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:26.414889242Z",
+  "model": "glm-5.3"
+}

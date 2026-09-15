@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Tuma ɓe woni yimɓe lakkaɗi, seeɗa no feewi, hoɗɓe paykoy ɗon nder mum;",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Tuma ɓe woni"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lakkaandi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "seeɗa no feewi"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "hoɗɓe paykoy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nder mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:20.690723549Z",
+  "model": "glm-5.3"
+}

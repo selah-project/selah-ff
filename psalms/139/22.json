@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "E ñaawoore timmunde mi ñaawi ɓe; ɓe laati gaññooɓe ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "timmunde"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "mi ñaawi ɓe"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "gaññooɓe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe laati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:05.617818552Z",
+  "model": "glm-5.3"
+}

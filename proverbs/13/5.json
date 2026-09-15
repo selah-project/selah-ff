@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Konngol palor ngol neɗɗo iciɗo on nanaa moƴƴa, kono bonɗo on ɓooyatafoo e hoybude.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palor"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nanaa moƴƴa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "neɗɗo iciɗo on"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "kono bonɗo on"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ɓooyatafoo"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "e hoybude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:48.870527362Z",
+  "model": "glm-5.3"
+}

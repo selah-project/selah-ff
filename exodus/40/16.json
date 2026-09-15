@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Muusaa waɗi ko Yaawe yummiri mo ⟨את⟩; ko nii o waɗi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yummiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mo ⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:30.840569485Z",
+  "model": "glm-5.3"
+}

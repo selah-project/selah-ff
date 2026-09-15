@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E ⟨את⟩ koyngal ñaamo on ndokkon dokkal fii almaami on, e sadakji jam mon ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "koyngal ñaamo on"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ñaamo on"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ndokkon"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii almaami on"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "e sadakji"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "jam mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:41.634338430Z",
+  "model": "glm-5.3"
+}

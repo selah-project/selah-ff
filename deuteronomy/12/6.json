@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "On yarloyay ɗon lulnugol mon e sadake mon, e ⟨את⟩ cappanɗe mon, e ⟨את⟩ dokkal junngo mon, e ahdiiji mon e dokke murtaaɗe mon, e ɓiɓɓe adiiɓe na'i mon e mbaalu mon.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "on yarloyay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "lulnugol mon"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "sadake mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cappanɗe mon"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "cappanɗe mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal junngo mon"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "junngo mon"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "ahdiiji mon"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "dokke murtaaɗe mon"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ɓiɓɓe adiiɓe"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "na'i mon"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "mbaalu mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:47:53.925653032Z",
+  "model": "glm-5.3"
+}

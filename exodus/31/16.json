@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓiɓɓe Israa'iil ɗen reedu ɗen ⟨את⟩ Shabbat on, ngam waɗde ⟨את⟩ Shabbat on e kawral djangooji maɓɓe ɗen — jaaɓondiral duumiingal.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "reedu ɗen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat on"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat on"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat on"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat on"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "e kawral djangooji maɓɓe ɗen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "jaaɓondiral"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiingal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:32.596973438Z",
+  "model": "glm-5.3"
+}

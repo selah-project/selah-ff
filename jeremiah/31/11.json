@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Sabu Yaawe wurtini ⟨את⟩ Yaaquba, o foolitanoo mo e junngo ɓurngongo himmude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wurtini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaaquba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "o foolitanoo mo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ɓurngongo himmude"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:54.435591957Z",
+  "model": "glm-5.3"
+}

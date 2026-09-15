@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Azarayaahuu ɓooyii e baabiraaɓe mun, ɓe ndewni ⟨את⟩ mo e baabiraaɓe mun e wuro Daawuuda; Yootaam ɓiy mun laamiibi lomto mun.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ɓooyii (hunndii)"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarayaahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ndewni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamii"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yootaam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomto mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:45.802909863Z",
+  "model": "glm-5.3"
+}

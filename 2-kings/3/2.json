@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O waɗi bonannde nden e yi'ite Yaawe, kono wanaa no baaba mun e yumma mun nii; o itti ⟨את⟩ ɗoolol Baal ngam baaba mun tagi.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonannde nden"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e yi'ite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kono tan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "no baaba mun nii"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "e yumma mun"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "o itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoolol Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ɗoolol"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:20.042377211Z",
+  "model": "glm-5.3"
+}

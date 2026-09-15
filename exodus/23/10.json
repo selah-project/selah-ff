@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "E ɲeeɗi duuɓi a bewa ⟨את⟩ leydi maa, maa a mooɓa ⟨את⟩ tagoore mayre.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "e ɲeeɗi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "a bewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "maa a mooɓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagoore mayre"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "tagoore mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:50.072490272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Ñaawirɗe jeendri ɗen ina ɓuuɓna, teppe ɗen ina coornorii weltaare.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "ina ɓuuɓna"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ñaawirɗe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeendri"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "e weltaare"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "teppe"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "ina coornorii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:20.500939785Z",
+  "model": "glm-5.3"
+}

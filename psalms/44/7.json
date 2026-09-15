@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Fii min miñaa hoolaade e gorol am, nguɗo kadi wuddu am wanaa hisnay am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "e gorol am"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "miñaa hoolaade"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "nguɗo kadi wuddu am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "hisnay am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:20.563330136Z",
+  "model": "glm-5.3"
+}

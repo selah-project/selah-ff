@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Mi lima ɓe — ɓuri curol ɓe keewi; mi ummii, mi woni go'aa e maaɗa.",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "mi lima ɓe"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "curol"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "mi ummii"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "mi woni go'aa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:59.523604055Z",
+  "model": "glm-5.3"
+}

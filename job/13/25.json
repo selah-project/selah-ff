@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kulɓinirtaa-a ɓeƴi diraandi? E rewirtaa ⟨את⟩ poosñe yoorɗe?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "A"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "diraandi"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "kulɓinirtaa-a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "poosñe yoorɗe"
+    },
+    {
+      "surface": "קש",
+      "gloss": "poosñe"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yoorɗe"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "rewirtaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:12.793376417Z",
+  "model": "glm-5.3"
+}

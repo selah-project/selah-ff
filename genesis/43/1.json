@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Nde heegu nguu teddii nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Nde heegu nguu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "teddii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:02.279963045Z",
+  "model": "glm-5.3"
+}

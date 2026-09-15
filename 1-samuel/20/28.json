@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yehonataan jaabii ⟨את⟩ Shawul: Daawuda ɗaɓɓitanii lam÷de yaltude am, haa Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shawul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ɗaɓɓitanii lam÷de"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "--"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:06.507588448Z",
+  "model": "glm-5.3"
+}

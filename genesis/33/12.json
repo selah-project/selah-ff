@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ndeen o wi'i: “Min njahi, min ngartu, mi yah yeeso maa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndeen o wi'i"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Min njahi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "min ngartu"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "mi yah"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:59.572883515Z",
+  "model": "glm-5.3"
+}

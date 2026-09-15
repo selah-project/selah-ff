@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "⟨O⟩ rokkata be‘si ñaametere mum, rokkata ɓiɓɓe beggaaɗi ɗin ɓe noddata.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "rokkata"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "be‘si"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ñaametere mum"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "beggaaɗi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "noddata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:30.817588132Z",
+  "model": "glm-5.3"
+}

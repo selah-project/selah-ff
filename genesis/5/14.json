@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɗuum duuɓi Keenan fuu ɓe laatii duuɓi sappo e jeenayi cappanɗe, o maayi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe laatii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keenan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "e jeenayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "cappanɗe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:29.911979385Z",
+  "model": "glm-5.3"
+}

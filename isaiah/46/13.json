@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Mi ɓadtinii ñaawoore am ⟨wanaa⟩ nde woɗɗi, e mummittaam am ⟨wanaa⟩ nngeddoo; mi rokkan e Siyon mummital, fii Israa'iila teddungal am.",
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "Mi ɓadtinii"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nde woɗɗi"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "e mummittaam am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "nngeddoo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi rokkan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "e Siyon"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "mummital"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fii Israa'iila"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "teddungal am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:03.133387287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Worɓe makko ɓe ngonnoo e makko, Daawuwa ɗaɓɓiti ɓe — neɗɗo kala e galle mum — ɓe nguuri e cae Chebron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "e worɓe makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɗaɓɓiti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "e galle mum"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe nguuri"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "e cae"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:50.959313727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mo yiɗi kaalis wanaa satotoo e kaalis, kadi mo yiɗi keewal wanaa tago mum ari; ɗum kadi ko hebrel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mo yiɗi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "satotoo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kadi mo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tago mum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebrel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:02.030517421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Israa'iil yi'i ⟨את⟩ ɓiɗɓe Yuusufu, o wi'i: “Ko hommbo ɓee?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe Yuusufu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko hommbo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:46.362508324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe Eloohim neldi mo e jemiral Eden, fii o gollina ⟨את⟩ leydi ndin ɗo o ƴamraa ɗoo.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "neldi mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "e jemiral"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fii o gollina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ƴamraa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:53.598651818Z",
+  "model": "glm-5.3"
+}

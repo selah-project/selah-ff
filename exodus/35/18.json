@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ paale suturo ngoo e ⟨את⟩ paale cuaddirka ndin e ⟨את⟩ ɗonndi mun ɗen;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paale suturo ngoo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paale"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "suturo ngoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paale cuaddirka ndin"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paale"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "cuaddirka ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗonndi mun ɗen"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ɗonndi mun ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:18.926109312Z",
+  "model": "glm-5.3"
+}

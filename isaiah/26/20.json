@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yahuu, yimɓe am, naatu e cuuɗi maa ɗin, uddu dame maa ɗin caggal maa, suudu haa dumunna seeɗa tan, haa bonndu nduu yawtata.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Yahuu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatu"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "e cuuɗi maa ɗin"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "uddu"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "dame maa ɗin"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "caggal maa"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "haa dumunna seeɗa"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "tan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "yawtata"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "bonndu nduu"
+    }
+  ],
+  "timestamp": "2026-09-14T18:56:04.404585051Z",
+  "model": "glm-5.3"
+}

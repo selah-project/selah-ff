@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yimɓe ɓen wi'i Yahuwaa: “Naa; kono ko Yaawe ⟨את⟩ min mballata.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "min mballata"
+    }
+  ],
+  "timestamp": "2026-09-14T11:54:09.166233530Z",
+  "model": "glm-5.3"
+}

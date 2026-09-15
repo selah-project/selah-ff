@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Bonɓe ɓen udditi nuƴƴe, ɓe mbewni kammuɗi mum en, ngam yoorude miskineeɓe e baasɓe, ngam warde loonuɓe laawol.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "nuƴƴe"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ɓen udditi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ɓe mbewni"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "kammuɗi mum en"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ngam yoorude"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskineeɓe"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e baasɓe"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "ngam warde"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "loonuɓe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:34.136816455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Yaltin kadi njuumri, uddu laawol kañum haa yeeso rewɓe am; wi'u hoore-am: 'Kammi mi woni daɗndu maa.'",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "yaltin kadi"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "njuumri"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "uddu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "haa yeeso"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "rewɓe am"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "hoore-am"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "daɗndu maa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kammi mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:20.855763833Z",
+  "model": "glm-5.3"
+}

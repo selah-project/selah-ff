@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "So a tinayri nagge gañɗo maa walla buuru makko majjuɗo, mballa mballa a ngartirta ɗum to makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "a tinayri"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "gañɗo maa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "buuru makko"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "majjuɗo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "a ngartirta ɗum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:32.096640601Z",
+  "model": "glm-5.3"
+}

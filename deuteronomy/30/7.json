@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yaawe Eloohim maa na wadda ⟨את⟩ hillaaaji ɗii fuu e dow fofɗe maa e dow ɓe njiɗɗaa maa, ɓe ndewi maa.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "na wadda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hillaaaji ɗii fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "hillaaaji ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "fofɗe maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ɓe njiɗɗaa maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ɓe ndewi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:06.762883088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Mi ɓennay heɗo am fii mashal; mi uddit majjere am e kiinor.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "mi ɓennay"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "fii mashal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "heɗo am"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mi uddit"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kiinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "majjere am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.037872556Z",
+  "model": "glm-5.3"
+}

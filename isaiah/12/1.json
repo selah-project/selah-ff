@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "A mbi'ay ɗum ñalnde nden: “Mi yettina ma, Yaawe, sabu a fewnuno am; pittaam maa ñaawu ruttitii, a fonndinay mi.”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "a mbi'ay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ɗum ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mi yettina ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "a fewnuno"
+    },
+    {
+      "surface": "בי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ruttitii"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "pittaam maa"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "a fonndinay mi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:12.291726905Z",
+  "model": "glm-5.3"
+}

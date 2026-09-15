@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Giiɗe am ngiiwii sabu muñal am; mi noddii ma, Yaawe, kala ñalnde; mi yaajinii juuɗe am faade e ma.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "giiɗe am"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ngiiwii"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "muñal am"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mi noddii ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "mi yaajinii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e ma"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "juuɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:32.357523389Z",
+  "model": "glm-5.3"
+}

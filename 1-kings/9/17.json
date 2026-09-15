@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Shelomoh mahi ⟨את⟩ Gezer e ⟨את⟩ Beit-Choron lesɗo on.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Beit-Choron lesɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "lesɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:21.352509145Z",
+  "model": "glm-5.3"
+}

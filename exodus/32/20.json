@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O ƴetti ⟨את⟩ muddewo on ɓe tagi, o naatnani ɗum e yiite, o ƴeɓti haa o tuuznoo, o ɓilni ɗum dow kanngo ndiyam ɗam, o yeddi ɓiɓɓe Israa'el ⟨את⟩ ɗum.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muddewo on"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "muddewo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe tagi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "o naatnani ɗum e yiite"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "o ƴeɓti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דק",
+      "gloss": "o tuuznoo"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "o ɓilni ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kanngo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "o yeddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:49.136702010Z",
+  "model": "glm-5.3"
+}

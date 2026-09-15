@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Yi'ee, mi ngurtinta e maɓɓe ⟨את⟩ Madai, ɓe ƴeewtaako kaalis, e kaŋŋe ɓe yiɗaako nder mun.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yi'ee"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ngurtinta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ƴeewta"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e kaŋŋe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "yiɗa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nder mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:25.403767802Z",
+  "model": "glm-5.3"
+}

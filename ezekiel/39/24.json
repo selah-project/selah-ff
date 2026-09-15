@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ko no felaa ⟨את⟩ maɓɓe e tooñannge maɓɓe nngu nnguri, nnguri mi waɗunoo ɓe, mi suuñii wuro Am ka maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ko no felaa maɓɓe"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "e tooñannge maɓɓe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗunoo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "mi suuñii"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wuro Am"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ka maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:52:16.385329142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "On jaɓanoo min e leslesle amen, fii hesed makko duuma heddii.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "e leslesle amen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "On jaɓanoo min"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duuma"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko duuma heddii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:27.770271902Z",
+  "model": "glm-5.3"
+}

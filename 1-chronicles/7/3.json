@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 7:3",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E ɓiɓɓe Uuzi: Yizraahya; e ɓiɓɓe Yizraahya: Miikaa'el, e Ovadya, e Yoo'el, Yishiiya — jowi, fuu hooreeji.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "E ɓiɓɓe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uuzi"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizraahya"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "יזרחיה",
+      "gloss": "Yizraahya"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Miikaa'el"
+    },
+    {
+      "surface": "ועבדיה",
+      "gloss": "e Ovadya"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "e Yoo'el"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Yishiiya"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "jowi"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:58.232545434Z",
+  "model": "glm-5.3"
+}

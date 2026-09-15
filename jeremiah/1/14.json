@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i e am: Ka worgo ko bonnde nden udditoytee dow yimɓe leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka worgo"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "udditoytee"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonnde nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimɓe hoɗɓe ɓen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:08.694175941Z",
+  "model": "glm-5.3"
+}

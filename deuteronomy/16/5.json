@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Awaanaa ⟨a⟩ waawaa waddude ⟨את⟩ Pesaka nder gooto e portaaji maa, ɗi Yaawe Eloohim maa rokki maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awaanaa"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "waddude (sadak)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "nder gooto"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "e portaaji maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:50:57.184433142Z",
+  "model": "glm-5.3"
+}

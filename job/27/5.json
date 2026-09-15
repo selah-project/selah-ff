@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wanaa e mi — so mi ñaawata mon ⟨את⟩ moƴƴu; haa mi rewindo, mi ittataa soldaali am e am.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Wanaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "mi ñaawata moƴƴu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "mi rewindo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mi ittata"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "soldaali am"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:14:12.402748209Z",
+  "model": "glm-5.3"
+}

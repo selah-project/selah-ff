@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono e junuubuuji Yarobam ɓiy Nevat, ɗi o waddi ⟨את⟩ Israayiil e mun, o ɗaŋii, o dartaako e ɗe.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kono tan"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "e junuubuuji"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "o waddi e junuub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "o ɗaŋii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o dartaako"
+    },
+    {
+      "surface": "סר",
+      "gloss": "darti"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "e ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:20.042811341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "No ɓe ɓeydori wanaa, no wanaa ɓe bakkaatii mmi; mmi waylay teddungal maɓɓe waɗta ɗum yerɓe.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "no ɓe ɓeydori wanaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no wanaa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ɓe bakkaatii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mmi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "teddungal maɓɓe"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "waɗta ɗum yerɓe"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "mmi waylay"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:34.938360359Z",
+  "model": "glm-5.3"
+}

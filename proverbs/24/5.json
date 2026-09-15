@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Gorko ganndo ina jogii semmbe; kadi gorko gannduɗo ɓeydittaa semmbe.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ganndo"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "inna jogii semmbe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kadi gorko"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "gannduɗo"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ɓeydittaa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "semmbe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:10.684676790Z",
+  "model": "glm-5.3"
+}

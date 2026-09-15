@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ndeen e hitaande jeeñaɓere ñaamuu ⟨את⟩ mum balɓe, fii ɓeydude on mum keɓal; ko mi Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ndeen e hitaande"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "jeeñaɓere"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mum balɓe"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mum balɓe"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "fii ɓeydude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "mum keɓal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:40.977372951Z",
+  "model": "glm-5.3"
+}

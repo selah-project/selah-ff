@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O jogitii ⟨את⟩ Agag laamɗo Amalek, wuuru, kono ⟨את⟩ yimɓe ɓen fuu o haɗniti ha wuddu kaafaahu.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "O jogitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag laamɗo Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuuru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "o haɗniti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ha wuddu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kaafaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:32.998629622Z",
+  "model": "glm-5.3"
+}

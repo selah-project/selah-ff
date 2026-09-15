@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Sabu ɓe annabiyanii on e majjere, e innde am; mi nelaani ɓe, ko imaande Yaawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "e majjere"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "annabiyanii"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "e innde am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi nelaani (walaa)"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "nelaani ɓe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "imaande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:21:57.291577830Z",
+  "model": "glm-5.3"
+}

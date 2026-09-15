@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Renndande ɓe kaaltoo lesles e am, ɓe njanña ɓe fuu; e am ɓe miijoo bone fii am.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "renndande"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ɓe kaaltoo lesles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ɓe njanña ɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ɓe miijoo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:25.370846204Z",
+  "model": "glm-5.3"
+}

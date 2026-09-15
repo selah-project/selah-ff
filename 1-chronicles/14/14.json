@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 14:14",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Daawuuda naamniima ɗoo kadi Eloohim, Eloohim on wi'i mo: wata a ƴello ɓaawo maɓɓe; dewnit irngal maɓɓe, a araa ɓe dinguirnde bakaaji ɗin.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "naamniima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɗoo kadi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "a ƴello"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ɓaawo maɓɓe"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "dewnit"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "irngal maɓɓe"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "a araa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "dinguirnde"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "bakaaji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:02.655449643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "A reena ⟨את⟩ pumpooje nden e ⟨את⟩ sarjiiji ɗin e ⟨את⟩ ñaawoore ɗin ɗi mi wattu-daa hannde ngam waɗde ɗi.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "a reena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pumpooje nden"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "pumpooje nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sarjiiji ɗin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarjiiji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore ɗin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawoore ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "wattu-daa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ngam waɗde ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:17.434029696Z",
+  "model": "glm-5.3"
+}

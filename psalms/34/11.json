@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ñaamle yeeɓe ŋakkii, ɓe hebbii; kono ɓe ɗaɓɓooɓe Yaawe mbaa ŋakkira hay laaɓe moƴƴe.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "ñaamle yeeɓe"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "ŋakkii"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ɓe hebbii"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "kono ɓe ɗaɓɓooɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mbaa"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ŋakkira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "laaɓe moƴƴe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:19.910054273Z",
+  "model": "glm-5.3"
+}

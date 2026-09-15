@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Kan ɗum, a yamata ñiɗi e dow tondi Shomeron; ñiiɓɓooɓe maa ñiiɓɓo, ɓe kuutoroy wiɗtu ɗum.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kan ɗum"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "a yamata ñiɗi"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ñiɗi"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "e dow tondi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "ɓe ñiiɓɓo"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "ñiiɓɓooɓe"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "ɓe kuutoroy wiɗtu ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:41.344130034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Aharọn fooƴ'anay ⟨את⟩ Laawi'en fooƴannde yeeso Yaawe, ⟨את⟩ diga sukaaɓe Israayel, ɓe laataay gollooɓe ⟨את⟩ gollede Yaawe.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "fooƴ'anay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laawi'en"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawi'en"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "fooƴannde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ diga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayel"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe laataay"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "gollooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gollede"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "gollede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:30.657080903Z",
+  "model": "glm-5.3"
+}

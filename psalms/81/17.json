@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "O ñammini mo e ɓural gawri, e asal iwɗum e ƴiiƴam mi heewnata-ma.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "O ñammini mo"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gawri"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "e iwɗum e ƴiiƴam"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "asal"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "mi heewnata-ma"
+    }
+  ],
+  "timestamp": "2026-09-15T09:10:41.396023006Z",
+  "model": "glm-5.3"
+}

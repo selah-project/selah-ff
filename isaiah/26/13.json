@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe, Eloohim menen, jom'en gooŋŋinii min faade e maa; kanko maa tan min ciftorta innde maa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim menen"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "jom'en gooŋŋinii min"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "jom'en"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "min ciftorta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:19.011163695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yowabu ummii, yahi Gešuru, addi ⟨את⟩ Awshalom Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gešuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:09.925797529Z",
+  "model": "glm-5.3"
+}

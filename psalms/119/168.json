@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi reeni pharmuji maa e seedeeji maa; fii laawol am fuf ina woni yeeso maa.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "Mi reeni"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pharmuji maa"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "e seedeeji maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuf"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:48.243384471Z",
+  "model": "glm-5.3"
+}

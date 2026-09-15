@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Hannde ɗoo mi ifoyta ⟨את⟩ mberndee mum yeeso gite dewɓe makko ɓen, kono neɗɗo alaa yoɓayta mo e junngo am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hannde ɗoo"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "mi ifoyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mberndee mum"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "mberndee mum"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "yeeso gite"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "dewɓe makko ɓen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kono neɗɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "yoɓayta mo"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "e junngo am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:30.187709574Z",
+  "model": "glm-5.3"
+}

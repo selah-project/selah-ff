@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 70,
+  "translation": "Eloohim, fii hisnude am; Yaawe, fii ballal am, yaawu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "fii hisnude am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "fii ballal am"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yaawu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:07.362914936Z",
+  "model": "glm-5.3"
+}

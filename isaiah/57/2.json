@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Yo naat e jam, ɓe fooƴorii e leɗɗe maɓɓe; kala yahuɗo laaɓtude.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "naat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ɓe fooƴorii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "leɗɗe maɓɓe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahuɗo"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "laaɓtude"
+    }
+  ],
+  "timestamp": "2026-09-14T12:16:03.797517556Z",
+  "model": "glm-5.3"
+}

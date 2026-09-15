@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi layna junnuubu am e laaɓal, mb'a mi wertinay ⟨את⟩ sarde maa, Yaawe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "mi layna"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "e laaɓal"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "junnuubu am"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "mb'a mi wertinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarde maa"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "sarde maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.150243412Z",
+  "model": "glm-5.3"
+}

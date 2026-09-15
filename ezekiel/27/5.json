@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Berwoshim jeyi Sheniir, ɓe mahi maa ⟨את⟩ laaɓe ɗen fuu; seedre jeyi Leebnoon ɓe njippii ngam waɗde cokroorde dow maa.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "berwoshim"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "jeyi Sheniir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓe mahi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laaɓe ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "laaɓe"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "seedre"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "jeyi Leebnoon"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ɓe njippii"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "cokroorde"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:46:06.061060276Z",
+  "model": "glm-5.3"
+}

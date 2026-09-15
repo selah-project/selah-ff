@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "A neltata ruuhu maa, ɓe taga-ɓe; a hesɗinirta yeeso leydi ndin.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "a neltata"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruuhu maa"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ɓe taga-ɓe"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "a hesɗinirta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:25.238162012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E ɗiɗo ngoda e yahde duumiiɗo, si tawa ɓe ɓeydanaa?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ngoda e yahde"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "duumiiɗo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si tawa ... ɓaawo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ɓe ɓeydanaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:32.393530504Z",
+  "model": "glm-5.3"
+}

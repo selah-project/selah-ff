@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 4:23",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Reenon hoore mon, wata aajiton ⟨את⟩ ahdi Yaawe Eloohim mon ndi o dogi e mon, wata mbaɗon on butwudi noone huunde kala nde Yaawe Eloohim maa jamiri on.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Reenon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "aajiton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdi Yaawe Eloohim mon ndi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "wata mbaɗon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "butwudi"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "noone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "huunde kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "jamiri on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:58.163101337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Nde annabi Khananayaahi jogorii ⟨את⟩ kollore nden e dow daande Yirmiyaahi annabi on, o daayi nde.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Nde ... jogii"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananayaahi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kollore nden"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "kollore nden"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "daande"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmiyaahi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "o daayi nde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:17:39.846727236Z",
+  "model": "glm-5.3"
+}

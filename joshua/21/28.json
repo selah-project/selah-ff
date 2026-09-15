@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E nder leñol Yissaskar: ⟨את⟩ Kishyon e ⟨את⟩ duume mayre, ⟨את⟩ Daberath e ⟨את⟩ duume mayre.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "e nder leñol"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duume mayre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duume mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:21.296138346Z",
+  "model": "glm-5.3"
+}

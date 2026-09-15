@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓiɗɗo aadam, humpin ⟨את⟩ Yerushalayim ⟨את⟩ ko boni e makko:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "humpin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko boni e makko"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ko boni e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:39:43.196644463Z",
+  "model": "glm-5.3"
+}

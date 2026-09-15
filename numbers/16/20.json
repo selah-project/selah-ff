@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yaawe kaali to Musa e to Aharon, wiyude.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:42:14.536799860Z",
+  "model": "glm-5.3"
+}

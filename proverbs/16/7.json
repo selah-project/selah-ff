@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "So laawuli neɗɗo jaɓɓorii Yaawe, o waɗa kadi kaawɓe mun ɓe sellondira ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "so jaɓɓorii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawuli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "kaawɓe mun"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ɓe sellondira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (kam o sellondira e makko)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:57:48.768597801Z",
+  "model": "glm-5.3"
+}

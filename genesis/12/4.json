@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Awram yahi no Yaawe wi'iranoo to makko, Lot yahi ⟨את⟩ e makko; Awrammo wonnoo ɓiy duuɓi jowi e cappoje jeeɗiɗo e duuɓi jowi, tuma o ummorii Haraan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'iranoo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko (Lot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Awrammo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "jowi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "cappoje jeeɗiɗo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "tuma o ummorii"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Haraan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:49.062225533Z",
+  "model": "glm-5.3"
+}

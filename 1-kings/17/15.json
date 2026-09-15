@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O yahi, o waɗi no dow haala Eliyaahu; ɓe ñaami — kanko e kanko debbo on e saare mum — balɗe ɗuuɗɗe.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no dow haala"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko (Eliyaahu)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kanko (debbo on)"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "e saare mum"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe ɗuuɗɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:43.558708772Z",
+  "model": "glm-5.3"
+}

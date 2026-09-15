@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Doole am yoorii no ɓuuɓri welsere nii; ɗemngal am dokkitii to gaawe am; a lelnii mi e puɗol maayde.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "yoorii"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "no ɓuuɓri welsere nii"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ɗemngal am"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "dokkitii"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "to gaawe am"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "e puɗol"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "a lelnii mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:22.270921950Z",
+  "model": "glm-5.3"
+}

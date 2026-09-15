@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Nde Israa'iil yalti Misrayim, nde galle Yaakuub yalti e yimɓe ɗemngal jananngal.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "nde ... yalti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuub"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "ɗemngal jananngal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.610602377Z",
+  "model": "glm-5.3"
+}

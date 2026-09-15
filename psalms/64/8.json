@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Kono Eloohim ndaaƴa ɓe ka puccol; jaŋŋo ɗum wonii gaaɗe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "kono Eloohim ndaaƴa ɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ka puccol"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "jaŋŋo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɗum wonii"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "gaaɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:06.010653835Z",
+  "model": "glm-5.3"
+}

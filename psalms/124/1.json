@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Yimre ƴllawre, Davuda. Sin Yaawe wonaano e amen — yo Israa’iil jooni wi’u —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴllawre"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "sin … wanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wonaano"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi’u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa’iil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:36.085230520Z",
+  "model": "glm-5.3"
+}

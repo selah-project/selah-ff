@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Nokku mbi'a ɓe: 'Laamɗo alaa min; golla min nulaali ⟨את⟩ Yaawe; e laamɗo on — ko hono o waɗata min?'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nokku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "mbi'a ɓe jooni"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mbi'a ɓe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "golla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nulaali"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "nulaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "e laamɗo on"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko hono"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o waɗata"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:14.192017148Z",
+  "model": "glm-5.3"
+}

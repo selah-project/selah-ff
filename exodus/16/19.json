@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Moosaa wi'i ɓe: \"Neɗɗo wanaa wowla heen fii haa subaka.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo gooto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "wowla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fii haa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:55.350594432Z",
+  "model": "glm-5.3"
+}

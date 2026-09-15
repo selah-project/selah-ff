@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Peete amen no ɓuuɓri no tannuuru nii, sabu lowre heegu.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "peete amen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "no tannuuru nii"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "lowre"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "heegu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:22.511609548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Fii ko O yooppinii hoɗɓe ɓe toowɗo, saare toownde nden, O hoolnii ɗum haa leyri, O hoolnii ɗum, O ettinoo ɗum haa mbuuɓru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "השח",
+      "gloss": "yooppinii"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe ɓe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "toowɗo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "saare"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "toownde"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "hoolnii ɗum haa leyri"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "hoolnii ɗum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leyri"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "ettinoo ɗum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mbuuɓru"
+    }
+  ],
+  "timestamp": "2026-09-15T09:10:03.813781689Z",
+  "model": "glm-5.3"
+}

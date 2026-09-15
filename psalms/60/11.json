@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Ko yimɓe yo ardanmi e wuro nguro? Ko yimɓe yo ardin haa Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ko yimɓe yo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ardanmi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "nguro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko yimɓe yo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ardin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:25.830095437Z",
+  "model": "glm-5.3"
+}

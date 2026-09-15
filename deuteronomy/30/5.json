@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yaawe Eloohim maa na yowa `on e leydi ndi baabiraaɓe maa keɓi, `on na keɓa ndi; o moƴƴintinay `on, o ɓeydoylay `on ɓuri baabiraaɓe maa.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "na yowa `on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "keɓi"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baabiraaɓe maa"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "`on na keɓa ndin"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "o moƴƴintinay `on"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "o ɓeydoylay `on"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "ɓuri baabiraaɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:06.762245405Z",
+  "model": "glm-5.3"
+}

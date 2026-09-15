@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E ɓiɓɓe leydi ndi fuu naatii e nder luggere, waawi heen asil dow hoore ladde nden.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "naatii"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "e nder luggere"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waawi heen"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "asil"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:58:38.323745546Z",
+  "model": "glm-5.3"
+}

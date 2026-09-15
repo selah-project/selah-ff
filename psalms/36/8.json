@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Malana! no tedduɗum hesed maa, Eloohim; ɓiɓɓe aadee ɗooftoto e ɗooftol baɗɗe maa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Malana! no"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tedduɗum"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e ɗooftol"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baɗɗe maa"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ɗooftoto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:17.174237815Z",
+  "model": "glm-5.3"
+}

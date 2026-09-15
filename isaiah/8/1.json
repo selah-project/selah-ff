@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe wi'i am: “Jogan hoore maa alluwal mawngal, winnu e dow maggal e binngol neɗɗo: Maaher-Shalal-Hash-Baz.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "קח",
+      "gloss": "jogan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "alluwal"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngal"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "winnu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow maggal"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "e binngol"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maaher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:44.890509419Z",
+  "model": "glm-5.3"
+}

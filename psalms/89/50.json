@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Hol to hesedu maa ɗen gaduɗe ɗen, Adonaay? A hoolnii Dawuud e googɗingol maa.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hol to"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesedu maa ɗen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "gaduɗe ɗen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "A hoolnii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "e googɗingol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:01.695874778Z",
+  "model": "glm-5.3"
+}

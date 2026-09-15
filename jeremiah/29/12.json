@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "On noddata ⟨את⟩ mi, on yahata, on torlay am, mi nanndata on.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "on noddata"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "on yahata"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "on torlay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "mi nanndata"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:22:53.299440069Z",
+  "model": "glm-5.3"
+}

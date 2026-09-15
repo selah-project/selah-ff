@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mi nanii ⟨את⟩ muusungal ɓiɓɓe Israa'iil: haalan ɓe, wii: hakkunde jemo'en ɗen mborla; subaka mborla ɓe njooɓa ina ñammbaa; ɓe mbandiraali wonde miin ko mi Yaawe Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Mi nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muusungal ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "muusungal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jemo'en ɗen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mborla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "looru"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "njooɓa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñammbaa"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ɓe mbandiraali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:37.809034251Z",
+  "model": "glm-5.3"
+}

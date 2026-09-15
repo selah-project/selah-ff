@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ƴuɓɓo, Yaawe, hoɗno yeeso makko, suɓɓo mo tuubde; hisnu neefs am e bonɗo, ⟨e⟩ laana maa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ƴuɓɓo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "hoɗno yeeso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "suɓɓo mo tuubde"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefs am"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "e bonɗo"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "laana maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:14.731182586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko nii Yaawe Sabuuji ɗin wi'i: Jonnu ɓernde mon ⟨e⟩ dow laabi mon.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabuuji ɗin"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "jonnu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "laabi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:08.059069850Z",
+  "model": "glm-5.3"
+}

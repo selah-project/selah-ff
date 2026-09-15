@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Boaz jibini ⟨את⟩ Obed, Obed kadi jibini ⟨את⟩ Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "Obed kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:35.485150314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kaalis on ko am, e kaŋe on ko am, wonande Yaawe Sabaoth.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis on"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe on"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wonande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    }
+  ],
+  "timestamp": "2026-09-14T09:10:21.415752079Z",
+  "model": "glm-5.3"
+}

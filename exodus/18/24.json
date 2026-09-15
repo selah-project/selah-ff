@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Musaa nanii daande yumma-gorko mum, o waɗi kala ko o wi'i.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "yumma-gorko mum"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɣi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:52.815424418Z",
+  "model": "glm-5.3"
+}

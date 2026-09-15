@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nafata neɗɗo hol ko e nder gollal mun fuu ɗe o gollata les naange?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hol ko"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "nafata"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder...fuu"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "gollal mun"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ɗe o gollata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:49.531650305Z",
+  "model": "glm-5.3"
+}

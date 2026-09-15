@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i laamɗo on: goonguɗi wonii konngol ngol mi nanngi nder leydi am, baabaɗi konnguji maa e baabaɗi anndal maa",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonguɗi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanngi"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "nder leydi am"
+    },
+    {
+      "surface": "על",
+      "gloss": "baabaɗi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "konnguji maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e baabaɗi"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "anndal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:01.323749313Z",
+  "model": "glm-5.3"
+}

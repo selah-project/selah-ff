@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Mbonka mon laabi-cakuuti! Hono soomri pottinoowo on ⟨enaa⟩ toɓɓetee? Kono golliwol ngol wi'a waɗoowo mun: gaa waɗaa mi; e kuutorol ngol wi'a tagoowo mun: gaa faamaa o.",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "mbonka mon laabi-cakuuti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hol"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "hono soomri"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "pottinoowo on"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "toɓɓetee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golliwol ngol"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "to waɗoowo mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "waɗaa mi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e kuutorol ngol"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "to tagoowo mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "gaa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "faamaa o"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:33.674802570Z",
+  "model": "glm-5.3"
+}

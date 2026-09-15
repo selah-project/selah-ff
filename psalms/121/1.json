@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Yimre laabi yawtude. Mi ƴettirta gite am haa pelle ɗen — haŋkadi ballal am aroyee?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "laabi yawtude"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mi ƴettirta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "haŋkadi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "aroyee"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ballal am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:39.741799313Z",
+  "model": "glm-5.3"
+}

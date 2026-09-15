@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: “Mi ɗaɓɓii ⟨את⟩ ɓiɗɗo gorko to Adonaay am? Mi wi'aani ɗaa: Wata a fuño ⟨את⟩ am?”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "mi ɗaɓɓii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "to Adonaay am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mi wi'aani"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "a fuño"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:26.251923313Z",
+  "model": "glm-5.3"
+}

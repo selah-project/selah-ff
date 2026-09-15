@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yitroo, almuudo Midiyan, suka-saabu Musa, naa'ino ⟨את⟩ fuu ɗum Eloohim waɗi fii Musa e fii Israa'iil ɓesngu mun, sabu Yaawe yaltini ⟨את⟩ Israa'iil e Misrayim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "naa'ino"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "almuudo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "suka-saabu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu ɗum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "fii Musa"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "e fii Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ɓesngu mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:13.308963008Z",
+  "model": "glm-5.3"
+}

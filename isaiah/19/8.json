@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ñiggooɓe liɗɗi ɗin mbaɗata suna; kala ɓe ɗaɓɓirta ŋoorge e Yaalore ɗen ɓe mettina; ɓe ɓalayorta faali dow dowre ndiyam ɗen ɓe ŋakkito.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "mbaɗata suna"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "ñiggooɓe liɗɗi ɗin"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ɓe mettina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "ɓe ɗaɓɓirta"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "e Yaalore"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ŋoorge"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "ɓe ɓalayorta"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "faali"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dowre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam ɗen"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ɓe ŋakkito"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:16.453500965Z",
+  "model": "glm-5.3"
+}

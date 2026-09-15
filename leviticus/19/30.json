@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "⟨את⟩ Sabbateeji am ɗin ndeebewee, kaasam am ɗum wewnee; ko mi Yaawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbateeji am ɗin"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabbateeji am ɗin"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ndeebewee"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "kaasam am ɗum"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wewnee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:38.120946574Z",
+  "model": "glm-5.3"
+}

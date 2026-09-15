@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Fii yo o ardina [muuyka], e dow Yeduutun, fii Asaaf — miimoowo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yo o ardina"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yeduutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miimoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:41.360674832Z",
+  "model": "glm-5.3"
+}

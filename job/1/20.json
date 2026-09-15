@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ayyuub ummi, o yeeyti ⟨את⟩ wuddere makko nden, o pommini ⟨את⟩ hoore makko, o yani ka leydi, o sujjii.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayyuub"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "o yeeyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere makko nden"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "wuddere makko nden"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "o pommini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore makko"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka leydi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "o sujjii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:56.095643422Z",
+  "model": "glm-5.3"
+}

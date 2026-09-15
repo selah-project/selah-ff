@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Reen hoore maa ⟨את⟩ ɗum miɗo amminta maa hannde; ƴeew, miɗo ridda yeeso maa ⟨את⟩ Ammoore ene, e Kanngane ene, e Hitte ene, e Perizze ene, e Hiwwe ene, e Yebuse ene.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "reen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hoore-maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum-miɗo-amminta-maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "miɗo-amminta-maa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "miɗo-ridda"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yeeso-maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammoore-ene"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Ammoore-ene"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "e-Kanngane-ene"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e-Hitte-ene"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e-Perizze-ene"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e-Hiwwe-ene"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e-Yebuse-ene"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:40.441642912Z",
+  "model": "glm-5.3"
+}

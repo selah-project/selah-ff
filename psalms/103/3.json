@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Ko o yoopoofo bonanɗe maa fuu, ko o sellinoowo ñawuuji maa fuu.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "yoopoofo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "bonanɗe maa"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "sellinoowo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "ñawuuji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:49.106792165Z",
+  "model": "glm-5.3"
+}

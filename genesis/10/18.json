@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ yimɓe Arwadi, e ⟨את⟩ yimɓe Tsemari, e ⟨את⟩ yimɓe Hamati; ɓaawo ɗum renndaaji Kan'aan ɗen bellii.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "yimɓe Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Tsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "yimɓe Tsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "yimɓe Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ɓaawo ɗum"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "bellii"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "renndaaji"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kan'aan ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:34.934600057Z",
+  "model": "glm-5.3"
+}

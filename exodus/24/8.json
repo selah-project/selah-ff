@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Musaa ƴetti ⟨את⟩ ƴiiƴam nden, o wuuci ɗum dow yimɓe ɓee, o wi'i: “Ɗoo ngoni ƴiiƴam ahdi nden, ngol Yaawe sowiti e onon, bana konnguɗi ɗii fuu.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Musaa ƴetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam nden"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam nden"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "o wuuci ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo ngoni"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahdi nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sowiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e onon"
+    },
+    {
+      "surface": "על",
+      "gloss": "bana \/ fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:52.736131206Z",
+  "model": "glm-5.3"
+}

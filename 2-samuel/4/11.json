@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "No ɓuri ɗum, tawa worɓe ⟨את⟩ bonɓe mbari ⟨את⟩ gorko ñaari e nder suudu mun, e dow leeso mun! E jooni, hara mi ƴamirtaa ⟨את⟩ ƴiiƴam mun e juuɗe mon, mbaray mi momta ⟨אתכם⟩ e leydi ndin?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "no ɓuri ɗum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "mbari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorko ñaari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ñaari"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "e nder suudu mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "leeso mun"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "e jooni"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hara … -taa"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ƴamirtaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam mun"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "e juuɗe mon"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "mbaray mi momta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "mon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:01.844062865Z",
+  "model": "glm-5.3"
+}

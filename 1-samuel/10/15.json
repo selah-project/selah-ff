@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Baaba-mawni Sawul wi'i: “Haalan-mi tawo, ko Shemuwel wi'i mon?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "baaba-mawni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:15.102130128Z",
+  "model": "glm-5.3"
+}

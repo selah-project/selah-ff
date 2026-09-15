@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E fii neemri maa, e fii behemaji ɗi woni e leydi maa; keɓagol mum ngol fof wonay ñaamde.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "e fii neemri maa"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "e fii behemaji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "e leydi maa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngol fof"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "keɓagol mum"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "fii ñaamde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:27.004651104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe saaciti ⟨את⟩ maɓɓe ton, e hoore leydi ndin fuu; ɓe dartinii mahngo wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "saaciti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ maɓɓe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "על",
+      "gloss": "e hoore"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ɓe dartinii"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "mahngo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:56.940033270Z",
+  "model": "glm-5.3"
+}

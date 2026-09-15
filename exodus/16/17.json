@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓiɓɓe Israa'iil ɗi mbaɗi ko nii, ɓe moofti — on mooftuɗo heewuɗo on e on mooftuɗo ustaɗo on.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "ɓe moofti"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "on mooftuɗo heewuɗo on"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "on mooftuɗo ustaɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:24.301204327Z",
+  "model": "glm-5.3"
+}

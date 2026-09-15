@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Yo almaamuuji maa ƴoƴƴoro ñaawoore, yo hasidaaji maa mbewla be walla.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "almaamuuji maa"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ƴoƴƴoro"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "yo hasidaaji maa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mbewla be walla"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:57.996012582Z",
+  "model": "glm-5.3"
+}

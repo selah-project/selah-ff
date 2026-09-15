@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Duulo e niɓɓo ina taarii mo; ñaawoore laaɓnde e wuddu ndun ko jooɗorde jullere makko.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Duulo"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "e niɓɓo"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ina taarii mo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore laaɓunde"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e wuddu"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jullere makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:23.092890159Z",
+  "model": "glm-5.3"
+}

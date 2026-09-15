@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E Awraham ina woodi duuɓi teemedere, nde ⟨את⟩ Yitsxaak ɓiy mun jibinaa mo.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "E Awraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiyyi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "nde ... jibinaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxaak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:34.111604336Z",
+  "model": "glm-5.3"
+}

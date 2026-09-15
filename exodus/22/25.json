@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si a ƴettii ñaawondir comci jeyaaɗo maa, haa naange ɗon yaltu, ƴellit ɗum ɓurɗo himo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ñaawondir"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "comci"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaltugol"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ƴellit ɗum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɓurɗo himo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:10.277424288Z",
+  "model": "glm-5.3"
+}

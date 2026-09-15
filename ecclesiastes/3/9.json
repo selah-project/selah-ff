@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Woni ñamaaɗe golloowo on heɓata e dow muñal ngal balaa kanko o muñii?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ñamaaɗe"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "golloowo on"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "muñal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:34.493558233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O naatni ⟨את⟩ kuutorgal nayihen ɗen e nder ningugooji ɗin, e cakaaji sarɗiire ndin, ngam nawde ⟨את⟩ ndin e ɗeen; o waɗi ⟨את⟩ ndin ko udditiinde, e pilli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o naatni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorgal nayihen ɗen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "kuutorgal nayihen ɗen"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "e nder ningugooji ɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "cakaaji"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarɗiire ndin"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngam nawde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndin",
+      "marks": "ndin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɗeen"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "ko udditiinde"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "e pilli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ndin",
+      "marks": "ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:20.157662023Z",
+  "model": "glm-5.3"
+}

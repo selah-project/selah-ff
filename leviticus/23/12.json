@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ñalnde mbaɗɗoton ⟨את⟩ omeruuji ɗin diŋtina, mbaɗton ⟨isi caggiu⟩ giɗo mo duuɓi gooto, ko ƴiiƴam-rewtu fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mbaɗton"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "mbaɗɗoton diŋtina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeruuji ɗin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omeruuji ɗin"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "giɗo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mo ɓuuɓnataa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓi"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "duuɓi mum gooto"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ƴiiƴam-rewtu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:52.501916288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Mi hoolninay ⟨את⟩ Patros, mi neltay yiite e Tso'an, mi waɗanay ñaawooreje e No.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "mi hoolninay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi neltay"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "e Tso'an"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mi waɗanay"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ñaawooreje"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "e No"
+    }
+  ],
+  "timestamp": "2026-09-14T08:47:44.582465417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Ndeen ndiyam ɗen ziidondirɗam ɗen ɓennorii no e dow naafoore munu.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ɓennorii no"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naafoore munu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗen"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ziidondirɗam ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:33.733388901Z",
+  "model": "glm-5.3"
+}

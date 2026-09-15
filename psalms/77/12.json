@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Miɗo waaja golle Yaah; ggoonga miɗo jittinya pneefo ɓennuɗo maa.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "miɗo waaja"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ggoonga"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "miɗo jittinya"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ɓennuɗo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "pneefo maa"
+    }
+  ],
+  "timestamp": "2026-09-15T06:04:36.113021140Z",
+  "model": "glm-5.3"
+}

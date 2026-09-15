@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O waɗani e haala am yimre hesere — yettoore fii Eloohim amen; keewɓe mbaɗay nde nane, ɓe laroy, ɓe takmi e Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗani"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haala am"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoore"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "fii Eloohim amen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe mbaɗay nane"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɓe"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe laroy"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ɓe takmi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:46.335358647Z",
+  "model": "glm-5.3"
+}

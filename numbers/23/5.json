@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yaawe waɗi konngol e haala Bilam, o wi'i: \"Artu to Balaak, wano noon a waaju.\"",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haala"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Artu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "wano noon"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "a waaju"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:03.858248449Z",
+  "model": "glm-5.3"
+}

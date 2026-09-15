@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Ko non mi yoorton Yiawe e nder nguurndam am; e nder innde maa mi towo baɗe am.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "mi yoorton maa"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "e nder nguurndam am"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "e nder innde maa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mi towo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "baɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:23.513788228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Ɓe wi'ata maaɗa e jaɓɓannde bonnde, ɓe ƴettata nder meere, bonus maa ɓen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "wi'ata maaɗa"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "e jaɓɓannde bonnde"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ƴettata"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nder meere"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "bonus maa ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:59.523946796Z",
+  "model": "glm-5.3"
+}

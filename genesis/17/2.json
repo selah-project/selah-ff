@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "mi waɗan bernde am hakkunde am e maa, mi ɓeydirte maa ⟨את⟩ ɗuuɗal ɗuuɗal.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bernde am"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "mi ɓeydirte"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maa",
+      "marks": "maa"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ɗuuɗal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ɗuuɗal"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:10.782065041Z",
+  "model": "glm-5.3"
+}

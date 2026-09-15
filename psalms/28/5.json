@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Sabu ɓe faamayno golle Yaawe wanaa golle juuɗe makko; o yannya ɓe, o mahira ɓe hay dara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ɓe faamayno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa e dow"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "o yannya ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o wanaa"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "o mahira ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.730649655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Jamirooje maa ɗin fof ko goonga; ɓe ndewi mi e fenaande; ballu min.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ɗin fof"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Jamirooje maa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ko goonga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "e fenaande"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ɓe ndewi mi"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ballu min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:58.811602938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Kono Eloohim ko Laamɗo am gila ko adii, golloowo cellitte e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Kono Eloohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Laamɗo am"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gila ko adii"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "golloowo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "cellitte"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.976200224Z",
+  "model": "glm-5.3"
+}

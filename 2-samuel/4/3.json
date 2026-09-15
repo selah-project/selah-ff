@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yimɓe Beerot ndogi faade Gittayim, ɓe ngonnoo to hoɗɓe faade ñalnde hannde ndee.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "ndogi"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "yimɓe Beerot"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "faade Gittayim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe ngonnoo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "faade"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:42.156535224Z",
+  "model": "glm-5.3"
+}

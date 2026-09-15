@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 21:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "O mahi cuuɗi taqde fii konu kammuuli ɗin fuu, e nder ñaawirɗe ɗiɗi ɗe suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "cuuɗi taqde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii ... fuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "e nder ɗiɗi"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ñaawirɗe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:50.068564656Z",
+  "model": "glm-5.3"
+}

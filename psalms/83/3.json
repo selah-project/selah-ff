@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Fii ɗoo, tee, yarnaŋkooɓe maa ɗon haɓɓii, e ɓe ngiyaaki maa ɓe ɓuumtii hoore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo, tee"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "yarnaŋkooɓe maa"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ɗon haɓɓii"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "e ɓe ngiyaaki maa"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɓe ɓuumtii"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:14.848893313Z",
+  "model": "glm-5.3"
+}

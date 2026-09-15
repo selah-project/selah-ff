@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ layndeeji mon e ⟨את⟩ wirneeji mon e zeituunaaji mon ɓurɗi moƴƴude o yiddata, o hokka ɗi mbaraaji mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "layndeeji mon"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "layndeeji mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "wirneeji mon"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "wirneeji mon"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "e zeituunaaji mon"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ɓurɗi moƴƴude"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o yiddata"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o hokka ɗi"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "mbaraaji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:37:51.360173006Z",
+  "model": "glm-5.3"
+}

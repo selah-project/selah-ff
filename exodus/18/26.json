@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ɓe ñaawii ⟨את⟩ yimɓe ɓen e sahaa kala; ⟨את⟩ haala saɗka o, ɓe mukkata ko addu to Mosheh, kono haala famɗu kala ɓe ñaawata ko ɓe hoore.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Ɓe ñaawii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... kala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala saɗka o"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "saɗka o"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "ɓe mukkata ko addu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kono ... kala"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "famɗu"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ɓe ñaawata"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ko ɓe hoore"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:11.935306687Z",
+  "model": "glm-5.3"
+}

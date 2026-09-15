@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Anndugal ngal ko jaajol e am; ngal toowii — mi waawaa ɗum.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "jaajol"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "anndugal"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:52.331707895Z",
+  "model": "glm-5.3"
+}

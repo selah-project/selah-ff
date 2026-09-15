@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "a heɓa ɓiɓɓe rewɓe makko fii ɓiɓɓe maa, ɓiɓɓe rewɓe makko faasoo caggal Eloohim maɓɓe, ɓe faasina ⟨את⟩ ɓiɓɓe maa caggal Eloohim maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a heɓa"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "ɓiɓɓe rewɓe makko"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "fii ɓiɓɓe maa"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "faasoo"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ɓiɓɓe rewɓe makko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ɓe faasina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "Eloohim maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:18.523981056Z",
+  "model": "glm-5.3"
+}

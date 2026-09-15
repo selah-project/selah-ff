@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Min yaltini ⟨את⟩ baabiraaɓe mon e Misrayim, on ari maayo; Misrayim nanngi baabiraaɓe mon, e kuɗe e ballooji, haa maayo reeji.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "min yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe mon"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "on ari"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yimɓe Misrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "e kuɗe"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "e ballooji"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "reeji"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:32.420021751Z",
+  "model": "glm-5.3"
+}

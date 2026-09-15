@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Sabu e nder hevel o ari, e nder niɓɓe o yaha; e nder niɓɓe innde makko suusa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "e nder hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "e nder niɓɓe"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o yaha"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "e nder niɓɓe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "suusa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:51.232746356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yurmina mi, Yaawe, miɗo rafi; safru mi, Yaawe, ƴiye am ɗen ngartii.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "yurmina mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "miɗo rafi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "safru mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ngartii"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ƴiye am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:25.397704429Z",
+  "model": "glm-5.3"
+}

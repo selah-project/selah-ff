@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe ɓeydani ⟨את⟩ nguurndam maɓɓde faamre, e golle saɗɗuɗe, e loope e cippi, e kala golle ladde; ⟨את⟩ kala golle maɓɓe ɗe ɓe golli e dow maɓɓe, ko e saɗtude-reende.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "Ɓe ɓeydani ... faamre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam maɓɓde"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "nguurndam maɓɓde"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "saɗɗuɗe"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "e loope"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "e cippi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala golle maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "golle maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ɓe golli"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e dow maɓɓe"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "e saɗtude-reende"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:20.601044377Z",
+  "model": "glm-5.3"
+}

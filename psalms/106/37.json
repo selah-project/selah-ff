@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe waɗii sarlaa ⟨את⟩ ɓiɓɓe mun wuurɓe e ⟨את⟩ ɓiɗɓe mun rewɓe fii Sheddim ɗin.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ɓe waɗii sarlaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mun wuurɓe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɓiɓɓe mun wuurɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɓe mun rewɓe"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ɓiɗɓe mun rewɓe"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "fii Sheddim ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:40.209022063Z",
+  "model": "glm-5.3"
+}

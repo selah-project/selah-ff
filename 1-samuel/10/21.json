@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O ɓadɗini ⟨את⟩ leñol Binjamiin e ɓesnguuji mum; ɓesngu Matiriyankooɓe cuɓaama; Saul ɓiy Kiis cuɓaama; ɓe ƴeewtii mo, kono o tawaani.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "o ɓadɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol Binjamiin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamiin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "e ɓesnguuji mum"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "cuɓaama"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ɓesngu"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matiri(naande)"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "cuɓaama"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiis"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ɓe ƴeewtii mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "o tawaani"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:02.509257736Z",
+  "model": "glm-5.3"
+}

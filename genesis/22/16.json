@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O wi'i: E hoore am mi cuuɗiima — wi'i Yaawe — nde tawnoɗum aɗa waɗi ⟨את⟩ konngol ngol ngol, aɗa withaanaa ⟨את⟩ ɓiɗɗo maa ⟨את⟩ wootere-maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e hoore am"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi cuuɗiima"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawno"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tawno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "aɗa waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aɗa withaanaa"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "withaanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wootere-maa"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "wootere-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:47.791066382Z",
+  "model": "glm-5.3"
+}

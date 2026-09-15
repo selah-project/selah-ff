@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe wi'i Kajin: ko fii ko kuloyi faade e maa, e ko fii halo maa li'i?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii ko"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kuloyi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "e ko fii ko"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "li'i"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "halo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:45.159820457Z",
+  "model": "glm-5.3"
+}

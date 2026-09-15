@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi heen ⟨את⟩ powe damal teentarndiral kawral ngal, e ⟨את⟩ jaɓɓe njamndi ndin, e ⟨את⟩ nanngirde njamndi ndin nde woodi, e ⟨את⟩ kuugal jaɓɓe ngal fuu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "powe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "powe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentarndiral"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jaɓɓe njamndi ndin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jaɓɓe"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "njamndi ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nanngirde njamndi ndin"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "nanngirde"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "njamndi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuugal jaɓɓe ngal fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaɓɓe ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:52.166022859Z",
+  "model": "glm-5.3"
+}

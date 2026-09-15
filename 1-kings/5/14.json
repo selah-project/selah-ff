@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɓe ngarii immorde e yimɓe fuu ngam hełde ⟨את⟩ haaɓru Shelomoh, immorde e ⟨את⟩ laamɓe leydi ndin fuu ɓe nanñuɗo ⟨את⟩ haaɓru makndu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ngarii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "immorde e fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngam hełde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haaɓru Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "haaɓru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "immorde e ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanñuɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haaɓru makndu"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "haaɓru makndu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:42.847559485Z",
+  "model": "glm-5.3"
+}

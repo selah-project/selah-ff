@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Si a woppaa bakkaatuuji, Yaah, Adonaay, hommo waawi daroode?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "bakkaatuuji"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "a woppaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "waawi daroode"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:04.896377976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Haande am wonayata ⟨e⟩ ñaawoore maa e daɗndo maa ñalawma fuu; gboro ɗee mi anndaali limoore mum.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "haande am"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "wonayata"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ñalawma fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "daɗndo maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gboro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɗi wona"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaali"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "limoore mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:32.118011485Z",
+  "model": "glm-5.3"
+}

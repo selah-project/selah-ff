@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Moshe e Aaharon naati e nder teental pottital ngal, ɓe yalti, ɓe barkinii ⟨את⟩ yimɓe ɓen, e teddungal Yaawe feeñi yeeso yimɓe ɓen fuu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aaharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pottital"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ɓe yalti"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ɓe barkinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "feeñi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:36.390393825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Haa duumi mi ñiiwdinta ndimaagu maa, mi mahay jooɗorde maa fii fulay e fulay. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "mi ñiiwdinta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ndimaagu maa"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mi mahay"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fii fulay"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e fulay"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "jooɗorde maa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:45.818450629Z",
+  "model": "glm-5.3"
+}

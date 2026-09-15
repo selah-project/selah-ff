@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Ɓe potɓe ɓen kadi ɓe ndiyata, ɓe kuloytoo, ɓe piña mo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe ndiyata kadi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ɓe potɓe ɓen"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe kuloytoo"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ɓe piña mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:47.888485589Z",
+  "model": "glm-5.3"
+}

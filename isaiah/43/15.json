@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Mi woni Yaawe, Ceniɗo mon, Taguɗo Israa'iila, Laamɗo mon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Ceniɗo mon"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Taguɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Laamɗo mon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:47.987710344Z",
+  "model": "glm-5.3"
+}

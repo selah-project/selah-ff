@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ndeen mi na'i les to suudu tagoowo nduu, e ƴeew — ko o woni e waɗde golle e dow kaaƴe ɗen.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "mi na'i les"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "tagoowo nduu"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "e ƴeew"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kaaƴe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-15T09:12:28.418802139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "⟨את⟩ kaayiral kawtal ngal, e ⟨את⟩ sanduku seedaagu ngun, e ⟨את⟩ orde yaafuya mo woni dow mum, e ⟨את⟩ kuutorɗe kaayiral ngal fuu —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaayiral kawtal ngal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kaayiral"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku seedaagu ngun"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "seedaagu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orde yaafuya"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "orde yaafuya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "woni dow mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorɗe kaayiral ngal fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kaayiral ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:04.286760172Z",
+  "model": "glm-5.3"
+}

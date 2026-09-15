@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi kala kaɓirgal pottere, ɗo kala e majji yottata nder muudaa mun, kala ko woni nder muudaa mun ko moyyintaake, ⟨את⟩ mun on breketa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kadi kala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirgal"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "pottere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yottata"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e majji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "muudaa mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "nder muudaa mun"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ko moyyintaake"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ mun",
+      "marks": "mun (kaɓirgal ngal)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "on breketa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:00.036334600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Kono si o fiyi mo e kaɓirgal njamndi, o maayi — waroowo ⟨o⟩ woni; waroowo on waran ⟨e maayde⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "e kaɓirgal"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "o fiyi mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "waroowo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩ woni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "warde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waran mo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "waroowo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:52.009901092Z",
+  "model": "glm-5.3"
+}

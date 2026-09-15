@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Teddin ⟨את⟩ Yaawe e jawle maa, e jaɓɓorgol gadanol kala keɓe maa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Teddin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "e jawle maa"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "e jaɓɓorgol gadanol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "keɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:08.336139698Z",
+  "model": "glm-5.3"
+}

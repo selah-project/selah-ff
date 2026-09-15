@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe yejjiti golle Mun, e cikkite Mun ɗen O hollu ɓe.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Ɓe yejjiti"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "golle Mun"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e cikkite Mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הראם",
+      "gloss": "O hollu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:47.398559311Z",
+  "model": "glm-5.3"
+}

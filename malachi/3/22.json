@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Joftoron tora Muusa jaaɓi am, nde mi yamiri ⟨את⟩ e to Horab, e dow Israa'iila fuu, laabi e ñaawirɗe.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Joftoron"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jaaɓi am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi yamiri"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "to Horab"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "to Horab"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "laabi"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e ñaawirɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:25.200659640Z",
+  "model": "glm-5.3"
+}

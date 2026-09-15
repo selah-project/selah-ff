@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 75,
+  "translation": "Fii yoŋtitoowo: «Wata mboro» — mizmor Asaaf, yimre.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoŋtitoowo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "mboro"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:38.103211780Z",
+  "model": "glm-5.3"
+}

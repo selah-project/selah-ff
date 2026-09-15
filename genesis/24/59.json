@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓe neldi ⟨את⟩ Riibka miñiiko debbo maɓɓe, e ⟨את⟩ ƴelliinde makko, e ⟨את⟩ maccuɗo Ibraahiima e ⟨את⟩ yimɓe makko.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Riibka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Riibka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "miñiiko debbo maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴelliinde makko"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "ƴelliinde makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "maccuɗo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe makko"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "yimɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:22.947151504Z",
+  "model": "glm-5.3"
+}

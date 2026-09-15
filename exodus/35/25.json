@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Kala debbo ganɗo-ɓernde taƴnooɗo e juuɗe mun, ɓe ndaddi ko taƴaama: ⟨את⟩ bulo, e ⟨את⟩ ɓuuɓri, ⟨את⟩ wormel boɗeelo, e ⟨את⟩ lin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ganɗo-ɓernde"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "e juuɗe mun"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "taƴnooɗo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ɓe ndaddi"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ko taƴaama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bulo"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "bulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓuuɓri"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wormel boɗeelo"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "wormel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "boɗeelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lin"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:13.863504419Z",
+  "model": "glm-5.3"
+}

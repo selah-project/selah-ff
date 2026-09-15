@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Oo ɓeynguure gasii, ko meeñuɗi duumi; a yani ⟨e⟩ cuuɗi ɗin — siftorde maɓɓe majjii e maɓɓe keddii.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "oo ɓeynguure"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "meeñuɗi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "e cuuɗi"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "a yani"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "siftorde maɓɓe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "e maɓɓe keddii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:25.212534926Z",
+  "model": "glm-5.3"
+}

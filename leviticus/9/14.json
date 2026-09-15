@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "O larli ⟨את⟩ nderi ɗin e ⟨את⟩ koyɗe ɗen, o ƴetti wisde ɗum e dow njuɓɓu ndun, e daande nden.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "o larli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nderi ɗin"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nderi ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koyɗe ɗen"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "koyɗe ɗen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o ƴetti wisde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "njuɓɓu ndun"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "daande nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:50.711760824Z",
+  "model": "glm-5.3"
+}

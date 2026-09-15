@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim waɗi moƴƴere e majjere'en ɗen, yimɓe ɓen keewii, ɓe mawniti no feewi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "o waɗi moƴƴere"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "majjere'en ɗen"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "keewii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ɓe mawniti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:20.569385261Z",
+  "model": "glm-5.3"
+}

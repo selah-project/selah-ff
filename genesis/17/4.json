@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Miin, ƴeew, bernde am ⟨את⟩ woni e maa, nde maa wona baaba keewal leƴƴi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Miin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bernde am"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mɑ wonda"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "המון",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:10.782339405Z",
+  "model": "glm-5.3"
+}

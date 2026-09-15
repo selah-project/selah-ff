@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Reen hoore maa, wata a yejjit ⟨את⟩ Yaawe Eloohim maa, wata a gaynira reende paandaali mun e ñaawoore mum e sariyaaji mum ɗi mi yamira maa hannde.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Reen hoore maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "a yejjit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "wata a gaynira"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "reende"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "paandaali mun"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "e ñaawoore mum"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "e sariyaaji mum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yamira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:05.123445346Z",
+  "model": "glm-5.3"
+}

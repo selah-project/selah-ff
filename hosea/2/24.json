@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Leydi ndin jaaboto ⟨את⟩ gawri ndin e ⟨את⟩ vite keso e ⟨את⟩ nebam; ɗi kadi mbaɗata jaabde ⟨את⟩ Yisreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "jaaboto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gawri ndin"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "gawri ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "vite keso"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "vite keso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nebam"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "nebam"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ɗi kadi"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mbaɗata jaabde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yisreel"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:32.272025701Z",
+  "model": "glm-5.3"
+}

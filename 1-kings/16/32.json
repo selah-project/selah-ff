@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O dariinii altare fii Baal, e suudu Baal ndun ko o mahi e Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o dariinii"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fii Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "e Shomron"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:59.219020847Z",
+  "model": "glm-5.3"
+}

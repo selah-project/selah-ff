@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Elishaa wi'i mo: “Yah, wi'i mo: A nguurataa tawo ⟨woni⟩; kono Yaawe hollitii mi wonnde o maayay tawo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tawa alaa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nguurde"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "a nguurataa tawo"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "hollitii mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayay tawo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:41.952478262Z",
+  "model": "glm-5.3"
+}

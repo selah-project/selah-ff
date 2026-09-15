@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Fii a hisnii min e ɗaɓɓitorɗe amen ɗen, a hoylinii ɓe nganki amen ɗen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "a hisnii min"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "e ɗaɓɓitorɗe amen ɗen"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "kadi ɓe nganki amen ɗen"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "a hoylinii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:20.563446424Z",
+  "model": "glm-5.3"
+}

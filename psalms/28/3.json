@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Wata a ustu am e tooñooɓe ɓen, e gollooɓe bonannde ɓen, ɓe kaalata jam e sehilaaɓe mun, bone kadi woni e ɓernde mun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "a ustu am"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tooñooɓe ɓen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollooɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ɓe kaalata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "sehilaaɓe mun"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "bone kadi"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "e ɓernde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:36.776581161Z",
+  "model": "glm-5.3"
+}

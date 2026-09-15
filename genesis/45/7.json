@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 45:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Eloohim neldi min yinnde mon, fii waɗde on ko heddii e leydi, e fii wuurnude on e hisnugol mawngol.",
+  "tokens": [
+    {
+      "surface": "וישלחני",
+      "gloss": "neldi min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yinnde mon"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "fii waɗde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "ולהחיות",
+      "gloss": "e fii wuurnude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "fii hisnugol"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mawngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:22.613872673Z",
+  "model": "glm-5.3"
+}

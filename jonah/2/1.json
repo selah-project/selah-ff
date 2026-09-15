@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe waɗiri liingu mawngu ngam lelwude ⟨את⟩ Yuunaa, Yuunaa woniino e nder reedu liingu ngun tati ñalɗi e tati jemmaaji.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "waɗiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "liingu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngu"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ngam lelwude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuunaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "woniino"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "liingu ngun"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "e tati"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "jemmaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:16.098853327Z",
+  "model": "glm-5.3"
+}

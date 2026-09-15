@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe neldi gorko, annabi, to ɓiɓɓe Yisraa'iil; o wi'i ɓe: \"Ko honno Yaawe, Eloohim Yisraa'iil, wi'i: Min mi ƴeewtinii on ⟨את⟩ ummoraade Misrayim, mi yaltinii on ⟨את⟩ ummoraade e saare jeyaaɓe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min mi"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ƴeewtinii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ummoraade Misrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "mi yaltinii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ummoraade e saare"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jeyaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:25:15.705376379Z",
+  "model": "glm-5.3"
+}

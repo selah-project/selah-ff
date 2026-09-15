@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "O moofti ⟨את⟩ ɓe e nder ñaawirdu-gaas balɗe tati.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "O moofti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ñaawirdu-gaas"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:21.953513980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ƴi'e maɓɓe on wata ñaame, kadi e majji maɓɓe on wata hormo — ɗi ngoni lanndaaji fii on.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ƴi'e maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaame"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "e majji maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "hormo"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "lanndaaji"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:37.494969607Z",
+  "model": "glm-5.3"
+}

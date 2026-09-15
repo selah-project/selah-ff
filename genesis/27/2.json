@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "O wi'i: ɗoo min, mi duuɓii, mi anndaa ñalnde maayde am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "min"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "mi duuɓii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "maayde am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:40.007325593Z",
+  "model": "glm-5.3"
+}

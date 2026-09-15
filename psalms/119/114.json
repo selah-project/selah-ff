@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Cuuroore am e ndeenka am ko ⟨Aan⟩; e konngol maa ngol mi yaakaari.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "cuuroore am"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "e ndeenka am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "e konngol maa ngol"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mi yaakaari"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:52.836364261Z",
+  "model": "glm-5.3"
+}

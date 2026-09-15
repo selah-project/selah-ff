@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "O walla jooɗo duumi yeeso Eloohim; hesed e goonga keewna, ɓe moofta mo.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "keewna"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "ɓe moofta mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:25.022642241Z",
+  "model": "glm-5.3"
+}

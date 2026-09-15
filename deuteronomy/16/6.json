@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Si wanaa to nokku ɗo Yaawe Eloohim maa suɓata, fii wisnude innde makko ɗoo, ɗoo a wadda ⟨את⟩ Pesaka e kikiiɗe, so naange ɗun naatii — sahaa yaltinnde maa e Misrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "suɓata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "fii wisnude"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "a wadda (sadak)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaka"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "e kikiiɗe"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "so ... naatii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange ɗun"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "yaltinnde maa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:50:57.184694354Z",
+  "model": "glm-5.3"
+}

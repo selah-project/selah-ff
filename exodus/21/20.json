@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si gorko fiyi ⟨את⟩ maccuɗo mum walla ⟨את⟩ maccudo debbo mum e losɗe, o maayi les juuɗe makko, leeltinaa, leeltine",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "gorko fiyi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo mum"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maccuɗo mum"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccudo debbo mum"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "maccudo debbo mum"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "e losɗe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "leeltinaa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "leeltine"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:10.685397038Z",
+  "model": "glm-5.3"
+}

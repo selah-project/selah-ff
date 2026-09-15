@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ɓe wi'i mo mawɓe ɓen fuu e yimɓe ɓen fuu: Wata a nano, wata a jaɓi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mawɓe ɓen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a nano"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "a jaɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:01.659399937Z",
+  "model": "glm-5.3"
+}

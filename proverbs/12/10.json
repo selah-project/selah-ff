@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ñaawoowo anndi nguurndam naggii mum; e yurmeende bonɓe ko kattanteeɗe.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "naggii mum"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "e yurmeende"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kattanteeɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:46.699362328Z",
+  "model": "glm-5.3"
+}

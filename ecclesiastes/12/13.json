@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ñaawoore konngol ngol, fuu nanndaama: kul ⟨את⟩ Eloohim on, reenu ⟨את⟩ amaruuji Makko ɗin; ndeeno ɗum ko neɗɗo on fuu.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Ñaawoore"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nanndaama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim on"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "amaruuji Makko ɗin"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "amaruuji Makko"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "reenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndeeno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:32.949417872Z",
+  "model": "glm-5.3"
+}

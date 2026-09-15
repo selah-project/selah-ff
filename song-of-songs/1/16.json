@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndaaru, a beli, doodiiɗo am, a welɗin ⟨kadi⟩; leeso amen kadi ngolloo-colli.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ndaaru"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "a beli"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "doodiiɗo am"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "a welɗin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "leeso amen"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "ngolloo-colli"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:33.974413778Z",
+  "model": "glm-5.3"
+}

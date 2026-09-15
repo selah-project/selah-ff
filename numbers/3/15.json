@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Limo ⟨את⟩ ɓiɓɓe Lewi, e suudu baabiraaɓe maɓɓe, e ɓesnguuji maɓɓe; kala gorko ɓiɗɗo lewru e ɓurdude limo ɓe.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "limo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Lewi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e ɓesnguuji maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ɓurdude"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "limo ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:00.373557204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe yaltini minen e Misrayim e junngo dungu, e kaɓirgal dartiingal, e kulol mawngol, e maandeeji e kaawniiɗi.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "yaltini minen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "dungu"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "e kaɓirgal"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "dartiingal"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mawngol"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "e maandeeji"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "e kaawniiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:21.174191654Z",
+  "model": "glm-5.3"
+}

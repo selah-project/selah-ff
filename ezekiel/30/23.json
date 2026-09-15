@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Mi saakta ⟨את⟩ Misrayim e nder leƴƴi, mi peppa ɓe e nder leyɗe.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "mi saakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder leƴƴi"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "mi peppa ɓe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "e nder leyɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:47:58.570399335Z",
+  "model": "glm-5.3"
+}

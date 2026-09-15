@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yaawe feeñi e nder ɓuurdi ndi, e nder palooru duule; palooru duule nduu darii e dow damal ɓuurdi ndin.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "feeñi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e nder ɓuurdi ndi"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "e nder palooru"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "duule"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "palooru"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duule nduu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "damal"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ɓuurdi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:51:16.448762854Z",
+  "model": "glm-5.3"
+}

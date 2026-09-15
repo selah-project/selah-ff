@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ƴootuɓe ɓe nji'i, ɓe weltii; bonru fuu udditi hinndere mum.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ɓe nji'i"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ƴootuɓe ɓe"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ɓe weltii"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bonru fuu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bonru"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hinndere mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:12.387041223Z",
+  "model": "glm-5.3"
+}

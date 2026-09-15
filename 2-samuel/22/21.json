@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 22:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yaawe yoɓii mi no ñaawoore-am laaɓiri; no laaɓal junngooji am, o artirii ⟨ɗum⟩ mi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "yoɓii mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "no ñaawoore-am laaɓiri"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngooji am"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o artirii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:29.534062776Z",
+  "model": "glm-5.3"
+}

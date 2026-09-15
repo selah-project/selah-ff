@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Naara jibini mo ⟨את⟩ Ashuzzam e ⟨את⟩ Chefer e ⟨את⟩ Temeni e ⟨את⟩ Ashashtari; ɓeeɗi ko ɓiɓɓe Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ashuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ashashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ashashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɓeeɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:48.869270868Z",
+  "model": "glm-5.3"
+}

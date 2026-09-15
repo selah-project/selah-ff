@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Ƴeew, gollooɓe ɓe mooftoo, kono ɓe ngonaa ⟨את⟩ e am; hol mo mooftuɗo ⟨את⟩ e maa? e maa o yoyo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "גור",
+      "gloss": "gollooɓe (mooftuɓe)"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ɓe mooftoo"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "kono ... ɓe ngonaa"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ e am",
+      "marks": "e am"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol mo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mooftuɗo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "o yoyo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:21.346068256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O tuugi kammuuli ɗin o ari les, e niɓɓere ɓundi les koyɗe mun.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "o tuugi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "o ari les"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "e niɓɓere ɓundi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:56.123104702Z",
+  "model": "glm-5.3"
+}

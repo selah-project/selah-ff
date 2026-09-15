@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "No ɓe njiiri noon woni ɓen ɗi ɓe mbaɗii; kala mo ƴeɗi e ɓe kadi no ɓe njiiri.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "no ɓe njiiri noon"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "woni"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ɓen ɗi ɓe mbaɗii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ƴeɗi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:46.760926955Z",
+  "model": "glm-5.3"
+}

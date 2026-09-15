@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Wata a ndokku gite maa lelgu, wanaa noorka piɗɗe gite maa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a ndokku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "lelgu"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "noorka"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "piɗɗe gite maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:01.772223280Z",
+  "model": "glm-5.3"
+}

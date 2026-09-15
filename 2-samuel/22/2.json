@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O wi'i: Yaawe ⟨ko⟩ lelwol am, paltoore am, hisnooɗo am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "lelwol am"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "paltoore am"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "hisnooɗo am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:38.759082205Z",
+  "model": "glm-5.3"
+}

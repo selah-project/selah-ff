@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ndaaru, mi ɗaɓɓi pikuduuji Maa ɗen; e ndimaaku Maa wuurnu am.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndaaru (lo!)"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "mi ɗaɓɓi (mi yiɗi no feewi)"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "pikuduuji Maa ɗen"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "e ndimaaku Maa"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "wuurnu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:35.253677809Z",
+  "model": "glm-5.3"
+}

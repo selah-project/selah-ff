@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Sabu o yamiray malaa'ika makko fii maa, ngam reenude a e laawol maa fof.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaa'ika makko"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "yamiray"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ngam reenude a"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "laawol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:23.626247894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɔaali min teddinaama no yimɓe ceggu nii, sabu o momti min, o ñaami kadi ñaamru timmundu ⟨את⟩ kaalis amen.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ana ɓurtol"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "no yimɓe ceggu nii"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "teddinaama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɔaali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "o momti min"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "o ñaami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ñaamru timmundu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaalis amen"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "kaalis amen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:37.373854277Z",
+  "model": "glm-5.3"
+}

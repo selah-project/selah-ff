@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 123,
+  "translation": "Laatoto, hono no gite maccuɓe ɗen ngarta e junngo joomiraaɓe maɓɓe, hono no gite maccuɗo debbo ngarta e junngo jom mum nii, ko nii gite amen ɗen ngarta e Yaawe Eloohim amen, haa ⟨o⟩ yurminu min.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Laatoto"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "hono no gite"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngarta e"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "joomiraaɓe maɓɓe"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "hono no gite"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "maccuɗo debbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngarta e"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "jom mum debbo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "gite amen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngarta e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "o yurminu min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:14.980097122Z",
+  "model": "glm-5.3"
+}

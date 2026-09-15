@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe woppaali yiɗde maɓɓe, ñamri maɓɓe woni hannde e duume maɓɓe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Woppaali"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ɓe dartinii"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "yiɗde maɓɓe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ñamri maɓɓe"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "e duume maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:30.463336957Z",
+  "model": "glm-5.3"
+}

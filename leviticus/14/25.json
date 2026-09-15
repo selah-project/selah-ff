@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O wara ⟨את⟩ keves aasamaare nden, kohaano on ƴetta e ƴiiƴam aasamaare, o waɗa ɗum dow cakkite nanngirde laaɓɗo on ñaamo, e dow wuro junnde makko ñaamo, e dow ɓowlo koyngal makko ñaamo.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "o wara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keves aasamaare nden"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "keves"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aasamaare"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ƴetta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohaano on"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "aasamaare"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o waɗa ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "cakkite"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nanngirde"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "laaɓɗo on"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde makko"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ɓowlo"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "koyngal makko"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ñaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:24:02.553760693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "No Yaawe yamiri ⟨את⟩ Musaa non, ko non ɓiɓɓe Israa'iila mbaɗi ⟨את⟩ golle ɗen fof.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "no ... fof non"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle ɗen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "golle ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:14.060741478Z",
+  "model": "glm-5.3"
+}

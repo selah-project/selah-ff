@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yimɓe ɓen du'ii worɓe fuu ɓe muñii woɗɗitaade hoore mum en ngam njooñaade e Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ɓe du'ii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ɓe muñii woɗɗitaade hoore mum en"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngam njooñaade"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:57.583910894Z",
+  "model": "glm-5.3"
+}

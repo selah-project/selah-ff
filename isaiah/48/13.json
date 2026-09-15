@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 48:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Kadi junngo am tagi leydi ndin, e ñaamo am fewni kammuuli ɗin; miin noddata ɓe, ɓe darii e kawtal.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "וימיני",
+      "gloss": "e ñaamo am"
+    },
+    {
+      "surface": "טפחה",
+      "gloss": "fewni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "e kawtal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:42.121121746Z",
+  "model": "glm-5.3"
+}

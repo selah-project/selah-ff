@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ndeeɓe njabaaɓe ɗin ñamminii ⟨את⟩ laamɗo Shelomoh e ⟨את⟩ kala etotooɗo wuro laamɗo Shelomoh, neɗɗo lewru mun; ɓe accaali huunde nde ŋakkundi.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "ñamminii"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "njabaaɓe ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ndeeɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "etotooɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "lewru mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe accaali"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "ŋakkundi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:31.019585378Z",
+  "model": "glm-5.3"
+}

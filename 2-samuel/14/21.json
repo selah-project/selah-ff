@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Laamɗo on wi'i Yowabu: “Ndaara, miɗo waɗa ⟨את⟩ konngol ngol; yah, wartir ⟨את⟩ suka on ⟨את⟩ Awshalom.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ndaara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "min"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "miɗo waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "השב",
+      "gloss": "wartir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka on"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshalom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:09.925371557Z",
+  "model": "glm-5.3"
+}

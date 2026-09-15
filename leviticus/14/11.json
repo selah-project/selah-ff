@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Almuudo laaɓtuɗo on darinta ⟨את⟩ gorko laaɓtinaaɗo on e ⟨את⟩ɗien ɗo Yaawe darii, kaŋŋe asirgal kawral ngal.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "o darinta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuudo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "laaɓtuɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorko laaɓtinaaɗo on"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "laaɓtinaaɗo on"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗiɗen (nalɗe ɗen)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɗo...darii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "asirgal"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:12.514590954Z",
+  "model": "glm-5.3"
+}

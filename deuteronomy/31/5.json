@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "E Yaawe waɗay ɓe yeeso mon, on waɗan ɓe no amre nden fof nde mi Ƴamiri ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "waɗay ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "on waɗan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no … fof"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "amre nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi Ƴamiri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:09:10.409536483Z",
+  "model": "glm-5.3"
+}

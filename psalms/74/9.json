@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Maandeeji amen min njiyataa; alaa ɓaawo ɗoo anniyanke, kadi alaa ⟨את⟩ e amen baylo annduɗo haa ñaande.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "maandeeji amen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "min njiyataa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓaawo ɗoo"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "anniyanke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ e amen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "annduɗo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ñaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.971886385Z",
+  "model": "glm-5.3"
+}

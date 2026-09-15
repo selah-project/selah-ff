@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndiyam ɗin ɗiartii e leydi ndin, yahde e ɱartude, nden ndiyam ɗin ngoni ɓurtude e joofnirde balɗe teemedere e joumɗi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ɱartii"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Ndiyam ɗin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yahde"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e ɱartude"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ngoni ɓurtude"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "e joofnirde"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "joumɗi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e teemedere"
+    },
+    {
+      "surface": "יום",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:32.829646694Z",
+  "model": "glm-5.3"
+}

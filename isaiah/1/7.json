@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Leydi mon ena heddii ⟨את⟩ e njuɓɓudi; gure mon njani e yiite; leydi mon, yimɓe cimɓe nguura ɗum yeeso mon, ena waaɓi noiyle hono ko cimɓe mbaaƴiniiri.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "leydi mon"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ena njuɓɓudi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "gure mon"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "njani"
+    },
+    {
+      "surface": "אש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "leydi mon"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yimɓe cimɓe"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "nguura"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "e njuɓɓudi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "no mbaaƴiniiri"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:13.216614700Z",
+  "model": "glm-5.3"
+}

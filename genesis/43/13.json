@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "e ⟨את⟩ miñiraaɓe mon ɓen jogiteno; ummiteno, arteno to gorko on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "miñiraaɓe mon ɓen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miñiraaɓe mon ɓen"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "jogiteno"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ummiteno"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "arteno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:59.517595808Z",
+  "model": "glm-5.3"
+}

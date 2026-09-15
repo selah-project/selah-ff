@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Jaakob dogi ladde Aram, Israa'iil golli fii debbo, e fii debbo o re'i.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "golli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "fii debbo"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "e fii debbo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "re'i"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:39.167726049Z",
+  "model": "glm-5.3"
+}

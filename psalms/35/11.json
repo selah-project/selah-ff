@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Seediiɓe tooñanngeeji ummito; ɗum hay mi anndaani, ɓe naamndii mi.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "seediiɓe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tooñanngeeji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaani"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ɓe naamndii mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.612505211Z",
+  "model": "glm-5.3"
+}

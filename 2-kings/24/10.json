@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "E ɗoon sahaa sarwaaɓe Nevukadnessar laamɗo Babilon ɓee njahi haa Yerushalayim, wuro ngoo naati e saroore.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "E ɗoon sahaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "njahi haa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sarwaaɓe"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "e saroore"
+    }
+  ],
+  "timestamp": "2026-09-14T12:09:50.963334788Z",
+  "model": "glm-5.3"
+}

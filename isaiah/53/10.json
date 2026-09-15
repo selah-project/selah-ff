@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Yaawe yiɗi muusnude makko, o baɗti mo ñawu; so a waɗii hoore makko sadak tuubaaku, o yi’ay aawdi, o ɓennay balɗe, e yiɗde Yaawe e junngo makko moƴƴay.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "muusnude makko"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "o baɗti mo ñawu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "a waɗii"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sadak tuubaaku"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi’ay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "aawdi"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "o ɓennay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "e yiɗde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "moƴƴay"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:39.243496651Z",
+  "model": "glm-5.3"
+}

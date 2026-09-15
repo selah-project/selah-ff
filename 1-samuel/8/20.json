@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "en min ngonto no min njiyata, minen kadi mbaɗata no yimɓe leƴƴi ɗin fuu ngata; laamɗo amen on ñaawa min, o yaltu ka yeeso amen, o haɓa ⟨את⟩ hareeje amen ɗen.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "min ngonto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no... fuu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ñawa min"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "laamɗo amen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yaltu"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ka yeeso amen"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "o haɓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hareeje amen ɗen"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "hareeje amen ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T18:53:52.237169047Z",
+  "model": "glm-5.3"
+}

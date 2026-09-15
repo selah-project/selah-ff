@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E laamɗo on Shelomoo yi'i rewɓe janani heewɓe, e ⟨את⟩ ɓiɗɗo debbo Par'oh — rewɓe Mooab, rewɓe Ammon, rewɓe Edom, rewɓe Sidon, e rewɓe Heth.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "e laamɗo on"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "janani"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo debbo Par'oh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "rewɓe Mooab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "rewɓe Ammon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "rewɓe Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "rewɓe Sidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "rewɓe Heth"
+    }
+  ],
+  "timestamp": "2026-09-15T05:36:23.686158480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi ñeeɓinay ndee yimɓe ⟨את⟩ ɓural e gite yimɓe Misrayim, wooday wonnde tuma nde njahaton on, njaha on wanaa meere.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ñeeɓinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓural"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ɓural"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wooday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde tuma nde"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "njahaton on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "njaha on"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "meere"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:49.616120941Z",
+  "model": "glm-5.3"
+}

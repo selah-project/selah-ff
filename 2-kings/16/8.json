@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Acaaz jogtii ⟨את⟩ kaalis e ⟨את⟩ njeebi tawaango e saare Yaawe e kaɓirɗe saare laamɗo on, o neldi ɗum laamɗo Assur — dokkal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogtii"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Acaaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaalis"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njeebi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "njeebi"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tawaango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e kaɓirɗe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "to laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "dokkal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:22.518650409Z",
+  "model": "glm-5.3"
+}

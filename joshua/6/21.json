@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe halki ⟨את⟩ ko woni fuu wuro ngoo, gila e gorko haa e debbo, gila e suka haa e mawɗo, haa e nagge e be'i e bula, to butti leppi.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "ɓe halki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko woni fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "gila e gorko"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "gila e suka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "e be'i"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "e bula"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "to butti"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "leppi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:15.656403603Z",
+  "model": "glm-5.3"
+}

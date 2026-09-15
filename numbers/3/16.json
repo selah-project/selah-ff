@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Moshe limti ⟨את⟩ ɓe e daande Yaawe, no o yamiraa nihidi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "limti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (ɓiɓɓe Lewi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o yamiraa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:00.373739905Z",
+  "model": "glm-5.3"
+}

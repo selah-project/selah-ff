@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si neɗɗo hokki sehil mun kaalis walla kaɓirɗe ngam reende, ɗe njippi e suudu neɗɗo on ; si wirnyanke on heɓaama, o yoɓa ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ɗe njippi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "heɓaama"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "wirnyanke on"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yoɓa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:38.249140072Z",
+  "model": "glm-5.3"
+}

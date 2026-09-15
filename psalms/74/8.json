@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Ɓe wi'i nder ɓernde maɓɓe: “Min mbulla ɓe fuu kawti”; ɓe catalinii nokkuuje kawral Eel ɗin fow e leydi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "nder ɓernde maɓɓe"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "min mbulla ɓe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "fuu kawti"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ɓe catalinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗiin fow"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "nokkuuje kawral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:52.802069619Z",
+  "model": "glm-5.3"
+}

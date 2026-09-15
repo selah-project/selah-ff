@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Nguurndam am tonngii sabu mette; semmin-mi no konngol maa wiiri.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "tonngii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "sabu mette"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "semmin-mi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "no konngol maa wiiri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:54.124066675Z",
+  "model": "glm-5.3"
+}

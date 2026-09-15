@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Duuyeeji ɗin nanaa ngam ñaamre, ɗi njiiloo e Eel ñaamde mum en.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "duuyeeji ɗin"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "nanaa"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "ngam ñaamre"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "e ɗi njiiloo"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "e Eel"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ñaamde mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:16.846091993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Duumi mi reenata mo hesed Am, e jokkere Am sellundi darii e makko.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "mi reenata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed Am"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "e jokkere Am"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "sellundi darii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:18.634278298Z",
+  "model": "glm-5.3"
+}

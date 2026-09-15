@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 4:9",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Junnde Zerubbabel suudi suudu ndu, kadi junnde makko timminay ɗum; a daran anndude wonde Yaawe-yi'ɓe Seybaaji neldi mi faade e mon.",
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "junnde"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "יסדו",
+      "gloss": "suudi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "kadi junnde makko"
+    },
+    {
+      "surface": "תבצענה",
+      "gloss": "timminay ɗum"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "a daran anndude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Seybaaji"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "neldi mi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "faade e mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:20.916615149Z",
+  "model": "glm-5.3"
+}

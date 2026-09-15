@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ Patrusim ɗen, e ⟨את⟩ Kasluhim ɗen — ɓe ɗoon yaltuɗo ɗoon woni Filistim ɓen — e ⟨את⟩ Kaftorim ɗen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Patrusim ɗen"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kasluhim ɗen"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yaltuɗo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistim ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kaftorim ɗen"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.315929359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Miɗo jeyqora kadi e musibba mon; miɗo jestina so kulol mon arii;",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "e musibba mon"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "miɗo jeyqora"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "miɗo jestina"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "so ... arii"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "kulol mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:27.774776814Z",
+  "model": "glm-5.3"
+}

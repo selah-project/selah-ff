@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si ngaddugol ngol tawaama tawaama e junngo makko, wuro mbaadu haa mbaadu baaɗi — wuyri — ɗiɗi o yootta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ngaddugol ngol"
+    },
+    {
+      "surface": "משור",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "mbaadu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שה",
+      "gloss": "baaɗi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wuyri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o yootta"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:13.628696236Z",
+  "model": "glm-5.3"
+}

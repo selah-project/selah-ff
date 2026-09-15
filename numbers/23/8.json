@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "No mi ñaawirta mo Eel ñaawaani? Misa no mi fillerirta mo Yaawe filliraani?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "No ... -irta"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "mi ñaawirta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waʼa"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ñaawaani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Misa no"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "mi fillerirta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waʼa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "filliraani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:03.858889281Z",
+  "model": "glm-5.3"
+}

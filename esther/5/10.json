@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kono Hamanan muusni hoore mun, naati to suudu mun; neldi, addi ⟨את⟩ mo o woodi gaaɗiiɓe mun ɗo e ⟨את⟩ Zeres debbo mun.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "muusni hoore mun"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanan"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo o woodi gaaɗiiɓe mun ɗo"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "mo o woodi gaaɗiiɓe mun ɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeres"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeres"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:06.488807390Z",
+  "model": "glm-5.3"
+}

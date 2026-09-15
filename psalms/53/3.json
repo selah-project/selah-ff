@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Eloohim ummoriiɗo e kammuuli ɗin ƴeewtii les ɓiɓɓe Aadama, ngam yi'de so tawii alana keɓoowo faamu, ɗaɓɓoowo ⟨את⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ummoriiɗo e kammuuli ɗin"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ƴeewtii"
+    },
+    {
+      "surface": "על",
+      "gloss": "les"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadama"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'de"
+    },
+    {
+      "surface": "היש",
+      "gloss": "so tawii alana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "keɓoowo faamu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɗaɓɓoowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:01.696312137Z",
+  "model": "glm-5.3"
+}

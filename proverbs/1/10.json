@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɗɗo am, si munceeji fewnitii ma, wata a jaɓo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɗɗo am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "fewnitii ma"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "munceeji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "a jaɓo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:10.931375302Z",
+  "model": "glm-5.3"
+}

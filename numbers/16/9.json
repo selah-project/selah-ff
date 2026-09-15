@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ko famɗi wonde Eloohim Israyiil seerindii ⟨את⟩ on e renndo Israyiil, ngam ɓadtinde ⟨את⟩ on e Makko, ngam waɗde ⟨את⟩ golle suudu Yaawe, e ngam daraade yeeso renndo ngoo fii gollinde ɓe?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "ko famɗi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "seerindii"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "renndo Israyiil"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "e renndo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "ngam ɓadtinde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "e Makko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e Makko"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle suudu Yaawe"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "e ngam daraade"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "renndo ngoo"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "fii gollinde ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:41:44.747773707Z",
+  "model": "glm-5.3"
+}

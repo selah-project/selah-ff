@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 9:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ko woori, ɓe njahi sabu dugru mawngu; Misrayim mooɓay ɓe, Mowfu wirnay ɓe; ko welɗi e kaalis maɓɓe, kuutorse roncay ɗum; ɓuuɓri ina woni e dureeji maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko woori"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "naa"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "משד",
+      "gloss": "dugru"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "תקבצם",
+      "gloss": "mooɓay ɓe"
+    },
+    {
+      "surface": "מף",
+      "gloss": "Mowfu"
+    },
+    {
+      "surface": "תקברם",
+      "gloss": "wirnay ɓe"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "ko welɗi"
+    },
+    {
+      "surface": "לכספם",
+      "gloss": "e kaalis maɓɓe"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "kuutorse"
+    },
+    {
+      "surface": "יירשם",
+      "gloss": "roncay ɗum"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "e dureeji maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:22.795721959Z",
+  "model": "glm-5.3"
+}

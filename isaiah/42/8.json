@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Miin woni Yaawe; ko ɗum woni innde am; teddungal am mi rokkataa goɗɗo, wullitaango am kadi wanaa mise ɓettaaɗi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ɗum woni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "e teddungal am"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi rokkataa"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "e wullitaango am"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "mise ɓettaaɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:29.740252969Z",
+  "model": "glm-5.3"
+}

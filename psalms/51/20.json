@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Waɗu moƴƴere e yiɗere maa fii ⟨את⟩ Siyon; mah ɗaɗe Yerushalayim ɗen.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "waɗu moƴƴere"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "e yiɗere maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mah"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ɗaɗe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:31.781522684Z",
+  "model": "glm-5.3"
+}

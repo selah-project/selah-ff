@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 37:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ko hono Yaawe, Eloohim Israyiila, wi'i: ko hono njenon wi'a to laamɗo Yahuuda, on neldu ⟨את⟩on to am fii ɓeɗɗaade am: ƴeew, konu Par'oh ngu yaltuɗo fii on wallude, maa artu to leydi mun, Misrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko hono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiila"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko hono"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "njenon wi'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "on neldu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩on",
+      "marks": "on"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to am"
+    },
+    {
+      "surface": "לדרשני",
+      "gloss": "fii ɓeɗɗaade am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ngu yaltuɗo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "fii wallude"
+    },
+    {
+      "surface": "שב",
+      "gloss": "maa artu"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "to leydi mun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T08:24:38.706061734Z",
+  "model": "glm-5.3"
+}

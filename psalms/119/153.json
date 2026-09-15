@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Yi'an sanne am, hisnu min, sabu dewal maa ngal mi yiyraali.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "yi'an"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sanne am"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "hisnu min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "dewal maa ngal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yiyraali (laaɓtaali)"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "mi yejjitaaki"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:31.387357397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Pelistiyanke on ɓadtunoo subaka e kikiiɗe, o darnde hoore mun balɗe cappanɗe nayi.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ɓadtunoo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelistiyanke on"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "darnde hoore mun"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "balɗe cappanɗe nayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:42.163685273Z",
+  "model": "glm-5.3"
+}

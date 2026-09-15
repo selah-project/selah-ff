@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si njiiri nden fooða maccuɗo walla maccuɗo debbo, kaalis skekaluuje cappanɗe tati yo o hokku Adonaay mun, kadi njiiri nden yo werlee kaaƴe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "fooða"
+    },
+    {
+      "surface": "השור",
+      "gloss": "njiiri nden"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "maccuɗo debbo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "cappanɗe tati"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "skekaluuje"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "Adonaay mun"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "kadi njiiri nden"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "werlee kaaƴe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:12.300124997Z",
+  "model": "glm-5.3"
+}

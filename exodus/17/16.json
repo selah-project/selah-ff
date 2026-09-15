@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O wi'i: sabu junngo woni e jappeere Yaah, konu ngu ko Yaawe mari e Amalek, iwdi yahi iwdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כס",
+      "gloss": "jappeere"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu ngu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ko Yaawe mari"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "e Amalek"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "iwdi"
+    },
+    {
+      "surface": "דר",
+      "gloss": "yahi iwdi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:51.049175808Z",
+  "model": "glm-5.3"
+}

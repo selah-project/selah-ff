@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Hesed maa, so wi'etee e ƴiiƴere? Goongɗitol maa, e Abaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "so wi'etee"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "e ƴiiƴere"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "goongɗitol maa"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "e Abaddon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:32.357824819Z",
+  "model": "glm-5.3"
+}

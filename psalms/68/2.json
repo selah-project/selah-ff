@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Yo Eloohim umru, ɓe tinndoy yo sanyaaɓe makko, yo ɓe dogu ɓe muñɗo mo, ɗum doga ka yeeso makko.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "yo … umru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ɓe tinndoy"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "sanyaaɓe makko"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "yo ɓe dogu"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ɓe muñɗo mo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ka yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:34.939983173Z",
+  "model": "glm-5.3"
+}

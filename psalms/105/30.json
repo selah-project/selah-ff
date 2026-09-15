@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Leydi maɓɓe ɓurtunoo e jippereeji, e nder cuuɗri laamɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "ɓurtunoo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "jippereeji"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "e nder cuuɗri"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "laamɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.248537591Z",
+  "model": "glm-5.3"
+}

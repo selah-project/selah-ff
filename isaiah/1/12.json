@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde ɓe njahi ngam yiyde wuro am — hol yo ɗum ɗaɓɓiri e junngo mon, yo mana ley anstuubeeje am?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yiyde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wuro am"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol yo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ɗaɓɓiri"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "e junngo mon"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "yo mana"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "anstuubeeje am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:24.634738379Z",
+  "model": "glm-5.3"
+}

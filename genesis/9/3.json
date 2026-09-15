@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ko diwotooɗo kadi ko wuurata tan, ko ngam on ñaamata; hono no puɗe ɓale nii mi naddi on ⟨את⟩ ko woni fuu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ko ... tan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "diwotooɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuurata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ko ngam ... ñaamata"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "hono no puɗe ɓale nii"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "puɗe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi naddi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko woni fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko woni fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:15.268974019Z",
+  "model": "glm-5.3"
+}

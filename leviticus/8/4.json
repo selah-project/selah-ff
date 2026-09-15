@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mosheh waɗi no Yaawe yamiri ⟨את⟩ mun nih; kominitta nden kawti faade dame teental kawtal ngal.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mun",
+      "marks": "mun (Mosheh, wonii kominitta kawtunde nden)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "kawti"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kominitta nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dame"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal ngal"
+    }
+  ],
+  "timestamp": "2026-09-15T09:13:07.500521667Z",
+  "model": "glm-5.3"
+}

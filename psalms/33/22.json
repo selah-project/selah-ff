@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaa hesed maa, Yaawe, wonu e amen, no min ɗaɓɓiri fii maa nih.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "yaa ... wonu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nih"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "min ɗaɓɓiri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:36.483333767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Yeeytude aru ɓe; ɓe jooɗo e Seol wuurɓe; sabu bonnde woni e nokku ɓe ngoni, nder maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "yeeytude"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "aru ɓe"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ɓe jooɗo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wuurɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "e nokku ɓe ngoni"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "nder maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:00.092262071Z",
+  "model": "glm-5.3"
+}

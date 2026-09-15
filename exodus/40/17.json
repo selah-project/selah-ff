@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Nde ɗum waɗi, e lewru nde araanere, e hitaande ɗiɗaɓere, ñalnde araanere e lewru ndun, hoɗorde nden darii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde ɗum waɗi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "nde araanere"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ɗiɗaɓere"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ñalnde araanere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "darii"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hoɗorde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:20.943123428Z",
+  "model": "glm-5.3"
+}

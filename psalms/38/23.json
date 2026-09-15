@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Yaa jaawnu fii ballal am, Adonaay, njaagu am.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "yaa jaawnu"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "fii ballal am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "njaagu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:22.052672878Z",
+  "model": "glm-5.3"
+}

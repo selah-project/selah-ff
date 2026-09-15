@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Ɓe ndattii ɗimmu Muusaa e Aaruna e ɓiɓɓe mun ⟨את⟩ junnte maɓɓe e ⟨את⟩ kuute maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ɓe ndattii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɗimmu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aaruna"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnte maɓɓe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "junnte maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuute maɓɓe"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "kuute maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:39.669592069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ɓe noddii Yaawe e muñal mun, o daɗnini ɓe e caɗe mun.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Ɓe noddii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e muñal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "e caɗe mun"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "o daɗnini ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:16.716432502Z",
+  "model": "glm-5.3"
+}

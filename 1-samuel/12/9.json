@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓe yejjiti ⟨את⟩ Yaawe Eloohim ⟨את⟩ maɓɓe, o yeeyi ɓe e junngo Siiseraa, hooreedo konu nguu Hatsor, e junngo Pelistiiyankooɓe, e junngo laamɗo Mooab, ɓe nguuri hare e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "yejjiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "o yeeyi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siiseraa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreedo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistiiyankooɓe"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mooab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ɓe nguuri hare"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:43.119005507Z",
+  "model": "glm-5.3"
+}

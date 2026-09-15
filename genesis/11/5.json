@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe jippii ngam yillaade ⟨את⟩ wuro ngoo e ⟨את⟩ towro nden ɓe ɓiɓɓe aadeeji ɗin mahi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ngam yillaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro ngoo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "towro nden"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "towro nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadeeji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:56.939375026Z",
+  "model": "glm-5.3"
+}

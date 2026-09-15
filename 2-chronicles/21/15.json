@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono a hoɗotoɗaa e ñawuuje keewɗe, e ñawu nderuuji maa, haa nderuuji maa njaltata, sabu ñawu ngu, ñalawma e ñalawma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "e ñawuuje"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "e ñawu"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "nderuuji maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "njaltata"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "nderuuji maa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "ñawu ngu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalawma"
+    }
+  ],
+  "timestamp": "2026-09-14T11:19:01.944025954Z",
+  "model": "glm-5.3"
+}

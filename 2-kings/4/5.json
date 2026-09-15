@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O yahi ⟨את⟩-makko, o udditi damal ngal e hoore mun e ɓiɓɓe mun; ɓe njottina ka makko, kanko o wirnina.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-makko"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "o udditi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "njottina"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ka makko"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "wirnina"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:51.803825045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Neldu annur maa e goonga maa; kamɓe ɗiɗo ɓe kowira lam, ɓe adda lam haa duwal sellu maa, e haa ɗisondirɗe maa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Neldu"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "annur maa"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "e goonga maa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe ɗiɗo ɓe"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "kowira lam"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "adda lam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "duwal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sellu maa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e haa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ɗisondirɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:23.735698268Z",
+  "model": "glm-5.3"
+}

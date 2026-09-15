@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Mo juuɗe makko mutti cogguuli leydi ndin, caggal ɗuum tooweeli pelle ɗen ⟨ko⟩ kanne.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "cogguuli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "tooweeli pelle ɗen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ko⟩ kanne"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:37.101372404Z",
+  "model": "glm-5.3"
+}

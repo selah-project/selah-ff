@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Maayo ngoo yi'i, dogi; Yarduuden oo ruttinoo caggal.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Maayo ngoo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduuden oo"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ruttinoo"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "caggal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.610955979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ummito e umminaa hoore maa fii ñaawoore am, Eloohim am e Adonaay am, fii ñaawoore am.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "e umminaa hoore maa"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "fii ñaawoore am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "e Adonaay am"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "fii ñaawoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:42.357125644Z",
+  "model": "glm-5.3"
+}

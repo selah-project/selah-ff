@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ɓe wullunoo ⟨e⟩ Yaawe e caɗe mun en; e muñƴe mun en O daɗnunoo ɓe.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Ɓe wullunoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e caɗe mun en"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mun en"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "e muñƴe mun en"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "O daɗnunoo ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:15.501357951Z",
+  "model": "glm-5.3"
+}

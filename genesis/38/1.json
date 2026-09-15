@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Nde wonii e wakkati o, Yehudah jippii ⟨את⟩ ɗo yiyi e mum — arnoobe mun — o dañi faade e gorko Adullamnaajo, innde mun woni Hirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde wonii"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e wakkati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "arnoobe mun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "arnoobe mun"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o dañi faade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adullamnaajo"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirah"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:47.513371548Z",
+  "model": "glm-5.3"
+}

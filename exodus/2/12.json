@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O ƴeewtii ɗoo e ɗoo, o yi'i wonde alaa gorko, o fiyi ⟨את⟩ Misrayim on, o suuɗi mo e nebbam.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "o ƴeewtii"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "e ɗoo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim on"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misrayim on"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "o suuɣi mo"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "e nebbam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:55.843645675Z",
+  "model": "glm-5.3"
+}

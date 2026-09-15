@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko honno paggi ɗin mbellii, e leƴƴi ɗin paha hakkilane wolle meere?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ko honno"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "mbellii"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "paggi ɗin"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e leƴƴi ɗin"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "paha hakkilane"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "wolle meere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:56.468888271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ndeen ⟨asta⟩ wonata maande e junngo maa, e ɓuuɓri hakkende gite maa, sabu e jaɓɓorgo junngo Yaawe yaltini min e Misrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wonata"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "maande"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkende"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "e jaɓɓorgo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "yaltini min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:28.915699026Z",
+  "model": "glm-5.3"
+}

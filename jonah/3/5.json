@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yimɓe Ninewe ngamminii Eloohim, ɓe noddini ñaamoore, ɓe ɗiɓbo sanneaji, gila e ɓurɗo mawnude maɓɓe haa e ɓurɗo famɗude maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ɓe ngamminii"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ɓe noddini"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ñaamoore"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ɓe ɗiɗbo"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sanneaji"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "ɓurɗo mawnude maɓɓe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ɓurɗo famɗude maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:13.495082727Z",
+  "model": "glm-5.3"
+}

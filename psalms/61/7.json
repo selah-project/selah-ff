@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "Ñalɗi e dow ñalɗi laamɗo ɓeydu, duuɓi makko no duuɓi dorumo e dorumo.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ɓeydu"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "duuɓi makko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "דר",
+      "gloss": "dorumo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e dorumo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:25.021133970Z",
+  "model": "glm-5.3"
+}

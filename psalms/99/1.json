@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Yaawe laamiima; yo yimɓe ɓoƴo; jooɗiiɗo ⟨e⟩ kerubiim ɗen, yo leydi ndin lerngo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ɓoƴo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗiiɗo"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubiim ɗen"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "lerngo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:21.829241561Z",
+  "model": "glm-5.3"
+}

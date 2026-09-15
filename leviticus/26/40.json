@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ɓe tuubotoo ⟨את⟩ bonannde maɓɓe e ⟨את⟩ bonannde baabiraaɓe maɓɓe, e fitinaaji maɓɓe ɗi ɗi mbaɗi e Am; kadi ɗi ndaarii e Am e nder ɗemmbal.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "ɓe tuubotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde maɓɓe"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bonannde maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "bonannde baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "e fitinaaji maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ɗi mbaɗi fitina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e Am"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɗi ndaarii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e Am"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "e nder ɗemmbal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:02.525326691Z",
+  "model": "glm-5.3"
+}

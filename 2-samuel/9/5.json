@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ndeen laamɗo on Daawuuda neldi, o nanngi mo e nder suudu Makir ɓiy Ammiyel, to Loo-Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "o nanngi mo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiyel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "to Loo-Debar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(Loo-Debar)"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:41.098999090Z",
+  "model": "glm-5.3"
+}

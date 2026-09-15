@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Aharon heɓi ⟨את⟩ Eliisheba ɓiɗɗo debbo Amminadab, miñi debbo Nakhshon, fii mo waɗde debbo mun; o addi mo ⟨את⟩ Nadab e ⟨את⟩ Abiyhu, ⟨את⟩ Elazar e ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "heɓi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliisheba"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Eliisheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadab"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "miñi debbo"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "waɗde debbo mun"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "addi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abiyhu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abiyhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:57.998297526Z",
+  "model": "glm-5.3"
+}

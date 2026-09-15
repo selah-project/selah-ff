@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɓe haalanii Daawuwa ɓe mbi'i: Ɗoo Pelishtinaaɓe kaɓata e Keela, kanko'en ɓe wujjata ⟨את⟩ nderɗi gese ɗin.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ɓe haalanii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe mbi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtinaaɓe"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "kaɓata"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "e Keela"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kanko'en"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ɓe wujjata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nderɗi gese ɗin"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "nderɗi gese ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:36.447403773Z",
+  "model": "glm-5.3"
+}

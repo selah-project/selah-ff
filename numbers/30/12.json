@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Jomum muñɗo nanngu, o muñii fii makko, o salaana ɓeydude mbara ⟨את⟩ — ɗaɓɓe ndee: nooreeji makko ɗin fuu ɗimmita, e kala dewre jehringol nde o jehrii e hoore mum, ko nde ɗimmiti.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "nanngu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "Jomum muñɗo"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "o muñii"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "salaana"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ɓeydude mbara"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mbara makko"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "ɗimmita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "nooreeji makko ɗin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "dewre jehringol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "o jehrii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e hoore"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "mum"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ko nde ɗimmiti"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:43.098685076Z",
+  "model": "glm-5.3"
+}

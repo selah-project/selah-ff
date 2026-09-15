@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anathot ⟨את⟩ e ⟨את⟩ ladde mum, e ⟨את⟩ Almon e ladde mum — caɗɗe nay.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anathot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ladde mum"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ladde mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ladde mum"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ladde mum"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "caɗɗe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:53.954996192Z",
+  "model": "glm-5.3"
+}

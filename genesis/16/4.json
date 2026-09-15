@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O naati to Hagar, o reenti; tawi o yi'i wonde o reentii, jeyɗo mun lelnaa seeɗa e gite makko.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "O naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o reenti"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "o reentii"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "lelnaa seeɗa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "jeyɗo mun"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "e gite makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:23.747360358Z",
+  "model": "glm-5.3"
+}

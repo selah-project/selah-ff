@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi waɗan ⟨את⟩ gure mon ɗen yeeyre, mi halkan ⟨את⟩ nokkuuje senaade mon ɗen, wanaa mi naasnu hellinde ley mon ɓurnde wellude nden.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gure mon ɗen"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "gure mon ɗen"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "yeeyre"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "mi halkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokkuuje senaade mon ɗen"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "nokkuuje senaade mon ɗen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "mi naasnu"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "hellinde"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ley mon ɓurnde wellude nden"
+    }
+  ],
+  "timestamp": "2026-09-15T06:07:59.873715926Z",
+  "model": "glm-5.3"
+}

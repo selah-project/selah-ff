@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Selomoo dewri ⟨את⟩ Parʼoh laamɗo Misrayim, o ƴetti ⟨את⟩ ɓiɗɗo debbo Parʼoh, o naatni mo to wuro Daawuuda, haa o timmini mahngo ⟨את⟩ galle makko e ⟨את⟩ galle Yaawe e ⟨את⟩ hoore pamare Yerushalayim saraaji.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "o dewri"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parʼoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo debbo Parʼoh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼoh"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "o naatni mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "o timmini"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahngo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle makko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoore pamare Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hoore pamare"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saraaji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:24.342785496Z",
+  "model": "glm-5.3"
+}

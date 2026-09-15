@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ko nii Yaawe, Eloohim Israa'iil, wi'i fii maa, Baruk:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    }
+  ],
+  "timestamp": "2026-09-14T08:27:44.557295587Z",
+  "model": "glm-5.3"
+}

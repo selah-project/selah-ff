@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kala dewo nder kohenaaji ɗen ñaamata ⟨אתם⟩-may ɗum; e nokku cenituɗo ñaametee ɗum; ko ceninu ceninaaɗi ⟨wonii⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dewo"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "nder kohenaaji ɗen"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ñaamata ɗum"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "cenituɗo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaametee ɗum"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ceninu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ceninaaɗi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ... wonii"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:24.604754288Z",
+  "model": "glm-5.3"
+}

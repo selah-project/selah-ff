@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kadi no wonu, ɓaawo nde mi ƴetti ⟨את⟩ ɓe, mi rutto, mi yawnay ɓe, mi wartiray ɓe neɗɗo e keɓe mun, e neɗɗo e leydi mun.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kadi no wonu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "nde mi ƴetti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (them)"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "mi rutto"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "mi yawnay ɓe"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "mi wartiray ɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "e keɓe mun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "e leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T08:12:04.185843706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Hariɗooɓe ɓen ngoppiri ko wano non e mbaawkaaji maɓɓe cuuɗtuɗi; ɓe naddi ⟨את⟩ cuutirli ɗen dow leydi Misraayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe ngoppiri"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko wano non"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "hariɗooɓe ɓen"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "e mbaawkaaji maɓɓe cuuɗtuɗi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe naddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuutirli ɗen"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "cuutirli ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:38.829425181Z",
+  "model": "glm-5.3"
+}

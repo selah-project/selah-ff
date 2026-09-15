@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "No kammuuli ɗin toowiri dow leydi ndin nii, noon nii hesed mun ɗum ñaawi dow ɓe ɗooñuɓe himu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "no toowgol"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ɓe ɗooñuɓe himu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:56.643491701Z",
+  "model": "glm-5.3"
+}

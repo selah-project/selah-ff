@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ko ⟨את⟩ Paroh laamɗo Misrayim e ⟨את⟩ maccuɓe makko e ⟨את⟩ ardiiɓe makko e ⟨את⟩ yimɓe makko fuu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "maccuɓe makko"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ardiiɓe makko"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ardiiɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe makko fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:17:15.166573967Z",
+  "model": "glm-5.3"
+}

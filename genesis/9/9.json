@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono min, ɗoo, minɗintinay ⟨את⟩ jokkondiral am ⟨את⟩ e mon, e ⟨את⟩ ɓiɗɓe mon ɓe ngoni ɓaawo mon.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "minɗintinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jokkondiral am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jokkondiral am"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ e mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "ɓiɗɓe mon"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ɓaawo mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:17.636392878Z",
+  "model": "glm-5.3"
+}

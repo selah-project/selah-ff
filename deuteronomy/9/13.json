@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe wi'i am wondude, wi'a: Mi yi'i ⟨את⟩ ɗemŋal ngal, e ndee, ɗemŋal asinju ngal ko ngol woni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am wondude"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗemŋal ngal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɗemŋal ngal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndee"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɗemŋal"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "asinju"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ngol woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:02.155531224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Si Yaawe Eloohim maa yaajinani ⟨את⟩ keeri maa, honde O fi'i baabiraaɓe maa, O rokku maa ⟨את⟩ leydi ndi fow, honde O wi'i O hokkoyde baabiraaɓe maa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "yaajinani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keeri maa"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "keeri maa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "honde"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "O fi'i"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "baabiraaɓe maa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "O rokku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndi fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "honde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "O hokkoyde"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "baabiraaɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:38.855314479Z",
+  "model": "glm-5.3"
+}

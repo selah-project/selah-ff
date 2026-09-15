@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "e nguura lewru mun, e jooɗorde jeyaaɓe mun, e darorɗe ballooɓe mun, e comci maɓɓe, e ñamrije mun, e wursorde mun ɗe o naatnata nder suudu Yaawe; hay ruuhu ɓeydaani woodi nder makko",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "e nguura"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "lewru mun"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "e jooɗorde"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe mun"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "e darorɗe"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ballooɓe mun"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "e comci maɓɓe"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "e ñamrije mun"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "e wursorde mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o naatnata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en hay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nder makko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓeydaani"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:01.322016725Z",
+  "model": "glm-5.3"
+}

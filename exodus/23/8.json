@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wata a nanngu njoldi; ko njoldi ndi ñaañirta gite, waylirta kadi konnguɗi ñaawuɓe.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "njoldi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a nanngu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "njoldi ndi"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ñaañirta"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "gite"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "waylirta kadi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ñaawuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:08.236207912Z",
+  "model": "glm-5.3"
+}

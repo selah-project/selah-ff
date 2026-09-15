@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde laamu Rehabeam tabitini, nde o tiiɗinii hoore mun, o acci ⟨את⟩ Tora Yaawe, e Israayiil fuu e makko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "nde ... tabitini"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "nde o tiiɗinii hoore mun"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora Yaawe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:43.567491156Z",
+  "model": "glm-5.3"
+}

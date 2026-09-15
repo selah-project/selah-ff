@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Konngi guno mun ko mbaylaa e fenaande; o dartii faamude, dartii waɗde moƴƴere.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "guno mun"
+    },
+    {
+      "surface": "און",
+      "gloss": "mbaylaa"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "e fenaande"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "o dartii"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "faamude"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "waɗde moƴƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:14.827760692Z",
+  "model": "glm-5.3"
+}

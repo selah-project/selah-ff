@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Mi tinndini ɗum maa tuggi ɗeen saŋte, hade maa arde mi mumtiti ɗum maa, wata a wiy: ko nastirde am tagi ɗum, ko nate maa ɗe taƴaaɗe e ɗe ceede maa njamiri ɗum.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "mi tinndini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "tuggi ɗeen saŋte"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "hade"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a arde"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "mi mumtiti ɗum maa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "a wiy"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "nastirde am"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "tagi ɗum"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "e nate am ɗe taƴaaɗe"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "e ɗe am ɗe ceede"
+    },
+    {
+      "surface": "צום",
+      "gloss": "njamiri ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:57:14.291991082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Kono ⟨את⟩ nagge nge e ⟨את⟩ picci mun e ⟨את⟩ ƴiye mun e ⟨את⟩ loote mun o ƴoƴɓini e yiite, kaadi e kaampirgol ngal, no Yaawe felini ⟨את⟩ Musa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagge nge"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nagge nge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "picci mun"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "picci mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye mun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ƴiye mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "loote mun"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "loote mun"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o ƴoƴɓini"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kaadi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "e kaampirgol ngal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "felini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:45.231150046Z",
+  "model": "glm-5.3"
+}

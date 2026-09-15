@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Ñaameteeje cipewondu ɓe lippii, e geɗe gasa ɓe naafti; ñaamoowo e ñaameteeje maɓɓe o maayata, kanko mboƴaaɗo o ummitoo cipewondu.",
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "ñaameteeje"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "cipewondu"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "ɓe lippii"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "e geɗe"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "gasa"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "ɓe naafti"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ñaamoowo"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "e ñaameteeje maɓɓe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayata"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "kanko mboƴaaɗo"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "o ummitoo"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "cipewondu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:03:21.916816076Z",
+  "model": "glm-5.3"
+}

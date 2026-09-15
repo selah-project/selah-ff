@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Ndeen a haali e hezọn e hesid en maa, a wi'i: Mi waɗii ballal dow giiɗo, mi toowinii suɓaaɗo ummoraade e yimɓe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ndeeno"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "a haali"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "e hezọn"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "e hesid en maa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a wi'i"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "Mi waɗii"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "giiɗo"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "mi toowinii"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "suɓaaɗo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ummoraade e yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:42.038058689Z",
+  "model": "glm-5.3"
+}

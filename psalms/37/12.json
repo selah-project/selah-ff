@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Bonɗo on feewnitinii fenaande feewde e ñaawoowo on, ɗen o ƴeƴtinii werlaaji makko mum e makko.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "feewnitinii fenaande"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "feewde e ñaawoowo on"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ɗen o ƴeƴtinii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "werlaaji makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:09.918343126Z",
+  "model": "glm-5.3"
+}

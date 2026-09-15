@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mosheaa jippii e tulde nden faade yimɓe ɓen, o laaɓini ⟨את⟩ yimɓe ɓen, ɓe larli comci maɓɓe ɗin.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "o laaɓini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ɓe larli"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "comci maɓɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:40.085724213Z",
+  "model": "glm-5.3"
+}

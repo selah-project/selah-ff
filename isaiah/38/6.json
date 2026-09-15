@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Mi hisnanta maa e juuɗe laamɗo Ashuur, maa e ⟨את⟩ ngurla ngal, maa weernita ngurla ngal.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "hisnanta maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ngurla ngal"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ngurla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "weernita"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ngurla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:42.194022097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "So a ɓadtii e wuro ngam haɓde e ngun, a noddu e ngun fii jam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "So"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "a ɓadtii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e ngun"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "a noddu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e ngun"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "fii jam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:28.544265500Z",
+  "model": "glm-5.3"
+}

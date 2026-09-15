@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe mbewni ⟨את⟩ duƴƴe ɗen dow ɓerɗe ɗen, o ɓeñni duƴƴe ɗen e jaɓɓe nden.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ɓe mbewni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duƴƴe ɗen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "duƴƴe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "ɓerɗe ɗen"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o ɓeñni"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "duƴƴe ɗen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "jaɓɓe nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:22.116268784Z",
+  "model": "glm-5.3"
+}

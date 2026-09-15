@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "To ɗo colli ɗin mahi ɗomiraaɗe mun; hasiidah noon — beruushi ɗin ko galle mun.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "to ɗo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "colli ɗin"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "mahi ɗomiraaɗe mun"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "hasiidah"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beruushi ɗin"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "galle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:27.577755008Z",
+  "model": "glm-5.3"
+}

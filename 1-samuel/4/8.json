@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Hoy minen! Hol mo hisnanta min e junngo Eloohim mawɓe ɗee? Ɗee ɝi ko ɗi Eloohim ɗin ɗi fiyi ⟨את⟩ Misrayim e kala mutte ka vitteere nden.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hol mo"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "hisnanta min"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ko ɗi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim ɗin"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ɗi fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mutte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ka vitteere nden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:19.907128883Z",
+  "model": "glm-5.3"
+}

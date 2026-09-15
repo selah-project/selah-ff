@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Waktu ngam ɗaɓɓude kaaƴe, e waktu ngam mooftude kaaƴe; waktu ngam ñoñaade, e waktu ngam woɗɗitaade e ñoynugol.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ngam ɗaɓɓude"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ngam mooftude"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ngam ñoñaade"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ngam woɗɗitaade"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "e ñoynugol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:18.060735698Z",
+  "model": "glm-5.3"
+}

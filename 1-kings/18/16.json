@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ovadyaahu yahi haa o hawri e Ahab, o humpadi mo; Ahab yahi haa o hawri e Eliaah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyaahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "haa o hawri e"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o humpadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "haa o hawri e"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaah"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:09.312778918Z",
+  "model": "glm-5.3"
+}

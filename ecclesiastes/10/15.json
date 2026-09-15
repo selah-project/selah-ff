@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mooka ahuu ɗen en naɗa ɓe; ɓe anndaa yahde haa saare ndee.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mooka"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ahuu ɗen"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "en naɗa ɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ɓe anndaa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yahde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "saare ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:49.983317934Z",
+  "model": "glm-5.3"
+}

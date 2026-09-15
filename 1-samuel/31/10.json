@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓe mballini ⟨את⟩ comci jamaa mun ɗin e nder suudu Ashtarot, ɓe ɗaɓɓini ⟨את⟩ ɓanndu mun ɗin e mahol Bet-Shean.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ɓe mballini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci jamaa mun ɗin"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "comci jamaa mun ɗin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e nder suudu"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓanndu mun ɗin"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ɓanndu mun ɗin"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ɓe ɗaɓɓini"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "e mahol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shean"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:18.886322346Z",
+  "model": "glm-5.3"
+}

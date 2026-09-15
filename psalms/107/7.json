@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "O ardunoo ɓe e laawol deutngol, ngam yahde haa saare hoɗorde.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "O ardunoo ɓe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "deutngol"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "saare"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "hoɗorde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:15.501504297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Debbo a naamnay, kono gorko goɗɗo fawi mo; saare a mahay, wanaa a wonirta nder mum; inare a payi, wanaa a fagganta nde.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "a naamnay"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kono gorko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "fawi mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "a mahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "a wonirta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nder mum"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "inare"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "a payi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "a fagganta nde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:51.094356607Z",
+  "model": "glm-5.3"
+}

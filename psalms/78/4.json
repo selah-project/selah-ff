@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Wanaa minen suuɗirta ɗum en e ɓiɓɓe maɓɓe; kaɓɓe taƴre aroore hiɗen kabrina yettoode Yaawe, e doole mun, e cemmuɗe mun ɗe o waɗi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wanaa"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "minen suuɗirta ɗum en"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "e ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kaɓɓe taƴre"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "aroore"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "hiđen kabrina"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "yettoode"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "e doole mun"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e cemmuɗe mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:55.798827180Z",
+  "model": "glm-5.3"
+}

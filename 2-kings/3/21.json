@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 3:21",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Moab fuu nanii wonde laamɓe ɓee ƴellii ngam haɓde e maɓɓe; ɓe noddiraa ko gila e kala ñormuɗo orda e ko woni dow mum, ɓe darii e keerol ngol.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ƴellii"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "laamɓe ɓee"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ɓe noddiraa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gila e kala"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "ñormuɗo"
+    },
+    {
+      "surface": "חגרה",
+      "gloss": "orda"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ko woni dow mum"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "keerol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:00.269221522Z",
+  "model": "glm-5.3"
+}

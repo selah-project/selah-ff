@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Yimɓe jimre ɗen yahi ko yeeso, joofooɓe kuutorɗe ɓen ngari ɓaawo; e nder ɗiɗo fuu, sukaaɓe rewɓe ɓen ɗemmutnooɓe.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "yahi ko yeeso"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "yimɓe jimre ɗen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "joofooɓe kuutorɗe ɓen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder ɗiɗo fuu"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sukaaɓe rewɓe ɓen"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ɗemmutnooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:56.465057077Z",
+  "model": "glm-5.3"
+}

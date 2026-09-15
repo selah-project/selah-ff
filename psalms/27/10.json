@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono tawa baaba am e yumma am ngoppu mi, Yaawe mooftay lam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono tawa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "e yumma am"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ngoppu mi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "mooftay lam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:49.362881108Z",
+  "model": "glm-5.3"
+}

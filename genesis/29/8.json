@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɓe wi'i: min mbaawaa, haa daabee ɗen fow mooɓaa, ɓe dirtin ⟨את⟩ junngo ngon diga dow haanje lurru nden, ndeen min ndokka mbeeloombi ɗen ndiyam.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "min mbaawaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "mooɓaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "daabee ɗen"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "ɓe dirtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo ngon"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "junngo ngon"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "diga dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haanje"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "lurru nden"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "min ndokka...ndiyam"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mbeeloombi ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:20.781948908Z",
+  "model": "glm-5.3"
+}

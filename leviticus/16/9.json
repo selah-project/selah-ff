@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Aharon naatna ⟨את⟩ buckel ngel ɗo gorol Yaawe ngol ɓuri heen, o waɗa ngel sadaku baasi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "naatna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buckel ngel"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "buckel ngel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "gorol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "o waɗa ngel"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sadaku baasi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:46.551277071Z",
+  "model": "glm-5.3"
+}

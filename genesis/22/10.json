@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Awrahama ɓenni ⟨את⟩ junngo mum, o jogii ⟨את⟩ paaƴre nden, fii watta ⟨את⟩ ɓiyumanko.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ɓenni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo mum"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mum"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o jogii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paaƴre nden"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "paaƴre nden"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "fii watta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiyumanko"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyumanko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:12.326952815Z",
+  "model": "glm-5.3"
+}

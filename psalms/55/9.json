@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Mi yaawtay dogdu am, e henndu ɓuuɓndu, e buzzo.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mi yaawtay"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "dogdu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "e henndu"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ɓuuɓndu"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "e buzzo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:48.161736476Z",
+  "model": "glm-5.3"
+}

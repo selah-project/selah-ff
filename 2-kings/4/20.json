@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O ɗowri mo, o addi mo to yumma mun; o jooɗii e koyɗe makko haa caggal kanaaje, o maayi.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ɗowri mo"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "addi mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "joođii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "koyɗe makko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "caggal kanaaje"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:08.139589898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Nguru leydi ndin haa dow damal ngal, karuuji ɗin e temmose ɗen mbaafaama, e dow kuukuu suudu mawndu ndun.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "nguru leydi ndin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "karuuji ɗin"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "e temmose ɗen"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "mbaafaama"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "e dow kuukuu"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "suudu mawndu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T08:52:58.778302280Z",
+  "model": "glm-5.3"
+}

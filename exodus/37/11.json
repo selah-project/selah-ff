@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O heebbi ⟨את⟩ ndu kaŋe laaɓɗo, o waɗi mayre ƴeede kaŋe faya.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "o heebbi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "taabal on"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓɗo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mayre"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ƴeede"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "faya"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:21.022894523Z",
+  "model": "glm-5.3"
+}

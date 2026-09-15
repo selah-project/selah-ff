@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Do yeeso makko yimɓe ladde ɗen ñiiwo; e gaawooɓe makko ɓen poggol ɓe lella.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "do yeeso makko"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ɓe ñiiwo"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "yimɓe ladde ɗen"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "e gaawooɓe makko ɓen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "poggol"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ɓe lella"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:25.759478847Z",
+  "model": "glm-5.3"
+}

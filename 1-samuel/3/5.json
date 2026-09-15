@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O dogi faade Eli, o wi'i: “Miɗo here, nde a noddunoo mi.” O wi'i: “Mi noddunaali; artu, honora.” O yahi, o honori.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Miɗo here"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "a noddunoo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Mi noddunaali"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "honora"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o honori"
+    }
+  ],
+  "timestamp": "2026-09-14T11:57:19.439255699Z",
+  "model": "glm-5.3"
+}

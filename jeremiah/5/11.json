@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Sabu galle Israa'iila e galle Yuuda fejjitiiɓi fejjitii e am, wi'i Yaawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "fejjitii"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ɓe fejjitii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e galle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:07:02.633780983Z",
+  "model": "glm-5.3"
+}

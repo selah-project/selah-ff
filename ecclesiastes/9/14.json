@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Laamorde tokoosre, yimɓe seeɗa nder mayre; laamɗo mawɗo ari e mayre, o waɗirii ⟨את⟩ mayre, o mahi e mayre palisaji mawɗi.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "laamorde"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "tokoosre"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "kadi yimɓe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nder mayre"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "o waɗirii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mayre"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "palisaji"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mawɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:34.762415669Z",
+  "model": "glm-5.3"
+}

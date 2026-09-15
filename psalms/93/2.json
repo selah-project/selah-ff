@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 93,
+  "translation": "Jooɓorde maa nden deristaama gila e saabo; gila e duumiiven O ⟨on⟩ ngoni.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "deristaama"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "jooɓorde maa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "gila e saabo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gila e duumiiven"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "O"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:21.281799681Z",
+  "model": "glm-5.3"
+}

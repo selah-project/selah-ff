@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Nde wonu mo no wutte, o ƴoƴirtiri ɗum; no ƴeeso duumi, o ɓoornori ɗum.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "no wutte"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "o ƴoƴirtiri ɗum"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "no ƴeeso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "o ɓoornori ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.443437850Z",
+  "model": "glm-5.3"
+}

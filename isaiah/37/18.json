@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Goongɗi, Yaawe, laamɓe Ashur mboninii ⟨את⟩ leyɗe fuu e ⟨את⟩ leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Goongɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "mboninii"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyɗe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "leyɗe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:15.032301486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "e Naamaan, e Ahiya, e Geera — kanko woni o ngummii ɓe — o dañi ⟨את⟩ Uuzaa e ⟨את⟩ Ahihuud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "e Naamaan"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "e Ahiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "e Geera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko woni"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "o ngummii ɓe"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuzaa"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uuzaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ahihuud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ahihuud"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:21.873071786Z",
+  "model": "glm-5.3"
+}

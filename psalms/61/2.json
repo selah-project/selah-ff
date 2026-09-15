@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "Nano hoore Eloohim, ummital Ngaram-am; tepu junngo-am to du'aawal-am.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Nano hoore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ummital Ngaram-am"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tepu junngo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aawal-am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:53.954629873Z",
+  "model": "glm-5.3"
+}

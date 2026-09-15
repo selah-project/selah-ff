@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "e ⟨את⟩ ɓiɗɗo debbo tuunturu, e ⟨את⟩ colowo jamma, e ⟨את⟩ colowo maayo, e ⟨את⟩ kolowo fii sifaa mun;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɗo debbo tuunturu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "tuunturu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "colowo jamma"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "colowo jamma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "colowo maayo"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "colowo maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kolowo"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "kolowo"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "fii sifaa mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:09.791007332Z",
+  "model": "glm-5.3"
+}

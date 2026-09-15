@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Ɓe ɓeen peccitaa ngam ñaamde; si ɓe heɓaali, ɓe waaja jemma fuu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ɓe ɓeen"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "peccitaa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ɓe heɓa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ɓe waaja jemma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:33.153424444Z",
+  "model": "glm-5.3"
+}

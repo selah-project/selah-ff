@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mi hokkay ⟨את⟩ Misrayim e junngo jom’en saɗtuɓe, laamɗo tiiɗɗo arlay laamu maɓɓe — konngel Adonaay Yaawe Sabaoth.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Mi hokkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "jom’en"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "saɗtuɓe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tiiɗɗo"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "arlay laamu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konngel"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:16.374372995Z",
+  "model": "glm-5.3"
+}

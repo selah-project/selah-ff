@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 101,
+  "translation": "Mo waɗata fenere o wonaa e nder suudu am; haaloowo fenaaje o darortaa yeeso geece am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o wonaa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o wonaa e hoɗde"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "suudu am"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mo waɗata"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fenere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaloowo"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "fenaaje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o darortaa"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "o dara"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "geece am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:59.267843153Z",
+  "model": "glm-5.3"
+}

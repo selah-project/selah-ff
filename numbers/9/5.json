@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe tagi ⟨את⟩ Pesaak e lewru ndin aranere, ñalnde sappo e nayi lewru ndin, hakkunde jemmaji ɗin, e ladde Siinay; no ko Yaawe wamiri ⟨את⟩ Musa non, ɓe waali ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe tagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaak"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaak"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "e nder aranere"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "e ñalnde nayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lewru ndin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jemmaji ɗin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no ko fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe waali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:38:02.773208126Z",
+  "model": "glm-5.3"
+}

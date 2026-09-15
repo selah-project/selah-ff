@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde koy woni Elooha so wonaa Yaawe? E koy woni lelwol so wonaa Eloohim amen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koy"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "so wonaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e koy"
+    },
+    {
+      "surface": "צור",
+      "gloss": "lelwol"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "so wonaa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:52.438795780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ƴeew, mi ñiŋii ⟨את⟩ ndee leydi yeeso mon; naatee, keɓee ⟨את⟩ ndee leydi nde Yaawe fooɗii soodoode baabiraaɓe mon — Awraahaam, Isaakaak e Yaaquaab — fii hokkude ɓe e zeremaa maɓɓe ɓaawo maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi ñiŋii"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndee leydi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ndee leydi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "naattee"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "keɓee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndee leydi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ndee leydi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "fooɗii soodoode"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awraahaam"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isaakaak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "e Yaaquaab"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii hokkude"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "e zeremaa maɓɓe"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ɓaawo maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:47.395819279Z",
+  "model": "glm-5.3"
+}

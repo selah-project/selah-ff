@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Siijon yalti ngam hawrude e min, kanko e yimɓe makko fuu, ngam haɓde, to Yaatsa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Siijon"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ngam hawrude e min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yaatsa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:46.039307320Z",
+  "model": "glm-5.3"
+}

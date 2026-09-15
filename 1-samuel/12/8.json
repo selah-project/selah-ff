@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde Yaakov ari Misrayim, baabiraaɓe mon ɓen noddi Yaawe; Yaawe neldi ⟨את⟩ Moshe e ⟨את⟩ Aharon, ɓe yaltini ⟨את⟩ baabiraaɓe mon e Misrayim, ɓe ngoddi ɓe e nokku oo.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ɓe noddi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ɓe yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe mon"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ɓe ngoddi ɓe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:21.448365782Z",
+  "model": "glm-5.3"
+}

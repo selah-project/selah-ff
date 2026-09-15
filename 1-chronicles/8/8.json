@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "e Shaharayim o dañi ⟨את⟩ ɓiɓɓe e ladde Mowaab caggal nde o durnii ⟨את⟩ ɓe — Huushim e Baara, dewɓe makko.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "e Shaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowaab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "caggal nde"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "o durnii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "Huushim e Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Huushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "dewɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:21.873263622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i: Tawa a woppataa min ⟨את⟩, sabu ko hona a anndi kampaañ min ɗin ka e nder ladde; a laatake min gite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tawa a ... -aa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toro"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "woppataa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "min ⟨את⟩",
+      "marks": "min (woppataa min)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hona"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "a anndi"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "kampaañ min ɗin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e nder ladde"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "a laatake"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "gite"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:54.753753828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Nebukadnetsar laamɗo Babilon arii dow wuro ngoo, e maccuɓe mun ɓe pawti e mun.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "e maccuɓe mun"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ɓe pawti"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:57.275630263Z",
+  "model": "glm-5.3"
+}

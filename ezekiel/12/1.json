@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nden konngol Yaawe njottii e am, wiyu:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nden ... njottii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:28:11.976319749Z",
+  "model": "glm-5.3"
+}

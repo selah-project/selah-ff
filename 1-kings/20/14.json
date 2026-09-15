@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 20:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ah'ab wi'i: Ko e keedum? O wi'i: Ko nii Yaawe wi'i: E sukaaɓe mawɓe diiwanɗe ɗen. O wi'i: Hommbo fuɗɗotoo konngu ndun? O wi'i: Kanko maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ah'ab"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ko e keedum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בנערי",
+      "gloss": "e sukaaɓe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "diiwanɗe ɗen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "fuɗɗotoo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "konngu ndun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanko maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:12.811991708Z",
+  "model": "glm-5.3"
+}

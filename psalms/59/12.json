@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Hoto warɓe ɓe, wanaa yimɓe am njeeɓe; waddu ɓe eggude e semte maa, waddu ɓe les, Adonaay, mooftirde amen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hoto"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "warɓe ɓe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "njeeɓe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "waddu ɓe eggude"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "e semte maa"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "waddu ɓe les"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "mooftirde amen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:36.814048883Z",
+  "model": "glm-5.3"
+}

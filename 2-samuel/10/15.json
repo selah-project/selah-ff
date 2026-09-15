@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Aram yi'i wonde ⟨arumaaɓe⟩ ɓe njani ɗ Yisraa'iil yeeso mun en, ɓe kawri ɓe duttindi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ɓe njani ɗ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe kawri"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ɓe duttindi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:31.614846267Z",
+  "model": "glm-5.3"
+}

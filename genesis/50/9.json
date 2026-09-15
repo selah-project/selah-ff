@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Ɓe ɓenni e makko kadi boɗe kadi warɓe pucci, kawtal ngal woni tedduɗo no feewi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ɓe ɓenni"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "boɗe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "warɓe pucci"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kawtal ngal"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tedduɗo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:51.619880398Z",
+  "model": "glm-5.3"
+}

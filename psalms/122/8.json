@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Fii miñiraaɓe am e kanne am ɗen, mi wowloya {$menes} {$turrondir} salmaa e maa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñiraaɓe am"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "e kanne am ɗen"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "mi wowloya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "menes"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salmaa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:48.554564733Z",
+  "model": "glm-5.3"
+}

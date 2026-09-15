@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yi'o, ko hommba no ganndo on? Hommba anndi pišer konngol ngol? Ñaawu neɗɗaŋke ina lelnu lewngu ⟨e⟩ yeeso makko, e sembe yeeso makko waylata.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hommba"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "no ganndo on"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hommba"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "pišer"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ñaawu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗaŋke"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "innoy lewngu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e sembe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "waylata"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:08.667082563Z",
+  "model": "glm-5.3"
+}

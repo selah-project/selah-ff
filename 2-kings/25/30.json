@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Hare mum duumiinde nden, ⟨e⟩ ⟨את⟩ laamɗo on rokki mo — toɓɓere balɗe e balɗe mum — balɗe nguurdagol mun fuu.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "hare mum"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "hare"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumiinde"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "⟨e⟩ ... rokki mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "toɓɓere"
+    },
+    {
+      "surface": "יום",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "e balɗe mum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "nguurdagol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:30.257675940Z",
+  "model": "glm-5.3"
+}

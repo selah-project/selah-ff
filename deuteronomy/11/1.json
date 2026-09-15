@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ndeen a njiɗ-ɗaa ⟨את⟩ Yaawe Eloohim maaɗa, a reenna reennugol mun, e muñal mun, e ñaawirɗe mun, e amirce mun, ñalawma fuu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "a njiɗ-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "a reenna"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "reennugol mun"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "muñal mun"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ñaawirɗe mun"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "amirce mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ñalawma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:09.076963068Z",
+  "model": "glm-5.3"
+}

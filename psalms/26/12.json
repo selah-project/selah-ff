@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Koyngal am darii e laawol teeŋtungol; e kañirɗe mi yettin Yaawe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "koyngal am"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "darii"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "e laawol teeŋtungol"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "e kañirɗe"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mi yettin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:20.757988390Z",
+  "model": "glm-5.3"
+}

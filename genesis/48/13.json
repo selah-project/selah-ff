@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Yuusufa jogtii ɓe ɗiɗo — ⟨את⟩ ɗiɗo ɗen, ⟨את⟩ Efrayim e junngo mun ñaamo, bannge nano Israa'iila, e ⟨את⟩ Menashe e junngo mun nano, bannge ñaamo Israa'iila — o ɓaddini ɓe feewde e makko.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogtii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe ɗiɗo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɓe ɗiɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "e junngo mun ñaamo"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "bannge nano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "e junngo mun nano"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "bannge ñaamo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "o ɓaddini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "feewde e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:40.511112727Z",
+  "model": "glm-5.3"
+}

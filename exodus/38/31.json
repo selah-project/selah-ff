@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "E ⟨את⟩ powe ŋorol ngol ngo fay, e ⟨את⟩ powe damal ŋorol ngol, e ⟨את⟩ ceŋkuuje darorteere teendu ndun fuu, e ⟨את⟩ ceŋkuuje ŋorol ngol ngo fay fuu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "powe ŋorol ngol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "powe"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ŋorol ngol"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngo fay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "powe damal ŋorol ngol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "powe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ŋorol ngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ceŋkuuje darorteere teendu ndun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ceŋkuuje"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "darorteere teendu ndun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ceŋkuuje ŋorol ngol ngo fay fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ceŋkuuje"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ŋorol ngol"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngo fay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:52.166211863Z",
+  "model": "glm-5.3"
+}

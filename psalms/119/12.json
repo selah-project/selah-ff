@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Dewetenaa on, Yaawe; janngin am paasaaji maa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dewetenaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "janngin am"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "paasaaji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.612639579Z",
+  "model": "glm-5.3"
+}

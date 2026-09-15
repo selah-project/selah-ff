@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim waɗi ⟨את⟩ laaɓal ngal, o seerti hakkunde ndiyam ɗam les laaɓal ngal e ndiyam ɗam toowngal laaɓal ngal; noonnde woni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laaɓal ngal"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "laaɓal ngal"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "o seerti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "laaɓal ngal"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "toowngal"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "laaɓal ngal"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "noonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:15.661498175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Fuu ɓe ruttitii, ɓe wondi mbonitii; alaa baɗoowo moƴƴere, hay gooto.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ɓe ruttitii"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɓe wondi"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "mbonitii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baɗoowo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:01.696461520Z",
+  "model": "glm-5.3"
+}

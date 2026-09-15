@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Sabu ɓe dogii e yeeso balɗe, e yeeso balɗe wiytaaɗe, e yeeso feeñu deruɗo, e yeeso teddungal konu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ɓe dogii"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "wiytaaɗe"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e e yeeso"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "feeñu"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "deruɗo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e e yeeso"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:01.544007224Z",
+  "model": "glm-5.3"
+}

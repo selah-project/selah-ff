@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Yuumen am ɗen limuɗaa a; ɓuuɓe am ɗen waɗu e nder butela maa; wonaali ɗi winndaande e nder deftere maa?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "yuumen am ɗen"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "limuɗaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "waɗu"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ɓuuɓe am ɗen"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "e nder butela maa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wonaali"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "e nder deftere maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:50.631507348Z",
+  "model": "glm-5.3"
+}

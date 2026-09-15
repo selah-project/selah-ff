@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe wi'i Moshe: \"Paroh naamnataa on, fii ɓeydugol maandeeji am e nder leydi Misrayim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "naamnataa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ɓeydugol"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "maandeeji am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:44.997743762Z",
+  "model": "glm-5.3"
+}

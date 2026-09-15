@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi wi'i nder ɓernde am: «Aru jooni, mijaaroyan ma e weltaare, ƴeew ko moƴƴi» — koro noon, ɗum kadi ko hebel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "nder ɓernde am"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "aru jooni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "mijaaroyan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "e weltaare"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "koro noon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:09.382731533Z",
+  "model": "glm-5.3"
+}

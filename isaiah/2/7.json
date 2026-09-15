@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Leydi mun hebbii kaalis e njamndi ŋeeñndi, kadi jawdi mun alaa keerol; leydi mun hebbii pucci, kadi loorooje mun alaa keerol.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "hebbii"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi mun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "njamndi ŋeeñndi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "jawdi mun"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hebbii"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi mun"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "pucci"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "loorooje mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:53.943671359Z",
+  "model": "glm-5.3"
+}

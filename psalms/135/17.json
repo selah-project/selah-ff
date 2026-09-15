@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Duume ɓe njogii, wanaa ɓe nanataa; hay ruuhu alaa ⟨wondu⟩ nder haaje maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "duume"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ɓe nanataa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨wondu⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nder haaje maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:46.760683870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Luuralƴee kaɓirgal keso, e lewru heeriinde, ñalande dewal amen nden.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Luuralƴee"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kaɓirgal keso"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ñoornu"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "e lewru heeriinde"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ñalande"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "dewal amen nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:53.352395700Z",
+  "model": "glm-5.3"
+}

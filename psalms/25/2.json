@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Eloohim am, e maa mi hoolii; wata mi lorru, wata baasɗe am weltu e am.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi hoolii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mi lorru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "weltu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baasɗe am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:38.183827195Z",
+  "model": "glm-5.3"
+}

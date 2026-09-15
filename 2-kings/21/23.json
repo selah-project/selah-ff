@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Maccuɓe Amon nguurtinii fasaadde dow mun, ɓe warri ⟨את⟩ laamɗo on e nder suudu mun.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "nguurtinii fasaadde"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ɓe warri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "e nder suudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:48.761627001Z",
+  "model": "glm-5.3"
+}

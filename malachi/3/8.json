@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yi'a neɗɗo wittoo Eloohim? Tawii on wittoyii ⟨את⟩ am, on wi'i: “E ɗo min wittoyii maa?” E mɓeydi ɗin e dokkal ngal.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "wittoo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "wittoyii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "on wi'i"
+    },
+    {
+      "surface": "במה",
+      "gloss": "e ɗo"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "wittoyii maa"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "mɓeydi ɗin"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "dokkal ngal"
+    }
+  ],
+  "timestamp": "2026-09-15T07:07:18.973750964Z",
+  "model": "glm-5.3"
+}

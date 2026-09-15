@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ñalnde ndeen mi ustinta fii Eli ⟨את⟩ fuu ko mi wi'un fii suudu mun — fuɗɗo e timminde.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mi ustinta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko mi wi'un"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi wi'un"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fuɗɗo"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e timminde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:22.250015494Z",
+  "model": "glm-5.3"
+}

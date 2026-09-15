@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 26:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe yoowanowu neɗɗo kala ⟨את⟩ goongɗam makko e ⟨את⟩ jikku makko moolaɗum; sabu Yaawe maynii maa hannde e junngo am, kono mi yidraa yaafnude junngo am e dow Masiinja Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "yoowanowu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goongɗam makko"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "goongɗam makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jikku makko moolaɗum"
+    },
+    {
+      "surface": "אמנתו",
+      "gloss": "jikku makko moolaɗum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "maynii maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ɓuri"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "mi yidraa"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "yaafnude"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "e dow Masiinja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-15T05:37:45.735998292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Sabu hatto maɓɓe ina ummina ko jaajɗani; yoongol ɗimm'en ɗiɗi ɗin, ko hoto anndi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ko jaajɗani"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ina ummina"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "hatto maɓɓe"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "e yoongol"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗimm'en ɗiɗi ɗin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko hoto"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anndi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:49:40.060052144Z",
+  "model": "glm-5.3"
+}

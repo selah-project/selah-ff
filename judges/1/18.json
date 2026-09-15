@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yahuuda nanngi ⟨את⟩ Gaaza ⟨את⟩ e ⟨את⟩ keerol mun, ⟨את⟩ e ⟨את⟩ Ashkelon e keerol mun, e ⟨את⟩ Ekron e keerol mun.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "keerol mun"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "keerol mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "keerol mun"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "keerol mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "keerol mun"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "keerol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:59.840257785Z",
+  "model": "glm-5.3"
+}

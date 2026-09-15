@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "A waɗii min yeewtere hoɗɓe amen, e njanguɓe amen ɗen ɓe foofta ⟨min⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "a waɗii min"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "yeewtere"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "hoɗɓe amen"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "e njanguɓe amen ɗen"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ɓe foofta"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨min⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:05.880984659Z",
+  "model": "glm-5.3"
+}

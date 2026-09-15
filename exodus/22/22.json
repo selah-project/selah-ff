@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si muusnuɗon ⟨את⟩ ɓum tawo — ɗum ko, si o juulii e am gootel, mi nanoy nanngude muusreere mun.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "muusnu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "muusnuɗon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɓum (dewru\/muumɗo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɗum ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "juulii"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "juulii gootel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanoy"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nanngude"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "muusreere mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:24.105446816Z",
+  "model": "glm-5.3"
+}

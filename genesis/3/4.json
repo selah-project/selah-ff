@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Njiddiiri on wi'i debbo on: “Wata on maaya maayde.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Njiddiiri on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "on maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:16.785176178Z",
+  "model": "glm-5.3"
+}

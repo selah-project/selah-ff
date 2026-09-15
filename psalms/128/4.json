@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 128,
+  "translation": "Ƴeew, woni ko non neɗɗo on yoobetee, ganndo waasde Yaawe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "כי",
+      "gloss": "woni ko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "yoobetee"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ganndo waasde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:14.758252150Z",
+  "model": "glm-5.3"
+}

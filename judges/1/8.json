@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɓɓe Yuuda ndarii Yerushalayim, ɓe nangi ⟨את⟩ ɗum, ɓe mbri ɗum e jungo ŋguna, ɓe neldi ⟨את⟩ nguru laamorɗo ngun e yiite.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ɓe ndarii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ɓe nangi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ɓe mbri ɗum"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "e jungo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ŋguna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nguru laamorɗo ngun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nguru laamorɗo ngun"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:52.635879003Z",
+  "model": "glm-5.3"
+}

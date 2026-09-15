@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Fii yoowoowo on; ñaala Dawuudi. E Yaawe mi hoolii; no ɗon wi'a nefes am: “Mbaɗtu, to duule maaɗen, colo!”",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii yoowoowo on"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ñaala Dawuudi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "E Yaawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi hoolii"
+    },
+    {
+      "surface": "איך",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ɗon wi'a"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefes am"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "mbaɗtu"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "to duule maaɗen"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "colo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:00.084004071Z",
+  "model": "glm-5.3"
+}

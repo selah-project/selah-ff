@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɓe ƴeewii e makko, ɓe jalbi, wurooji maɓɓe kadi wata yaaki.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ɓe ƴeewii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ɓe jalbi"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "wurooji maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "yaaki"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:34.948024025Z",
+  "model": "glm-5.3"
+}

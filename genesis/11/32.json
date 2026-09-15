@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Balɗe Terah laati duuɓi teemede ɗiɗi e jowi; Terah maayi e Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "laati"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "jowi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "e teemede ɗiɗi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "e Haran"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:25.559716672Z",
+  "model": "glm-5.3"
+}

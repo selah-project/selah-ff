@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wata a won jejɗo ɓurtuɗo, wata a wa'do hoore maa marɗo hakkilo ɓurtuɗo; ko fii ko hon no a majjintee?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "a won"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jejɗo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ɓurtuɗo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "a wa'do hoore maa marɗo hakkilo"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ɓurtuɗo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii ko hon"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "no a majjintee"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:56.183494524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Teeltii-ɗaa jawɗe amen ɗen yeeso maa; suuɗiiɗe amen ɗen e ɗemma yeeso maa.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "teeltii-ɗaa"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "jawđe amen"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "suuɗiiɗe amen"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "e ɗemma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:33.909523322Z",
+  "model": "glm-5.3"
+}

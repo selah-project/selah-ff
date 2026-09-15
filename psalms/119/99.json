@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ƴellitii mi ganndal ɓuri jannginooɓe am fuu; wonnde seedeeje maa ngoni miijagol am.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ɓuri ... fuu"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "jannginooɓe am"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "Ƴellitii mi ganndal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "seedeeje maa"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "miijagol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:56.888277502Z",
+  "model": "glm-5.3"
+}

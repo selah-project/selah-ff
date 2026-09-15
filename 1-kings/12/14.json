@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "O haalani ɓe waɗde wasiyaaji sukaaɓe ɓen, wiyde: Baaba am ɓuuɓnii ⟨את⟩ kolol mon, kono mi ɓeydoto e kolol mon; baabaam fiyi on ⟨את⟩ e siborgaaji, kono mi fiyata on ⟨את⟩ e ngaskiaji.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "O haalani"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "waɗde wasiyaaji"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sukaaɓe ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baaba am"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ɓuuɓnii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolol mon"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kolol mon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ɓeydoto"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kolol mon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baabaam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "e siborgaaji"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "fiyata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "e ngaskiaji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:12.945508060Z",
+  "model": "glm-5.3"
+}

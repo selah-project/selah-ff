@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ko noon golle fow gonɗe Miskan, Ahel Kawral ngal, njaalɗanii; ɓiɓɓe Yisraayel mbaɗi ko Yaawe yamiri Mun ⟨את⟩ Moshi kala hayre wootere — ko noon ɓe mbaɗi.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "njaalđanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Miskan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ahel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kawral"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɣi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:58.322796306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Oyinɓe am ɗen maa rutto caggol ñalnde mi noddata; ɗum ko mi annduɗo, wonnde Eloohim ina wondi e am.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "maa rutto"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "oyinɓe am ɗen"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "caggol"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ko mi annduɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:50.631778548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yehutattii e baabiraaɓe mun, ɓe ngummintini ⟨את⟩ mo e Samiri; Yehoaaja ɓi mun laamiima e nokku mun.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "tattii"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ngummintini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "e Samiri"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓi mun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:31:18.788227534Z",
+  "model": "glm-5.3"
+}

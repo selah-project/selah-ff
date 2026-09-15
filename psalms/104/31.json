@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Yeno teddungal Yaawe haa abada; Yaawe weltoto e golle mun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "yeno"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "weltoto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "e golle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:25.238315041Z",
+  "model": "glm-5.3"
+}

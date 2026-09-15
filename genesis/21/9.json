@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Saraa yi'i ⟨את⟩ ɓiɗɗo Hagara Misriyannaajo on, mo o jibini e Ibraahiima, watta mo ñemmbi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo Hagara Misriyannaajo on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagara"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Misriyannaajo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "e Ibraahiima"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "watta ñemmbi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:34.895685504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ ɗaɗe ɗen, e ⟨את⟩ ɓowtirɗe ɗen — ɗi ngoni dabare, dabare, ɗi ngoni kaalis, kaalis — mawɗo warɓe ɓee ƴetti ɗen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗaɗe ɗen"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ɗaɗe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓowtirɗe ɗen"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "ɓowtirɗe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dabare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dabare"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɗi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "warɓe ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:16.393753672Z",
+  "model": "glm-5.3"
+}

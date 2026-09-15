@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Eloohim, yimre hesere mi yimata fii maa; e nevel joyin-jogotooɗo mi weltotoo fii maa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi yimata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "e nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "joyin-jogotooɗo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi weltotoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:12.992797867Z",
+  "model": "glm-5.3"
+}

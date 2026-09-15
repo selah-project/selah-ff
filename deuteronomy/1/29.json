@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nden mi wi'i on: wata on naɓɓa, wata kadi on pellet ɓe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "on naɓɓa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata kadi"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "on pellet"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:35.379676754Z",
+  "model": "glm-5.3"
+}

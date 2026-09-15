@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 23:39",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kono ñalnde sappo e joyaɓere lewru jeeɗaɓere, so ñalluɗon ⟨את⟩ keɓal leydi ndin, mbaɗoton ⟨את⟩ hajju Yaawe balɗe jeeɗi: ñalnde aranere ko Shabbaton, kadi ñalnde jeeñaɓere ko Shabbaton.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "e sappo e"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "joy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jeeɗaɓere"
+    },
+    {
+      "surface": "באספכם",
+      "gloss": "so ñalluɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keɓal leydi ndin"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "keɓal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תחגו",
+      "gloss": "mbaɗoton hajju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hajju Yaawe"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hajju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "aranere"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabbaton"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "jeeñaɓere"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabbaton"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:24.029579646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Dawiid ƴetti ⟨את⟩ ngaskaaji kaalis ɗin ɗi ngoni dow jeyaaɓe Hadaadezer, o addi ɗi Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaskaaji kaalis ɗin"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ngaskaaji"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaalis ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɓe"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadaadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "o addi ɗi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:01:23.670105552Z",
+  "model": "glm-5.3"
+}

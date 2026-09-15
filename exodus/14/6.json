@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O ⟨את⟩ hebbi ⟨את⟩ koorse makko, o ƴetti yimɓe makko e makko.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "hebbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koorse makko"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "koorse makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe makko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:24.424430070Z",
+  "model": "glm-5.3"
+}

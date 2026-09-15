@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si gorko wooñii ɓingel rewbe cellaɗo, ɗi ruumaani, o leefi e mayre, o yoɓay seeɗa seeɗa mahri ndi, o heɓa mo debbo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "wooñii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ɓingel rewbe cellaɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "ruumaani"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "o leefi e mayre"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mahri"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "o yoɓay seeɗa seeða"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:17.571043514Z",
+  "model": "glm-5.3"
+}

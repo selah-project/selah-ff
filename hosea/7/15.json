@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono ko min, mi yiiɓinii mi, mi ƴellitii ɓalɗe maɓɓe, kono e am ɓe miijotoo bonnde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono ko min"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "mi yiiɓinii"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "mi ƴellitii"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "ɓalɗe maɓɓe"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "kono e am"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ɓe miijotoo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:51.797524361Z",
+  "model": "glm-5.3"
+}

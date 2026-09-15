@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "O wi'i: “Yah, Daniyel, sabu konngi ɗen njiddii e peccii haa e sahaa joofnirde.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "njiddii"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "e peccii"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "joofnirde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:33.176809025Z",
+  "model": "glm-5.3"
+}

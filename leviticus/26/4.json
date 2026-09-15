@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi ndokkanta on duuɓi (jawaale) mon e saare mun; leydi ndin rokka kebbeendi mun, lekki layri ngol rokka puɗol mun.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ndokkanta on"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "duuɓi (jawaale) mon"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "e saare mun"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "rokka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "kebbeendi mun"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e lekki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "layri ngol"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rokka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "puɗol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:44.229357041Z",
+  "model": "glm-5.3"
+}

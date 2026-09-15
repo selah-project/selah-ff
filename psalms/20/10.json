@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yaawe, hisnu! Laamɗo on jaabannu min e ñalnde nde min noddata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "jaabannu min"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "nde min noddata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:34.368460512Z",
+  "model": "glm-5.3"
+}

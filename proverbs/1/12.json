@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "min ñammo ɓe wondude e nguurdam no Seol ñamirta, e no ɓe timmɗi no yottuɓe e buulu;",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "min ñammo ɓe"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "no Seol ñamirta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wondude e nguurdam"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "no ɓe timmɗi"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "no yottuɓe"
+    },
+    {
+      "surface": "בור",
+      "gloss": "e buulu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:10.931709266Z",
+  "model": "glm-5.3"
+}

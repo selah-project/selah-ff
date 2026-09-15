@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Wonaa leydi ndin fuu yeeso maa? Weddu mi-torii-maa woppu am; si nano-hinna, mi ⟨yahi⟩ nano-ñaamo; si nano-ñaamo, mi nano-hinna.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "weddu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi-torii-maa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "woppu am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "nano-hinna"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mi nano-ñaamo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nano-ñaamo"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mi nano-hinna"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:12.009894256Z",
+  "model": "glm-5.3"
+}

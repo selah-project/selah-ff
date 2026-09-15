@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Min njotta ⟨את⟩ leydi maɓɓe, min ndokki ndi jawri to Reuubeniyankooɓe e Gadiyankooɓe e feccede leñol Manasse.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "min njotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "min ndokki ndi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "jawri"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuubeniyankooɓe"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadiyankooɓe"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "e feccede"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manasse"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:26.930611456Z",
+  "model": "glm-5.3"
+}

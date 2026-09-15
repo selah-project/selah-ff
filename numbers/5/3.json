@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Gorko e debbo ɓe nelditon; ɓe nelditon haa yaasi kaampre nden, ɓe bonnanta ⟨את⟩ kaampirɗe maɓɓe ɗen, ɗo mi hoɗortoo ɗo e nder maɓɓe",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ɓe nelditon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hattaade"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kaampre nden"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "ɓe nelditon ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "ɓe bonnata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaampirɗe maɓɓe ɗen"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kaampirɗe maɓɓe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "hoɗortoo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "e nder maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:36:17.466231421Z",
+  "model": "glm-5.3"
+}

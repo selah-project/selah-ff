@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Konngol ngol wonii ⟨ko⟩ bàkkaat, yimɓe ɓen njahi to yeeso gootel ngol haa e Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bàkkaat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:12.293255806Z",
+  "model": "glm-5.3"
+}

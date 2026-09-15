@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Debbo Shimshon woni ko e sehil mun, mo wonnoo sehil mun.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "woni ko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "e sehil makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "wonnoo sehil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:31:36.063537049Z",
+  "model": "glm-5.3"
+}

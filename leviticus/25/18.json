@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Mbaɗee ⟨את⟩ kuule am ɗen, e ⟨את⟩ ñaawoore am ɗen renee ɗe, mbaɗee ⟨את⟩ ɗe; ndeen lotton leydi ndin e kisal.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mbaɗee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule am ɗen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kuule am ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawoore am ɗen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore am ɗen"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "renee ɗe"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mbaɗee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗe",
+      "marks": "kuule e ñaawoore am ɗen"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ndeen lotton"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e kisal"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:00.497441539Z",
+  "model": "glm-5.3"
+}

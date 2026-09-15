@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nde waɗii, nde Shemuel mawni duuɓi, o waɗii ɓiɓɓe mun ⟨את⟩ ñaawooɓe fii Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde waɗii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mawni duuɓi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ñaawooɓe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fii Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:12.967431963Z",
+  "model": "glm-5.3"
+}

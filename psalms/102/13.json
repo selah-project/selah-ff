@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Kono a, Yaawe, a jooɗotoɗaa haa duumi, e teskere-maa haa duuɓi e duuɓi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "a jooɗotoɗaa"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "e teskere-maa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "haa duuɓi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:15.676105426Z",
+  "model": "glm-5.3"
+}

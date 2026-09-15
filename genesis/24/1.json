@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Awraham juutii duuɓi, o naatii e ñalɗi, kono Yaawe barkinii ⟨את⟩ Awraham e fuu hay.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "juutii duuɓi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o naatii"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e ñalɗi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kono Yaawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barkinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu hay"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:00.532433790Z",
+  "model": "glm-5.3"
+}

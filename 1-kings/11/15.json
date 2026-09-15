@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "⟨את⟩ Nde Dawid wonndunoo e ⟨את⟩ Edom, Yooab mawɗo konu nguu yahrnoo yiiwirnude warɓe ɓen, caggal nde o fiyi worɓe fuu to Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "wonndunoo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "e ⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "yahrnoo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yooab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "konu nguu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "yiiwirnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warɓe ɓen"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "warɓe ɓen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "to Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:58.501692561Z",
+  "model": "glm-5.3"
+}

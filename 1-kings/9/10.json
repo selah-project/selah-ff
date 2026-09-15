@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde wonii e gasgu duuɓi noogas, ɗo Shelomoo mahi ⟨את⟩ galle ɗiɗo ɗin — ⟨את⟩ galle Yaawe e ⟨את⟩ galle laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde wonii"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "e gasgu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle ɗiɗo ɗin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "galle ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle laamɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:04.873115482Z",
+  "model": "glm-5.3"
+}

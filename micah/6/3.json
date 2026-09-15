@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yimɓe am ɓen, ko mbaɗ-mi on? Mawni ko muñɗin-mi on? Seedoto fii am.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Yimɓe am ɓen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mbaɗ-mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mawni ko"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "muñɗin-mi on"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Seedoto"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fii am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:31.341657412Z",
+  "model": "glm-5.3"
+}

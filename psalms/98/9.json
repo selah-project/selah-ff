@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Yeeso Yaawe, sabu o arii ngam ñaawde leydi ndin: o ñaawata dunyavalore nden e ñaawoore laaɓndi, e leƴƴi ɗin e Mooƴtirgol.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o arii"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ngam ñaawde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o ñaawata"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunyavalore nden"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "e ñaawoore laaɓndi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "e leƴƴi ɗin"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "e Mooƴtirgol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:19.620264118Z",
+  "model": "glm-5.3"
+}

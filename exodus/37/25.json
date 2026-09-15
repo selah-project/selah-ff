@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O waɗi ⟨את⟩ saare ɓuuɓol saffu nden, leɗɗe shittim;amma gootel duuɓirde juuteende mun, kono amma gootel duuɓirde yaajde mun, nde ko no ŋorol woniri, kono amma duuɓirɗe ɗiɗi tooweende mun; e mu'un mun, koonuuji mun ɗin ummorii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saare ɓuuɓol saffu nden"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "saare ɓuuɓol"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "saffu nden"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "duuɓirde gootel"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "juuteende mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "kono amma duuɓirde gootel"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajde mun"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "no no ŋorol woniri"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "kono amma duuɓirɗe ɗiɗi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tooweende mun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e mu'un mun"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ummorii"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "koonuuji mun ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:30.681676325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ Yeʻuts e ⟨את⟩ Sakiya e ⟨את⟩ Mirma; ɓeeɗo ko ɓiɓɓe makko, hooreeji baabiraaɓe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yeʻuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeʻuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Sakiya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɓeeɗo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "baabiraaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:03.152777649Z",
+  "model": "glm-5.3"
+}

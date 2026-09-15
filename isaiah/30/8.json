@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Nono, aro, windu ɗum e dow palal ⟨את⟩ kamɓe, e binndu ɗum e defte; ɗum wonata fii ñalnde jawtunde, seeda haa abada, haa duumiiɗo.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nono"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "aro"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "windu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "palal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kamɓe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "defte"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "binndu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ɗum wonata"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "fii ñalnde"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "jawtunde"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "seeda haa abada"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiiɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:33.679357232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Min ko mi ŋoral, ɓerɗe am no torre ɗen; ɗooɗe mi laati e gite makko no yiytuɗo deewal.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ŋoral"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ɓerɗe am"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "no torre ɗen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ɗooɗe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi laati"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite makko"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "no yiytuɗo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "deewal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:29.595193103Z",
+  "model": "glm-5.3"
+}

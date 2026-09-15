@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Goonga ummora e leydi ina ɓi'aa, ñaawoore ummora e kammuuli ina ƴi'lay les.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Goonga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummora e leydi"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ina ɓi'aa"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ummora e kammuuli"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ina ƴi'lay les"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:27.180374795Z",
+  "model": "glm-5.3"
+}

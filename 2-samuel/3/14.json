@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Dawuud neldi janngooɓe to Ish-Booshet ɓiyum Sha'uul, wiyde: Ndokku ⟨את⟩ debbo am, ⟨את⟩ Mikal, mo mi renndini e am e teemedere pereeji Pilisti'en.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "janngooɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "איש",
+      "gloss": ""
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Ish-Booshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo am"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "debbo am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "mi renndini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "e teemedere"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "pereeji"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilisti'en"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:52.155553637Z",
+  "model": "glm-5.3"
+}

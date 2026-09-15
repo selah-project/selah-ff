@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Kadi ko min ɓiɗɗo aroowo mi rokkata mo, toowɗo ɗoon e ɗoon laamiiɓe leydi ndin.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Kadi ko min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ɓiɗɗo aroowo"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "mi rokkata mo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "toowɗo ɗoon e ɗoon"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "laamiiɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:03.741778630Z",
+  "model": "glm-5.3"
+}

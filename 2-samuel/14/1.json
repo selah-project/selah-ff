@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ndeen Yoo'aab ɓiy Tserujah anndi wonde ɓernde laamɗo on woni dow Abshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:03.349818413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Gorko ñaawuɗo ñaawirta ⟨את⟩ gorko ahuufo — o werla, o mbi'a kadi, ɗoon walaa deeƴre.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ñaawuɗo"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ñaawirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorko ahuufo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahuufo"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "o werla"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "o mbi'a kadi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ɗoon walaa"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "deeƴre"
+    }
+  ],
+  "timestamp": "2026-09-14T10:03:46.974851018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O wi'i: Bonnugol ngol mi waɗi ko, nde a wooɗata ⟨את⟩ jeyaaɗo maa e juuɗe Ahab fii warde lam?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mi bonnii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a wooɗata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɗo maa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "fii warde lam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:02.412155646Z",
+  "model": "glm-5.3"
+}

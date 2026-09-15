@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "E dow maa'a mi tuugniike gila reedu, gila nder ɓernde yumma am ko aɗa yaltinii min; e maa'a yettoore am woni sahaa kala.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "e dow maa'a"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "mi tuugniike"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gila reedu"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "gila nder ɓernde"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "yaltinii min"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa'a"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "yettoore am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa kala"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:02.673111125Z",
+  "model": "glm-5.3"
+}

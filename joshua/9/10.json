@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ fuu ko o waɗi feewde laamɗo ɗawɗi ɗiɗo Amoriyonke ɓen wonɓe tuugnorgo Yarden, laamɗo Siihon laamɗo Cheshbon, e laamɗo Oog laamɗo Bashan, ɓe wonnoo ɗo Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "feewde ɗiɗo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo ɗawɗi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyonke ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonɓe"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "tuugnorgo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "laamɗo Siihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "e laamɗo Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamđo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe wonnoo"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "ɗo Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-14T18:56:36.927051480Z",
+  "model": "glm-5.3"
+}

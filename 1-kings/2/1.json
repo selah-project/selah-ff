@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ñalɗi Dawuud ɗin ɓeydii ɓadaade fii maayde, o titinii ⟨את⟩ Selomo ɓiy mun, wiyu:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ɓeydii ɓadaade"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi ɗin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fii maayde"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "o titinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:18.285023189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Torah gooto wooday fii ɓi leydi ndin, e fii gaajo hoɗɗo on hoɗii nder mon.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wooday"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "fii ɓi leydi ndin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e fii gaajo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hoɗɗo on"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "hoɗii nder mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:19.403623697Z",
+  "model": "glm-5.3"
+}

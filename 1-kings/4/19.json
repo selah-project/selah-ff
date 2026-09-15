@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Geber ɓiy Uurii ⟨ko⟩ e leydi Gil'ad — leydi Sihon laamɗo Amoriyankooɓe ɓen e Oog laamɗo Bashan — ←wakamaajo gooto on woɗɗun e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Uurii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyankooɓe ɓen"
+    },
+    {
+      "surface": "ועג",
+      "gloss": "e Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "←wakamaajo gooto on woɗɗun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:39.902728223Z",
+  "model": "glm-5.3"
+}

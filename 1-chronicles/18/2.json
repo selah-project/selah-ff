@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O fiyi ⟨את⟩ Mooab, Mooab en ngonti jeyaaɓe Daawuda, ɓe addoo dokke.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mooab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mooab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe ngonti"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mooab en"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jeyaaɓe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ɓe addoo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dokke"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:47.641978821Z",
+  "model": "glm-5.3"
+}

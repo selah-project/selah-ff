@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "E geejo wata a tooñu mo, wata kadi a ñawu mo; tawa ko on ngoniino geejooɓe e leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "e geejo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "a tooñu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata kadi"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "a ñawu mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "geejooɓe"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "on ngoniino"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:53.819654449Z",
+  "model": "glm-5.3"
+}

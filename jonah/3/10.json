@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Eloohim yi'i ⟨את⟩ golle maɓɓe ɗen, wonnde ɓe ruttii e laawol maɓɓe bonngol ngol; kadi Eloohim moytii e bonannde nden nde o wi'i o mbaɗata ɓe — o waɗaani ɗum.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Eloohim yi'i"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle maɓɓe ɗen"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "golle maɓɓe ɗen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ɓe ruttii"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "e laawol maɓɓe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonngol ngol"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Eloohim moytii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonannde nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "o mbaɗata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗaani ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:36.785416858Z",
+  "model": "glm-5.3"
+}

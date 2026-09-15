@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono no ɓe ñawintiri ⟨את⟩ ɓe nii, ɓe njaajha; ɓe njiɓɓitanoo; Misrayimnaaɓe ɓe ɓeydi heen sunaari sabu ɓiɓɓe Israa'iila.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Kono no... nii"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ɓe ñawintiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe (Israa'iila)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ɓe njaajha"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ɓe njiɓɓitanoo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ɓe ɓeydi sunaari"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:49.706290938Z",
+  "model": "glm-5.3"
+}

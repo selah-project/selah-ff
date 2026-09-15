@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ko mbi'ata e ñalnde yilliinde, e balaare wattoonde woɗnde? To moi dungu ngadon ballal? E hoɗo acciton teddungal mon?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "e ko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbi'ata"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "yilliinde"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "e balaare"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "woɗnde"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "wattoonde"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מי",
+      "gloss": "moi dungu"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "ngadon"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "e hoɗo"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "acciton"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "teddungal mon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:11.180375235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓe yi'i ⟨את⟩ Eloohim Israa'iila; les koyɗe makko no woniri golle ɓuuɓnde no laaɓndi jaajiri, no ɓuuɓri kammuuli ɗin purtinaandi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ɓe yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim Israa'iila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe makko"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "no golle woniri"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ɓuuɓunde laaɓndi"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "jaajiri"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "no ɓuuɓri"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "purtinaandi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:01.710099743Z",
+  "model": "glm-5.3"
+}

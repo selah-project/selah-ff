@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Stay'ɓe kadi yooɓɓe, neffe mun en nder mum en ⟨en⟩ taggii.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "stay'ɓe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "yooɓɓe"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "neffe mun en"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nder mum en"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "⟨en⟩ taggii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:15.501136998Z",
+  "model": "glm-5.3"
+}

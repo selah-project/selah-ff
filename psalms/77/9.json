@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Hesed makko danyii kay naa, haa duumi? Konngol mun ngol danyii, fii jamaa e jamaa?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "danyii kay naa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "danyii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "konngol mun ngol"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fii jamaa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e jamaa"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:32.182203396Z",
+  "model": "glm-5.3"
+}

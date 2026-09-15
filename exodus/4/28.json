@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mosese wi'ini Aharona ⟨את⟩ konnguɗi Yaawe ɗin fof ɗi neldu mo, e ⟨את⟩ maandeeji ɗin fof ɗi yamiri mo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "o wi'ini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosese"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "neldu mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maandeeji ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "maandeeji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamiri mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:48.964247568Z",
+  "model": "glm-5.3"
+}

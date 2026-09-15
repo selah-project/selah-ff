@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 58,
+  "translation": "Neɗɗo mbiat: goongɗii, ina woodi dali fii moƴƴo on; goongɗii, ina woodi Eloohim ñoottooji ⟨e⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o mbiat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "goongɗii"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "dali"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fii moƴƴo on"
+    },
+    {
+      "surface": "אך",
+      "gloss": "goongɗii"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ina woodi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ñoottooji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:00.902661922Z",
+  "model": "glm-5.3"
+}

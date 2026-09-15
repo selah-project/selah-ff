@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O lelni ⟨את⟩ ƴiye makko e wirnande makko, ɓe ngonnii yooyde fii mo, ɓe wi'i: “Hoy, miñiiko am!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "o lelni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiye makko"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ƴiye makko"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "e wirnande makko"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ɓe ngonnii yooyde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fii mo"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñiiko am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:08.379262117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Yeeso baabiraaɓe maɓɓe O waɗi cikkaaji, e leydi Misrayim, e hayre Tsoan.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "Yeeso"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "cikkaaji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "e hayre"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:47.398919205Z",
+  "model": "glm-5.3"
+}

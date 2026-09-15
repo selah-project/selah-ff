@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Kala waroowo neɗɗo, e daande seedeeji warrya ⟨את⟩ waroowo ngoo; kono seedo gooto wanaa seedota dow neɗɗo fii maayde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "waroowo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seedeeji"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "warrya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waroowo ngoo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "waroowo ngoo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kono seedo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "seedota"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "dow neɗɗo"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fii maayde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:58.807550757Z",
+  "model": "glm-5.3"
+}

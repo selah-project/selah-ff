@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O waɗini ⟨את⟩ keddol ɗaɓɓirgel ngol to hoɗorde nden.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keddol ɗaɓɓirgel ngol"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "keddol"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ɗaɓɓirgel ngol"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "to hoɗorde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:26.775448835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Artir hoɗɓe amen ɗen laabi jeeɗiɗi e nder ɓernde mun, ko ɓe muusunoo e maa, Adonaay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Artir"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "hoɗɓe amen ɗen"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "laabi jeeɗiɗi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ko ɓe muusunoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:06.812462400Z",
+  "model": "glm-5.3"
+}

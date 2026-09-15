@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Balɗe jeeɗiɗe timmi, ɓaawo Yaawe fi'ude ⟨את⟩ maayo ngol.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "timmii"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "fi'ude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayo ngol"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "maayo ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:47.898647634Z",
+  "model": "glm-5.3"
+}

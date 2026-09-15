@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Goongɗa, Eloohim mboɗay hoore pentooɓe mun, danɗo duuɗe hoore yahuɗo e bakkaatuuji mun.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "goongɗa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "mboɗay"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "pentooɓe mun"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "danɗo (hoore)"
+    },
+    {
+      "surface": "שער",
+      "gloss": "duuɗe"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yahuɗo"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "e bakkaatuuji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:24.972943664Z",
+  "model": "glm-5.3"
+}

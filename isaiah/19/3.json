@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ruuhu Misrayim ɓennita nder mum, mi naaɗana wasiyaaji mum; ɓe ɗaɓɓitoy lanndaaji ɗin, e fettinoowoɓe, e woƴƴuɓe, e annduɓe wirtooje.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ɓennita"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nder mum"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "wasiyaaji mum"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "mi naaɗana"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ɓe ɗaɓɓitoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "lanndaaji ɗin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "fettinoowoɓe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "woƴƴuɓe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "annduɓe wirtooje"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:16.374220787Z",
+  "model": "glm-5.3"
+}

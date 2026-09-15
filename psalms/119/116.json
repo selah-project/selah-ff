@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Sarra mi no konngol maa ngol wiirta, maa mi wuuro; wana a bonnu mi e yaakaare am nden.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "sarra mi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "no konngol maa ngol wiirta"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "maa mi wuuro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wana a"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "bonnu mi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "e yaakaare am nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:52.836668797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Fii yoowo on, dow Shushan-Edut, miktam Dawuuda, fii jannginde.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "fii jannginde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:28.311182496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "⟨את⟩ Ɓe reenu ⟨את⟩ reende mun e ⟨את⟩ reende kawral ngal fuu yeeso teenti kawtal on, ɓe golla golle ngoornirde nden.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ɓe reenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reende mun"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "reende mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "reende kawral ngal"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kawral ngal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ɓe golla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle ngoornirde nden"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ngoornirde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:28.964441384Z",
+  "model": "glm-5.3"
+}

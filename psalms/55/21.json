@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "O dartinii juuɗe makko e jom-pesɗe makko, o bonnii sakkiti makko.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "o dartinii"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "e jom-pesɗe makko"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "o bonnii"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sakkiti makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:14.445473767Z",
+  "model": "glm-5.3"
+}

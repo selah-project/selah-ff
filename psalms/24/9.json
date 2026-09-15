@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Toƴƴin, dame ɗen, hoore mon, toƴƴin kadi, dame duume ɗen, ɗuum laamɗo teddeere on naata.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "toƴƴin"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dame ɗen"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "toƴƴin kadi"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "dame"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duume ɗen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ɗuum ... naata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "teddeere on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:08.346167732Z",
+  "model": "glm-5.3"
+}

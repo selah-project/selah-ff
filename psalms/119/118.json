@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "A ñiŋii-worii ɓe majjuɓe fof e kuɗe maa, sabu fenaande maɓɓe ko fenaare.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "a ñiŋii-worii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "ɓe majjuɓe"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "e kuɗe maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaare"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "fenaande maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:48.141621102Z",
+  "model": "glm-5.3"
+}

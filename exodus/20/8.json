@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Jantee ⟨את⟩ ñalnde shabbat ngam laaɓtinnde mum:",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Jantee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalnde shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ngam laaɓtinnde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:55.636439503Z",
+  "model": "glm-5.3"
+}

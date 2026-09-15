@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Sabu aɗa wondi ballal am, e nder kilenge baaji maa mi yimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "aɗa wondi"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "e nder kilenge"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "baaji maa"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mi yimo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:23.517918508Z",
+  "model": "glm-5.3"
+}

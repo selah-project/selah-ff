@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kadi si mi yahi e ɓuuɓri coggu maayde, mi lootaa kulol bone, sabu Aɗa wondi e am; ɓoggol maa e ƴi'e maa — ko ɗe ngollina lam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "coggu maayde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi lootaa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aɗa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "wondi e am"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ɓoggol maa"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "e ƴi'e maa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ko ɗe"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ngollina lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.102571228Z",
+  "model": "glm-5.3"
+}

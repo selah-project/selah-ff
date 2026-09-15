@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Kadi maccuɗo maa ɗoo reentee e ɗen; e reende ɗen ko njoɓdi mawndi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "maccuđo maa ɗoo"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "reentee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɗen"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "e reende ɗen"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ko njoɓdi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawndi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:38.735698830Z",
+  "model": "glm-5.3"
+}

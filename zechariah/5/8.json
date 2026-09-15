@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "O wi'i: Ɗum ko ⟨ko⟩ riɓɓere nden; o werlii ⟨את⟩ mayre haa e hakkunde eefaa on, o werlii ⟨את⟩ hastere ƴiiƴam ɓaleejam dow haɓre mayre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "riɓɓere nden"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "o werlii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mayre (riɓɓere nden, debbo nder njiylawi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eefaa on"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "o werlii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hastere ƴiiƴam ɓaleejam"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "hastere"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ƴiiƴam ɓaleejam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haɓre mayre"
+    }
+  ],
+  "timestamp": "2026-09-15T07:07:32.773761342Z",
+  "model": "glm-5.3"
+}

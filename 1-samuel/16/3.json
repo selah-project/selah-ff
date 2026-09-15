@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Noddu Yishay e saditta ngol; kono min mi humpadirta maa ⟨את⟩ ko aɗa waɗa, a heblirta fii am ⟨את⟩ ko mi wi'ata maa.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "noddu"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "e saditta ngol"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "mi humpadirta maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko aɗa waɗa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aɗa waɗa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a heblirta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mi wi'ata maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mi wi'ata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:54.336623827Z",
+  "model": "glm-5.3"
+}

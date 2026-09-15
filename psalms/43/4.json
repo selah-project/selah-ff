@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Mi yetto haa alluure Eloohim, haa Eel, weltere weltare am; mi yettira maa e kinngal, Eloohim, Eloohim am.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Mi yetto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alluure"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "weltere"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "weltare am"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "mi yettira maa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kinngal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:23.736282762Z",
+  "model": "glm-5.3"
+}

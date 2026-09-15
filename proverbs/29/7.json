@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Neɗɗa ñaawuɗo on anndi ñaawoore ɓe ŋakkiraaɓe; kono bonɗo on faama ganndal.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "neɗɗa ñaawuɗo on"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ɓe ŋakkiraaɓe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "faama"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:46.295421487Z",
+  "model": "glm-5.3"
+}

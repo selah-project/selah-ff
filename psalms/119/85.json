@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mawnuɓe ɓe fewi min lurve, ɗe ⟨ngoni⟩ wanaa e mbaadi Torah maa.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ɓe fewi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mawnuɓe"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "lurve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "e mbaadi Torah maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:58.811396635Z",
+  "model": "glm-5.3"
+}

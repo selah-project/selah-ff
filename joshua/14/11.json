@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "No mikoo mi sembe ƴetti no ñalnde Mosheh neldi ⟨את⟩ am nii; no sembe am wonnoo arande nii, ko nii kadi hannde, fii konu, e yaltude e naatude.",
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "no mikoo mi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sembe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "no sembe am"
+    },
+    {
+      "surface": "אז",
+      "gloss": "aronde"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "wana no sembe am"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fii konu"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "e yaltude"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "e naatude"
+    }
+  ],
+  "timestamp": "2026-09-14T06:17:23.838818483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Sababu wonde ɓe sunnaama woodii yimɓe fuu ⟨yaltuɓe ɓen⟩, e yimɓe fuu jibinaaɓe nder jeereende nden e laawol ngol e yaltugol maɓɓe e Misrayim — ɓe sunnaa ɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababu wonde"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ɓe sunnaama"
+    },
+    {
+      "surface": "היו",
+      "gloss": "woodii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "yaltuɓe ɓen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "jibinaaɓe ɓen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder jeereende nden"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "e yaltugol maɓɓe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "ɓe sunnaa ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:31.303805894Z",
+  "model": "glm-5.3"
+}

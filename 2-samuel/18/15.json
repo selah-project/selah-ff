@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sukaaɓe sappo jolnorɓe kuutorɗe Yoo'aab njiirtii, ɗi mbari ⟨את⟩ Abishaalom, ɗi warri mo.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "njiirtii"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "jolnorɓe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɗi mbari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishaalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abishaalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ɗi warri mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:05:58.583044482Z",
+  "model": "glm-5.3"
+}

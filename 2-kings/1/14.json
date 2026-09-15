@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nama, yiite jippii ko e kammuuli ɗin, nde ñaami ⟨את⟩ hooreeji ɗiɗo ɓen capanɗe joyi adiiɓe ɓen, e ⟨את⟩ capanɗe mun joyi. Hannde, neɗɗaagu am waawne e gite maa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "jippii ko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "nde ñaami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hooreeji ɗiɗo ɓen capanɗe joyi adiiɓe ɓen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "capanɗe joyi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "adiiɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "capanɗe mun joyi"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "capanɗe mun joyi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "waawne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neɗɗaagu am"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e gite maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:38.119809420Z",
+  "model": "glm-5.3"
+}

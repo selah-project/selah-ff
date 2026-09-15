@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "E keerol Asher, feɗɗendu fuɗnaange haa feɗɗendu hiirnde: Nafatali, gooto.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "feɗɗendu"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "fuɗnaange"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "feɗɗendu"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "hiirnde"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Nafatali"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    }
+  ],
+  "timestamp": "2026-09-14T08:55:59.694544139Z",
+  "model": "glm-5.3"
+}

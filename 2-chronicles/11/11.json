@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O ɗaɓɓiti ⟨את⟩ damɗe teeŋtuɗe ɗen, o waɗi e mayre ɗi ardinooɓe e ndonaaku ñamri e nebam e waynugol.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "o ɗaɓɓiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damɗe teeŋtuɗe ɗen"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "damɗe teeŋtuɗe ɗen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ardinooɓe"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "e ndonaaku"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "e nebam"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e waynugol"
+    }
+  ],
+  "timestamp": "2026-09-14T13:07:24.785257304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ndaarnan e dow taabal ngal nannde Yañaare, ñaande am duumi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ndaarnan"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nannde"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "Yañaare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñaande am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:40.468347575Z",
+  "model": "glm-5.3"
+}

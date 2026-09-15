@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Dawuud wi'i mo: “Rio maa wana e hoore maa, sabu haala maa jaabii maa, wiyde: mi warii ⟨את⟩ Mashiah Yaawe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Rio maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "haala maa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "בך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "warii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiah"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:45.380277284Z",
+  "model": "glm-5.3"
+}

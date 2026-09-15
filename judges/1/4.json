@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yuuda ƴellii, Yaawe woodnini ⟨את⟩ Kan'aanaan on e Perisaay en e junngo maɓɓe; ɓe-fiɗi ɓe to Beezek, teemedere junooɓe worɓe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ƴellii"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "woodnini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kan'aanaan on e Perisaay en"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kan'aanaan on"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e Perisaay en"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e junngo maɓɓe"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ɓe-fiɗi ɓe"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "to Beezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "junooɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:42.156295080Z",
+  "model": "glm-5.3"
+}

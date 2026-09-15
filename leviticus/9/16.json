@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "O ɓadti ⟨את⟩ njuɓɓu ndun, o waɗi ɗum no sariya-rewɓe mun nii.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "o ɓadti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njuɓɓu ndun"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "njuɓɓu ndun"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "o waɗi ɗum"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "no sariya-rewɓe mun nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:50.712076398Z",
+  "model": "glm-5.3"
+}

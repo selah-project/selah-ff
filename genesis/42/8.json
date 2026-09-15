@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yoosufu anndi ⟨את⟩ miñiraaɓe mun ɓen, kono ɓe anndaali mo.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñiraaɓe mun ɓen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe mun ɓen"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anndaali"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:08.198855590Z",
+  "model": "glm-5.3"
+}

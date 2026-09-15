@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Leydi ndin lanɓi, mi ñaawii bonannde mum dow mun, leydi ndin yummitii ⟨את⟩ hoɗɓe mun.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "lanɓi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "mi ñaawii"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "bonannde mum"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "yummitii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗɓe mun"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "hoɗɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:52.165715051Z",
+  "model": "glm-5.3"
+}

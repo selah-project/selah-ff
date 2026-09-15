@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe wi'i Muusaa: ɓernde Firʿawn wuuri, o salii yaltinde yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʿawn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "salii"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "yaltinde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:59.173114582Z",
+  "model": "glm-5.3"
+}

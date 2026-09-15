@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Mi nelaya ⟨את⟩ ɓowɗi ɗii yeeso maa, ɗi ruttinay ⟨את⟩ Hiwi'en, ⟨את⟩ Kenaan'en e ⟨את⟩ Hitti'en qabal maa.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mi nelaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓowɗi ɗii"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ɓowɗi ɗii"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ɗi ruttinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiwi'en"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwi'en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan'en"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaan'en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hitti'en"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitti'en"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "qabal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:12.807477121Z",
+  "model": "glm-5.3"
+}

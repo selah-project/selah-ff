@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E hoore ɗum, a udditii gite maa, e ⟨את⟩ kam ɗum naatninaa e ñaawoore e maa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "E hoore ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "a udditii"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "e ⟨את⟩ kam",
+      "marks": "naatninaa e ñaawoore"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "naatninaa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:23.381211028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ko nii mi wonnoo: e nder ñalawma nguleeri ñaami mi, e nder jamma ɓuuɓri, kadimmo hello maayii e gite am.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonnoo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e nder ñalawma"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "ñaami mi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nguleeri"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "e nder jamma"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "hello maayii"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "hello"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "e gite am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:13.039211641Z",
+  "model": "glm-5.3"
+}

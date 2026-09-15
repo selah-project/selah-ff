@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ngonka am ina yetta nder Yaawe; ñaañuɓe ɗen nan ñaawoore, ɓe weltin.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "nder Yaawe"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ina yetta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Ngonka am"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ñaañuɓe ɗen"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ɓe weltin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:08.849700794Z",
+  "model": "glm-5.3"
+}

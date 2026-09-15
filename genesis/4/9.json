@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe wi'i Qaayin: «Hol to mii-yumma Hebel miñi maa?» O wi'i: «Mi anndaa; hara mi ko reenoowo miñi mun? Lorduu-mi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qaayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hol to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hara mi ko reenoowo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñi mun"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:28.318070608Z",
+  "model": "glm-5.3"
+}

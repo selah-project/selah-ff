@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Kono a noddaali ⟨את⟩ am, Yaakuub; nde a muynii kon ko e am, Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ɗaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "a noddaali"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "a muynii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T12:16:06.616416033Z",
+  "model": "glm-5.3"
+}

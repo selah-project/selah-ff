@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Konngol ngol arii Yirmiyaahu diga ⟨את⟩ Yaawe, ngam wi'ude:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "diga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam wi'ude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:36.590492249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yoshuwa ummii e darorɗe jamma haa subaka, o limti ⟨את⟩ yimɓe ɓee, o yahi — kanko e mawɓe Israa'iila — yeeso yimɓe ɓee, to Haay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ummii e darorɗe jamma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "o limti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "העי",
+      "gloss": "to Haay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:13:52.445802837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 20:18",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Mi wi'i e ɓiɓɓe maɓɓe e jeereende: e laawoji baabiraaɓe mon wata on yaha, e ⟨את⟩ ñaawoore maɓɓe wata on reeno, e gilaaji maɓɓe wata on bonna.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "בחוקי",
+      "gloss": "e laawoji"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "on yaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore maɓɓe"
+    },
+    {
+      "surface": "משפטיהם",
+      "gloss": "ñaawoore maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "on reeno"
+    },
+    {
+      "surface": "ובגלוליהם",
+      "gloss": "e gilaaji maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "on bonna"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:14.399014345Z",
+  "model": "glm-5.3"
+}

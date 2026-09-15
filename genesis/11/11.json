@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Sheem wuuri ɓaawo dañde ⟨את⟩ Arpaksad duuɓi kese joy teemedere, o dañi ɓiɓɓe worɓe e ɓiɓɓe rewɓe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dañde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaksad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaksad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "joy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:38.570112289Z",
+  "model": "glm-5.3"
+}

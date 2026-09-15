@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Toon mi ƴellitinta ceŋel fii Dawuudi; mi teeltinii lampa fii Mashiah am.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "mi ƴellitinta"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ceŋel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuudi"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "mi teeltinii"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampa"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "fii Mashiah am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:43.153652449Z",
+  "model": "glm-5.3"
+}

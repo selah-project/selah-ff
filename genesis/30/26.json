@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ndokku ⟨את⟩ rewɓe am e ⟨את⟩ ɓiɓɓe am ɗi mi gollunoo ⟨את⟩ maaɗa e maɓɓe, ndeen mi yaha; sabu a anndi ⟨את⟩ golle am ɗe mi gollunoo maaɗa.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ndokku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe am"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "rewɓe am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe am"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "ɓiɓɓe am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mi gollunoo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maaɗa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle am"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "golle am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "mi gollunoo maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:25.666101426Z",
+  "model": "glm-5.3"
+}

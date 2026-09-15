@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Yimɓe ɓen ƴaañi e Mosée, ɓe wi'i: “Addeen min ndiyam ngam men ndaru.” Mosée wi'i ɓe: “Ko honɗum ɓe ƴaañirta min? Ko honɗum ɓe jarriba ⟨את⟩ Yaawe?”",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "ƴaañi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosée"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Addeen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ngam men ndaru"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosée"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honđum"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ɓe ƴaañirta"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "min"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honđum"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "ɓe jarriba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:31.476282483Z",
+  "model": "glm-5.3"
+}

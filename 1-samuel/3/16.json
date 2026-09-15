@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Eeli noddi ⟨את⟩ Shemuwel, o wi'i: “Shemuwel, ɓiɗɗo am.” O wi'i: “Ɗoo mi woni.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ɗoo mi woni"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:00.410097300Z",
+  "model": "glm-5.3"
+}

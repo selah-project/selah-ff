@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Seedeeji Maa ɗen kadi ko ɗen ⟨en⟩ weltereeji am, ɗi ⟨en⟩ jokku am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "seedeeji Maa ɗen"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "weltereeji am"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "jokku am — yimɓe"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "jokku am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:01.181005446Z",
+  "model": "glm-5.3"
+}

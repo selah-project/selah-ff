@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O fiyi ⟨את⟩ Moo'aab, o ɓeldi ɓe e ɓoggol, o lelni ɓe ⟨את⟩ ley leydi; o ɓeldi ɗiɗo ɓoggol ngam warde, e timmal ɓoggol ngol ngam wuurde; Moo'aab laati jeyraaɓe Daawuuda, addooɓe dokke.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moo'aab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "o ɓeldi ɓe"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "e ɓoggol"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "o lelni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ley leydi"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "o ɓeldi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "ɓoggol"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ngam warde"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "e timmal"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "ɓoggol ngol"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "ngam wuurde"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "laati"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuuda"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jeyraaɓe"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "addooɓe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dokke"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:06.002196349Z",
+  "model": "glm-5.3"
+}

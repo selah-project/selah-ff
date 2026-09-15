@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Eloohim yi'i ⟨את⟩ leydi ndin — tawa nden nde bonnii, sabu ƴiye fuu bonnii ⟨את⟩ laawol mun ngol dow leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "bonnii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "bonnii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol mun"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:06.124814222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O wanaa haɗa e yeeso naange on, cokre mun yalti e dow kanne mun.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "haɗa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "kanne mun"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "cokre mun"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yalti"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:47.960521131Z",
+  "model": "glm-5.3"
+}

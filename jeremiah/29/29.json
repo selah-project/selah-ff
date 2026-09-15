@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Tsefanya almaami on janngi ⟨את⟩ deftere nden ndee e duumi Yirmeyahu annabi on.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "janngi"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deftere nden"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "deftere nden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e duumi"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:22:06.440562869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe ⟨woni⟩ e nder suudu muusɗu mun; Yaawe, jooɗorde mun woni ko e kammuuli; gite mun ɗin ngalooya, cooki gite mun ɗin ɗaɓɓita ɓiɓɓe aadam.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "e nder suudu muusɗu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jooɗorde mun"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gite mun ɗin"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ngalooya"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "cooki gite mun ɗin"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ɗaɓɓita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:44.887382026Z",
+  "model": "glm-5.3"
+}

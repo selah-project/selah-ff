@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi waɗay jeeyngal hakkunde maa e waaworde nden, hakkunde aawdi maa e aawdi makko; o helay hoore maa, kono maa helay teppere makko.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "jeeyngal"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi waɗay"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "hakkunde maa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "waaworde nden"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "aawdi maa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "aawdi makko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "helay maa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "helay"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "teppere makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:22.623405934Z",
+  "model": "glm-5.3"
+}

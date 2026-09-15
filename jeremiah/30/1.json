@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Konngol ngol arii Yirmiyaahu, ummiinde e ⟨את⟩ Yaawe, wiyude:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ummiinde e",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:54.425563776Z",
+  "model": "glm-5.3"
+}

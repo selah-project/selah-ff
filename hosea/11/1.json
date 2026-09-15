@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Tuma Yisraayel wonnoo suka, kanko mi yiɗi mo, e Misrayim mi noddi ɓiyum am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "kanko mi yiɗi mo"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiyum am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:06.142296578Z",
+  "model": "glm-5.3"
+}

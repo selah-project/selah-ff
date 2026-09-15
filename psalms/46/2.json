@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Eloohim ko min dheeru e doole, ballal e caɗeele hiɗo nanaa no feewi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ko min"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "dheeru"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e doole"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "e caɗeele"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hiɗo nanaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:52.285954003Z",
+  "model": "glm-5.3"
+}

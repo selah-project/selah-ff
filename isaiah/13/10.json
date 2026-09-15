@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono tawa: koorɗe kammuuli ɗin e palloorɗe mun ɗen ɓe jaalnataa layɗi mun; naange nden waasii jalnorde mum e yaltugol mum, e lewru nden waalaa jalninde jalnorde mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko-nii-tawa"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "koorɗe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli-ɗin"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "e-palloorɗe-mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waalaa"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "jaalnataa"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "layɗi-mun"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "waasii-jalnorde"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange-nden"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "e-yaltugol-mum"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "e-lewru-nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waalaa"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "jalninde"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "jalnorde-mum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:43:58.401991566Z",
+  "model": "glm-5.3"
+}

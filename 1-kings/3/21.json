@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi ummii subaka fii ƴummude ⟨את⟩ ɓiɗɗo am, e ndeen — o maayi; mi ƴeewtii mo subaka, e ndeen — ⟨woni⟩ wanaa ɓiɗɗo am mo mi jibini.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "Mi ummii"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "fii ƴummude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndeen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "mi ƴeewtii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndeen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨woni⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "mi jibini"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:14.678938673Z",
+  "model": "glm-5.3"
+}

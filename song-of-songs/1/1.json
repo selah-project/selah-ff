@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yimre yimre ɓurnde, nde Shelomoo woni nden.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "yimre ɓurnde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoo woni nden"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:49.106505125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ Arwadiijo on, e ⟨את⟩ Semariijo on, e ⟨את⟩ Hematiijo on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Arwadiijo on"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadiijo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Semariijo on"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Semariijo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hematiijo on"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hematiijo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.941735564Z",
+  "model": "glm-5.3"
+}

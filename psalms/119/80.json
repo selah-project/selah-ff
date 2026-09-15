@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɓuri wonude ɓernde am timmude nder sariiyaaji maa, fii wanaa mi hoyra.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ɓuri wonude"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmude"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "nder sariiyaaji maa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mi hoyra"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:22.089237645Z",
+  "model": "glm-5.3"
+}

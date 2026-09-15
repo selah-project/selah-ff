@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndeen waɗi tuma nde Yaawe ƴettunoo ⟨את⟩ Eliyahu e duume haa kammuuli, Eliyahu yahi e Eliisha ummoriiɗe Gilgala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen waɗi"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "nde ... ƴettunoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "e duume"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "e Eliisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoriiɗe"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:48.954256313Z",
+  "model": "glm-5.3"
+}

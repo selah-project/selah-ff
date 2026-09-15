@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sabu Yaawe artirii ⟨את⟩ jalbu Yaakuuba, hono jalbu Israa'iila; sabu boo bakkaaɓe ɓe mbakki ɗi, ɓe mbajinii kadi cotti leɗɗe mangoje maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שב",
+      "gloss": "artirii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalbu Yaakuuba"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jalbu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "hono jalbu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "mbakki"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "bakkaaɓe"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "kotti leɗɗe mangoje maɓɓe"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "mbajinii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:09.038243631Z",
+  "model": "glm-5.3"
+}

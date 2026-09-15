@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ Hadoraam e ⟨את⟩ Uuzaal e ⟨את⟩ Dikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hadoraam"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoraam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Uuzaal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uuzaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:33.628383513Z",
+  "model": "glm-5.3"
+}

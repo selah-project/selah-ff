@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "Yo moƴƴo ñaamoy am hesed, yo o tuuyu am; ko ɗum nebbam hoore, wata hoore am ɗaɓɓa ɗum; gila ko je'eere tora am woni e muñal maɓɓe.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ñaamoy am"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "yo o tuuyu am"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nebbam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יני",
+      "gloss": "ɗaɓɓa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ko je'eere"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "e tora am"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "e muñal maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:41.735093704Z",
+  "model": "glm-5.3"
+}

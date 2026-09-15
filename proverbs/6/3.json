@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Waɗ ɗum jooni, ɓiyum am, hisnu ⟨hoore maa⟩, sabu a naatii e junngo seyo maa; yah, waɗ hoore maa les, e ɓoorna seyo maa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiyum am"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "באת",
+      "gloss": "a naatii"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "seyo maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "waɗ hoore maa les"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "e ɓoorna"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "seyo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:01.771936569Z",
+  "model": "glm-5.3"
+}

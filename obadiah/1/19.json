@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ñaamoore maa jeyu ⟨את⟩ wowru Eesaw, leeso maa jeyu ⟨את⟩ Fillistiinaɓe, ɓe maa jeyu ⟨את⟩ pelle Efrayim e ⟨את⟩ pelle Shomeron, Benyamin kadi maa jeyu ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "maa jeyu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ñaamoore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wowru Eesaw"
+    },
+    {
+      "surface": "הר",
+      "gloss": "wowru"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesaw"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "leeso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Fillistiinaɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fillistiinaɓe"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ɓe maa jeyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelle Efrayim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pelle Shomeron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Benyamin kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:45.008393861Z",
+  "model": "glm-5.3"
+}

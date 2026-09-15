@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wi'i mo: Ndokku mi barket, maa a ndokki mi leydi Negev, ndokku mi kadi ɓulli ndiyam; Kaleyeb ndokki mo ⟨את⟩ ɓulli toowɗi e ⟨את⟩ ɓulli lesɗi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ndokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "a ndokki mi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleyeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓulli"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "toowɗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓulli"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "lesɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:19.384579184Z",
+  "model": "glm-5.3"
+}

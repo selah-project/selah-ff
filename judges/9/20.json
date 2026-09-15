@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "e si alaa, yiite ina yaltu e Abimelek, ina ñam ⟨את⟩ mawɓe Sheksem e ⟨את⟩ galle Milloo, yiite ina yaltu e mawɓe Sheksem e galle Milloo, ina ñam ⟨את⟩ Abimelek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "e Abimelek"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ñaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawɓe Sheksem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sheksem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "galle Milloo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "e mawɓe"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sheksem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "e galle"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ñaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:00.460431791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O ñaawi ⟨את⟩ Israa'iil duuɓi noogas e tati; o maayi, o wirnaa e Shaamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "o ñaawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e tati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "e Shaamir"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:48.554045888Z",
+  "model": "glm-5.3"
+}

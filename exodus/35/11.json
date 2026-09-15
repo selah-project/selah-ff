@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ miskaan on, ⟨את⟩ teendu mun e ⟨את⟩ buttu mun, ⟨את⟩ ɗiiɗe mun e ⟨את⟩ pale mun, ⟨את⟩ barmeleeji mun, ⟨את⟩ ɗiiɗe mun e ⟨את⟩ cenzeere mun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miskaan on"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miskaan on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teendu mun"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "teendu mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "buttu mun"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "buttu mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiiɗe mun"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ɗiiɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pale mun"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "pale mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barmeleeji mun"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "barmeleeji mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiiɗe mun"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ɗiiɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "cenzeere mun"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "cenzeere mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:36.314337136Z",
+  "model": "glm-5.3"
+}

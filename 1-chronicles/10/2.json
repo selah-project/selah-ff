@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Pelishtiyankooɓe ɗon ndonkii Saul e ɓiɓɓe mum; Pelishtiyankooɓe ɗon njiha ⟨את⟩ Yonatanan e ⟨את⟩ Abinadab e ⟨את⟩ Malki-shu'a, ɓiɓɓe Saul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ɗon ndonkii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyankooɓe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e ɓaawo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mum"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe njiha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyankooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Malki-shu'a"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shu'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-14T13:05:13.184934222Z",
+  "model": "glm-5.3"
+}

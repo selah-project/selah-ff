@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono Haza'el, laamɗo Aram, dolli ⟨את⟩ Israa'iil, kala duuɓi Yehowa'ahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Kono Haza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "dolli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehowa'ahaz"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:21.059810191Z",
+  "model": "glm-5.3"
+}

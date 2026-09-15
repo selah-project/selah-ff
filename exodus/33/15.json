@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O wi'i mo: si werte maa yahaani e min, woppu yiilde min gila ɗoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "werte maa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "woppu"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "yiilde min"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gila ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:12.505104662Z",
+  "model": "glm-5.3"
+}

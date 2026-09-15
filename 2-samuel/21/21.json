@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "O ɗaɓɓitii ⟨את⟩ Israa'iil, Yonatan ɓiy Shimea, miñi Dawuuda, fiyi mo",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "o ɗaɓɓitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "fiyi mo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T07:04:17.864252855Z",
+  "model": "glm-5.3"
+}

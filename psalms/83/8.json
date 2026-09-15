@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Gebaal, e Ammoon, e Amalek, Filistiina wondude e hoɗɓe Tsur.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebaal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "e Ammoon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "e Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wondude e"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:15.017065943Z",
+  "model": "glm-5.3"
+}

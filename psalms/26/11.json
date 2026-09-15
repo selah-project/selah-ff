@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Kono min, e laaɓal am mi yaha; fonndu min, e himo ñaawa min.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "e laaɓal am"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "fonndu min"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e himo ñaawa min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:20.757846122Z",
+  "model": "glm-5.3"
+}

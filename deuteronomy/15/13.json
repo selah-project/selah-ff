@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Si a dimminii mo e maa, wata a neldi mo maho.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "a dimmini mo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "laaɓɗum"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "a neldi mo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "maho"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:32.221485857Z",
+  "model": "glm-5.3"
+}

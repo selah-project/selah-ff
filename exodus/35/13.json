@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ safnde nden e ⟨את⟩ pitte mayre e ⟨את⟩ kaɓirɗe mun fuu e ⟨את⟩ gerte ƴi'e ɗen",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "safnde nden"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "safnde nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitte mayre"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "pitte mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kaɓirɗe mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaɓirɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gerte ƴi'e ɗen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gerte"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ƴi'e ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:26.083826344Z",
+  "model": "glm-5.3"
+}

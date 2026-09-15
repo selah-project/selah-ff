@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "A ɓurtataa jaabaade fii seeditabon ɗooftaaku e seeditaaru fenaande.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɓurtataa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "jaabaade"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ɗooftaaku (e mun)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seeditaaru"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:41.246523069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O ɓilli ⟨את⟩ jaajol henorde damal ngal sappo eggoore, juutorde damal ngal sappo e tati eggoore.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "o ɓilli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaajol henorde damal ngal"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "jaajol"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "henorde"
+    },
+    {
+      "surface": "השער",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "eggoore"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "juutorde"
+    },
+    {
+      "surface": "השער",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo e tati"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "eggoore"
+    }
+  ],
+  "timestamp": "2026-09-14T08:52:37.767820603Z",
+  "model": "glm-5.3"
+}

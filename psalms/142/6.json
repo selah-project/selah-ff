@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Mi leli Yi'uki am to maa, Yaawe; mi wi'i: Aɗa wuro-am, keerol am nder leydi wuurɓe.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Mi leli Yi'uki am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aɗa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "wuro-am"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "keerol am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wuurɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.413773063Z",
+  "model": "glm-5.3"
+}

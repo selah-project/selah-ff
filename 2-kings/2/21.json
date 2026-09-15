@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 2:21",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O yalti e ñuggo ⟨ɗee⟩ ndiyam ɗin, o werlii ɗoon mellet, o wi'i: Ko nii Yaawe wi'i: Mi sellinii ɗee ndiyam; ɗoon ɗeɓe alaa maayde ñaawaa, wanaa waasde jibinde.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ñuggo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "o werlii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "mellet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רפאתי",
+      "gloss": "mi sellinii"
+    },
+    {
+      "surface": "למים",
+      "gloss": "fii ndiyam"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tataa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗoon ɗeɓe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñaawaa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "ומשכלת",
+      "gloss": "e waasde jibinde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:02.999515551Z",
+  "model": "glm-5.3"
+}

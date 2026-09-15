@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓiɓɓe Gereshon: Libni e Shimii, e nder lebbi mum en.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "e Shimii"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e nder lebbi mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:44.604314451Z",
+  "model": "glm-5.3"
+}

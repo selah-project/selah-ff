@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kadi ⟨wonii⟩, tawa a nanii ⟨את⟩ daande yahdu ndee e dow caɗe bakaaƴe ɗen, a yaltu e konu; sabi Eloohim yaltiiino yeeso maa, fii fiyde ⟨את⟩ kampaas Filistiinaaji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨wonii⟩"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "tawa a nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande yahdu ndee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande yahdu ndee"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "daande yahdu ndee"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "e dow caɗe"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "bakaaƴe ɗen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "a yaltu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "e konu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltiiino"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "fii fiyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaas Filistiinaaji ɗin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampaas"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinaaji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:31.865343339Z",
+  "model": "glm-5.3"
+}

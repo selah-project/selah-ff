@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Haalan ɗoo e noppi yimɓe ɓen, ɓe ɓamɗo — worɗo kala sehiloo mum ⟨את⟩, debbo kala sehilaaje mum ⟨את⟩ — kaɓirɗe kaalis e kaɓirɗe njamɗi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e noppi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ɓe ɓamɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɗo kala"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehiloo mum"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "debbo kala"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sehilaaje mum"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "e kaɓirɗe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njamɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:21.114888039Z",
+  "model": "glm-5.3"
+}

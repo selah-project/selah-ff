@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Dewetenaama bindu junngo maa, e bindu leydi maa, e bindu neɗɗaaji maa — ɓiyngu kollarɗi maa ɗen, e ɓiyngu mbełuuji maa ɗen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dewetenaama"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bindu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "e bindu"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "e bindu"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "neɗɗaaji maa"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ɓiyngu"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "kollarɗi maa ɗen"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "e ɓiyngu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "mbełuuji maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:09.094575996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eli wi'i mo: “Haa e ndee waktu a nanngata? Ittu ⟨את⟩ wino maa mo e dow hoore maa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ndee waktu"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "a nanngata"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Ittu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wino maa"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "wino maa"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "e dow hoore maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:14.168637844Z",
+  "model": "glm-5.3"
+}

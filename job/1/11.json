@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono neldu joo junngo maa, mem kala ko o mari; si o du'aay ma, ko e yeeso maa o du'ata.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "joo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "mem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o mari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aay"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "o du'ata ma"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:36.741177585Z",
+  "model": "glm-5.3"
+}

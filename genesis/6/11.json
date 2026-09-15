@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Leydi ndin bonnii yeeso Eloohim, leydi ndin heewii tooñannge.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "bonnii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "heewii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tooñannge"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:06.124655106Z",
+  "model": "glm-5.3"
+}

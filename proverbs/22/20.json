@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ee, mi winndanaa-maa tati, e ñaawoore e anndugol?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ee ... ?"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "mi winndanaa-maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-maa"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "tati"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "e anndugol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:01:42.334241802Z",
+  "model": "glm-5.3"
+}

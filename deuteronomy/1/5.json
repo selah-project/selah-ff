@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E nder woɗɗo Yarden, ka leydi Moab, Muusaa fuɗɗii ɓeydude laaɓnude ⟨את⟩ ɗee ñaawooje ɗee, wiyude:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "e nder woɗɗo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ka leydi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "fuɗɗii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ɓeydude laaɓnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee ñaawooje ɗee"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ɗee ñaawooje ɗee"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:05.185271912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nde nanirtaa ɗuum e kammuuli ɗin, nokku jooɗorde maa, ⟨את⟩ du'aawal maɓɓe e ⟨את⟩ tinnaare maɓɓe, nde waɗaa ñaawoore maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Nde nanirtaa ɗuum"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "e kammuuli ɗin"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nokku jooɗorde"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'aawal maɓɓe"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "du'aawal maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tinnaare maɓɓe"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "tinnaare maɓɓe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "nde waɗaa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ñaawoore maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:14:40.455454280Z",
+  "model": "glm-5.3"
+}

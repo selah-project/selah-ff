@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "e ⟨את⟩ goobel kala fii sifaa mun;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "goobel kala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "goobel"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "fii sifaa mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:09.790788558Z",
+  "model": "glm-5.3"
+}

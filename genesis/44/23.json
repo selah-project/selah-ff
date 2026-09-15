@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "A mbi'i e jeyaaɓe maa: si miɗo ⟨את⟩ on, miñi maa tokooso on jippataa, on ɓeydotaa yiyde yeeso am.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a mbi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɓe maa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "jippataa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miñi maa tokooso on"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tokooso on"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "on ɓeydotaa"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "on ɓeydotaa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:54.532336737Z",
+  "model": "glm-5.3"
+}

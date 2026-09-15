@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kono si a salii woppude ⟨את⟩ ƴiƴe am, ƴeewto mi arnirta aynaaɓe jannya nder keeri maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "a salii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "woppude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiƴe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ƴiƴe am"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeewto mi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "arnirta"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jannya"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "aynaaɓe"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "nder keeri maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:20.799757866Z",
+  "model": "glm-5.3"
+}

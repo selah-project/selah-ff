@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kadi ɗoo non, darorɗon, ƴeeton ⟨את⟩ ngol woni konngol mawngol ngol Yaawe waɗata yeeso gite mon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ɗoo non"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "darorɗon"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ƴeeton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol mawngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wađata"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "yeeso gite mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:45.535068320Z",
+  "model": "glm-5.3"
+}

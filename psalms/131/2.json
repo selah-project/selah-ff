@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 131,
+  "translation": "Koso wanaa — mi wonnii, mi deynii muusɗam, hono suka woppaaɗo e yumma mun; hono suka woppaaɗo nii woni muusɗam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "koso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mi wonnii"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "mi deynii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "muusɗam"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "hono suka woppaaɗo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mun"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "hono suka woppaaɗo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nii woni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "muusɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:52.268686741Z",
+  "model": "glm-5.3"
+}

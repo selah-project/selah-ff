@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ndenton on ndaarii ⟨את⟩ no min ⟨את⟩ nguurortonoo e leydi Misrayim, e no min dirtorii hakkunde leyɗe ɗe oɗɗittonon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ndenton"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ndaarii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "no min nguurortonoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "min nguurortonoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "no min dirtorii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "min dirtorii"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leyɗe ɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "oɗɗittonon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:56.461800509Z",
+  "model": "glm-5.3"
+}

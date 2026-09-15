@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O ɓañii maayo ngoo, o ɗonngini ɗum, o ɗonngini ɓulli ɗin fof; Bashan weli-haayri, e Karmel, e puccel Liban weli-haayri.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "O ɓañii"
+    },
+    {
+      "surface": "בים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "o ɗonngini ɗum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ɗi fof"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ɓulli ɗin"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "o ɗonngini"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "weli-haayri"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "e Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "e puccel"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Liban"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "weli-haayri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:44.865487395Z",
+  "model": "glm-5.3"
+}

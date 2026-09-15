@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Daande Yaawe nden ko semmbe; daande Yaawe nden ko ɓural.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ko semmbe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ko ɓural"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:14.981670648Z",
+  "model": "glm-5.3"
+}

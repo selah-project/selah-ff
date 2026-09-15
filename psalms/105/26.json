@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O neldi Muusaa jeyaaɗo makko on, e Haruun mo o suɓii.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jeyaaɗo makko on"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haruun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o suɓii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.937397488Z",
+  "model": "glm-5.3"
+}

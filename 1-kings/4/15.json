@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ajiimaats to Nafatali; kanko non o ƴetti ⟨את⟩ Basmat ɓiɗɗo Selomo ngam debbo.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ajiimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "to Nafatali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanko non"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngam debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:36.314447662Z",
+  "model": "glm-5.3"
+}

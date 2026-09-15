@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "E ɓooyi, ƴeew, mi addii ⟨את⟩ arande lluɓe leydi ndin, ɗe Yaawe rokku-mi; a destini ɗum yeeso Yaawe Eloohim maa, a sujju yeeso Yaawe Eloohim maa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e ɓooyi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "mi addii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arande lluɓe leydi ndin"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "arande"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "lluɓe"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "rokku-ɗaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "a destini ɗum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "a sujju"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:20.443097457Z",
+  "model": "glm-5.3"
+}

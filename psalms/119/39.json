@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Haajtu yeru am ngun ɗum mi kulata; sabu ñaawoore Maa ɗen moƴƴi.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "haajtu (wartu woɗde)"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "yeru am ngun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum (relativizer)"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "mi kulata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawoore Maa ɗen"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "moƴƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:35.253561482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kadi ɗum ko rujjo bonngal muñɓel: e kala anno o ari, nanno o yaha; ko nafata mo ɗum, fii ligge makko nde o liggorta fii henndu?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rujjo bon"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "muñɓel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "anno"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nanno...nii"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o yaha"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ko nafata"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "nafa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "nde o liggorta"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "fii henndu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:00.868999820Z",
+  "model": "glm-5.3"
+}

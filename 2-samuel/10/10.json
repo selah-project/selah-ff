@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ko heddii e yimɓe ɓen, o hokki ⟨את⟩ e junngo Abiisay miñaanke mun; o lanndi ɓe fii muñaade ɓiɓɓe Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko heddii e yimɓe ɓen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o hokki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abiisay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñaanke mun"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "o lanndi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "fii muñaade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:50.371281118Z",
+  "model": "glm-5.3"
+}

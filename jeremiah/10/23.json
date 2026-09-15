@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi anndi, Yaawe, wonde laawol neɗɗo wonaani korso mun; wonaani kadi e neɗɗo njahɗo ñaamoorde ⟨את⟩ ñaamu mun.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaani"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaani"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "njahɗo"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "ñaamoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaamu mun"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ñaamu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:17:40.886035514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɓe yaajtinii munde maɓɓe dow am, ɓe wi'i: “Heeja, heeja, gite amen njiyii ɗum.”",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "ɓe yaajtinii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "munde maɓɓe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heeja"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heeja"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "njiyii"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "gite amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:42.355249545Z",
+  "model": "glm-5.3"
+}

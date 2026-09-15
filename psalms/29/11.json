@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Yaawe hokkata doole leñol makko; Yaawe barkata ⟨את⟩ leñol makko e deeƴere.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "leñol makko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hokkata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barkata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol makko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "leñol makko"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "e deeƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:19.588772848Z",
+  "model": "glm-5.3"
+}

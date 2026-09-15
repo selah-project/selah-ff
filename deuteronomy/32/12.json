@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaawe tan ko kanko ardori mo, alaa dewre ajaaɓru wondi e makko.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "tan ko kanko"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ardori mo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wondi e makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dewre"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ajaaɓru"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:25.752584057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Miijanii-min, Eloohim, hesed maa, ha nder suudu maa.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "miijanii-min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ha nder"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "suudu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:03.697448867Z",
+  "model": "glm-5.3"
+}

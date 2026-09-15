@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Dobo-dobaa ⟨את⟩ hoɗɓe wuro ngo e muntere gendu; harammina ⟨את⟩ ɗum e ⟨את⟩ fuu ko woni e mayre e ⟨את⟩ na'i mum, e muntere gendu",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Dobo-dobaa"
+    },
+    {
+      "surface": "תכה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗɓe wuro ngo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "e muntere"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gendu"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "harammina ɗum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (wuro ngo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu ko woni e mayre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "woni e mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "na'i mum"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "na'i mum"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "e muntere"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gendu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:50.884554346Z",
+  "model": "glm-5.3"
+}

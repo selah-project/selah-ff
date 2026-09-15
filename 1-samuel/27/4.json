@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Haabri to Sha'uul wanno Dawuud dogi to Gat; ɓeydaali ɓaawo ɗum faaka yiyde mo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "haabri"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "to Sha'uul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanno"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "גת",
+      "gloss": "to Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa ɓeydi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ɓeydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓaawo ɗum"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "faaka yiyde mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:40.616521785Z",
+  "model": "glm-5.3"
+}

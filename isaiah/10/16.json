@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Sabu ɗum Adonaay, Yaawe Sabaoth, nelta e nder buddi maɓɓe ɗen ŋorel, e les daraja maɓɓe waɗata yipporgal, no yipporgal yiite nii.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗum"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nelta"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "e nder buddi maɓɓe ɗen"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ŋorel"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e les"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "daraja maɓɓe"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "yipporgal"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "no yipporgal"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite nii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:44.054636441Z",
+  "model": "glm-5.3"
+}

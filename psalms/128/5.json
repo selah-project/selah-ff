@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 128,
+  "translation": "Yo Yaawe mbaru-maa ɗum Tsiyon, ndaara moƴƴere Yerushalayim, balɗe nguuri-daa ɗen fuu.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "yo ... mbaru-maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ɗum Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ndaara"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nguuri-daa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:38.949379503Z",
+  "model": "glm-5.3"
+}

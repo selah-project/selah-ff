@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Yettu-ee Yaawe, noddu-ee e innde makko, hollit-ee e yimɓe ɗen golle makko mawɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "yettu-ee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "noddu-ee"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "e innde makko"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "hollit-ee"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "e yimɓe ɗen"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "golle makko mawɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:42.873401839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 51:31",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Doguɗo ina yahdi doguɗo, doguɗo dogata; jaɓɓotooɗo ina yahdi jaɓɓotooɗo, ngam humpitde laamɗo Babil wonde wuro mum nanngaama, fof e coggu.",
+  "tokens": [
+    {
+      "surface": "רץ",
+      "gloss": "doguɗo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ina yahdi"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "doguɗo"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "dogata"
+    },
+    {
+      "surface": "ומגיד",
+      "gloss": "e jaɓɓotooɗo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ina yahdi"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "jaɓɓotooɗo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ngam humpitde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nanngaama"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "wuro mum"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "fof e coggu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:08.742126038Z",
+  "model": "glm-5.3"
+}

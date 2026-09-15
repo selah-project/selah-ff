@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi ko giɗo am jogori, giɗo am kadi ko mi jogori, mo ñaamata e nder puɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ko giɗo am jogori"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "giɗo am kadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko mi jogori"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mo ñaamata"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "e nder puɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:10.315052903Z",
+  "model": "glm-5.3"
+}

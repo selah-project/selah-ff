@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Gila ñalnde nde mi yaltini ⟨את⟩ ɓiɓɓe am ⟨את⟩ Israa'iil e Misrayim, mi su'aayii wuro e nder leñol Israa'iil kala ngam mahde galle innde am wonirde ton; kono mi su'ii Daawud ngam wonde dow ɓiɓɓe am Israa'iil.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Gila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "mi yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ɓiɓɓe am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "mi su'aayii"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder kala"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngam mahde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "wonirde"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "mi su'ii"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Daawud"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wonde"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ɓiɓɓe am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:37.267339555Z",
+  "model": "glm-5.3"
+}

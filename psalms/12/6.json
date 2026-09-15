@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E wallafgol ñaañooɓe ɓen, e wullugol wujjaaɓe ɓen, non min darii — Yaawe wi'i — min teeltay mo nder kisal, on mo henñotoo mo.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "wallafgol"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ñaañooɓe ɓen"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "wullugol"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wujjaaɓe ɓen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "non"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "min darii"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "min teeltay"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "nder kisal"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "henñotoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:39.893189624Z",
+  "model": "glm-5.3"
+}

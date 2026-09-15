@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O jaabi, o wi'i: holaa ⟨את⟩ ɗo Yaawe waɗata e nder haala am, ɗum ⟨את⟩ mi rendata haalde?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "o jaabi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "holaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗo Yaawe wađata e nder haala am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e nder haala am"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mi rendata haalde"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "mi rendata"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:43:18.015619677Z",
+  "model": "glm-5.3"
+}

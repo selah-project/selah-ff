@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Si on wi'ii: Ko honno min ñaamorta e hitaawee jeeɗunde nden? Ndee, min duŋŋirtaa, min ñoggitaa ⟨את⟩ peñcu amen ngun.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "on wi'ii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ko honno"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "min ñaamorta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaawee"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "jeeɗunde nden"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "duŋŋirtaa"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "min ñoggitaa"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peñcu amen ngun"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "peñcu amen ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:21.060942294Z",
+  "model": "glm-5.3"
+}

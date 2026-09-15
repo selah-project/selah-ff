@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Laamɗo on ari, e Haman, ngam yarde e Ester laamɗo debbo on.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "e Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ngam yarde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "laamɗo debbo on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:42.273985533Z",
+  "model": "glm-5.3"
+}

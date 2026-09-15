@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O hettinirta ⟨את⟩ wirnirde senaande nden e ⟨את⟩ tenbal moo'ed ngal e ⟨את⟩ jaɓirde nden o hettinirta, e dow alimooɓe ɓen e dow yimɓe renndo ngam fuu o hettinirta.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "o hettinirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wirnirde senaande nden"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "wirnirde"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senaande nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tenbal moo'ed ngal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenbal"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moo'ed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jaɓirde nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaɓirde nden"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o hettinirta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "alimooɓe ɓen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "renndo ngam"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o hettinirta"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:14.072624100Z",
+  "model": "glm-5.3"
+}

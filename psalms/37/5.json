@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Wurtu laawol maa dow Yaawe, e husɗu e makko, kanko o waɗay ngol.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Wurtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "e husɗu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗay ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:22.367111689Z",
+  "model": "glm-5.3"
+}

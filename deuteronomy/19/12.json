@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ndeen mawɓe wuro makko nelda, ɓe ƴetta ⟨את⟩ mo ɗon, ɓe ndokka ⟨את⟩ mo juude ñaawoowo ƴiiƴam on, o maaya.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ɓe nelda"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "wuro makko"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ɓe ƴetta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo ɗon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe ndokka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo juude ñaawoowo ƴiiƴam on"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "juude"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam on"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:04.020158562Z",
+  "model": "glm-5.3"
+}

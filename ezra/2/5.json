@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Araj, teemede jeeɗiɗi e jeeɗiɗo e capanɗe jeeɗiɗi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Araj"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemede"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "jeeɗiɗo"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e capanɗe jeeɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:52.593518910Z",
+  "model": "glm-5.3"
+}

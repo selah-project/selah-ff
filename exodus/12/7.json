@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓe ƴettu ɗum e ƴiiƴam ngam, ɓe waddu ɗum dow ceŋe ɗee ɗiɗi e dow palooral ngal, dow cuuɗri ɗen ɗo ɓe ñaamata ⟨את⟩ mum ɗoon.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ɓe ƴettu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e (kala fuu)"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam ngam"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe waddu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ceŋe ɗee"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "palooral ngal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "cuuɗri ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñaamata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mum (ƴiiƴam\/baɗeteeɗo on, e nder cuuɗri ɗen)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-15T07:03:51.210419053Z",
+  "model": "glm-5.3"
+}

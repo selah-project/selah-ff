@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Zebul, gardiiɗo saare ndee, nanii ⟨את⟩ konngi Gaal ɓiy Ebed, o faamnitaaḏ — tikkere mun lewɗi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "gardiiɗo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "saare ndee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Gaal ɓiy Ebed"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lewɗi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tikkere mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:35.995951047Z",
+  "model": "glm-5.3"
+}

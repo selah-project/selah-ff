@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 75,
+  "translation": "Kono min, mi winndannda duumiaye, mi yimmo Yooggote Eloohim Yaakuuba.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mi winndannda"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "duumiaye"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi yimmo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Yooggote Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:29.726381615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O wi'i: «A waawaa yeedde ⟨את⟩ hoore-Am; fii aadan on waawaa yeedde Am, o wuurata.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "a waawaa"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "yeedde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore-Am"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hoore-Am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "yeedde Am"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadan on"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "o wuurata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:05.440197836Z",
+  "model": "glm-5.3"
+}

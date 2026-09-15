@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi yahay kadi e ɓadal, sabu peeje maa ɗen mi ɗaɓɓii.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "mi yahay kadi"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "e ɓadal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "peeje maa ɗen"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "mi ɗaɓɓii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:00.559049169Z",
+  "model": "glm-5.3"
+}

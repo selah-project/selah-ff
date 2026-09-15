@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Masaaja Babil, hono Yeshaya ɓiy Amos yi'unoo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masaaja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "yi'unoo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amos"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:06.651987361Z",
+  "model": "glm-5.3"
+}

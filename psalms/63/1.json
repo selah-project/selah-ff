@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Mizmor fii Daawuda, tuma o wonnoo e ladde Yahuuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuda"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "tuma o wonnoo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:38.546138115Z",
+  "model": "glm-5.3"
+}

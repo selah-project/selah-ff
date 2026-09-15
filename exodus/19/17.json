@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mosheh yaltini ⟨את⟩ ɓiɓɓe leydi ndin ngam hawrude e Eloohim, ummoraade e kaampaŋ ngam, ɓe darii e les tulde nden.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe leydi ndin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ndin"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ngam hawrude e"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade e"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampaŋ ngam"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "e les"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:12.881968227Z",
+  "model": "glm-5.3"
+}

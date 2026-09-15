@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Laamɗo debbo Saba'a nanii ⟨את⟩ wi'eteeɗum tabbitungum dow Shelomo fii innde Yaawe, o ari ngam jarriba mo e sirtaaji.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Laamɗo debbo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba'a"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wi'eteeɗum tabbitungum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wi'eteeɗum tabbitungum"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "fii innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "ngam jarriba mo"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "e sirtaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:08.428276017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo on jaabii, o wi'i: \"Ndeeɗɗo debbo, ndewnee mo ⟨את⟩ ɓiɗɗo nguuruɗo on, woto warte mo; kanko ko o yumma mun.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ndewnee"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo nguuruɗo on"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ɓiɗɗo on"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nguuruɗo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "woto warte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woto"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "warte mo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kanko ko o"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:06.758088Z",
+  "model": "glm-5.3"
+}

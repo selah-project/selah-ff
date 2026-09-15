@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Heber umminii ⟨את⟩ Yaflet e ⟨את⟩ Shomer e ⟨את⟩ Hotam e ⟨את⟩ Shuaa miñi debbo maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Heber kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "umminii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shuaa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shuaa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "miñi debbo maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:56:08.675537515Z",
+  "model": "glm-5.3"
+}

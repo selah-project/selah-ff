@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Mi anndi kala colli duume ɗin, e daabaaji ladde ɗin ina njeyaa e am.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mi anndi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duume ɗin"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "e daabaaji"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladde ɗin"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ina njeyaa e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:11.093135522Z",
+  "model": "glm-5.3"
+}

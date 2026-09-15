@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ kahummaji Yerushalayim ɗin taaraade ɗum, konu Kasdim ngol fof, ngol wonnoo e mbara on, ñiiwi ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "kahummaji Yerushalayim ɗin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "kahummaji"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taaraade"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ñiiwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngol fof"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol wonnoo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mbara"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:09.593530761Z",
+  "model": "glm-5.3"
+}

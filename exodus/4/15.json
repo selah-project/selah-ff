@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "A haalan mo, a waɗu ⟨את⟩ kelmeeli ɗen e nder daande makko; kadi min, mi wonay e daande maa e daande makko, mi tinndinay ⟨את⟩ on ⟨את⟩ ko golloton.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "a haalan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "a waɗu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelmeeli ɗen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kelmeeli ɗen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e nder daande makko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kadi min"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mi wonay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "mi tinndinay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on (Moosee e Haarun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko golloton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "golloton"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:30.631731749Z",
+  "model": "glm-5.3"
+}

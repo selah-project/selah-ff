@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɗee ko ɓiɓɓe Shem, e nguri e ɓesnguuji maɓɓe, e ɗemɗe maɓɓe, e leyɗe maɓɓe, e leƴƴi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e nguri e ɓesnguuji maɓɓe"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "e ɗemɗe maɓɓe"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "e leyɗe maɓɓe"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "e leƴƴi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:27.467823826Z",
+  "model": "glm-5.3"
+}

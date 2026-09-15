@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Fii kala yiɗde, sahaa woodi e ñaawoore; fii bonnde neɗɗo woodi, himmunde no feewi e makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗde"
+    },
+    {
+      "surface": "יש",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "himmunde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:03.939340914Z",
+  "model": "glm-5.3"
+}

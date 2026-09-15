@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Kono tan: annabijo on mo haarortoo haalde konngol e nder innde am — ⟨את⟩ ko mi waasaani e dow mun haalde — walla mo haalata e nder innde elohim goɗɗi, annabijo kaŋko on maayata.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono tan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabijo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "haarortoo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "e nder innde am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mi waasaani e dow mun haalde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waasaani"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "mi waasaani e dow mun"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "walla"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "haalata"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "maayata"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabijo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaŋko on"
+    }
+  ],
+  "timestamp": "2026-09-14T11:51:13.723791218Z",
+  "model": "glm-5.3"
+}

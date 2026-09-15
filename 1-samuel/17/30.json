@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O wartiima e makko, faade e goɗɗo, o wi'i konngol ngol nanndungol; yimɓe ɓee neldi mo jaabol, no konngol gadanol ngol wonnoo nii.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "o wartiima"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade"
+    },
+    {
+      "surface": "מול",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "konngol ngol nanndungol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "neldi mo jaabol"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jaabol"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "gadanol ngol wonnoo nii"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:21.212516439Z",
+  "model": "glm-5.3"
+}

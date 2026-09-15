@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Eshton dañi ⟨את⟩ Beet-Rafa, e ⟨את⟩ Pasea, e ⟨את⟩ Tekinna baaba Iir-Naaxas; ɓeeɗen ko yimɓe Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Pasea"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pasea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tekinna"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Iir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naaxas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɓeeɗen"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:36.961062967Z",
+  "model": "glm-5.3"
+}

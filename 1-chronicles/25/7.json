@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Limre maɓɓe, e miñiraaɓe maɓɓe jannginirɓe yimre fii Yaawe, fuu ɓe faamooɓe, wonii teemedere ɗiɗi, jeetati e jeetati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "Limre maɓɓe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "miñiraaɓe maɓɓe"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "jannginirɓe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ɓe faamooɓe"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "teemedere ɗiɗi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "e jeetati"
+    }
+  ],
+  "timestamp": "2026-09-14T11:03:40.010009707Z",
+  "model": "glm-5.3"
+}

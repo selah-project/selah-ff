@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe mbaɗi mbaydiiji kaŋe ɗiɗi e worɗe kaŋe ɗiɗi, ɓe ndonnii ⟨את⟩ worɗe ɗee ɗiɗi e daande ɗee ɗiɗi ivi ɓalagge ngennge.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "mbaydiiji"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "worɗe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndonnii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɗe ɗee ɗiɗi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "worɗe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "daande ivi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ɓalagge ngennge"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:34.528505855Z",
+  "model": "glm-5.3"
+}

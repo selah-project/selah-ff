@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Shaa'ul daani ⟨את⟩ yimɓe ɓen fuu fii hare, ngam yahde Ke'iila, ngam naamnaade Daawuuda e yimɓe mun ɓen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "daani"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fii hare"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'iila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ngam naamnaade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "yimɓe mun ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:34.738655775Z",
+  "model": "glm-5.3"
+}

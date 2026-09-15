@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Hisnu neefam e bouy ɗim; giɗo am gootel e juunde keeru.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Hisnu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "e bouy ɗim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefam"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juunde"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "keeru"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "giɗo am gootel"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:18.917322068Z",
+  "model": "glm-5.3"
+}

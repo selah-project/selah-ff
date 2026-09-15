@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nano, ɓiy am, jaɓ konngi am; duuɓi nguurndam ɓeydoto maa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiy am"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "jaɓ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konngi am"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ɓeydoto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurndam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:52.152354236Z",
+  "model": "glm-5.3"
+}

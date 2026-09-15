@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaakuuba yahi laawol mun; nulaaɓe Eloohim kawri e makko.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "laawol mun"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "nulaaɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:05.090494858Z",
+  "model": "glm-5.3"
+}

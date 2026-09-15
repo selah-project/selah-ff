@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 20:41",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Suka on ari, Dawida ummii e sara birliri on, o yani e yeeso mun ka leydi, o suɓɓii jeggo laabi, ɓe ndonkii gooto ⟨את⟩ sehil mun, ɓe bi'i gooto ⟨את⟩ sehil mun, haa Dawida ɓuri.",
+  "tokens": [
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "e sara"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "birliri on"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "e yeeso mun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka leydi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "o suɓɓii"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "jeggo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laabi"
+    },
+    {
+      "surface": "וישקו",
+      "gloss": "ɓe ndonkii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehil mun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mun"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ɓe bi'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehil mun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ɓuri"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:22.997799001Z",
+  "model": "glm-5.3"
+}

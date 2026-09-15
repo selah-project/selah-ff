@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Aminadab danyi ⟨את⟩ Nakshon, Nakshon danyi ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "Nakshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:58.784737585Z",
+  "model": "glm-5.3"
+}

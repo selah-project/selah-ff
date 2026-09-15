@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "E maaɗa men hirnina ɗaɓɓitorɗe amen ɗen; e innde maaɗa men ƴoƴɓina ɓe ɗaanuɓe e amen.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ɗaɓɓitorɗe amen ɗen"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "men hirnina"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "e innde maaɗa"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "men ƴoƴɓina"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ɓe ɗaanuɓe e men"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:20.563191655Z",
+  "model": "glm-5.3"
+}

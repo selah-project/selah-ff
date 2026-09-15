@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "si mi danaynii ɗaanaare gite am, memdondirka to gite-jiiji am —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi danaynii"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ɗaanaare"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "gite-jiiji am"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "memdondirka"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:31.434690345Z",
+  "model": "glm-5.3"
+}

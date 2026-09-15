@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kono e yuanndude ⟨את⟩ mooɓondiral ngal, a ɗooɗoo, kono a ɓuraa fiyde taggol.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "e yuanndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mooɓondiral ngal"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "mooɓondiral ngal"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "a ɗooɗoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono a ɓuraa"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "fiyde taggol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:44.894356819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko fii ko wonaa mi maayi e nder reedu? Mi yalti e reedu, nden mi gasa:",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ko fii ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mi maayi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "e reedu"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "Mi yalti"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "nden mi gasa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:05:39.412438545Z",
+  "model": "glm-5.3"
+}

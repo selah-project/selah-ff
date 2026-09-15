@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yehoshua noon amari ⟨את⟩ sarwaaɓe ɓen, mbi'o: ƴummee ummito Yarden ɗin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "amari"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mbi'o"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ƴummee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:14.350946512Z",
+  "model": "glm-5.3"
+}

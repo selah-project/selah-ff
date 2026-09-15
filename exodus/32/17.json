@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yahuwaa nani ⟨את⟩ daande ɓee ɓe ƴoƴtoo, o wi'i Musaa: daande konu ⟨woni⟩ e kaampaaŋ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ɓe ƴoƴtoo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "e kaampaaŋ"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:49.136129348Z",
+  "model": "glm-5.3"
+}

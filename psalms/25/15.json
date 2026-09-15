@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Gite am ɗen no ngondi ɗaftiire Yaawe no waddi, sabu ko kanko yaltinay junngooji am ɗin e nder maggal-resem.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gite am ɗen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "no ngondi ɗaftiire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e Yaawe no waddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "yaltinay"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "e nder maggal-resem"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "junngooji am ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:38.158543833Z",
+  "model": "glm-5.3"
+}

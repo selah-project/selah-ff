@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "a yiyata e nanngaaɓe ɓen debbo mari mbaadi wooɗɗo, a yiɗata mo, a joginta mo debbo maa.",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "a yiyata"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "e nanngaaɓe ɓen"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "mari mbaadi wooɗɗo"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mbaadi"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "a yiɗata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a joginta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:23.924996588Z",
+  "model": "glm-5.3"
+}

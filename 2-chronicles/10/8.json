@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kono o acci ⟨את⟩ wasiyaaji mawɓe ɓen ɓe wasiyiri mo, o yeewtidii e ⟨את⟩ sukaaɓe ɓen ɓe mawni e ⟨את⟩ makko, ɓe dariiɓe yeeso makko.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "kono o acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasiyaaji mawɓe ɓen"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "wasiyaaji"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mawɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "wasiyiri mo"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "o yeewtidii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukaaɓe ɓen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sukaaɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e ⟨את⟩ makko"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ɓe dariiɓe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:14:07.348141724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "E aaday ⟨את⟩ jaalta kaŋe ngam ñeeñu, to yeeso saaku seedaabe on; aaday ⟨את⟩ pallal dammagal Layngu nguu.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "aaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaalta kaŋe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jaalta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ngam ñeeñu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "saaku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seedaabe on"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "aaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pallal dammagal"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pallal"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dammagal"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Layngu nguu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:21.741696978Z",
+  "model": "glm-5.3"
+}

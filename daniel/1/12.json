@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Jarriba tawo ⟨את⟩ jeyaaɓe maa balɗe sappo; ɓe ndokku min wondude e chiri, min ñaame, e ndiyam min ngorne.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "jarriba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe maa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɓe maa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wondude e"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "min ñaame"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "min ngorne"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:38.730432635Z",
+  "model": "glm-5.3"
+}

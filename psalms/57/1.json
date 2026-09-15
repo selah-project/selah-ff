@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Fii yoowo on, “Wata halkaa” — fii Dawuud, michtam, e doggugol mun e yeeso Shauul, e nder calal.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "halkaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "e doggugol mun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "e nder calal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:37.310872639Z",
+  "model": "glm-5.3"
+}

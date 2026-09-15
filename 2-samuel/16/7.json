@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ko nonen Shim'i wi'i e nder malagol makko ngol: “Yaltu, yaltu, a neɗɗo yawɗe, a neɗɗo Beliyaal!”",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "ko nonen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "e nder malagol makko ngol"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Yaltu"
+    },
+    {
+      "surface": "צא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "yawɗe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a neɗɗo"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "Beliyaal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:00.512959649Z",
+  "model": "glm-5.3"
+}

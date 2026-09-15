@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Sabu Yaah labanii Yaakob mo, Israayiil woni jawdi suɓaande makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "labanii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "jimdi suɓaande makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:40.814013301Z",
+  "model": "glm-5.3"
+}

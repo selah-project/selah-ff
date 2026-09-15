@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Laaɓtin-ɗaa ⟨את⟩ ɗum, ɗum laatota laaɓal laaɓal; kala toccoɗo ɗum laatota laaɓal.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "laaɓtin-ɗaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɗum laatota"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "toccoɗo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "laatota laaɓal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:13.248252939Z",
+  "model": "glm-5.3"
+}

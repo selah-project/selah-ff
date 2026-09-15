@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓiɓɓe Israa'iil ɓe nenni faade e Yaawe ɓe mbi'i: Min mbatti, tawa min ndogi ⟨את⟩ Eloohim amen, min gollinta ⟨את⟩ Baaluuji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ɓe nenni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe mbi'i"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "min mbatti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "min ndogi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim amen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "min gollinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baaluuji ɗin"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baaluuji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:26:53.439673937Z",
+  "model": "glm-5.3"
+}

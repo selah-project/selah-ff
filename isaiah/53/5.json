@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Kono o pecciraama sabu goopi amen, o fooñaama sabu bonannde amen; jeyngol jam amen wonnoo e makko, e muusere mun men cellii.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "kono o"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "pecciraama"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "sabu goopi amen"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "fooñaama"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "sabu bonannde amen"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "jeyngol"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "jam amen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "e muusere mun"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "men cellii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fii amen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:23.565683354Z",
+  "model": "glm-5.3"
+}

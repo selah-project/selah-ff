@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Reen min hono timtimere ɓiɗɗo gite; e ɗoolgol kanne maa suuɗ min.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "reen min"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "hono timtimere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e ɗoolgol"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kanne maa"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "suuɗ min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:48.878889957Z",
+  "model": "glm-5.3"
+}

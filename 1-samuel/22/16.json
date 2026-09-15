@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Laamɗo on wi'i: «Achiimelek, maa a maaye — a e galle baaba maa fuu.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maaye"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "maa a maaye"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achiimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:25.086551350Z",
+  "model": "glm-5.3"
+}

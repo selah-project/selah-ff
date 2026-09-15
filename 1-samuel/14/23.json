@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ndeen Yaawe hisni ⟨את⟩ Yisrael ñalnde nden; doggere ndee yawti haa saraaji ⟨את⟩ Bet-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "hisni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "doggere ndee"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yawti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:07.842498164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "On reenoo cuuɗri am ɗin ⟨את⟩ e ⟨את⟩ ñaawooje am ɗin, ɗi neɗɗo on waɗata ɗum ⟨את⟩ o wuurata e maɓɓe; mi ko mi Yaawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reenoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗri am ɗin"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "cuuɗri am ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawooje am ɗin"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawooje am ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "o wuurata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:14.909460192Z",
+  "model": "glm-5.3"
+}

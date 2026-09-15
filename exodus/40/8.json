@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "E teelnu ⟨את⟩ wuro kiiko ngoo saraaji mum, teelnu ⟨את⟩ pallal dammagal wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "teelnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro kiiko"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wuro kiiko"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saraaji mum"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "teelnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pallal dammagal"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "pallal"
+    },
+    {
+      "surface": "שער",
+      "gloss": "dammagal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wuro ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:21.742259431Z",
+  "model": "glm-5.3"
+}

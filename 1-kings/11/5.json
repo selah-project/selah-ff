@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Shelomoh yahi kadi caggal Ashtoret, ila debbo Saareebe Sidon, e caggal Milkoom, ko bonnunde ɓiɓɓe Ammon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ila"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Saareebe Sidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e caggal"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkoom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ko bonnunde"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "ɓiɓɓe Ammon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:31.177279476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ngoni ɗum dental ɓe ɗaɓɓuɓe mo, ɓe ɗaɓɓuɓe yeeso maa, Yaakuuba. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ngoni ɗum"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dental"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ɓe ɗaɓɓi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ɗaɓɓuɓe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:18.022421203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O waɗi ⟨את⟩ palal ɗatal ngal, ngam naatde nder piliri ɗin, diga walde haa walde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palal ɗatal ngal"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "palal ɗatal ngal"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ɗatal"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ngam naatde"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "piliri ɗin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "diga"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "walde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "walde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:00.333394646Z",
+  "model": "glm-5.3"
+}

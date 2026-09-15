@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Mo ardiniri yimɓe makko e ladde, fii duume fuu hesed Makko.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Mo ardiniri"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duume fuu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed Makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:32.944572359Z",
+  "model": "glm-5.3"
+}

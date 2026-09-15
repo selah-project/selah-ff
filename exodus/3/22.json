@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Debbo kala ñaagiiyo danndirɗo mun e hoɗɗo e suudu mun, kaɓirɗe kaalis e kaɓirɗe kaŋe e comci; on njoltinay ɗe e ɓiɓɓe mon worɓe e ɓiɓɓe mon rewɓe, on ñaawoy ⟨את⟩ Misrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "debbo kala ñaagiiyo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "danndirɗo mun"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "e hoɗɗo"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "e suudu mun"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "e kaɓirɗe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "e comci"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "on njoltinay"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ɓiɓɓe mon worɓe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ɓiɓɓe mon rewɓe"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "on ñaawoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:49.616430602Z",
+  "model": "glm-5.3"
+}

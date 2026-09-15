@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe ɓuuɓni ⟨את⟩ paake kaŋe ɗen, ɓe taƴi piindi fii waɗde ɗum hakkunde ɓaleejo on, e hakkunde purpur on, e hakkunde tolluɗo-boɗeejo on, e hakkunde lin on — golle gannaako.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "ɓe ɓuuɓni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paake kaŋe ɗen"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "paake"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe ɗen"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ɓe taƴi"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "piindi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fii waɗde"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ɓaleejo on"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpur on"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolluɗo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "boɗeejo on"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lin on"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "gannaako"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:00.777949358Z",
+  "model": "glm-5.3"
+}

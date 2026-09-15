@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Wata ñaamu ɗum e nde wa'aaka e boɗe, wanaa ɓuuɓniraaka e ndiyam, kono kirngol e yiite tan — hoore mun e koyɗe mun e nder leydi mun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נא",
+      "gloss": "e nde wa'aaka e boɗe"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "wanaa ɓuuɓniraaka"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "ɓuuɓniraaka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono… tan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tan"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "kirngol"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "koyɗe mun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nder leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-15T09:11:14.182792905Z",
+  "model": "glm-5.3"
+}

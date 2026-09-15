@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 18:31",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ñaamon ⟨את⟩ mayre e nokku kala, on e ɓesnguuji mon; ko njoɓdi ndin woni fii mon, mbaylaa golle mon ɗen nder teentil kawral ngal.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ñaamon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mayre"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nokku kala"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "וביתכם",
+      "gloss": "e ɓesnguuji mon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "njoɓdi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ndin woni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "mbaylaa"
+    },
+    {
+      "surface": "עבדתכם",
+      "gloss": "golle mon ɗen"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "nder teentil"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    }
+  ],
+  "timestamp": "2026-09-14T05:43:02.382100534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ñaawoowo on wi'i: 'Mi duɗoto, mi heɓoy ɓe, mi peccoy njeenaari ndin; noopru am hebboto heen ɓe; mi yaltinay liɗɗe am; junngo am momtoy ɓe.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Ñaawoowo on"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "mi duɗoto"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "mi heɓoy ɓe"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "mi peccoy"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "njeenaari ndin"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "hebboto heen ɓe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "noopru am"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "mi yaltinay"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "liɗɗe am"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "momtoy ɓe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:33.012288259Z",
+  "model": "glm-5.3"
+}

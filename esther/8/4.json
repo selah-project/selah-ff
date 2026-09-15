@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Laamɗo on juutinini Ester ⟨את⟩ juɓɓel laamu kaŋe nden; Ester ummii, o darii yeeso laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "juutinini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "to Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juɓɓel laamu kaŋe nden"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "juɓɓel laamu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe nden"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:39.186030288Z",
+  "model": "glm-5.3"
+}

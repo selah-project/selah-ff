@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "E miskineejo wata a teddinire e ñaawoore makko.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "e miskineejo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "a teddinire"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "e ñaawoore makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:32.096505304Z",
+  "model": "glm-5.3"
+}

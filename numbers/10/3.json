@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe ɓooyata e majje, renndo ngoo fuu nduuɗotoo to maa, to damal teentu Ol-Mo'ed.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Ɓe ɓooyata"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "e majje"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "nduuɗotoo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "renndo ngoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ol-Mo'ed"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:46.493542211Z",
+  "model": "glm-5.3"
+}

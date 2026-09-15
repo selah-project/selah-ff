@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Sabu e nokku ɓe mugni ⟨את⟩ mo, ɗoon o maayata; ⟨את⟩ leydi ndi o yi'ataa ɗum kadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ɓe mugni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Shallum)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi ndi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi'ataa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɗum kadi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:27.366886868Z",
+  "model": "glm-5.3"
+}

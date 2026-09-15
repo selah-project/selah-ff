@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Min mudan-ɗaa ⟨את⟩ on ɗoo, sabu heddii ko duuɓi njoyo heba; fii wataa a e suudu maa e fuu ko woodani maa njonra.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "Min mudan-ɗaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "heddii"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "njoyo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "heba"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fii wataa"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "njonra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "e suudu maa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "woodani maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:43.233605329Z",
+  "model": "glm-5.3"
+}

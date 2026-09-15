@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Peleshtiyankooɓe mooɓtinii, ɓe ngarii, ɓe njooɗii e Shuunem; Sawul mooɓti ⟨את⟩ Yisraayel fuu, ɓe njooɗii Gilbo'a.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "mooɓtinii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtiyankooɓe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ngarii"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe njooɗii"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "e Shuunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mooɓti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraayel fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe njooɗii"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilbo'a"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:48.581290081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe jaabii Yahuushuaa ⟨את⟩, ɓe wi'i: “Ko fuu fii hombo nyami min, min mbaɗay; e to fuu neldu-ɗaa min, min yahay.”",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ɓe jaabii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuushuaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuushuaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fii hombo"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "nyami min"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "min mbaɗay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "to fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "neldu-ɗaa min"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "min yahay"
+    }
+  ],
+  "timestamp": "2026-09-14T11:51:17.771906712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi mi nanoii ⟨את⟩ ƴattoore ɓiɓɓe Israa'iil ɗi Misrayim ñaamorta ko ⟨את⟩ ɓe maccuɓe, mi siiftorii ⟨את⟩ jaaɓde am.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nanoii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴattoore ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ƴattoore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ñaamorta ko ɓe maccuɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "mi siiftorii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaaɓde am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jaaɓde am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:11.774449145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ ɓiɗɗo debbo Ya'ana on, e ⟨את⟩ Tahmas on, e ⟨את⟩ Shahaf on, e ⟨את⟩ Nets on, e nguruudu mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɗo debbo Ya'ana on"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "Ya'ana on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tahmas on"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahmas on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shahaf on"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shahaf on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Nets on"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Nets on"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "e nguruudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:55.170949343Z",
+  "model": "glm-5.3"
+}

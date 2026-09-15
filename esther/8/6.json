@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndaru no mi baawirta muñde ɗum, e nde mi yiyata e bone nguuru heɓata ⟨את⟩ yimɓe am? e no mi baawirta muñde ɗum, e nde mi yiyata e halkere leñol am jibinannde?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ndaru"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi baawirta muñde"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "e nde mi yiyata"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nguuru"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "heɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "e no"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi baawirta muñde"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "e nde mi yiyata"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "e halkere"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "leñol am jibinannde"
+    }
+  ],
+  "timestamp": "2026-09-14T13:00:36.609427362Z",
+  "model": "glm-5.3"
+}

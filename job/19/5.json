@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 19:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Si tawde goongii min mawninton hoore mon dow am, e feeñnitoton dow am gaañannde am,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "goongii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "תגדילו",
+      "gloss": "mawninton hoore mon"
+    },
+    {
+      "surface": "ותוכיחו",
+      "gloss": "e feeñnitoton"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "gaañannde am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:11:59.085384116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E jooni, baaba am waɗani mon kaasor tedduɗo, kanko min mi ɓeydata e kaasor mon; baaba am finnii ⟨את⟩ mon e rawoy ɗii, kanko min mi finnina ⟨את⟩ mon e kankanaaji.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E jooni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "waɗani"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "mon"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaasor"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tedduɗo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko min"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "mi ɓeydata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kaasor mon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "finnii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "rawoy ɗii"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "e rawoy"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko min"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "mi finnina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "kankanaaji"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "e kankanaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:43.308120336Z",
+  "model": "glm-5.3"
+}

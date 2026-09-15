@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E ⟨את⟩ lewru ɗiɗaɓuru, ñande sappo e nayi, hakkunde jamma-e-naange ɓe ndeŋcina ɗum; e mbuuyi alaa-asdi e leɗɗe cooɗɗuɗe ɓe ñaama ɗum.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓuru"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "e nayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñande"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jamma-e-naange"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ɓe ndeŋcina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (Peesa' ngal)"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mbuuyi alaa-asdi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "e leɗɗe cooɗɗuɗe"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ɓe ñaama ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:38:09.724929760Z",
+  "model": "glm-5.3"
+}

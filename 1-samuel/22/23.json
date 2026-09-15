@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Jooɗo ⟨את⟩ e am, wata a ragyo; wonde mo yanay ⟨את⟩ nguurndam am yanay kadi ⟨את⟩ nguurndam maa; wondude a reenaaɗo e am.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a ragyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "yanay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "yanay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam maa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguurndam maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reenaaɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:05.188684129Z",
+  "model": "glm-5.3"
+}

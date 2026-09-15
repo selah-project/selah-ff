@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Nanngirɗe ɓe njogii, kono ɓe nanaani; ƴi'e ɓe njogii, kono ɓe fewaani.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "nanngirɗe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nanaani"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "fewaani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:42.993867402Z",
+  "model": "glm-5.3"
+}

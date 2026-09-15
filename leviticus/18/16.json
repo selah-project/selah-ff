@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Munndu debbo miñi maa wata a feñnina; munndu miñi maa ko ngol wonii.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "munndu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a feñnina"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "munndu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ngol wonii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:34.715132885Z",
+  "model": "glm-5.3"
+}

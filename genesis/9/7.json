@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Onon kala: ɓeydu ɓiɓɓe, mawninee, ɗuuɗu e leydi ndin, mawninee e mayre.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "onon kala"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ɓeydu ɓiɓɓe"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mawninee"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ɗuuɗu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mawninee"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:55.787751349Z",
+  "model": "glm-5.3"
+}

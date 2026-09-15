@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Alaa cellal e nder ƴi'e am sabu tikkere maa ⟨nden⟩; alaa jam e nder ƴi'e am sabu bakkaat am.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "cellal"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "e nder ƴi'e am"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "tikkere maa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "e nder ƴi'e am"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bakkaat am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.029338678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɓe mbi'ay: 'Sabu ɓe acci ⟨את⟩ jaaɓɗiral Yaawe Eloohim baabiraaɓe maɓɓe, ngal o taayi e maɓɓe tuma o yaltinirta ⟨את⟩ ɓe e leydi Misrayim.'",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ɓe mbi'ay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaaɓɗiral Yaawe Eloohim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "jaaɓɗiral"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "taayi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "tuma o yaltinirta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:51.803893995Z",
+  "model": "glm-5.3"
+}

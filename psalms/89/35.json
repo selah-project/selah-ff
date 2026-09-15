@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Wanaa mi bonnita dassiral am, ko yaltuɗo e lewlewndu am kadi mi waylorta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "mi bonnita"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "dassiral am"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ko yaltuɗo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lewlewndu am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "mi waylorta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:00.679417905Z",
+  "model": "glm-5.3"
+}

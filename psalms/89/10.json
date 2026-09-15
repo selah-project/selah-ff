@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Ko a laamortoo mawnge maayo ngoo; e ƴellitgol ddaaji mum, a wanngirta ɗi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ko a"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "laamortoo"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "mawnge"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "e ƴellitgol"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ddaaji mum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "wanngirta ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T18:57:58.433293272Z",
+  "model": "glm-5.3"
+}

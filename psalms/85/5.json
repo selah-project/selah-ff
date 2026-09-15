@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Artu min, Eloohim hisre amen, u haayru keloore maa ⟨e⟩ min.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Artu min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "hisre amen"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "u haayru"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "keloore maa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:33.383793929Z",
+  "model": "glm-5.3"
+}

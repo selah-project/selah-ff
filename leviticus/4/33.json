@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O ɗaɓɓata ⟨את⟩ junngo mun dow hoore sadak bonannde ngol, o warata ⟨את⟩ ɗum ngam sadak bonannde, e nokku ɗo ⟨o⟩ warata ⟨את⟩ sadak buuroowo ngol.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "o ɗaɓɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo mun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sadak bonannde ngol"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "o warata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (sadak bonannde ngol)"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ngam sadak bonannde"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "warata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadak buuroowo ngol"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadak buuroowo ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:31.543363604Z",
+  "model": "glm-5.3"
+}

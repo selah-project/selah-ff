@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 133,
+  "translation": "Yimre ƴellitte, fii Dawuud. Ɗoo nji'i, no mbeldi woodi, no welli kadi — miñiraaɓe hoɗde hay wondude nayi!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴellitte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuud"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo nji'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbeldi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "no kadi"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "welli"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "hoɗde"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "miñiraaɓe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wondude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:38.980260884Z",
+  "model": "glm-5.3"
+}

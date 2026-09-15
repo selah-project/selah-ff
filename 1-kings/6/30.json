@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ pallal suudu ndun o feewni lame, nder e yaasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pallal suudu ndun"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "pallal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "feewni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lame"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "nder"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "e yaasi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:57.293731558Z",
+  "model": "glm-5.3"
+}

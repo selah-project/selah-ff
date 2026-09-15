@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi darnay ⟨את⟩ junngo am, mi fi'yay ⟨את⟩ Misrayim e kala cemtinirɗe am ɗe mi waɗay nder majju mum; ɓaawo ɗuum o accay ⟨את⟩ on.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mi darnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mi fi'yay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "cemtinirɗe am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗay"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nder majju mum"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o accay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:07.373597158Z",
+  "model": "glm-5.3"
+}

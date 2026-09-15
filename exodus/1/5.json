@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Woni kala wuurdu yaltuunde e kelte Yaaqob ko cappoɗe wuurɗe; Yosef non wonnoo ko e Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Woni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wuurdu"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "yaltuunde"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kelte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "cappoɗe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wuurɗe"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yosef non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo ko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:23.961160856Z",
+  "model": "glm-5.3"
+}

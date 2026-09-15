@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ɓe wi'ii maa, a nanii, a ɗaɓɓitii no feewi, e tawde ko goonga, haala on laaɓi, bunndu nduu waɗama e nder Israai'il.",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "ɓe wi'ii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "a nanii"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "a ɗaɓɓitii"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e tawde"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "laaɓi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haala on"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "waɗama"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "bunndu nduu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nduu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e nder Israai'il"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:34.298287542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ƴettu ⟨את⟩ Aron Yaawe, saabu ⟨את⟩ ɗum e dow gari ndin, ⟨את⟩ kaɓirɗi kaŋe ɗi ngartuɗon mo asham — ɗum waɗee e nder sanduku to bannge mun — neldu ⟨את⟩ ɗum, o yaho.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "ƴettu-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "saabu-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "gari ndin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gari ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "ngartuɗon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "waɗee-on"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "e nder sanduku"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "to bannge mun"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "neldu-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "o (Aron on)"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "o yaho"
+    }
+  ],
+  "timestamp": "2026-09-15T09:11:37.979568720Z",
+  "model": "glm-5.3"
+}

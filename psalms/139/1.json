@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "To gardotooɗo, to Dawuuda, mizmoor. Yaawe, a ƴami-mi, a anndi ⟨mi⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "to gardotooɗo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to Dawuuda"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "a ƴami-mi"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "a anndi ⟨mi⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:19.849668528Z",
+  "model": "glm-5.3"
+}

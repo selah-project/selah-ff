@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E naneede guure ɓe nanetoyam; ɓiɓɓe cemmbinɓe kadi fenana am.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "e naneede"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "guure"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ɓe naneto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cemmbinɓe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ɓe fenana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:21.485992547Z",
+  "model": "glm-5.3"
+}

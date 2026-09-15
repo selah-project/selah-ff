@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kono miin mi nanii, mi faamaani; mi wi'i: Adonaay am, ko woni battital ɗee ɗoo?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono miin"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "faamaani"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "mi faamaani"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "battital"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:41:12.044223916Z",
+  "model": "glm-5.3"
+}

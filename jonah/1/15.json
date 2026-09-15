@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe ƴetti ⟨את⟩ Yoonaa, ɓe mbuubi mo ka maayo, maayo ngoo dartinii e moyyingol maggo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Ɓe ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoonaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yoonaa"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ɓe mbuubi mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dartinii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "e moyyingol maggo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:32.612786328Z",
+  "model": "glm-5.3"
+}

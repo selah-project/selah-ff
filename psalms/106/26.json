@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O umminii junngo mun fii yawtude ɓe werlaade ɓe ⟨את⟩ nder ladde nden.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "O umminii"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fii yawtude ɓe"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "werlaade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder ladde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:00.196432299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono min mi mawnintinay ⟨את⟩ ɓernde Fir'awn, mi ɓeyday ⟨את⟩ maandeeji am e ⟨את⟩ ceniiɗe am e nder leydi Misra.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "mi mawnintinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde Fir'awn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "mi ɓeyday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maandeeji am"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "maandeeji am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ceniiɗe am"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ceniiɗe am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:31.341255201Z",
+  "model": "glm-5.3"
+}

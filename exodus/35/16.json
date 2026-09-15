@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ sarde ɗaƴoore nden e ⟨את⟩ paltoor njamɗe njareendi ka o mari ⟨את⟩ pitte mun e ⟨את⟩ kaɓirɗe mun fuu ⟨את⟩ beenero ngal e ⟨את⟩ jooɗorde mum",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarde ɗaƴoore nden"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarde"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɗaƴoore nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paltoor njamɗe njareendi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "paltoor"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "njamɗe njareendi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o mari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitte mun"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "pitte mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kaɓirɗe mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaɓirɗe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beenero ngal"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beenero ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jooɗorde mum"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jooɗorde mum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:26.084488725Z",
+  "model": "glm-5.3"
+}

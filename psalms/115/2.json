@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Ko honru no ñawlaaji ɗin mbi'a: “Ko ɗoo woni Eloohim mun?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko honru"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ñawlaaji ɗin"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ko ɗoo woni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨toɗɗo⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:44.943741125Z",
+  "model": "glm-5.3"
+}

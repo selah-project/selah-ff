@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Mi aray e mbaawka Adonaay Yaawe; mi waɗata jantoore ñaawoore maa — maa tan ko woɗɓe woppu-mi.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "mi aray"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "e mbaawka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "mi waɗata jantoore"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "maa tan ko woɗɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:32.120115561Z",
+  "model": "glm-5.3"
+}

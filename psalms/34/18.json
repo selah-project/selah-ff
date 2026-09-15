@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɓe niiɓi, Yaawe nanii, o daɗnii ɓe e caɗe maɓɓe fuu.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "niiɓi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "caɗe maɓɓe"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "o daɗnii ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:37.625331533Z",
+  "model": "glm-5.3"
+}

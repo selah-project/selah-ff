@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Kono a, Yaawe, a ⟨en⟩ to Toowɗo duumiiɗo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Toowɗo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "duumiiɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:14.024369451Z",
+  "model": "glm-5.3"
+}

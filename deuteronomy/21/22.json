@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si e neɗɗo woni junnuɓe ñaawoore maayde, o waraa, a lunnda ⟨את⟩ mo e lekki.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "junnuɓe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "o waraa"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "a lunnda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:43.494983905Z",
+  "model": "glm-5.3"
+}

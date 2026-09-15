@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Iw wirnoraange maa e am, faammi mi moyla, hade mi yahde, e mi wonaano.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Iw wirnoraange maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "faammi mi moyla"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "hade"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahde"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "e mi wonaano"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:19.649496032Z",
+  "model": "glm-5.3"
+}

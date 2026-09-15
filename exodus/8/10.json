@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓe moofti ɗen ⟨את⟩-heapi, heapi heapi, leydi ndin bonni e mbatu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Ɓe moofti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heapi"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "heapi"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "heapi"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "bonni e mbatu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:55.415288697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Eloohim, wata a woɗɗu am; Eloohim am, a jaawnu fii ballal am.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "a woɗɗu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "fii ballal am"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "a jaawnu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:04.339595284Z",
+  "model": "glm-5.3"
+}

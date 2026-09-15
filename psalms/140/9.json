@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Wata Yaawe ndokku moisooje bonɗo on, peeje makko ɗen watta yaltu, ɗe warta toowɗe. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "moisooje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "peeje makko ɗen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ɗe toowɗa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:49.565948816Z",
+  "model": "glm-5.3"
+}

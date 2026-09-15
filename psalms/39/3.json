@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Mi muumii, mi udditii noddaango; mi suuɗii hay ko moƴƴa, e ñaawal am ngol ɓeydii heewde.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "mi muumii"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "mi udditii noddaango"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "mi suuɗii"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "hay ko moƴƴa"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "e ñaawal am ngol"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ɓeydii heewde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:01.774757342Z",
+  "model": "glm-5.3"
+}

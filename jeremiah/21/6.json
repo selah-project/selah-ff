@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Mi ɓooyay ⟨את⟩ hoɗɓe nder ngol wuro, e ⟨את⟩ neɗɗo on e ⟨את⟩ neemoraaɗe ɗen: ɓe maayay e ñawu mawngu.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "mi ɓooyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗɓe nder ngol wuro"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "neɗɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "neemoraaɗe ɗen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "neemoraaɗe ɗen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "e ñawu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ɓe maayay"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:03.698038545Z",
+  "model": "glm-5.3"
+}

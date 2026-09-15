@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 120,
+  "translation": "Ayya am, sabu mi hoɗii e Meshek, mi jooɗii e looduwooji Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Ayya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "mi hoɗii"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "mi jooɗii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "looduwooji"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:21.323200828Z",
+  "model": "glm-5.3"
+}

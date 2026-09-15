@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E ko fii wonde nde aggi-ɗon ⟨את⟩ kippu Yaawe nguu ngam ari e ngol leeso-ngoola, fii min e cooɗe amen min maɓɓata ɗoo?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "E ko fii wonde nde"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "aggi-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kippu Yaawe nguu"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kippu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngam ari e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "leeso-ngoola"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fii min maɓɓata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "e cooɗe amen"
+    }
+  ],
+  "timestamp": "2026-09-15T05:51:48.218987892Z",
+  "model": "glm-5.3"
+}

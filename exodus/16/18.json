@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 16:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓe ƴeewtindii ɗum e oomer; on mooftuɗo heewi o heɓaali ɓeydere, on mooftuɗo ustii o famminaali — kala neɗɗo moofti no ñaamata nii.",
+  "tokens": [
+    {
+      "surface": "וימדו",
+      "gloss": "ɓe ƴeewtindii"
+    },
+    {
+      "surface": "בעמר",
+      "gloss": "e oomer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o heɓaali"
+    },
+    {
+      "surface": "העדיף",
+      "gloss": "ɓeydere"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "on mooftuɗo heewi"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "on mooftuɗo ustii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o famminaali"
+    },
+    {
+      "surface": "החסיר",
+      "gloss": "o ŋakkiraali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "moofti"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:24.301483704Z",
+  "model": "glm-5.3"
+}

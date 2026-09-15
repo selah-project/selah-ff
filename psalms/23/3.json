@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Neves am o wartinta; o fewnay lam e laawle ñaawoore fii innde makko.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Neves am"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "o wartinta"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "o fewnay lam"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "e laawle"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.101655557Z",
+  "model": "glm-5.3"
+}

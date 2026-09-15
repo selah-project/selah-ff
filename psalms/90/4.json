@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Sabu ujunaaje duuɓi e gite maaɗa njaɓɓii no hanki ndi yaha nii, no waktuuji jemma nii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujunaaje"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e gite maaɗa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalawma"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "hanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yaha nii"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "no waktuuji"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jemma nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:08.825420082Z",
+  "model": "glm-5.3"
+}

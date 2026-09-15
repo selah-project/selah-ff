@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono a ⟨wonii⟩ tedduɗo, jooɗiiɗo e yettoode Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "tedduɗo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jooɗiiɗo"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "yettoode"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.311865812Z",
+  "model": "glm-5.3"
+}

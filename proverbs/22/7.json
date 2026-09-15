@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Alɗuɗo on ina laami e masiŋɓe ɓee; ñaamɗo ñamaande ko maccuɗo e gorɗo ñamaande on.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "alɗuɗo on"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "e masiŋɓe ɓee"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "ina laami"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "kadi maccuɗo"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ñaamɗo ñamaande"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "e gorɗo"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ñaamɗo ñamaande on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:00.078312368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Ko fawa nartirtaa junngo maa, ñaameere maa kadi, e nder ɓernde maa? Ƴaltin ɗe, hunnu ɓe.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko fawa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "nartirtaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ñaameere maa kadi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ɓernde maa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hunnu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.975215918Z",
+  "model": "glm-5.3"
+}

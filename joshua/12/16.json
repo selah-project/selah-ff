@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "laamiɗo Makkedah, gooto; laamiɗo Bet-El, gooto;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "laamiɗo"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkedah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamiɗo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:33.801462472Z",
+  "model": "glm-5.3"
+}

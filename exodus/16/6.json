@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Muusa e Aaruna wi'i ɓe cukalel Israa'iila fuu: 'Ñalnde kikiiɗe on janngay wonnde Yaawe ko kanko yaltini ⟨את⟩ on e leydi Misrayim.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aaruna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "cukalel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "on janngay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:29.738017581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Caaɗe ɓornaaɗe o taƴataa ɗum, e balbal timmbol balɗinaaɗe o mentataa ɗum; e goongɗiral o yaltina ñaawoore.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "caaɗe"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ɓornaaɗe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "o taƴa ɗum"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "e balbal timmbol"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "balɗinaaɗe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "o menta ɗum"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "e goongɗiral"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o yaltina"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:52.167569461Z",
+  "model": "glm-5.3"
+}

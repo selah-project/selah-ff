@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 21:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wiy Aharon, wu'a: kala neɗɗo ummoriiɗo e zurriyaaji maa, e jiibooji maɓɓe, mo muum woni e makko, wanaa o ɓadtu ngam ɓadtinde ñaamdu Eloohim makko.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Wiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wu'a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "מזרעך",
+      "gloss": "ummoriiɗo e zurriyaaji maa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "e jiibooji maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מום",
+      "gloss": "muum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "o ɓadtu"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "ngam ɓadtinde"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamdu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:32.151487153Z",
+  "model": "glm-5.3"
+}

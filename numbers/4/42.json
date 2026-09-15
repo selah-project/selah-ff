@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "E ɗi limtaaɗi leƴƴi ɓiɓɓe Merari, e ko bannge leƴƴi mun, e ko bannge cuuɗi baabiraaɓe mun.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "E ɗi limtaaɗi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e ko bannge leƴƴi mun"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e ko bannge cuuɗi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:54.756327926Z",
+  "model": "glm-5.3"
+}

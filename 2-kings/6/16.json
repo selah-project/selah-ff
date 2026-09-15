@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O wi'i: «Wata a hulo, fii ko ɗi ⟨את⟩ min ɗuuɗii ɓuri ɗi ⟨את⟩ ɓe.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a hulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ɗuuɗiiɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ min"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:12.386057004Z",
+  "model": "glm-5.3"
+}

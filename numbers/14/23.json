@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Hay si ɓe yi'aay ⟨את⟩ leydi nden nde mi huccunoo to baabiraaɓe maɓɓe — kala ƴaañoowo am ɓe yi'ataa ndi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "hay si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe yi'aay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi nden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi huccunoo"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "to baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "ƴaañoowo am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe yi'ataa —"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "yi'ataa ndi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:43:27.442116019Z",
+  "model": "glm-5.3"
+}

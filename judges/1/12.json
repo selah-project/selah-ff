@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kaleeb wi'i: \"Mo fiyi ⟨את⟩ Kiryat-Sefer nde yanndata ɗum, mi ɗon rokka mo ⟨את⟩ Akisa ɓiɗɗo debbo am ngam wonde debbo mun.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "yanndata ɗum"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ɗon rokka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akisa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akisa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɓiɗɗo debbo am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngam wonde debbo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:03.929548216Z",
+  "model": "glm-5.3"
+}

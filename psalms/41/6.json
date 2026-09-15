@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Ɓañiiɓe am ɗon wi'a bone fii am: “Kadi naange huutorde o maayata, e innde mun majjata?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Ɓañiiɓe am"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɗon wi'a"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kadi naange huutorde"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayata"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "e majjata"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:06.662481466Z",
+  "model": "glm-5.3"
+}

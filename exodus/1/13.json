@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Misrayim ɓe ngollini ⟨את⟩ ɓiɓɓe Israa'iila e saɗtude-reende.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe ngollini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "e saɗtude-reende"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:20.600274500Z",
+  "model": "glm-5.3"
+}

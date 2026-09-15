@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Artu, Yisra'el, faade e Yaawe Eloohim maa; sabo a ronkii e mbaɗɓe maa ɓen.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Artu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "a ronkii"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "e mbaɗɓe maa ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:09.529297945Z",
+  "model": "glm-5.3"
+}

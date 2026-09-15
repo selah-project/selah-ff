@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Wottoree to kawral Yisra'iil fuu, no wi'a: e sappo lewru ndin, kala neɗɗo ƴettata mbeɗa e suudu baabiraaɓe mun, mbeɗa e suudu.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Wottoree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "no wi'a"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndin"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ƴettata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mbeɗa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "baabiraaɓe"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mbeɗa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e suudu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:42.682442267Z",
+  "model": "glm-5.3"
+}

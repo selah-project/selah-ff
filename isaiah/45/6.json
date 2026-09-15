@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Fii ɓe anndu➡ ummoriiɗo ñalawma ɓurtuki e huuɓtoduki mun, wonnde alaa ko woni wonande kala ko wanaa Mi; Miin Mi woni Yaawe, alaa ko woodi goo wanaa Mi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ɓe anndu➡"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ummoriiɗo ɓurtuki"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "e huuɓtoduki mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "alaa ko woni"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "wonande kala ko wanaa Mi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Miin Mi woni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa ko woodi goo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wanaa Mi"
+    }
+  ],
+  "timestamp": "2026-09-15T05:45:22.736897983Z",
+  "model": "glm-5.3"
+}

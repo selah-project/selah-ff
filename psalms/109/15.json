@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ɓe ngenson yeeso Yaawe abada, o momtuy siftorde maɓɓe ɗen e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ɓe ngenson"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "abada"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "o momtuy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "siftorde maɓɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:22.850010593Z",
+  "model": "glm-5.3"
+}

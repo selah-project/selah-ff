@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Debora, debbo anndinoowo, debbo Lafidot, kanko o ñaawotoo ⟨את⟩ Israa'iil e oon sahaa.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "anndinoowo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lafidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ñaawotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "oon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:49.141366921Z",
+  "model": "glm-5.3"
+}

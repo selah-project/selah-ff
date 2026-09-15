@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe naafa-ma ⟨את⟩ ñawu nguu haa o hiɗti ⟨את⟩ maa e dow leydi ndin, ɗo a naatata ton ngam ruttande ndin.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "naafa-ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawu nguu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñawu nguu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "o hiɗti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ngam ruttande ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:13.398998551Z",
+  "model": "glm-5.3"
+}

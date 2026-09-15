@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Artu, nehdu am, to footi maa; sabo Yaawe weltinii ɗum fii maa.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Artu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nehdu am"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "to footi maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "weltinii ɗum"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:13.339467518Z",
+  "model": "glm-5.3"
+}

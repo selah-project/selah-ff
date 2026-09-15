@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "So mi towii baali subaka, mi hoɗii e ɗoore boppi geec;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "mi towii"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baali"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "mi hoɗii"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "e ɗoore"
+    },
+    {
+      "surface": "ים",
+      "gloss": "boppi geec"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:45.800420673Z",
+  "model": "glm-5.3"
+}

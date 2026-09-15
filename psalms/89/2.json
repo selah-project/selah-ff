@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Hesed Yaawe duumi mi yimata; jibinannde haa jibinannde mi baylina anndude goongɗingal maa e munnde am.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi yimata"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "haa jibinannde"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "mi baylina anndude"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "goongɗingal maa"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e munnde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:09.202046308Z",
+  "model": "glm-5.3"
+}

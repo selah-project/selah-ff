@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ñaawondir woni hakkunde am e maa, hakkunde baaba am e baaba maa; ƴeew, mi nulaani maa dokkal kaalis e njamdi; yah, momtu ⟨את⟩ ñaawondir maa ⟨את⟩ Baasha laamɗo Israayil, o ummotoo e am.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Ñaawondir"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mi nulaani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e njamdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "momtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawondir maa"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ñaawondir maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasha laamɗo Israayil"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamđo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayil"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "o ummotoo"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:45.918137796Z",
+  "model": "glm-5.3"
+}

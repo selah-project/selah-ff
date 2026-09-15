@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Leƴƴi maaɗa, Yaawe, ɓe ƴetti, e neldaa maaɗa ɓe tenyini.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "leƴƴi maaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ɓe ƴetti"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "e neldaa maaɗa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ɓe tenyini"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:07.729905744Z",
+  "model": "glm-5.3"
+}

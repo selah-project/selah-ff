@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Ñalnde ko Maa ⟨woni⟩, kadi jemma ko Maa ⟨woni⟩; Aɗa teelniri laylaytol annoore e naange.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ko Maa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ñalnde"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ko Maa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aɗa"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "teelniri"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "laylaytol annoore"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "e naange"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:28.426754318Z",
+  "model": "glm-5.3"
+}

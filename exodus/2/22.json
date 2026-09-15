@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O walli ɓiɗɗo gorko, o noddi ⟨את⟩ innde mum Gereshom, sabu o wi'i: gajo mi laatnoo e leydi gajjirndi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "o walli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mum"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mum"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gajo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi laatnoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "gajjirndi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:43.150355022Z",
+  "model": "glm-5.3"
+}

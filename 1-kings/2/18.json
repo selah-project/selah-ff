@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Bat-Sheba wi'i: “Moƴƴi, ko mi haaloyan maa laamɗo on.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Moƴƴi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "haaloyan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:44.002136995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Sabu neɗɗo kadi anndaani ⟨את⟩ sahaa mun: no bali nanngirtee e dorde bonnde, e no colli nanngirtee e mbaɗaade, non ɓiɓɓe aadama nanngirtee e sahaa bonɗo, so weeyi-faɗo ari e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndaani"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sahaajo mun"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "sahaajo mun"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "no bali"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "nanngirtee"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "e dorde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "e no colli"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "nanngirtee"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "e mbaɗaade"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "non"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "nanngirtee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadama"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "so ari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "weeyi-faɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:29.234366226Z",
+  "model": "glm-5.3"
+}

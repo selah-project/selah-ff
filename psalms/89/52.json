@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Ɓe ɓurtina e mum, gañoowo maa ɓen, Yaawe; ɓe ɓurtina e mum ɗoon e ɗoon pilli Mashiah maa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "e mum"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "Ɓe ɓurtina"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "gañoowo maa ɓen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e mum ɗoon e ɗoon"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ɓe ɓurtina"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "pilli"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:01.696149075Z",
+  "model": "glm-5.3"
+}

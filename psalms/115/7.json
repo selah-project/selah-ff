@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Juuce ɓe njogii, kono ɓe memaani; koyɗe ɓe njogii, kono ɓe yahaaani; ɓe ñamɗotaako e daande munen.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "juuce ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "memaani"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "koyɗe ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yahaaani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ñamɗotaako"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "e daande munen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:42.994016804Z",
+  "model": "glm-5.3"
+}

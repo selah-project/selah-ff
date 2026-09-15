@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 13:18",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Hay huunde e ko hersinaa ɗen ƴoggataa e junnde maa, fii Yaawe yiltinay e kulol mbaawka mun, o wowlay on nuunuyal, o moŋŋina on, o ɓeydina on, no o fuɗɗii tëfde baabiraaɓe maa ɗen nnde.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ƴoggataa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junnde maa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hay huunde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ko hersinaa ɗen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "yiltinay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mbaawka mun"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o wowlay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "nuunuyal"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "o moŋŋina on"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "o ɓeydina on"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no...nnde"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "o fuɗɗii tëfde"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "baabiraaɓe maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:17.175428330Z",
+  "model": "glm-5.3"
+}

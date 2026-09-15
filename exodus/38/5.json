@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O werinii nayihen ningugo e nayihen cakaaji minirde njamndi ndin, hoore-baɗe fii kuutorgal nayihen ɗen.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "o werinii"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nayihen"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ningugo"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "e nayihen"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "cakaaji ɗin"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "minirde ndin"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "njamndi ndin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hoore-baɗe"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "fii kuutorgal nayihen ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:20.157179609Z",
+  "model": "glm-5.3"
+}

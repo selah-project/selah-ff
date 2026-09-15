@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "nodeeje shoham, e nodeeje moluuji fii efood e fii ɓogge ɗereŋngol ngol;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "nodeeje"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "e nodeeje"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "moluuji"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "fii efood"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "e fii ɓogge ɗereŋngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:54.462527283Z",
+  "model": "glm-5.3"
+}

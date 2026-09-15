@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Kohan'en mun mi ɓoorninta daɗndu, e hasidaaji mun weso ɓe weeyay.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "kohan'en mun"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "mi ɓoorninta"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "daɗndu"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "hasidaaji mun"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "weso"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ɓe weeyay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:07.213567721Z",
+  "model": "glm-5.3"
+}

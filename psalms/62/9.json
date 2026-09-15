@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Hoolotoɗon e makko e sahaa kala; yimɓe, ƴoƴƴitton ɓernde mon yeeso makko; Eloohim ko suudu hisnande amen. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Hoolotoɗon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "ƴoƴƴitton"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "suudu hisnande"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:01.455722927Z",
+  "model": "glm-5.3"
+}

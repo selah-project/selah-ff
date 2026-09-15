@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Ñaawoowo on weltoto e Yaawe, faamre heedu e makko; wonduɓe ɓerndi laaɓndi fuu ɓe laara hoore mun.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "weltoto"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Ñaawoowo on"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "faamre heedu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ɓe laara hoore mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wonduɓe ɓerndi laaɓndi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓerndi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:27.466404227Z",
+  "model": "glm-5.3"
+}

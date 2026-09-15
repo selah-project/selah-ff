@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Bakkaatu leñol am ɓe ñaamata, e dow ŋakkiraare maɓɓe ɓe ɗaɓɓita mita mun.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "bakkaatu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "leñol am"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñaamata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ŋakkiraare maɓɓe"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ɓe ɗaɓɓita"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mita mun"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:34.939772814Z",
+  "model": "glm-5.3"
+}

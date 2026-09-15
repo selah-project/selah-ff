@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Sabo a dartiiri nehdu am e maayde, ⟨את⟩ gite am e keppe, ⟨את⟩ koyɗe am e fraying.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "a dartiiri"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nehdu am"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "e maayde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "keppe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koyɗe am"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyɗe am"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "fraying"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:13.339603313Z",
+  "model": "glm-5.3"
+}

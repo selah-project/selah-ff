@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Yisraayel fuu njanñi wii'ude: Sha'uul fiyi ⟨את⟩ posto Filistinaaɓe ɓen; Yisraayel kadi wonti ko foofooru e Filistinaaɓe ɓen; yimɓe ɓen koltii haala caggal Sha'uul to Gilgal.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "njanñi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wii'ude"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posto Filistinaaɓe ɓen"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinaaɓe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "wonti ko foofooru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "e Filistinaaɓe ɓen"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "koltii haala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "to Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:43:05.903222050Z",
+  "model": "glm-5.3"
+}

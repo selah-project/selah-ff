@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 18:11",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ɓe njahi ɗoo, e nder galle-Dan, ummoriiɓe Tsora e ummoriiɓe Eshtaol, rewɓe teemerje jeegom, ƴottuɓe kaɓirɗe konu.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ɓe njahi ɗoo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ƴottooɗe"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "e nder galle"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "ummoriiɓe Tsora"
+    },
+    {
+      "surface": "ומאשתאל",
+      "gloss": "e ummoriiɓe Eshtaol"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemerje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ƴottuɓe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    }
+  ],
+  "timestamp": "2026-09-14T11:56:51.167603778Z",
+  "model": "glm-5.3"
+}

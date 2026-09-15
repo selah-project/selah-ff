@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Hizkiyaahu e amiiruuji ɗin ngari, ɓe yi'i ⟨את⟩ pile ɗen, ɓe yettini ⟨את⟩ Yaawe e ⟨את⟩ yimɓe mun Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ngari"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyaahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "e amiiruuji ɗin"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pile ɗen"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "pile ɗen"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ɓe yettini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe mun Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:25:13.645133709Z",
+  "model": "glm-5.3"
+}

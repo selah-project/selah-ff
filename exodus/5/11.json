@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Onen, yoɗaa, ƴettu on paale ɗo mbaɗton ɗum, fii golle mon waɗataa ŋakkunde hay huunde.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Onen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yoɗaa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "paale"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "mbaɗton ɗum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ŋakkunde"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "golle mon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hay huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:21.017650484Z",
+  "model": "glm-5.3"
+}

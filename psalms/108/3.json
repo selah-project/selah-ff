@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Ummitoo, nevel e kinnor; miɗo ummitora subaka.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ummitoo"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "miɗo ummitora"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.565389061Z",
+  "model": "glm-5.3"
+}

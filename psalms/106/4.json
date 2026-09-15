@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Jaaɓɗo lam, Yaawe, e ɓural leƴƴi maa; yillo lam e dañal maa.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Jaaɓɗo lam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "leƴƴi maa"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "yillo lam"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "e dañal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:55.009643752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Si sadak mun ko pere, o nyuwan ɗum yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "עז",
+      "gloss": "pere"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sadak mun"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "o nyuwan ɗum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:54.598427699Z",
+  "model": "glm-5.3"
+}

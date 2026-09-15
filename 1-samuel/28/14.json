@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 28:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "O wi'i mo: nanɗe laabi mun njeyaa? O wi'i: Neɗɗo mawɗo ina ƴiɓɓa, o waɗorii wutte. Shauul anndi ko Shemuu'el on woni, o suuɗi werre mum haa leydi, o sujjandi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nanɗe"
+    },
+    {
+      "surface": "תארו",
+      "gloss": "laabi mun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Neɗɗo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ina ƴiɓɓa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "waɗorii"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "wutte"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuu'el"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on woni"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "o suuɗi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "werre mum"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "haa leydi"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "o sujjandi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:52.563433717Z",
+  "model": "glm-5.3"
+}

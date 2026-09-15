@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Mi jogorto ⟨את⟩ ñamri-am e ⟨את⟩ ndiyam-am e ⟨את⟩ yamre-am ɗi mi sobri fii ƴoornooɓe am, ɓe ngadda ɗum wonande worɓe ɣ ɣ mi anndaa ɗum ene kañum?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "mi jogorto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñamri-am"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ñamri-am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ndiyam-am"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ndiyam-am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yamre-am"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "yamre-am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "mi sobri"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "fii ƴoornooɓe am"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ɓe ngadda ɗum"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "wonande worɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɣi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kañum"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ɗum ene"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:55.033048837Z",
+  "model": "glm-5.3"
+}

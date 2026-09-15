@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓe ngaddi hoore maɓɓe diga leñol faade e leñol, e laamu faade e yimɓe goɗɗo.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Ɓe ngaddi hoore maɓɓe"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "diga leñol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "e laamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:59:13.479180034Z",
+  "model": "glm-5.3"
+}

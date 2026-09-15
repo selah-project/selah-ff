@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "e konu mun, e limteede ɓe: jeegom e cappanaaje nayi e ujunnaaje jeegom e teemerre e cappanaaje jeeɗiɗi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "e konu mun"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e limteede ɓe"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e cappanaaje nayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujunnaaje"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemerre"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e cappanaaje jeeɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:36.813220925Z",
+  "model": "glm-5.3"
+}

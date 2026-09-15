@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kono Abimelekh ƴeewtaani mo, o wi'i: \"Adonaay, a waray leñol ngol ko ngol selli kadi?\"",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "kono Abimelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "o ƴeewtaani"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leñol ngol"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "selli"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "a waray"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:21.847585497Z",
+  "model": "glm-5.3"
+}

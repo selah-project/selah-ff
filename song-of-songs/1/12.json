@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Haa laamɗo on woni e nder jooɗorde mum wattiinde, nardi am wari ngoore mum.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "laamɗo on woni"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "e nder jooɗorde mum wattiinde"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardi am"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wari"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ngoore mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:07.600310054Z",
+  "model": "glm-5.3"
+}

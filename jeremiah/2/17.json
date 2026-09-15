@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kaa ko ɗum wonaa e maa? Sabu a accii ⟨את⟩ Yaawe Eloohim maa, e sahaa o arnunoo maa e laawol.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wona e maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "a accii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "o arnunoo maa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:10.876407680Z",
+  "model": "glm-5.3"
+}

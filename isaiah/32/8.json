@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Kono neɗɗo ballitoowo on fijira ko ballal teddungal, kanko o darta e dow ballal teddungal.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "kono neɗɗo ballitoowo on"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ballal teddungal"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "fijira"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ballal teddungal"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "darta"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:06.966265628Z",
+  "model": "glm-5.3"
+}

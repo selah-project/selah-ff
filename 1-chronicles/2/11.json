@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Nachshon jibini ⟨את⟩ Salma, Salma kadi jibini ⟨את⟩ Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "Salma kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:35.485028846Z",
+  "model": "glm-5.3"
+}

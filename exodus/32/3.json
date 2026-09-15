@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yimɓe ɓen fuu fittinii ⟨את⟩ patiriije kaŋŋe ɗen ɗe e peewal mun, ɓe ndaddani ɗum Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "fittinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patiriije kaŋŋe ɗen"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "patiriije ɗen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "e peewal mun"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ɓe ndaddani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:36.162643819Z",
+  "model": "glm-5.3"
+}

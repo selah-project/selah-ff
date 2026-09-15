@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Ɓe koye mun en yi'i ɗum — no non ɓe haajtii, ɓe ɓoornii kulol, ɓe dawti dogdu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ɓe koye mun en"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i ɗum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no non"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ɓe haajtii"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ɓe ɓoornii kulol"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ɓe dawti dogdu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:24.908259048Z",
+  "model": "glm-5.3"
+}

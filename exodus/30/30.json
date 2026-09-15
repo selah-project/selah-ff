@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "E ⟨את⟩ Aharon e ⟨את⟩ ɓiɓɓe mun ɗuuɓna-ɗaa, nden laaɓtin-ɗaa ⟨את⟩ ɗum fii wadde almaami am.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ɗuuɓna-ɗaa"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "laaɓtin-ɗaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii wadde almaami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:13.248506150Z",
+  "model": "glm-5.3"
+}

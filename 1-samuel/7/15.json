@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Samuel ñaawi ⟨את⟩ Israayiil duuɓi nguurdam makko fuu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "nguurdam makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:31.840949817Z",
+  "model": "glm-5.3"
+}

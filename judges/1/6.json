@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Adoni-Bezek dogi, ɓe ndokki caggal makko, ɓe nanngi ⟨את⟩ mo, ɓe tru'i ⟨את⟩ cuje juuɗe makko ɗen e koyɗe makko ɗen.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "caggal makko"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "ɓe nanngi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "ɓe tru'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuje juuɗe makko e koyɗe makko"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "cuje"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "e koyɗe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:52.635475042Z",
+  "model": "glm-5.3"
+}

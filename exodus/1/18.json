@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Laamɗo Misrayim noddi majjere'en ɗen, o wi'i ɓe: “Ko waɗi nde mbaɗii ndee hello, ɓe wuurninii ⟨את⟩ sukaaɓe ɗen?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "majjere'en ɗen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "nde mbaɗii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ndee hello"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ɓe wuurninii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukaaɓe ɗen"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sukaaɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:20.568740930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O suuɗii balɗe jeeɗiɗi haa e sahaa jalɗinɗo Samuwel ngol, kono Samuwel ardaa Gilgala, yimɓe ɓee pepnaama e makko.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "o suuɗii"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sahaa jalɗinɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuwel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ardaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ardaa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuwel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "pepnaama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:13.879002827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Reenuɗon ɗoo tigi e neffe mon, ngam yiɗde ⟨את⟩ Yaawe Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Reenuɗon ɗoo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "e neffe mon"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ngam yiɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim mon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:06.009406360Z",
+  "model": "glm-5.3"
+}

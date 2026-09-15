@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Hisnu, Yaawe, gomɗinɗo on gasii, gomɗimɓe ɓen maayii e nder ɓiɓɓe aadee.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "gomɗinɗo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "maayii"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "gomɗimɓe ɓen"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:40.599430586Z",
+  "model": "glm-5.3"
+}

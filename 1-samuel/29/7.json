@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɗoon nii artu, yahu e jam, wata a defa bonru e gite sarɗiɓe Filistiina en.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ɗoon nii"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "yahu"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "a defa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonru"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarɗiɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiina en"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:48.507744895Z",
+  "model": "glm-5.3"
+}

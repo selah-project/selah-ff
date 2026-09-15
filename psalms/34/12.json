@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Aru, ɓiɓɓe, nanee ɓe am; kulol Yaawe ko mi janngina on.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "aru"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɓe am"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "mi janngina on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:19.910491638Z",
+  "model": "glm-5.3"
+}

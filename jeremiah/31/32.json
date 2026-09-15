@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 31:32",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Wanaa no kawtal ngal miniri ⟨את⟩ baabiraaɓe maɓɓe ñalnde min jogitiri junngo maɓɓe ngam yaltinde maɓɓe e leydi Misrayim; ɓe ɓenni ⟨את⟩ kawtal am, kono min laatino jom-maɓɓe, jeheyre Yaawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "no kawtal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "miniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "החזיקי",
+      "gloss": "min jogitiri"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "junngo maɓɓe"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "ngam yaltinde maɓɓe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "המה",
+      "gloss": ""
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ɓenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawtal am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kawtal am"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "בעלתי",
+      "gloss": "laatino jom-maɓɓe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-maɓɓe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jeheyre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:19:42.483098099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mi waayata ⟨את⟩ zinndaa maa no pobte leydi ndin nii; si neɗɗo waawata limde ⟨את⟩ pobte leydi ndin, zinndaa maa kadi limetee.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mi waayata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinndaa maa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zinndaa maa"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "no pobte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "waawata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "limde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pobte leydi ndin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pobte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zinndaa maa"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "limetee"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:17.972695155Z",
+  "model": "glm-5.3"
+}

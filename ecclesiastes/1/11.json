@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Jaɓɓannde woodaani wonande arooɓe adanɓe; nonbo wonaa ɓe arata ɓe tampata jaɓɓannde e ɓe arata caggal.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "jaɓɓannde"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "wonande arooɓe adanɓe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nonbo"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "ɓe arata"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ɓe wonata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tampata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "jaɓɓannde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ɓe wonata"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "ɓe arata caggal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:27.141860819Z",
+  "model": "glm-5.3"
+}

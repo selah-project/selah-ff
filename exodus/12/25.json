@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ndeen si tawa on naatii e leydi ndi Yaawe na heddana on, no o wi'iri nii, on reentan ⟨את⟩ kuugal ngal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si tawa"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "on naatii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "na heddana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'iri nii"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reentan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuugal ngal"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:53.037627886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Jaakob wi'i Laban: Hokku ⟨את⟩ debbo am, nde yemme amen timmii, mi naatata e makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa (wi'i Laban)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Hokku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo am"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "debbo am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "timmii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "yemme amen"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "mi naatata"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:52.958782615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe laɓɓina ɓerɗe mun e maa ɓe annduɓe innde maa nde, sabu a woppaani wanaa a woppitii ɓe ɗaɓɓuɓe maa, Yo Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ɓe laɓɓina ɓerɗe mun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ɓe annduɓe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa nde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "a woppitii"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ɓe ɗaɓɓuɓe maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yo Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:43.737570649Z",
+  "model": "glm-5.3"
+}

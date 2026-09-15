@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Pearlaama e maayɓe ɗin, no warɓe ɗen naalorɓe e yenru, ɒe njiɗ-ɗaa ɓe caggal; kamɓe e junngo maa taƴaama.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "e maayɓe ɗin"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "pearlaama"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "warɓe ɗen"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "naalorɓe"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "yenru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɒe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "njiɗ-ɗaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "taƴaama"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.541963993Z",
+  "model": "glm-5.3"
+}

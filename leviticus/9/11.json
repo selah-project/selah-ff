@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "⟨את⟩ ɓiɗɓe ɗen e ⟨את⟩ ɓoggol ngol o bonni e yiite, woɗɗa e konngal ngal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe ɗen"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ɓiɗɓe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓoggol ngol"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ɓoggol ngol"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o bonni"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "woɗɗa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "e konngal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:53.211747706Z",
+  "model": "glm-5.3"
+}

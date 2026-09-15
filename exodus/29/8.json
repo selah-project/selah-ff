@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "A adda ⟨את⟩ ɓiɓɓe makko ɓen, a ɓoornora ɓe kensaaje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe makko ɓen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko ɓen"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "a adda"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "a ɓoornora ɓe"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kensaaje"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.658424913Z",
+  "model": "glm-5.3"
+}

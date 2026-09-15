@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 149,
+  "translation": "fii ɓoggude laamɓe mun e cawre, e tedduɓe mun e ƴi'e njamndi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "fii ɓoggude"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "laamɓe mun"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "e cawre"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "e tedduɓe mun"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "e ƴi'e"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:01.575189782Z",
+  "model": "glm-5.3"
+}

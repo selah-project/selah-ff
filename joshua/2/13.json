@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "e nduurton ⟨את⟩ baaba am e ⟨את⟩ yumma am e ⟨את⟩ miñiraaɓe am e ⟨את⟩ dayɓe am e ⟨את⟩ fuu ɗi ɓe njogii, e daɗndon ⟨את⟩ nguuru amen e maayde.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "e nduurton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba am"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma am"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "miñiraaɓe am"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñiraaɓe am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dayɓe am"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "dayɓe am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "e daɗndon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguuru amen"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "nguuru amen"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "e maayde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:14.644821089Z",
+  "model": "glm-5.3"
+}

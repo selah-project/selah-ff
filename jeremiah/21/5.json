@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono min, mi haɓay ⟨את⟩ mon e junngo ngaandiingo, e eŋordi wooɗundi, e tikkere, e haaje, e muusu mawɗo.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "mi haɓay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "mon (haɓoore fii mon)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ngaandiingo"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "e eŋordi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wooɗundi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "e tikkere"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "e haaje"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "e muusu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:03.697782765Z",
+  "model": "glm-5.3"
+}

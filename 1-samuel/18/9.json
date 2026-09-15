@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sha'uul ɓeydi yiɗde fuɗɗaade ⟨את⟩ Daawuuda, gila ñalnde nden yeeso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "gila ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "den"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "yeeso"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:36.674341654Z",
+  "model": "glm-5.3"
+}

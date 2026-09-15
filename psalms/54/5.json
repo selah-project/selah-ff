@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Kooriiɓe ummiima dow am, ƴaañooɓe ɗaɓɓii nguurndam am; ɓe dowlaani Eloohim yeeso maɓɓe. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu ko"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "kooriiɓe"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ƴaañooɓe"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ɗaɓɓii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dowlaani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "yeeso maɓɓe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:36.523595256Z",
+  "model": "glm-5.3"
+}

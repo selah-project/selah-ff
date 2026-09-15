@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Hono yiite ɓurnata ladde, hono lemmaaji ɓeydata paltooji tulde ɗen.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "hono yiite"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ɓurnata"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "e hono lemmaaji"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ɓeydata paltooji"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tulde ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:55.856316064Z",
+  "model": "glm-5.3"
+}

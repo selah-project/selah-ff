@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi waɗii ñaawoore e puku; wata a accu mi e tooñooɓe am.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗii"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "e puku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "a accu mi"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "e tooñooɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:11.160664860Z",
+  "model": "glm-5.3"
+}

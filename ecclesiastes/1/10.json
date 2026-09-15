@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Huunde woodi, maa wi'ee: “Nd'aar, ɗum hesere!” — ko adii ko wonnoo, e jamaanuji ɗi ngonnoo ado amen.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "maa wi'ee"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nd'aar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ko adii"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "e jamaanuji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ngonnoo"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ado amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:27.141699904Z",
+  "model": "glm-5.3"
+}

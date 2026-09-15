@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E leydi ɓe yaarata; taroto: caɗe e niɓe, ɓuuɓri muurngel, e niɓere ruttunde.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ɓe yaarata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "taroto"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "e niɓe"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "muurngel"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "e niɓere"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "ruttunde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:38.385947315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Teffan-nanii daande ɓuuɓgol am, laamɗo am e Eloohim am; woni ko kadi maa mi waaja.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "teffan-nanii"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ɓuuɓgol am"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo am"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Eloohim am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "woni ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "mi waaja"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:10.338582058Z",
+  "model": "glm-5.3"
+}

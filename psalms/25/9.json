@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "O ardira ɓetuɓe ɓen e ñaawoore, O janngina ɓetuɓe ɓen laawol makko.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "O ardira"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ɓetuɓe ɓen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "O janngina"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ɓetuɓe ɓen"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:15.562584123Z",
+  "model": "glm-5.3"
+}

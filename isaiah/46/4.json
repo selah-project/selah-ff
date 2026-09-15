@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Haa kgaaña, ko mi woni; haa pawaale, ko mi mudde; mi waɗi, ko mi nawra, ko mi mudde e hisnude",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "kgaaña"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "pawaale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "mudde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nawra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "mudde"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "e hisnude"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:27.284393425Z",
+  "model": "glm-5.3"
+}

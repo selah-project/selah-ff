@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Nafsi mun ɗim suddata e ɓural, kadi zeraa mun ronoto leydi ndin.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "Nafsi mun ɗim"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "suddata"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "kadi zeraa mun"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ronoto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:53.932231642Z",
+  "model": "glm-5.3"
+}

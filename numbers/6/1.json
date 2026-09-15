@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe haali e Musa, wiyu:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:36:33.233571253Z",
+  "model": "glm-5.3"
+}

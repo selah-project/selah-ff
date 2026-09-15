@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Mi itti ⟨את⟩ re'en tato ɗen e lewru wootere ; nondu am tuccii e maɓɓe, kadi nondu maɓɓe mawnii e am.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "mi itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "re'en tato ɗen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "re'en ɗen"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "tuccii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nondu am"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nondu maɓɓe"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "mawnii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:14.155038435Z",
+  "model": "glm-5.3"
+}

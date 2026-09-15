@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Ñeeɗƴitino, Eloohim, duwaawu am; wata a suuɗu hoore maa e ɓataakeeje am.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Ñeeɗƴitino"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duwaawu am"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "a suuɗu hoore maa"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "e ɓataakeeje am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:53.950567445Z",
+  "model": "glm-5.3"
+}

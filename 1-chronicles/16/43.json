@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yimɓe ɗin fuu njahi, kala neɗɗo to galle mun; Dawuudi ruttii hakkito barke ⟨את⟩ galle mun.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "njahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to galle mun"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ruttii"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "hakkito barke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle mun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:05.585566368Z",
+  "model": "glm-5.3"
+}

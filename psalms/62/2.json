@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Tan ko faade e Eloohim, suññande woni e muynaange am; e makko ko cellal am ari.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "suññande"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "muynaange am"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "cellal am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:07.660089525Z",
+  "model": "glm-5.3"
+}

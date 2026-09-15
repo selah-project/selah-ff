@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Sabu ko nii Yaawe wi'i fii sarwiisɓe ɓen ɓe reenata ⟨את⟩ Shabbatuuji Am, ɓe suɓata ko Mi yiɗiri, ɓe jolnata ɗum e jokkondire Am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "fii sarwiisɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "reenata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatuuji Am"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabbatuuji Am"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "ɓe suɓata"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "Mi yiɗiri"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ɓe jolnata ɗum"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "e jokkondire Am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:36.199230180Z",
+  "model": "glm-5.3"
+}

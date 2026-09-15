@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Wanaa kulol maa ko dewal maa, kesi maa e njendi laawol maa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wanaa"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "kulol maa"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "dewal maa"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "kesi maa"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "e njendi"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "laawol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:05:50.633247425Z",
+  "model": "glm-5.3"
+}

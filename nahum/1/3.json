@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe ⟨ko⟩ muusɗo haira, mawnuɗo doole, kono wata o muusɗo o woppu bonɗo on; laawol Yaawe woni e ɓuuɓnah e ɗuumool, ɗorŋe ko kanne koyƴe mun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "muusɗo"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "haira"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "mawnuɗo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "doole"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "woppude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "o woppu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "e ɓuuɓnah"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "e ɗuumool"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ɗorŋe"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "kanne"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyƴe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:44.865338264Z",
+  "model": "glm-5.3"
+}

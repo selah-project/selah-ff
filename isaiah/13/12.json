@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mi waɗana neɗɗo mo o ɓuri kaŋŋe suukaa teddude, e ɓiɗɗo aadam mo o ɓuri kaŋŋe Oofir teddude.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "mi-waɗana-teddude"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neɗɗo-mo-o-maayata"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ɓuri-kaŋŋe-suukaa"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "e-ɓiɗɗo-aadam"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ɓuri-kaŋŋe-laaɓɗo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Oofir"
+    }
+  ],
+  "timestamp": "2026-09-14T07:43:58.402274731Z",
+  "model": "glm-5.3"
+}

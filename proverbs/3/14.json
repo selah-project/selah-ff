@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Sababu ko njulaagu mayre ɓuri njulaagu kaalis, e ngartam mayre ɓuri kaŋe laaɓuɗo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sababu ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɓuri moƴƴude"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "njulaagu mayre"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "njulaagu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "e kaŋe laaɓuɗo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ngartam mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:20.848901928Z",
+  "model": "glm-5.3"
+}

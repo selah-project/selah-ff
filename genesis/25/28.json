@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yitschaq yi'i ⟨את⟩ Esav, sabu ngaandi ina e daande mun; Rivqa yi'i ⟨את⟩ Yaakob.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ngaandi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ina e daande mun"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "Rivqa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:44.632343419Z",
+  "model": "glm-5.3"
+}

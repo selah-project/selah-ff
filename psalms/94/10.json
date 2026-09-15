@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Oo ennittooɗo leƴƴi ɗin, hara o ñi'ataa? Oo jannginooɗo aadam ganndal, ⟨hara o anndaa⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Oo ennittooɗo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hara"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o ñi'ataa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Oo jannginooɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:19.779846549Z",
+  "model": "glm-5.3"
+}

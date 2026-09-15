@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "O neldi ⟨את⟩ Elyakim mo woni e hoore galle ndu, e Shebna binndoowo on, e ⟨את⟩ mawɓe almuɓe ɓen, ɓe suddorii e wutte, feewde Yeshaayahu annabi on, ɓiy Amoos.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e hoore"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "galle ndu"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "e Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "binndoowo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mawɓe almuɓe ɓen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "almuɓe ɓen"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "ɓe suddorii"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "e wutte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshaayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoos"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:13.324332831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "A yeeyay yimɓe maa ⟨e⟩ ko nafataa, a ɓeydaani kakkuɗe e cogu mum en.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "a yeeyay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ko nafataa"
+    },
+    {
+      "surface": "הון",
+      "gloss": "alɗinaaku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ɓeydaani"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ɓeydataa"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "e cogu mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:15.472641037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Mi wonii bana maande mawnde wonande heewɓe; kono ko aɗa dabgol am, doole.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "bana maande mawnde"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonii"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "wonande heewɓe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono aɗa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "dabgol am"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:02.674641389Z",
+  "model": "glm-5.3"
+}

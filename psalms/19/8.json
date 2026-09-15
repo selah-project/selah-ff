@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Torá Yaawe woni timmunde, artirdunde belngu; seedantaagal Yaawe woni rooftaangal, hessinduɗum payku.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "timmunde"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "artirdunde"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "belngu"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "seedantaagal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "rooftaangal"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "hessinduɗum"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "payku"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:29.628944010Z",
+  "model": "glm-5.3"
+}

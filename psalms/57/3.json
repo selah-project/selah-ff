@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Mi noddirta Eloohim Elyon, Eel timminuɗo ⟨fii am⟩.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddirta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "timminuɗo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fii am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:37.311471921Z",
+  "model": "glm-5.3"
+}

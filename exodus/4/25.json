@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Tsippora jabeti ɓuuɓol, taayi ⟨את⟩ kunndurgo ɓiyi mum, nanngini ɗum koye makko, o wi'i: 'Ko a dewinɗo ƴiiƴam fii mi.'",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "jabeti"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɓuuɓol"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "taayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunndurgo ɓiyi mum"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kunndurgo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiyi mum"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "nanngini"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "koye makko"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "dewinɗo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii mi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:48.963583448Z",
+  "model": "glm-5.3"
+}

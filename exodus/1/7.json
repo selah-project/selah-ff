@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɓɓe Yisraa'el payloadu, njuurii, ɓeydii, mawnii no feewi no feewi, leydi ndin hebbinii ⟨את⟩ ɓe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "payloadu"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "njuurii"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ɓeydii"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "mawnii"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hebbinii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:23.961649811Z",
+  "model": "glm-5.3"
+}

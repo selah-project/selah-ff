@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ha ɓernde mun en: cuuɗi mun en ko duumi, ngoddi mun en e candle e candle; ɓe noddirta leydiiji dow mun en e innde mun en.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ha ɓernde mun en"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "cuuɗi mun en"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ngoddi mun en"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "e candle"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e candle"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ɓe noddirta"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "e innde mun en"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "leydiiji"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:05.948297133Z",
+  "model": "glm-5.3"
+}

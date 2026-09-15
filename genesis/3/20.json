@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Neɗɗo on inniri innde debbo-mu Hawwa, sabu kanko ko kanko woni inne worɓe nguuruɓe fuu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inniri"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo-mu"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wonno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nguuruɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:31.765116438Z",
+  "model": "glm-5.3"
+}

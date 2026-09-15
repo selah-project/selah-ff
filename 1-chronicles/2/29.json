@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Innde debbo Abishuur mun ko Abihayil, o ummiiti mo ɓiɓɓe ɗiɗo ⟨את⟩ Ahban e ⟨את⟩ Moliid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Abishuur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Abihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o ummiiti mo ɓiɓɓe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Moliid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Moliid"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:50.287864498Z",
+  "model": "glm-5.3"
+}

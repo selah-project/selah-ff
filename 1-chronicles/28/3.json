@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Kono Eloohim wi'i am: a wanaa mahɗo suudu fii innde Am, nde a neɗɗo hareejeeɗo nangata, ɗemngal a wadhuɗaa.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "kono Eloohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "mahɗo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "fii innde Am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "hareejeeɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "e ɗemngal"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "wadhuɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T13:05:20.659562689Z",
+  "model": "glm-5.3"
+}

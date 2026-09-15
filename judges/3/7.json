@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓiɓɓe Israa'iila ngaddi ⟨את⟩ bonnde nden e jay Yaawe, ɓe cujjii ⟨את⟩ Yaawe Eloohim maɓɓe, ɓe gollin ⟨את⟩ Ba'al'en ɗin e ⟨את⟩ Asheraaji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe ngaddi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonnde nden"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonnde nden"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e jay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "ɓe cujjii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim maɓɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe gollin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ba'al'en ɗin"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Ba'al'en ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Asheraaji ɗin"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Asheraaji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:26.088193062Z",
+  "model": "glm-5.3"
+}

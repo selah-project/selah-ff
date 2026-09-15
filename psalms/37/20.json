@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Kino wirɓe ɗen maayata, kono gañoowo Yaawe no teddinde peeɗe ɓen ɓe gasata; no eworu ɓe gasata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kino"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wirɓe ɗen"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "maayata"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "kono gañoowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "no teddinde"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "peeɗe ɓen"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ɓe gasata"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "no eworu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ɓe gasata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:52.722185947Z",
+  "model": "glm-5.3"
+}

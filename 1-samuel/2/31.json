@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yee! Ñalawmaaji ngarii, mi taƴa junngo maa ⟨את⟩ e junngo suudu baaba maa ⟨את⟩, fii neɗɗo duumoyɗo woodaa na e suudu maa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yee"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalawmaaji"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "mi taƴa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo maa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "junngo suudu baaba maa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "fii ... woodaa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "neɗɗo duumoyɗo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "e suudu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:23.117965071Z",
+  "model": "glm-5.3"
+}

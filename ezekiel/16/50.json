@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓe mawniti laamu, ɓe mbaɗi ko njiɓɓiri yeeso Am; mi itti ⟨את⟩ ɓe wano mi yi'unoo nden.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "ɓe mawniti laamu"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ko njiɓɓiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso Am"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "mi itti"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wano"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'unoo nden"
+    }
+  ],
+  "timestamp": "2026-09-14T08:40:00.555094534Z",
+  "model": "glm-5.3"
+}

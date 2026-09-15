@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Sabu mi ɓurdi hasaade e mawninooɓe ɓen, nde mi yi'i deeƴre tooñooɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mi ɓurdi hasaade"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "e mawninooɓe ɓen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "deeƴre"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tooñooɓe ɓen"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nde mi yi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:26.893111566Z",
+  "model": "glm-5.3"
+}

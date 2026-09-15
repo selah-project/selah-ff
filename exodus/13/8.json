@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Nden haalan ɓiɗɗo maaɗa ñalnde nden, wii: ko ɗuum Yaawe waɗani mi nde mi yalti Misrayim.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "Nden haalan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ɓiɗɗo maaɗa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ko ɗuum sabu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "nde mi yalti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:04.617035876Z",
+  "model": "glm-5.3"
+}

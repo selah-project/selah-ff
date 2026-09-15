@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi a, Yahuuda, kebbagol laɓɓinaama fii maa — e nde mi ruttotoo jeyngol yimɓe am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "שת",
+      "gloss": "laɓɓinaama"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kebbagol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "e nde mi ruttotoo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "jeyngol"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:56:43.694104471Z",
+  "model": "glm-5.3"
+}

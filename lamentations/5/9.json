@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "E nguurndam amen min ngaddi ñaamri amen, sabu booma ladde.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "e nguurndam amen"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "min ngaddi"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ñaamri amen"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "booma"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:22.511400860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Davuud waɗi ɗum, no Yaawe yummirii mo; o fiyi ⟨את⟩ Pelistiinaɓe ɓen diga Gebaa haa □ aroy-ɗaa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davuud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yummirii mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ofiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelistiinaɓe ɓen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistiinaɓe ɓen"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "diga Gebaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "aroy-ɗaa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:56.067313444Z",
+  "model": "glm-5.3"
+}

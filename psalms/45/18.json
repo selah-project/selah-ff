@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Mi siftorii innde maa e duuɓi ɗin fof, yimmuɓe ɗin ɗooftoo maa nden, haa abada e duumi.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "mi siftorii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "דר",
+      "gloss": "duuɓi ɗin"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e duuɓi"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "nden"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimmuɓe ɗin"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ɗooftoo maa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:31.472583172Z",
+  "model": "glm-5.3"
+}

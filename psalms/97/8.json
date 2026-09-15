@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Siyoŋ nanii, welii; ɓiɓɓe rewɓe Yuuda pellitii sabu ñaawoore maa, Yaawe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "welii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyoŋ"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "pellitii"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:17.476902031Z",
+  "model": "glm-5.3"
+}

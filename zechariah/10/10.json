@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi ruttortoo ɓe leydi Misrayim, mi riɓoo ɓe Ashur, mi adda ɓe to leydi Giliad e Liban; ɓe heɓayaa nokku.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "mi ruttortoo ɓe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "e mi riɓoo ɓe Ashur"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "mi riɓoo ɓe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giliad"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "e Liban"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "mi adda ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ɓe heɓayaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:13:38.944513321Z",
+  "model": "glm-5.3"
+}

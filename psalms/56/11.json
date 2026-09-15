@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "E Eloohim mi yettinta konngol mun; e Yaawe mi yettinta konngol mun.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "E Eloohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "mi yettinta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol mun"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "mi yettinta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:50.631959111Z",
+  "model": "glm-5.3"
+}

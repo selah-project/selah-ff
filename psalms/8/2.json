@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe, Adonaay amen, no innde maa mawniri e leydi ndin fuu! Jahoɓɓe ɓe ñiŋi teddungal maa dow kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaay amen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no... mawniri"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mawniri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jahoɓɓe ɓe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ñiŋi"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "teddungal maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:16.877948977Z",
+  "model": "glm-5.3"
+}

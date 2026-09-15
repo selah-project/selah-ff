@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Haafi lam e pawe am, Yaawe; e maa-din mi suuñii.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "haafi lam"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "e pawe am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa-din"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "mi suuñii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:58.949182640Z",
+  "model": "glm-5.3"
+}

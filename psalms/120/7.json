@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 120,
+  "translation": "Mi ⟨en⟩ ɓural jam; kono tawa mi haala, kamɓe njogi ɗum fii wolde.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ɓural jam"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kono tawa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi haala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "njogi ɗum fii wolde"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:11.518710368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "So a waɗii ⟨את⟩ yeewtere ndee, Eloohim yamirii maa nɗeen, mbaaw-ɗaa darde, e yimɓe ɗii fuu kadi ngartoo nokku mum en e jam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "So"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeewtere ndee"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yeewtere"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "a waɗii"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "yamirii maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "mbaaw-ɗaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darde"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "mum en"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ngartoo"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "e jam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:52.815259072Z",
+  "model": "glm-5.3"
+}

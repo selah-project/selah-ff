@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kono e keewal kuje e ko meere e konngi heewɗi; hul ⟨את⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e keewal"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "kuje"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "e ko meere"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "heewɗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hul"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:33.612237418Z",
+  "model": "glm-5.3"
+}

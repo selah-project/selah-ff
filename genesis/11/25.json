@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nahor wuuri ko ɓaawo nde o jibini ⟨את⟩ Terah duuɓi jeenay e sappo e teemedere, o jibini ɓiɓɓe worɓe e ɓiɓɓe rewɓe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nde o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "jeenay"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e teemedere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e ɓiɓɓe rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:43.352926100Z",
+  "model": "glm-5.3"
+}

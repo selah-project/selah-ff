@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Eloohim jaarii ⟨את⟩ ñalnde jeeɗaɓere nden, o laaɓtini ⟨את⟩ nden, sabu e mayde o dartinii golle mun fuu ɗe Eloohim tagi ngam waɗde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "jaarii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalnde jeeɗaɓere nden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jeeɗaɓere nden"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "o laaɓtini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nden (ñalnde nden)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e mayde"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "o dartinii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "golle mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:02.874057019Z",
+  "model": "glm-5.3"
+}

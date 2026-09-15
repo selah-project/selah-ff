@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shemuwel nden teki ⟨את⟩ buteli diidorɗe on, o wirnii ɗum hoore makko, o ndewi mo, o wi'i: wanaa ko Yaawe muuñii ma dow ngalgu Makko, fii ardoore?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nden teki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buteli diidorɗe on"
+    },
+    {
+      "surface": "פך",
+      "gloss": "buteli"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "diidorɗe on"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "o wirnii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "o ndewi mo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "muuñii ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ngalgu Makko"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "fii ardoore"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:01.616372405Z",
+  "model": "glm-5.3"
+}

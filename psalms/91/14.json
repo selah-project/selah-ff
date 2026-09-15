@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Sabu o welni Min, mi daaɗan mo; mi toownan mo, sabu o anndi Innde am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Min"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "o welni"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "mi daaɗan mo"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "mi toownan mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o anndi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Innde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:48.910109664Z",
+  "model": "glm-5.3"
+}

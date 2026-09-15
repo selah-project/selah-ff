@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi wi'i: Ɓe nyurno tsaniif laaɓɗo dow hoore mun. Ɓe nyurno tsaniif laaɓɗo ngol dow hoore mun, ɓe ɓoornii mo comci, malaa'ika Yaawe on darinoowo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mi wi'i"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "Ɓe nyurno"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "tsaniif"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "Ɓe nyurno"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "tsaniif"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "laaɓɗo ngol"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "ɓe ɓoornii mo"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "comci"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "malaa'ika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darinoowo"
+    }
+  ],
+  "timestamp": "2026-09-15T05:54:01.129448410Z",
+  "model": "glm-5.3"
+}

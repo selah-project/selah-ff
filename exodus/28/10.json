@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Jeegom e nder inɗe maɓɓe dow perre nden wootere, e ⟨את⟩ inɗe jeegom caaɗtuɗe ɗen dow perre nden ɗaɗfaaɗere, no ɓe ndiƴtiriri nii.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "e nder inɗe maɓɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "perre nden"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inɗe jeegom caaɗtuɗe ɗen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "inɗe"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "jeegom ɗen"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "caaɗtuɗe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "perre nden"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ɗaɗfaaɗere"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "no ɓe ndiƴtiriri nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:18.996857492Z",
+  "model": "glm-5.3"
+}

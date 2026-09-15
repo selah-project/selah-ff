@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E ⟨את⟩ ɓiɓɓe mun mi yurataa, tawi ko ɓiɓɓe mbaalantaaji ɓe ngoni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi yurataa"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "yura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "mbaalantaaji"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe ngoni"
+    }
+  ],
+  "timestamp": "2026-09-14T12:31:51.288952630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 58,
+  "translation": "Wonde ngu nanaa daande dawduɓe, feloowo gondeeje ɓurɗo hakkilee.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nanaa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nana"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "dawduɓe"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "feloowo"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "gondeeje"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ɓurɗo hakkilee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:40.262692427Z",
+  "model": "glm-5.3"
+}

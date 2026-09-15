@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yonta woodi, laaɓuɗo e gite mun, kono e ɓuuɓri mun wanaa o loowaa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "yonta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓuɗo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite mun"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "e ɓuuɓri mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "o loowaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:26.331196561Z",
+  "model": "glm-5.3"
+}

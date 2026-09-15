@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Shemuël wi'i: ko honno ⟨ɗum⟩ — daande pucci ɗii ɗoo e neddaaɓe am, e daande na'i ɗii ɗi mi nanndata?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pucci ɗii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗii ɗoo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e neddaaɓe am"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i ɗii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanndata"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:32.133884961Z",
+  "model": "glm-5.3"
+}

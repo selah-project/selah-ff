@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen ɓaawoje ɗen ngarti faade e makko, o wi'i ɓe: Hol ko ngol woni—on ruttii?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ndeen ɓaawoje ɗen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hol ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngol woni"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "on ruttii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:52.233630274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "e ⟨את⟩ sarwaaɗe sadak ɓanndu ɗen e ⟨את⟩ kala kuutorɗe maggal, e ⟨את⟩ ɓuuɓru nden e ⟨את⟩ dottinere maggal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sarwaaɗe sadak ɓanndu ɗen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarwaaɗe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadak ɓanndu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala kuutorɗe maggal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓuuɓru nden"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ɓuuɓru nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dottinere maggal"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "dottinere maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.901448850Z",
+  "model": "glm-5.3"
+}

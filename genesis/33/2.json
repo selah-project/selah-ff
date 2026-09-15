@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O waɗii ⟨את⟩ jeyaaɓe ɓe e ⟨את⟩ ɓiɓɓe maɓɓe ɓen dow±arde, e ⟨את⟩ Leeya e ɓiɓɓe mun ɓen ɓaawo, e ⟨את⟩ Raayel e ⟨את⟩ Yuusufa ɓennuɓe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "O waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe ɓe"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "jeyaaɓe ɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe maɓɓe ɓen"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ɓiɓɓe maɓɓe ɓen"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "dow±arde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Leeya"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leeya"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "e ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Raayel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raayel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yuusufa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ɓennuɓe"
+    }
+  ],
+  "timestamp": "2026-09-15T05:44:32.474602544Z",
+  "model": "glm-5.3"
+}

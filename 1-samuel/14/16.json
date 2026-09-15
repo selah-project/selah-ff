@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Jeenayɓe Sawul ɗen to Gabaa leydi Binyamın ɗen ndaarii, ɗi yi'i: tanaajo, heewɓe ɓen momsitee no nebbam ƴettirta, ɓe winditoo, ɓe njani ɓesngu.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ndaarii, ɗi yi'i"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "jeenayɓe ɗen"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "to Gabaa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamın"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tanaajo"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "heewɓe ɓen"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "momsitee no nebbam ƴettirta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ɓe winditoo"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "ɓe njani ɓesngu"
+    }
+  ],
+  "timestamp": "2026-09-14T11:57:47.712975066Z",
+  "model": "glm-5.3"
+}

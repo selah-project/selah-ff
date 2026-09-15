@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Kadi a yani ⟨e⟩ kulol, a ustii juulde yeeso Eel.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "a yani"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "a ustii"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "juulde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:11:21.374912212Z",
+  "model": "glm-5.3"
+}

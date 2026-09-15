@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Haa ñaande, Eloohim, ɓuuɓnuɗo on ñaawata? Gaño on ƴattotoo innde maa haa duumi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ñaande"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ɓuuɓnuɗo on ñaawata"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɓuuɓnuɗo on"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ƴattotoo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "gaño on"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.973603334Z",
+  "model": "glm-5.3"
+}

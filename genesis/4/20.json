@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Adaa du'aani ⟨את⟩ Jabal; kanko woni baaba jooɗiiɓe e nder teente e marɓe jawdi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "du'aani"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗiiɓe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teente"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "jawdi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:42.936010928Z",
+  "model": "glm-5.3"
+}

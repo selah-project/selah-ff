@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yehoshua wi'i ɓiɓɓe Yisraayel: Ɓaddee ɗoo, nane ⟨את⟩ konnguɗi Yaawe Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ɓaddee"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:36.739808409Z",
+  "model": "glm-5.3"
+}

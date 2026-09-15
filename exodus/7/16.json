@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Mbi'a mo: Yaawe, Eloohim Ibraniyankooɓe ɓen, neldi mi to maaɗa, wi'i: Yaltin ⟨את⟩ yimɓe am ɓen, ɓe golla mi e ladde; e ƴeew, haa jooni a nan-aani.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibraniyankooɓe ɓen"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "neldi mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maaɗa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am ɓen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am ɓen"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ɓe golla mi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ƴeew"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aan-aani"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a nano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "jooni"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:59.173462329Z",
+  "model": "glm-5.3"
+}

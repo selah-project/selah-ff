@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 37:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Aru, min ndaynu mo Ismaa'inaaɓe, juuɗe amen wanaa e makku, sabu ko miñi amen, lewru amen ⟨ko⟩. Jeyngu mun nanii.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "ונמכרנו",
+      "gloss": "min ndaynu mo"
+    },
+    {
+      "surface": "לישמעאלים",
+      "gloss": "Ismaa'inaaɓe"
+    },
+    {
+      "surface": "וידנו",
+      "gloss": "juuɗe amen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "yna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "miñi amen"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "lewru amen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeyngu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:34.391928903Z",
+  "model": "glm-5.3"
+}

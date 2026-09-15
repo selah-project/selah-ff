@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Maa, a wuro ⟨ko⟩ yettoode, Eloohim, e Siyon, e maa noddiral yahay timmaade.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "a wuro"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoode"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "e Siyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yahay timmaade"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "noddiral"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:31.493826872Z",
+  "model": "glm-5.3"
+}

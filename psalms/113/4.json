@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 113,
+  "translation": "Yaawe toowii dow leƴƴi ɗin fuu, e mawninde mun dow kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "mawninde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:21.370157060Z",
+  "model": "glm-5.3"
+}

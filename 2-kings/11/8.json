@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e ɓe taaroton laamɗo on taarondi, neɗɗo kala e kuutorɗe mun e junngo mun; kala naatɗo e laylayɗi ɗin warree; ɓe ngonan ⟨את⟩ laamɗo on e yaltugol makko e naatugol makku.",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "ɓe taaroton"
+    },
+    {
+      "surface": "על",
+      "gloss": "harbine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taarondi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "e kuutorɗe mun"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo mun"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "kala naatɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "laylayɗi ɗin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "warree"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe ngonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "e yaltugol makko"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "e naatugol makku"
+    }
+  ],
+  "timestamp": "2026-09-14T07:31:20.245979691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Ɗum wa'i min ngoppaani kulol, hay so leydi ndii waylitii, e pilde pelle ɗee e nder ɓernde maaje ɗen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ɗum wa'i"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngoppaani"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "so waylitii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndii"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "e pilde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle ɗee"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "e nder ɓernde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maaje ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:52.286195435Z",
+  "model": "glm-5.3"
+}

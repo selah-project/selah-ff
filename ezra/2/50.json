@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "ɓiɓɓe Asna, ɓiɓɓe Meuniim, ɓiɓɓe Nefisiim,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Asna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meuniim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nefisiim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:41:46.777233249Z",
+  "model": "glm-5.3"
+}

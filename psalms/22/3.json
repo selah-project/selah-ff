@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Eloohim am, mi noddata ñalnde, kono a jaabaani; e jemma, deeƴre alanaa kam.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... jaabaani"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "a jaabaani"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "deeƴre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.311272361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Sabu aadam alaa gooɗɗo e leydi ndin, moɗ yo waɗa moƴƴere, wanaa o bakkata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gooɗɗo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moɗ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yo waɗa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "o bakkata"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:32.632984899Z",
+  "model": "glm-5.3"
+}

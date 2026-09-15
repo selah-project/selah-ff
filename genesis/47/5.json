@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Faroh wi'i Yusuufu, wiyude: baaba maa e miñiraaɓe maa ɓee njippinaama e maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuufu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "e miñiraaɓe maa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ɓe njippinaama"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:04.454663992Z",
+  "model": "glm-5.3"
+}

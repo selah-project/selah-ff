@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ko waaree miɗo hula e balɗe bonɗe, honde heppi am ina wirmina am?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko waaree"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "miɗo hula"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e balɗe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonɗe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "honde"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "heppi am"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ina wirmina am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.038087687Z",
+  "model": "glm-5.3"
+}

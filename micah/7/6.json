@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ko ɓiy bonninta baaba, ɓiɗɗo debbo ummii e inna mum, dearu ummii e yumma gorko mum; ayɓe neɗɗo ko yimɓe galle mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "bonninta"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "e inna mum"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dearu"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "e yumma gorko mum"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ayɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:14.075471130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ndeen ko on wonaani ɓe nelduɓe min ⟨את⟩ ɗoo; ko Eloohim ⟨ko⟩; o waɗi min baaba Fir'awn, e joomi galle makko fuu, e laamɗo e nder leydi Misrayim fuu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ɓe nelduɓe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo (min)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "o waɗi min"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "e joomi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "galle makko fuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle makko"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "e laamɗo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:22.614061385Z",
+  "model": "glm-5.3"
+}

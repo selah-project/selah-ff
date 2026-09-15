@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O wi'i mo kadi: ndogu woodi, ɓeccu keewngu woodi e amen, kadi nokku laanaande woodi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ndogu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ɓeccu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewngu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "laanaande"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:25.901574903Z",
+  "model": "glm-5.3"
+}

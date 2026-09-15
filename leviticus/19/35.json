@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wata on mbaɗa bonannde e ñaawoore, e ɓetol, e kalaaje, e ɓettaare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on mbaɗa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "e ɓetol"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "e kalaaje"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "e ɓettaare"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:02.452690762Z",
+  "model": "glm-5.3"
+}

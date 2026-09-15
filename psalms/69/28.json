@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Hokku bonannde dow bonannde maɓɓe, wanaa ɓe naata e nunɗu maa.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Hokku"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bonannde maɓɓe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ɓe naata"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "e nunɗu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:03.185400388Z",
+  "model": "glm-5.3"
+}

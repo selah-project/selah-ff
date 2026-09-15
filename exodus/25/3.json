@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɗoo teruma nde on njogotoo e maɓɓe ⟨את⟩: lame e kaalis e kolooraan.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "←"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "on njogotoo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "e maɓɓe ⟨את⟩",
+      "marks": "lame e kaalis e kolooraan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lame"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "e kolooraan"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:22.258085747Z",
+  "model": "glm-5.3"
+}

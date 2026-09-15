@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "So jaŋanteendi arii, lorru arii kadi; kono e ⟨את⟩ jeeyeɓe, ñeeñal.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "jaŋanteendi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "arii kadi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "lorru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeeyeɓe"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "jeeyeɓe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñeeñal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:48.705346115Z",
+  "model": "glm-5.3"
+}

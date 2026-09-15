@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Maccuɗo maaɗa mi ngoni; yeewnude-mi faamde, ngam mi annday seedeeji maaɗa.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "maccuɗo maaɗa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "yeewnude-mi faamde"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ngam mi annday"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "seedeeji maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:40.584927208Z",
+  "model": "glm-5.3"
+}

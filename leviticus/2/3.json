@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko ɗum heddii e mincha nden ko fii Aharon e ɓiɓɓe mun, sennde sennɗe woni e wujje Yaawe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ko ɗum heddii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha nden"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sennde"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sennɗe"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "e wujje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:01.001521486Z",
+  "model": "glm-5.3"
+}

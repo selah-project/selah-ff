@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yarobamam mahi ⟨את⟩ Sikkim e nder tamaange Efrayim, o hoɗi ton; o yalti ton, o mahi ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobamam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikkim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e nder tamaange"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o hoɗi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:10.843565892Z",
+  "model": "glm-5.3"
+}

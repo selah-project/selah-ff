@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Kono ko min hoolii e maaɗa, Yaawe; mi wi'i: Eloohim am, ko ⟨aan⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono ko min"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "hoolii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko aan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:58.720916588Z",
+  "model": "glm-5.3"
+}

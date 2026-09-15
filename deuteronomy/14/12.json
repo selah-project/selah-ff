@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɗuum ko on ñaamataa e nder mum en: haaynaange, e peres, e azniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "e ɗuum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaamataa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "on ñaamu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e nder mum en"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "haaynaange"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "e peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "e azniya"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:03.159801081Z",
+  "model": "glm-5.3"
+}

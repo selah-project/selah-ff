@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 149,
+  "translation": "fii waɗde njiyaagu e leƴƴi ɗin, reenu e yimɓe ɗin.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "fii waɗde"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "njiyaagu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e leƴƴi ɗin"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "reenu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "yimɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:01.575045710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "A moƴƴi, a waɗata ko moƴƴi; janngin min cuuɗi maa ɗin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "a waɗata ko moƴƴi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "janngin min"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "cuuɗi maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:52.893233339Z",
+  "model": "glm-5.3"
+}

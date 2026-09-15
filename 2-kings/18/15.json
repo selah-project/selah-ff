@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Chizkiya rokki ⟨את⟩ kaalis fuu tawaama e nder suudu Yaawe e nder puccuji suudu laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaalis fuu tawaama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "e nder puccuji"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:10.849201257Z",
+  "model": "glm-5.3"
+}

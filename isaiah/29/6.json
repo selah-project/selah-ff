@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Gardii Yaawe Sabaaot ɗum yiilteetee e bette, e nder titinde leydi, e daande mawnde, e henndu sakka e henndu mawndu, e lewte yiite ñamdunde.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "gardii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "yiilteetee"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "e bette"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "e nder titinde leydi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "henndu sakka"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "e henndu mawndu"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "e lewte"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "ñamdunde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:14:23.046432488Z",
+  "model": "glm-5.3"
+}

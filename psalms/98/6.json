@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "E taacirɗe e daande shofara, ɓuumtu-yaa yeeso Laamɗo on, Yaawe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "E taacirɗe"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ɓuumtu-yaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:45.690205344Z",
+  "model": "glm-5.3"
+}

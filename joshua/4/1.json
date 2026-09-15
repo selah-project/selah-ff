@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ndeen, nde ₣le ngen fuu timmini naatde ⟨את⟩ Yarden ₣en, Yaawe wii Yehoosua, ko wi'etee:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "timmini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ɓe ngen"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "naatde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden ɓen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden ɓen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko wi'etee"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:34.872416354Z",
+  "model": "glm-5.3"
+}

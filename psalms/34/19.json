@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yaawe ɓadii jeybiryeeɓe ɓernde, e ⟨את⟩ duuɓuɓe ruuhu o hisnii.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ɓadii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "jeybiryeeɓe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duuɓuɓe ruuhu"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "duuɓuɓe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "o hisnii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:37.625684644Z",
+  "model": "glm-5.3"
+}

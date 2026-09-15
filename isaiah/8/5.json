@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe ɓeydiino haalde am kadi, wiyu:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ɓeydiino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:22.041438017Z",
+  "model": "glm-5.3"
+}

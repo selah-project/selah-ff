@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kadi ⟨את⟩ mun noon naadetaa Ashur, minchah (dokkal) fii laamɗo Yareb; e hoyre Aferayim ƴettanoo, Israa'iil hoyroya e wasiya mun.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur (לאשור)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "naadetaa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah (dokkal)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fii laamɗo"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hoyre"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Aferayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ƴettanoo"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "hoyroya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "e wasiya mun"
+    }
+  ],
+  "timestamp": "2026-09-15T07:05:21.909923092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 101,
+  "translation": "Mi ñaawata laawol timmungol; haynde aartaa? Mi yaha e laaɓal ɓernde am, hakkunde suudu am.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "mi ñaawata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmungol"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "haynde"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "aartaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "e laaɓal"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "suudu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:41.409075037Z",
+  "model": "glm-5.3"
+}

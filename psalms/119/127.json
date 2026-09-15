@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Sabu ɗuum mi yiɗi pomme maaɗa ɓuri kaŋŋe, e ɓuri kaŋŋe laaɓtuɗo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi yiɗi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "pomme maaɗa"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ɓuri kaŋŋe"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "e ɓuri kaŋŋe laaɓtuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:40.585313144Z",
+  "model": "glm-5.3"
+}

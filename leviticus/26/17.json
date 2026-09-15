@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi waɗan yeeso Am ⟨─⟩ junngo mon, ɓe ƴaañan mon yeeso gaññeeɓe mon, ko fewñooɓe mon laamay e mon, ɗoon ɗo dogon on, alaa jokkuɗo ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mi waɗan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso Am"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "junngo mon"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "ɓe ƴaañan mon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "gaññeeɓe mon"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "laamay"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "fewñooɓe mon"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "dogon on"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "jokkuɗo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:04.773979816Z",
+  "model": "glm-5.3"
+}

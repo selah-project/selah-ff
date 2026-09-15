@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde ɗum wonii ñalawma ɓaawo maggal Moshe woni jooɗiiɗo ngam ñaawde ⟨את⟩ ɓiɓɓe leydi ɗin, ɓiɓɓe leydi ɗin darii ka Moshe, tuggi subaka haa jamma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde ɗum wonii"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ñalawma ɓaawo maggal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "woni jooɗiiɗo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ngam ñaawde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe leydi ɗin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ɗin"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tuggi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:35.386562915Z",
+  "model": "glm-5.3"
+}

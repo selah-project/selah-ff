@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ko adii nde suka on anndi noddirde “baaba am” e “neene am”, mbara ⟨את⟩ ngalu Dammasek e ⟨את⟩ nannguɗe Shomeron naggitetee yeeso laamɗo Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ko adii nde"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddirde"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "e neene am"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "naggitetee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngalu Dammasek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ngalu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nannguɗe Shomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nannguɗe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:44.891125886Z",
+  "model": "glm-5.3"
+}

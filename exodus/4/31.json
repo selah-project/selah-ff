@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yimɓe ɓen gomɗinii; ɓe nanii wonde Yaawe yillii ⟨את⟩ ɓiɓɓe Yisraayil, e wonde o yi'ii ⟨את⟩ muñal maɓɓe; ɓe ɓendi hoore, ɓe sujjii.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "gomɗinii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ɓe nanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yillii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Yisraayil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayil"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e wonde"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muñal maɓɓe"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "muñal maɓɓe"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ɓe ɓendi hoore"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe sujjii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:42.005002688Z",
+  "model": "glm-5.3"
+}

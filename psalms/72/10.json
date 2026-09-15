@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Laamɓe Tarsis e duuɗe ɗen mballaytoo minceede; laamɓe Shebaa e Sebaa ndokkoray kese.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsis"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "e duuɗe ɗen"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minceede"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "mballaytoo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "e Sebaa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kese"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ndokkoray"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:35.595251296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yaawe ina jogii ñaawoore e Yehuuda, o ñaawata Yaaqob dow laawol makko, e golle makko o yoɗata mo.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ina jogii ñaawoore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "o ñaawata"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "laawol makko"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "golle makko"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o yoɗata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:22.267938699Z",
+  "model": "glm-5.3"
+}

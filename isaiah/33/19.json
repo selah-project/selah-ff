@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "A yi'aay ⟨את⟩ yimɓe jaɓɓitooɓe, yimɓe ɗemngal ɓurngel luggi ngam nano, ɗemngal majjere, faamde ⟨alaa⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe jaɓɓitooɓe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "jaɓɓitooɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yi'aay"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a yi'a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ɓurngel luggi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ɗemngal"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "ngam nano"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ɗemngal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "faamde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:36.713483112Z",
+  "model": "glm-5.3"
+}

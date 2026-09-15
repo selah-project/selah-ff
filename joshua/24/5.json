@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Min neldi ⟨את⟩ Moshe e ⟨את⟩ Aharon, min fiyi ⟨את⟩ Misrayim no min waɗiri nder ɓernde mun, caggal ɗuum min yaltini ⟨את⟩ on.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "min neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "min fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "min waɗiri"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nder ɓernde mun"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "caggal ɗuum"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "min yaltini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:32.419678549Z",
+  "model": "glm-5.3"
+}

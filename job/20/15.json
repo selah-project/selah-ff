@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Njokku o ñaami, o yoora ɗum; Eel yaltinay ɗum e nder himo.",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "Njokku"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "o ñaami"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "o yoora ɗum"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "e nder himo"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "yaltinay ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:12:53.065058845Z",
+  "model": "glm-5.3"
+}

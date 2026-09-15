@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Yah, wi'u to Hizkiyaahu: nii Yaawe, Eloohim Daawuuda baaba maa, wi'i: nanmi ⟨את⟩ junuuba maa, miyi ⟨את⟩ rawu maa; ɗoo mi, mi ɓeydata e ñalawe maa duuɓi sappo e jowi.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyaahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junuuba maa"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "junuuba maa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "miyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rawu maa"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "rawu maa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ɓeydata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ñalawe maa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "jowi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:42.193640040Z",
+  "model": "glm-5.3"
+}

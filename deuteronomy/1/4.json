@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓaawo nde o fiyanoo ⟨את⟩ Siihon laamɗo Amoriyankooɓe ɗon jooɗiiɗo e Xexbon, e ⟨את⟩ Oog laamɗo Basan ɗon jooɗiiɗo e Asherot e Edre'i;",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo nde"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "o fiyanoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Siihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyankooɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jooɗiiɗo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "e Xexbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Oog"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamđo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "joođiiđo"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "e Asherot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "e Edre'i"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:40.201550903Z",
+  "model": "glm-5.3"
+}

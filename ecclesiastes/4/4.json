@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mi yi'i ⟨את⟩ caɗe fuu e ⟨את⟩ moƴƴere golfe fuu: sabu ko kiita neɗɗo e sehil mun; ngol kadi ko ko meere e muusagol ruuhu.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caɗe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moƴƴere golfe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "golfe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kiita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "e sehil mun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ko meere"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e muusagol"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:29.714221961Z",
+  "model": "glm-5.3"
+}

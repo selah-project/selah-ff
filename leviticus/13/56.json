@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Si kohen on yi'i, e tawde ngaddungal ngal eñii ɓaawo nde ⟨את⟩ loytaama, o taayata ⟨את⟩ ɗum — e comci ɗin, walla e ɓoggi ɗi, walla e nder ɗaɓɓere, walla e nder pinnde.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen on"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e tawde"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "eñii"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ngaddungal ngal"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "loytaama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngaddungal ngal"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "o taayata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "comci ɗin"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ɓoggi ɗi"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "ɗaɓɓere"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "pinnde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:24:21.667215798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Baaba maa jaaboo, e yumma maa, e deerdiri maa welta.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "jaaboo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "e yumma maa"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "e welta"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "deerdiri maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:01:59.825048086Z",
+  "model": "glm-5.3"
+}

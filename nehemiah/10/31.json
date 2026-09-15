@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E wonnde min ndokkirta ɓiɓɓe rewɓe amen e yimɓe leydi ndi, e ⟨את⟩ ɓiɓɓe rewɓe maɓɓe wanaa min nanngeta fii ɓiɓɓe worɓe amen.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e wonnde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "min ndokkirta"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ɓiɓɓe rewɓe amen"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe rewɓe maɓɓe"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "ɓiɓɓe rewɓe maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "min nanngeta"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "fii ɓiɓɓe worɓe amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:51:11.150324396Z",
+  "model": "glm-5.3"
+}

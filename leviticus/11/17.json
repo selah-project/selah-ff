@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ kos oo, e ⟨את⟩ shalak oo, e ⟨את⟩ yanshuuf oo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kos oo"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kos oo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "shalak oo"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalak oo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yanshuuf oo"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuuf oo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:01.777710903Z",
+  "model": "glm-5.3"
+}

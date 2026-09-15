@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O ɓadtinii ⟨את⟩ on, on e ⟨את⟩ mawni mon fuu, ɓiɓɓe Levi, ⟨את⟩ wondude e on — maa on ɗaɓɓi kadi kahinagol?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "O ɓadtinii"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mawni mon fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mawni mon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wondude e on"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "on ɗaɓɓi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kahinagol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:41:44.748048658Z",
+  "model": "glm-5.3"
+}

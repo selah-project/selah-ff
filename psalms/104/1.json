@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Yetto, huyyere am, ⟨את⟩ Yaawe; Ado Yaawe, Eloohim am, a mawnii no feewi; teddungal e ŋoyma a ɓoornii.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Yetto"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "huyyere am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Ado Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "a mawnii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e ŋoyma"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "a ɓoornii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:52.597064316Z",
+  "model": "glm-5.3"
+}

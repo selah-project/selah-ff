@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kadi a ñiini ⟨את⟩ hannde ⟨את⟩ ɗum moƴƴuɗaa e am — ⟨את⟩ ɗum Yaawe tinndini kon e junnde maa, a waraali lam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "a ñiini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum moƴƴuɗaa e am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "moƴƴuɗaa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum Yaawe tinndini kon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "tinndini kon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junnde maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waɗaali"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "waraali lam"
+    }
+  ],
+  "timestamp": "2026-09-14T11:59:36.338384879Z",
+  "model": "glm-5.3"
+}

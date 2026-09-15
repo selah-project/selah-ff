@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "Yaawe maa laamora duumiaye; Eloohim maaɗa, oo Siyon, jamaa e jamaa — yettu Yaah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "maa laamora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumiaye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "oo Siyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "jamaa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e jamaa"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yettu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:11.771590591Z",
+  "model": "glm-5.3"
+}

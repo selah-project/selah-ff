@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Eloohim faamii laawol maggel, kanko o anndi ⟨את⟩ nokku maggel.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "faamii"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "laawol maggel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokku maggel"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "nokku maggel"
+    }
+  ],
+  "timestamp": "2026-09-14T12:52:27.234505644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 11:2",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O wi'i mi: Ɓiɗɗo aadam, ɗee ko worɓe ɓe miijotoo bonannde, ɓe wasiyotoo wasiyaaji bonɗi e nder wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "החשבים",
+      "gloss": "ɓe miijotoo"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "והיעצים",
+      "gloss": "e ɓe wasiyotoo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "wasiyaaji"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonɗi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e nder wuro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:38:10.747559098Z",
+  "model": "glm-5.3"
+}

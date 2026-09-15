@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Nde Mose[a] yahi jooɗaade e yimɓe ɓen, o wi'i ɓe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "yahi jooɗaade"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose[a]"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:12.207061894Z",
+  "model": "glm-5.3"
+}

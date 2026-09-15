@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Mizmoor fii Dawuud, fii jeytinde.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuud"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "fii jeytinde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.028767190Z",
+  "model": "glm-5.3"
+}

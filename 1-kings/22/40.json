@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 22:40",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Akab hunii e baabiraaɓe makko, Akaziyaa ɓiy makko laamiima e makko.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hunii"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akaziyaa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy makko"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:25:37.914172671Z",
+  "model": "glm-5.3"
+}

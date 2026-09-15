@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Oobed jibini ⟨את⟩ Yehuu, Yehuu jibini ⟨את⟩ Azaraya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Oobed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaraya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:13.980688618Z",
+  "model": "glm-5.3"
+}

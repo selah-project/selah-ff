@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Suusɗoy ⟨aa⟩ yeeso maa e bakkaaji am; momtu aaɓe am fuu.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "suusɗoy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "e bakkaaji am"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "aaɓe am"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "momtu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:31.981982839Z",
+  "model": "glm-5.3"
+}

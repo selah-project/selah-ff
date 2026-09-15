@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Mi yettay maa Yaawe e nder yimɓe ɗin, mi waɗata jimre maa e nder leƴƴi ɗin.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mi yettay maa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "e nder yimɓe ɗin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "mi waɗata jimre maa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e nder leƴƴi ɗin"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "leƴƴi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.565533183Z",
+  "model": "glm-5.3"
+}

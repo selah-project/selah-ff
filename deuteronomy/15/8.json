@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ko udditirtaa a uddita ⟨את⟩ junngo maaɗa fii mo, a rentina mo ñaawteede no heewi e ɗum ŋakkunde mum nde ŋakkata mo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "udditirtaa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "a uddita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo maaɗa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maaɗa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mo"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "a rentina"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "mo ñaawteede"
+    },
+    {
+      "surface": "די",
+      "gloss": "no heewi"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "e ɗum ŋakkunde mum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ŋakkata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:50:31.421390290Z",
+  "model": "glm-5.3"
+}

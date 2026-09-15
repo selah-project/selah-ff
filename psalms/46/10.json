@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "O ñiiñinaa konuuli haa daande leydi ndin; o feeñnina teŋe, o taƴa paas, kaaƴe o loynitoo e yiite.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "O ñiiñinaa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "teŋe"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "o feeñnina"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "o taƴa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "paas"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o loynitoo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:10.750164789Z",
+  "model": "glm-5.3"
+}

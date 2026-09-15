@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Nanu, yɓe woɗɗi ɓen, ko mi waɗi; anndu, yɓe ɓadii ɓen, doole am.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "nanu"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "yɓe woɗɗi ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "kadi anndu"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "yɓe ɓadii ɓen"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "doole am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:19.187380852Z",
+  "model": "glm-5.3"
+}

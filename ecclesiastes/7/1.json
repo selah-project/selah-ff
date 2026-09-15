@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Innde moƴƴure ɓuri muuro moƴƴo, ñalawma maaygol ɓuri ñalawma jibineende.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴuri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "muuro"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "המות",
+      "gloss": "maaygol"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ɓuri ñalawma"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "jibineende"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:23.451423467Z",
+  "model": "glm-5.3"
+}

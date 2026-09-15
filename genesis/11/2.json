@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ɓe njahude maɓɓe diga fuɗnaange, ɓe tawi ɓural e leydi Shinaar, ɓe ngoni toon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "e ɗum waɗi"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "e ɓe njahude maɓɓe"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "diga fuɗnaange"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ɓe tawi"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "ɓural"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinaar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:26.277717940Z",
+  "model": "glm-5.3"
+}

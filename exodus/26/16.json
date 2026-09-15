@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Amaa sappo ko duɗirgol ɓalawol ngol, e amaa feccere e amaa nden ko yaajre ɓalawol ngol wootewol.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amaa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "duɗirgol"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ɓalawol ngol"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e amaa"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "amaa nden"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "yaajre"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ɓalawol ngol"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wootewol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:54.595816496Z",
+  "model": "glm-5.3"
+}

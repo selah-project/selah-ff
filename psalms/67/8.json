@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Eloohim barkee min, ɓe duɗɗo ⟨את⟩ mo, kalaACC joy leydi ndin.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "barkee min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe duɗɗo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kalaACC"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "joy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:21.545550249Z",
+  "model": "glm-5.3"
+}

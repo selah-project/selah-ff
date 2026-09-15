@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O waɗii ⟨את⟩ ɓuuɓrire nden hakkunde tentu kawral ngal e mbeda nden, o hokki ɗum ndiyam fii lootirgol.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓrire nden"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ɓuuɓrire nden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tentu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral ngal"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbeda nden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o hokki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "fii lootirgol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:39.669438846Z",
+  "model": "glm-5.3"
+}

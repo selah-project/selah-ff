@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Nden worɓe tato ɓen dartinii jaabude ⟨את⟩ Iyyoob, sabu ko o enleeri e gite mun.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "dartinii"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɓen"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "jaabude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyoob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "enleeri"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:46.574930191Z",
+  "model": "glm-5.3"
+}

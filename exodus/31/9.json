@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ altal nafooje ɗen e ⟨את⟩ kuutorɗe mun ɗe fuu, e ⟨את⟩ ɓuuɓri ndin e ⟨את⟩ jooɗorde mun nden,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "altal nafooje ɗen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nafooje ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe mun ɗe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗe fuu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓuuɓri ndin"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ɓuuɓri ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jooɗorde mun nden"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jooɗorde mun nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:36.320962670Z",
+  "model": "glm-5.3"
+}

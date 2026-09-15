@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Ndaran, mi waɗii-ma no mbardal cemtinɗal kesal jeyngu ñappi; a mbaray pelle ɗen, a feńay ɗe, toowe ɗen a waay no mboros.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndaran"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "mi waɗii-ma"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "no mbardal"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "cemtinɗal"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kesal"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "jeyngu"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ñappi"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "a mbaray"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "a feńay"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "toowe ɗen"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "no mboros"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "a waay"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:22.566253428Z",
+  "model": "glm-5.3"
+}

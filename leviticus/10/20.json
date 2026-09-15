@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mose'a nanii, ɗum moƴƴi e gite makko.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose'a"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:57.097711583Z",
+  "model": "glm-5.3"
+}

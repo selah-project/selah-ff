@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Ɓernde am ina gorloi nder am, e kuloli maayde na'i e am.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ina gorloi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nder am"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "e kuloli"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:33.736343839Z",
+  "model": "glm-5.3"
+}

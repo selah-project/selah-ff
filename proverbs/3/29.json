@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Wata a fawa bone e sehilaaɗo maa, tawi o dendinirta e deeƴre e ⟨את⟩-maa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "a fawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e (ji)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sehilaaɗo maa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tawi o"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "dendinirta"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e deeƴre"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa",
+      "marks": "sehilaaɗo maa (o dendinirta e maa)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:50.122987160Z",
+  "model": "glm-5.3"
+}

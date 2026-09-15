@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O nanii ɓe e konngol ngol, o ƴeewtii ɓe balɗe sappo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "e konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "o ƴeewtii ɓe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:11.947725456Z",
+  "model": "glm-5.3"
+}

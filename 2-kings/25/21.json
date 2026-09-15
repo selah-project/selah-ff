@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Laamɗo Babel fiyi ɓe ⟨את⟩, o wara ɓe to Ribla, e leydi Hamat; ñaawoode Yahuuda egginaa dewel e leydi mun.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "wara ɓe"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "to Ribla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "egginaa dewel"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dewel e"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-15T07:02:22.988972936Z",
+  "model": "glm-5.3"
+}

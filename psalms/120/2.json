@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 120,
+  "translation": "Yaawe, hisnir nguurndam am e lebbe fenaande, e ɗemngal koyɗol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "hisnir"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "e lebbe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "e ɗemngal"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "koyɗol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:37.287342810Z",
+  "model": "glm-5.3"
+}

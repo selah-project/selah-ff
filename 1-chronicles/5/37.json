@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Azaarayahun danyi ⟨את⟩ Ammarayahun, Ammarayahun danyi ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaarayahun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammarayahun"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Ammarayahun"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Ammarayahun"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:42.544565654Z",
+  "model": "glm-5.3"
+}

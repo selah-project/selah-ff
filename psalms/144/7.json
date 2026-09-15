@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Neldu juuɗe maa to toowgu, memsu mi, hisnu mi e ndiyam keewɗam, e juuɗe ɓiɓɓe jananiyankooɓe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "juuɗe maa"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "to toowgu"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "memsu mi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "hisnu mi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗam"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "jananiyankooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:16.562240265Z",
+  "model": "glm-5.3"
+}

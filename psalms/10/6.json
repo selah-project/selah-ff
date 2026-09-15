@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i e ɓernde mun: mi ɗaanaaka; e duɓal e duɓal mi waɗataa bone.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "e ɓernde mun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mi ɗaanaaka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "e duɓal"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e duɓal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "e bone"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:15.114313155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Kono aadam e teddungal waɗataa mana, o nanndiraama no be'emooji, ɗi nano mommaa.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "kono aadam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "e teddungal"
+    },
+    {
+      "surface": "בל",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "o nanndiraama"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "no be'emooji"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ɗi nano mommaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:46.428582566Z",
+  "model": "glm-5.3"
+}

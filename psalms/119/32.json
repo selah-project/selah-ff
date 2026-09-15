@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E laawol jamirooje maa ɗen mi dogga, sabu a wowlii yaajde ɓernde am.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jamirooje maa ɗen"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "mi dogga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "a wowlii yaajde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:53.951315151Z",
+  "model": "glm-5.3"
+}

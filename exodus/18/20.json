@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "A waɗtu ⟨את⟩ ɓe cenine ⟨את⟩ sarjiiji ɗin e ⟨את⟩ toraaji ɗin, a hollu ɓe ⟨את⟩ laawol ngol ɓe yahata e maggal, e ⟨את⟩ golle ɗe ɓe mbaɗata.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "A waɗtu ɓe cenine"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarjiiji ɗin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarjiiji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "toraaji ɗin"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "toraaji ɗin"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "a hollu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol ngol"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ɓe yahata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "golle ɗe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "golle ɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ɓe mbaɗata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:05.350465611Z",
+  "model": "glm-5.3"
+}

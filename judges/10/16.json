@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe itti ⟨את⟩ Eloohim janani ɗofti ɓe, ɓe gollinii ⟨את⟩ Yaawe, ruuhu mun heedi e muñal Israyaaji.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ɓe itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim janani"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "janani"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "đofti ɓe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe gollinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "heedi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ruuhu mun"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "e muñal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T06:27:24.664743648Z",
+  "model": "glm-5.3"
+}

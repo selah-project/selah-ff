@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe timminii ⟨את⟩ tokkon mun, o yooki yumre murtere mun, o leeki yiite e Tsiyon, ndi nyami potte mayre.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "timminii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokkon mun"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "tokkon mun"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "yooki"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "yumre"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "murtere mun"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "o leeki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "e Tsiyon"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndi nyami"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "potte mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:00.410603307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Tan e gite maa a ndaaray, e njoɓdi bonɓe a yi'ay.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e gite maa"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ndaaray"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "e njoɓdi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "yi'ay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:07.130631751Z",
+  "model": "glm-5.3"
+}

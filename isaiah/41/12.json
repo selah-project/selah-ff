@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "A ɗaɓɓa ɓe kono a heɓaa ɓe — yimɓe luural maa; ɓe laata no wonaani e no meherewu, yimɓe konu maa.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "a ɗaɓɓa ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "a heɓaa ɓe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "luural maa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɓe laata"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "no wonaani"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "e no meherewu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "konu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:04.416914547Z",
+  "model": "glm-5.3"
+}

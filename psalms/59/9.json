@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Kono a, Yaawe, a jaŋŋkay e maɓɓe; a ñeeñay e leƴƴi ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "a jaŋŋkay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "a ñeeñay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:36.810105408Z",
+  "model": "glm-5.3"
+}

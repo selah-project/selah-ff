@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "O lelni ⟨את⟩ juuɗe makko e makko, o yamiri mo, hono no Yaawe haali e juuɗe Moshe nii.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "o lelni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe makko"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "o yamiri mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:56.045434148Z",
+  "model": "glm-5.3"
+}

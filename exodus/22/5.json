@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si yiite yalti, ndi heɓi ɓuttaaaji, defte gawri walla gawri dariindi walla ngesa ngesaama — yoɓ-yoɓ mo ɓurtini yiite nden, yoɓa no feewi ⟨את⟩ bonnugol ngol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ndi heɓi"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ɓuttaaaji"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ngesaama"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "defte"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "gawri dariindi"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ngesa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "yoɓ-yoɓ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yoɓa"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ɓurtuɗo yiite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonnugol ngol"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "bonnugol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:38.248685123Z",
+  "model": "glm-5.3"
+}

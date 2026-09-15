@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Mi yaajnii juuɗe am ɗiɗe faade e maa; neiɗo am wano leydi haawniindi wanaa maa. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "mi yaajnii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe am ɗiɗe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neiɗo am"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "wano leydi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "haawniindi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wanaa maa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:46.163750393Z",
+  "model": "glm-5.3"
+}

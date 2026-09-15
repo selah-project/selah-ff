@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "A waɗa wutte hoore nden e dow hoore makko, a waɗ ⟨את⟩ sentoore sentiinde nden e dow wutte hoore nden.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "a waɗa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "wutte hoore nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "a waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sentoore sentiinde nden"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "sentoore"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sentiinde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "wutte hoore nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.658102475Z",
+  "model": "glm-5.3"
+}

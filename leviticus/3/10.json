@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "e ⟨את⟩ coso ɓatti ɗiɗo, e ⟨את⟩ duum ɓuri ngol dow maɓɓe, ngo woni dow pingi ɗii, e ⟨את⟩ ɓutti dow ɓerɗe on, dow coso ɓatti ɗiɗo o momoyto ɗum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "coso ɓatti ɗiɗo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "coso ɓatti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duum ɓuri"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duum ɓuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngo woni"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "pingi ɗii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓutti"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ɓutti"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ɓerɗe on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "coso ɓatti"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "o momoyto ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:54.598167143Z",
+  "model": "glm-5.3"
+}

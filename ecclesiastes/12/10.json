@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kohelet ɗaɓɓi yiyde konngi jaɓɓorgol, ko winndaa kadi ko laaɓtuɗi, konngi goonga.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ɗaɓɓi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jaɓɓorgol"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ko winndaa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "laaɓtuɗi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:58.942198162Z",
+  "model": "glm-5.3"
+}

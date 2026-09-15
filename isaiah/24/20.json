@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Tiima, leydi ndin tiimata no meeñuɗo nii, mbaronoo no danngo nii; bonndi mayre teddii e mayre, ɗum yani, ɗum ɓeydataa darorde.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "tiima"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "tiimata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "no meeñuɗo nii"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "mbaronoo"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "no danngo nii"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "teddii"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "bonndi mayre"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ɗum yani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɗum ɓeydataa"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "ɓeydataa"
+    },
+    {
+      "surface": "קום",
+      "gloss": "darorde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:51.805351735Z",
+  "model": "glm-5.3"
+}

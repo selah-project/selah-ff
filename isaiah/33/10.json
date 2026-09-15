@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Jooni mi ummitotoo, wi'i Yaawe; jooni mi toowtay; jooni mi nflotoo hoore-am.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Jooni"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mi ummitotoo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "mi toowtay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "mi nflotoo hoore-am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:50.155546989Z",
+  "model": "glm-5.3"
+}

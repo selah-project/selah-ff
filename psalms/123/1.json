@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 123,
+  "translation": "Natal ɓurtuki. Haade e maaɗa mi ɓallitii ⟨את⟩ gite am, on hoɗɗoɗo e kammuuli.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Natal"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ɓurtuki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "haade e maaɗa"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi ɓallitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "on hoɗɗoɗo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:14.979800150Z",
+  "model": "glm-5.3"
+}

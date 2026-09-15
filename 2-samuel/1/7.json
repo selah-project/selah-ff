@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O waɗii jikku makko caggal makko, o yi'i am, o noddi am, mi wi'i: ɗoo mi woni.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "o waɗii jikku makko"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "caggal makko"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "o yi'i am"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi woni"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:47.441084190Z",
+  "model": "glm-5.3"
+}

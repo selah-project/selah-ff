@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ñaawoore Yaawe darta haa duumi; miijooji ɓernde makko haa jamaagu e jamaagu.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Ñaawoore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "darta"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "miijooji"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "haa jamaagu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e jamaagu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:28.585208706Z",
+  "model": "glm-5.3"
+}

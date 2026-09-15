@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E ñalawma ngol Adonaay ittoy ⟨את⟩ teddingol bannguɗi ɗin, e duɗe hoore ɗen, e lewru-paltooje ɗen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "E ñalawma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ittoy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teddingol bannguɗi ɗin"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "teddingol"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "bannguɗi ɗin"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "e duɗe hoore ɗen"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "e lewru-paltooje ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:56.685936402Z",
+  "model": "glm-5.3"
+}

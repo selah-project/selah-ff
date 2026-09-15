@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Ko honndi mi ɗaɓbitay e Yaawe, fii ko o ɓenni mi fof?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko honndi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mi ɗaɓbitay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fod"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "ko o ɓenni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.462614315Z",
+  "model": "glm-5.3"
+}

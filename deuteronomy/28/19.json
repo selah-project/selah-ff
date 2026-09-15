@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "A ruññinaama so a naatii, a ruññinaama so a yaltii.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ruññinaama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "so a naatii"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "a ruññinaama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "so a yaltii"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:58.532371203Z",
+  "model": "glm-5.3"
+}

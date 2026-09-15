@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O wi'i: Tedduɗo ko Yaawe, Eloohim Israa'iil, mo wi'ii e hoore mum ⟨את⟩ Daawu baaba am, e junngo mun timminii, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Tedduɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'ii"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawu baaba am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "e junngo mun"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "timminii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:37.265348450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sabu hombo mbaawata ñaamde, e hombo mbaawata weltaade, so wonaa ⟨mi⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e hombo"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "welta"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "so wonaa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:13.664733785Z",
+  "model": "glm-5.3"
+}

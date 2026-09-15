@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kono noon Eloohim on naatoy ⟨את⟩ golle ɗen fuu e ñaawoore, dow kala huunde suundiinde, si tawii ko moƴƴu walla si tawii ko bonu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono noon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "naatoy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "huunde suundiinde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si tawii ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla si tawii ko"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:32.949732157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndeen, caggal duuɓi cogguɗi ɗi Shelomoo mahi ⟨את⟩ suudu Yaawe e ⟨את⟩ suudu mun ɗɗi",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "cogguɗi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu mun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:12:41.962183072Z",
+  "model": "glm-5.3"
+}

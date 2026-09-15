@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Yo ɓe nguuñu, ɓe diwu tremor — yo ɓe tiɗtu haa duumi, yo ɓe yooyo, ɓe mutu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ɓe nguuñu"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ɓe tiɗtu"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ɓe yooyo"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ɓe mutu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:48.130597135Z",
+  "model": "glm-5.3"
+}

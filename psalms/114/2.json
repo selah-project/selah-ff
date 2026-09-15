@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Yahuuda laati senaande makko, Israa'iil laati laamu makko.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "laati"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "senaande makko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "laamu makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.610816295Z",
+  "model": "glm-5.3"
+}

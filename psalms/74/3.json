@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Toɓɓin peewnirɗe maaɗa fayde mujjitaaji duumiiɗi ɗin; mbonaaji fuu gaɗo on waɗi ɗum e nder nokku seniido on.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "toɓɓin"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "peewnirɗe maa"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "fayde mujjitaaji"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "duumiiɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mbonaaji waɗi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "gaɗo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "e nder nokku seniido"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:44.019931795Z",
+  "model": "glm-5.3"
+}

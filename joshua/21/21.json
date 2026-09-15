@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ɓe ndokki ⟨את⟩ ɓe ⟨את⟩ wuro majjugol waroowo on, ⟨את⟩ Sikkim e laylaytol mun, e tolno Efrayim, e ⟨את⟩ Gezer e laylaytol mun.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro majjugol waroowo on"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "majjugol"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "waroowo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkim"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikkim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laylaytol mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "laylaytol mun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tolno"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laylaytol mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "laylaytol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:58.047060355Z",
+  "model": "glm-5.3"
+}

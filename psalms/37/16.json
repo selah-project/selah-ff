@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ko famɗi feewɗo on ɓuri moƴƴude nder jawdi keewɗe bonɓe heewɓe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ko moƴƴi \/ ɓuri moƴƴude"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "famɗi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "feewɗo on"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "nder jawdi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:34.138073584Z",
+  "model": "glm-5.3"
+}

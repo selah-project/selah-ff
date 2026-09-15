@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "E Eloohim minen mbaɗay doole; kanko o hanndata ɓe caɗtuɗe amen ɗen.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "E Eloohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "minen mbaɗay"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "hanndata"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ɓe caɗtuɗe amen ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:36.456303682Z",
+  "model": "glm-5.3"
+}

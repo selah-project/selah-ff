@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ŋoreeji ɗi ndiyam mawɗe ɗin uddaama, e cuuɗi kammuuli ɗin uddaama, nden tovo nden dartinaama e kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "uddaama"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "ŋoreeji ɗi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ndiyam mawɗe ɗin"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "e cuuɗi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "dartinaama"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "tovo nden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:32.829468831Z",
+  "model": "glm-5.3"
+}

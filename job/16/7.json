@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kono jooni ⟨O⟩ heewɗinmi; ⟨A⟩ yani kala renndo am.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "⟨O⟩ heewɗinmi"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "⟨A⟩ yani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "renndo am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:47.499763164Z",
+  "model": "glm-5.3"
+}

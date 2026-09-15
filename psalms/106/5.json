@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ngam yi'ide moƴƴere cuɓaaɓe maa, ngam weltude e weltere ngenndi maa, ngam yettude e njiimaandi maa.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'ide"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "cuɓaaɓe maa"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ngam weltude"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "e weltere"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ngenndi maa"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ngam yettude"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "njiimaandi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:49.985254226Z",
+  "model": "glm-5.3"
+}

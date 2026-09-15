@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "O waɗii ⟨את⟩ gootel e Bet-El, kadi ⟨את⟩ gootel o waɗi e Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gootel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kadi ⟨את⟩",
+      "marks": "gootel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "e Dan"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:12.291759790Z",
+  "model": "glm-5.3"
+}

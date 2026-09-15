@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kono gite am gun'aaki e maɓɓe fii yakkitugol maɓɓe, wanaa mi waɗani ⟨את⟩ timmital e jeereende.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "gun'aaki"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "fii yakkitugol maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗani"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "timmital"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "timmital"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:14.396048723Z",
+  "model": "glm-5.3"
+}

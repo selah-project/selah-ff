@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ko wonii tawa o bonii e gooto e ɗee, o jaɓɓorii ko o boni fii mayre.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko wonii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "o bonii"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "e ɗee"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "o jaɓɓorii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o boni"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fii mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:05.010690122Z",
+  "model": "glm-5.3"
+}

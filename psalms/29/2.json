@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ndokkee Yaawe teddungal innde mun, sujjanee Yaawe e nder ñemmbinde senaade.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ndokkee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujjanee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "e nder ñemmbinde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaade"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:32.483951404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "e mbaylaaji maa njokku heen to'on, e wiiñu ɗakkirɗe maa mburdata.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "njokku heen"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "mbaylaaji maa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "to'on"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e wiiñu"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "ɗakkirɗe maa"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "mburdata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:08.336380048Z",
+  "model": "glm-5.3"
+}

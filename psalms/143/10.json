@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Janngin mi waɗde welli maa, sabu ko ⟨aa⟩ woni Eloohim am; Ruuhu maa mo moƴƴi ⟨woni⟩, ardoo mi ⟨e⟩ leydi paltoore.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "janngin mi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "welli maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aa"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Ruuhu maa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "mo moƴƴi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ardoo mi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "paltoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:58.949482086Z",
+  "model": "glm-5.3"
+}

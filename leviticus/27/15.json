@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono si seniindo on yoɓitii ⟨את⟩ galle mun, o ɓeydata jeegomɓi kaalis njoɓdi maa dow mun, nden wooday ko kanko.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "seniindo on"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "yoɓitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle mun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "o ɓeydata"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "jeegomɓi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "njoɓdi maa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nden wooday"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ko kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:32.111759674Z",
+  "model": "glm-5.3"
+}

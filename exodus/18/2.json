@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yitroo, suka-saabu Musa, ƴetti ⟨את⟩ Sippora, debbo Musa, ɓaawo nde o neldi mo wondu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "suka-saabu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Sippora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo nde"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "o neldi mo wondu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:13.309293501Z",
+  "model": "glm-5.3"
+}

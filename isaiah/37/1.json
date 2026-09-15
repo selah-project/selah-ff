@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Nde laamɗo Chizkiyahu nanii ɗum, o yirbi ⟨את⟩ comucci makko, o werli sakk e hoore makko, o naati suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nde o nanii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "o yirbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comucci makko"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comucci makko"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "o werli sakk"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "e hoore makko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:45.158138488Z",
+  "model": "glm-5.3"
+}

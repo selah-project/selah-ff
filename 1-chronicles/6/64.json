@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ Kedemoth e ⟨את⟩ pelle mum ñaawe, e ⟨את⟩ Mefa'at e ⟨את⟩ pelle mum ñaawe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pelle mum ñaawe"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pelle mum ñaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pelle mum ñaawe"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pelle mum ñaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:47.915055007Z",
+  "model": "glm-5.3"
+}

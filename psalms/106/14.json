@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe cuji cujugol nder ladde, ɓe ƴeewti Eel nder Yishiimon.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "ɓe cuji"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "cujugol"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder ladde"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ɓe ƴeewti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nder Yishiimon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.670179774Z",
+  "model": "glm-5.3"
+}

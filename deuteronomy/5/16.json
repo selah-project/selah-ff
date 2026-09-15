@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Teddin ⟨את⟩ baaba maa e ⟨את⟩ yumma maa, no Yaawe Eloohim maa yamiri ma nii, fii balɗe maa juuttoo, e fii moƴƴu waɗu maa e dow leydi ndi Yaawe Eloohim maa hokkata maa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Teddin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba maa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma maa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "yamiri ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "juuttoo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "balɗe maa"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "moƴƴu waɗu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hokkata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:15.569652835Z",
+  "model": "glm-5.3"
+}

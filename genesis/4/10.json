@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: «Ko honno waɗɗunɗaa? Daande ƴiye jeyeede mum miñi maa ina woya e am, ummitiiorde leydi ndin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɗɗunɗaa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ƴiye jeyeede"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ina woya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummitiiorde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:28.318863998Z",
+  "model": "glm-5.3"
+}

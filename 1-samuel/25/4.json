@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Daawuda nano e nder jeereende nde Nabaal woni e piddugol ⟨את⟩ booballa makko.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e nder jeereende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "woni e piddugol"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "booballa makko"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "booballa makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:36.430995497Z",
+  "model": "glm-5.3"
+}

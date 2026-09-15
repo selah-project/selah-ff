@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "e ⟨את⟩ dasaaje sappo ɗen, e ⟨את⟩ lootore sappo dow dasaaje ɗen;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dasaaje sappo ɗen"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dasaaje ɗen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lootore sappo"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "lootore"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "dasaaje ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:00.707795687Z",
+  "model": "glm-5.3"
+}

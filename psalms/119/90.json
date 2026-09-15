@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E jibinannde e jibinannde koolaaɗe maa; a min sosi leydi ndin, nde darii.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "e jibinannde"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e jibinannde"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "koolaaɗe maa"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "a min sosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "nde darii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:01.429710103Z",
+  "model": "glm-5.3"
+}

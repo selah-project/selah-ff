@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kadi ⟨את⟩ purɗe ɗiyyi buzzeeji ɗin o ɓoornini e junngooji makko ɗin e laaɓal daande makko ndee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "purɗe ɗiyyi buzzeeji ɗin"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "purɗe"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ɗiyyi"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "buzzeeji ɗin"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "o ɓoornini"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "junngooji makko ɗin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "daande makko ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:33.849047322Z",
+  "model": "glm-5.3"
+}

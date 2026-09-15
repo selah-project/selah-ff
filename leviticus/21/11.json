@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wanaa o yottora nefusaji maayɗi hay gootel; fii baaba mun e fii yumma mun wanaa o sellinee-ɓooyte.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "say [hay] e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefusaji"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "o yottora"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "fii baaba mun"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "e fii yumma mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o sellinee-ɓooyte"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:42.748058128Z",
+  "model": "glm-5.3"
+}

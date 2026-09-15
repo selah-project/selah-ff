@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "No sehil nii, no mawniido am nii, mi yahiima hoore ; no yo'ooɗo yumma nii, e wullaade mi eewni hoore am.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "no sehil nii"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "no mawniido"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mi yahiima hoore"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "no yo'ooɗo nii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "e wullaade"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "mi eewni hoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:47.782073154Z",
+  "model": "glm-5.3"
+}

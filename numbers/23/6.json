@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O arti e makko, tawi o dariiino heggo njeebungol makko, kanko e ardsuwu ɓurɗi Moabu fuu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "O arti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "o dariiino"
+    },
+    {
+      "surface": "על",
+      "gloss": "heggo"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "njeebungol makko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardsuwu ɓurɗi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:03.858509980Z",
+  "model": "glm-5.3"
+}

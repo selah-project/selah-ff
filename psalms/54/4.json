@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Eloohim, nano du'aaje am; uddu noppi maa to konngi hunare am ɗen.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aaje am"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uddu noppi maa"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "to konngi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "hunare am ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:28.653110528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Jaakob wi'i: “Yeeyu hannde ⟨את⟩ darnde ɓiɗɗo-aranoore maa nden min.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "yeeyu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darnde ɓiɗɗo-aranoore maa nden"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "darnde ɓiɗɗo-aranoore maa nden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:26.201008501Z",
+  "model": "glm-5.3"
+}

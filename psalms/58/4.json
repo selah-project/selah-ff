@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 58,
+  "translation": "Bonɓe ɓen enñorii gila e reedu; ɓe majji gila e nder reedu, wolotooɓe fenaande.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "enñorii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gila e reedu"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ɓe majji"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gila e nder reedu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wolotooɓe"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:35.976840222Z",
+  "model": "glm-5.3"
+}

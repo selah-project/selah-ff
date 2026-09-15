@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓiyum am, so a waɗii cokiral fii seyo maa, a ƴettii junngo maa e leyɗanɗo;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓiyum am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "a waɗii cokiral"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "fii seyo maa"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "a ƴettii junngo"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "e leyɗanɗo"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "junngo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:01.771013242Z",
+  "model": "glm-5.3"
+}

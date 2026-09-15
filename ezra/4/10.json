@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 4:10",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "e keddido leƴƴi ɗin, ɗi Asnapar mawɗo, tedduɗo on, ɓornunoo, o hoɗniti ɓe wuro Shomrayin, e keddido ⟨ɗen⟩ wonɓe kaange laamu, e wakkati on.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "e keddido"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "די",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "ɓornunoo"
+    },
+    {
+      "surface": "אסנפר",
+      "gloss": "Asnapar"
+    },
+    {
+      "surface": "רבא",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "ויקירא",
+      "gloss": "tedduɗo on"
+    },
+    {
+      "surface": "והותב",
+      "gloss": "o hoɗniti"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בקריה",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "די",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "שמרין",
+      "gloss": "Shomrayin"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "e keddido"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kaange"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "e wakkati on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:42:27.220859043Z",
+  "model": "glm-5.3"
+}

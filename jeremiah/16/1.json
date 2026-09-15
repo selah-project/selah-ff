@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Konngol Yaawe arii e am, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:12:27.516278795Z",
+  "model": "glm-5.3"
+}

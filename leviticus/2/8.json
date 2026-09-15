@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɗaño ⟨את⟩ mballa nde waɗetee ɗee-fuu, fii Yaawe; addana nde almuudo on, ɓadtna nde jaŋre nden.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ɗaño"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mballa nde"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mballa nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗetee"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ɗee-fuu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "addana nde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuudo on"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ɓadtna nde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋre nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:24.715827712Z",
+  "model": "glm-5.3"
+}

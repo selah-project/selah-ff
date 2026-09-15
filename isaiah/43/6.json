@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Mi wi'ay to woyla: “Hokku”; to naange-rewo: “Wata haɗtu”; addu ɓiɓɓe am worɓe ɗin diga woɗɗi, e ɓiɗɓe am rewɓe ɗin diga jeere leydi ndin.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "mi wi'ay"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "to woyla"
+    },
+    {
+      "surface": "תני",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "to naange-rewo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "haɗtu"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "addu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe am worɓe"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "diga woɗɗi"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "e ɓiɗɓe am rewɓe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "diga jeere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:43.359732734Z",
+  "model": "glm-5.3"
+}

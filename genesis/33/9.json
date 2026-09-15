@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ndeen Esav wi'i: “Yuwre woodanii mi, banndiraawo am; laatordu ⟨maa⟩ ko ko maa woodi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndeen … wi'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "woodani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yuwre"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "banndiraawo am"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "laatoko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko …"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:59.572141387Z",
+  "model": "glm-5.3"
+}

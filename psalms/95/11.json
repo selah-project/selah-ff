@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Nde mi woɗɗi e tikkere am: ɓe naatataa e deeƴre am.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi woɗɗi"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "e tikkere am"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ɓe naatataa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "deeƴre am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:57.862161045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ɓe taƴi ahdaaji to Beer-Šeeba; Abimelek ummi, e Piikol mawɗo konu mun, ɓe arti e leydi Pelisti'en ɓen.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "ɓe taƴi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdaaji"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "to Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šeeba"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "e Piikol"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "konu mun"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe arti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisti'en ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:55.792123454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "⟨את⟩ Sande seedanteeje nden e ⟨את⟩ paake mun, e ⟨את⟩ Kapporet ɗen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sande seedanteeje nden"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Sande"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seedanteeje nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paake mun"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "paake mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kapporet ɗen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kapporet ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:33.391750871Z",
+  "model": "glm-5.3"
+}

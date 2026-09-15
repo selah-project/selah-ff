@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ndewna-ɗaa ɗum ⟨את⟩ wurooru, ko ɓeytital cusɗi, golle jamparo, melaaɗo, laaɓuɗo, senaare.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ndewna-ɗaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wurooru"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wurooru"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ɓeytital cusɗi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "jamparo"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "melaaɗo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓuɗo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaare"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:03.718390392Z",
+  "model": "glm-5.3"
+}

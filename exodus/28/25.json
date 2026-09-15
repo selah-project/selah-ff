@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Kadi ⟨את⟩ ɗooɗi ɗiɗi doggi ɗiɗi ɗii painaaɗi, waɗ-ɗaa ɗi e dow sette ɗiɗi ɗen mode; waɗ-ɗaa kadi ɗum e dow kelte epood on, to yeeso mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗooɗi ɗiɗi ɗii"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ɗooɗi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "doggi painaaɗi ɗii"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waɗ-ɗaa ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "sette ɗen mode"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "waɗ-ɗaa kadi ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "kelte"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epood on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מול",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:11.495506532Z",
+  "model": "glm-5.3"
+}

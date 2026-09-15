@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Nde baabiraaɓe mon ɗon njarri mi, ɗon ndaarii mi, kadi ɓe yi'i golle am.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ɓon njarri mi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ɗon ndaarii mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "golle am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:57.861199444Z",
+  "model": "glm-5.3"
+}

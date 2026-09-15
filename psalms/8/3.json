@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E daande cukalelɗi e muusaaɓe a sosi semmbe, fii ayɓe maa, ngaa muumtu ayfoowo e ɓaddoowo.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "cukalelɗi"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "e muusaaɓe"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "a sosi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "semmbe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ayɓe maa"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ngaa muumtu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ayfoowo"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "e ɓaddoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:16.880231680Z",
+  "model": "glm-5.3"
+}

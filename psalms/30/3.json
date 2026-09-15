@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yaawe Eloohim am, mi noddunoo maa, a sellini-mi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mi noddunoo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "a sellini-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:55.924858958Z",
+  "model": "glm-5.3"
+}

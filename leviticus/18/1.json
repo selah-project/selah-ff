@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe haalani Muusaa, wiyu ɗum ﹘",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:44.163454256Z",
+  "model": "glm-5.3"
+}

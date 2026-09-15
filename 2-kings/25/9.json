@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "O ƴoƴi ⟨את⟩ suudu Yaawe e ⟨את⟩ suudu laamɗo on e ⟨את⟩ cuuɗi Yerushalayim fuu; kala ⟨את⟩ suudu mawndu o ƴoƴi nder yiite.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "o ƴoƴi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "cuuɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawndu"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o ƴoƴi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nder yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:58.178418032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Mi ruttirtay ⟨את⟩ ruttaare Yahuuda e ⟨את⟩ ruttaare Israa'iila, mi mahirta ɓe no e arannde.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "mi ruttirtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruttaare Yahuuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ruttaare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ruttaare Israa'iila"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ruttaare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "mi mahirta ɓe"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "no e arannde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:14.459611567Z",
+  "model": "glm-5.3"
+}

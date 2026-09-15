@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "⟨את⟩ ñaawoore am ɗe mbaɗu, ⟨את⟩ sariiji am ɗen reenu, ngam yahde e maɓɓe: mi ko mi Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore am"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ɗe mbaɗu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sariiji am"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sariiji am"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ɗen reenu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:44.164609501Z",
+  "model": "glm-5.3"
+}

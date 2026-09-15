@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Almaamo on yi'a ⟨את⟩ mo, e tawa-a ummoraare ñaawu on danewo boɗeejo-boɗeejo e hoore-welɗo ɓaawo mun walla e hoore-welɗo yeeso mun, no nanndiri sara'at e daro yierso.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "yi'a"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaamo on"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e tawa-a"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ummoraare"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ñaawu on"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "danewo"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "boɗeejo-boɗeejo"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "e hoore-welɗo ɓaawo mun"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "e hoore-welɗo yeeso mun"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "no nanndiri"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "sara'at"
+    },
+    {
+      "surface": "עור",
+      "gloss": "daro"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "yierso"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:33.466118589Z",
+  "model": "glm-5.3"
+}

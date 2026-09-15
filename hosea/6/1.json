@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Aru, mballu min ngartu to Yaawe, kono o windinii min, o mballay min; o fi'i min, o ɓooyay min.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "mballu min ngartu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "windinii min"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "o mballay min"
+    },
+    {
+      "surface": "יך",
+      "gloss": "o fi'i min"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "o ɓooyay min"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:29.613356203Z",
+  "model": "glm-5.3"
+}

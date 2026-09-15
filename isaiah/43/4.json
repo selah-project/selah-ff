@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Sabu nde laatike njanngu e gite Am, nde laatike tedduɗo, kadi mi mo'i maa; mawni mi rokkay yimɓe nokku maa, e leƴƴi nokku neffe maa.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "sabu nde"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "laatike njanngu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite Am"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "laatike tedduɗo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kadi min"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "mi mo'i maa"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mi rokkay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nokku maa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e leƴƴi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "neffe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:06.241631911Z",
+  "model": "glm-5.3"
+}

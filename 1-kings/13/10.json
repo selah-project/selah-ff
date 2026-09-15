@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O yahi laawol goɗngol, o artiraaka e laawol ngol o ari e ngol to Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗngol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o artiraaka e"
+    },
+    {
+      "surface": "שב",
+      "gloss": "o artiraaka e"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e ngol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:15.991722538Z",
+  "model": "glm-5.3"
+}

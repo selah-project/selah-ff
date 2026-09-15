@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono e Sariya Yaawe welnnde makko woni, e Sariya mun o ƴeewoytotoo ñalnde e jemma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "e Sariya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "welnnde makko"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "e Sariya mun"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ƴeewoytotoo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e jemma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:33.054300795Z",
+  "model": "glm-5.3"
+}

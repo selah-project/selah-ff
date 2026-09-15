@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Wata on lellu ƴule e nder denɗe mon ɗen fuu, ñalnde shabbat ñalnde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "on lellu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ƴule"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "denɗe mon ɗen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat ñalnde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:22.013312878Z",
+  "model": "glm-5.3"
+}

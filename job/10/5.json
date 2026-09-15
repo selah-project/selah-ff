@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɗen wanaa balaaɗe maaɗa ɗen no balaaɗe neɗɗo mumtinteeje nii? walla duuɓi maaɗa no duuɓi gorko nii?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "no balaaɗe ... nii"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neɗɗo mumtinteeje"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "balaaɗe maaɗa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "duuɓi maaɗa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no duuɓi ... nii"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gorko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:06.255168047Z",
+  "model": "glm-5.3"
+}

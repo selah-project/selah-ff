@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Yimɓe ɓen naacfi to ngam ndiyam, yimɓe ɓen bunii dow Mosée, ɓe wi'i: “Ko waawataa ɗum, a warti min wowti Misrayim fii warde ⟨את⟩ min e ⟨את⟩ ɓiɓɓe am e ⟨את⟩ gelooɗi am e naafoor?”",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "naacfi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ngam ndiyam"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "bunii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosée"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko waawataa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đum"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "a warti min wowti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "fii warde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gelooɗi am"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "gelooɗi am"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "e naafoor"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:31.476539270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi tuubi ⟨את⟩ gite am, mi yi'i, e nden min ndaari: gorko gooto ɓoorniiɗo comci lin, fonndaare makko ƴeewndiraama e kecce Oofaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mi tuubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite am"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nden min ndaari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ɓoorniiɗo"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "comci lin"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "fonndaare makko"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ƴeewndiraama"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "e kecce"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Oofaz"
+    }
+  ],
+  "timestamp": "2026-09-14T10:39:29.673543122Z",
+  "model": "glm-5.3"
+}

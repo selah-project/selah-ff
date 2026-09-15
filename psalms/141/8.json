@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "Gila ko e maaɗa, Yaawe, Adonaay, gite am ngoni; e maaɗa mi sampii; wata ɓooyo wonde am nguurndam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gila ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi sampii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ɓooyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:41.735646075Z",
+  "model": "glm-5.3"
+}

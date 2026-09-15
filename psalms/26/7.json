@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Fii nannde daande yettoore ndee, e fii haalde golle maa mawɗe ɗen fow.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "fii nannde"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "yettoore ndee"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "e fii haalde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗen fow"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "golle maa mawɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.150391682Z",
+  "model": "glm-5.3"
+}

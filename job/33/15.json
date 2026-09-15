@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "E àndu, e peeñu jemma, so nebbu wattii e yimɓe, e ɗoñgol e dow leeso;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "e àndu"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "peeñu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "so ... wattii"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "nebbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "e ɗoñgol"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "leeso"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:34.811672548Z",
+  "model": "glm-5.3"
+}

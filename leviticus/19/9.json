@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Tuma nde on irta ⟨את⟩ korol leydi mon, wata a timmirtin keerol ladde maa nden fii irtugol, wata puccere korol maa on puccoto.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "tuma nde on irta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korol"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "korol"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "leydi mon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "a timmirtin"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ladde maa"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "fii irtugol"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "e puccere"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "korol maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "a puccoto"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:13.081029251Z",
+  "model": "glm-5.3"
+}

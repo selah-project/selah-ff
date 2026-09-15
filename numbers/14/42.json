@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Wata ɗon yummy, sabu Yaawe alaa e nder mon, on ruppita ɗo yi'ata konuuli mon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ɗon yummy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "e nder mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "on ruppita"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "yo on ruppita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɗo yi'ata"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "konuuli mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:44:01.970028503Z",
+  "model": "glm-5.3"
+}

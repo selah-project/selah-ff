@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Huccu ko kammuuli ɗin jobo dow, e ɗun ruuɗi ɗin ƴillo tsedek; leydi ndin uddit, welta yeshua, e tsedaka ɓoyna ɗum renndu — miin Yaawe, mi tagi ɗum.",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "huccu jobo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "e ɗun ruuɗi ɗin"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ƴillo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "uddit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "welta"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "yeshua"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e tsedaka"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ɓoyna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "renndu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "mi tagi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-15T06:07:43.495952973Z",
+  "model": "glm-5.3"
+}

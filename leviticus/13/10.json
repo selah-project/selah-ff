@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kohen on yiyata, tawa boo, ina waɗi ɓuuɓri danndu e ƴiiƴam on, nde waɗii ɓerɗe ɗanɗuɗe, e ɓamdi rentundi e nder ɓuuɓri ndin.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "yiyata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen on"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawa boo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "danndu"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "e ƴiiƴam on"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɓerɗe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ɗanɗuɗe"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "ɓamdi rentundi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓamdi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rentundi"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "e nder ɓuuɓri ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:19.274569324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "A jolfo a haala [fenaande] dow mawniiko maa; e ɓiy yumma maa a rokkata ⟨fenaande⟩.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "a jolfo"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "dow mawniiko maa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "a haala [fenaande]"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "e ɓiy"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a rokkata"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:57.226300631Z",
+  "model": "glm-5.3"
+}

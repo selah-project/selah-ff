@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko ɗum waɗi mi woɗɗitinii e suudu Eeli wonde bone suudu Eeli duumaawaawa e sadak maa e dokke haa duumi.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ko ɗum waɗi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi woɗɗitinii"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "duumaawaawa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "e sadak"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "maa e dokke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:00.409604195Z",
+  "model": "glm-5.3"
+}

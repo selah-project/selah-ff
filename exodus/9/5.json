@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe waɗi waktu laɓɓinaandi, o wi'i: “Jaango Yaawe maa waɗ konngol ngol e leydi ndin.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "waktu laɓɓinaandi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jaango"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "maa waɗ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:41.490504343Z",
+  "model": "glm-5.3"
+}

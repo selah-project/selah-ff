@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: 'Duttin junnde maa ɗoo haa ɓalnde maa.' O duttini junnde mun haa ɓalnde mun, o yaltini nde e ɓalnde mun — nde-yi'i, nde artii no ƴi'e mun waɗiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "השב",
+      "gloss": "duttin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junnde maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "ɓalnde maa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o duttini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "ɓalnde mun"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "o yaltini nde"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "e ɓalnde mun"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "nde-yi'i"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "nde artii"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "no ƴi'e mun waɗiri"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:19.875642037Z",
+  "model": "glm-5.3"
+}

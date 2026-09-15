@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kadi e annabiiɓe Shomeron mi yi'i cemmbere; ɓe annabiyaniri Baal, ɓe majjini ⟨את⟩ yimɓe am ⟨את⟩ Jisraa'iil.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "e annabiiɓe"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "cemmbere"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "ɓe annabiyaniri"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "e Baal"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "ɓe majjini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:16:14.827174389Z",
+  "model": "glm-5.3"
+}

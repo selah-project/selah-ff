@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ardam e goongɗiwu maa, janngin am, sabu ko Aɗa Eloohim dimoowo am; e maa ⟨את⟩ miɗo leyda ñalawma fuu.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ardam"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "e goongɗiwu maa"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "janngin am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aɗa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "dimoowo am"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "e maa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "miɗo leyda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:16.957762950Z",
+  "model": "glm-5.3"
+}

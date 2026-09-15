@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Muurdu ⟨את⟩ alluure purngol ngol e ⟨את⟩ denndaangal kuufe mun, ceninitu ⟨את⟩ alluure nden; alluure nden ⟨wona⟩ ceniiɗum ceniiɗe.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Muurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alluure purngol ngol"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alluure"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "purngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "denndaangal"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuufe mun"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ceninitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alluure nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alluure nden"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alluure nden"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ceniiɗum"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ceniiɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:51.442147762Z",
+  "model": "glm-5.3"
+}

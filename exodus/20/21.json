@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yimɓe ɓen darii e woɗɗunde, kono Musaaraa nanngi fewo nibiru nguu, ɗo ⟨wonii⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "e woɗɗunde"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "kono Musaaraa"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nanngi fewo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fewo"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "nibiru nguu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:13.046459817Z",
+  "model": "glm-5.3"
+}

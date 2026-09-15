@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono miin ko mi Yaawe Eloohim maa, ummoriiɗo leydi Misrayim; wonaa si a anndaa Eloohim goo wona miin, e Ballitoowo walaa si wanaa miin.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kono miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummoriiɗo leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "goo wona miin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "a anndaa"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "e Ballitoowo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si wanaa miin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:14.950097427Z",
+  "model": "glm-5.3"
+}

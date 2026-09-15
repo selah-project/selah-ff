@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ko Shadday woni ko min mbaɗata? E ko heɓata min si min mballitii e makko?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "min mbaɗata"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "E ko"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "heɓata min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "min mballitii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:52:30.918972703Z",
+  "model": "glm-5.3"
+}

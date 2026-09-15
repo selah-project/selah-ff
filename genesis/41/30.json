@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "E ngaddu jeeɗi hitaandeje heccu ɓaawo ɗuum, sađaaɗo on fuu faaloyay anndeede e leydi Misrayim, heccu on pawtay ⟨את⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "ngaddu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hitaandeje"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "heccu"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "ɓaawo ɗuum"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "faaloyay anndeede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "sađaaɗo on"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "pawtay"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "heccu on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:13.485522970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E ɓurɗo hesed mbaɗaa hesed; e gorko timmuɗo mbaɗaa timmude.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ɓurɗo hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "mbaɗaa hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmuɗo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "mbaɗaa timmude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:07.943682575Z",
+  "model": "glm-5.3"
+}

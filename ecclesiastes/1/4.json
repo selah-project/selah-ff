@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Dumunbu yahii, dumunbu ari; kono leydi ndin darii duumi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "dumunbu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahii"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "kono dumunbu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kono leydi ndin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "darii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:49.531786141Z",
+  "model": "glm-5.3"
+}

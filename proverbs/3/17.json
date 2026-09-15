@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laawɗi makko ɗin ko laawɗi nefuɗi, denno laabi makko fuu ko selli.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "laawɗi makko ɗin"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawɗi"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "nefuɗi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "denno... fuu"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "laabi makko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "selli"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:08.112776625Z",
+  "model": "glm-5.3"
+}

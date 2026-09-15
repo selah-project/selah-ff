@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "To ɓe ngeddii ⟨את⟩ Awbraahama e ⟨את⟩ Saara debbo mun; to ɓe ngeddii ⟨את⟩ Isaaka e ⟨את⟩ Rebekka debbo mun; to mi ngeddii ⟨את⟩ Leeya.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ɓe ngeddii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awbraahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awbraahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Saara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ɓe ngeddii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Rebekka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebekka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "e to"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "mi ngeddii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leeya"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leeya"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:49.922872014Z",
+  "model": "glm-5.3"
+}

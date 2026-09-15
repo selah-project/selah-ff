@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wanaa konu labbanaande neɗɗo e leydi, no ñalɗi golloowo-njaru njanvu, ko noon ñalɗi makko ɗin?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu-labbetingol"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "no ñalɗi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "golloowo-njaru"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ñalɗi makko ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:12.713955242Z",
+  "model": "glm-5.3"
+}

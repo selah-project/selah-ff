@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 82,
+  "translation": "Haa ñaande nde nji ñaawa tooñnde, e wanngonde bonɓe ɗen nji tolna? Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ñaande nde"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "nji ñaawa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tooñnde"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "e wanngonde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɗen"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "nji tolna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:27.595061545Z",
+  "model": "glm-5.3"
+}

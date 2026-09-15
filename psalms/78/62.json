@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O woppiri yimɓe makko e ñaamo, o humpitii hakke e ndonu makko.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "O woppiri"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "e ndonu makko"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "o humpitii hakke"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:12.371294428Z",
+  "model": "glm-5.3"
+}

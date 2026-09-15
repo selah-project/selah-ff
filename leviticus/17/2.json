@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 17:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Haalu to Aharon e to ɓiɓɓe mun e to ɓiɓɓe Israayiil fuu, wi'u ɓe: Ɗum ko konngol ngol Yaawe amarii, wondude ko:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haalu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'u ɓe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amarii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude ko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:26.347263701Z",
+  "model": "glm-5.3"
+}

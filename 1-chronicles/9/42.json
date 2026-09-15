@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E Axaaz jibini ⟨את⟩ Yaar'a; e Yaar'a jibini ⟨את⟩ Alemet e ⟨את⟩ Azmawet e ⟨את⟩ Zimri; e Zimri jibini ⟨את⟩ Mootsaa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "e Axaaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaar'a"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yaar'a"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "e Yaar'a"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Azmawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "e Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mootsaa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mootsaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:56:55.053758088Z",
+  "model": "glm-5.3"
+}

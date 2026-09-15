@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wata a wirinanko Edomiyanke, sabu ko miñiiko maa woni; wata a wirinanko Misriyanke, sabu ko a wonnoo hoɗoowo nder leydi mun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "a wirinanko"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomiyanke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñiiko maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o woni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "a wirinanko"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Misriyanke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hoɗoowo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "a wonnoo"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "nder leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:11.501066433Z",
+  "model": "glm-5.3"
+}

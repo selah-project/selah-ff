@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E goonga, neɗɗo waasata tan no nate nii; e goonga, meere wanaa ɗi e mbaawka muusɗe; o mooftiri, kono o anndaa hol mo mooftoy ɗum.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "no nate nii"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "waasata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "meere"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "wanaa ɗi e mbaawka muusɗe"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "mooftiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol mo"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "mooftoy ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:37.563200476Z",
+  "model": "glm-5.3"
+}

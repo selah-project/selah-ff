@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kaa tawii a riddii minen no feewi, a sunii e amen haa ɓurti?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tawii"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "a riddii minen"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "a sunii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ɓurti"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:51.117675233Z",
+  "model": "glm-5.3"
+}

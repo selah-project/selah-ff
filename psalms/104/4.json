@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Oo waɗirta nulaaɓe makko hennduuji; ballooɓe makko yiite ɓuutundi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Oo waɗirta"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "nulaaɓe makko"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "hennduuji"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ballooɓe makko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ɓuutundi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:52.597617740Z",
+  "model": "glm-5.3"
+}

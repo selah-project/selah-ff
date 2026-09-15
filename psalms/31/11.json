@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "sabu nguurndam am gasii e muusaa, e duuɓi am e muusaa-yi'annde semmɓe am loppii e junuubam, e ƴi'e am ɓooyii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "e muusaa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "e duuɓi am"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "e muusaa-yi'annde"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "loppii"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "e junuubam"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "semmɓe am"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "e ƴi'e am"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ɓooyii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.735287223Z",
+  "model": "glm-5.3"
+}

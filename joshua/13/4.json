@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "To worgo: denndaangal leydi Kenaʻaniyankooɓe ɓen, e Meʻara wonndu e Sidoniyankooɓe ɓen, haa Afeka, haa e keerol Emoriyankooɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "To worgo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "denndaangal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaʻaniyankooɓe ɓen"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "e Meʻara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonndu"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "e Sidoniyankooɓe ɓen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyankooɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:16:05.421075126Z",
+  "model": "glm-5.3"
+}

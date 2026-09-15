@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 70,
+  "translation": "Ɓe ruttu, pittaaldi hoyre maɓɓe, ɓe ɓe mbiiɗo: “He'aach, he'aach!”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ɓe ruttu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pittaaldi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "njeenaari"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hoyre maɓɓe"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ɓe ɓe mbiiɗo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he'aach"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he'aach"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:07.365293399Z",
+  "model": "glm-5.3"
+}

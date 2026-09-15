@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiyum Sion ena heddii hono suudu kesru e nder wirnude, hono wattorde e nder ladde kuukumbaare, hono wuro ngoɗɗaango.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ena heddii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "hono suudu kesru"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "e nder wirnude"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "hono wattorde"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "e nder ladde kuukumbaare"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "hono wuro"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ngoɗɗaango"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:13.216806485Z",
+  "model": "glm-5.3"
+}

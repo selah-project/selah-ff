@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Gootol Eloohim woltriima; ɗiɗi ɗiɗmii ɗum nganndu-mi: wonde doole ko Eloohim woodi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Gootol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woltriima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nganndu-mi\/nanndu-mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ko Eloohim woodi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:01.460679825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ndeen toɓo ngam laatii dow leydi ndin balɗe cappanɗe nayi e jammaaji cappanɗe nayi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "toɓo ngam"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "cappanɗe nayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e cappanɗe nayi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jammaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:51.031260221Z",
+  "model": "glm-5.3"
+}

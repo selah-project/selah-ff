@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Yettoore wooda Adonaay, ñalawma e ñalawma o ɓeydana min; ⟨Eel⟩ mo cellal amen on. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yettoore wooda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "e ñalawma"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "o ɓeydana min"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "mo cellal amen on"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:55.760924675Z",
+  "model": "glm-5.3"
+}

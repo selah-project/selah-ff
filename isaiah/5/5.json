@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Jooni, toh, mi winndan ⟨את⟩ on ⟨את⟩ ko mi waɗata e ngesa-am inabere: ittude paypo mayre, nden ⟨hona⟩ fii muuñaare; buƴude lesti mayre, nden ⟨hona⟩ fii lelngol-koyɗe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jooni"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "mi winndan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "toh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mi waɗata e ngesa-am inabere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "e ngesa-am inabere"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ittude"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "paypo mayre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nden hona"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "fii muuñaare"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "buƴude"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "lesti mayre"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nden hona"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "fii lelngol-koyɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:43:09.931396509Z",
+  "model": "glm-5.3"
+}

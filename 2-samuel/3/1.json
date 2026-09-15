@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Konu ngun laati juutungu hakkunde suudu Saulu e hakkunde suudu Daawuda; Daawuda yahi haa tiiɗtii, suudu Saulu naahi haa memti.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "laati"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "konu ngun"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "juutungu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Daawuda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "haa tiiɗtii"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "naahi"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "haa memti"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:40.615213798Z",
+  "model": "glm-5.3"
+}

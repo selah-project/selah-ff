@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "e ⟨את⟩ laamɗo fuu Arab, e ⟨את⟩ laamɗo fuu hawruɓe ɓee hoɗɓe e ladde",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laamɗo fuu Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laamɗo fuu hawruɓe ɓee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hawruɓe ɓee"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:09.488511867Z",
+  "model": "glm-5.3"
+}

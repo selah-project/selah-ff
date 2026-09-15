@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe, ko minen woni hoyre yeeso — fii raɓɓe amen, fii arɗoɓe amen e fii baabiraaɓe amen — ɓe bakkiri maa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ko minen"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "fii raɓɓe amen"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "fii arɗoɓe amen"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "e fii baabiraaɓe amen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "bakkiri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:38:40.985455290Z",
+  "model": "glm-5.3"
+}

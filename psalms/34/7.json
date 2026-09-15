@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɗum tooñaaɗo oo noddi, Yaawe nanii, o hisnii mo e caɗe makko fuu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ɗum ... oo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tooñaaɗo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "caɗe makko"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "o hisnii mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:34.948469336Z",
+  "model": "glm-5.3"
+}

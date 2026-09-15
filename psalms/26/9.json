@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Wata renndu muulo am e bakkaatooɓe, wanaa nguurndam am e worɓe ƴiiƴam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "renndu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bakkaatooɓe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "muulo am"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wanaa e"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:20.757366774Z",
+  "model": "glm-5.3"
+}

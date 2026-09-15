@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Lavan wi'i: ɗum ɓuri moƴƴu mi ndokku ⟨את⟩ makko maa, ɓuri ndokkude ⟨את⟩ makko gorko goo; jooɗo e am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɗum ɓuri moƴƴu"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "mi ndokku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "makko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ɓuri ndokkude"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "makko"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goo"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:31.873938483Z",
+  "model": "glm-5.3"
+}

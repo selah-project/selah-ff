@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Eloohim, mawniɓe ndimaasi ummiima e am, e kawral wattooɓe njiilii nefes am, ɓe jalbinaani ma yeeso maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mawniɓe ndimaasi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "e kawral"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "wattooɓe"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "njiilii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ɓe jalbinaani"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "yeeso maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:40.109151913Z",
+  "model": "glm-5.3"
+}

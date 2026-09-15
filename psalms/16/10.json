@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Fii yaa woppaani nefes am fii Seol, yaa waɗaani hasid maaɗa yiyde halkaare.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yaa …aani"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "woppa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes am"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "fii Seol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yaa …aani"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waɗa"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hasid maaɗa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "halkaare"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:21.207572140Z",
+  "model": "glm-5.3"
+}

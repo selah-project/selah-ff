@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Nde laamu ngun woppiri tiiɗde e junngo makko, o fiyi ⟨את⟩ jawɓe makko ɓen ɓe mbayi ⟨את⟩ laamɗo baaba makko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "woppiri tiiɗde"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "laamu ngun"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawɓe makko ɓen"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jawɓe makko"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ɓe mbayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo baaba makko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:08:37.572011676Z",
+  "model": "glm-5.3"
+}

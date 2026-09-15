@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Ko non, e nder sennde nden mi yi'i ⟨Adu⟩, ngam yi'ude doole Maa e teddungal Maa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "e nder sennde nden"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "mi yi'i Adu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'ude"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "doole Maa"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "e teddungal Maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:38.549070391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Mi janŋii Eloohim, mi muusii; mi miijii, ruuhu am ena ronka — Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "mi janŋii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "mi muusii"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi miijii"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ena ronka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:41.361262842Z",
+  "model": "glm-5.3"
+}

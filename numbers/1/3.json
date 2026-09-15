@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɗaɓɓit worɓe duuɓi nooga e ɓeydude, kala yaltuɗo e konu e nder Israa'iila, limtu ɓe e konuji maɓɓe; ko aan e ⟨את⟩ Aaruna.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nooga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ɓeydude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltuɗo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "e konu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e nder Israa'iila"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "limtu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "e konuji maɓɓe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko aan"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aaruna"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:19.730427999Z",
+  "model": "glm-5.3"
+}

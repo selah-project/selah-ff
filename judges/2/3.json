@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi wi'i kadi: mi yaltinataa ⟨את⟩ ɓe yeeso mon; ɓe ngontaa on aynte, Eloohim maɓɓe ngontaa on lanndaana.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "mi yaltinataa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe ngontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "aynte"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɓe ngontaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lanndaana"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:54.257150429Z",
+  "model": "glm-5.3"
+}

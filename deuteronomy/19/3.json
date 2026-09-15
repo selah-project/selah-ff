@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Laabi ɗin cokor maa, taƴa ⟨את⟩ keeri leydi maa ɗi Yaawe Eloohim maa waranti maa, won heen nokkuuji dogorde sabaorɗo fof.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "cokor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "Laabi ɗin"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "taƴa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keeri leydi maa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "keeri"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "waranti maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "won"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "heen dogorde"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nokkuuji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabaorɗo fof"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "sabaorɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:31.212247223Z",
+  "model": "glm-5.3"
+}

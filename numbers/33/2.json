@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Muusaa winndi ⟨את⟩ njaltuki maɓɓe e njahrude maɓɓe, e dow daande Yaawe; ɗee ⟨ko⟩ njahrude maɓɓe e njaltuki maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "winndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njaltuki maɓɓe"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "njaltuki maɓɓe"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "e njahrude maɓɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "e ɗee"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "njahrude maɓɓe"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "e njaltuki maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:25.156888607Z",
+  "model": "glm-5.3"
+}

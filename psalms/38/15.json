@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Mi wonti no neɗɗo mo nano wanaa; e nder hannde mun waɗataa tuddeede.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mi wonti"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "no neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e nder hannde mun"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "tuddeede"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:25.264611577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yimɓe leydi ndin fuu cantii, wuro ngo weddii, ɓe warii ⟨את⟩ Atalyaahu e huɗo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "cantii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "weddii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalyaahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyaahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ɓe warii"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e huɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:17:17.898959704Z",
+  "model": "glm-5.3"
+}

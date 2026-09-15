@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Eloohim ƴellitii e wanngo, Yaawe e daande kankonree.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ƴellitii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "e wanngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kankonree"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:36.751844952Z",
+  "model": "glm-5.3"
+}

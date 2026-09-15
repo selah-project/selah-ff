@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nooa ummii e wayway mun, o anndi ⟨את⟩ ko ɓiy mun tokooso oo waɗi mo.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nooa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "wayway mun"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "o anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tokooso oo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:34.671879834Z",
+  "model": "glm-5.3"
+}

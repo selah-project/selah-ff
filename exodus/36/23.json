@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O waɗi ⟨את⟩ bolli ɗin fii Mishkaan on; bolli noogas fii fommbi, to fommbi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolli ɗin"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bolli ɗin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fii Mishkaan on"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bolli"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "fii"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "fommbi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "to fommbi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:33.287855106Z",
+  "model": "glm-5.3"
+}

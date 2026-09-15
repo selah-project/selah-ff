@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Moƴƴere wonaani fii am si mi muñii, nde mi janngata laabi maa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "mi muñii"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "mi janngata"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "laabi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:27.936411837Z",
+  "model": "glm-5.3"
+}

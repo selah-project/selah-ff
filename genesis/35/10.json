@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Eloohim wi'i mo: innde maa ko Yaakov; innde maa wanaa Yaakov goo, kono Israayil wonat innde maa; o wi'i innde mun ⟨את⟩ Israayil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "witete"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so wanaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayil"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonat"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayil"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:24.505272578Z",
+  "model": "glm-5.3"
+}

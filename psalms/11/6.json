@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O wurtinay noɓɓirɗe e bonɓe ɓen — yiite e sulfur — e henndu ɓurnundu; ɗum woni feccere kaas maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "O wurtinay noɓɓirɗe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "noɓɓirɗe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "e sulfur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e henndu"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ɓurnundu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kaas maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:46.189551532Z",
+  "model": "glm-5.3"
+}

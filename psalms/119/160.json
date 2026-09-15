@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Roore wolde maa ko goonga, kala ñaawoore pahallaaku maa heddoto haa abada.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Roore"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "wolde maa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "pahallaaku maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:47:22.329335851Z",
+  "model": "glm-5.3"
+}

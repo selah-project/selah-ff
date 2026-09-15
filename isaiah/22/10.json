@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe limti ⟨את⟩ cuuɗi Yerushalayim, ɓe nguɓɓi cuuɗi ɗin ngam ɓeydude mahe ɗen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi Yerushalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "ɓe limti"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ɓe nguɓɓi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "cuuɗi ɗin"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ngam ɓeydude"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mahe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:23.724382796Z",
+  "model": "glm-5.3"
+}

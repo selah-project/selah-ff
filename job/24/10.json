@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Albaajo ɓe njahi alaa wuddo, heedi ɓe ndewni lakkol.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "albaajo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "wuddo"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "heedi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɓe ndewni"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "lakkol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:14:33.290282473Z",
+  "model": "glm-5.3"
+}

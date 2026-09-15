@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Laban hokki mo ⟨את⟩ Zilpa jeyaaɗo makko, wonande Lea ɓiɗɗo debbo makko, nde wona jeyaaɗo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "jeyaaɗo makko"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɓiɗɗo debbo makko"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "jeyaaɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:52.959603282Z",
+  "model": "glm-5.3"
+}

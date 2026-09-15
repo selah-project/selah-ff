@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓernde am ɓuri ɓuuɓde nder am; e nder mi yeewtuki ɗoo, yiite ɓuri ɓeydaade yahde; mi haali e ɗemngal am.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ɓuri ɓuuɓde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nder am"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "e nder mi yeewtuki ɗoo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ɓuri ɓeydaade yahde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi haali"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "e ɗemngal am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:01.775061897Z",
+  "model": "glm-5.3"
+}

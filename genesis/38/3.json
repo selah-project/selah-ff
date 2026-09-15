@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O heɓi reedu, o wuńńi ɓiɗɗo gorko; o wi'itiri ⟨את⟩ innde mun Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "O heɓi reedu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o wuńńi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o wi'itiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:47.513745022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ɓe naati e woondo ngal fii ƴeewtaade ⟨את⟩ Yaawe, Eloohim baabiraaɓe maɓɓe, e ɓernde maɓɓe fof e neene maɓɓe fof.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ɓe naati"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "e woondo"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "fii ƴeewtaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ɓernde maɓɓe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "neene maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:14:50.260676040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yaawe haalani Muusaa, wiyu",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:22.843255604Z",
+  "model": "glm-5.3"
+}

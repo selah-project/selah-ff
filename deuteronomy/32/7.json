@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Jjitto ñalɗi duuviije ɗin; faammi duuvi jamaanu e jamaanu; naamno baaba maa, o haaylay maa; mawɓe maa, ɓe mbi'a maa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "jjitto"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duuviije ɗin"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "faammi"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "duuvi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jamaanu"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "e jamaanu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "naamno"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "o haaylay maa"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "mawɓe maa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe mbi'a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:42.140030270Z",
+  "model": "glm-5.3"
+}

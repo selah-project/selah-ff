@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kono hay neɗɗo wanaa yeru, hay neɗɗo wanaa ñaawo; sabu yimɓe maa ɓen nanndi e yimɓe ƴaañooɓe almuudo on.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hay neɗɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "yeru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hay neɗɗo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "yimɓe maa ɓen"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "nanndi e yimɓe ƴaañooɓe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "almuudo on"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:58.167402684Z",
+  "model": "glm-5.3"
+}

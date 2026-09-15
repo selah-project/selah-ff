@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Shaul yi'i ⟨את⟩ kaampa Pelisheete'en ɗin, o kulii, ɓernde mun dirtinii no feewi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaampa Pelisheete'en ɗin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kaampa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisheete'en"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o kulii"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "dirtinii"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:08.085431533Z",
+  "model": "glm-5.3"
+}

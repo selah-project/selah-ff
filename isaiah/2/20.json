@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E ñalnde nden aade na wowla ⟨את⟩ mereeji kaalis mun e ⟨את⟩ mereeji kaŋe mun, ɗi ɓe mbaɗi mun ngam suɓɓude, ɗi wowlee e ɗooƴe kuɓƴe ɗen e bobɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "na wowla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mereeji kaalis mun"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mereeji"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "kaalis mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mereeji kaŋe mun"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mereeji"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "kaŋe mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ngam suɓɓude"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "e ɗooƴe"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "kuɓƴe ɗen"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "e bobɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:29.796536771Z",
+  "model": "glm-5.3"
+}

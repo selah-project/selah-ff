@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Naange e lewru darii e nokku mum-en; e laylaytol cucci maa ɗi doolnori; e naawal henndu laanci maa.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "e nokku mum"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "e laylaytol"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "cucci maa"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "doolnori"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "e naawal"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "henndu"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "laanci maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:09:39.432411443Z",
+  "model": "glm-5.3"
+}

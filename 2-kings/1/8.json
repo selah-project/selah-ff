@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe wi'i mo: Gorko joloowo ànnasaaji, o wuddi e waɗde pundu pelle e sunngere mun. O wi'i: Eliyaa Tishbiyanke on ko kanko woni.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Gorko"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "joloowo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ànnasaaji"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "o wuddi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pundu pelle"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "e sunngere mun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyaa"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Tishbiyanke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko woni"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:52.236590061Z",
+  "model": "glm-5.3"
+}

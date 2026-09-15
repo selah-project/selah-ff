@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Neɗɗo waɗata fii hoore mun eloohim? ɗi non, wonaa eloohim.",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii hoore mun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ɗi non"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T08:11:59.179107159Z",
+  "model": "glm-5.3"
+}

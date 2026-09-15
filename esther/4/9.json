@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Hatax ari, o wi'i Ester ⟨את⟩ konngi Mordekay ɗin.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatax"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Mordekay ɗin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:13.949162904Z",
+  "model": "glm-5.3"
+}

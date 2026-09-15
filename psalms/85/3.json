@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "A teddiniri bakkaatire sowtaaɓe maa ɗen, a suddii bakkaaje maɓɓe fuu. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "a teddiniri"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bakkaatire sowtinal"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sowtaaɓe maa ɗen"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "a suddii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "bakkaaje maɓɓe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:47.316395325Z",
+  "model": "glm-5.3"
+}

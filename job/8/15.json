@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O dogni hoore mun e galle mun, o du-mo; o moŋŋi e maggal, o ummo wanaa.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "dogni hoore mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "du-mo"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "moŋŋi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e maggal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ummo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:47.960404753Z",
+  "model": "glm-5.3"
+}

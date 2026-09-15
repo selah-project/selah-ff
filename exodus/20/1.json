@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Eloohim wowli ⟨את⟩ konngi ɗin fof ɗiɗi, wiyude:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:50.027920061Z",
+  "model": "glm-5.3"
+}

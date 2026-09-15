@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Tou, laamɗo Hamat, nanii ko Daawuuda fi'i ⟨את⟩ konu Hadadezer, laamɗo Zoba, nguu fof.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fi'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu Hadadezer nguu fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:48.074708265Z",
+  "model": "glm-5.3"
+}

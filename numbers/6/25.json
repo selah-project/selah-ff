@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe yerlu nyaande makko e hoore maa, o neɗu yurmeende maa.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "yerlu (yaɗnu jalnde) makko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nyaande makko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e hoore maa"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "o neɗu yurmeende maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:08.340015470Z",
+  "model": "glm-5.3"
+}

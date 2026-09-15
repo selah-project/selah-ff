@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kono ɓe nano; ɓe tiiɗni ⟨את⟩ duume mun no duume baabiraaɓe mun ɓen niri, ɓe ɓen ɗi ngoppaali Yaawe Eloohim mun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kono … -aali"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ɓe nano"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ɓe tiiɗni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duume mun"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "duume mun"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "no duume"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓen ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-aali"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ngoppaali"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:17.799385277Z",
+  "model": "glm-5.3"
+}

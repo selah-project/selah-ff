@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Yoosef wi'i to Paroh: chalol Paroh ko wootere; ⟨את⟩ ko Eloohim waɗata o haalanii Paroh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "chalol"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gootere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Eloohim waɗata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "haalanii"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:27.284393091Z",
+  "model": "glm-5.3"
+}

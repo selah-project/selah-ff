@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Teddin ⟨את⟩ baaba maa e ⟨את⟩ yumma maa, fii balɗe maa juuttoo e leydi ndi Yaawe Eloohim maa hoddata ma.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Teddin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba maa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma maa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "juuttoo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "balɗe maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hoddata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:08.391640513Z",
+  "model": "glm-5.3"
+}

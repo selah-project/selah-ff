@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe, e nder baasal ɓe nji'i-ɗaa maa; ɓe pawni wolte jeŋteendu tuma jaggagol maa ngo woni e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e nder baasal"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ɓe nji'i-ɗaa maa"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "ɓe pawni"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "wolte jeŋteendu"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "jaggagol maa ngo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:19.011933641Z",
+  "model": "glm-5.3"
+}

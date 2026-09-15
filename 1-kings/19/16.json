@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "E ⟨את⟩ Yehu ɓiɗɗo Nimshi ɗuññir laamuɗo e dow Israa'iila, e ⟨את⟩ Elisaa ɓiɗɗo Shafat, mo Aabel-Mehoola, ɗuññir anabaajo lomto maa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ɗuññir"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamuɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "Elisaa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Aabel-Mehoola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ɗuññir"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "anabaajo"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "lomto maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:09.284766551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Mi wi'a e rooru nebam am, o wontii yenre e am.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "mi wi'a"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "e rooru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nebam am"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "o wontii"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "yenre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:25.167624425Z",
+  "model": "glm-5.3"
+}

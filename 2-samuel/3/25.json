@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "A anndi ⟨את⟩ Abner ɓiy Neer, wonnde o arii ngam fenaade maa, e ngam anndude ⟨את⟩ yaltugol maa e ⟨את⟩ naatugol maa, e ngam anndude ⟨את⟩ fuu ko a gollotoo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "a anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Neer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ngam fenaade maa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e ngam anndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaltugol maa"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "yaltugol maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "naatugol maa"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "naatugol maa"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "e ngam anndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko a gollotoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gollotoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:14.936580755Z",
+  "model": "glm-5.3"
+}

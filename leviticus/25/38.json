@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Miin Yaawe Eloohim mon, mo ynayteemi mo yaltini mo ⟨את⟩ on e leydi Misrayim, ngam rokkude mo ⟨את⟩ leydi Kenaan, ngam wonude Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "yaltini-mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngam rokkude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wonude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:39.223114894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O feccii koyɗe mun e maɓɓe jemma, kanko e maccuɓe mun, o ƴaañi ɓe, o dewri ɓe haa Hoba, ko ɗum woni nano-hunndu Damascus.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "o feccii koyɗe mun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "e maccuɓe mun"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "o ƴaañi ɓe"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "o dewri ɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Hoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ɗum woni"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "nano-hunndu"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damascus"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:51.886065863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɗee' ɓiɓɓe baaba Etam: Yisreel, e Yishma, e Yidbash; innde miñi mum debbo woni Hatsellelponii.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee'"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yisreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "e Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "e Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "miñi mum debbo"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatsellelponii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:40.829168618Z",
+  "model": "glm-5.3"
+}

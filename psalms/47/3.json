@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Sabu Yaawe Ɓurɗo Toowde ko kulɓiniiɗo, Laamɗo mawɗo dow leydi ndin fof.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɓurɗo Toowde"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kulɓiniiɗo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:26.375412671Z",
+  "model": "glm-5.3"
+}

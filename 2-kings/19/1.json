@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Nde laamɗo Chizkiyahu nanii ɗum, o yirbi ⟨את⟩ comci makko, o suddorii e wutte, o naati e suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde ... nanii"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ndo o nanii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "o yirbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci makko"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comci makko"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "o suddorii"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "e wutte"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:13.323426186Z",
+  "model": "glm-5.3"
+}

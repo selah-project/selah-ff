@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Zabad jibini ⟨את⟩ Eflal, Eflal jibini ⟨את⟩ Oobed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oobed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oobed"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:13.980448978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Ko kanko o mahi ⟨את⟩ damal ɓurngal toowde galle Yaawe, e hoore mahe ɗen ɗe Oofel o mahi ko heewi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko o"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damal ɓurngal toowde"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ɓurngal toowde"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "e hoore mahe"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Oofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ko heewi"
+    }
+  ],
+  "timestamp": "2026-09-14T13:06:17.826053544Z",
+  "model": "glm-5.3"
+}

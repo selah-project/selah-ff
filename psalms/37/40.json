@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Yaawe wallu ɓe, o daɗninta ɓe; o daɗninta ɓe diga tooñooɓe ɓen, o hisninta ɓe, fii ɓe wattii e makko.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Yaawe wallu ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "o daɗninta ɓe"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "o daɗninta ɓe"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "diga tooñooɓe ɓen"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "o hisninta ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ɓe wattii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:14.029420730Z",
+  "model": "glm-5.3"
+}

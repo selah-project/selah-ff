@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "O inniri ⟨את⟩ innde mun Yuusufa, nde o wi'a: \"Yaawe ɓeydanam ɓiɗɗo gorko gooɗɗum.\"",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "o inniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nde o wi'a"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ɓeydu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gooɗɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:54.939011781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 127,
+  "translation": "Yimre ƴamɓe, fii Shelomoo. Si Yaawe taƴataa suudu, majjere ko gollooɓe mum ngollu e mayre; si Yaawe reennaataa saare, majjere ko reenooro oo foojorii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴamɓe"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "fii Shelomoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "taa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "taƴataa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ngollu"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "gollooɓe mun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "taa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "reennaataa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "saare"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "foojorii"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "reenooro oo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:03.916674960Z",
+  "model": "glm-5.3"
+}

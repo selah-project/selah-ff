@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Laawol maa ngol, Yaawe, hollu am; paaɗe maa ɗen, janngin am.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Laawol maa ngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "hollu am"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "paaɗe maa ɗen"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "janngin am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:38.184086793Z",
+  "model": "glm-5.3"
+}

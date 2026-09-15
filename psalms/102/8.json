@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Mi meeñaa mi reentoo, mi wonii hono biddo nayaɗo e dow ƴesere suudu.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "mi meeñaa mi reentoo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mi wonii"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "hono biddo"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "nayaɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ƴesere suudu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.114520245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Kono ko Kanko o momtoyata on e tuubru ƴamowo on, e ñaw ngol bonngi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko Kanko"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "o momtoyata on"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "e tuubru"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ƴamowo on"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "e ñaw ngol"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bonngi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.968286496Z",
+  "model": "glm-5.3"
+}

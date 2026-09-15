@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 49:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "O waɗi haala am no pamaro ɓuuɓɗo nii; e nder gunsol junde makko o suuɗii min; o waɗi min no feccere suɓaande nii; e nder wutte makko piro o suuɗii min.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala am"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "no pamaro nii"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ɓuuɓɗo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e nder gunsol"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junde makko"
+    },
+    {
+      "surface": "החביאני",
+      "gloss": "o suuɗii min"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "o waɗi min"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "no feccere nii"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "suɓaande"
+    },
+    {
+      "surface": "באשפתו",
+      "gloss": "e nder wutte makko piro"
+    },
+    {
+      "surface": "הסתירני",
+      "gloss": "o suuɗii min"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:08.885088913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O momti ⟨את⟩ cuuɗi kefenaaɗi ɗin ɗi ngoni e suudu Yaawe, ɗi rewɓe ɗon ñaajina ton cuuɗi fii Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "o momti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi kefenaaɗi ɗin"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kefenaaɗi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ɗon ñaajina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "fii Ashera"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:30.107897420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Fodon gañoowo am ene mbeltetaa no feewi, ene ngullii no feewi; ɓe ruttoto, ɓe mbeltetaa e jaajol.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mbeltetaa ene"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ngullii ene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fodon"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "gañoowo am"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ruttoto ɓe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mbeltetaa ɓe"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "jaajol e"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:39.119912211Z",
+  "model": "glm-5.3"
+}

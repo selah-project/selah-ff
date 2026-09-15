@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ayɓe maɓɓe ƴiiɓini ɓe, ɓe lesnaama les junnde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ƴiiɓini ɓe"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ayɓe maɓɓe"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ɓe lesnaama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "junnde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:23.419947118Z",
+  "model": "glm-5.3"
+}

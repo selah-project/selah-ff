@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Akkan jaabii ⟨את⟩ Yehoshua, o wi'i: “Goongɗii, mi bonnii e Yaawe, Eloohim Yisraayel, ko nii e ko nii mi waɣi.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "goongɗii"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bonnii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "e ko nii"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɣi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:53.341330860Z",
+  "model": "glm-5.3"
+}

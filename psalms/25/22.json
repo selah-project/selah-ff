@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ferru, Eloohim, ⟨את⟩ Israayiila e caɗee mun fuu.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ferru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiila"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "caɗee mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:06.655512880Z",
+  "model": "glm-5.3"
+}

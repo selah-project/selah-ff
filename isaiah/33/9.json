@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "⟨Leydi ndin⟩ aynii, nden ɓuuɓtii; Lebbanon hersinii, ko momtii; Sharon laadorii no jeere nii; Bashan e Karmel ngaddii ɗi ngalaa puɗi.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "aynii"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ɓuuɓtii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Leydi ndin"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "hersinii"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebbanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "momtii"
+    },
+    {
+      "surface": "היה",
+      "gloss": "laatorii"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "no jeere nii"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ngaddii"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "e Karmel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:50.155257422Z",
+  "model": "glm-5.3"
+}

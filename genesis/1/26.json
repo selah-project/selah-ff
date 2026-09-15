@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 1:26",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen Eloohim wi'i: Ngaɗen tagu aadama e mbaydi amen, no nanndi e amen; arɓe laamu liɗɗi geec ɗin, colli kammuuli ɗin, gummi ɗiin, leydi ndin fuu, e kala faayɗo faayɗo dow leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "Ngaɗen tagu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadama"
+    },
+    {
+      "surface": "בצלמנו",
+      "gloss": "e mbaydi amen"
+    },
+    {
+      "surface": "כדמותנו",
+      "gloss": "no nanndi e amen"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "arɓe laamu"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "liɗɗi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geec ɗin"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "gummi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ko faayi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "faayɗo"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "faayɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:11.810139858Z",
+  "model": "glm-5.3"
+}

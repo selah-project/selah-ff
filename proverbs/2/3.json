@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Een, si a noddoto Bina, a wurtinanaa daande maa fii Tevuna;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Een"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "Bina"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "a noddoto"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "fii Tevuna"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a wurtinanaa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "daande maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:53.874293822Z",
+  "model": "glm-5.3"
+}

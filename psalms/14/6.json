@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Miñiraaɗon peeje ⟨a⟩ ɓiɗɗo ŋakkiraaɗo on, kono Yaawe ko faaburde mun.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "peeje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ɓiɗɗo ŋakkiraaɗo"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "miñiraaɗon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "faaburde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:49.566962317Z",
+  "model": "glm-5.3"
+}

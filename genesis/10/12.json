@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "e ⟨את⟩ Resen hakkunde Niinwe e hakkunde Kalah — ɗum woni wuro mawngo ngol.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "mawngo ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:37.854038954Z",
+  "model": "glm-5.3"
+}

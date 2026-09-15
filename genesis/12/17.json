@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yaawe fiyi ⟨את⟩ Peroh e ɓaaɗe mawɗe, e ⟨את⟩ galle makko, sabu haala Saraay, debbo Awraham.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Peroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ɓaaɗe"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mawɗe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle makko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:07.477762720Z",
+  "model": "glm-5.3"
+}

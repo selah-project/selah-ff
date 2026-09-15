@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nde nyi'ii joofi jiiɓe e ñalɗi cappanɗe nayi, Noaafi udditii ⟨את⟩ henorde keɓal ngal ngal o waɗi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde nyi'ii"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "joofi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "cappanɗe nayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "udditii"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaafi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "henorde keɓal ngal"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "henorde"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "keɓal ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:19.465677895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ Oobal, e ⟨את⟩ Abiimaayel, e ⟨את⟩ Shebaa,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Oobal"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oobal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abiimaayel"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abiimaayel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shebaa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebaa"
+    }
+  ],
+  "timestamp": "2026-09-15T05:44:24.085530965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O wulli ⟨את⟩ almuudo bamawe ɗin fuu ɓe ngonnoo ɗoon dow mbeddaaji ɗin, o loyni ⟨את⟩ ƴiɓe yimɓe dow maɓɓe, o arti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "o wulli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almuudo bamawe ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "almuudo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamawe ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mbeddaaji ɗin"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "o loyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiɓe yimɓe"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o arti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:52.361772410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O neldi piapee makko o senndii ɓe; kadi peeñe keewɗe o bonni ɓe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "piapee makko"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "o senndii ɓe"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "kadi peeñe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "o bonni ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:57.521029177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Ladde nden weltaa e ko woni heen fuu; ndeen lekkuudi jawri ɗen yimnata ɗuuɗundu.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "weltaa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Ladde nden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "woni heen"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "yimnata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗuuɗundu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lekkuudi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "jawri ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:30.701899625Z",
+  "model": "glm-5.3"
+}

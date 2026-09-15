@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ maandeeji mun e ⟨את⟩ golle mun ɗe o waɗi nder Misrayim, e Far'oo laamɗo Misrayim e leydi mun fuu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maandeeji mun"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "maandeeji mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "golle mun"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "golle mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "e Far'oo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:09.077417086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yaawe Eloohim amen tagi konondiro amen to Horeb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "konondiro"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "to Horeb"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:46.899406388Z",
+  "model": "glm-5.3"
+}

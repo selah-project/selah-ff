@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Gilad ko ⟨am⟩, Menashshe ko ⟨am⟩; Efrayim ko damal hoore am; Yahuuda ko ɓataakeeɗo am.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ko am"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "e ko am"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "damal"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ɓataakeeɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:25.829194354Z",
+  "model": "glm-5.3"
+}

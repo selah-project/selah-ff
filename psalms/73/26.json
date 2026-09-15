@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Yoortii yiersu am e ɓernde am; kaaƴre ɓernde am e lottol am ko Eloohim, haa duumi.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Yoortii"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "yiersu am"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "e ɓernde am"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaaƴre"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "e lottol am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:12.929678730Z",
+  "model": "glm-5.3"
+}

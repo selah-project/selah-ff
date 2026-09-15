@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe ngara ñaama ɓeyngu yimɓe am; ɓe etoo pelle mum en ɓe eta; ɓe cippii ⟨את⟩ ɓe cippii; ɓe taƴa no e kaɓirde, no balɗe nder caasal.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ɓe ngara"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ñaama"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ɓeyngu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "pelle mum en"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ɓe etoo"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "ɓe eta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe cippii"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ɓe cippii"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ɓe taƴa"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "no e kaɓirde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "e kaɓirde"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "no balɗe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "caasal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:33.021408156Z",
+  "model": "glm-5.3"
+}

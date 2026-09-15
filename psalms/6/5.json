@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Artu, Yaawe, ndaddan neefu am; hisnu-mi fii hesed maa.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Artu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ndaddan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefu am"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hisnu-mi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:26.911254976Z",
+  "model": "glm-5.3"
+}

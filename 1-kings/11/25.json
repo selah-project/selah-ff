@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O wonii luutooɗo Yisrayeli balɗe Shelomoo fuu, e ɓeydude ⟨את⟩ bonnde nde Hadaad waɗi; o woɗɗi Yisrayeli, o laami dow Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o wonii"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "luutooɗo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "bonnde nde Hadaad waɗi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadaad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "o woɗɗi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "o laami"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:46.733571252Z",
+  "model": "glm-5.3"
+}

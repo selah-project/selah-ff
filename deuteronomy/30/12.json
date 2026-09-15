@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɗum wonaali e kammuuli, ngam mbi'ude: Hommoo ina ƴelloo min faade kammuuli, ƴettan ɗum min, naninin min ⟨את⟩ ndun, min mbaran ɗum?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wonaali"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam mbi'ude"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommoo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ina ƴelloo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "faade kammuuli"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ƴettan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "naninin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndun"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "min mbaran ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:24.393300011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 93,
+  "translation": "Yaawe laamiima; teddungal ⟨o⟩ fooɓorii; Yaawe fooɓorii semmbe, ⟨o⟩ sokli hoore mun; kadi dunu nguu deristaama, ngam ⟨hi⟩ tuubataa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "fooɓorii"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "fooɓorii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "semmbe"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "sokli"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "deristaama"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tuubataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:21.281479233Z",
+  "model": "glm-5.3"
+}

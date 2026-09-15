@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 41:13",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "O ɓeydi limtude ⟨את⟩ suudu ndin — njuuteendi mum teemedere ammaaji; e nokku ceertuɗo on e mahdi ndin e dame mayre — njuuteendi teemedere ammaaji.",
+  "tokens": [
+    {
+      "surface": "ומדד",
+      "gloss": "o ɓeydi limtude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ndin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndin"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "njuuteendi mum"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "e nokku ceertuɗo on"
+    },
+    {
+      "surface": "והבניה",
+      "gloss": "e mahdi ndin"
+    },
+    {
+      "surface": "וקירותיה",
+      "gloss": "e dame mayre"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "njuuteendi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T08:53:11.828720840Z",
+  "model": "glm-5.3"
+}

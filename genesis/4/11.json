@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "«Ndeen jooni, on dolnanaama, iwde e leydi ndin nde udditi ⟨את⟩ muntere mum ngam jogaade ⟨את⟩ ƴiye jeyeede miñi maa e junngo maa.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndeen jooni"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "dolnanaama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iwde e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muntere mum"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "muntere mum"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ngam jogaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiye jeyeede miñi maa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ƴiye jeyeede"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "e junngo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:28.319278714Z",
+  "model": "glm-5.3"
+}

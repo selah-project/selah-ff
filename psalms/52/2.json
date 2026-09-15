@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Nde Do'eg Edomitayanke on ari, o winndi Saawuul, o wi'i mo: «Daawuuda arii e nder suudu Aḥimelek.»",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nde ... ari"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Do'eg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomitayanke on"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o winndi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saawuul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aḥimelek"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:32.756527675Z",
+  "model": "glm-5.3"
+}

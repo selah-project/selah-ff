@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Nde bonɓe ɓe ɗooɓti, bonannde ɗooɗɗina; kono hooreeɓe ɓen nganay yitol mun en.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "nde ɓe ɗooɗti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ɗooɗɗina"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "kono hooreeɓe ɓen"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "yitol mun en"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nganay"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:01.538149438Z",
+  "model": "glm-5.3"
+}

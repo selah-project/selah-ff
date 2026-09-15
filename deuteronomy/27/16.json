@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Tokaaɗo mo loowtina baaba mun e yumma mun; e yimɓe ɗin fuu wi'ay: Aamiin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tokaaɗo"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "mo loowtina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e yumma mun"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wi'ay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:43.422752293Z",
+  "model": "glm-5.3"
+}

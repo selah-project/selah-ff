@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "E ruttagol hitaande nden laamɗo Nebukadnesar neldi mo, o naatni mo Babilon, e kaɓirɗe jawɗirɗe suudu Yaawe; o waɗiri ⟨את⟩ Sidkiyaahu miñiiko mun laamɗo dow Yahuuda e Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "e ruttagol"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande nden"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "o naatni mo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "jawɗirɗe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "o waɗiri laamɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidkiyaahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyaahu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:27:55.464229812Z",
+  "model": "glm-5.3"
+}

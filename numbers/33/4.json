@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Misrayim enaa ina ngidda ⟨את⟩ ɓe Yaawe fiyi nder maɓɓe, kala ɓiɗɗo aranoowo; e dow rewɓe maɓɓe kadi Yaawe waɗi ñaawoore.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "enaa ina ngidda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe Yaawe fiyi nder maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nder maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ɓiɗɗo aranoowo"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "e dow rewɓe maɓɓe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:25.157551215Z",
+  "model": "glm-5.3"
+}

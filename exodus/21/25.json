@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "luure boddere luure, ndiima boddere ndiima, ɓuuɓnaare boddere ɓuuɓnaare.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "luure"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boddere"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "luure"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ndiima"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boddere"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ndiima"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ɓuuɓnaare"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boddere"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ɓuuɓnaare"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:21.304281266Z",
+  "model": "glm-5.3"
+}

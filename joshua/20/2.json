@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Haalan ɓiɓɓe Israa'iil wiyu: Waɗanon hoore mon ⟨את⟩ cuuɗorɗe asil ɗen ɗe mi haalani on jude Mooses.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Waɗanon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗorɗe asil ɗen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cuuɗorɗe"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "asil ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi haalani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jude"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooses"
+    }
+  ],
+  "timestamp": "2026-09-15T05:48:39.019985297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E ⟨את⟩ ɓiɓɓe mum ɗiɗo ɓen, ɗo inniraa gooto ɓen Gereshom, sabu o wi'i: mi woniino hoɗɓe e leydi janana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe ɗiɗo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ɓiɓɓe mum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "inniraa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto ɓen"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi woniino"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "janana"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:13.309536200Z",
+  "model": "glm-5.3"
+}

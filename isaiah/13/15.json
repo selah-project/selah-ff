@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kala topattanaaɗo paŋŋinaama, kala kawraaɗo heen yi'ata les kaafaahu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "topattanaaɗo"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "paŋŋinaama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "kawraaɗo heen"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yi'ata les"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e kaafaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:11.349960957Z",
+  "model": "glm-5.3"
+}

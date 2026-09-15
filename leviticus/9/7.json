@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mosheh wi'i e Aharon: «Aru to jaɓɓorgo ngoo, waɗ ⟨את⟩ bàkkodinnde maa nden e ⟨את⟩ dujugol maa ngol, hisru maa e yimɓe ɓee; waɗ ⟨את⟩ dokkal yimɓe ɓee, hisru ɓe, no Yaawe tamyiri nii.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaɓɓorgo ngoo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàkkodinnde maa nden"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "bàkkodinnde maa nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dujugol maa ngol"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "dujugol maa ngol"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hisru"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e ... fii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal yimɓe ɓee"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hisru"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "tamyiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:11.832308433Z",
+  "model": "glm-5.3"
+}

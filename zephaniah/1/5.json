@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Wanaa ⟨את⟩ ɓen sujjooɓe dow caɗe ɗen to konu kammuuli ɗin, e ⟨את⟩ ɓen sujjooɓe ɓe mbaɗi kiita e Yaawe, e ɓen ɓe mbaɗi kiita e Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓen sujjooɓe"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ɓen sujjooɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "caɗe ɗen"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "to konu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓen sujjooɓe"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ɓen sujjooɓe"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ɓe mbaɗi kiita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "e ɓen ɓe mbaɗi kiita"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "e Malkam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:12.076556211Z",
+  "model": "glm-5.3"
+}

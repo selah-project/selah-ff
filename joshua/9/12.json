@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ngoo mburu amen ko wundi ndi min potiri ⟨את⟩ ɗum e nder gure amen, ñalnde nde min yalti ngam yahde faade mon'en; ɗum tan jooni, ɗien, ko wuyii, ko wontii druubuɗo-taƴo.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "mburu amen"
+    },
+    {
+      "surface": "חם",
+      "gloss": "wundi"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "min potiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngoo mburu amen"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "e nder gure amen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "min yalti"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "faade mon'en"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ɗum tan jooni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗien"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "wuyii"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wontii"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "druubuɗo-taƴo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:52:30.817938613Z",
+  "model": "glm-5.3"
+}

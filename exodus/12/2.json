@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Lewru ndin wonani on hoore lewruaji; ko nde adannde nde wonani on, e lewruaji hitaande nden.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "lewru ndin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "lewruaji"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "adannde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "e lewruaji"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande nden"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:42.682289466Z",
+  "model": "glm-5.3"
+}

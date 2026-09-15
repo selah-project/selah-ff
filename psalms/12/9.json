@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E saraaji ɗii, bonɓe ɓen njaha-jahaa, tawa ko ŋakkere teddungal ƴelliti hakkunde ɓiɓɓe aadee.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "e saraaji ɗii"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "njaha-jahaa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tawa ko...ƴelliti"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ŋakkere teddungal"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:46.009446557Z",
+  "model": "glm-5.3"
+}

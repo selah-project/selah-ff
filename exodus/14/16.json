@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Aa, toɗɗo ⟨את⟩ palloora maa nden, wowtu ⟨את⟩ junngo maa dow maayo ngoo, seerndu ɗum; ɓiɓɓe Israa'iila naata nder maayo ngoo e leydi woorndi.”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Aa"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "toɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palloora maa nden"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "palloora maa nden"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "wowtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo maa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "seerndu ɗum"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "naata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "e leydi woorndi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:03.414692503Z",
+  "model": "glm-5.3"
+}

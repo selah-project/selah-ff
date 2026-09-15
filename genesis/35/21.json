@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Yisraa'el dilli, o teenti noopaaɗo mun ko ɓuri Migdal-Eder.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "dilli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o teenti"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "noopaaɗo mun"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "ko ɓuri"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:24.814778975Z",
+  "model": "glm-5.3"
+}

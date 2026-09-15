@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E hitaande Tartan arii Ashdod — nde Sargon laamɗo Ashur neldi ⟨את⟩ mo — o haɓi e Ashdod, o nanngi ɗum.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "E hitaande"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nde ... neldi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Sargon)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "e Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "o nanngi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:29.514810811Z",
+  "model": "glm-5.3"
+}

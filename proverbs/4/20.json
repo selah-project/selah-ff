@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓiɗɗo am, ñeewto konnguɗi am; lelnu ndeeƴere maa to konngi am.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɗɗo am"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "to konnguɗi am"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ñeewto"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "to konngi am"
+    },
+    {
+      "surface": "הט",
+      "gloss": "lelnu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ndeeƴere maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:39.276188910Z",
+  "model": "glm-5.3"
+}

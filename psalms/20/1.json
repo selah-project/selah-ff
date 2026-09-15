@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Fii yoowoowo on. Mizmor Daawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowoowo on"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:03.748407813Z",
+  "model": "glm-5.3"
+}

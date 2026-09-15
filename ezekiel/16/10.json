@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mi ɓoorninii ma comci Bordaaji, mi ceŋnii ma buteli Tahash, mi semiɓnini ma e mboddi Shesh, mi cuuranii ma Meshi.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "mi ɓoorninii ma"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "comci Bordaaji"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "mi ceŋnii ma buteli"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahash"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "mi semiɓnini ma"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "e mboddi Shesh"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "mi cuuranii ma"
+    },
+    {
+      "surface": "משי",
+      "gloss": "Meshi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:39:04.789768346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Wata ɗum waɗe: a ɗon yara e nder lolli ngol, e ⟨את⟩ colli ɓaleeji ɗii mi yamirii ɗum ɲamminde maa toon.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Wata ɗum waɗe"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "e nder lolli ngol"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "a ɗon yara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "colli ɓaleeji ɗii"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "colli ɓaleeji ɗii"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi yamirii"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ɲamminde maa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:29.579482750Z",
+  "model": "glm-5.3"
+}

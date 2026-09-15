@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Miinaa gorko on mo a jaŋnata, wondude e Yaah, e Tora maa ɗanndirtaa mo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Miinaa"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "a jaŋnata mo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "e Tora maa"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ɗanndirtaa mo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:08.487490870Z",
+  "model": "glm-5.3"
+}

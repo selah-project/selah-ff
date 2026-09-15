@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe wi'i Shemuwel: “Nano daande yimɓe ɓen, e ko ɓe wi'ata maaɗa; ngam ɓe salii woppude ⟨את⟩ maaɗa, kono ɓe ngopii ⟨את⟩ Mi, wuro Mi laamaaɓe ɓen.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "e ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'ata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maaɗa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe salii woppude"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maaɗa"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ɓe ngopii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Mi"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ɓe ngopii"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "wuro Mi laamaaɓe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:42.480859971Z",
+  "model": "glm-5.3"
+}

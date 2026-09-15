@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Laamɗo on naaɗtinaa e yimɓe ɓen, sabu waylo ngol ariino diga Eloohim, fii Yaawe tabintinira ⟨את⟩ konngol makko ngol o haali e juuɗe Axiya haShiloni faade e Yaravam ɓiy Nevat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "naaɗtinaa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "naaɗti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ariino"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "waylo ngol"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "diga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "tabintinira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol makko"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Axiya"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "haShiloni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:11.346561950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Min ko mawnintinɗo e laaɓɓo-maayde suɓa e cukaagu; mbiymi kulol maa, mi mannii hakke.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "mawnintinɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "e laaɓɓo-maayde"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "suɓa e cukaagu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mbiymi"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "kulol maa"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "mi mannii hakke"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:51.259225614Z",
+  "model": "glm-5.3"
+}

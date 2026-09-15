@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Kono laamɗo on yawtoy e Eloohim; kala fiilotooɗo e Makko himmita; sabu hunnde wafuuji fenre udditete.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kono laamɗo on"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "yawtoy"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "himmita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "fiilotooɗo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e Makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "udditete"
+    },
+    {
+      "surface": "פי",
+      "gloss": "hunnde"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "wafuuji"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:38.910801724Z",
+  "model": "glm-5.3"
+}

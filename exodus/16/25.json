@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Musaa wi'i: Ñaamu ɗum hannde, fii hannde ko shabat ngam Yaawe; hannde on yiyataa ɗum e ladde nden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Ñaamu ɗum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngam Yaawe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "on yiyataa ɗum"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:47.820146065Z",
+  "model": "glm-5.3"
+}

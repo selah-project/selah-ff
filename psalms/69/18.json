@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Wata suuɗu ndaa maaɗa e maccuɗo maaɗa, sabu miɗo sikkitii; jaawa, jaabam.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "suuɗu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ndaa maaɗa"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "e maccuɗo maaɗa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "miɗo sikkitii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "jaawa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaabam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:24.625972926Z",
+  "model": "glm-5.3"
+}

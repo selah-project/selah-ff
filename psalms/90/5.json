@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Werliti-ɗaa ɓe hono ɓullol; ɓe laatii no ɗaanaare; subaka ɓe nanndi e huɗo ngaddante.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "werliti-ɗaa ɓe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ɗaanaare"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɓe laatii"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "hono huɗo"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ngaddante"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:33.908917466Z",
+  "model": "glm-5.3"
+}

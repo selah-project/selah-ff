@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Eli nano ⟨את⟩ daande ɗuumlan ngol, o wi'i: ko nde daande mijoo ngol? Gorko on lelni jaawka, o ari, o werti Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande ɗuumlan ngol"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "ɗuumlan ngol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko nde"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "mijoo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "lelni jaawka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o werti"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:03.432372295Z",
+  "model": "glm-5.3"
+}

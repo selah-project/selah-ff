@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Kono piddagol nguurka mun en ko yeewtere, ngol dartinoo haa duumi.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ko yeewtere"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "piddagol"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nguurka mun en"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ngol dartinoo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:05.947230367Z",
+  "model": "glm-5.3"
+}

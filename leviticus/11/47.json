@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Fii seerndude hakkunde ɓuraango ngoo e laaɓingo ngoo, hakkunde daaba ngu nebbetee e daaba ngu nebbetaake.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "fii seerndude"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ɓuraango ngoo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "laaɓingo ngoo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "daaba ngu"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "nebbetee"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "daaba ngu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nebbetaake"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:53.200905446Z",
+  "model": "glm-5.3"
+}

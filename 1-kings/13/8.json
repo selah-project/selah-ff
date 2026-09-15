@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ndeen neɗɗo Eloohim on wi'i laamɗo on: \"So a danii-mi ⟨את⟩ feccere suudu maa, mi yahaay e maa, mi ñaamaay ñameende, mi yarmaay ndiyam e ɗoon nokku o.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɗum (wi'i)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "danii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feccere suudu maa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "mi yahaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mi ñaamaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "mi yarmaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoon o"
+    }
+  ],
+  "timestamp": "2026-09-15T05:35:50.230417421Z",
+  "model": "glm-5.3"
+}

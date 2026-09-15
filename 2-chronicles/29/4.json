@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "O naatnani ⟨את⟩ sarwaaɓe ɓee e ⟨את⟩ Leviim en ɓee, o moofti ɗum en to laawol fuɗnaange ngol.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "O naatnani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarwaaɓe ɓee"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarwaaɓe ɓee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Leviim en ɓee"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviim en ɓee"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "o moofti ɗum en"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "to laawol"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "fuɗnaange ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T11:23:37.478730521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mi ɓadii e dewboowo nannguɗo; o reeni, o wanni ɓiɗɗo gorko. Yaawe wi'i am: “Noddu innde makko Maaher-Shalal-Hash-Baz.”",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "mi ɓadii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "dewboowo nannguɗo"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o reeni"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o wanni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maaher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:44.890978537Z",
+  "model": "glm-5.3"
+}

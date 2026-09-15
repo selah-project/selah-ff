@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Mosheh mooɓtinii ⟨את⟩ denndaangal dental ɓiɓɓe Israa'iil, o wi'i ɓe: Ɗee konnguɗi ko Yaawe-naamiri yiɗa waɗde ɗi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "mooɓtinii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "denndaangal dental ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "denndaangal"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "dental"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "naamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yiɗa waɗde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗi",
+      "marks": "konnguɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:05.037587198Z",
+  "model": "glm-5.3"
+}

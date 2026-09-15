@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Yuusufa waɗi ⟨את⟩ ɓiɓɓe Israa'iila ⟨את⟩ woondude, wiyude: Eloohim settata on, on ɗaɓɓitan ⟨את⟩ ƴi'e am ɗen diga ɗoo.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "waɗi woondude"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "settata"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "settata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "on ɗaɓɓitan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e am ɗen"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "ƴi'e am ɗen"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "diga ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:01.792194093Z",
+  "model": "glm-5.3"
+}

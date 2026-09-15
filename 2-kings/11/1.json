@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Atalya, yumma Ahasya, yi'i nde ɓiyum maayi; o ummii, o bonni ⟨את⟩ tiindu laamu nguu fuu.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahasya"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "o bonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiindu laamu nguu fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tiindu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "laamu nguu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:08:32.229892007Z",
+  "model": "glm-5.3"
+}

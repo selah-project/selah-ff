@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi itirta ⟨את⟩ innde Baalim ɗen e hoore mum, ɓe nattaa wirneede kadi e innde mum en.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "mi itirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde Baalim ɗen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "innde"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim ɗen"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "e hoore mum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "ɓe nattaa wirneede"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "e innde mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:09.505528218Z",
+  "model": "glm-5.3"
+}

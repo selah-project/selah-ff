@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ɗum bonnii mi no feewi, mi werlii ⟨את⟩ fof kaɓirɗe galle Tobiya baytuɗe, ummoraade e suudu ndun.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "bonnii mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "mi werlii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe fof kaɓirɗe galle Tobiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɓe fof"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobiya"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "baytuɗe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "e suudu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:51:22.832756882Z",
+  "model": "glm-5.3"
+}

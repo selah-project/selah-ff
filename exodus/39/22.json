@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "O waɗii ⟨את⟩ wuddu ndun hapirde ndin, golle jom-wuurngoo, timmuɗe e ɓuuɓol tekhelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddu ndun hapirde ndin"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "wuddu ndun"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "hapirde ndin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle jom-wuurngoo"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "jom-wuurngoo"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "timmuɗe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ɓuuɓol tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:46.770173417Z",
+  "model": "glm-5.3"
+}

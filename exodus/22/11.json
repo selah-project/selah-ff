@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono si sappaa sappraa kaɓirgol ngal e makko, o yoɓata ɗum jeyɗo mun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono si"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "sappaa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "sappraa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o yoɓata"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "jeyɗo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:16.567173451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Si yimɓe leydi ndin cuuɗinii ⟨את⟩ gite maɓɓe e dow neɗɗo on, e sahaa o fooɗata e gimɗo mun ngam Molok, fawaade waasude warde ⟨את⟩ mo —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "cuuɗinde"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ɓe cuuɗinii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite maɓɓe"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "gite maɓɓe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "e sahaa o fooɗata"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "e gimɗo mun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngam Molok"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fawaade waasude"
+    },
+    {
+      "surface": "המית",
+      "gloss": "warde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:10.673107278Z",
+  "model": "glm-5.3"
+}

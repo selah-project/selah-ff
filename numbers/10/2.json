@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Waɗu maa ñaajeeri kaas; golle ñawe waɗ ⟨את⟩ ɗen; ɗen mbaɗata ɗi maa fii nuɗɗitinde renndo ngoo e fii yahrugol kampaaji ɗin ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Waɗu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ñaajeeri"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "kanneeji"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "golle ñawe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗen"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɗen mbaɗata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "fii nuɗɗitinde"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "renndo ngoo"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "e fii yahrugol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaaji ɗin"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "kampaaji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:46.493365833Z",
+  "model": "glm-5.3"
+}

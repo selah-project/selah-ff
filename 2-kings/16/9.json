@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Laamɗo Assur nanii mo; laamɗo Assur ƴetti yoŋde haa Dammasek, nanngi ndun, yimɓe maggal ngummii haa Kiir, Receen kadi o warri ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ƴetti yoŋde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammasek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "nanngi ndun"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ngummii"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "haa Kiir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Receen"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Receen"
+    },
+    {
+      "surface": "המית",
+      "gloss": "o warri ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:35.003266469Z",
+  "model": "glm-5.3"
+}

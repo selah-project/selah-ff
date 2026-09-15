@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Lavira nden, huɓɓiraa ɓalay, wañira comci maa e hoore maa, jippo to palol ngol; wata anndinaaɗo to gorko oo haa o timmini ñaamude e yarde.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "Lavira"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "huɓɓiraa ɓalay"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "wañira"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "comci maa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e hoore maa"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "jippo"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "to palol ngol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "anndinaaɗo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to gorko oo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "o timmini"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ñaamude"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "e yarde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:55:35.435075786Z",
+  "model": "glm-5.3"
+}

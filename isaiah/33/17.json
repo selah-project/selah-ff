@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Gite maa ɗen yi'ata laamɗo on e nder ŋore mun, ɓe ndaarata leydi woɗɗundi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "e nder ŋore mun"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "yi'ata"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gite maa ɗen"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ndaarata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "woɗɗundi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:36.713067970Z",
+  "model": "glm-5.3"
+}

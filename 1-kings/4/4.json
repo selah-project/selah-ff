@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "e Benjahu ɓiy Yehojadaa dow konu nguu; e Sadok e Ebjataar, almuudo ɗin.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "e Benjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojadaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "konu nguu"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "e Sadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "e Ebjataar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "almuudo ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:51.784324451Z",
+  "model": "glm-5.3"
+}

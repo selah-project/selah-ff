@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Nde o ñaawaa, yaltu o helaa, du'aawu mun laata heewde bakkaat.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "nde o ñaawaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "o helaa"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "du'aawu mun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "laata"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "heewde bakkaat"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:48.849383536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Mi nattii, mi rowtii no feewi haa ɓurti; mi duumii e daande gonndu e ɓernde am.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "mi nattii"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "mi rowtii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ɓurti no feewi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mi duumii"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "e daande gonndu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:18.231437129Z",
+  "model": "glm-5.3"
+}

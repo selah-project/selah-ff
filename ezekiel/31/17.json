@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 31:17",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Kamɓe kadi, ⟨את⟩ ⟨e makko⟩, naatii Seol, wonde e wattuɓe ergusoode ɗen; ɓe ngonnoo e dingiral mun ɗen jooɗii e les mun, hakkunde leƴƴi ɗin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨e makko⟩",
+      "marks": "kamɓe — maande את e ɗo e huutore maande ɓadiingo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "naatii"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wattuɓe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ergusoode"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "e dingiral mun"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "e les mun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:30:34.890764657Z",
+  "model": "glm-5.3"
+}

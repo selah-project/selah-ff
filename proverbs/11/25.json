@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nafena yettinnde mawnetee; kanko mo ndiyam rokkata, kanko kadi duitee.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nafena"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "yettinnde"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "mawnetee"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "mo ndiyam rokkata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanko kadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "duitee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:17.143662872Z",
+  "model": "glm-5.3"
+}

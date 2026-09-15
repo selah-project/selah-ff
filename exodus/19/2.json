@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɓe ndimmii e Refidiim, ɓe naati e jeereende Siinay, ɓe njooɗii kaŋŋe e jeereende nden; Israa'iil njooɗii to ɗoon, yeeso palare nden.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ɓe ndimmii"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "Refidiim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe naati"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe njooɗii kaŋŋe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende nden"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "o njooɗii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "palare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:15.009994431Z",
+  "model": "glm-5.3"
+}

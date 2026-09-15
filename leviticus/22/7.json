@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "So naange ngu naatii, o laaŋa, ɓaawo ɗuum o ñaamata e nder geddi laaɓɗi ɗii, tawa ko ñaamdu mun ndu ⟨woni⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "naatii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange ngu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "o laaŋa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ɓaawo ɗuum"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ñaamata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "geddi laaɓɗi ɗii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ñaamdu mun ndu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨woni⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:52.803576314Z",
+  "model": "glm-5.3"
+}

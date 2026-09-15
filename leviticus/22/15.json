@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe laaɓtaaney ⟨את⟩ senaaji ɓiɗɓe Israa'iila, ⟨את⟩ ɗi ɓe ɓurtina wonande Yaawe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɓe laaɓtaaney"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "laaɓtaaney"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senaaji ɗin"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "senaaji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɣi"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ɓe ɓurtina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "wonande Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:08.334193728Z",
+  "model": "glm-5.3"
+}

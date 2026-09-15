@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Bonannde baabiraaɓe mun ɗen seedtore Yaawe, kono bakkaat yummu mun on wanaa momtere.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "seedtore"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun ɗen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "kono bakkaat"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yummu mun on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "momtere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:22.849852974Z",
+  "model": "glm-5.3"
+}

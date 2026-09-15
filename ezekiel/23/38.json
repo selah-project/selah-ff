@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kadi ɗoo ɓe mbaɗii kam: ɓe sooli ⟨את⟩ santuwaare am ñalnde nden, kadi ⟨את⟩ sabateeje am ɓe bonni.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ɓe sooli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santuwaare am"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "santuwaare am"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sabateeje am"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "sabateeje am"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ɓe bonni"
+    }
+  ],
+  "timestamp": "2026-09-14T08:44:03.877129538Z",
+  "model": "glm-5.3"
+}

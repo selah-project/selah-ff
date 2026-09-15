@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ndeen liiso on wi'i Boaz: Soodu hoore maa. O ittii kadi sabonde makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "liiso on"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "soodu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "o ittii"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "sabonde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:53.596187581Z",
+  "model": "glm-5.3"
+}

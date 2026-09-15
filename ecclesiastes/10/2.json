@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓernde faamɗo woni to ñaamo mun; kono ɓernde wumɗo to nano mun.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "faamɗo"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "to ñaamo mun"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kono ɓernde"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wumɗo"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "to nano mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:26.558128244Z",
+  "model": "glm-5.3"
+}

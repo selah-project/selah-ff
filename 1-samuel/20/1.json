@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Dawidi dogi e Nawayot e Raama, o ari o wi'i yeeso Yonatan: ko mi waɗi? ko bon an, e ko bakkaat waɗi mi yeeso baaba maa, tawa o moorii ⟨את⟩ nguurndam am?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "o-dogi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Nawayot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "e-Raama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o-ari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o-wi'i"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi-waɗi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "bon-an"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e-ko"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bakkaat-am"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba-maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o-moorii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam-am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:14.293539529Z",
+  "model": "glm-5.3"
+}

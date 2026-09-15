@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O yeñtoto barke diga Yaawe ⟨את⟩, e ñaawoore seddintaaku diga Eloohim daɗndu mun.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "yeñtoto"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barke"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e ñaawoore seddintaaku"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "diga Eloohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "daɗndu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:20.999107455Z",
+  "model": "glm-5.3"
+}

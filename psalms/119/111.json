@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi roni seedeeji maa ɗen haa duumiay, sabu ɗi ⟨ngoni⟩ weltaare ɓernde am.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "mi roni"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "seedeeji maa ɗen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:02.953946421Z",
+  "model": "glm-5.3"
+}

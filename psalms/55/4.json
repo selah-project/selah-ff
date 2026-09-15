@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Sabu daande pendaaɓo on, sabu tooñanngeeji bonɗo on: ɓe mboɗditi bonannde dow am, e tikkere ɓe mbooɗɗiri am.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "sabu daande"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "pendaaɓo on"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu yi'nde (jomle: sabu)"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "tooñanngeeji"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dali"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ɓe mboɗditi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "e tikkere"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ɓe mbooɗɗiri am"
+    }
+  ],
+  "timestamp": "2026-09-15T06:04:41.054853311Z",
+  "model": "glm-5.3"
+}

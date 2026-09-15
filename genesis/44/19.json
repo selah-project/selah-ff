@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Adonaay am naamnoyi ⟨את⟩ jeyaaɓe makko ɓen, wati: Ɗum woodani on baaba walla miñiraaɗo?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "naamnoyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wati"
+    },
+    {
+      "surface": "היש",
+      "gloss": "woodani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אח",
+      "gloss": "miñiraaɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:32.775222983Z",
+  "model": "glm-5.3"
+}

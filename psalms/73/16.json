@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ndeen mi miijanoo ngam anndude ngol, kono ko ⟨ko⟩ wendu woni e gite am.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "e mi miijoo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "wendu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ko ... woni⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:11.949378002Z",
+  "model": "glm-5.3"
+}

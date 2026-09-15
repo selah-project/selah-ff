@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 134,
+  "translation": "Yaawe hiimo barokaa-ma daande Tsiyon, waɗoowo kammuuli ɗin e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "hiimo barokaa-ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "daande Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗoowo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-15T05:52:59.809854877Z",
+  "model": "glm-5.3"
+}

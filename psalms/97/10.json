@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Yo ɓe duɗuɓe Yaawe ɓen njiɓu bonannde; Omo reeni nguurndam moƴƴu-ɓen makko ɓen, Omo hisna ɓe e junngo bonɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ɓe duɗuɓe ... ɓen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "njiɓu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Omo reeni"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "moƴƴu-ɓen makko ɓen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "Omo hisna ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:38.716108426Z",
+  "model": "glm-5.3"
+}

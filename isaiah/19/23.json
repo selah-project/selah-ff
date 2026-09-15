@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "E ñalawma ngun laawol mawnol welay diga Misrayim haa Ashur, Ashur naatay Misrayim, Misrayim kadi naatay Ashur, e Misrayim gollay wondude e Ashur ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "E ñalawma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "welay"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "laawol mawnol"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "diga Misrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "haa Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "naatay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Misrayim kadi"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "naatay Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "gollay wondude"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:13.185004543Z",
+  "model": "glm-5.3"
+}

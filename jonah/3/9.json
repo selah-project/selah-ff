@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Hol ko anndaa? Si Eloohim ruttotoo, moytotoo, kadi ruttoy e tikkere annoore mun — min mbonataa.”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ruttotoo"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "moytotoo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ruttoy"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "tikkere"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "annoore mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "mbonataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:36.783974765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Yaawe laamay jamanuuji fuu, haa duumi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "laamay"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "jamanuuji fuu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:09.569348971Z",
+  "model": "glm-5.3"
+}

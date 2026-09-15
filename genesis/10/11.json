@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E nder ndeen leydi Ashur yalti, o mahi ⟨את⟩ Niinwe e ⟨את⟩ Rehobot-Ir e ⟨את⟩ Kalah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ndeen leydi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niinwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Rehobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kalah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:37.853826884Z",
+  "model": "glm-5.3"
+}

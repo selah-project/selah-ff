@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "nde bàkkere nden ɓ ɓe bàkki e mayre anndaa, jamaa on nawata nagge, ɓiy jawdi, fii bàkkere, ɓe naddi ⟨את⟩ ngal to yeeso teendu kawral ngun.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bàkkere nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ɓe bàkki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ɓe nawata"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaa on"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "fii bàkkere"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ɓe naddi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nagge ngal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teendu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:18.901933698Z",
+  "model": "glm-5.3"
+}

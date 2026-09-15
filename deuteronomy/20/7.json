@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kadi hol neɗɗo woni mo itsini dewgal e debbo o jaɓaani mo? Yo o yah yo o artu to galle makko, wano o maaya e ɗaɓɓitere, neɗɗo gooɗɗo jaɓa mo.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "kadi hol"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "itsini dewgal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "e debbo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "o jaɓaani mo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yo o yah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yo o artu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to galle makko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wano"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maaya"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "e ɗaɓɓitere"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kadi neɗɗo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gooɗɗo"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "jaɓa mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:36.930295999Z",
+  "model": "glm-5.3"
+}

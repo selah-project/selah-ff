@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Mi wawa e maaɗa, a jaabaaka am; mi darorii, a yi'ii am tan.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "mi wawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a jaabaaka"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "am"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "mi darorii"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "a yi'ii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "am tan"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:22.583015322Z",
+  "model": "glm-5.3"
+}

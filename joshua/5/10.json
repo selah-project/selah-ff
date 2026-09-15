@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɓiɓɓe Yisraa'iil ndarni kampaa to Gilgal, ɓe ngaddi ⟨את⟩ Pesach ñalawma nayi caŋte e lewru ndun, jamma, e nder duule Yeriixo.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ndarni kampaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "to Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe ngaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "caŋte"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru ndun"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jamma"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "e nder duule"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriixo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:09:56.285373147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe wi'i: hara mi cuuɗirta Awraham ko mi gollata?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "hara mi cuuɗirta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gollata"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:09.180364672Z",
+  "model": "glm-5.3"
+}

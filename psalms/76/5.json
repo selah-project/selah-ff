@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "Ñaariiɗaa, a teddini, ɗuri tulle ɗe nunngu.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ñaariiɗaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "teddini"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ɗuri tulle ɗe"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nunngu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:08.839101812Z",
+  "model": "glm-5.3"
+}

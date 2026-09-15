@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Bonɗo on yi'ata, o memay; o ñaayittinta ƴiye mun, o hassata; keɓal bonɓe ɓen helay.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Bonɗo on"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yi'ata"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "o memay"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ƴiye mun"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "o ñaayittinta"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "o hassata"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "keɓal"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "helay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:38.893159587Z",
+  "model": "glm-5.3"
+}

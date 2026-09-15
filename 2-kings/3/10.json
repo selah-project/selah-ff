@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo Yisraa'iil wi'i: Eeyoo, sabu Yaawe noddi ɗee laamɓe tato ⟨את⟩ fii rokkude ɓe e juuɗe Moo'aab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Eeyoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ɗee laamɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii rokkude"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe e juuɗe Moo'aab"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moo'aab"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:49.905346843Z",
+  "model": "glm-5.3"
+}

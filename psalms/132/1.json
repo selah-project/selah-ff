@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Yimoore ƴamɓe ɗin. Jopporo, Yaawe, fii Daawuuda ⟨את⟩ caɗe mun ɗen fof.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimoore"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴamɓe ɗin"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Jopporo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caɗe mun ɗen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗen fof"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "caɗe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:31.434165288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Ƴatto, Yaawe, feere foofru maa; a wonii, e sansaŋke doole maa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ƴatto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "feere foofru maa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a wonii"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "e sansaŋke"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "doole maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:21.204001336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "O acci ⟨את⟩ na'i ɗin, o dogi caggel Elašaa; o wi'i: 'Tintin, yurmin am, mballu am ɓoornora baaba am e yumma am, mi yahay caggel maa.' O wi'i mo: 'Yah, artu; ko honno mi waɗi maa?'",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na'i ɗin"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i ɗin"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggel"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elašaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "mballu am ɓoornora"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tintin, yurmin am"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "e yumma am"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "mi yahay"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "caggel maa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "כי",
+      "gloss": ";"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:43.222611333Z",
+  "model": "glm-5.3"
+}

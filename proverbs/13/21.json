@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Bonnde ndee rewindotoo bakkaatooɓe; kono moƴƴere ndee yoobata ⟨את⟩ ñaawuɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "bakkaatooɓe"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "rewindotoo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawuɓe ɓen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ñaawuɓe ɓen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "yoobata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:12.349963556Z",
+  "model": "glm-5.3"
+}

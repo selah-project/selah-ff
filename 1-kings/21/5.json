@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Iizevel debbo makko arii to makko, o wi'i mo: ko woni ɗum, ruuhu maaɗa sunii, wanaa a ñaamata ñaamri?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Iizevel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo makko"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruuhu maaɗa"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "sunii"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "wanaa a"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamri"
+    }
+  ],
+  "timestamp": "2026-09-14T07:25:15.264684878Z",
+  "model": "glm-5.3"
+}

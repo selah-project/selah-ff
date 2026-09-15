@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Abimelek wi'i Yits'aaq: \"Yah din amen, maa a ɓurti amen sembe no feewi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yits'aaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "din amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "a ɓurti ... sembe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:06.915191285Z",
+  "model": "glm-5.3"
+}

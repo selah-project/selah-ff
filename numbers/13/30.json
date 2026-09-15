@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kalev ñaagorii yimɓe ɓen ⟨את⟩ faade e Muusaa, o wi'i: Min ngarto, min mbaray ⟨את⟩ ndi, sabu min ngadata ɗum.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "ñaagorii"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ngarto"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "min ngarto"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "min mbaray"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ngadata"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "min ngadata"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:40:18.573104584Z",
+  "model": "glm-5.3"
+}

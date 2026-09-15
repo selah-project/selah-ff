@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kadi ⟨את⟩ jawe ɗiɗi ɗiɗi ɗoo ɗi ɓe ƴuɓɓunoo diga Yarden ɗin, Yehoshua dariinii ɗi to Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Kadi",
+      "marks": "jawe ɗiɗi ɗiɗi ɗoo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "jawe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ɓe ƴuɓɓunoo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "diga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden ɗin"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dariinii"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "to Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:14.351609958Z",
+  "model": "glm-5.3"
+}

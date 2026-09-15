@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Walla o fooɗa ɓiy, walla o fooɗa ɓiy debbo, no ɗoo ñaawoore nii waɗetee ⟨mo⟩.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "fooɗa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiy debbo"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "fooða"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "no ɗoo ñaawoore nii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗetee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:12.299864838Z",
+  "model": "glm-5.3"
+}

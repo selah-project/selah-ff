@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Akiis goonguuri Daawuuda, o wiyi: o ɓuuɓantii hoore mun e yimɓe mun, e Israa'iil; o wontay jeyaaɗo am haa abada.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "o goonguuri"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiis"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wiyi"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "o ɓuuɓtii"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "o ɓuuɓantii"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "e yimɓe mun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o wontay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "jeyaaɗo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:47.429011598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "No wiyru e ƴi'e am nii, gañooyeeɓe am nena mi, e wi'ude maɓɓe e am ñalnde kala: hol ⟨woni⟩ Eloohim maa?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "no wiyru"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "e ƴi'e am"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ɓe nena mi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "gañooyeeɓe am"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "e wi'ude maɓɓe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:54.256306718Z",
+  "model": "glm-5.3"
+}

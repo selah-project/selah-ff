@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Duuɓi jeegom a fewna gese maa, duuɓi jeegom a taƴa inabbawal maa, ontop a moofta ⟨את⟩ kebbe maggal.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Duuɓi"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "a fewna"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "gese maa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "duuɓi jeegom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "a taƴa"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "inabbawal maa"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ontop a moofta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebbe maggal"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "kebbe maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:01.133804144Z",
+  "model": "glm-5.3"
+}

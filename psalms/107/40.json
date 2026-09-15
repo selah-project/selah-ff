@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "O ɓuuɓnata cuusal dow tedduɓe, O majjini ɓe e diiwal ɗiɗewal, ɗi alaa laawol.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "O ɓuuɓnata"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "cuusal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "tedduɓe"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "O majjini ɓe"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "e diiwal ɗiɗewal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:20.256688869Z",
+  "model": "glm-5.3"
+}

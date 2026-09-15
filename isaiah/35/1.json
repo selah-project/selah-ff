@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Lonndi ndin e leydi woorndi ndin mawnay weltere; saraaji ɗin weltotoo, ƴellitay no lolli nii.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "mawnay weltere"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lonndi ndin"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "e leydi woorndi ndin"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "weltotoo"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "saraaji ɗin"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ƴellitay"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "no lolli nii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:14:37.071061594Z",
+  "model": "glm-5.3"
+}

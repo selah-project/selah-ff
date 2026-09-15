@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "O wi'i: “A yahataa.” Edom yalti ndeewu mun e yimɓe heewɓe e junngo sembe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "a yahataa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ndeewu mun"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sembe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:44:18.458524187Z",
+  "model": "glm-5.3"
+}

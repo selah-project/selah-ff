@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wanaali no fiyde ɓe ngolluɗi mo nii, hono o fiyi mo? Wanaa no warde warɓe makko ɗen nii, o waraa?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "no fiyde ɓe ngolluɗi mo nii"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "fiy-mo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "o fiyi mo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "no warde warɓe makko ɗen nii"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "warɓe makko"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "o waraa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:21.427766178Z",
+  "model": "glm-5.3"
+}

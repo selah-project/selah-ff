@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "E wolde Yaawe kammuuli ɗin tagaama; e ruinu mun hunnde fuu konu mun.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "E wolde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "tagaama"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "e ruinu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mun hunnde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "konu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:11.199962546Z",
+  "model": "glm-5.3"
+}

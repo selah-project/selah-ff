@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Mi yettiday innde Eloohim e jimre, mi mawnintoray mo e yettore.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Mi yettiday"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "e jimre"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "mi mawnintoray mo"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "e yettore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:44.913654208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe ɓeydi ɗoo ñaawde faade e makko, ɓe murti Elyon e jeereende.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "ɓe ɓeydi ɗoo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ñaawde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ɓe murti"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "e jeereende"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:06.036701724Z",
+  "model": "glm-5.3"
+}

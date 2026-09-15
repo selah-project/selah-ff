@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E kala sahaa comci maa ɓuron daneeji, wata nebbam hesa e dow hoore maa.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɓuron"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "comci maa"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "daneeji"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "wata nebbam"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hesa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:07.737281362Z",
+  "model": "glm-5.3"
+}

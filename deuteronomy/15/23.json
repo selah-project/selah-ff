@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Tana hoore, ⟨את⟩ ƴiiƴam mun ñaamaa; hoɗo leydi ndin ƴiɓɓu ɗum no ndiyam nii.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tana hoore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam mun"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaamaa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ñaamde"
+    },
+    {
+      "surface": "על",
+      "gloss": "hoɗo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ƴiɓɓu ɗum"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:16.297769602Z",
+  "model": "glm-5.3"
+}

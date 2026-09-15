@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "E junngo maa ngoo mi hokkoto ruuhu am; a nanngu-ɗaa ⟨את⟩ lam, Yaawe, Eel goongɗido.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "mi hokkoto"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "a nanngu-ɗaa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "lam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goongɗido"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:15.430098983Z",
+  "model": "glm-5.3"
+}

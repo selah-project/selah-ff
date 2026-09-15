@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "E nanngugol e ñaawoore ⟨o majjii⟩; ⟨e⟩ ⟨את⟩ iwdi mun ko faamtata? Sabu o taƴaama e leydi wuurɓe; sabu goopi yimɓe Am ⟨en⟩ ñawaama.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "e nanngugol"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨o majjii⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwdi mun"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "iwdi mun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "faamtata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "taƴaama"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wuurɓe"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "sabu goopi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe Am"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ñawaama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fii maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:23.566442257Z",
+  "model": "glm-5.3"
+}

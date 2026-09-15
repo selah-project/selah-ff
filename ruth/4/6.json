@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ndeen liiso on wi'i: Mi waawaa liisde fii am hoore, wanaa mi bonna ⟨את⟩ ronndagol am; liiso hoore maa ⟨את⟩ liisgol am, sabu mi waawaa liisde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "liiso on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "liisde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mi bonna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ronndagol am"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ronndagol am"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "liiso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a hoore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liisgol am"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "liisgol am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "liisde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:53.595799983Z",
+  "model": "glm-5.3"
+}

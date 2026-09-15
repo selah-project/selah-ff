@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ñalnde kaafaahi e dewal jolnande dow laamordekeeji danndaaɗi ɗin e dow tolli toowɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kaafaahi"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "e dewal jolnande"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "laamordekeeji ɗin"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "danndaaɗi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "tolli ɗin"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "toowɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:10:03.139609187Z",
+  "model": "glm-5.3"
+}

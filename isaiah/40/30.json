@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Murmu murmu-ɓe yahata, sukaɓe ɓe mbaaw-ɓe mujjata, ɓe nuunɗotoo ɓe yooƴata.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "murmu-ɓe yahata"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "sukaɓe ɓe mbaaw-ɓe"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "mujjata"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "ɓe nuunɗotoo"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "yooƴata-ɗi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ɓe yooƴata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:00.727631462Z",
+  "model": "glm-5.3"
+}

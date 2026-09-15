@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 11:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Shaawuulu wi'i: \"Duu'aajo ɗo waawata warde ɗee nyande, fii nyande nden Yaawe waɗii tunnginal ngal e nder Israa'iila.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawuulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "waawata warde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "duu'aajo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ɗee nyande"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nyande nden"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "tunnginal ngal"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e nder Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T06:40:37.934695626Z",
+  "model": "glm-5.3"
+}

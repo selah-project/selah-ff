@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɗaɓɓu mi payaa hay becene tawa mi ƴeewii ⟨e⟩ peraaji maa ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ɗaɓɓu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mi payaa becene"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "tawa mi ƴeewii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... fuu"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "peraaji maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-15T06:04:00.200134946Z",
+  "model": "glm-5.3"
+}

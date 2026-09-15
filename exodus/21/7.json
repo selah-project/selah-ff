@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono si neɗɗo soodi ⟨את⟩ ɓiɗɗo mum debbo fii maccuɗo debbo, o yaltataa no maccuɓe yaltirta.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "soodi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo mum debbo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɓiɗɗo mum debbo"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "fii maccuɗo debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Walaa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o yalta"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "no yaltirta"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "maccuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:52.215254371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Junngo maa heɓay gañɓe maa ɗen fuu; ñaamoowo maa heɓay ɓe njiɗɗaa maa.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "heɓay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ɗen fuu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "gañɓe maa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ñaamoowo maa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "heɓay"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ɓe njiɗɗaa maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:45.502087361Z",
+  "model": "glm-5.3"
+}

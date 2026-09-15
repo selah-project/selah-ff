@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe wi'i yimɓe ɗin: 'Yahƴee, soree ⟨את⟩ saare nden; huɓɓiiɓe ɓee njaha yeeso kiita Yaawe.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "yahƴee"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "soree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saare nden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "saare nden"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "huɓɓiiɓe ɓee"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "njaha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kiita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:36.935970283Z",
+  "model": "glm-5.3"
+}

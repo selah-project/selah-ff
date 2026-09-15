@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Emooɓe ɓen nji'i ɗum, ɓe weltii; on ɗaɓɓooɓe Eloohim — ɓerndi mon nguuɗa.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nji'i ɗum"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "emooɓe ɓen"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ɓe weltii"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "on ɗaɓɓooɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "nguuɗa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓerndi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:18.126038850Z",
+  "model": "glm-5.3"
+}

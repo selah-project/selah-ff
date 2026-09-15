@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Eloohim mo hesed am yahata yeeso am; Eloohim hollitanay am ⟨e ko arata e⟩ gañɓe am.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim mo"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed am"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "yahata yeeso am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "hollitanay am"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "e gañɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:36.812816131Z",
+  "model": "glm-5.3"
+}

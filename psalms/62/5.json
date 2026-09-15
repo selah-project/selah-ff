@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Tan ɗum fii toowgol makko ɓe feewnii yaltinde mo; ɓe weltii e fenaande; e munnde maɓɓe ɓe du'ii, kono e nder ɓernde maɓɓe ɓe ñaama. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tan"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "toowgol makko"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ɓe feewnii"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "yaltinde"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ɓe weltii"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e munnde maɓɓe"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ɓe du'ii"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "kono e nder maɓɓe"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ɓe ñaama"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:12.155811196Z",
+  "model": "glm-5.3"
+}

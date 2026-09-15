@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ɓernde am ina ɓuuɓna konngu laaɓngu; miɗo wi'a golle am fii Laamɗo on; ɗemngal am ⟨woni⟩ binndol winnditoowo jaawngu.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ɓuuɓnii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "laaɓngu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mi wi'a"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle am"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fii Laamɗo on"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemngal am"
+    },
+    {
+      "surface": "עט",
+      "gloss": "binndol"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "winnditoowo"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "jaawngu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:02.316582337Z",
+  "model": "glm-5.3"
+}

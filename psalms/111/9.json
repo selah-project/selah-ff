@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 111,
+  "translation": "Fedam O neldi yimɓe mun; berit mun O ƴami haa duumiayingal; innde mun nden ⟨ko⟩ senndinde e dabbaandu.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "fedam"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "e yimɓe mun"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "O ƴami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiayingal"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "berit mun"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senndinde"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e dabbaandu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:40.624307246Z",
+  "model": "glm-5.3"
+}

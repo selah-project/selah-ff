@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mo juuɗe mun ngoni heen peeje bonɗe, kono juumde maɓɓe heewi payi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "e juuɗe mun"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "peeje bonɗe"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "kono juumde maɓɓe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "heewi"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "payi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:20.757664246Z",
+  "model": "glm-5.3"
+}

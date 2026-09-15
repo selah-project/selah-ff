@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O waɗi ⟨את⟩ gooballi ɗii fii Mishkan on, lekki shittim, dariiɗi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooballi ɗii"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "gooballi ɗii"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fii Mishkan on"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dariiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:21.643620815Z",
+  "model": "glm-5.3"
+}

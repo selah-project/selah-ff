@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O laamiima duuɓi capanɗe nayi e gooto e Yerushalaayim; innde yummo makko ko Ma'aka ɓiɗɗo debbo Abishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "capanɗe nayi"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalaayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yummo makko"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'aka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abishalom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:15.482646765Z",
+  "model": "glm-5.3"
+}

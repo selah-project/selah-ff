@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Worbɓe ɓen nguli ⟨את⟩ Yaawe kulol mawngol, ɓe waɗi sadak Yaawe, ɓe fodani foddeeji.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe nguli"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worbɓe ɓen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mawngol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ɓe waɗi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ɓe fodani"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "foddeeji"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:32.612972221Z",
+  "model": "glm-5.3"
+}

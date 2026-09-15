@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Moshe wi'i suddo mun: sabu ɓiɓɓe leydi ɗin ina njaha am fii ɗaɓɓude Eloohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "suddo mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ina njaha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ɗin"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "fii ɗaɓɓude"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:35.387222648Z",
+  "model": "glm-5.3"
+}

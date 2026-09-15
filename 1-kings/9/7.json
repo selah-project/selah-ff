@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi felliti ⟨את⟩ Israa'iil e daarti leydi ndi mi rokki ɓe; ⟨את⟩ suudu ndu mi laaɓtini fii Innde Am mi yellita ɓe e yeeso Am; Israa'iil laataake tinndinire e wumre e nder yimɓe fuu.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "mi felliti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "daarti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ndu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "mi laaɓtini"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "fii Innde Am"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mi yellita"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso Am"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "laataake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "tinndinire"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "e wumre"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:31.833686258Z",
+  "model": "glm-5.3"
+}

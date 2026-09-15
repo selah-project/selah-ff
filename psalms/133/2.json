@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 133,
+  "translation": "Ndi wanaa no nebam moƴƴam e dow hoore, ngonnata e dow ɗimmu — ɗimmu Aharon — ngonnata e dow werla comci makko ɗin.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "no nebam"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "moƴƴam"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ngonnata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ɗimmu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ɗimmu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ngonnata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "werla"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "comci makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:38.980603285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O ɓeydi kadi, o jibini ɓiɗɗo, o noddi innde mun ⟨את⟩ Shela; o woniino e Keezib nde o jibini ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "o ɓeydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o woniino"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "e Keezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "nde o jibini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:32.466358157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Saul haaliiri Yonatanan ɓiy mum, e kadi golluɓe makko fuu, fii warde ⟨את⟩ Daawuda; kono Yonatanan ɓiy Saul yiɗunoo Daawuda no feewi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haaliiri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e kadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "golluɓe makko"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "fii warde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "kono Yonatanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗunoo"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:32.558374782Z",
+  "model": "glm-5.3"
+}

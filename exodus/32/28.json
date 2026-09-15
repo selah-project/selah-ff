@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ɓiɓɓe Leewi mbaɗi no Mosheh wiiri; e yimɓe ɓen yani ñalnde nden, haknde worɓe ɗuuɗɓe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leewi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no wiiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "haknde"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ɗuuɗɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:46.406378230Z",
+  "model": "glm-5.3"
+}

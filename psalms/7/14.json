@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "O heertinii ⟨→⟩ kuutorɗe maaygol fii mun; piye mun o waɗata ɗum en fooftorɗe.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o heertinii"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maaygol"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "piye mun"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "fooftorɗe"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "o waɗata ɗum en"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:05.190331014Z",
+  "model": "glm-5.3"
+}

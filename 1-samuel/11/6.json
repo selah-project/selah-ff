@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ruuhu Eloohim weenii e Sha'ul nde o nano ⟨את⟩ kelmeuɗe ɗe, ɗoon e ɗoon lewngol mun yoorii no feewi.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "weenii"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "nde o nano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelmeuɗe ɗe"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kelmeuɗe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lewngol mun yoorii"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "lewngol mun yoorii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:55.553702885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Woy ɓe ɓettuɓe galle e galle, ladde e ladde ɓe ɓadtira, haa walaa nokku; on hoɗay ko on tan ⟨e⟩ nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Woy"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "ɓe ɓettuɓe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e galle"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ɓe ɓadtira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "walaa joofnirde"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "on hoɗay"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ko on tan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:43:09.932068013Z",
+  "model": "glm-5.3"
+}

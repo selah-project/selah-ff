@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ko ɓuri moƴƴude ko a wata a hucca, ɓuri nde a hucca kono a wata a heftin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ko ɓuri moƴƴude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata a"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "hucca"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ɓuri nde a hucca kono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata a"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "heftin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:13.304679172Z",
+  "model": "glm-5.3"
+}

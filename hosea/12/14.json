@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E annabii Yaawe yaltini ⟨את⟩ Israa'iil diga Misrayim, e annabii ⟨o⟩ re'aa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "e annabii"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "diga Misrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "e annabii"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "re'aa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:39.168945557Z",
+  "model": "glm-5.3"
+}

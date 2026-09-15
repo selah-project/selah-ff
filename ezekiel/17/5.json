@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 17:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O ƴetti ɓiɗo leydi ndin, o lelni ɗum e nder ladde ɓiɗe, ngam ɗum ƴettude ƴi'e e dow ndiyam keewɗam; o waɗi ɗum no leggesire.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "O ƴetti"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ɓiɗo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "o lelni ɗum"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e nder ladde"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ɓiɗe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ƴettude ƴi'e"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗam"
+    },
+    {
+      "surface": "צפצפה",
+      "gloss": "no leggesire"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o waɗi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:41:24.360734158Z",
+  "model": "glm-5.3"
+}

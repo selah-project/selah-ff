@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Kala nde Mosheh naati yeeso Yaawe fii haalde ⟨את⟩ e Makko, o itti ⟨את⟩ pallol ngol haa o yalti; o yalti o haali e ɓiɓɓe Israa'iil ⟨את⟩ ko Yaawe yamiri mo.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "Kala nde o naati"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "fii haalde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e Makko"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "o itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pallol ngol"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "pallol ngol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe yamiri mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "yamiri"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:24.513512877Z",
+  "model": "glm-5.3"
+}

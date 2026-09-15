@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde wakkati arii ngam hokkude ⟨את⟩ Merab ɓiɗɗo debbo Shaul fii Dawuud, nonde o hokkaama Adriyeel ummoriiɗo Mehola, fii debbo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde ... arii"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "wakkati"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ngam hokkude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuud"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "nonde o"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "hokkaama"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adriyeel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "ummoriiɗo Mehola"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "fii debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:26.342355503Z",
+  "model": "glm-5.3"
+}

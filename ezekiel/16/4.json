@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "⟨את⟩ Jibinannde maa: ñalnde nde a jibinaa, ɗondu maa duraaka, e ndiyam a ɓuuɓnaa fii laaɓal, a ɓeernaaka e soy hay dara, a ɓunnuka junngo hay dara.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Jibinannde maa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "nde a jibinaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ a",
+      "marks": "a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaaka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dura"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ɗondu maa"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaaka"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ɓuuɓnaa"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "fii laaɓal"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "e ɓeernagol soy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaaka"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "ɓeernaaka"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "e ɓunnugol junngo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaaka"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "ɓunnuka"
+    }
+  ],
+  "timestamp": "2026-09-14T08:39:43.201278408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Laamɗo on suuɗii ⟨את⟩ yeeso mun, laamɗo on zaktii daande mawnde: ɓiɗɗo am Abshalom, Abshalom, ɓiɗɗo am, ɓiɗɗo am!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "suuɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso mun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "zaktii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:33.724239379Z",
+  "model": "glm-5.3"
+}

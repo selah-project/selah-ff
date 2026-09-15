@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kono so o ⟨ko⟩ gorko baasɗo, wata ɗaar e dow kabaale makko.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono so"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "baasɗo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ɗaar"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "e dow kabaale makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:38.409058675Z",
+  "model": "glm-5.3"
+}

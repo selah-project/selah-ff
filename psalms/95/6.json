@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Aru, min ñaañu, min ɓennu faade les, min wormu gardii Yaawe, ko kanko tagi min.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "min ñaañu"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "min ɓennu faade les"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "min wormu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gardii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ko kanko tagi min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:14.335190708Z",
+  "model": "glm-5.3"
+}

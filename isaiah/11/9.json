@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ɓe bonnaytaa ɓe halkayta e kuuɓal laamu tago am; sabu leydi ndin heɓa anndal ⟨את⟩ Yaawe, hono no ndiyam ɓuuɓnata maayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ɓe bonnaytaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "ɓe halkayta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kuuɓal"
+    },
+    {
+      "surface": "הר",
+      "gloss": "laamu tago"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "heɓa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "anndal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "hono no ndiyam"
+    },
+    {
+      "surface": "לים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "ɓuuɓnata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:37.465872434Z",
+  "model": "glm-5.3"
+}

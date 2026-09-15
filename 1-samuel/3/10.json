@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe arii, o darii, o noddi no laawol e laawol: “Shemuwel, Shemuwel.” Shemuwel wi'i: “Haalu, sabu jeyɗo-maa nanngo.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "no laawol"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Haalu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanngo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyɗo-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:22.249715076Z",
+  "model": "glm-5.3"
+}

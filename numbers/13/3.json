@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Moshe neldi ⟨את⟩ ɓe ummorii e ladde Paaran, dow haala Yaawe; ɓe fuu ko worɓe, ko ɗien ko hooreeji ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ummorii e ladde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ɓe fuu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɗien ko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:50.939556768Z",
+  "model": "glm-5.3"
+}

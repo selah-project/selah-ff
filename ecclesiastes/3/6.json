@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Waktu ngam yiytude, e waktu ngam majjinde; waktu ngam reende, e waktu ngam ɗaɓɓude.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ngam yiytude"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ngam majjinde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ngam ɗaɓɓude"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:18.061096053Z",
+  "model": "glm-5.3"
+}

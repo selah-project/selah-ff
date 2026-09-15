@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Selah wuuri ɓaawo nde o jibini ⟨את⟩ Eber duuɓi teemedde nay e tati, o jibini ɓiɓɓe worɓe e ɓiɓɓe rewɓe.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nde o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e nay"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e ɓiɓɓe rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:46.316260372Z",
+  "model": "glm-5.3"
+}

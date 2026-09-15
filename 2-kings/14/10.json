@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Pellet, a fiyi ⟨את⟩ Edom, ɓernde maa ɓuri mawnude; ƴeewo teddungal ngal, ñoŋño e nder galle maa; ko fii ko honno a yogortoo e bone, a yoo a lite, a e Yahuuda wondude e maa?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Pellet a fiyi"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "a fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ɓuri mawnude"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ƴeewo teddungal"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ñoŋño"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "e nder galle maa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ko fii ko honno"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "a yogortoo"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "a lite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wondude e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:52.498355271Z",
+  "model": "glm-5.3"
+}

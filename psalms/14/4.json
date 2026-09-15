@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E ɓe anndaa? Fuu gollotooɓe bone ɗon, ñamooɓe yimɓe am ɓe ñaami honno ñaamdu, Yaawe ɓe noddaali.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "E ɓe anndaa?"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Fuu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollotooɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bone ɗon"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ñamooɓe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamdu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe noddaali (alaa)"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "noddu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:46.907540765Z",
+  "model": "glm-5.3"
+}

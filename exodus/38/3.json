@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi ⟨את⟩ kuutorɗe mbedda on fuu: ⟨את⟩ patile ɗen, e ⟨את⟩ ɗaɓɓitirɗe ɗen, e ⟨את⟩ ñiiɓirɗe ɗen, ⟨את⟩ cokooje ɗen e ⟨את⟩ puttirɗe yiite ɗen; kuutorɗe mun fuu o waɗi ɗe njamndi mboɗeeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorɗe mbedda on fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbedda on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patile ɗen"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "patile ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗaɓɓitirɗe ɗen"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ɗaɓɓitirɗe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñiiɓirɗe ɗen"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "ñiiɓirɗe ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cokooje ɗen"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "cokooje ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "puttirɗe yiite ɗen"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "puttirɗe yiite ɗen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe mun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi mboɗeeri"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:24.482739848Z",
+  "model": "glm-5.3"
+}

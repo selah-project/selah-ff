@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Si konngol ngol arii diga e ⟨את⟩ Joomi-mi laamɗo on, a humpitinaa ⟨את⟩ maccuɗo maa on moy yo'e jooɗotoo e dow jappeere Joomi-mi laamɗo on ɓaawo makko?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "diga e ⟨את⟩",
+      "marks": "Joomi-mi laamɗo on"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi-mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa a"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "humpitinaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo maa on"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "maccuɗo maa on"
+    },
+    {
+      "surface": "מי",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗotoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jappeere"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi-mi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo makko"
+    }
+  ],
+  "timestamp": "2026-09-15T07:02:51.228141515Z",
+  "model": "glm-5.3"
+}

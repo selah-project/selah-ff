@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Muurdu ⟨את⟩ sifre nden e ⟨את⟩ reende mum, ceninitu ⟨את⟩ nde.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Muurdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sifre nden"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sifre nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "reende mum"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ceninitu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sifre nden e reende mum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:51.442278380Z",
+  "model": "glm-5.3"
+}

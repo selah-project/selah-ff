@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Fii fippinde ⟨את⟩ balloƴyaaɓe maaɗa fuu kahaa yeeso maaɗa, no Yaawe haaliri nii.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "fippinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balloƴyaaɓe maaɗa fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "balloƴyaaɓe maaɗa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kahaa yeeso maaɗa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaliri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:42.011441834Z",
+  "model": "glm-5.3"
+}

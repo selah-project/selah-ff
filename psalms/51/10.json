@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Ndinndir-mi weltaare e welnugo; ƴeeƴƴi ɗi dakkitiiɗaa ɗin ƴellito.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ndinndir-mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "e welnugo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ƴellito"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴeeƴƴi"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "dakkitiiɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:31.981769982Z",
+  "model": "glm-5.3"
+}

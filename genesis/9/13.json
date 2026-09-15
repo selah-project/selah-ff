@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "⟨את⟩ kasam am mi ñiimi e duume, nden waɗata maandee mballa hakkunde am e hakkunde leydi ndin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasam am"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "kasam am"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi ñiimi"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "e duume"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "nden waɗata"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "maandee"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:59.912163992Z",
+  "model": "glm-5.3"
+}

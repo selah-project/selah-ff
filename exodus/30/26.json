@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Hullu e maggal ⟨את⟩ welendu kawral nden e ⟨את⟩ lastu wataaje nden.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "hullu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e maggal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "welendu kawral nden"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "welendu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lastu wataaje nden"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lastu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "wataaje nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.901111563Z",
+  "model": "glm-5.3"
+}

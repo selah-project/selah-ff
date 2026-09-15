@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Fii a wonaa Eel mo yiɗi reţa; bonre wanaa hoɗa e maaɗa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mo yiɗi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "reţa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a wonaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "hoɗa e maaɗa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:53.246453997Z",
+  "model": "glm-5.3"
+}

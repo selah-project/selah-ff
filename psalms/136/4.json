@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Ñalawma Baawɗo golle mawɗe keertuɗe, gooto tan, sabu hesed mun duumoto haa abada.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ñalawma Baawɗo golle"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "keertuɗe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mawɗe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "gooto tan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:44.269116525Z",
+  "model": "glm-5.3"
+}

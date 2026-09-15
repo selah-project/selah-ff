@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "E caɗe a noddunoo, mi hisnii ma; mi jaabii ma e cuuɗri dungu; mi ƴeewtinii ma to ndiyam Meriiba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "e caɗe"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "a noddunoo"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "mi hisnii ma"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "mi jaabii ma"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e cuuɗri"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "dungu"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "mi ƴeewtinii ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriiba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:16.480875589Z",
+  "model": "glm-5.3"
+}

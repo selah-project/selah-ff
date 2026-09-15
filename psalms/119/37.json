@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Haajtu gite am ɗen woɗde e yiyde sufaaku; e laawol Maa ngol wuurnu am.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "haajtu (wartu woɗde)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am ɗen"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "e yiyde"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sufaaku (ko faalsa)"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "e laawol Maa ngol"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "wuurnu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:35.253199253Z",
+  "model": "glm-5.3"
+}

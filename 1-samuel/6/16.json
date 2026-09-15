@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Aruɓe jowi Palisitinayɓe ɓe yi'i ɗum, ɓe arti Ekron ñalnde nden.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "e jowi"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "aruɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisitinayɓe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe arti"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:08.366726712Z",
+  "model": "glm-5.3"
+}

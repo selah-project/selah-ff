@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O yaltini ⟨את⟩ ham fayde yaajere, o wuujtini ham; tawde o weltiilo e am.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "O yaltini"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "fayde yaajere"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ham"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "o wuujtini ham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o weltiilo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:07:09.349313602Z",
+  "model": "glm-5.3"
+}

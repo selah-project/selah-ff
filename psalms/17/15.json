@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kanko mi, e ñaawoore moƴƴere mi yi'oye yeeso maa; mi heeway heen e nder ummorde, e natte maa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Kanko mi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "e ñaawoore moƴƴere"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "mi yi'oye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "mi heeway heen"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "e nder ummorde"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "e natte maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:14.733494687Z",
+  "model": "glm-5.3"
+}

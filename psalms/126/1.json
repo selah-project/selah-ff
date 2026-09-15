@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 126,
+  "translation": "Yimre ƴiiƴre doguɓe. Tuma Yaawe artirtu ⟨את⟩ artugol Tsiyon, min ngoniima no ɓe peewnutiri nii.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴiiƴre doguɓe"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "tuma … artirtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "artugol Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "artugol"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "min ngoniima"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "no ɓe peewnutiri nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:43.571791846Z",
+  "model": "glm-5.3"
+}

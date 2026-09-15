@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Ɓe ñeeñinii ɗemɗe mun bile no buuba nii; ɓuuɓri paapanaandi woɗɓi les leppi mun. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ɓe ñeeñinii"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ɗemɗe mun"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "buuba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "paapanaandi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "leppi mun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:23.538169472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "E ɓeen duuɓataɓe nji'aani: 'Barke Yaawe mbaron on; men barkinii ⟨את⟩ on e innde Yaawe.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e ... nji'aani"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nji'aani"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ɓeen duuɓataɓe"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mbaron on"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "men barkinii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:18.966839582Z",
+  "model": "glm-5.3"
+}

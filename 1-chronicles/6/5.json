@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Fii Gereshom: Libni ɓiy mun, Yaḥat ɓiy mun, Zimma ɓiy mun;",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "fii Gereshom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yaḥat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:26.906704452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Wata a warbu e chamets ƴiiƴam ɓalngu am; wata ɓalngu kewu Pesach heddoy haa subaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "a warbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chamets"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ɓalngu am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "heddoy"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "haa subaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ɓalngu"
+    },
+    {
+      "surface": "חג",
+      "gloss": "kewu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:56.315672724Z",
+  "model": "glm-5.3"
+}

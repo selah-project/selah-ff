@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Jahunaaɗo e hoɗɗo mi ⟨woni⟩ e mon; ndokku mi jeyi wirnirgal e mon, mi wirna maayɓe am dingiral am.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "jahunaaɗo"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "e hoɗɗo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "jeyi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wirnirgal"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "mi wirna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "maayɓe am"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "dingiral am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:21.152595797Z",
+  "model": "glm-5.3"
+}

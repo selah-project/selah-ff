@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 37:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Yirmiyaahu yalti Yerushalayim ngam yahde leydi Benyamin, ngam heɓde ton feccere hakkunde yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "ngam heɓde feccere"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:24:36.784494222Z",
+  "model": "glm-5.3"
+}

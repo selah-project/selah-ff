@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O yaltinay peewaaku maa no annoore nii, e ñaawoore maa no naange-ñalorma nii.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "O yaltinay"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "no annoore nii"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "peewaaku maa"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "e ñaawoore maa"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "no naange-ñalorma nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:22.369367011Z",
+  "model": "glm-5.3"
+}

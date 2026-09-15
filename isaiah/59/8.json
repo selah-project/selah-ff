@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 59:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Laawol jam ɓe nganndaaka, alaa nuunɗal en laabi maɓɓe; layngu maɓɓe ɓe ɗiirtiri fii maɓɓe; kala ñaccoowo ɗo o nganndata jam.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɗaɓɓi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ɓe nganndaaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nuunɗal"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "e laabi maɓɓe"
+    },
+    {
+      "surface": "נתיבותיהם",
+      "gloss": "layngu maɓɓe"
+    },
+    {
+      "surface": "עקשו",
+      "gloss": "ɓe ɗiirtiri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fii maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñaccoowo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɗaɓɓi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o nganndata"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:03:21.917493410Z",
+  "model": "glm-5.3"
+}

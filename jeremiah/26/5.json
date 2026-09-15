@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "ngam dewde e konngi jeyaaɓe am ɓen annabaaɓe, ɗi mi neldata e mon, mi ummooɗo subaka, mi neldi, kono on dewaali;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ngam dewde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɓe am"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabaaɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldata"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "mi ummooɗo subaka"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mi neldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "on dewaali"
+    }
+  ],
+  "timestamp": "2026-09-14T12:22:22.950132985Z",
+  "model": "glm-5.3"
+}

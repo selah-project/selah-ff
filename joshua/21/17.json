@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E ⟨את⟩ nder ⟨את⟩ leñol Binjamin ⟨את⟩ Gibon e ladde mum, ⟨את⟩ Geva e ladde mum.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "e nder leñol"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ladde mum"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ladde mum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ladde mum"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ladde mum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:53.954762354Z",
+  "model": "glm-5.3"
+}

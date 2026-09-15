@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O waɗi ⟨את⟩ diƴam ngam mootere nden, senaande, e ⟨את⟩ ɗaƴol cuɗirle ɗen laaɓngol — golle baylo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diƴam ngam mootere nden"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diƴam"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ngam mootere nden"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗaƴol cuɗirle ɗen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ɗaƴol"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "cuɗirle ɗen"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓngol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "baylo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:55.594350274Z",
+  "model": "glm-5.3"
+}

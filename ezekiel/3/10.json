@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i lam: Ɓiɗɗo aadam, ⟨את⟩ konngi am ɗin fow ɗe mi wowoyata maa, ɗaɓɓu ɗum e ɓernde maa, e noppi maa nano ɗum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi am ɗin fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi am ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi wowoyata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ɗaɓɓu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "e ɓernde maa"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "e noppi maa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:34:39.615065654Z",
+  "model": "glm-5.3"
+}

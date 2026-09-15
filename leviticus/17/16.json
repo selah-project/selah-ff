@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kono si o fulaani ɗum, o ƴuɓaani ɓamde mun, o ɗooyna bakkaat mun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "fulaani"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ɓamde mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ƴuɓaani"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ɗooyna"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "bakkaat mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:48.767648359Z",
+  "model": "glm-5.3"
+}

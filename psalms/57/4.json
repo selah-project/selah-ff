@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "O nelday ⟨e⟩ kammuuli ɗin, o hisnay mi; o foddata ɗum mo wendata ɓernde mum ngam laaɓde mi; Selah. Eloohim nelday hesed makko e goonga makko.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "O nelday"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "o hisnay mi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "o foddata"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "mo wendata ɓernde mum ngam laaɓde mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nelday"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "e goonga makko"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:06.370126038Z",
+  "model": "glm-5.3"
+}

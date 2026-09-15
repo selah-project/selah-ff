@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Walaa dditintagol tiimre duule nden ñalorɗe, wanaa tiimre yiite nden jemma, e yeeso yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Walaa"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "dditintagol"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiimre"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duule nden"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalorɗe"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "e tiimre"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite nden"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:26.591068097Z",
+  "model": "glm-5.3"
+}

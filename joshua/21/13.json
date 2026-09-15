@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ɓe ndokki ɓiɓɓe Aharon almuɗo on ⟨את⟩ wuro reentoore waroore on, ⟨את⟩ Hebron e ⟨את⟩ pallaaɗe mayre, e ⟨את⟩ Libna e ⟨את⟩ pallaaɗe mayre.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuɗo on"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro reentoore waroore on"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "reentoore"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "waroore on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaaɗe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaaɗe mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaaɗe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaaɗe mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:10.331445296Z",
+  "model": "glm-5.3"
+}

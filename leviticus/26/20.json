@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Semteende mon na yerwo bolol, leydi mon hay naawa ⟨את⟩ tagoore mayre, leɗɗe leydi ndin kadi mbaawa hay jogaade peeri mum en.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "na yerwo"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "bolol"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "semteende mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hay naawa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "naawa"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "leydi mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tagoore mayre"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "tagoore mayre"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mbaawa hay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jogaade"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "peeri mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:22.474122092Z",
+  "model": "glm-5.3"
+}

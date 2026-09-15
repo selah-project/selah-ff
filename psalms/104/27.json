@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Ɓe fof njiytii faade e Aa, ngam Aa hokka ɓe ñaametee e sahaa mum.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ɓe fof"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e Aa"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "njiytii"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ngam hokkude"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ñaametee ɓe"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "e sahaa mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:56.565137857Z",
+  "model": "glm-5.3"
+}

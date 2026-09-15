@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E sahaa ndeen mi ñaami ⟨את⟩ on, ngam wi'ude: Yaawe Eloohim mon hokki on ⟨את⟩ leydi ndi ngam ruttinirde; njaha on ɓornaaki konu yeeso murɓe mon, ɓiɓɓe Israa'iila, denndaangal ɓiɓɓe doole.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "mi ñaami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam wi'ude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ngam ruttinirde"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "ɓornaaki konu"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "njaha on"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "murɓe mon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "denndaangal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:44.439223420Z",
+  "model": "glm-5.3"
+}

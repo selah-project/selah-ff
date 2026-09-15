@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "E jeyi David. Ñaawo, Yaawe, ⟨את⟩ ñaawondiɓe am; haɓo e ⟨את⟩ ɓe haɓɓi e am.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "e jeyi David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawondiɓe am"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ñaawondiɓe am"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "haɓo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe haɓɓi e am"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ɓe haɓɓi e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:20.853008373Z",
+  "model": "glm-5.3"
+}

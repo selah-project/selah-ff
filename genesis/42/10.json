@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ɓe wi'i mo: alaa, Adonaay am; jeyaaɓe maa ɗin ngarii soodaade nguura.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "jeyaaɓe maa ɗin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "soodaade"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nguura"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:23.366604526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 23:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kadi ⟨את⟩ jeeyde hoore mum jaɓɓuɗo Mumtugo o woppaani, sabo ɓe ɗaaniinoo ⟨את⟩ ko e mum e sukaaɓe makko, kamɓe ɓe mbaɗi (e) sinnee makko keeri ɓiɗɗo, ɓe ɓunndi jeeyde maɓɓe ɓen e dow makko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeeyde hoore mum"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "jeeyde hoore mum"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "jaɓɓuɗo Mumtugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woppaani"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "o woppaani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ko",
+      "marks": "ɓe ɗaaniinoo e mum"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "ɓe ɗaaniinoo"
+    },
+    {
+      "surface": "בנעוריה",
+      "gloss": "e sukaaɓe makko"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "sinee makko"
+    },
+    {
+      "surface": "בתוליה",
+      "gloss": "keeri ɓiɗɗo"
+    },
+    {
+      "surface": "וישפכו",
+      "gloss": "ɓe ɓunndi"
+    },
+    {
+      "surface": "תזנותם",
+      "gloss": "jeeyde maɓɓe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e dow makko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:45:24.985683851Z",
+  "model": "glm-5.3"
+}

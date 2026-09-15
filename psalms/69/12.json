@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Mi waɗi ɓoornannde am saaku, mi wontii maagal e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ɓoornannde am"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saaku"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "mi wontii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "maagal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:25.168794093Z",
+  "model": "glm-5.3"
+}

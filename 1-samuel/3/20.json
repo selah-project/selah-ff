@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yisraa'el fof anndi, Dan haa Beer-Shewa, Shemuwël tabitinaama yo o wonu annabiijo fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "foy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wondu"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "tabitinaama"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwël"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "annabiijo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.273934506Z",
+  "model": "glm-5.3"
+}

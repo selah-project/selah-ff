@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Wata accu ɗum, ɗum reentan ma; mo'u ɗum, ɗum hisnan ma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "accu ɗum"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ɗum reentan ma"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "mo'u ɗum"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ɗum hisnan ma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:13.131936429Z",
+  "model": "glm-5.3"
+}

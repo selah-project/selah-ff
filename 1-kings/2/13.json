@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Adoniyaahu ɓiy Chaggiit ari to Bat-Sheba innde Suleymaan. O wi'i: “Naa laaya ariɗaa e jam?” O wi'i: “Jam.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Chaggiit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "naa jam"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ariɗaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:37.149322015Z",
+  "model": "glm-5.3"
+}

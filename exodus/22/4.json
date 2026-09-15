@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "So neɗɗo ñamminii ladde walla inab, o neldi ⟨את⟩ naggi makko, ɗi ñaami e nder ladde woɗnde, e ɓurɗo moƴƴude e ladde makko e ɓurɗo moƴƴude e inab makko o yootta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "So"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ñamminii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "inab"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naggi makko"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "naggi"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ɗi ñaami"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e nder ladde"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "woɗnde"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ɓurɗo moƴƴude"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "e ladde makko"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "e ɓurɗo moƴƴude"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "e inab makko"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o yootta"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:13.628921481Z",
+  "model": "glm-5.3"
+}

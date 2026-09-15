@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O tappirta e gite makko, o haala e koyɗe makko, o tuurnoo e pipecuuli makko.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "o tappirta"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "e gite makko"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "o haala"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "e koyɗe makko"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "o tuurnoo"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "e pipecuuli makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:08.680550784Z",
+  "model": "glm-5.3"
+}

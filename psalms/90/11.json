@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Mo anndi doole murɗe maa, e no kulol maa woniri nii, muural maa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murɗe maa"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "e no kulol maa woniri nii"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "muural maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:15.594193310Z",
+  "model": "glm-5.3"
+}

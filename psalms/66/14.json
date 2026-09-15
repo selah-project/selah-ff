@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Ɗe lewru am udditii, e haala mun am wi'i e tiiɗnde am.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "udditii"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lewru am"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e ... wi'i"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala mun am"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e tiiɗnde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:56.025918073Z",
+  "model": "glm-5.3"
+}

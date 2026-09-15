@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Hello ɓe e hakke, hello ɓe, ɓe ngontaa; ɓe anngo yo Eloohim laamata e Yaakuuba, haa cuuɗi leydi ndin. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "hello ɓe"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "e hakke"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hello ɓe"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "ɓe ngontaa"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ɓe anngo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "laamata"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "e Yaakuuba"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "haa cuuɗi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:33.151422819Z",
+  "model": "glm-5.3"
+}

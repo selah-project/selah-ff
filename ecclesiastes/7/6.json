@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono no daande luuje les belre nii, ko non kelmeeri woolo on; kadi ɗum kadi ko hevel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "no daande"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "luuje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "belre"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "kelmeeri"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "woolo on"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi ɗum kadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:47.643283015Z",
+  "model": "glm-5.3"
+}

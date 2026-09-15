@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Adonaay am, nanu mi: leydi ndin — nayi teemedere seekel kaalis — hakkunde mi e maa, ko ndu woni? Mbaran ⟨את⟩ maayɗo maa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "nanu mi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "seekel kaalis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde mi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko ndu woni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko... woni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "maayɗo maa"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "maayɗo maa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mbaran"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:58.810804833Z",
+  "model": "glm-5.3"
+}

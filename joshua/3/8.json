@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono aɗa yamira ⟨את⟩ sarwaaɓe ɓen ɗottorooɓe sandukke ahd ɓurngol, wiyde: 'Tawa aɗa yettoo caaka ndiyam Yarduun ɗam, nder Yarduun on daror.'",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kono a"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "yamira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ɗottorooɓe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandukke"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahd ɓurngol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "aɗa yettoo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "caaka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduun ɗam"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "nder Yarduun"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "daror"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:23.348493217Z",
+  "model": "glm-5.3"
+}

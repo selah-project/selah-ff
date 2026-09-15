@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ndeen laamɗo Hizkiyaahu ummiii subaka, o moofti ⟨את⟩ mawɓe ñawɓe wuro ngoo, o ƴetti yaahu to suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ummiii subaka"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyaahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "o moofti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawɓe ñawɓe wuro ngoo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe ñawɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o ƴetti yaahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-15T05:36:45.568199248Z",
+  "model": "glm-5.3"
+}

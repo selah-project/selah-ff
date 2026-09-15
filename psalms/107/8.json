@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Yetto-yen Yaawe e hesed makko, e kelmeeli makko fewre ɓiɓɓe aadeem.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Yetto-yen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "e hesed makko"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e kelmeeli makko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fewre ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadeem"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:15.501620004Z",
+  "model": "glm-5.3"
+}

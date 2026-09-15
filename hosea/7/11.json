@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Efrayim waɗi bana coloowo bewo, ⟨mo⟩ alaa ɓernde; Misraayim ɓe noddi, Assuura ɓe njahi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "bana coloowo"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "bewo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ɓe noddi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuura"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɓe njahi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:39.812527938Z",
+  "model": "glm-5.3"
+}

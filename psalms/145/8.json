@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yaawe jom-yurmeende, jom-hormaare, mo muñata tawa o woppaani, mo mawni e hesed",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "jom-yurmeende"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "jom-hormaare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mo muñata"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tawa o woppaani"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "mo mawni e"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:37.562490131Z",
+  "model": "glm-5.3"
+}

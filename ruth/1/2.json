@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 1:2",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Innde gorol ngol Eliimelek, innde debbo mun Noomi, innde ɓiɓɓe mun ɗiɗo Mahlon e Kilyon, ɓe Efratay en, Bet-Lechem Yahuuda; ɓe naati kiili Moab, ɓe woni toon.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorol ngol"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Eliimelek"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "e Kilyon"
+    },
+    {
+      "surface": "אפרתים",
+      "gloss": "Efratay en"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe naati"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kiili"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe woni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:22.574505036Z",
+  "model": "glm-5.3"
+}

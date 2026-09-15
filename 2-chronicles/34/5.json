@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Kadi o hiisi boneeji almaami en ɗin e dow mahe maɓɓe ɗen, o laaɓti ⟨את⟩ Yahuuda e ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "kadi boneeji"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "almaami en ɗin"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o hiisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "mahe maɓɓe ɗen"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "o laaɓti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:28:26.896010359Z",
+  "model": "glm-5.3"
+}

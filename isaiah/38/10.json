@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Mi wi'i: e ɓuuɓri ñalɣi am mi yahay e dame Seol; mi lima ko hafrii e duuɓi am.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɣi am"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "mi yahay"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "e dame"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mi lima"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ko hafrii"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "e duuɓi am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:59.381784755Z",
+  "model": "glm-5.3"
+}

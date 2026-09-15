@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kala ñiŋoowo baaba mum walla yumma mum, yo warire, warre.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "kala ñiŋoowo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "walla yumma mum"
+    },
+    {
+      "surface": "מות",
+      "gloss": "yo warire"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "warre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:10.684651284Z",
+  "model": "glm-5.3"
+}

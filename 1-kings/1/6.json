@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Baaba mun walaa mettiniri mo duuɓi mun fuu, wiyde: “Ko waɗiɗaa non?” Kanko kadi mo nguurdi moƴƴu no ɓuri, yumma mun inndi mo ɓaawo Awshaalom ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "mettiniri"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "duuɓi mun fuu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɣiɗaa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kanko kadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "nguurdi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no ɓuri"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "inndi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awshaalom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:08:29.570660179Z",
+  "model": "glm-5.3"
+}

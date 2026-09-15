@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓiɓɓe Israa'iil ɓe waɗi no woore Musa waɗiri, ɓe ɗaɓɓi e Misrayim kuutorɗe kaalis e kuutorɗe njeebi e comci.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe waɗi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no woore … waɗiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ɓe ɗaɓɓi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "e kuutorɗe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njeebi"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "e comci"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:20.199998769Z",
+  "model": "glm-5.3"
+}

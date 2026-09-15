@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "A waɗanoo min yi'annde caɗe keewɗe e bonɗe; a rutto, a wuurnit min; e keerol leydi ndin a rutto, a ummin mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "a waɗanoo"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "yi'annde min"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e bonɗe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "a rutto"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "a wuurnit min"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "e keerol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "a rutto"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "a ummin mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:45.913354020Z",
+  "model": "glm-5.3"
+}

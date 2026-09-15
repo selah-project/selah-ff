@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Sabu ɗum ɓernde am weltii, teddungal am yoŋŋii; yiersu am kadi hoŋkotoo e kisal.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗum"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "weltii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "yoŋŋii"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "teddungal am"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "yiersu am"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hoŋkotoo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e kisal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:21.206994410Z",
+  "model": "glm-5.3"
+}

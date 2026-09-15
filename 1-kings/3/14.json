@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Si a yahi e laabi Am, ngam reende saareeje Am e jamruuji Am, no Dawuula baaba maa yahnoo, mi udditay ⟨את⟩ balɗe maa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "a yahi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "e laabi Am"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "saareeje Am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e jamruuji Am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahnoo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuula"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "mi udditay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balɗe maa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "balɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:10.178686282Z",
+  "model": "glm-5.3"
+}

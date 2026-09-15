@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Mi yiddaali ñaawuɗum e nder suudu maa, wanaa puccu gaynaako e nder baali maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yiddaali"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Mi yidda"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "e nder suudu maa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ñaawuɗum"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "e nder baali maa"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "puccu gaynaako"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:11.091704343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Laamɗo debbo Saba'a yi'i ⟨את⟩ ñeeñal Shelomo den fuu, e saare nde o mahi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Laamɗo debbo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñeeñal Shelomo den fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den fuu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ñeeñal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "e saare nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o mahi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:08.429800679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Elasa jibini ⟨את⟩ Sisamay, Sisamay jibini ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisamay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sisamay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "Sisamay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:13.981044325Z",
+  "model": "glm-5.3"
+}

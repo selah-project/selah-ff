@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɔɗɗam heedi waɗi e nder leydi ndin; Awraham jippii Misrayim ngam hoɗde ton, sibu ɔɗɗam on tiiɗii no feewi e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ɔɗɗam heedi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ngam hoɗde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sibu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tiiɗii no feewi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ɔɗɗam on"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:02.830799165Z",
+  "model": "glm-5.3"
+}

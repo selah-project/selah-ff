@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim mahi ⟨את⟩ ceenel ngel o ƴetti e Aadama, o waɗiti ɗum debbo, o addi mo to Aadama.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ceenel ngel"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ceenel ngel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Aadama"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "fii debbo"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "o addi mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Aadama"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:51.463920559Z",
+  "model": "glm-5.3"
+}

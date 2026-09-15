@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Neldaali ñukkuuji gite am; mi dilliima, mi haalataa.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Neldaali"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ñukkuuji"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "mi dilliima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi haalataa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "haalde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:40.223131766Z",
+  "model": "glm-5.3"
+}

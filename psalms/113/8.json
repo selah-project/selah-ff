@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 113,
+  "translation": "ngam jooɗnude ⟨ɓe⟩ e mawɓe, e mawɓe yimɓe makko.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ngam jooɗnude"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:46.816364038Z",
+  "model": "glm-5.3"
+}

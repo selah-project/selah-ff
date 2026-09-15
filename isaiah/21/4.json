@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ɓernde am majjii; pallaasuru hulɓinii kam; ⟨את⟩ kikiiɗe welaande am waɗii ɗum kam titte.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "pallaasuru"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "hulɓinii kam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikiiɗe welaande am"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "welaande am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "titte"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:23.984170498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Yettoore wooda Yaawe, Eloohim Israa'iil, gila duumiingo haa duumiingo. Aamiin, e Aamiin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yettoore wooda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "gila duumiingo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "duumiingo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "e Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:08.536006803Z",
+  "model": "glm-5.3"
+}

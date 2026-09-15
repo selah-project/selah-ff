@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yaawe wolli Musa e dewel Sinaay, wondude o wi'a:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wolli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e dewel"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude o wi'a"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:01.133188336Z",
+  "model": "glm-5.3"
+}

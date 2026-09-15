@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi waɗi lamɗe e pardaaji fii am, e mi dabbini nder maɓɓe lekki, kala lefru.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "lamɗe"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "e pardaaji"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "e mi dabbini"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nder maɓɓe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "lefru"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:17.165843994Z",
+  "model": "glm-5.3"
+}

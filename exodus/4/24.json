@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Waɗi ko, e laawol, e nokku ɗaminol, Yaawe hawri e makko, o ɗaɓɓi warde mo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi ko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "e nokku ɗaminol"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "hawri e makko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "o ɗaɓɓi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "warde mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:27.257609746Z",
+  "model": "glm-5.3"
+}

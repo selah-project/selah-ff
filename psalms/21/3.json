@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Here ɓernde makko nde a okki mo, e ɗaɓɓitere leppi makko ɗen a uddaani hay gooto. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "here"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko nde"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "a okki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "e ɗaɓɓitere"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "leppi makko ɗen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hay"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "a uddaani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:42.989727969Z",
+  "model": "glm-5.3"
+}

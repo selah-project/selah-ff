@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E ndeen wakkati Merodak-Baladan, ɓiy Baladan, laamɗo Babel, neldi binndi e dokkal to Chizkiyahu; kono o nano o moɓɓunoo, o hoƴƴinii.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "e ndeen wakkati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodak"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "binndi"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "e dokkal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "o moɓɓunoo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "o hoƴƴinii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:33.029198225Z",
+  "model": "glm-5.3"
+}

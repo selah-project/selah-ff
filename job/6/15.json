@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Miñiraaɓe am fenii-mi no walloo nii, no laawol wallooji ɓe pawtori.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "miñiraaɓe am"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ɓe fenii"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walloo"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "no laawol"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "wallooji"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ɓe pawtori"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:49.581733955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaawe fiiri ⟨את⟩ yimɓe ɓen, wano ɗi mbaɗi ⟨את⟩ mbeɗu ngun ɗum Moƴaali waɗi.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "fiiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "על",
+      "gloss": "wano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeɗu ngun"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mbeɗu ngun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Moƴaali"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:37.157434630Z",
+  "model": "glm-5.3"
+}

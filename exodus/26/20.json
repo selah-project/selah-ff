@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "E fii cenndo ɗiɗaɓo hoɗorde nden, laawol woyla: pelle noogas e jeegom.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "E fii cenndo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hoðore nden"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ɗiðaɓo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "woyla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas e jeegom"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "pelle"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:31.651101033Z",
+  "model": "glm-5.3"
+}

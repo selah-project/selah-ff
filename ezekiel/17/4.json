@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O taƴi ⟨את⟩ hoore ɓuuɓri mum enndu, o nawni ɗum e leydi Kenaana, e wuro yimɓe njulaaku o waɗi ɗum.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore ɓuuɓri mun enndu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "ɓuuɓri mun enndu"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "O taƴi"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "o nawni ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "yimɓe njulaaku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o waɗi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:40:38.479534222Z",
+  "model": "glm-5.3"
+}

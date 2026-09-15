@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi dawii, mi leesaani, fii reenude jamirooje maa.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "mi dawii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "mi leesii"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "reenude"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jamirooje maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:45.174433998Z",
+  "model": "glm-5.3"
+}

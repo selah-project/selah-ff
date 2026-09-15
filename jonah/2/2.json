@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yuunaa du'ii fayde e Yaawe Eloohim makko, ummoraade e nder reedu liingu ngun.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "du'ii"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim makko"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ummoraade e nder reedu"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "liingu ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:16.099096833Z",
+  "model": "glm-5.3"
+}

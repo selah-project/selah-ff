@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E ⟨את⟩ Horii ɓen e koɗli maɓɓe to Se'ir, haa Eel-Paran, mo woni dow leydi ɓuuɓndi ndin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Horii ɓen"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horii ɓen"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "e koɗli maɓɓe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "leydi ɓuuɓndi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:56.185197641Z",
+  "model": "glm-5.3"
+}

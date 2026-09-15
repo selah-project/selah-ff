@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yiite yalti yeeso Yaawe, ndi ñaami dow sarde nden ⟨את⟩ dewal ɓurngal ngal e ⟨את⟩ duume ɗen; yimɓe ɓen fuu nji'i ɗum, ɓe wowlitii, ɓe lijjitii dow palaare maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Yiite"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ndi ñaami"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarde nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewal ɓurngal ngal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dewal ɓurngal ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume ɗen"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "duume ɗen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nji'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "ɓe wowlitii"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ɓe lijjitii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "palaare maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:36.390595393Z",
+  "model": "glm-5.3"
+}

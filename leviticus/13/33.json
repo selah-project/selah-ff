@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ofoo yo o ƴoggo, kono ⟨את⟩ ɓuuɓnere nde o ƴogga; hono ɗoo kohenaan on udditu ⟨את⟩ ɓuuɓnere nde balɗe jeeɗiɗe, ɗañitirɗe.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ofoo yo o ƴoggo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓnere nde"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ɓuuɓnere nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ƴogga (walaa)"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "o ƴogga"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "on udditu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenaan on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓnere nde"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ɓuuɓnere nde"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ɗañitirɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:52.508234379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ndeen no ñaamoton ⟨את⟩ ɗum: ŋorɗe mon ɗen ɗewnuɗe, lingi mon e koyɗe mon, e bone mon e juuɗe mon; ñaamoton ⟨את⟩ ɗum e dawru — Pesah ko ka Yaawe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Ndeen no"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamoton"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (mbeewa Pesah on)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ŋorɗe mon"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ɗewnuɗe"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "lingi mon"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "e koyɗe mon"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "e bone mon"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "e juuɗe mon"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ñaamoton"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (mbeewa Pesah on)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "e dawru"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ka Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:56.325583619Z",
+  "model": "glm-5.3"
+}

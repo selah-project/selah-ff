@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yehoshua wi'i: E ɗoo on mnnay wonde Eel wuuru ⟨woni⟩ e nder mon, o ruttintay duumii yeeso mon ⟨את⟩ Kenaaninke e ⟨את⟩ Hitte e ⟨את⟩ Hiwinke e ⟨את⟩ Perizzinke e ⟨את⟩ Girgashinke e Amorinke e Yevusinke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "E ɗoo"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "on mnnay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuuru"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "e nder mon"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "o ruttintay"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "duumii"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaaninke"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaaninke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hitte"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hiwinke"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwinke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Perizzinke"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzinke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Girgashinke"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashinke"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e Amorinke"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e Yevusinke"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:36.740189603Z",
+  "model": "glm-5.3"
+}

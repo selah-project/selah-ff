@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "ndeen o taƴa ⟨את⟩ junngo mun; giiɗe maa accanaa mo yurmeende.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ndeen o taƴa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo mun"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "accanaa yurmeende"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "giiɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:10.358090226Z",
+  "model": "glm-5.3"
+}

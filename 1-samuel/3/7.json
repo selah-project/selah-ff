@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Samuwiil ɗoofo kaanaa anndi ⟨את⟩ Yaawe, e ɗoofo konngol Yaawe kaanaa feeñu faade e makko.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuwiil"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ɗoofo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "e ɗoofo"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "feeñu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:56:13.149282790Z",
+  "model": "glm-5.3"
+}

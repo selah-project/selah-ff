@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 127,
+  "translation": "No poɓe njiyatee e junngo gaaduɗo, ko nii ɓiɓɓe sukaaɓe njahra.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "no poɓe njiyatee"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gaaduɗo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "sukaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:03.917149589Z",
+  "model": "glm-5.3"
+}

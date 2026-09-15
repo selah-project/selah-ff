@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O waɗi kelli paggi fii teente dow barruki on; sappo e go'o kelli o waɗi ⟨את⟩ ɗi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɣi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "paggi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "fii teente"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "barruki on"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "sappo e"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "go'o"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi (kelli ɗin)"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:57.968775387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "On ɗaccuɗo kammuuli ɗin e duume, on heewnooɗo leydi ndin duuma, on ɓurɗo huɗo mawnude e pelle.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "On ɗaccuɗo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "e duume"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "on heewnooɗo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "duuma"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "on ɓurɗo mawnude"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "e pelle"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "huɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:40.816743942Z",
+  "model": "glm-5.3"
+}

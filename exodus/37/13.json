@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O ƴeewti heen ñaawe nay kaŋŋe, o waɗii ⟨את⟩ ñaawe ɗen e ceene nay ɗen ɗe ngonnoo e koyɗe nay makko.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ƴeewti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ñaawe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawe ɗen"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ñaawe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "ceene ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe ngonnoo"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "e nay"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:47.015166128Z",
+  "model": "glm-5.3"
+}

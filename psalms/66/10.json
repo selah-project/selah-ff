@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Sabu aɗinii min Eloohim, a hebii min no hebbirtee kaalis nii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "aɗinii min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "a hebii min"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "no hebbirtee"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:28.988043214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nde a ñaamata e heɓata ko heewi, a yettorta ⟨את⟩ Yaawe Eloohim maa fii leydi moƴƴundi ndi o rokki maa.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "a ñaamata"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "a heɓata ko heewi"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "a yettorta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "moƴƴundi ⟨ndi⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ndi⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:05.123293313Z",
+  "model": "glm-5.3"
+}

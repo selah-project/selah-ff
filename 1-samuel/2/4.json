@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Faacirɗe duuɓe ɓen taƴaa, ɓe tuubii ɗen ƴoƴƴorii semte.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "faacirɗe"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "duuɓe"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "taƴaa"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ɓe tuubii ɗen"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ƴoƴƴorii"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "semte"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:47.762096080Z",
+  "model": "glm-5.3"
+}

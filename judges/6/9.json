@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi wurtini ⟨את⟩ on e junngo Misrayim, e junngo ɓe ⟨את⟩ ɗon ƴetta on fuu, mi woppi ɓe yeeso mon, mi roku on ⟨את⟩ leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "mi wurtini on"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ɓe ɗon ƴetta on"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "mi woppi ɓe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mi roku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:24:44.629519449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ɛ miiŋii ɓernde am; ɛ ƴeewtii jemma; ɛ laaɓnii kam — hay huunde wawaata; peewnugol am wana yalta e haɓɓoore am.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Ɛ miiŋii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Ɛ ƴeewtii"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "Ɛ laaɓnii kam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wana"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "wawaata"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "peewnugol am"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yalta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "e haɓɓoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.590925006Z",
+  "model": "glm-5.3"
+}

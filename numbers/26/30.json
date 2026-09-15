@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "ʼƊee ɗoo ɓiɓɓe Giliad: Iyezer, leñol Iyezeriyanke en; Helek, leñol Helekiyanke en.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee ɗoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giliad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "Iyezer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "Iyezeriyanke en"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "Helek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "Helekiyanke en"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:10.666497060Z",
+  "model": "glm-5.3"
+}

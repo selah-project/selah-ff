@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i: “Konngol woodi am to maa.” O wi'i: “Haaldet.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaldet"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:37.151068310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Adonaay, ɗeen ko ɗoo yimɓe nguurdata, e ɗeen fuu ko nguurdam ruuhu am; artir lam cellal, wuurnu lam.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ɗeen"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "yimɓe nguurdata"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e ɗeen fuu"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "e ɗeen"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurdam"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "artir lam cellal"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "wuurnu lam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:17.613466741Z",
+  "model": "glm-5.3"
+}

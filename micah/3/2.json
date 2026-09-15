@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe njiɗaa moƴƴere, ɓe ngoppa bonnde; ɓe ɓooroo pelle mum en ɓe eta, e ɓeyngu mum en ɓe eta e ɓe cippii.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Ɓe njiɗaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ɓe ngoppa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "ɓe ɓooroo"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "pelle mum en"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ɓe eta"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "e ɓeyngu mum en"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ɓe eta e"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ɓe cippii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:33.021147056Z",
+  "model": "glm-5.3"
+}

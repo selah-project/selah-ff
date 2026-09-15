@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Mi ƴatta ɓe e balaa, mi momta ɓe; kadi mballaa mi waɗi ⟨את⟩ a laata leƴƴi mawɗi e marɗu semmbe ɓuri ɓe.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "mi ƴatta ɓe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "e balaa"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "mi momta ɓe"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mballaa mi waɗi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "a"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "laata leƴƴi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "e marɗu semmbe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɓuri ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:37.778094289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O waɗi iwde njamndi, dummbuɗe sappo e ɗiɗi njuuteendi mun, e dummbuɗe sappo e ɗiɗo yaajde mun, e dummbuɗe sappo tooweendi mun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "iwde"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "sappo e ɗiɗi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dummbuɗe"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njuuteendi mun"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "e dummbuɗe sappo e ɗiɗo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "dummbuɗe"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajde mun"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e dummbuɗe sappo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dummbuɗe"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "tooweendi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:10:54.574045338Z",
+  "model": "glm-5.3"
+}

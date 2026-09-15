@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Konngol Yaawe arii e Yuunaa ɓiɗɗo Amiitay, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amiitay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:51.361694970Z",
+  "model": "glm-5.3"
+}

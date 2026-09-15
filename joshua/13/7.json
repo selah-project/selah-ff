@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Non ko hannde, feccu ⟨את⟩ leydi ndin e nde ndiyam-jeɗɗirɗe fedde jeenayi ɗin e feccere fedde Menashe nden.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hannde non"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "feccu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "e nde ndiyam-jeɗɗirɗe"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "fii jeenayi"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "fedde ɗin"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "fedde nden"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:51:44.487650743Z",
+  "model": "glm-5.3"
+}

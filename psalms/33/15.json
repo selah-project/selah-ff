@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Oo woni tagoowo ɓerɗe maɓɓe ɗen dentuɗe; o faamii golle maɓɓe fow.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "tagoowo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "dentuɗe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓerɗe maɓɓe"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "o faamii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no nodda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "golle maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:36.351680582Z",
+  "model": "glm-5.3"
+}

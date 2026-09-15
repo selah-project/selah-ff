@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ardaa e keskuɓe ɓen, Lawiyanke en, e ñaawoowo on mo wonata e ɲamaaji ɗin, ɲaamo, ɓe wi'ana ma ⟨את⟩ konngol ñaawoore nden.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "aardaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "keskuɓe ɓen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lawiyanke en"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "ñaawoowo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonata"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e ɲamaaji"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ɲaamo"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ɓe wi'ata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ñaawoore nden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ñaawoore nden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:35.749811136Z",
+  "model": "glm-5.3"
+}

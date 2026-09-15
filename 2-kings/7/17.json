@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 7:17",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Laamɗo on toɗɗii ⟨את⟩ sarwiiðo on ɗaanuɗo e junngo makko, keeriiɗo e damal ngal, yimɓe ɓen njampii mo e damal ngal, o maayi, no gorko Eloohim wi'unoo, kanne wi'i ɗum nde laamɗo on jippinii to makko.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "laamðo on"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "toɗɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarwiiðo on"
+    },
+    {
+      "surface": "השליש",
+      "gloss": "sarwiiðo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kanne"
+    },
+    {
+      "surface": "נשען",
+      "gloss": "ɗaanuɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "השער",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "וירמסהו",
+      "gloss": "ɓe njampii mo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "e damal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'unoo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kanne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "nde...jippinii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamðo on"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:58.171149067Z",
+  "model": "glm-5.3"
+}

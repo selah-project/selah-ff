@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 40:14",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Kadi min mi yettay ma, sabu junngo maa ñaamo waawi enannde maa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mi yettay ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu wonde"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "enana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "junngo maa ñaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:19:15.563605125Z",
+  "model": "glm-5.3"
+}

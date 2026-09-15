@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "fii nde O tabintirta ⟨את⟩ maa hannde no laataayo yimɓe makko, kanko no laatoo Eloohim maa, hono no O wii'iri maa nii, e hono no O diidiri baabiraaɓe maa nii — Ibraahiima, Is'haaqa e Ya'uuquba.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii nde"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "O tabintirta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no laataayo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no laatoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "O wii'iri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "e hono no"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "O diidiri"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "baabiraaɓe maa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Ibraahiima"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Is'haaqa"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "e Ya'uuquba"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:31.473420247Z",
+  "model": "glm-5.3"
+}

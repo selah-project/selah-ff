@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Neldan e nder Aron on ⟨את⟩ seedaare nden nde mi joggintay maa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Neldan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seedaare nden"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seedaare nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi joggintay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:19.708865630Z",
+  "model": "glm-5.3"
+}

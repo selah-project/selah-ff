@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen Eloohim waɗi ⟨את⟩ daabaaji leydi ndin no lewru mun nii, e ⟨את⟩ gummi ɗin no lewru mun nii, e ⟨את⟩ ko faayi hiɗo e bertude nden no lewru mun nii; Eloohim yi'i ko woodi ko moƴƴi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daabaaji leydi ndin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "daabaaji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "no lewru mun nii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gummi ɗin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gummi ɗin"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "no lewru mun nii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko faayi hiɗo e bertude nden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko faayi"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "faayi hiɗo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bertude nden"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "no lewru mun nii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:11.809686899Z",
+  "model": "glm-5.3"
+}

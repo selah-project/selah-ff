@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Fir'awn jalbinii e sarɗe makko ɗiɗo — e hooreejo jaŋngooɓe ɓen e hooreejo ñaamooɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "jalbinii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "sarɗe makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "jaŋngooɓe ɓen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "ñaamooɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:37.661973744Z",
+  "model": "glm-5.3"
+}

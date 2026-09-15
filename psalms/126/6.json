@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 126,
+  "translation": "Yahaade o yaha e wullaade, o wadda wutte pite ɗen; aroyde o aroy e rinnande, o wadda pawɗe pite mun.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "yahaade"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o yaha"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "e wullaade"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o wadda"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wutte"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "pite ɗen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aroyde"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o aroy"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "e rinnande"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o wadda"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "pawɗe pite mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:16.370310834Z",
+  "model": "glm-5.3"
+}

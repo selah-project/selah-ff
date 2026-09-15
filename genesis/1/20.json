@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim wi'i: ndiyam ɗin maroy heewɓe nguuriindi, e colli paaroy dow leydi ndin, dow yeeso wehenodu kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "maroy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguuriindi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wuurndu"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "e colli"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "paaroy"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "wehenodu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:37.657608464Z",
+  "model": "glm-5.3"
+}

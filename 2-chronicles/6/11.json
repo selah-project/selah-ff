@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi waɗi ton ⟨את⟩ sandu ngun, ɗo woni ahdi Yaawe, hono o frii e ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandu ngun"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandu ngun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o frii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:09:02.629169520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Dewsu min foo muñɗo arano, uddituɗo reedu foo, e ɓiɓɓe Israa'iil — e neɗɗo e e neemoraaɗi; ko min tan ko ka mun.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Dewsu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כל",
+      "gloss": "foo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "muñɗo-arano"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "uddituɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "foo"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "reedu"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "e-ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e-neɗɗo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e-e-neemoraaɗi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:14.779981546Z",
+  "model": "glm-5.3"
+}

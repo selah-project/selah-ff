@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Teddungal makko mawni ⟨e⟩ yesaaku maa; ɓural teddungal e ŋeeŋre a ɓoori mo.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "Teddungal makko"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "⟨e⟩ yesaaku maa"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ɓural teddungal"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "e ŋeeŋre"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "a ɓoori"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:44.031914131Z",
+  "model": "glm-5.3"
+}

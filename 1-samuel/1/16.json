@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Wata a waɗu ⟨את⟩ maccuɗo maa debbo ɓiɗɗo beliyaal; sabu keewal mette am e ballu am mi haali haa jooni.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a waɗu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo maa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "maccuɗo maa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mette am"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "e ballu am"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi haali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jooni"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:14.169009292Z",
+  "model": "glm-5.3"
+}

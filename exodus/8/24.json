@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Firawna wi'i: “Mi neldat ⟨את⟩ on, on sadakta Yaawe Eloohim mon nder laneeki; tawa seeɗa tan — woto on dura no feewi fii yahugo; toron Yaawe fii am.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "neldat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "on sadakta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder laneeki"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tawa seeɗa tan"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "dura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woto"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "on durata"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "fii yahugo"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "toron"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "fii am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:35.062986355Z",
+  "model": "glm-5.3"
+}

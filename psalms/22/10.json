@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono aan, a yaltunoo mi e nder reedu, a waɗunoo mi hoolaare fii ɓerɗe yumma am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "a yaltunoo mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "a waɗunoo mi hoolaare"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ɓerɗe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:58.321283252Z",
+  "model": "glm-5.3"
+}

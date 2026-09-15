@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Wanaa e ⟨את⟩ baabiraaɓe amen Yaawe foŋñi ⟨את⟩ kaannde ndee, kono e ⟨את⟩ minen; minen—ɗoo hannde—min fuu nguurɓe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "e ⟨את⟩",
+      "marks": "baabiraaɓe amen"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "foŋñi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaannde ndee"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "kaannde"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "e ⟨את⟩",
+      "marks": "minen"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "min fuu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:47:22.476931855Z",
+  "model": "glm-5.3"
+}

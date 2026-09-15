@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndaraneeɗon e ndiyɗen ɓen, e ndaaranee, e mbeccee haa ɓurtude; kono gollal tagetee-ɗon e balɗe mon ɗen, ngal on goppota-a hay si nde haalaama.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ndaraneeɗon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e ndiyɗen ɓen"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "e ndaaranee"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "e mbeccee"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "haa ɓurtude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gollal"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tagetee-ɗon"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "e balɗe mon ɗen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-a"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "on goppota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hay si"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "nde haalaama"
+    }
+  ],
+  "timestamp": "2026-09-14T09:09:34.642523859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "On cenngitoo ⟨את⟩ purɗe baɗe mon, nden waɗata no maande jaaɓɗe hakkude Am e hakkude mon.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "On cenngitoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "purɗe baɗe mon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "baɗe"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "purɗe mon"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nden waɗata"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "no maande"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "jaaɓɗe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkude Am"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "e hakkude mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:42.063749333Z",
+  "model": "glm-5.3"
+}

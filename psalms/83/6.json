@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Sabu ɓe ndarni e nder ɓerɗe mun kawtuɗe; feewde maa ɓe doggu nanondir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ɓe ndarni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kawtuɗe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "feewde maa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "nanondir"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ɓe doggu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:15.015959939Z",
+  "model": "glm-5.3"
+}

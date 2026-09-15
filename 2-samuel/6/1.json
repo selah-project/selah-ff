@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Dawuidi ɓeydiima, o moofti ⟨את⟩ labaaɓe worɓe fuu nder Israa'iila — junnguuji tati.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ɓeydiima"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "labaaɓe worɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "labaaɓe worɓe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nder Israa'iila"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tati"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "junnguuji"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:34.080533712Z",
+  "model": "glm-5.3"
+}

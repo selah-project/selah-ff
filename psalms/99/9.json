@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Toowinee Yaawe Eloohim amen, waaje¬ton hoɗde to tulde mun seniinde nden, kodo Yaawe Eloohim amen ko seniɗo.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Toowinee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "waaje¬ton"
+    },
+    {
+      "surface": "להר",
+      "gloss": "hoɗde to tulde...nden"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "seniinde mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "seniɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:19.896759715Z",
+  "model": "glm-5.3"
+}

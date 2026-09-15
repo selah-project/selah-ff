@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "Waɗo ñaawoore fii tooɓɓe ɗen, hokku mbeddu ñammbaaɓe ɗen; Yaawe watu jokkaaɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Waɗo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "fii tooɓɓe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbeddu"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ñammbaaɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "jokkaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:07.986698607Z",
+  "model": "glm-5.3"
+}

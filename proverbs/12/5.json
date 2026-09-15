@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Miijooji gaddoɓe ɓen ko ñaawoore, kono peeje bonɓe ɓen ko fenaande.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "miijooji"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "gaddoɓe ɓen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "peeje"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:18.665376345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O yaajini ⟨את⟩ mayru yeeso am; mayru winndaama dinga e caggal; e winndaama e mayru yimre sunaare, e wullitaare, e hoyre.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "O yaajini"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mayru (dustirgel ngel)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mayru"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "winndaama"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "dinga"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "e caggal"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "e winndaama"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e mayru"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "yimre sunaare"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "e wullitaare"
+    },
+    {
+      "surface": "והי",
+      "gloss": "e hoyre"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:53.118993381Z",
+  "model": "glm-5.3"
+}

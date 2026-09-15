@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ton, no ⟨את⟩ woldo on e ⟨את⟩ mbaroodi on ñaamate nii, nanko a ñaamata ɗum; on lanja e on laaɓɗo renndi ñaamata ɗum.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ton"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woldo on"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "woldo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbaroodi on"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mbaroodi on"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ni'i"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "a ñaamata ɗum"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "on lanja"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "e on laaɓɗo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "renndi"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ñaamata ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:32.384248475Z",
+  "model": "glm-5.3"
+}

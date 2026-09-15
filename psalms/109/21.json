@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Kono a, Yaawe Adonaay, golli e ⟨את⟩ am fii innde maa nde, sabu hesed maa ko moƴƴu, hisnu am.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "golli"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ am",
+      "marks": "am"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa nde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hisnu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:43.299601288Z",
+  "model": "glm-5.3"
+}

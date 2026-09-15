@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "O waɗi ⟨את⟩ efod ka: kaŋe, ɓaleejo, purpur, tolluɗo-boɗeejo, e ɗaɗol lin ɓuuɓngol fiindorde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod ka"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod ka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ɓaleejo"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "e tolluɗo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "boɗeejo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e lin"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "fiindorde ɓuuɓnde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:00.777742850Z",
+  "model": "glm-5.3"
+}

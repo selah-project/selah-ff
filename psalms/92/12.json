@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Ñaamo am yi'ii foolude majjere am enen; nano am nanii duraade bonɗo ɓe ƴellitii dow am.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "yi'ii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñaamo am"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "foolude majjere am enen"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ɓe ƴellitii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "nano am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:14.025332056Z",
+  "model": "glm-5.3"
+}

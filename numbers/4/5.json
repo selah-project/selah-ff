@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Aharon e ɓiɓɓe mun naata, si kaampirɗe nden woni e yahde; ɓe jippina ⟨את⟩ parda kaamu wirwirde ndin, ɓe nguddit heen ⟨את⟩ Sandukke Seedamde ndin.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "naata"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "si ... woni e yahde"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampirɗe nden"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ɓe jippina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parda kaamu wirwirde ndin"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "kaamu wirwirde ndin"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ɓe nguddit heen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sandukke Seedamde ndin"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Sandukke"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Seedamde ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:16.838763577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O jogori heɓtude ⟨את⟩ worɓe dawe jeegom, o waɗi ɓe henore hakkunde Beet-Eel e Haay, hirnaange wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o heɓti"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ko ɓuri heen seeɗa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "henore"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "henore"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "hirnaange"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wuro ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:13:52.446148222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Yoo ujuna waɗo e ŋorol maa, e ujuna sappo e ŋorol junngo maa ñaamo; ɗum ɓadtataa ma.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "waɗo"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "e ŋorol maa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujuna"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "e ujuna sappo"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "e ŋorol junngo maa ñaamo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ɓadtataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:07.130501616Z",
+  "model": "glm-5.3"
+}

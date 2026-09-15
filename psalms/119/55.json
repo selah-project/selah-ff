@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Miɗo waajirta innde maa, Yaawe, e jemma, miɗo reeni Toraa maa.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "miɗo waajirta"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "miɗo reeni"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraa maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:49.398157903Z",
+  "model": "glm-5.3"
+}

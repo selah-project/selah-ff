@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Sabu ɗum, Adonaay Yaawe Sabaa'oota, Doole Israa'iila wi'i: “Ewoo! Mi yeewnitoo e tooñuɓe Am, Mi wara warngoo e gañooɓe Am.”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗum"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaa'oota"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Doole"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ewoo!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "Mi yeewnitoo"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "e tooñuɓe Am"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "Mi wara warngoo"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "e gañooɓe Am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:27.632446842Z",
+  "model": "glm-5.3"
+}

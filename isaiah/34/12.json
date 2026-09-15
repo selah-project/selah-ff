@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Tedduɓe mun ɓen — maa noddee ⟨en⟩ laamɗo, kono alaa onon ɗo; e ardinooɓe mum ɓen fuu maa laata hay e huunde.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "tedduɓe mun ɓen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kono alaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "onon ɗo"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "maa noddee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ardinooɓe mum ɓen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "maa laata"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "hay e huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:08.827341746Z",
+  "model": "glm-5.3"
+}

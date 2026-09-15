@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Mi yetto ma e yimɓe ɓen, Adonaay; mi yimo ma e leƴƴi ɓen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Mi yetto ma"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "e yimɓe ɓen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mi yimo ma"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "leƴƴi ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:02.230452744Z",
+  "model": "glm-5.3"
+}

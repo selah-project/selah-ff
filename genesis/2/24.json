@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sabu ɗuum gorko woppata ⟨את⟩ baaba mum e ⟨את⟩ yumma mum, o ɓettata e debbo mum, ɓe laatata ɓanndu wootere.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "woppata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mum"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma mum"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mum"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "o ɓettata"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "e debbo mum"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe laatata"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:51.464408831Z",
+  "model": "glm-5.3"
+}

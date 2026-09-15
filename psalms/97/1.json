@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Yaawe laamorii ⟨ko o jooɗii⟩, leydi ndin welta; duuɗe keewɗe ɓuuɓna weltaare.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamorii"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "welta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ɓuuɓna weltaare"
+    },
+    {
+      "surface": "איים",
+      "gloss": "duuɗe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:23.092593438Z",
+  "model": "glm-5.3"
+}

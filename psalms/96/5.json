@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Sabu eluji yimɓe ɗin fuu ko eliliji; kono Yaawe tagi kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "eluji"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "eliliji"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kono Yaawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:47.817627693Z",
+  "model": "glm-5.3"
+}

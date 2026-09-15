@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E hitaande tataɓere laamu Yehoyakim, laamɗo Yahuuda, Nebukadnesar, laamɗo Baabel, arii Yerushalayim, o daranii ndi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tataɓere"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "laumu"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e o daranii"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ndi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:33:18.313821275Z",
+  "model": "glm-5.3"
+}

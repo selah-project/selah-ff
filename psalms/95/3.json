@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Sabu Eel mawɗo ⟨ko⟩ Yaawe, e Laamɗo mawɗo dow laamu fuu ko Eloohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e Laamɗo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "laamu fuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:37.101223342Z",
+  "model": "glm-5.3"
+}

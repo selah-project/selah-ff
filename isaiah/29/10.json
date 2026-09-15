@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Sabu ⟨את⟩ Yaawe woolii e hoore mon jahdu nelka, o uddi ⟨את⟩ gite mon — ⟨את⟩ annduɓe ɓen — kanko kadi o suddi hoore mon ɓen, ƴeewuɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "woolii"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "e hoore mon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "jahdu"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "nelka"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "o uddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite mon"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gite mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annduɓe ɓen"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annduɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoore mon ɓen"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hoore mon ɓen"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ƴeewuɓe ɓen"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "o suddi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:50.409457157Z",
+  "model": "glm-5.3"
+}

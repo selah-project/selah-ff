@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "⟨את⟩ luumo tokooso, e ⟨את⟩ luumo mawɗo, e luumo ɓaleejo;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luumo tokooso"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "luumo tokooso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "luumo mawɗo"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "luumo mawɗo"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "e luumo ɓaleejo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:09.791144227Z",
+  "model": "glm-5.3"
+}

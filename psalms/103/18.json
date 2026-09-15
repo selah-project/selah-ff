@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "fii ɓen ɗenndotooɓe ahdi makko, e ɓen cittotooɓe paasaaji makko, ngam waɗude ɗi.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "fii ɓen ɗenndotooɓe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdi makko"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "e ɓen cittotooɓe"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "paasaaji makko"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ngam waɗude ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:20.543377281Z",
+  "model": "glm-5.3"
+}

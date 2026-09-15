@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ñaawu ñaawoore ɓiɓɓe Israa'iil ⟨את⟩ Midiyan en ɗin; ɓaawo ɗum a Cohooɗaa e yimɓe maa ɗin.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Ñaawu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midiyan en ɗin"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midiyan en ɗin"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo ɗum"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "a Cohooɗaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "yimɓe maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:45:34.834128329Z",
+  "model": "glm-5.3"
+}

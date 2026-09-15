@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Maa ko ⟨mi⟩; hisnu-mi, sabu pamari Maa yiili-ko-mi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Maa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hisnu-mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pamari Maa"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "yiili-ko-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:27.951141808Z",
+  "model": "glm-5.3"
+}

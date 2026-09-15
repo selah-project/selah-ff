@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Cham, baaba Kenaan, yi'i ⟨את⟩ wirnude baaba mun, o haali ɗum cremaaɓe mum ɗiɗo kaŋŋe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wirnude"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "wirnude"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "cremaaɓe ɗiɗo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mum"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kaŋŋe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:34.671481546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "O hollitii laawol mun ngol to Muusaa, golle mun to ɓiɓɓe Israa'iila.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "O hollitii"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "laawol mun ngol"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "to Muusaa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "to ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "golle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.719867645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono pellet ⟨את⟩ ƴiiƴam mon, ngam nguurndam mon, mi ɗaɓɓata; e junngo kala dabba mi ɗaɓɓata ɗum; e junngo aadanɗo on, e junngo neɗɗo bourni mun, mi ɗaɓɓata ⟨את⟩ nguurndam aadanɗo on.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "kono pellet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam mon"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ƴiiƴam mon"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ngam nguurndam mon"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mi ɗaɓɓata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dabba"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "mi ɗaɓɓata ɗum"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɗo on"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bourni mun"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "mi ɗaɓɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:55.787126026Z",
+  "model": "glm-5.3"
+}

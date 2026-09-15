@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Hesed e goongu wata ɗum accu maa; ɗofto ɗen e ŋoorki maa, winnda ɗen e ɓataaku ɓernde maa.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e goongu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ɗum accu maa"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ɗofto ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "ŋoorki maa"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "winnda ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ɓataaku"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:29.288821601Z",
+  "model": "glm-5.3"
+}

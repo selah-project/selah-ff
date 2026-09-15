@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Walla so ɓanndu wuurndu ndun ruttii, wayliima wonti booye, o aro to Koohon on.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Walla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ruttii"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wuurndu ndun"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "wayliima"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "wonti booye"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "o aro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Koohon on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:11.106799982Z",
+  "model": "glm-5.3"
+}

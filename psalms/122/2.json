@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Ɗartiingo, koyɗe amen ɗarii ko e nder dame maa, Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Ɗartiingo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "koyɗe amen"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "e nder dame maa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:07.013333675Z",
+  "model": "glm-5.3"
+}

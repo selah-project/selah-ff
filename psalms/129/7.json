@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "Ngu heɓataa junnde muuɗtuɗo on, wanaa ɓoggu muuɗtuɗo jaweeje.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "heɓataa"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "junde"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "muuɗtuɗo on"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "wanaa ɓoggu"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "muuɗtuɗo jaweeje"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:18.966685040Z",
+  "model": "glm-5.3"
+}

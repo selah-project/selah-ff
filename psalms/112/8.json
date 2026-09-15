@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Ɓernde makko nden deŋinaama, o luuluuy, haa o yi'a yoggu makko ɓen.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "deŋinaama"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "o luuluyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi'a"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "yoggu makko ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.305735371Z",
+  "model": "glm-5.3"
+}

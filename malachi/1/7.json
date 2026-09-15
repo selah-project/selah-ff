@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 1:7",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "On ndokka e jaabde am ñamri bonndunde, kadi on wi'ay: “E hol ɗum men bonnii maa?” — ko e wi'ugol mon woni: taabal Yaawe ko werlunde ɗum.",
+  "tokens": [
+    {
+      "surface": "מגישים",
+      "gloss": "on ndokka"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "jaabde am"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "bonndunde"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "on wi'ay"
+    },
+    {
+      "surface": "במה",
+      "gloss": "e hol ɗum"
+    },
+    {
+      "surface": "גאלנוך",
+      "gloss": "men bonnii maa"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "ko e wi'ugol mon"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "taabal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "werlunde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:51.333106931Z",
+  "model": "glm-5.3"
+}

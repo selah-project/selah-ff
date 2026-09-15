@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "e ⟨את⟩ comci bitiraaɗi ngam golloraade ka nokku tedduɗo on, ⟨את⟩ comci tedduɗi ɗii fii Aaronaan, almaami on, e ⟨את⟩ comci ɓiɓɓe mun ɓen, ngam ɓe gollotoo almamaagu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci bitiraaɗi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "bitiraaɗi"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ngam golloraade"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ka nokku tedduɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci tedduɗi ɗii"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tedduɗi ɗii"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aaronaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "comci ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ngam ɓe gollotoo almamaagu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:18.926275932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Ɓe ɗoftoylay ma e junngooji maaji, dom a ƴattooy koyngal maa e feedde.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "junngooji maaji"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "Ɓe ɗoftoylay ma"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dom"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ƴattooy"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "e feedde"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "koyngal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:23.626398749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Si aɗa jooɗii ngam ñaamde ⟨את⟩ laamɗo, faam no feewi ⟨את⟩ ko woni yeeso maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "aɗa jooɗii"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "faam"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko woni yeeso maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:56.533528465Z",
+  "model": "glm-5.3"
+}

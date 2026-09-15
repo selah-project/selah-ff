@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E ⟨את⟩ ɓesngu nguu, tammbitir ɓe wiyde: onen ngonɗo faamde keerol miñiraaɓe mon, ɓiɓɓe Esav, hoɗɓe e Se'iir; ɓe mettintoo on, onen reedu mon no heewi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓesngu nguu"
+    },
+    {
+      "surface": "צו",
+      "gloss": "tammbitir ɓe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onen"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngonɗo faamde"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miñiraaɓe mon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "e Se'iir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe mettintoo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "on reedu mon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no heewi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:38.366503721Z",
+  "model": "glm-5.3"
+}

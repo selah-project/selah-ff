@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "⟨את⟩ Karonge ɗiɗi e ⟨את⟩ na'i nayi o neddii ɓiɗɓe Gershon, e wowro golle maɓɓe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Karonge ɗiɗi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "Karonge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "na'i nayi"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o neddii"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "e wowro"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "golle maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:17.219987108Z",
+  "model": "glm-5.3"
+}

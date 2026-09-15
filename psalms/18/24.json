@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Mi woni ko peewuɗo e makko, mi reeni hoore am e bakkaatuuji am.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mi woni"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "peewuɗo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "mi reeni hoore am"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "e bakkaatuuji am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:33.346941158Z",
+  "model": "glm-5.3"
+}

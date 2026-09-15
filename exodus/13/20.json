@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ɓe njahi Sukkot, ɓe njujjiti to Etam, daande jeereende ndee.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ɓe njahi"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe njujjiti"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "to Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "daande"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeereende ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:58.720574154Z",
+  "model": "glm-5.3"
+}

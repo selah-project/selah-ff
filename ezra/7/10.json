@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Sabu Ezraa heewniti ɓernde mun fii ƴeewtaade ⟨את⟩ Toraa Yaawe, e fii waɗde ɗum, e fii jannginde e Israa'iil shari'a e ñaawoore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezr"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "heewniti"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "fii ƴeewtaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toraa Yaawe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toraa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "e fii waɗde ɗum"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "e fii jannginde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "חק",
+      "gloss": "shari'a"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T10:42:51.897065048Z",
+  "model": "glm-5.3"
+}

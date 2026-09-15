@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 120,
+  "translation": "Nafusi am ɓuri heewde hoɗi e moñaɗo jam.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ɓuri heewde"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "hoɗi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafusi am"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "moñaɗo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:21.323463492Z",
+  "model": "glm-5.3"
+}

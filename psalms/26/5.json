@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi haaɗi kawtal waasɓe ɓen, e tooɓe ɓen mi jooɗataa.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mi haaɗi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "waasɓe ɓen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tooɓe ɓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mi jooɗataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.149966921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "“Keɓon ⟨את⟩ baaba mon e ⟨את⟩ nderduuji mon, aroo am; mi ñawa on ⟨את⟩ moƴƴere leydi Misrayim, ñaamee ⟨את⟩ ƴi'e leydi ndi.”",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Keɓon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mon"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baaba mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nderduuji mon"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nderduuji mon"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "aroo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mi ñawa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moƴƴere"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ñaamee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:37.460022322Z",
+  "model": "glm-5.3"
+}

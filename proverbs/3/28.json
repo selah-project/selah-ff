@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Wata wi'ira sehilaaɗo maa “yah, artu, kesol mi heɗɗina”, tawa ko njuɓɓudi maa e ⟨את⟩ maa woodi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wi'ira"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "sehilaaɗo maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "kesol"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi heɗɗina"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "njuɓɓudi woodi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "e ⟨את⟩ maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:28.492332041Z",
+  "model": "glm-5.3"
+}

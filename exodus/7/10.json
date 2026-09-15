@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Muusaa e Aharon ngarii to Paroh, ɓe ngolla ko nii, hono no Yaawe Yamiri. Aharon wuddi ⟨את⟩ paldeeja mun yeeso Paroh e yeeso jeyaaɓe makko, o laati tanini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe ngolla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wuddi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paldeeja mun"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "paldeeja mun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "tanini"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:31.587112978Z",
+  "model": "glm-5.3"
+}

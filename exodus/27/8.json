@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Ko wirnaande huunde waɗir-ɗaa ⟨את⟩ ɗum e palte; no o hollu-duraa ⟨את⟩ maaɗa dow tulde nden, non ɓe mbaɗata ɗum.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "wirnaande"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "huunde palte"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗir-ɗaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "hollu-duraa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maaɗa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dow tulde nden"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ɓe mbaɗata ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:50.155622647Z",
+  "model": "glm-5.3"
+}

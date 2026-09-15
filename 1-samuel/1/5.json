@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono Channah o ndokki peccere wootere e ɗaɗi ɗiɗi, sabu o fooɗtii ⟨את⟩ Channah, kono Yaawe udditi reedu mun.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Kono Channah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o ndokki"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "peccere"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "e ɗaɗi ɗiɗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o fooɗtii"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kono Yaawe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "reedu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:07.107407723Z",
+  "model": "glm-5.3"
+}

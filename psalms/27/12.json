@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wata a neldu-mi e nefoor ayɓe am, gulle seedeeɓe fenaande ɗimmbii ɓe e am, ɓe fooftere henɗu fitina.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "a neldu-mi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "e nefoor"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ayɓe am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gulle"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ɗimmbii ɓe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "seedeeɓe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ɓe fooftere"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "henɗu fitina"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:57.405922230Z",
+  "model": "glm-5.3"
+}

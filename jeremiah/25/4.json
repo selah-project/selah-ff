@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yaawe neldi on ⟨את⟩ jeyaaɓe mun annabiyɓe fuu, o ummiima subaka o neldi, kono on nano waasa, on ɓennintaani ⟨את⟩ noppi mon ngam nano.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe mun annabiyɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe mun"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabiyɓe"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "o ummiima subaka"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... waasa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "on nano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "on ɓennintaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noppi mon"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "noppi mon"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngam nano"
+    }
+  ],
+  "timestamp": "2026-09-14T08:16:30.900657324Z",
+  "model": "glm-5.3"
+}

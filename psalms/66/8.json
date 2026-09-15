@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Yo yimɓe ɓen yettu Eloohim amen, ɓe waɗan daande yettoore makko nden nanneye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "yo ... yettu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ɓe waɗan ... nanneye"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yettoore makko nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:20.898554891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Ndiyam ɗin njiyi Ma, Eloohim; ndiyam ɗin njiyi Ma — ɗe ƴoƴɓii; kadi deepe ɗen dgareeje.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "njiyi Ma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "njiyi Ma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ɗe ƴoƴɓii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "dgareeje"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "deepe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:02.466300012Z",
+  "model": "glm-5.3"
+}

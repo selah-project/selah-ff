@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi tolstoy kadi junngooji am faa e amarge maa, ɗe mi muuyi, maa mi miijtoo e sariiji maa ɗin.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mi tolstoy kadi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "junngooji am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faa e"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amarge maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi muuyi"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "maa mi miijtoo"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "e sariiji maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:00.559633933Z",
+  "model": "glm-5.3"
+}

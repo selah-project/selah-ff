@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Neefu am tinii, kadi timmii, fii ñaawirɗe Yaawe; ɓernde am e ɓiɗo am woyyi koldo Eel wuurɗo.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "tinii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e kadi"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "timmii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefu am"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "fii ñaawirɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "e ɓiɗo am"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "woyyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koldo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuurɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:40.727609617Z",
+  "model": "glm-5.3"
+}

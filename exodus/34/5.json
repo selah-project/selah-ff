@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yaawe jippii e duumaral ngal, o darii e makko toon, o noddi e innde Yaawe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "e duumaral ngal"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:16.033655585Z",
+  "model": "glm-5.3"
+}

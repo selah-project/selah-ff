@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Si neɗɗo laaɓtinirta ⟨את⟩ huɗo soodangal mun, ngol wonaa e huɗudi jeyi mun, fii Yaawe;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huɗo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "huɗo"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "soodangal mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "e huɗudi"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "jeyi mun"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "laaɓtinirta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:56.984763629Z",
+  "model": "glm-5.3"
+}

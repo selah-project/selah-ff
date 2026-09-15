@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Dawuuta ƴetti ⟨את⟩ dame ɗen fuu e nagheeji ɗin; ɓe ndarii ko adii ɗum daabaaji ɗin, ɓe wi'i: Ɗum ko ƴamri Dawuuta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dame ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dame ɗen"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "e nagheeji ɗin"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ɓe ndarii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ko adii"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "daabaaji ɗin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ƴamri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuta"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:32.571722170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Misrayim annday wonde miin mi Yaawe, saanga mi teddinaa e Pinehaa, e katti mun e pucci mun.”",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "annday"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "mi Yaawe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "mi teddinaa"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "e Pinehaa"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "e katti mun"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "e pucci mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:21.650205153Z",
+  "model": "glm-5.3"
+}

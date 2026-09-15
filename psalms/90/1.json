@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Torino Moosaa, neɗɗo Eloohim ɗen. Adonaay, hoɗorde Aan lane'inaa min, e yonta e yonta.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Torino"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moosaa ɗen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "היית",
+      "gloss": "lane'inaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "e yonta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e yonta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:08.824764348Z",
+  "model": "glm-5.3"
+}

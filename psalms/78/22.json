@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Sabu ɓe gomminaali Eloohim, ɓe hoolaali dañtol makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alu"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ɓe gomminaali"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe hoolaali-alu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ɓe hoolaali"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "dañtol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:45.079144590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Nde o ɓunnii ⟨את⟩ Awraham, e munngol mun fii Yisaaq;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o ɓunnii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "e munngol mun"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "fii Yisaaq"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:20.690203661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Barake woodanii Yaawe Eloohim, Eloohim Israyiila, waɗoowo kesiije keliiɗe, konngel makko tan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "barake woodanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗoowo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kesiije keliiɗe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "konngel makko tan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:08.651430896Z",
+  "model": "glm-5.3"
+}

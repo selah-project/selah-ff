@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "e ⟨את⟩ Baalat e ⟨את⟩ Tamar, e jeereende nden, e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tamar e jeereende nden"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende nden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:21.353124960Z",
+  "model": "glm-5.3"
+}

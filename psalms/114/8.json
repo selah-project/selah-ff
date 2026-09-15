@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Mo waylitirta wuro ngu waɗa ɗoolre ndiyam, chalamiish waɗa bubbole ndiyam —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "mo waylitirta"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "wuro ngu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ɗoolre"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "chalamiish"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "waɗa bubbole"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.713309167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Fii ⟨o⟩ ɗaɓɓitii ƴiiƴam, o waajtii ⟨את⟩ ɓe; o duvaani luulu mbaasiri ɗum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "o ɗaɓɓitii"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe (darorɗe זכר)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o waajtii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "o duvii"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "luulu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mbaasiri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:06.540280404Z",
+  "model": "glm-5.3"
+}

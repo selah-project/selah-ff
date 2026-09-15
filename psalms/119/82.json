@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Giiɗe am ngaskii e ƴeewde konngol maa ngol, ngam wi'ude: “Nde hono a coolay mi?”",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ngaskii"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "giiɗe am"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "konngol maa ngol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam wi'ude"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nde hono"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "a coolay mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:35.820190685Z",
+  "model": "glm-5.3"
+}

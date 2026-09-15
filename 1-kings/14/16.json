@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O dowlay Israa'iil ⟨את⟩, sabu junje Yarobo'am ɗi o junngi, ɗi o waɗi Israa'iil ⟨את⟩ junnude.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dowlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "junje"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobo'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o junngi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "o waɗi... junnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:53.565813231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Muusaa wi'i yimɓe ɓee: “Wata on kul, fii ngam jarribaade ⟨את⟩ on Eloohim arii, e fii kulol mun wona dow yeeso mon, wanaa on bonna.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "on kul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "jarribaade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "kulol mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "on bonna"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:22.531384848Z",
+  "model": "glm-5.3"
+}

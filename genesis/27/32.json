@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Isaaqa baaba mun wi'i mo: ko hommbo nayan? O wi'i: ko mi ɓiɗɗo maa, ɓiɗɗo maa arano Esoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaaqa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko hommbo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "nayan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ɓiɗɗo maa arano"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:00.989031969Z",
+  "model": "glm-5.3"
+}

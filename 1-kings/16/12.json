@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ndeenum Zimri halki ⟨את⟩ ɓesngu Baasha fof, no konngol Yaawe ngol wi'i e Baasha, juuɗe Yehu annabi on.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "halki"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓesngu Baasha fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɓesngu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:56.359775536Z",
+  "model": "glm-5.3"
+}

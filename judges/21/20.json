@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ɓe tammini ⟨את⟩ ɓiɓɓe Benyamin wi'ude: yahon, ɓe ngarlo-ɗon e nder wiɗɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ɓe tammini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Benyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "ɓe ngarlo-ɗon"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "e nder wiɗɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:35:26.524059113Z",
+  "model": "glm-5.3"
+}

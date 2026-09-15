@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko wayno Yaawe yamiri ⟨את⟩ Moshe, nayo o limti ɓe e jeereende Siinay.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ko wayno"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "nayo o limti ɓe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:53.934160519Z",
+  "model": "glm-5.3"
+}

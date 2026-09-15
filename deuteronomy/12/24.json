@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "A ñaamaataa ɗum; e dow leydi ndin a welday ɗum no ndiyam nii.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "a ñaama ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "a welday ɗum"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:32.384538326Z",
+  "model": "glm-5.3"
+}

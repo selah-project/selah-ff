@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Limgal maɓɓe ngal, fii goddi Gaad, ko jeegom e cappanɗe nayi e ujuneere, e jeegom teemedere e jeenayi e balɗi capanɗe joyi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "limgal maɓɓe"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fii goddi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e cappanɗe nayi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujuneere"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e jeegom teemedere"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e jeenayi e balɗi capanɗe joyi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:53.924009157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Fii waɗde welndo maa, Eloohim am, mi yiɗii ɗum, e shariya maa ɗo nder nderi am.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "fii waɗde"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "welndo maa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mi yiɗii ɗum"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "e shariya maa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ɗo nder"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "nderi am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:42.915566952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Treesu, wanaa ɓe bonnu; wi'ee nder ɓernde mon dow wetterde mon, watta hoŋkore. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "treesu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "bonnu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wi'ee"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "nder ɓernde mon"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "wetterde mon"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "watta hoŋkore"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:15.904395900Z",
+  "model": "glm-5.3"
+}

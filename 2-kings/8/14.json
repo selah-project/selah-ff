@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O yahi ko e yaltude ⟨את⟩ diga Eliisha, o ari to Joomi mun; o wi'i mo: ko Eliisha wi'i maa? O wi'i: o wi'i mi — a ngurdata, tawo a ngurdata.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Eliisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Joomi mun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ngurdata"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tawo a ngurdata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:49.144059178Z",
+  "model": "glm-5.3"
+}

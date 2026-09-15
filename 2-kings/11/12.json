@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O yaltini ⟨את⟩ ɓiɗɗo laamɗo on, o waɗi e makko ⟨את⟩ paaka on e ⟨את⟩ seedaare nden, ɓe laamñini ⟨את⟩ mo, ɓe waɣi mo pine, ɓe fiyi juuɗe, ɓe wi'i: Laamɗo on wuura!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "o yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo laamɗo on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paaka on"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "paaka on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "seedaare nden"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "seedaare nden"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ɓe laamñini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (ɓiɗɗo laamɗo on)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ɓe waɣi mo pine"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe fiyi"
+    },
+    {
+      "surface": "כף",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "wuura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-15T06:07:39.346904796Z",
+  "model": "glm-5.3"
+}

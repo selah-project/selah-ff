@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Jogoro kaɓirgal tokoosal e ngurndan kaɓirgal mawngal, ummito ngam wallude am.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "jogoro"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kaɓirgal tokoosal"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ngurndan kaɓirgal mawngal"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ngam wallude am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:20.854498338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Miin Gilad jeyi, miin Menashe jeyi; Efrayim ko danndorgo hoore am; Yahuuda ko sariya-ɗuɗo am.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "miin"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "miin"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "danndorgo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "sariya-ɗuɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:49.102667266Z",
+  "model": "glm-5.3"
+}

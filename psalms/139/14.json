@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Mi yettoto on, mbaaw-ɗaa tagi mi e kulol mawngol; golle maa ɗen ko cemmbinaaɗe, heyre am ɓuri anndude ɗum.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "mi yettoto on"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbaaw-ɗaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "e kulol mawngol"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "tagi mi"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "cemmbinaaɗe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "golle maa ɗen"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "heyre am"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ɓuri anndude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:55.380876165Z",
+  "model": "glm-5.3"
+}

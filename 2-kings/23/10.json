@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O sellini ⟨את⟩ Tofet, ka woni e lowre ɓiɓɓe Hinnom, fii wanaa neɗɗo waɗa ⟨את⟩ ɓiɗɗo mum worɗo e ⟨את⟩ ɓiɗɗo mum debbo yawde e yiite fii Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "o sellini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka woni"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "e lowre"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fii wanaa"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "waɗa yawde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo mum worɗo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mum worɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɗo mum debbo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɓiɗɗo mum debbo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fii Molek"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:41.270361073Z",
+  "model": "glm-5.3"
+}

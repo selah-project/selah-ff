@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O teeltanii-mi yumɓre yeeso am, faa yeeso bonɓe am; o ñaamnii hoore am e ñebbe; kaasum ena ƴuroo.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "o teeltanii-mi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "yumɓre"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "faa yeeso"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "bonɓe am"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "o ñaamnii"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "e ñebbe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kaasum"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ena ƴuroo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.194466525Z",
+  "model": "glm-5.3"
+}

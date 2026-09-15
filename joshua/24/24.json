@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yimɓe ɓee wi'i Yuusuwaa: ⟨את⟩ Yaawe Eloohim amen min mballata, e daande makko min nanndata.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Yimɓe ɓee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yuusuwaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim amen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "min mballata"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "e daande makko"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "min nanndata"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:32.007558489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "A nanngotoo ⟨את⟩ kaaƴe ɗiɗi shoham, e ɓattirta dow maɓɓe inɗe ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a nanngotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaaƴe ɗiɗi shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "e ɓattirta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "inɗe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:18.996179511Z",
+  "model": "glm-5.3"
+}

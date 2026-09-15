@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi ɗoo ko tora duuwalla nden: ɓiɓɓe Aaronaa ɗin ɗoo ndaddane ⟨את⟩ ɗum Yaawe yeeso, e yeeso njaareendi nden.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kadi ɗoo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "duuwalla nden"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ɗoo ndaddane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (duuwalla nden)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "njaareendi nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:15.307513530Z",
+  "model": "glm-5.3"
+}

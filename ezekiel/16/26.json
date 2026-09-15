@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 16:26",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Janjaniɗaa kadi e ɓiɓɓe Misrayim, hoɗɓe maa ɓee, ɓe ɓanndu mum en mawni, ɓeydiɗaa ⟨את⟩ jani maa ngam muñde Am.",
+  "tokens": [
+    {
+      "surface": "ותזני",
+      "gloss": "janjaniɗaa kadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "שכניך",
+      "gloss": "hoɗɓe maa ɓee"
+    },
+    {
+      "surface": "גדלי",
+      "gloss": "ɓe mawni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓanndu mum en"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "ɓeydiɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jani maa"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "jani maa"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ngam muñde Am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:27:05.382808920Z",
+  "model": "glm-5.3"
+}

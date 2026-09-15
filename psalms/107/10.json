@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "PendingIntent Ɓe ɗariiɓe e niɓɓo e ɗiiƴru maayde, kasooji baas'e e Ɓodzi",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "ɓe ɗariiɓe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓo"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ɗiiƴru maayde"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "kasooji"
+    },
+    {
+      "surface": "עני",
+      "gloss": "baas'e"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "Ɓodzi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:31.724620110Z",
+  "model": "glm-5.3"
+}

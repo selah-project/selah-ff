@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen a yaha laawol maa e kisal, koyngal maa ɗaɓɓataako.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "a yaha"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e kisal"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "koyngal maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ɗaɓɓataako"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:35.725535011Z",
+  "model": "glm-5.3"
+}

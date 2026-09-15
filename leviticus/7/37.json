@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ndee woni Tora ndee: fii olawaa, fii mincha, e fii chatat, e fii ashsham, e fii milluuje, e fii zebach selamim.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora ndee"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "fii olawaa"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "fii mincha"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "e fii chatat"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "e fii ashsham"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "e fii milluuje"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "e fii zebach"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "selamim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:00.965943296Z",
+  "model": "glm-5.3"
+}

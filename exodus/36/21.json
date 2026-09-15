@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Dujuureeje sappo njuuteendi bolol ngol, e dujuurere wootere e feccere ⟨dujuurere⟩ njaajeendi bolol ngol wootel.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dujuureeje"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "njuuteendi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bolol ngol"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e dujuurere wootere"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "⟨dujuurere⟩"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "njaajeendi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bolol ngol"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wootel"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:33.287399886Z",
+  "model": "glm-5.3"
+}

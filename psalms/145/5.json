@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Mawnugol teddungal maandu Maa, e konngi golle maa ɗe ɗaɓɓi-ƴi’i, mi haalata-yi’ira ɗum",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "mawnugol"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "maandu Maa"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "golle maa ɗe ɗaɓɓi-ƴi’i"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi haalata-yi’ira ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:37.561746315Z",
+  "model": "glm-5.3"
+}

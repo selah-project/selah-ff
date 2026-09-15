@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sawulu wi'i e Shemuu'el: gaa! mi nanii daande Yaawe, mi yahii e laawol ngol Yaawe neldi-mi ɗum, mi addii ⟨את⟩ Agaag laamɗo Amalek, kadi mi haairtii ⟨את⟩ Amalek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuu'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "mi yahii"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "neldi-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "mi addii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "mi haairtii"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:41.545918311Z",
+  "model": "glm-5.3"
+}

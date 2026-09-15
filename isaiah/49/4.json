@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Kono mi wi'i: E meere mi paggii, e huɓɓere e meereenaaji doole am mi mepti; kono goongɗii, ñaawoore am jeyi ko ⟨e⟩ Yaawe ⟨את⟩, e golle am jeyi ko ⟨e⟩ Eloohim am ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "e meere"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "mi paggii"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "e huɓɓere"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "e meereenaaji"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mi mepti"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kono goongɗii"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "e golle am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:08.885385312Z",
+  "model": "glm-5.3"
+}

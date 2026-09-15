@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yaawe barkiini ⟨את⟩ joofnirde Iyob ko ɓuri fuɗɗoode makko; o heɓi duuɓi nay e sappo uddit({{}}) — o mari uddi sappo e nayi bali, e uddit()",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barkiini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joofnirde Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "joofnirde"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ko ɓuri fuɗɗoode makko"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o mari"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "uddi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bali"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "e"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "uddi jeegom"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ngelooooji"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pelle ɗiwce"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ɗiwmam"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "e"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "kuuɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:30.223416718Z",
+  "model": "glm-5.3"
+}

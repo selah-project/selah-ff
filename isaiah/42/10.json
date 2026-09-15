@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yimtu-ɗum fii Yaawe yimre hesere, yettore mun ummora caggite leydi ndin, ɓe njippooɗi e maayo ngoo e ko heewi e mayre, duuɗe ɗen e hoɗɓe e mum en.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "yimtu-ɗum"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yettore mun"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ummora caggite"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ɓe njippooɗi e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e ko heewi e mayre"
+    },
+    {
+      "surface": "איים",
+      "gloss": "duuɗe ɗen"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "e hoɗɓe e mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:22.110732464Z",
+  "model": "glm-5.3"
+}

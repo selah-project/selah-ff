@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Yuusuf jaabii ⟨את⟩ Paroh, o wi'i: “Wonaa e am; Eloohim jaaboyay ⟨את⟩ jam Paroh.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "wonaa e am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "jaaboyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:08.887292186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Hoto yiɗi ɓural makko e nder ɓernde maa, wanaa kadi yo o nanngu ma e cuppite makko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hoto"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ɓural makko"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "e nder ɓernde maa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "yo o nanngu ma"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "e cuppite makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:29.774115172Z",
+  "model": "glm-5.3"
+}

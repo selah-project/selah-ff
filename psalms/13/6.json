@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono min, e nder hesed maa dakmiimi; ɓernde am maa weltu e nder daɗnde maa; mi mofay Yaawe, sabu o moƴƴinii e am.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "e nder hesed maa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "dakmiimi"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "weltu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "e nder daɗnde maa"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "mi mofay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "o moƴƴinii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:00.466680477Z",
+  "model": "glm-5.3"
+}

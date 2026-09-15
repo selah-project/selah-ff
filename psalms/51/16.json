@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Hisnu am e ƴiiƴam, Eloohim, Eloohim njangu am; milngu am yimnata goongɗal maa.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Hisnu am"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "njangu am"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "yimnata"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "milngu am"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "goongɗal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:05.710547884Z",
+  "model": "glm-5.3"
+}

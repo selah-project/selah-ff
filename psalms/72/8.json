@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "O laamoto ⟨e⟩ maayo haa maayo, e diga Furaat haa cuuɗi leydi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "o laamoto"
+    },
+    {
+      "surface": "מים",
+      "gloss": "diga maayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "e diga Furaat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:11.058952436Z",
+  "model": "glm-5.3"
+}

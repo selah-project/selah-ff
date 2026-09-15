@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndeen laamɗo Selomoh neldi e junngo Benajaahu ɓiy Yehooyaadaa, o fiyi mo, o maayi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehooyaadaa"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:18.197039020Z",
+  "model": "glm-5.3"
+}

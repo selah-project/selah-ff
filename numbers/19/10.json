@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Kadi on mooftuɗo ⟨את⟩ kolli nagge nden larlay ⟨את⟩ comci mun, o mooyaa haa jamma; ɗum woodani ɓiɓɓe Israa'iila e arooɓe hoɗɓe hakkunde maɓɓe, ko sari duumiiki.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "larlay"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "on mooftuɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolli nagge nden"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kolli"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "nagge nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci mun"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comci mun"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "o mooyaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "woodani"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "e arooɗo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "aroowo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "hakkunde maɓɓe"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "ko sari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiiki"
+    }
+  ],
+  "timestamp": "2026-09-14T05:44:05.709901063Z",
+  "model": "glm-5.3"
+}

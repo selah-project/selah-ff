@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Immo, dullo, sabu lorwol maa ngarii, e teddungal Yaawe ina ummoo e dow maa.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Immo"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "dullo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lorwol maa"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "e teddungal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e dow maa"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ummoo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:17:02.204499936Z",
+  "model": "glm-5.3"
+}

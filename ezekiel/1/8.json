@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "e junne neɗɗo ena ngona les kanne munɓe, e falnde munɓe nayi; ekaanɗe munɓe e kanne munɓe ina njogaa nayi wonnde.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "e junne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "kanne munɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "falnde munɓe"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "e ekaanɗe munɓe"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "e kanne munɓe"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "nayi wonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:00.955597635Z",
+  "model": "glm-5.3"
+}

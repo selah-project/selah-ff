@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O berzi ⟨את⟩ kerube ɗin kaŋŋe.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "O berzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerube ɗin"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerube ɗin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:25.574925696Z",
+  "model": "glm-5.3"
+}

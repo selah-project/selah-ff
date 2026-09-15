@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Haa kadin, a wooɓo, aɗa haŋgata? Kadin a ummotoo e ɗoggol maa?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kadin"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "a wooɓo"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "aɗa haŋgata"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kadin"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "a ummotoo"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "e ɗoggol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:02.141209892Z",
+  "model": "glm-5.3"
+}

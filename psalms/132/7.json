@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Min naatoto e cuuɗi makko, min suɓa hoore amen faade mbedda footol makko.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "min naatoto"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "e cuuɗi makko"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "min suɓa hoore amen"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "faade mbedda"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "footol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:21.203769392Z",
+  "model": "glm-5.3"
+}

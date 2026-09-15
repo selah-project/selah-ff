@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe kaali e mon ummiinde yiite nden: daande konngi on njiimo, kono mbaadi on njiyaa — si wanaa daande.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ummiinde"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite nden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "njiimo"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "e mbaadi"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "on njiyaa"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "njiya"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "si wanaa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:38.067361055Z",
+  "model": "glm-5.3"
+}

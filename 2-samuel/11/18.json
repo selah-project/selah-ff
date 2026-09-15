@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yoowab neldi, o humpitii Dawuɗu ⟨את⟩ konngi leydi kon ɗin fof.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o humpitii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuɗu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi leydi kon ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "leydi kon ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:26.188558129Z",
+  "model": "glm-5.3"
+}

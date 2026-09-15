@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kono ko konngu waɗata: si ɓe goongɗintaali ma, ɓe nanotaali daande maande nden adannde, ɓe goongɗinay daande maande nden caggalnde.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko konngu waɗata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ɓe goongɗintaali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ɓe nanotaali"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "daande"
+    },
+    {
+      "surface": "האת",
+      "gloss": "maande nden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "adannde"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "ɓe goongɗinay"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "daande"
+    },
+    {
+      "surface": "האת",
+      "gloss": "maande nden"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "caggalnde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:19.875809106Z",
+  "model": "glm-5.3"
+}

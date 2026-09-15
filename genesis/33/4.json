@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Esav dogi ngam dewa heen, o muññi mo, o felli ka daande mun, o ñemmi mo, ɓe cuuni.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ngam dewa heen"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "o muññi mo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o felli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "o ñemmi mo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ɓe cuuni"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:33.702940811Z",
+  "model": "glm-5.3"
+}

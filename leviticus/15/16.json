@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "\"Kadi gorko si emmbal pomre yalti e makko, o ƴuuyna e ndiyam ⟨את⟩ ƴi'e mun fuu, o sella haa kikiiɗe.\"",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kadi gorko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "emmbal"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pomre"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "o ƴuuyna"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ƴi'e mun"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "o sella"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kikiiɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:04.947466161Z",
+  "model": "glm-5.3"
+}

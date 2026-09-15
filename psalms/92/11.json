@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Ñaawirde am nden neldirteeli no reemiri neli; mi ɓuuɓnaama e nebam hesam.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "neldirteeli"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "no reemiri neli"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ñaawirde am"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ɓuuɓnaama"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "e nebam"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "hesam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:14.025099431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Pawe amen ɓe nondi min jooni, gite maɓɓe ɓe loowno ngam yoorde min faade leydi.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "pawe amen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ɓe nondi min"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "gite maɓɓe"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "ɓe loowno"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ngam yoorde min"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "faade leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:04.320665837Z",
+  "model": "glm-5.3"
+}

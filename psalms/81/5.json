@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Fii ko sariya fii Israa'iila woni, ko ñaawoore fii Eloohim Yaaqub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "חק",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fii Israa'iila"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "woni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fii Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqub"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:16.479235280Z",
+  "model": "glm-5.3"
+}

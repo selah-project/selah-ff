@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Eljoreef e Ahija, ɓiɓɓe Siisaa, binndoowo ɗin; Yehosafat ɓiy Ahilud, jettoowo on.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Eljoreef"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "e Ahija"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Siisaa"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "binndoowo ɗin"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahilud"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "jettoowo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:51.784034414Z",
+  "model": "glm-5.3"
+}

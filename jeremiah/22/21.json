@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mi haalii maa e deeƴre maa, kono maa wi'i: “Mi nanataa”; ɗum ko laawol maa gila e suka maa, sabu a nanataa daande am.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "mi haalii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "e deeƴre maa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "maa wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi nanataa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "gila e suka maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a nanataa"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "e daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:05.977254121Z",
+  "model": "glm-5.3"
+}

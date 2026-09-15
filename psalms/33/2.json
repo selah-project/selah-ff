@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yettooree Yaawe e kinnora, e nevel sappo-puɗe; woɗɗitoree mo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yettooree"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kinnora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "e nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sappo-puɗe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "woɗɗitoree"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:59.684645063Z",
+  "model": "glm-5.3"
+}

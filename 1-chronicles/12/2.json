@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓe ko weynuɓe faayi, ñaamoowo e nanoowo, e kuuke e piille e faayi; ɓe iwdi ko e miñiraaɓe Sawul, iwdi Benyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "weynuɓe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "faayi"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "ñaamoowo"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "e nanoowo"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "e kuuke"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "e piille"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "e faayi"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "iwdi e miñiraaɓe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "iwdi Benyamin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:28.227467052Z",
+  "model": "glm-5.3"
+}

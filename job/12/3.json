@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Miin kadi mi woodi ɓernde wano on; mi ŋakkirtaa duu e mon; kadi ⟨את⟩ hommbo mo walaa wano ɗee?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "miin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "wano on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woy"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ŋakkirtaa duu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hommbo mo walaa wano ɗee"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:10.961401841Z",
+  "model": "glm-5.3"
+}

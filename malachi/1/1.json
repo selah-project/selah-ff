@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yuusre konngol Yaawe feewde Israa'iil, e junngo Mal'aakii.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Yuusre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Mal'aakii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:22.746117527Z",
+  "model": "glm-5.3"
+}

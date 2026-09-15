@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Ngam anndude e leydi ndin laawol maa, e nder leƴƴi fuu ddabagu maa.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ddabagu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:10.616775876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Sarjo majjiba ɗen haalani ⟨את⟩ Paroh, wi'i: ⟨את⟩ kabuge am ko mi jeyitortoo hannde.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarjo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "majjiba ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabuge am"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "kabuge am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "jeyitortoo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:26.617341309Z",
+  "model": "glm-5.3"
+}

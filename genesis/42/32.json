@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "\"En ngoni banndiraawo sappo e ɗiɗo, ɓiɓɓe baaba amen; gooto maayiino, tokooso on woni hannde ⟨את⟩ baaba amen to leydi Kenaan.\"",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "en"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "banndiraawo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baaba amen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "maayiino"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "tokooso on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba amen"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baaba amen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "to leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:30.739257164Z",
+  "model": "glm-5.3"
+}

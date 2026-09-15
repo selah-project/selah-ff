@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim barake ⟨את⟩ ɓe, Eloohim wi'i ɓe: Muddu, ɓeydu mon, hebu ⟨את⟩ leydi ndin, hebtu ɗum les junngo mon, laamunu liɗɗi geec ɗin, colli kammuuli ɗin, e kala nelo faayɗo dow leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "barake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Muddu"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ɓeydu mon"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "hebtu ɗum les junngo mon"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "laamunu"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "liɗɗi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geec ɗin"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nelo"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "faayɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:11.810674103Z",
+  "model": "glm-5.3"
+}

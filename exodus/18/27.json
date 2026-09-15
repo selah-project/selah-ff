@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Mosheh neldi ⟨את⟩ sueego mum, o yahi laawol makko fayde leydi makko.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sueego mum"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sueego mum"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "laawol makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:11.935603033Z",
+  "model": "glm-5.3"
+}

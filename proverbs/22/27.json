@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "si a heɓaani ko njoɓta, ko haayre nde yima ngarta leddi maa les maa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a heɓaani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ko njoɓta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko haayre nde"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "yima ngarta"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "leddi maa"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "les maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:01:59.026090703Z",
+  "model": "glm-5.3"
+}

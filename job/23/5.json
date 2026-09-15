@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Mi annday konngi ɗi o jaabotooy mi, mi faamay ko o wi'ay mi.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "mi annday"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "o jaabotooy mi"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "e mi faamay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o wi'ay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:13:50.629038817Z",
+  "model": "glm-5.3"
+}

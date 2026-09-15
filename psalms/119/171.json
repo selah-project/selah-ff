@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Laabi am ɗon mburtina yettoore; sabu a jannginam mi paandaale maa.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "ɗon mburtina"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "laabi am"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoore"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "a jannginam mi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "paandaale maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:13.291974563Z",
+  "model": "glm-5.3"
+}

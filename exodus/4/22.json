@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "A wi'a Parʿo: “Ko ɗuum Yaawe wi'i: ɓiɗɗo am, ɓiɗɗo am aroowo, ⟨ko⟩ Israa'iil.”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "a wi'a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʿo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko ɗuum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ɓiɗɗo am aroowo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:27.257242893Z",
+  "model": "glm-5.3"
+}

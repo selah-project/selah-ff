@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ñalnde laamɗo amen ɓen, arɗo ɓen ñawti e nguleendi wayre; o waññi junngo mun ⟨את⟩ cemmbinɓe.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ñalnde"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "laamɗo amen"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ñawti"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "arɗo ɓen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nguleendi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wayre"
+    },
+    {
+      "surface": "משך",
+      "gloss": "waññi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cemmbinɓe"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "cemmbinɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:55.411753623Z",
+  "model": "glm-5.3"
+}

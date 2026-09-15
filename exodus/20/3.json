@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Alaa eloohim goɗɗi jeyaa maa, wondo e yeeso am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Alaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jeyaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "wondo e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:50.028353848Z",
+  "model": "glm-5.3"
+}

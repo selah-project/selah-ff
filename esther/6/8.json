@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Arungee wuddere laamu nde laamɗo on ɓoornii, e pucci ɗo laamɗo on nayngu e dow mun, e ɗum toɗɗaa keɗeere laamu to hoore mun.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "arungee"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ɓoornii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e mun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "e pucci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "nayngu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow mun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɗum"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "toɗɗaa"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "keɗeere"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "to hoore mun"
+    }
+  ],
+  "timestamp": "2026-09-15T05:41:53.537841475Z",
+  "model": "glm-5.3"
+}

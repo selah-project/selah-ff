@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "⟨את⟩ Uuts ɓiɗɗo mum gadano, e ⟨את⟩ Buuz miñiiko, e ⟨את⟩ Kemuuwel baaba Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuts"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uuts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ɓiɗɗo mum gadano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Buuz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buuz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kemuuwel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuuwel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:43.445891991Z",
+  "model": "glm-5.3"
+}

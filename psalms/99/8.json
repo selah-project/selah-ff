@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Yaawe Eloohim amen, Aa jaabiɗaa ɓe; Aa woniɗaa Eel haforoowo wonande ɓe, e ƴaañoowo dow golle mun ɓe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aa"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "jaabiɗaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "haforoowo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "woniɗaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wonande ɓe"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "e ƴaañoowo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "golle mun ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:30.512752610Z",
+  "model": "glm-5.3"
+}

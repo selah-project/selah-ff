@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɓe ummiima, ɓe ittii ⟨את⟩ cuudi daabaaji ɗin ɗe ngonnoo to Yerushalayim, kadi ⟨את⟩ fuu ɗe uurnitorɗe ɗen ɓe ittii, ɓe mbacci ɗe to ndiyam Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummiima"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "ɓe ittii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuudi daabaaji ɗin"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "cuudi daabaaji ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe ngonnoo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "to Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗe uurnitorɗe ɗen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "ɗe uurnitorɗe ɗen"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ɓe ittii"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ɓe mbacci"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "to ndiyam ɗen"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-09-14T11:25:36.378404962Z",
+  "model": "glm-5.3"
+}

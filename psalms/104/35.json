@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Bakkaatooɓe ɓen mbbaltu ɗum e ⟨les⟩ leydi ndin, tooñooɓe ɓen accutan tawa ɓe ngalaa. Yettin, holholre am, ⟨את⟩ Yaawe; Halleluujaah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "mbbaltu ɗum"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bakkaatooɓe ɓen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e ⟨les⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "e tooñooɓe ɓen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "accutan"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tawa ɓe ngalaa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "yettin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "holholre am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hoylu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:19.121992651Z",
+  "model": "glm-5.3"
+}

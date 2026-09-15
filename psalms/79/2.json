@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Ɓe ndokki ⟨את⟩ ƴiƴe jeyaaɗo-ma ñamde coloɗi kammuuli ɗin, ƴiye hasidooji-ma ƴiye neggu leydi ndin.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Ɓe ndokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiƴe jeyaaɗo-ma"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ƴiƴe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɗo-ma"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ñamde"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "coloɗi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "hasidooji-ma"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ƴiye neggu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:36.580583765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Nden laamɗo on, wertoo makko wayli, miijooji makko cemmbinii mo, juneeje makko ƴeewtitaake, koyɗe makko njani go'o e go'o.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "nden"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "wertoo"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "wayli makko"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "e miijooji makko"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "cemmbinii mo"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "e juneeje"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "makko"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "ƴeewtitaake"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "e koyɗe makko"
+    },
+    {
+      "surface": "דא",
+      "gloss": "go'o"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "e go'o"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "njani"
+    }
+  ],
+  "timestamp": "2026-09-14T10:35:10.131624756Z",
+  "model": "glm-5.3"
+}

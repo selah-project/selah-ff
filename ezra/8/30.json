@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 8:30",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Sarwaaɓe ɓen e Leewiɓe ɓen jaɓii teddeendi kaalis ndin e njamendi ndin e kuutorɗe ɗen, ngam addude ɗum to Yerushalayim, to suudu Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "וקבלו",
+      "gloss": "jaɓii"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e Leewiɓe ɓen"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "teddeendi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis ndin"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "e njamendi ndin"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "e kuutorɗe ɗen"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngam addude"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "to Yerushalayim"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to suudu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:01.973113919Z",
+  "model": "glm-5.3"
+}

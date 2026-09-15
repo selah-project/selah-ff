@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Ɓe ɗaɓɓitii bonanndeeji e nder ɓernde, ñalnde kala ɓe ummitina konuuli.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ɓe ɗaɓɓitii"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bonanndeeji"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "e nder ɓernde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ɓe ummitina"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "konuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:23.538008077Z",
+  "model": "glm-5.3"
+}

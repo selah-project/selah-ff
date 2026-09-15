@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Woto hujjo miskiine, sabu ko kanko miskiine; woto dolnu ñaawaaɗo e dammgal ngal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "woto"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "hujjo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskiine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskiine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e woto"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "dolnu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ñaawaaɗo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "e dammgal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T12:49:50.670993052Z",
+  "model": "glm-5.3"
+}

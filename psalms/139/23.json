@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Yi'looro am, Eel, e anndu ɓernde am; jarribo am, e anndu miijooji am.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "yi'looro am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e anndu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "jarribo am"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "e anndu"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "miijooji am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:05.617977273Z",
+  "model": "glm-5.3"
+}

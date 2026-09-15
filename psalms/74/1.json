@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Jannginirɗe Asaf. Ndeela, Eloohim, a yiɗñu men haa abada? Ndee huɓɓere maa widra no ɗuuɗata e puccu leydi maa ndun?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Jannginirɗe"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ndeela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "a yiɗñu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "widra no ɗuuɗata"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "huɓɓere maa"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "e puccu"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "leydi maa ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:54.283123509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Maayo yalti Edenn fii ndiyamminde ⟨את⟩ paccel ngol; e ɗo o seertina, o wonti hooreeje nay.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Edenn"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "fii ndiyamminde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paccel ngol"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "paccel ngol"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "e ɗo"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "o seertina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "o wonti"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hooreeje"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:42.121962731Z",
+  "model": "glm-5.3"
+}

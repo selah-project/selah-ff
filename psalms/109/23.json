@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Mi yahi no ngesa ɓuuɓnata nihoo, mi taƴa-jaɓɓa hono oryo.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "no ngesa nihoo"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ɓuuɓnata"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "mi yahi"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "mi taƴa-jaɓɓa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "hono oryo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:43.300031119Z",
+  "model": "glm-5.3"
+}

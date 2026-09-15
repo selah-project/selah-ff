@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mi yedday Misrayim e Misrayim, ɓe mbaray: neɗɗo e miñiiko mun, neɗɗo e sehilaaɓe mun, wuro e wuro, laamu e laamu.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Mi yedday"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ɓe mbaray"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "e miñiiko mun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "e sehilaaɓe mun"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "e laamu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:16.374056155Z",
+  "model": "glm-5.3"
+}

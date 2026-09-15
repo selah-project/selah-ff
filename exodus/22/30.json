@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kadi aadi yimɓe laaɓuɓe ngorten ⟨mi⟩; yeru nder ladde jegguɗo, ɗum ñaamany; ngam rawaandu werludon ⟨את⟩ ɗum.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "kadi aadi yimɓe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "laaɓuɓe"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ngorten"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "yeru"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nder ladde"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "jegguɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaamany"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ɗum ñaamany"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ngam rawaandu"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "werludon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:57.578505868Z",
+  "model": "glm-5.3"
+}

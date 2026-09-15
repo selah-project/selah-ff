@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Shemuwel nanii ⟨את⟩ konngi ɗin fuu ɓe yimɓe ɓen, o wi'i ɗi e nokkuuji naa'itorɗe Yaawe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓe yimɓe ɓen"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "o wi'i ɗi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e nokkuuji naa'itorɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T18:53:44.993735383Z",
+  "model": "glm-5.3"
+}

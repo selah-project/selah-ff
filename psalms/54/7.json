@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Bonannde nde ruttata e ƴaañooɓe am; e goonga maa momtu ɓe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ruttata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonannde nde"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "e ƴaañooɓe am"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "e goonga maa"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "momtu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:36.524181974Z",
+  "model": "glm-5.3"
+}

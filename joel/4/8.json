@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "e Mi sooday ⟨את⟩ ɓiɓɓe mon rewɓe ɓen e ⟨את⟩ ɓiɓɓe mon suɓaɓe ɓen, jowe juuɗe ɓiɓɓe Yuuda ɓen, ɓe sooday ɓe to yimɓe Shebaa ɓen, to leƴƴi woɗɗi; ngam Yaawe haali.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "e Mi sooday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mon rewɓe ɓen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ɓiɓɓe mon rewɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mon suɓaɓe ɓen"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ɓiɓɓe mon suɓaɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "jowe juuɗe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ɓe sooday ɓe"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "to yimɓe Shebaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "woɗɗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:01.454036218Z",
+  "model": "glm-5.3"
+}

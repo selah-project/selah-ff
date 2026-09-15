@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "O ɓuuɓnata dannooji mun no toɓɓe mawni; yeeso wutorde mun hombo ⟨waawa⟩ dara?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "O ɓuuɓnata"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "dannooji mun"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "no toɓɓe mawni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "wutorde mun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dara"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:41.721518279Z",
+  "model": "glm-5.3"
+}

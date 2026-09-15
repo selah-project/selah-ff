@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Wata hulu, tawde ⟨את⟩ maaɗa mi woni; diga fuɗnaange mi adday jinnde maa, diga hirnaange mi mooɓay maa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maaɗa",
+      "marks": "e hoore maaɗa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "diga fuɗnaange"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mi adday"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jinnde maa"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "diga hirnaange"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "mi mooɓay maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:43.359487173Z",
+  "model": "glm-5.3"
+}

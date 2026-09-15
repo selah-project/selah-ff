@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ɓe muusii ɓe hoyrii sabu Kush ko yaaminiri maɓɓe, sabu Misrayim ko teddungal maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ɓe muusii"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ɓe hoyriii"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "yaaminiri maɓɓe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "teddungal maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:46.813814054Z",
+  "model": "glm-5.3"
+}

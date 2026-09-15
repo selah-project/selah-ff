@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "⟨את⟩ Eloohim barkinii ⟨את⟩ ɓe, wiyi: Ɓeyditinee, ɓe heewinee, helngee ndiyam ɗin e nder maaje ɗen; colo ɗon on ɓeydito e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "barkinii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Ɓeyditinee"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ɓe heewinee"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "helngee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam ɗin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e nder maaje ɗen"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "colo ɗon on"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ɓeydito"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:54.107868893Z",
+  "model": "glm-5.3"
+}

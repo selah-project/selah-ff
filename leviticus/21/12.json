@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wanaa o yaltu sansaare mun, wanaa o sellina ⟨את⟩ sansaare Eloohim mun; ko seneraaji diwal muurte Eloohim mun ngoni dow mun. Miin mi Yaawe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "say [wanaa o yaltu] e"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "sansaare mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o yaltu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "o sellina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sansaare Eloohim mun"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sansaare"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "seneraaji"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diwal"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "muurte"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Miin mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:42.748214758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kahin on ɓennay ⟨את⟩ olaa nden e ⟨את⟩ minchaa nden dow jaŋre nden; kahin on feewantay mo, o laaɓay.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ɓennay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olaa nden"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olaa nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minchaa nden"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchaa nden"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "dow jaŋre nden"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "feewantay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin on"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "laaɓay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:12.296023342Z",
+  "model": "glm-5.3"
+}

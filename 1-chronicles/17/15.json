@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Hono e konngi ɗin fuu e ɗuum yi'annde, non Natan haali Daawuda.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "hono e ... fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "yi'annde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:28.121450963Z",
+  "model": "glm-5.3"
+}

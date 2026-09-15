@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓe ladti ɗum, Musa wulni ⟨את⟩ ƴiiƴam ngam e dow jaɓɓorgal ngal, faa'i heen.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ɓe ladti ɗum"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "Musa wulni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam ngam"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam ngam"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaɓɓorgal ngal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "faa'i heen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:45.231617751Z",
+  "model": "glm-5.3"
+}

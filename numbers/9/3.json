@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E ñalnde sappo e nayi lewru ndin, hakkunde jamma naange ɗon, nde mbaɗ-⟨את⟩-mun e saŋa mun laaɓtuɗo; no kuɗe mun ɗen fuu e no ñaawoore mun ɗen fuu, mbaɗ-⟨את⟩-mun.",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "e ñalnde sappo e nayi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jamma naange ɗon"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nde mbaɗ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-mun",
+      "marks": "Paska (suffix -mun)"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "e saŋa mun laaɓtuɗo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no ... fuu"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "kuɗe mun ɗen"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "e no ... fuu"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ñaawoore mun ɗen"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-mun",
+      "marks": "Paska (suffix -mun)"
+    }
+  ],
+  "timestamp": "2026-09-14T05:38:09.255723773Z",
+  "model": "glm-5.3"
+}

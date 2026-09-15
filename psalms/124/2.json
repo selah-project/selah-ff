@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "sin Yaawe wonaano e amen, tuma nde aɗam ummii fii amen,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "sin … wanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wonaano"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "tuma nde … ummii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fii amen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:36.085454769Z",
+  "model": "glm-5.3"
+}

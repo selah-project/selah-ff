@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɓe mbonyni ⟨את⟩ leydi Ashur e juuɗe, e ⟨את⟩ leydi Nimrod e dame mayre; o hisniri min e Ashur, si o naatii e leydi amen, kadi si o naatii e keerol amen.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ɓe mbonyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "e dame mayre"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "o hisniri"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "e Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o naatii"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "e leydi amen"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kadi si"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "o naatii (yo laara)"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "e keerol amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:51.093551040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Jaayɓe ɓen cuuɗii luuro am, e ɗonɗe; ɓe teddinii refto sara laawol ngol; ɓe ngarti dabaaɗe lam. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "cuuɗii"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Jaayɓe ɓen"
+    },
+    {
+      "surface": "פח",
+      "gloss": "luuro"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "e ɗonɗe"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ɓe teddinii"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "refto"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "sara"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "dabaaɗe"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ɓe ngarti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.055794465Z",
+  "model": "glm-5.3"
+}

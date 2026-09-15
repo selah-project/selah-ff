@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Leydi ndin udditi ⟨את⟩ hannde mun, moyli ɓe ⟨את⟩ e ⟨את⟩ nguruuyi maɓɓe e ⟨את⟩ yimɓe fof ɓe jeyi Qoraah e ⟨את⟩ marɗe maɓɓe fof.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannde mun"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hannde mun"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "moyli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nguruuyi maɓɓe"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nguruuyi maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe fof ɓe jeyi Qoraah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe jeyi"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Qoraah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "marɗe maɓɓe fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "marɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:42:27.921238264Z",
+  "model": "glm-5.3"
+}

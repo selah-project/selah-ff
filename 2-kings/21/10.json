@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 21:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Yaawe haali juuɗe jeyaaɓe mun annabaaɓe ɗin, wiyoo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe mun"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɗin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyoo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:57.330040034Z",
+  "model": "glm-5.3"
+}

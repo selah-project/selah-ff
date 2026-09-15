@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O yahi, o take ⟨את⟩ Gomer ɓiy Dewlayim; o reedu, o wallu ɓiy gorko.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "O yahi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o take"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Dewlayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o reedu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o wallu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy gorko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:07.079736054Z",
+  "model": "glm-5.3"
+}

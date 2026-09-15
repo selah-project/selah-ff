@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Jangtooje am ɗen laata yamɗuɗe Makko; kanko mi, mi weltoto e Yaawe.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "laata yamɗuɗe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Makko"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "jangtooje am ɗen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "mi weltoto"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:19.121800295Z",
+  "model": "glm-5.3"
+}

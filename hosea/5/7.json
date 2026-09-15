@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɓe fenani Yaawe, mawni ɓe ndañi ɓiɓɓe wirnaaɓe; jooni lewru nduu na ñammi ⟨את⟩ kecce maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ɓe fenani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wirnaaɓe"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ɓe ndañi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "na ñammi ɓe"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru nduu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kecce maɓɓe"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "kecce maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-15T09:12:30.262604612Z",
+  "model": "glm-5.3"
+}

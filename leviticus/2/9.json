@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kahinɗo on ƴetta e minchah ndin ⟨את⟩ jaabeteengal mayre, o tinirlina ɗum e nadirdu ndin — ofirool yiite, misa nijooja fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "ƴetta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahinɗo on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaabeteengal mayre"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "jaabeteengal mayre"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "o tinirlina"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e nadirdu ndin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofirool yiite"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "misa"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nijooja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:16.656000764Z",
+  "model": "glm-5.3"
+}

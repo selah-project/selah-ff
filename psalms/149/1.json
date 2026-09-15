@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 149,
+  "translation": "Yettoyee Yaah, yimɓe yimlu fii Yaawe yimre hesere, yettoore mun ⟨e⟩ ka nder mawnirgal hesidim ɓen.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Yettoyee"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "yimɓe yimlu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yettoore mun"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ka nder mawnirgal"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "hesidim ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:59.793149663Z",
+  "model": "glm-5.3"
+}

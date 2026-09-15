@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen wakkati min ndilli ⟨את⟩ leydi ndin e juuɗe laamɓe ɗiɗo Amoriyyankooɓe ɓen ɗen wonɓe to maayo Yarden ngoo, iwde e ɓunndu Arnon haa e tulde Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "min ndilli"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "Ndeen wakkati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyyankooɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗen wonɓe"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "to maayo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "iwde e ɓunndu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:56.863533421Z",
+  "model": "glm-5.3"
+}

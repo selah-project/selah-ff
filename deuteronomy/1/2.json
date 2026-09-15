@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ñalawuu sappo e go'o laawol woodi, iwde Horeb, laawol tulde Se'iir, haa Kades-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "go'o"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo e"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ñalawuu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "iwde Horeb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:49.270464829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Ɗum wa'i, leñol am anndoy innde am; ɗum wa'i, e ñalawma gaso o ɓe anndoy wonde ko min woni baɗɗo wolde — ɗoo mi woni mi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ɗum wa'i"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndoy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "leñol am"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ɗum wa'i"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalawma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "gaso o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ... woni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "baɗɗo wolde"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi woni mi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:48.909421844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yehuu fiyi ⟨את⟩ ɓen hedduɓe fuu ɓe galle Akab, to Yizreel, e mawɓe makko fuu, e annduɓe makko ɓen, e ruuhuyaaji makko ɓen, haa o accaani mo wuurdo gooto.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓen hedduɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ɓen hedduɓe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "to Yizreel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "mawɓe makko"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "e annduɓe makko ɓen"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "e ruuhuyaaji makko ɓen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "accaani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "wuurdo gooto"
+    }
+  ],
+  "timestamp": "2026-09-15T05:38:00.366137630Z",
+  "model": "glm-5.3"
+}

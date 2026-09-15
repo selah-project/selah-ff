@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Mi nanndii e kaakawwi jeereende, mi laati hono wuddu senteende.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "mi nanndii"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "e kaakawwi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi laati"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "hono wuddu"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "senteende"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.114400932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe Eloohim amen rokkii e junngo amen kadi ⟨את⟩ Og laamɗo Baashan e ⟨את⟩ yimɓe mun fuu; min njani mo haa alaa heddi mo wirniiɗo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "e junngo amen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og laamɗo Baashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Baashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "min njani mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "heddi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "wirniiɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:48.060418215Z",
+  "model": "glm-5.3"
+}

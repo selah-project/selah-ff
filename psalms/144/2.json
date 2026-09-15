@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Hesed am e mesudi am, damal mawnungal am e daɗɗo am, kaɓirgal am, e hoore makko mi wondi; On ɓooyinta yimɓe am les mi.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesed am"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e mesudi am"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "damal mawnungal am"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e daɗɗo am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kaɓirgal am"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "e hoore makko"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi wondi"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "On ɓooyinta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "les mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.853501599Z",
+  "model": "glm-5.3"
+}

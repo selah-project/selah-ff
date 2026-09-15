@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kono bamāre ɗen ɗe ɓeydaa; yimɓe ɓen nokku ɓe woni ɗin, ɓe hanndi saakooji ɗi e ɓe niɓɓi kuuyol e nder bamāre ɗen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kono"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamāre ɗen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ɓeydaa ɗe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nokku ɓe woni ɗin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ɓe saakooji"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "e ɓe niɓɓi kuuyol"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "e nder bamāre ɗen"
+    }
+  ],
+  "timestamp": "2026-09-15T05:38:19.982666743Z",
+  "model": "glm-5.3"
+}

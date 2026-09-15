@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "On cooda ⟨את⟩ hitaande nden jeetataɓre, ñaamton e peewnugol ngol ɓooyngol, haa hitaande jeenayaɓre, haa arde peewnugol mayre, ñaamton ɓooyngol.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "on cooda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hitaande nden"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande nden"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "jeetataɓre"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ñaamton"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "peewnugol ngol"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ɓooyngol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "jeenayaɓre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "arde"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "peewnugol mayre"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamton"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ɓooyngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:10.575425460Z",
+  "model": "glm-5.3"
+}

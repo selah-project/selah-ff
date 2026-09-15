@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Booz wi'i ɓe-jaɓɓotooɓe ɓen e yimɓe ɓen fuu: “Ko on seedeeɓe hannde tawa mi soodi ⟨את⟩ fuu ko Elimelek mari, e ⟨את⟩ fuu ko Kilyon e Machlon mari, e junngo Na'ami.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Booz"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "ɓe-jaɓɓotooɓe ɓen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seedeeɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ko on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "mi soodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko Elimelek mari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ... mari"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu ko Kilyon e Machlon mari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ... mari"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "Kilyon"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "e Machlon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'ami"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:16.765883693Z",
+  "model": "glm-5.3"
+}

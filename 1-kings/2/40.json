@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Shimii ummii, o daasi ⟨את⟩ mudda mun, o yahi to Gat, to Akish, ngam ƴellitde ⟨את⟩ jawmiiɓe mun ɗen. Shimii yahi, o addi ⟨את⟩ jawmiiɓe mun ɗen ummoraade Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimii"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "o daasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudda mun"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "mudda mun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "to Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ngam ƴellitde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawmiiɓe mun"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jawmiiɓe mun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimii"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawmiiɓe mun"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jawmiiɓe mun"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ummoraade Gat"
+    }
+  ],
+  "timestamp": "2026-09-14T12:04:30.347378594Z",
+  "model": "glm-5.3"
+}

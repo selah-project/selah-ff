@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "O yalti, o haɓi e Pilisti’en ɗin, o muñḍi ⟨את⟩ ndeeƴre Gat e ⟨את⟩ ndeeƴre Yawne e ⟨את⟩ ndeeƴre Ashdod; o mahi gure e nder Ashdod e nder Pilisti’en ɗin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "e Pilisti’en ɗin"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "o muñḍi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeeƴre Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ndeeƴre"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ndeeƴre Yawne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ndeeƴre"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yawne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ndeeƴre Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ndeeƴre"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gure"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "e nder Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "e nder Pilisti’en ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T13:07:31.603144415Z",
+  "model": "glm-5.3"
+}

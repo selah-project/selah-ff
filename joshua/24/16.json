@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yimɓe ɓen jaabii ɓe wi'i: “Duuɗu e min gaŋaade ⟨את⟩ Yaawe, ngollude Eloohim goɗɗi.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "duuɗu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "gaŋaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngollude"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:57.334933282Z",
+  "model": "glm-5.3"
+}

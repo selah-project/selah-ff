@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "So Adonaay lanlana ⟨את⟩ ɓunaandu ɓiɗɓe rewɓe Sion, e ⟨את⟩ ƴiiƴam Yerushalayim ɗum o momta nder mayre, e ruuhi ñaawoore e e ruuhi ƴulol.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "So"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "lanlana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓunaandu ɓiɗɓe rewɓe Sion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ɓunaandu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɗɓe rewɓe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiiƴam Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "o momta"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "nder mayre"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "e ruuhi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "e e ruuhi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ƴulol"
+    }
+  ],
+  "timestamp": "2026-09-14T12:11:52.168281298Z",
+  "model": "glm-5.3"
+}

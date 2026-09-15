@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 41:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Saanga ɓe naatii hakkunde wuro ngoo, Yishmael ɓiy Netanya sarii ɓe, wutti ɗum to hakkunde ɓulliɗo ngoo — kanko e worɓe ɓe ⟨את⟩ makko wonnoo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "saanga"
+    },
+    {
+      "surface": "כבואם",
+      "gloss": "ɓe naatii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "sarii ɓe, wutti ɗum"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ɓulliɗo ngoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "e worɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e ⟨את⟩ makko",
+      "marks": "worɓe ɓe e makko wonnoo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:26:52.181739457Z",
+  "model": "glm-5.3"
+}

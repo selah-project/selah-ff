@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ñalnde fof Yaawe yamira hesed makko, e jemma jimol makko woni e am — du'aawu feewde Eel nguurndam am.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde fof"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "yamira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "jimol"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "du'aawu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "feewde Eel"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:54.255797552Z",
+  "model": "glm-5.3"
+}

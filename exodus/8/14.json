@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Haatanooɓe ɓen ndeñii ko nii e ganndal cuuɗiiɗal mun ngal fii yaltinde ⟨את⟩ pucci-taggirɗi ɗin, kono ɓe waawaa; pucci-taggirɗi njiɗii e ɗuuɗal e yimɓe e neemoraaɗi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ndeñii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "haatanooɓe ɓen"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "e ganndal cuuɗiiɗal mun ngal"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "fii yaltinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci-taggirɗi ɗin"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "pucci-taggirɗi ɗin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ɓe waawaa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "njiɗii e ɗuuɗal"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "pucci-taggirɗi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e neemoraaɗi"
+    }
+  ],
+  "timestamp": "2026-09-15T05:42:36.080434742Z",
+  "model": "glm-5.3"
+}

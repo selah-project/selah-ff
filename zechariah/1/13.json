@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe jaabii ⟨את⟩ mal'aka on wowlaɗo e am, konnguɗi moƴƴuɗi, konnguɗi ettoriiɗi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mal'aka on"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mal'aka on"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wowlaɗo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "moƴƴuɗi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "ettoriiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:53.491587722Z",
+  "model": "glm-5.3"
+}

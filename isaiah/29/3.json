@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Mi ɗooyii no gadde nii hedde maa; mi hebbinii maa moota konu, mi dariini maa caɗɗe lelngol.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "mi ɗooyii"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "no gadde nii"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hedde maa"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "mi hebbinii maa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "moota konu"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "mi dariini maa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "caɗɗe lelngol"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:56.540012885Z",
+  "model": "glm-5.3"
+}

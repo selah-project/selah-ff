@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Tuma nde nguurndam am ɓooyii dow am, mi jottoji ⟨את⟩ Yaawe; du'aawu am arii faade e maa, faade e suudu laamu ndinu maaɗa.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "tuma nde ... ɓooyii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mi jottoji"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aawu am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu laamu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ndinu maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:29.474084758Z",
+  "model": "glm-5.3"
+}

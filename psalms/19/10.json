@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Kulol Yaawe laaɓi, dariingo haa duumi; ñaawooreaji Yaawe ko goonga, ɗi moƴƴii hoore ɓurɗe.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Kulol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "laaɓi"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "dariingo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawooreaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "moƴƴii"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hoore ɓurɗe"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:03.582675772Z",
+  "model": "glm-5.3"
+}

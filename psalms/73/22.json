@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Kono mi wanaago aql, mi anndaa; baawɗo nayaɓo nguuru mi wonnoo e maa dong.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono mi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wanaago aql"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": ""
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "baawɗo nayaɓo nguuru"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonnoo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa dong"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:30.086540907Z",
+  "model": "glm-5.3"
+}

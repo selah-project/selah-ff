@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi ɗum woni ko maa waɗan ⟨את⟩ mo: njuuteende laana ndin ko ammaaji teemedere tati, yaajde mayre ko ammaaji capanɗe joyi, e tooweende mayre ko ammaaji capanɗe tati.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Kadi ɗum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "njuuteende"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "laana ndin"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "capanɗe joyi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "yaajde mayre"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "e capanɗe tati"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "tooweende mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:03.180298186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Lot yalti faade e ɓe to damal ngal, o udditi damal ngal ɓaawo makko.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "faade e ɓe"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "to damal ngal"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "e damal ngal"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "o udditi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:09.445536265Z",
+  "model": "glm-5.3"
+}

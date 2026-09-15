@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Bindi an, reen kelme am, reen kadi amrire am, muddu ɗum ⟨את⟩ e maaɗa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bindi an"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "reen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "kelme am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e amrire am"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "muddu ɗum"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maaɗa",
+      "marks": "e maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:09.552480366Z",
+  "model": "glm-5.3"
+}

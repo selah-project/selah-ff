@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yennitaama, yennitaama leydi ndin; weeditaama, weeditaama ndi; sabu Yaawe haali ⟨את⟩ konngol ngol.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "yennitaama"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "yennitaama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "weeditaama"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "weeditaama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:25.774005556Z",
+  "model": "glm-5.3"
+}

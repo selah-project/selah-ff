@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Nduube nay mawɗe ɗe ceertuɗe ɗe ngummii e maayo, nde woɗnde ceertu e nde wołnde.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "nay"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "nduube"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "mawɗe"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ɗe ngummii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ceertuɗe"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nde wołnde"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "דא",
+      "gloss": "nde wołnde"
+    }
+  ],
+  "timestamp": "2026-09-14T13:00:42.289124897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O yamiri mo fii konngol ngol, wanaa yahde ɓaawo eloohim goɗɗi; kono o reenaani ⟨את⟩ ko Yaawe yamiri.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "o yamiri"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "yahde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "reenaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe yamiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:02.421287313Z",
+  "model": "glm-5.3"
+}

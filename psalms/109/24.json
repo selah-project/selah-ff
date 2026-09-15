@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Pettuuje am ɗe ŋakkii doole sabu ɗe ñaamataa, neɗɗan am ɓeydi ŋakkude purdewal e duume.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "pettuuje am ɗe"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ŋakkii doole"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "sabu ɗe ñaamataa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "neɗɗan am"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ɓeydi ŋakkude"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "purdewal e duume"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:43.300161104Z",
+  "model": "glm-5.3"
+}

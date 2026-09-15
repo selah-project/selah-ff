@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O hokki ɓuurondirɓe maɓɓe ñaareewe, Yiite lelleeje e leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "O hokki"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ɓuurondirɓe maɓɓe"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ñaareewe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Yiite"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "lelleeje"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "e leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.248787871Z",
+  "model": "glm-5.3"
+}

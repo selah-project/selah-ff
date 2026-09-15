@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Yaawe, wata e nder cemre maa a ñaawan ⟨mi⟩, wata e nder tikkere maa a yamran ⟨mi⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "e nder cemre maa"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "a ñaawan mi"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "e nder tikkere maa"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "a yamran mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.029018262Z",
+  "model": "glm-5.3"
+}

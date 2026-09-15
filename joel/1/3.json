@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko faati heen haalee ɓiɗɓe mon, ɓiɗɓe mon haalan ɓiɗɓe maɓɓe, ɓiɗɓe maɓɓe haalan jamaanu woɗngo.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Ko faati heen"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "ɓiɗɓe mon"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "haalee"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ɓiɗɓe mon"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ɓiɗɓe maɓɓe"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ɓiɗɓe maɓɓe"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "jamaanu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "woɗngo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:22.621341907Z",
+  "model": "glm-5.3"
+}

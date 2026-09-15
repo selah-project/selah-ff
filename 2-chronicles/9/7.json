@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yettoode woodanii worɓe maa ɓen, yettoode woodanii maccuɓe maa ɓen ɗoo, ɓe darii yeeso maa duumiɓe, ɓe nanoo ⟨את⟩ hikima maa ndin.”",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "yettoode woodanii"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "worɓe maa ɓen"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "e yettoode woodanii"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "maccuɓe maa ɓen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumiɓe"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "ɓe nanoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hikima maa ndin"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "hikima maa ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:41.970117989Z",
+  "model": "glm-5.3"
+}

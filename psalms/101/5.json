@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 101,
+  "translation": "Himo ɓuuwnana ɓadiiɗo mun e cuuɗirde — ⟨את⟩ mo maa mi momtu; mo heɓi geece toowɗe e ɓernde yaajnde, ⟨את⟩ mo mi waawaa ñaawde.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "himo ɓuuwnana"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e cuuðirde"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ɓadiiɗo mun"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "mo ɓuuwnooɗo"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "maa mi momtu"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "toowɗe"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "geece"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e yaajnde"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo ɓernde yaajnde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa ñaawde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:59.267468450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɗee woni paldaale Yaawe, pelle paaye, ɗi njiɗ-ɗaa wi'ite ⟨את⟩ ɗum e waktuuji mun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "paldaale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "paaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "njiɗ-ɗaa wi'ite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (e waktuuji mun)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "e waktuuji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:20.582329293Z",
+  "model": "glm-5.3"
+}

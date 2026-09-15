@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kono gite mon ɗen ngoni ɗi yi'i ⟨את⟩ fuu golle Yaawe ɗe mawnɗe ɗen, ɗe o waɗi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono \/ sabu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gite mon ɗen"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ngoni ɗi yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu golle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ɗe mawnɗe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:17.701709585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 3:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe Eloohim wi'i haaja ngaja on: Sabu min mbaɗii ɗum, min ɗaɓɓaama e nder daabaaji ɗin fuu, e neɗɗaaji ladde ɗin fuu; e mbaadel maa nga njaha, e mbuuwa njaha ñaama, ñalawmaaji nguurndam maa ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "jaaja on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "min mbaɗii"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "aƴɓiraama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a \/ min"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "daabaaji ɗin"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e ... fuu kadi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "noore ladde"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "גחנך",
+      "gloss": "ɓernde maa \/ mbaadel maa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "njaha"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e mbuuwa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ñaama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalawmaaji"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "nguurndam maa"
+    }
+  ],
+  "timestamp": "2026-09-15T09:10:44.573927100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Yaawe kaaldii e Muusaa, wiyuɗo:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaaldii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:57.303537435Z",
+  "model": "glm-5.3"
+}

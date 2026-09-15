@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E hitaande tataɓere laamu makko, o waɗi kewu ina heen gollooɓe makko ɓen e gollaaɗe makko ɓen — doole Paras e Maday, heeferɓe ɓen e ardiiɓe diiwanuuje ɗen — ina ngoni yeeso makko.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "E hitaande"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tataɓere"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kewu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ina heen kala"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "gollooɓe makko ɓen"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "e gollaaɗe makko ɓen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "e Maday"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "heeferɓe ɓen"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e ardiiɓe"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "diiwanuuje ɗen"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:20.926715141Z",
+  "model": "glm-5.3"
+}

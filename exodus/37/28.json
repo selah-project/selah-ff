@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O waɗi ⟨את⟩ palte ɗen — leppi coktirɗi ɗi leggu shittim — o wertini ɗum ⟨את⟩ kaŋnge.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palte ɗen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palte ɗen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leppi coktirɗi ɗi leggu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "o wertini ɗum"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (palte ɗen)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋnge"
+    }
+  ],
+  "timestamp": "2026-09-15T07:03:46.164654731Z",
+  "model": "glm-5.3"
+}

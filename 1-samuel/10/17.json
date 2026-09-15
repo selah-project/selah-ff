@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shemuwel noddi ⟨את⟩ ɓiyleydaaɓe ɓen haa Yaawe, to Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiyleydaaɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiyleydaaɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:31.699799633Z",
+  "model": "glm-5.3"
+}

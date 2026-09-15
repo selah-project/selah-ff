@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "O waylitii maayo ngoo waɗiti leydi woorndi, nder maayo ɓe njahi koyɗe; ɗoo min njabbi faayiida e makko.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "o waylitii"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "waɗiti leydi woorndi"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "nder maayo"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "koyɗe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "min njabbi faayiida"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:20.896429713Z",
+  "model": "glm-5.3"
+}

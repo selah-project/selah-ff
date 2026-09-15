@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Leemde doole ñaami neɗɗo; ɓiɗe O neldi ɓe haa hebbere.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "leemde"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "doole"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaami"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ɓiɗe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "haa hebbere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:01.017024078Z",
+  "model": "glm-5.3"
+}

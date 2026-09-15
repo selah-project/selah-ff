@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Sabu piɗe maa njippii e ⟨am⟩, jowel maa ɓennii ⟨wonnde⟩ dow am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "piɗe maa"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "njippii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ɓennii wonnde"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jowel maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.029164247Z",
+  "model": "glm-5.3"
+}

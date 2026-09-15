@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko ɗum waɗi Adonaay Yaawe waɗataa hay huunde, si wonaa o feeñinanaa sod makko to jeyaaɓe makko ɗin, annabaaɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko ɗum waɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hay huunde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o feeñinanaa"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sod makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko ɗin"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annaɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:41.907924899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Hol mo siftorii Eel, walla loowti peseŋ, tawa nafataa hay huunde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "siftorii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "walla peseŋ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "loowti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "nafataa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:40.063275062Z",
+  "model": "glm-5.3"
+}

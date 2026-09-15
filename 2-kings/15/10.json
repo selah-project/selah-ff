@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sallum ɓiɗɗo Yabesh feewiti e makko, o fiyi mo yeeso yimɓe ɓen, o wara mo, o laami lomto makko.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "feewiti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Sallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "o fiyi mo"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "o wara mo"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "o laami"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomto makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:59.981451050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Kano o anndaa ko waɗata; kano so ngo waɗii, hol humpototoo ɗum mo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kano"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "o anndaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kano"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ngo waɗii"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "humpototoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:03.939460217Z",
+  "model": "glm-5.3"
+}

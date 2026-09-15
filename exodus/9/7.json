@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Per'aawo neldi [yimɓe] ƴeewde, e ardude — hay nagge gooto e nagge naɓɓe Israayiil maayaa; ɓernde Per'aawo teddinii, o accanaali ⟨את⟩ ɓiɓɓe leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Per'aawo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ardude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayaa"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "e nagge naɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "teddinii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Per'aawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o accanaali"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "accanaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe leydi ndin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:41.490976906Z",
+  "model": "glm-5.3"
+}

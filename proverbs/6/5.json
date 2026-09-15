@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Hisnu hoore maa no ceede ngee woppirta e junngo, no colo woppirta e junngo fowo on.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "hisnu hoore maa"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "no ceede ngee"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "no colo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "fowo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:53.564638654Z",
+  "model": "glm-5.3"
+}

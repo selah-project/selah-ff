@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "O rewti ɓe, o yawri e deeƴre; laawol ngol o naataa e koyɗe mun ɗen.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "O rewti ɓe"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "o yawri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "e deeƴre"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "e koyɗe mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naataa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o naata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:51.219174710Z",
+  "model": "glm-5.3"
+}

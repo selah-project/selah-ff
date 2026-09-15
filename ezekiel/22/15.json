@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mi sañnata ⟨את⟩ maa e nder leƴƴi, mi laynintaama e leyɗe, mi momtinta ɓuuɓri maa e maa.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "mi sañnata"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maa",
+      "marks": "maa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder leƴƴi"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "mi laynintaama"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "e leyɗe"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "mi momtinta"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "ɓuuɓri maa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:44:49.747622615Z",
+  "model": "glm-5.3"
+}

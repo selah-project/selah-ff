@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Gooto e gooto ina seŋorii, ayruwu nana naata hakkunde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ina seŋorii"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ayruwu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "naata"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "hakkunde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:19:46.937602173Z",
+  "model": "glm-5.3"
+}

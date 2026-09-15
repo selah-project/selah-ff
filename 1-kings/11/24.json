@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O mooɓii worɓe makko, o wonti hooreedo gorkondiral e saŋgirde Daawidi waranɗe ⟨את⟩ ɓe; ɓe njahi Dammasek, ɓe ngoni ton, ɓe laami to Dammasek.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "o mooɓii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o wonti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreedo"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gorkondiral"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "e saŋgirde waranɗe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawidi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammasek"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ɓe laami"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "to Dammasek"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:03.998052434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E gorko waɗo ngodaagu mun e be'e — maayde ɗum maayay; e ⟨את⟩ be'e nder mon mbardaa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "E gorko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "waɗo"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ngodaagu mun"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "e be'e"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ɗum maayay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "be'e nder"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "be'e nder"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "mbardaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:22.103682461Z",
+  "model": "glm-5.3"
+}

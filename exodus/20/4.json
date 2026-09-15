@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Wata mbaɗa maa naafoore, walla natal kala nokku wuro e kammuuli ɗin to dow, walla nokku wuro e leydi ndin les, walla nokku wuro e ndiyam ɗam les leydi ndin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "naafoore"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "walla kala"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "natal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli ɗin"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "to dow"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "walla nokku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "walla nokku"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam ɗam"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:50.028526629Z",
+  "model": "glm-5.3"
+}

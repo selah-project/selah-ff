@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nanto, Israa'iil, reen ɗum waɗude, fii ko neway maa, on ɓurtay no feewi, no Yaawe Eloohim baabiraaɓe maa ɗin wi'i maa: leydi ƴulndi ñeebe e asal.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Nanto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "reen"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "neway"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fii on"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "ɓurtay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baabiraaɓe maa ɗin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ƴulndi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñeebe"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "asal"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:42.190269233Z",
+  "model": "glm-5.3"
+}

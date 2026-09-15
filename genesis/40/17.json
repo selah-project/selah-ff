@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Kadi e nder cawaali ɗin dow ɗi, ko e ko foodu Farawo foodiraa, golle ñaamoowo; kadi colli ɗin ñaamata ⟨את⟩ ɗum en, ummoraade e nder cawaali ɗin, dow hoore am.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "e nder cawaali"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ko e ko"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "foodu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farawo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "ñaamoowo"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "kadi colli ɗin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum en (ko colli ɗin ñaamata)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "e nder cawaali ɗin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    }
+  ],
+  "timestamp": "2026-09-15T07:04:30.055704803Z",
+  "model": "glm-5.3"
+}

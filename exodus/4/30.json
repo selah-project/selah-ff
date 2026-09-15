@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Aarooŋa haali ⟨את⟩ konnguɗi ɗin fof ɗi Yaawe haali to Moosaa, o waɗi maandeeji ɗin gite yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarooŋa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "maandeeji ɗin"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "gite"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:42.004758206Z",
+  "model": "glm-5.3"
+}

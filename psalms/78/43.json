@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Nde o waɗi maande makko e Misrayim, e kaawniiɗe makko e ladde Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "maande makko"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "e kaawniiɗe makko"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:15.310012519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe addi e maɓɓe ⟨את⟩ mawɓe konu ɗen ɗi laamɗo Ashshur mari; ɓe nanngi ⟨את⟩ Menashshe e nder ɗaɗɗe, ɓe ɗaani mo e cantinaaji njamendi, ɓe addi mo Babil.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "addi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawɓe konu ɗen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ɓe nanngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashshe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "e nder ɗaɗɗe"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ɓe ɗaani mo"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "e cantinaaji njamendi"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "ɓe addi mo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil"
+    }
+  ],
+  "timestamp": "2026-09-14T13:09:25.151977756Z",
+  "model": "glm-5.3"
+}

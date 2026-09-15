@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 34:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "E uddituɗo woyo a foddora e wawre; kono si a foddoraa, a taƴ daande mun; kala ɓiɗɗo aranoore ɓiɗɓe maa a foddora; e ɓe ɓe ngoppa yeeɓe Am meere.",
+  "tokens": [
+    {
+      "surface": "ופטר",
+      "gloss": "e uddituɗo"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "woyo"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "a foddora"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "e wawre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "a foddora"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "a taƴ daande mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ɓiɗɗo aranoore"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɗɓe maa"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "a foddora"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe ngoppa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeɓe Am"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "meere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:50.065995905Z",
+  "model": "glm-5.3"
+}

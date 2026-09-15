@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "layngu (ayyalu), e cebuu, e yaammuuru, e akkuu, e diisonu, e ta'oo, e zammeru.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "layngu (ayyalu)"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "e cebuu"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "e yaammuuru"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "e akkuu"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "e diisonu"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "e ta'oo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "e zammeru"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:38.251816507Z",
+  "model": "glm-5.3"
+}

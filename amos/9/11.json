@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E ñalawma oo maa dar-mi ⟨את⟩ suka Daawuda dawruɗum ngol, maa uddir-mi ⟨את⟩ ruuche maggal, yumre maggal ɗen maa dar-mi, maa mahir-nde no ñalɗi gadani ɗen nih.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "e ñalawma oo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "maa dar-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka Daawuda dawruɗum ngol"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "suka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "dawruɗum ngol"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "maa uddir-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuche maggal"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "ruuche maggal"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "yumre maggal ɗen"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "maa dar-mi"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "maa mahir-nde"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no ñalɗi ɗen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "gadani ɗen nih"
+    }
+  ],
+  "timestamp": "2026-09-14T12:32:31.389897900Z",
+  "model": "glm-5.3"
+}

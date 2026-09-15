@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Shemuwel wi'i to Shawul: \"A waɗii dinta; a rewaani ⟨את⟩ jamirooje Yaawe Eloohim maa ɗe O ɗaɓɓiri ma; tawi ndeen Yaawe daɗinirno ⟨את⟩ laamu maa dow Israayiil haa duumi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "a waɗii dinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ł'a"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "rewaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamirooje"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "jamirooje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ɗaɓɓiri ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "daɗinirno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamu maa"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "laamu maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:37.199183908Z",
+  "model": "glm-5.3"
+}

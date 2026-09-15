@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yettin-ɗaa Yaawe, malaikaaji makko, warɓe doole, waɗooɓe konngol makko, nanoowo daande konngol makko.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "yettin-ɗaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaikaaji makko"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "warɓe"
+    },
+    {
+      "surface": "כח",
+      "gloss": "doole"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "waɗooɓe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nanoowo"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:20.543658352Z",
+  "model": "glm-5.3"
+}

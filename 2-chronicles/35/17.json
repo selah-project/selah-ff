@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɓiɓɓe Israa'iila ɓe hoɗnoo ɗon mbaɗi ⟨את⟩ Pesaah e oon sahaa, e ⟨את⟩ dendu Matsot balɗe jeeɗiɗo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɗon mbaɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ɓe hoɗnoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesaah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "oon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dendu Matsot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "dendu"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "Matsot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeɗiɗo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T13:09:36.247637872Z",
+  "model": "glm-5.3"
+}

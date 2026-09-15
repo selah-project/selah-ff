@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi ƴettan ⟨את⟩ on ⟨את⟩ wonan am leñol, mi laamiiɗan on Eloohim, on mooyana ko mi Yaawe Eloohim mon, ɗum ƴettata on les juuɗe muusuɗe Misrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "mi ƴettan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wonan am"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "mi laamiiɗan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "on mooyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ɗum ƴettata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "juuɗe muusuɗe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:11.775143025Z",
+  "model": "glm-5.3"
+}

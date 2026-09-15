@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Eloohim wurtini ⟨את⟩ leñol ngol laawol jeereende ndee, feewde Maayo Suuf; ɓe ƴellii hiisaade, ɓiɓɓe Yisraa'iil, ummoraade leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wurtini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol ngol"
+    },
+    {
+      "surface": "העם",
+      "gloss": "leñol ngol"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeereende ndee"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "hiisaade"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ɓe ƴellii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummoraade leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:58.720114336Z",
+  "model": "glm-5.3"
+}

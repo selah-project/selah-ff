@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yimɓe ɓen ngaɗii non, ɓe njaltinii na'i ɗiɗo woornooɓe, ɓe ndarni ɗen e pala, ɓe cokori ⟨את⟩ dukkuɓe mun en nder suudu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngaɗii non"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe njaltinii"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "woornooɓe"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ɓe ndarni ɗen"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "e pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dukkuɓe mun en"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "dukkuɓe mun en"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ɓe cokori"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nder suudu"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:04.633218266Z",
+  "model": "glm-5.3"
+}

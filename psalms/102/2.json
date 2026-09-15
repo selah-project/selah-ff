@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Yaawe, nano du'aawal am, a wujjere am aru e maaɗa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nano"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aawal am"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "a wujjere am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "aru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:25.447263318Z",
+  "model": "glm-5.3"
+}

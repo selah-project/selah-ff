@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Israa'iil ari Misrayim, Ya'aquba hoɗi buso e leydi Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aquba"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hoɗi buso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:23.958841071Z",
+  "model": "glm-5.3"
+}

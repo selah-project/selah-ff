@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E Eloohim wiyi leydi-yeeyde ndin «leydi», e mooftirɗe ndiyam ɗin o wiyi «maa ɗen»; Eloohim yi'i ko moƴƴi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wiyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "leydi-yeeyde ndin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "«leydi»"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "e mooftirɗe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wiyi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "«maa ɗen»"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:48.774907660Z",
+  "model": "glm-5.3"
+}

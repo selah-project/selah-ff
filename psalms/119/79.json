@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɓe ɗooñɗo maa ɓen ruttu am, ɓe anndu seedeeje maa.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ruttu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ɓe ɗooñɗo maa ɓen"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ɓe anndu"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "seedeeje maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:22.089078674Z",
+  "model": "glm-5.3"
+}

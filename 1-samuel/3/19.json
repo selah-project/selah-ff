@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Shemuwël mawnii, Yaawe wonnoo e makko, o yanninaani wootere e konngi makko ɗin les.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "mawnii"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwël"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e-makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "yanninaani"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wootere-e"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "konngi-makko"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "les"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.273794703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndaaru, min ñaawirtay on ⟨את⟩ faamu mon nden, e mi saaknay lasdi e hoore mon, lasdi dewgol mon ngol; ɗum nawtay ⟨את⟩ on e mayre.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ndaaru min"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ñaawirtay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faamu mon nden"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "faamu mon nden"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "e mi saaknay"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "lasdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "lasdi"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "dewgol mon"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "e ɗum nawtay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:49.258732955Z",
+  "model": "glm-5.3"
+}

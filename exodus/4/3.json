@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: “Woppu ndu e leydi.” O woppiti ndu e leydi, ndu laati moogoora; Muusaa dogi luural e mun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "woppu ndu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "o woppiti ndu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laati"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "moogoora"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "luural e mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:40.219465035Z",
+  "model": "glm-5.3"
+}

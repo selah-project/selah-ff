@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Nde mi muñorii meeđere, ƴiye am ɓoornoode e hiiddo am fuu ñalawma ngoo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "mi muñorii meeđere"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ɓoornoode"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ƴiye am"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "e hiiddo am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:54.117358572Z",
+  "model": "glm-5.3"
+}

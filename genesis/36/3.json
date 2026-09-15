@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "e ⟨את⟩ Bosmata ɓiɗɗo debbo Yishmaeel, miñi debbo Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Bosmata"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaeel"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "miñi debbo"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayot"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:26.586217815Z",
+  "model": "glm-5.3"
+}

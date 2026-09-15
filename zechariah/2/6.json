@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Min wi'i mun: a yi'ay-to? O wi'i lam: mi yaha mimeede ⟨את⟩ Yerushalayim, ngam yi'ide no njaajeendi mun woniri, e no duɗi mun woniri.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "min wi'i mun"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "to?"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yi'ay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i lam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "למד",
+      "gloss": "mimeede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'ide"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "no ... woniri"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "njaajeendi mun"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "e no ... woniri"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "duɗi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:57.533791402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Eloohim nanii ⟨את⟩ ɓuuɓnu mum en, Eloohim siiftorii ⟨את⟩ koddiso mun ⟨את⟩ Ibraahiima, ⟨את⟩ Is-haaq e ⟨את⟩ Ya'aqov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓnu mum en"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ɓuuɓnu mum en"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "siiftorii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koddiso mun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "koddiso mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahiima"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Is-haaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is-haaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ya'aqov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqov"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:43.150944596Z",
+  "model": "glm-5.3"
+}

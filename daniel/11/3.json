@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Darii laamɗo doole, o laamii laamu mawngu, o waɗi no o yiɗiri.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "doole"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "o laamii"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawngu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "no o yiɗiri"
+    }
+  ],
+  "timestamp": "2026-09-14T10:41:22.785418875Z",
+  "model": "glm-5.3"
+}

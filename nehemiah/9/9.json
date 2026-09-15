@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "A yi'i ⟨את⟩ cikkaare baabiraaɓe amen ɓen e Misrayim, ⟨את⟩ cuukaare maɓɓe ɗen nanndu-ɗaa haa e maayo Suuf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cikkaare"
+    },
+    {
+      "surface": "עני",
+      "gloss": "cikkaare"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cuukaare maɓɓe"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "cuukaare maɓɓe"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nanndu-ɗaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    }
+  ],
+  "timestamp": "2026-09-14T10:49:04.514615006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si worɓe haɓi, gorko fiyi ⟨את⟩ sehil mum e kaaƴe walla e juuɗe muuɗum, o maayaa, kono o liiɗi e leydi",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "worɓe haɓi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "gorko fiyi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehil mum"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mum"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "e kaaƴe"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "e juuɗe muuɗum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o maayaa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "maayaa"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "kono o liiɗi"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "e leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:10.684993100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Si duume ɗen timmini, toɓo yooyotoo e dow leydi ndin; e si lekki werii ka fuuna walla ka worgo, nokku ɗo lekki ngol werata, to ⟨o⟩ woni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "timmini"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "duume ɗen"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "toɓo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "yooyotoo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "werii"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "ka fuuna"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla si"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ka worgo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "werata"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨o⟩ woni"
+    }
+  ],
+  "timestamp": "2026-09-14T12:56:48.607868383Z",
+  "model": "glm-5.3"
+}

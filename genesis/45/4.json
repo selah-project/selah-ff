@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Yoosefa wi'i to banndiraabbe mun: Ɓeetee am, ɓeeten. O wi'i: Miin mi Yoosefa, miɗo bannde mawnɗo mon, mo mbi'i-ɗon ⟨את⟩ to Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosefa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraabbe mun"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ɓeetee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ɓe ɓeetii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin mi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosefa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miɗo bannde mawnɗo mon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "mbi'i-ɗon"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mo mbi'i-ɗon to Misrayim"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "to Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:20.888333892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kono so a bayyini ⟨את⟩ konngol amen ngol, minen min njaltorii ennitiiɓe e onyaande maa nde waɗirii min.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono so"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "bayyiniɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol amen ngol"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "konngol amen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "min njaltorii"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ennitiiɓe"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "e onyaande maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "waɗirii min"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:50.776588014Z",
+  "model": "glm-5.3"
+}

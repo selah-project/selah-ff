@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Cuuɗri kammuuli ɗin, e liɗɗi geecul ngul, e ɗo lotoo laawolɗi geecuɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Cuuɗri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "e liɗɗi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geecul ngul"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ɗo lotoo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "laawolɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "geecuɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:45.310156833Z",
+  "model": "glm-5.3"
+}

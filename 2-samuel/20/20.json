@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yowab jaabii, o wi'i: 'Du'aade walaa, du'aade walaa fii am, wonde mi belca walla mi bonna.'",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "du'aade walaa"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "du'aade walaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "mi belca"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mi bonna"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:24.122806732Z",
+  "model": "glm-5.3"
+}

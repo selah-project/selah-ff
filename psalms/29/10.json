@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Yaawe jooɗiino e dow ilam mawngol ngol; Yaawe jooɗii laamɗo duumiigo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "e dow ilam mawngol ngol"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗiino"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumiigo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:19.588634948Z",
+  "model": "glm-5.3"
+}

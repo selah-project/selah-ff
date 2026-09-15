@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Kono min, duumi mi ñiiŋatoya, mi ɓeydata ɗoo e dow yettoode maa fuu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "mi ñiiŋatoya"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "mi ɓeydata ɗoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "yettoode maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:32.116730339Z",
+  "model": "glm-5.3"
+}

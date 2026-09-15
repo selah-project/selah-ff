@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi deroraali e ñaawooje maa, sabu A yanaa-koy A jannginii-mi.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "e ñaawooje maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woppiraali"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "mi deroraali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "A yanaa-koy"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "A jannginii-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:19.203628536Z",
+  "model": "glm-5.3"
+}

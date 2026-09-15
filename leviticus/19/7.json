@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Kono so ñaametee tawa ko ñalnde tataɓere, ko ngol bonni; ngol jaɓetaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono so"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ñaametee tawa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ko ñaametee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tataɓere"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ko ngol bonni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ko ngol⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jaɓetaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:33.862297911Z",
+  "model": "glm-5.3"
+}

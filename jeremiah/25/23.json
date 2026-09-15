@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "e ⟨את⟩ Dedan e ⟨את⟩ Tema e ⟨את⟩ Buz e ⟨את⟩ ɓe fuu taƴuɓe dawol gaas",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓe fuu taƴuɓe dawol gaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɓe fuu"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "taƴuɓe"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "dawol gaas"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:09.488359949Z",
+  "model": "glm-5.3"
+}

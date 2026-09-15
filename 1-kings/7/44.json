@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "e ⟨את⟩ maayo ngoo wootere, e ⟨את⟩ nagge sappo e ɗiɗi les maayo ngoo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maayo ngoo wootere"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nagge sappo e ɗiɗi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:00.709394213Z",
+  "model": "glm-5.3"
+}

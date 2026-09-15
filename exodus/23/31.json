@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Mi waayay ⟨את⟩ keeri maa gila jannde Suf haa maayo Pelishtim en, e gila injo ngoo haa maayo mawngo ngoo; fii mi wadanay juuɗe mon ⟨את⟩ hoɗɓe leydi ndin, on ruttitoyay ɓe gila yeeso mon.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Mi waayay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keeri maa"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "keeri maa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "gila jannde"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim en"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "e gila injo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "maayo mawngo ngoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi wadanay"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "juuɗe mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗɓe leydi ndin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "on ruttitoyay ɓe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gila yeeso mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:42.328502443Z",
+  "model": "glm-5.3"
+}

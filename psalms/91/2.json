@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Mi wi'a Yaawe: 'Ndeenoyam am e wuro am tabbituɗam, Eloohim am — e makko mi faandii.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mi wi'a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ndeenoyam am"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e wuro am tabbituɗam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mi faandii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.968169737Z",
+  "model": "glm-5.3"
+}

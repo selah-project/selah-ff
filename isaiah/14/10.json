@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe fuu mballit, ɓe wi'a maa: 'A kadi a ronkii no minen mbayri; a nanndii e min!'",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ɓe fuu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "mballit"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'a"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "a ronkii"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "no minen mbayri"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "a nanndii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:43:41.692612790Z",
+  "model": "glm-5.3"
+}

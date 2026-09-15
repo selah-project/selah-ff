@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Nguddi ɗen natto junngo; duuje ɗen, kawondi, ɗe njimloto.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Nguddi ɗen"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "natto junngo"
+    },
+    {
+      "surface": "כף",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kawondi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duuje ɗen"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ɗe njimloto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:45.690457568Z",
+  "model": "glm-5.3"
+}

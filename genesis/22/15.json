@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Nulaaɗo Yaawe on noddi Abraham laawol ɗiɗaɓol, immade e kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Nulaaɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "laawol ɗiɗaɓol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "immade e"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:47.790869688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Yelo gaafuɓe Yaawe ɗen wi'u, ɓe ɓe gaafaa e juuɗe ñaawoowo-ɓuuɓɗo.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'u"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "gaafuɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "gaafaa ɓe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ñaawoowo-ɓuuɓɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:21.291686272Z",
+  "model": "glm-5.3"
+}

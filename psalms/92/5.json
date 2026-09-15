@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Sabu Yaawe waɗtinii mi weltaare e golle maaɗe, e golle junngo maaɗe ɗen mi wonnayoyay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "waɗtinii mi weltaare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "e golle maaɗe"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "junngo maaɗe ɗen"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mi wonnayoyay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.740033210Z",
+  "model": "glm-5.3"
+}

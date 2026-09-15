@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe aray, ɓe bayanay moƴƴere makko ndee feewde e yimɓe ɓe jibinaa; sabu o waɗii ɗum.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Ɓe aray"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ɓe bayanay"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "moƴƴere makko ndee"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "feewde e yimɓe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ɓe jibinaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗii ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:52.235250681Z",
+  "model": "glm-5.3"
+}

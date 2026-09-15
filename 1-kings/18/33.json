@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O hiiri ⟨את⟩ leɗɗe ɗen, o taƴi ⟨את⟩ nagge nden e piille, o waɗi ɗum dow leɗɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "o hiiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɗɗe ɗen"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "leɗɗe ɗen"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "o taƴi e piille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagge nden"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nagge nden"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "leɗɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:55.651431953Z",
+  "model": "glm-5.3"
+}

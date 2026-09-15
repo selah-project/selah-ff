@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E si mballa pan-yeru woni dokkal maa, ko boyiri e nebam waɗetee.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "pan-yeru"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "dokkal maa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "boyiri"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "e nebam"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗetee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:24.715639049Z",
+  "model": "glm-5.3"
+}

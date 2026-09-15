@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe ndewni ⟨את⟩ pawe tanuru nden, ɓe darii yeeso Par'oh; Moshe ƴeemti ⟨אתו⟩ fewde kammu; woodiino ɓuuɓri ɓuuɓnooje ⟨את⟩ ummotoonde e neɗɗo e e daaba.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe ndewni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawe tanuru nden"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "pawe"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "tanuru nden"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "o ƴeemti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "pawe ɗen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "fewde kammu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "woodiino"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "ɓuuɓnooje"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ummotoonde"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e e daaba"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:06.442480938Z",
+  "model": "glm-5.3"
+}

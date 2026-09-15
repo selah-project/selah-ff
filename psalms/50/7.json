@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "“Nano, yimɓe am, mi yanay; Israa'iila, mi seedantay e maa: Eloohim, Eloohim maa, ko mi kanko.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mi yanay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mi seedantay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko mi kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:29.088623650Z",
+  "model": "glm-5.3"
+}

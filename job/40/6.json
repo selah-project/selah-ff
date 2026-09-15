@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Jaawe jaabii ⟨את⟩ Iyob e nder mbuuɗndi ndin, o wi'i:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "mbuuɗndi ndin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T10:18:22.863931369Z",
+  "model": "glm-5.3"
+}

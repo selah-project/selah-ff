@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ñalawmaaji ɗi tuugnortoo ɗin fof leydi ndin fooñotoo, ⟨את⟩ ko mun fooñaali e Sabbot mon ɗin, tuma on wonnoo e mayre.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fotfof"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalawmaaji"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ɗi tuugnortoo ɗin"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "fooñotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mun fooñaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mun"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "fooñaali"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "e Sabbot mon ɗin"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "tuma on wonnoo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:08.393564801Z",
+  "model": "glm-5.3"
+}

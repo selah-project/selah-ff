@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Timmii ɗoo juulde Dawuuda ɓiy Yishay.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "timmii"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "juulde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:08.655333291Z",
+  "model": "glm-5.3"
+}

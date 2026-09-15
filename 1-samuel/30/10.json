@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Dawidi dowri, kanko e worɓe nayi teemedde; worɓe ɗiɗi teemedde darii, ɓe ŋakkuɗi ngam waawaade daŋgude ⟨את⟩ ɓuuɓol Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "dowri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "e nayi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "darii"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ɗiɗi teemedde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ŋakkuɗi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ngam daŋgude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓol Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ɓuuɓol"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:25.418446605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Maccuɗo on haali Isaa'a ⟨את⟩ konnguɗi ɗin fuu ɗi o waɗi.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "maccuɗo on"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isaa'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:24.399321437Z",
+  "model": "glm-5.3"
+}

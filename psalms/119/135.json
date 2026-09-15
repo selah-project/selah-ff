@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Yeeru yernde maa e maccuɗo maa, janngina am ⟨את⟩ kuule maa.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "yernde maa"
+    },
+    {
+      "surface": "האר",
+      "gloss": "yeeru"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "e maccuɗo maa"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "janngina am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule maa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuule maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:58.381178604Z",
+  "model": "glm-5.3"
+}

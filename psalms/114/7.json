@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "E yi'goode Adonaay, leydi, ɗemmito; e yi'goode Elooha Yaakub!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "e yi'goode"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ɗemmito"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "e yi'goode"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakub"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.713152721Z",
+  "model": "glm-5.3"
+}

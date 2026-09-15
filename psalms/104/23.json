@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Aadam yalti ngam golle mum, e ngam gollal mum haa kikiiɗe.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ngam golle mum"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "e ngam gollal mum"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:16.846410066Z",
+  "model": "glm-5.3"
+}

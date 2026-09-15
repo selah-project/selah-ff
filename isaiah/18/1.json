@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Wooi, leydi ciiroowo baaje, ndi woni ko woɗɗa e maaje Kuus!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wooi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ciiroowo"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "baaje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "woɗɗa"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "e maaje"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuus"
+    }
+  ],
+  "timestamp": "2026-09-14T12:13:38.253395740Z",
+  "model": "glm-5.3"
+}

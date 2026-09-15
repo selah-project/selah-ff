@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Kanko mi mi tinndii, mi hisnii, mi waɗii naneere, e ɗaɓɓoowo wanaa e maɓin; onen kadi ko seedooɓe am, yaaku Yaawe, kanko mi woni Eel.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mi tinndii"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "e mi hisnii"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "e mi waɗii naneere"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e maɓin"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ɗaɓɓoowo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "e onen"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "seedooɓe am"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "yaaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e kanko mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:46.515544504Z",
+  "model": "glm-5.3"
+}

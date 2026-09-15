@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E Paroh faami, o naati e suudu makko; o waɗaani ɓernde mun e ngol kadi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "faami"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o waadaani"
+    },
+    {
+      "surface": "שת",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "e ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:51.211313061Z",
+  "model": "glm-5.3"
+}

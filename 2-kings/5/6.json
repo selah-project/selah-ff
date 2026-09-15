@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "O addi ɓataakeere nden to laamɗo Israa'iila, wiynde: “Nano, nde ɓataakeere nden arii e maa, laatiido mi neldii e maa ⟨את⟩ Naaman maccuɗo am, faamtu o hisnu ɗum e tasaare mun.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o addi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ɓataakeere nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiynde"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nano"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "nde ... arii"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ɓataakeere nden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "laatiido"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "mi neldii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman maccuɗo am"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɗo am"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "faamtu o hisnu ɗum"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "e tasaare mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:41.742080573Z",
+  "model": "glm-5.3"
+}

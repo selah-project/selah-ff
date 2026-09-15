@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Shemuwel ɗaɓɓi haa ceŋoral, o udditi ⟨את⟩ dame suudu Yaawe. Shemuwel huli haaltude ⟨את⟩ mbaydi ndin Eeli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ɗaɓɓi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ceŋoral"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "o udditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dame suudu Yaawe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dame"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "huli"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "haaltude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaydi ndin"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "mbaydi ndin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:00.409918510Z",
+  "model": "glm-5.3"
+}

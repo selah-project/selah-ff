@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yehoshafat wi'i: \"⟨את⟩ Konngol Yaawe ngol ⟨woni⟩ e makko.\" Laamɗo Israya'il, e Yehoshafat, e laamɗo Aduum ɓe njippii e makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Konngol Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ɓe njippii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'il"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "e Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e laamɗo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Aduum"
+    }
+  ],
+  "timestamp": "2026-09-15T07:41:14.504116508Z",
+  "model": "glm-5.3"
+}

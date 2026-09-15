@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Wonaa ko ɓuri heen, onon ɗoo ɗen wi'ay: yah, wi'u Adonaay maaɗa: ɗoo Eliaah woni — o waray mi!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "wonaa ko ɓuri heen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "onon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'ay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "Adonaay maaɗa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliaah woni"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "o waray mi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:09.312334006Z",
+  "model": "glm-5.3"
+}

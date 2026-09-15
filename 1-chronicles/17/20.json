@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Yaawe, alaa nanndu e maa, alaa Eloohim woɗɓe wondi e maa, e nder ko min njanngi e noppi amen ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nanndu e maa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "woɗɓe wondi e maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "min njanngi"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "e noppi amen ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:30.072744794Z",
+  "model": "glm-5.3"
+}

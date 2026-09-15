@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O waylitiri ⟨את⟩ ndiyam maɓɓe waɗde ƴiiƴam, o wariri ⟨את⟩ liɗɗi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "waylitiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam maɓɓe"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ndiyam maɓɓe"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "waɗde ƴiiƴam"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o wariri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liɗɗi maɓɓe"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "liɗɗi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.248303172Z",
+  "model": "glm-5.3"
+}

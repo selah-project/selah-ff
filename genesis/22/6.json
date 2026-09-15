@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ndeen Awraham ƴetti ⟨את⟩ leppi coktirɗe ɗen, o waɗi ɗi e Yitsxaq ɓiɗɗo mun; o ƴetti e junngo mun ⟨את⟩ yiite ɗen e ⟨את⟩ pamaro ngol; ɓe njahi ɗiɗo ɓe kawri.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leppi coktirɗe ɗen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leppi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "coktirɗe ɗen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiite ɗen"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pamaro ngol"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pamaro ngol"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɓe kawri"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:10.237933515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Sawulu nodi, e yimɓe ɓen fuu ɓe ⟨את⟩ makko wonnduɓe, ɓe ngari haa hare nden; tawi kaafaahi neɗɗo wondi e bandiraawo mum — jiiɓru mawndu no feewi.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "nodi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e yimɓe fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ makko",
+      "marks": "wonnduɓe e makko"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ngari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hare nden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kaafaahi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "e bandiraawo mum"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "jiiɓru"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mawndu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:41.627165365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Koolol Sukkot mbaɗaa ngam maa ñalɗi jeeɗiɗi, e woɗɗitinde maa gila e wernde maa e gila e ilorde maa.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "koolol"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngam maa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "e woɗɗitinde maa"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "wernde maa"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "e gila e ilorde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:55.688016635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wata ƴotton daƒeRewaa — Wata ƴottoo daarti hoore mon, wata mboriton ⟨את⟩ daarti jeeyaɗe mon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ƴottoo"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "daarti"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "mboriton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daarti jeeyaɗe mon"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "daarti"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "jeeyaɗe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:40.977837560Z",
+  "model": "glm-5.3"
+}

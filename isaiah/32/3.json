@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Gite yi'ooɓe ɓen ɓuuɓaytaa, nanɗe nanooɓe ɓen noklay jaŋŋgol.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "...ɓuuɓaytaa"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ɓuuɓay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "yi'ooɓe"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "nanɗe"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "nanooɓe"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "noklay jaŋŋgol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:25.335339009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Si alaa na'i, duroo ndiyam woni meere; kono keewal njeñtu ngaddanoo e sembe nagge.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "si alaa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "duroo ndiyam"
+    },
+    {
+      "surface": "בר",
+      "gloss": "meere"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kono keewal"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "njeñtu"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "e sembe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:58.004090731Z",
+  "model": "glm-5.3"
+}

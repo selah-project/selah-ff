@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɓe ñaamata ɗun ⟨את⟩ ɓe, ɗun kafaraama e maɓɓe, fii hebbinde juuɗe mun ⟨את⟩, fii senaade ɓe ⟨את⟩; kono ajaaɓi wanaa ñaama ɗum, sabu senaare ɓe ngoni.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ɓe ñaamata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗun (cukaagu e gerte ɗen)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kafaraama"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "fii hebbinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe mun"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "juuɗe mun"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "fii senaade"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (Aaruna e ɓiɓɓe mun)"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "kono ajaaɓi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaare"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe ngoni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:47.765360044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "E ⟨את⟩ duume daabbundu bakkaatuuɗu ndun fof o ummin ɗum heen: ⟨את⟩ duume nguu huɓɓoowo nderi ɗin, e ⟨את⟩ duume fof wonduɗo dow nderi ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duume daabbundu bakkaatuuɗu ndun fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "duume"
+    },
+    {
+      "surface": "פר",
+      "gloss": "daabbundu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bakkaatuuɗu ndun"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o ummin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duume nguu huɓɓoowo nderi ɗin"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duume nguu"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "huɓɓoowo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nderi ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "duume fof wonduɗo dow nderi ɗin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonduɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nderi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:57.873594658Z",
+  "model": "glm-5.3"
+}

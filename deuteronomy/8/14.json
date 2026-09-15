@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓernde maa nden toowe, a yejjiti ⟨את⟩ Yaawe Eloohim maa, Oo yaltini maa e leydi Misrayim, e saare maccuɓe.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "toowe"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ɓernde maa nden"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "a yejjiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Oo yaltini maa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "maccuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:00.903892109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Laamɗo on neldi, o hersinii mo; laamɗo yimɓe ɗin, o udditi mo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Laamɗo on neldi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "o hersinii mo"
+    },
+    {
+      "surface": "משל",
+      "gloss": "laamɗo yimɓe ɗin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "o uddititi mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:33.068499846Z",
+  "model": "glm-5.3"
+}

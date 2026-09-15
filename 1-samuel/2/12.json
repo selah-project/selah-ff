@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Eli ɓen ko ɓiɓɓe Beliyaal; ɓe anndaali ⟨את⟩ Yaawe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ɓe anndaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:35:26.774341668Z",
+  "model": "glm-5.3"
+}

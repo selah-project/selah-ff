@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O ƴetti koorse jeegom teemedde cuɓaaɗe, e koorse Mitsrayim fuu, e ofrayɓe dow ɗe fuu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "koorse"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "cuɓaaɗe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "koorse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "e ofrayɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ɗe fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:24.424561490Z",
+  "model": "glm-5.3"
+}

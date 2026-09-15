@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O neldi mo toowɗo, o fooɗti kam, o yaltini kam e ndiyam keewɗam.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "toowɗo"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "o fooɗti kam"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "o yaltini kam"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:29.099499658Z",
+  "model": "glm-5.3"
+}

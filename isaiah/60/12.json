@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Leñol ngol e laamu nguu ɗi gollataa maa, ɗi mbaya; e leƴƴi ɗen halka haa en halka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nden"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leñol ngol"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "e laamu nguu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "gollataa maa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ɗi mbaya"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "e leƴƴi ɗen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "halka"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "en halka"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:26.415199960Z",
+  "model": "glm-5.3"
+}

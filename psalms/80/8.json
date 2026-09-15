@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Eloohim Tsebaot, artir min, wurto ⟨annoore⟩ yeeso maa, min hisnee.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "artir min"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "wurto annoore"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "min hisnee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:05.881201804Z",
+  "model": "glm-5.3"
+}

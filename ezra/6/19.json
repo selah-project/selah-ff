@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ɓiɗɓe nguuruɓe ɓee mbaali ⟨את⟩ Paska ñalnde sappo e nayi lewru adanru nduu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mbaali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓe ɓiɗɓe"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "nguuruɓe ɓee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ñalnde sappo e"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "adanru nduu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:43:08.326098389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E fii ceertinde hakkude kodesh e hakkude chol, e hakkude tame e hakkude tahor.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "e fii ceertinde"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkude"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kodesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkude"
+    },
+    {
+      "surface": "החל",
+      "gloss": "chol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkude"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "tame"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkude"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "tahor"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:38.500341040Z",
+  "model": "glm-5.3"
+}

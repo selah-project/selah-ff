@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E ⟨את⟩ Hukok e ⟨את⟩ laylaytol mum, e ⟨את⟩ Rehob e ⟨את⟩ laylaytol mum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laylaytol mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "laylaytol mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laylaytol mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "laylaytol mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:14.959283165Z",
+  "model": "glm-5.3"
+}

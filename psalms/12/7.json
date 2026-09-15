@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Konngi Yaawe ko konngi laaɓtuɗi; hono bakaari boowaaɗo e kaasgel leydi, laaɓaama jeeɗiɗi laabi.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "laaɓtuɗi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bakaari"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "boowaaɗo"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "e kaasgel"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "laaɓaama"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "jeeɗiɗi laabi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:39.894250268Z",
+  "model": "glm-5.3"
+}

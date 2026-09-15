@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Mi wi'i to Yaawe: Eel am ko ⟨a⟩; nanito, Yaawe, daande du'aawu am.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Mi wi'i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko a"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nanito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "du'aawu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.055998034Z",
+  "model": "glm-5.3"
+}

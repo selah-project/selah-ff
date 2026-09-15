@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kosam maa e innde laylaytol maa wata lelnaa haa buuba; ɓiɗɗo maa gadano roddu-ɗum lam.",
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "kosam maa"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "e innde laylaytol maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata ... aa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "lelnaa haa buuba"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "gadano"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "roddu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:10.281505150Z",
+  "model": "glm-5.3"
+}

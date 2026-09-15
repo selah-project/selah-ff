@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Jaanitor kaayitaaji mun ɗi o waɗi, maandeeji mun e ñaawoore lewru mun.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Jaanitor"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kaayitaaji mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "maandeeji mun"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "lewru mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:26.212605863Z",
+  "model": "glm-5.3"
+}

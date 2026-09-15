@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nde ɓuuɓri ɗon ɗaɓɓa e kaampa ka ñallande, manna on ɗon ɗaɓɓa dow mun.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "nde ɓuuɓri ɗon ɗaɓɓa"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampa ka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ñallande"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ɗon ɗaɓɓa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manna on"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:35.367512064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "E ⟨את⟩ plet nagge ngen e ⟨את⟩ ɓanndu makko fuu, e hoore makko e koyɗe makko, e nderewu makko e pawru makko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "plet nagge ngen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "plet"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nagge ngen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓanndu makko fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓanndu makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "koyɗe makko"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "nderewu makko"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "pawru makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:21.456996482Z",
+  "model": "glm-5.3"
+}

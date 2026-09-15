@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "On ngontan wonande Am laaɓuɓe, sabu miin mi laaɓuɗo, miin Yaawe; ⟨את⟩ mi ceertini mon e yimɓe ɗin, ngam wonde ko mon ko Am.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "on ngontan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wonande Am"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "laaɓuɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "laaɓuɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "mi ceertini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "mon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wonde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko mon ko Am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:02.526872666Z",
+  "model": "glm-5.3"
+}

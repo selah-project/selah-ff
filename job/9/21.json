@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi laaɓmi, mi anndaa neefsa am, mi ƴikkiri nguurndam am.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "mi laaɓmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-aa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefsa am"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ƴikkiri"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:59.773577863Z",
+  "model": "glm-5.3"
+}

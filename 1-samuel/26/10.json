@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Dawudi wi'i: Yaawe ena wuuri; so Yaawe fiyataa mo, walla ñalnde mun nde aroyata o maayata, walla o naatata e konu o mbbalaa",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawudi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ena wuuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "fiyataa mo"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ñalnde mun"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "aroyata"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maayata"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "e konu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "o naatata"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "o mbbalaa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:28.434347006Z",
+  "model": "glm-5.3"
+}

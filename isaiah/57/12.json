@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Mi nantoo ñaawoore maa, e ⟨את⟩ golle maa, ɗe nafataa ma.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nantoo"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "golle maa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "golle maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɗe nafataa"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "nafataa ma"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:45.830499759Z",
+  "model": "glm-5.3"
+}

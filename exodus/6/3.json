@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi feeñinii Awraham, Isaak e Yaaqob e Eel Shadday; kono innde am Yaawe mi anndaali ɓe.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "mi feeñinii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqob"
+    },
+    {
+      "surface": "באל",
+      "gloss": "e Eel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "kono innde am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "mi anndaali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:52.901026006Z",
+  "model": "glm-5.3"
+}

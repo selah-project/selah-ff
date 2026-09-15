@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Kono si o ari yi'ude, becci o wi'a; ɓernde mun nden humpita ⟨bone⟩ fii hoore mun; o yalti to yaasi, o wi'a ɗum.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yi'ugo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "becci"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "humpita"
+    },
+    {
+      "surface": "און",
+      "gloss": "bone"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii hoore mun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "to yaasi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wi'a ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:25.370606114Z",
+  "model": "glm-5.3"
+}

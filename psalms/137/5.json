@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "So mi yejjitii maa, Yerushalayim, junngo am ñaamo yejjito.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "mi yejjitii maa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "yejjito"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "junngo am ñaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:50.397282524Z",
+  "model": "glm-5.3"
+}

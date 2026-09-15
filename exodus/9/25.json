@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Bakkaatiri nanngi e leydi Misrayim fuu ⟨את⟩ kala ko woni e ladde, neɗɗo haa daaba; ⟨את⟩ kala ñiɓri ladde bakkaatiri nanngi ɗum, e ⟨את⟩ kala lekki ladde o feeli.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "bakkaatiri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala ko woni e ladde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "daaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala ñiibri ladde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ñiibri"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "bakkaatiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala lekki ladde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "feeli"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:05.325540632Z",
+  "model": "glm-5.3"
+}

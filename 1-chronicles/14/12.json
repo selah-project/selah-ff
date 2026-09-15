@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe acci ton ⟨את⟩ ilaaji maɓɓe, kadi Daawuuda yamri, ɓe ƴukaa e yiite.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ɓe acci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilaaji maɓɓe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaaji maɓɓe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yamri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ɓe ƴukaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T13:05:22.665023170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim waɗiri ɗum ⟨את⟩ e nder wehenodu kammuuli ɗin, fii lar yolnude leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "waɗiri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "e nder wehenodu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "fii lar yolnude"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:37.656685767Z",
+  "model": "glm-5.3"
+}

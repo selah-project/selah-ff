@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yanayaa ⟨את⟩ nagge bandiraawo maa walla ⟨את⟩ be'i mum ena niddata, wuurnitaa hoore maa e maɓɓe; nartindanaa ɗum nartinaa haa e bandiraawo maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yanayaa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a yi'aa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagge bandiraawo maa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bandiraawo maa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "be'i mum"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "be'i mum"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ena niddata"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "wuurnitaa hoore maa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "השב",
+      "gloss": "nartindanaa"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "nartinaa ɗum"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "haa e bandiraawo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:28.773978001Z",
+  "model": "glm-5.3"
+}

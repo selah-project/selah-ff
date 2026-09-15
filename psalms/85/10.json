@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Jeyi, daaƴagol makko ina ɓadii ɓooyɓe makko, ngam teddungal hoɗirta ⟨e⟩ leydi amen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jeyi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ina ɓadii"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ɓooyɓe makko"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "daaƴagol makko"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ngam hoɗirta"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "e leydi amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:27.180139084Z",
+  "model": "glm-5.3"
+}

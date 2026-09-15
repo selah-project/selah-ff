@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Miin Qohelet mi wonnoo laamɗo e hoore Israayiila e Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonnoo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e hoore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiila"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:27.142017104Z",
+  "model": "glm-5.3"
+}

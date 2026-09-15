@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Kono mi, du'aawu am ⟨wonii⟩ fii maa, Yaawe, e saanga jaɓannde; Eloohim, e keewal hesed maa, jaabam e goongal ndimaagu maa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aawu am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "saanga"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "jaɓannde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e keewal"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaabam"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "e goongal"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ndimaagu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:33.346352636Z",
+  "model": "glm-5.3"
+}

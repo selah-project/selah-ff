@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 117,
+  "translation": "Tawa hesed makko ɗuuɗii min dow, goongu Yaawe heddii duumi; hillu Yaah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tawa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ɗuuɗii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min dow"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "goongu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hillu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:46.539042889Z",
+  "model": "glm-5.3"
+}

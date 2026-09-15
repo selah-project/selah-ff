@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 16:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Nde laataaki, tawa feeñii tawa Mowaab muñii e dow bunere nden, o yaha to senaande makko fii du'aade, kono o waawataa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nde laataaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "feeñii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "muñii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowaab"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "bunere nden"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "o yaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "senaande makko"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "fii du'aade"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "o waawataa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:14.013050743Z",
+  "model": "glm-5.3"
+}

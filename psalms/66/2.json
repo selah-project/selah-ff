@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Winndu-ɗon teddungal innde makko; waɗu-ɗon teddungal yettoore makko.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "winndu-ɗon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "waɗu-ɗon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yettoore makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:41.346300396Z",
+  "model": "glm-5.3"
+}

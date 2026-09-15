@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ɓe waylitii, ɓe njahi, ɓe ngarti ⟨את⟩ ɓiɓɓe tokosɓe ɓen e ⟨את⟩ daaɓi ɓen e ⟨את⟩ kuutorgal kesal ngal yeeso maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ɓe waylitii"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ɓe ngarti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe tokosɓe ɓen"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ɓiɓɓe tokosɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "daaɓi ɓen"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "daaɓi ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorgal kesal ngal"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "kuutorgal kesal ngal"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "yeeso maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:33:56.559153949Z",
+  "model": "glm-5.3"
+}

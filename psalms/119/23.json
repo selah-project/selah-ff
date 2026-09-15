@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Laamɓe ɓe kadi ngoppitii ɓe ƴeewii am; jeyaaɗo Maa oo jaŋtagorii e laabi Maa ɗin.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngoppitii"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "laamɓe ɓe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "am"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ƴeewii"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo Maa oo"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "jaŋtagorii"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "e laabi Maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:01.180880631Z",
+  "model": "glm-5.3"
+}

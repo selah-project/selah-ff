@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 2:25",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Benjamiin ɓen ndottirii hoore mum en caggal Abner, ɓe laati fedde wootere, ɓe darii dow hoore ceende wootere.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ndottirii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamiin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe laati"
+    },
+    {
+      "surface": "לאגדה",
+      "gloss": "fedde"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ceende"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:31.563947516Z",
+  "model": "glm-5.3"
+}

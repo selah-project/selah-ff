@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 15:29",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Tsadok e Ebyatar ngartirii ⟨את⟩ laatikaango Eloohim ngan to Yerushalayim, ɓe ngonii ton.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ngartirii"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laatikaango Eloohim ngan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laatikaango"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ngonii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:25.020542727Z",
+  "model": "glm-5.3"
+}

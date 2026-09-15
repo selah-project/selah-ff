@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde waɗii e ɗoo ñalawma ngan hoore mum, Yaawe yaltini ⟨את⟩ ɓiɓɓe Israa'iil e leydi Misrayim, e konuuli maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde waɗii"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "e ... hoore mum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngan ɗoo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "konuuli maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:19.473280086Z",
+  "model": "glm-5.3"
+}

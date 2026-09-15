@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Eli ko ɓiɗɗo duuɓi cappanje jeenay e jeetati, gite mun ɗii dentali, o waawaa yi'yde.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ko ɓiɗɗo"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "cappanje jeenay"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "gite mun ɗii"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "dentali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "o waawaa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yi'yde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:03.432536867Z",
+  "model": "glm-5.3"
+}

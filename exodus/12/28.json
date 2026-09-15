@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓiɓɓe Israa'iila ɓe njahi, ɓe mbaɗi, no Yaawe yamiri ⟨את⟩ Musa e Haruuna nii, ko nii ɓe waɗi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Haruuna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:53.038274933Z",
+  "model": "glm-5.3"
+}

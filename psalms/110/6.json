@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 110,
+  "translation": "O ñaawa pelle ɗen, o heewiniri ⟨ɗe⟩ ɓalli maanduɗi, o foofi hoore dow leydi mawndi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "o ñaawa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o heewiniri"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ɓalli maanduɗi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o foofi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mawndi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.418708944Z",
+  "model": "glm-5.3"
+}

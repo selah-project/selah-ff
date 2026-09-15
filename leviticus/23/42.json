@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "E nder sukkot on hoɗotoo ñalɗi jeeɗiɗi; kala jibinaaɗo e Israayiil hoɗotoo e nder sukkot.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "e nder sukkot"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "on hoɗotoo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "jibinaaɗo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israayiil"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hoɗotoo"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "e nder sukkot"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:57.018538534Z",
+  "model": "glm-5.3"
+}

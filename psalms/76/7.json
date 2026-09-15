@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "E enngu maa, Eloohim Yaakob, werla e puccu ɗin ɗaaniima ɗaanaare ɓuuɓnde.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "enngu maa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ɗaaniima ɗaanaare ɓuuɓnde"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "werla"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "puccu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:44.841803936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓe ndarii wootee e Midyan, no Yaawe yamiri ⟨את⟩ Moshe nii, ɓe ngartini kala worɓe.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "ɓe ndarii konu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "ɓe ngartini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "worɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:44.112760327Z",
+  "model": "glm-5.3"
+}

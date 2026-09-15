@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "⟨את⟩ comci golle ɗii fii gollude nder cenet, ⟨את⟩ comci cenet ɗi fii Aaroon almuudo on, e ⟨את⟩ comci ɓiɓɓe mun ɗii fii wonde almuudo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci golle ɗii"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "golle ɗii"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "fii gollude"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "nder cenet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci cenet ɗi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cenet"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aaroon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuudo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "comci ɓiɓɓe mun ɗii"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun ɗii"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii wonde almuudo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:14.060491694Z",
+  "model": "glm-5.3"
+}

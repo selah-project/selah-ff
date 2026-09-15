@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yaawe rendata ⟨את⟩ ɓen ɓe moƴƴi e makko fof, kadi ⟨את⟩ bonɓe ɓen fof o halkay.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "rendata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓen ɓe moƴƴi e makko fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ɓen ɓe moƴƴi e makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bonɓe ɓen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o halkay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:30.559850964Z",
+  "model": "glm-5.3"
+}

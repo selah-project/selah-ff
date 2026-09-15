@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Tan ko kanko woni jaayngal am e cellal am, towre hisnude am; hori-mi ɗe ferewe heewnde.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "jaayngal am"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "e cellal am"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "towre hisnude am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hori"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ferewe"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "heewnde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:07.661917701Z",
+  "model": "glm-5.3"
+}

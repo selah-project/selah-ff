@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Yimɓe ɓe meeɗina ⟨את⟩ ⟨mi⟩ yeeso am sahaa fuu; ɓe saaktoo e jarneaji, ɓe ɗaɓɓita coorol e dow cippiije ɗen.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓe"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "meeɗina"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñiiɓɗo e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa fuu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ɓe saaktoo"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "e jarneaji"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ɓe ɗaɓɓita coorol"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "cippiije ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:04:15.315988838Z",
+  "model": "glm-5.3"
+}

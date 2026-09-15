@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kadi naange on feeñi, kadi naange on naati, ka nokkuure mun kanko no tooña feeñoowo on woni ɗon.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "kadi naange on feeñi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange on"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kadi naange on naati"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange on"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nokkuure mun"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "no tooña"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "feeñoowo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:22.583279241Z",
+  "model": "glm-5.3"
+}

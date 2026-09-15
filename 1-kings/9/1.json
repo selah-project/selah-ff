@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde Selomom timmini mahde ⟨את⟩ suudu Yaawe e ⟨את⟩ suudu laamɗo on, e ⟨את⟩ kala yiɗde Selomon ɓe o yiɗnoo waɗde,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde...timmini"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nde...timmini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomom"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu laamɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala yiɗde Selomom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "yiɗde"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗnoo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:00.282117734Z",
+  "model": "glm-5.3"
+}

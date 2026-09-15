@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe haaliiri Moshe e haaliiri Aarona, wi'u ɗum'en:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haaliiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e haaliiri"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɗum'en"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:02.099278825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Konngi neɗɗo ñaawoowo daande mum ina keɓa; leppi gorko wumre ɗi njamrata mo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ina keɓa"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "leppi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "gorko wumre"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ɗi njamrata mo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:51.476503490Z",
+  "model": "glm-5.3"
+}

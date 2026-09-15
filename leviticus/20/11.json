@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kadi neɗɗo mo woolaani ⟨את⟩ debbo baaba mun, o udditi yi'e baaba mun: ɓe ɗiɗo fuu mbara yo; ƴiiɓe maɓɓe ngoni dow maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "kadi neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "woolaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo baaba mun"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "yi'e"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mbara"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɓe ɗiɗo fuu"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ƴiiɓe maɓɓe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:52.338770661Z",
+  "model": "glm-5.3"
+}

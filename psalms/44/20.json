@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Kono A renndini min e nokku dawriiji, A leddii min e niɓɓere ɓurnde husɗude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "A renndini min"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "dawriiji"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "A leddii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "e niɓɓere ɓurnde husɗude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.099385515Z",
+  "model": "glm-5.3"
+}

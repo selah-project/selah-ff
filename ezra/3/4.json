@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe waɗi ⟨את⟩ balɗe Sukkot no winndirii nii, e njeenaari ƴellitooru ñalawma e ñalawma e limoore, no sariira wiiri nii, kuugal ñalawma e ñalawma mum.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ɓe waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balɗe Sukkot"
+    },
+    {
+      "surface": "חג",
+      "gloss": "balɗe mawninde"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "no winndirii nii"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "e njeenaari ƴellitooru"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalawma"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "e limoore"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "no sariira wiiri nii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "e ñalawma mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:42:32.924334660Z",
+  "model": "glm-5.3"
+}

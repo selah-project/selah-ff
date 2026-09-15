@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Abiyataar hollitii Daawuda wondude Shaawul warii ⟨את⟩ yokkuurɗe Yaawe ɗen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "o-hollitii"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyataar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "warii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yokkuurɗe Yaawe ɗen"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "yokkuurɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:05.188190998Z",
+  "model": "glm-5.3"
+}

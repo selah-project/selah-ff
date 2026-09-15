@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "No heewi ɓe mujjinta mo e jeereende! ɓe muusnita mo e jeereendi woorndi!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "No heewi"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ɓe mujjinta mo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ɓe muusnita mo"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "e jeereendi woorndi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:13.670234146Z",
+  "model": "glm-5.3"
+}

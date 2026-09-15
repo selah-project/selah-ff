@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Yurmin am, Eloohim, e nder hesed maa; e nder keewal yurmeende maa momtu caggite am.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "yurmin am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "e nder hesed maa"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "e nder keewal"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "yurmeende maa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "momtu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "caggite am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:02.246502695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wuur, Tsiidon, sabu geec wii ko woni damal geec, no wii: mi ɓeydaali, mi jibinaali, mi mawninaali sukaaɓe, mi toowlinaali ɓaŋŋinooje.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "wuur"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "ים",
+      "gloss": "geec"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "damal"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geec"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "no wii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "mi ɓeydaali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "mi jibinaali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mi mawninaali"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "mi toowlinaali"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ɓaŋŋinooje"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:57.181948096Z",
+  "model": "glm-5.3"
+}

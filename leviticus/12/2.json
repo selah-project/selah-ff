@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Haal e ɓiɓɓe Israa'iila, wiyi: Debbo so o reeni, o danyi gorko, o laataake laaɓtuɗo balɗe jeeɗiɗe; no balɗe elemengol ñawu mun nii o laatotaako laaɓtuɗo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Debbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "reeni"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "o danyi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "o laataake laaɓtuɗo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no balɗe"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "elemengol"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "ñawu mun"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "o laatotaako laaɓtuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:12.175587169Z",
+  "model": "glm-5.3"
+}

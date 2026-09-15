@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Kono goongɗan, Eloohim mooŋŋintatay nebbam am e junngo Seol, maa o ƴettat am. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono goongɗan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mooŋŋintatay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nebbam am"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "o ƴettat am"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:46.430307280Z",
+  "model": "glm-5.3"
+}

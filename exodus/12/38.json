@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kadi yimɓe kawruɗo heewɗo ummiima ⟨את⟩ e maɓɓe, e piyee e na'i — jawdi yoornde no feewi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yimɓe kawruɗo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "heewɗo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ e maɓɓe",
+      "marks": "e maɓɓe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e piyee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e na'i"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "yoornde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:46.863246360Z",
+  "model": "glm-5.3"
+}

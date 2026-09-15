@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E nder ɓiɓɓe leydi ɗee mbi'a: ko ɗoo Yaawe wi'i: Ƴeew, mi ndarni ɗo yeeso mon ⟨את⟩ laawol nguurndam e ⟨את⟩ laawol majjugol.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓiɓɓe leydi ɗee"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko ɗoo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mi ndarni"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ɗo yeeso mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol nguurndam"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laawol majjugol"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "המות",
+      "gloss": "majjugol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:03.698483135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Si mi heewi naange, mi wi'aay ma; sabu ko am woni tagoore nden e ko hebi heen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "mi heewi naange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi wi'aay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'aay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ko am woni"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tagoore nden"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e ko hebi heen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:11.094018549Z",
+  "model": "glm-5.3"
+}

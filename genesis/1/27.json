@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim tagi ⟨את⟩ aadama on e mbaydi mun; e mbaydi Eloohim o tagi ⟨את⟩ mo; gorko e debbo o tagi ⟨את⟩ ɓe.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadama on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadama on"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "e mbaydi mun"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "e mbaydi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "e debbo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:11.810409907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe tagi kelli kaŋe laaɓɗe, ɓe waddi ⟨את⟩ kelli ɗin ɗo nder tuubaali ɗin, dow borɗe wutte nden, saraaji fuu, ɗo nder tuubaali ɗin.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ɓe tagi"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓɗe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe waddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelli ɗin"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "kelli ɗin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ɗo nder"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "tuubaali ɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "borɗe"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "wutte nden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saraaji fuu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ɗo nder"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "tuubaali ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:15.931672430Z",
+  "model": "glm-5.3"
+}

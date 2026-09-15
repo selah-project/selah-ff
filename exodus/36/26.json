@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "E kaɓɓe mun nayi (40) kaɓɓe kaalis, kaɓɓe ɗiɗi les bardel wootiɗel, e kaɓɓe ɗiɗi les bardel wootiɗel.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "e nayi (40)"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "kaɓɓe mun"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "kaɓɓe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bardel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wootiɗel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "kaɓɓe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bardel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "wootiɗel"
+    }
+  ],
+  "timestamp": "2026-09-15T05:41:51.369423242Z",
+  "model": "glm-5.3"
+}

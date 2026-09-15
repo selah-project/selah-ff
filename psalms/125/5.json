@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 125,
+  "translation": "Kono ɓe ɗiɗɓe ɓe pigay to laawol ngol ɓe ɓuuɓnata, Yaawe addanɓe ɗum en ⟨את⟩ waɗooɓe bone; jammaa wona e Israa'iila.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "ɓe pigay"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "to laawol maɓɓe ɓuuɓnata"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "o addanɓe ɗum en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗooɓe bone"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "waɗooɓe"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bone"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jammaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:31.539695381Z",
+  "model": "glm-5.3"
+}

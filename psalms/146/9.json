@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "Yaawe ina reena ⟨את⟩ jeyaaɓe ɓen; moyɗo e dewbo o faandina; kono laawol bonɓe ɓen o loowtina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "inna reena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe ɓen"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "jeyaaɓe ɓen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "moyɗo"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "e dewbo"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "o faandina"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kono laawol"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o loowtina"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:11.771324230Z",
+  "model": "glm-5.3"
+}

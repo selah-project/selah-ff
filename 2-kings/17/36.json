@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "⟨את⟩ Kono ⟨את⟩ Yaawe tan — mo ummini ⟨את⟩ on e leydi Misraayim, e semmbe mawɗo e junngo ngaandi — on mo o kul, on mo o sujju, on mo o wadda sadakeeji.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ummini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "e semmbe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ngaandi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ on mo o",
+      "marks": "on kul"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kul"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "on mo o"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "sujju"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "on mo o"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "wadda sadakeeji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:17.932368680Z",
+  "model": "glm-5.3"
+}

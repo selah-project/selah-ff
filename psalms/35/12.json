@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɓe njoɗɗini mi bone lomto moƴƴere, ɓe muusini nguurndam am.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ɓe njoɗɗini mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lomto"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ɓe muusini"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.613023114Z",
+  "model": "glm-5.3"
+}

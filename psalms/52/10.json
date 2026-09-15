@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Kono mi, hono lekki zaytun ɓurɗo haaytude nder suudu Eloohim, mi hoolii e hesed Eloohim, haa duuɓi ɗi diwtataa e haa abada.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono mi"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "hono lekki zaytun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ɓurɗo haaytude"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi hoolii"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "e hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "haa duuɓi ɗi diwtataa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:33.074916701Z",
+  "model": "glm-5.3"
+}

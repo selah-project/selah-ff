@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yaawe soway laamɗo fii mun dow Israa'iil, o taayata ɓiɓɓe Yarobo'am ⟨את⟩ — ndee ñalnde non; ko honɗum? tawo non!",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "soway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "taayata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Yarobo'am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobo'am"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndeere"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ko honɗum?"
+    },
+    {
+      "surface": "גם",
+      "gloss": "non"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:53.560740499Z",
+  "model": "glm-5.3"
+}

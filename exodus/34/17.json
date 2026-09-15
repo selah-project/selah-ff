@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Eloohim ñottaango a waɗanaa hoore-maa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ñottaango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "a waɗanaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hoore-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:50.065196584Z",
+  "model": "glm-5.3"
+}

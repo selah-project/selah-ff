@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O wi'i ɓe: “Nanee, tigi, ngol kiita ngol mi fiyi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ngol kiita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mi fiyi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:28.855593375Z",
+  "model": "glm-5.3"
+}

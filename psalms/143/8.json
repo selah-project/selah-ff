@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "No mi nana hesed maa subaka; sabu e maa mi tegorii; hollu mi laawol ngol mi yahata; sabu faade e maa mi toworii neiɗo am.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "no mi nana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi tegorii"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "hollu mi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e maa"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi toworii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neiɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:46.164023819Z",
+  "model": "glm-5.3"
+}

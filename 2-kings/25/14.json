@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E ⟨את⟩ culi ɗen, e ⟨את⟩ belɗi ɗen, e ⟨את⟩ memmeeje ɗen, e ⟨את⟩ kaake ɗen, e ⟨את⟩ kala kuutorɗe njamđe ɗe ɓe gollortoo ɗe, ɓe ƴetti ɗen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "culi ɗen"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "culi ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "belɗi ɗen"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "belɗi ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "memmeeje ɗen"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "memmeeje ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kaake ɗen"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "kaake ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala kuutorđe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorđe"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "njamđe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ɓe gollortoo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ɓe ƴetti"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:16.393612616Z",
+  "model": "glm-5.3"
+}

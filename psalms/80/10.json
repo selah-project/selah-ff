@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Aa laaɓtinii yontere mum, ɗum ƴiƴii e iirdi mum, ɗum heewi ⟨leydi⟩ ndin.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "aa laaɓtinii"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "yontere mum"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ɗum ƴiƴii"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "e iirdi mum"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ɗum heewi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:02.944898830Z",
+  "model": "glm-5.3"
+}

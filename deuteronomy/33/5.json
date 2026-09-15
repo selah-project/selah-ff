@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O laati laamɗo e Yeshurun, tuma nde hooreeji yimɓe ɓen kaɓɓondiri — kabileeli Yisraa'el ɗen e gootel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "e Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "tuma nde kaɓɓondiri"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "e gootel"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kabileeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:12.848809674Z",
+  "model": "glm-5.3"
+}

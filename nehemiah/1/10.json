@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓen ko jeyaaɓe maa ɓe, e yimɓe maa ɓen, ɗi muñɗitinaa e doole maa ɗe mawnuɗe ɗen, e junngo maa ngol tuubngol ngol.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ɓen"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɓe maa ɓe"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "yimɓe maa ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "muñɗitinaa"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "doole maa ɗen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawnuɗe ɗen"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "junngo maa ngol"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "tuubngol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:20.174896110Z",
+  "model": "glm-5.3"
+}

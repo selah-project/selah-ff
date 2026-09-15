@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "O neldi nelaaɓe to Axab, laamɗo Israa'iil, e nder saare nden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "nelaaɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "e nder saare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:49.049461920Z",
+  "model": "glm-5.3"
+}

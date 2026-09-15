@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Bonɓe pidi-ɓe ⟨am⟩ fii warde am; kono seedeeji Maa mi faamay ⟨ɗi⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "pidi-ɓe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "fii warde am"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "seedeeji Maa"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mi faamay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:27.951258677Z",
+  "model": "glm-5.3"
+}

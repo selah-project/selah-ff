@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Tamaar, ɓiɗɗo debbo mun, danyi mo ⟨את⟩ Perets e ⟨את⟩ Zerach — ɓiɓɓe Yahuuda fof ko jowo.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Tamaar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ɓiɗɗo debbo mun"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "e Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "jowo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:03.142984425Z",
+  "model": "glm-5.3"
+}

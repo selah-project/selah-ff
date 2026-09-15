@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Malaa tikkere maɓɓe, nde tawa nde tiiɗii; mallee huntere maɓɓe, nde tawa nde saɗtii; mi feccay ɓe e Yaaqob, mi pinnay ɓe e Israyil.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "malaa"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "tikkere maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tiiɗii"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "mallee huntere maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawa"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "saɗtii"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "mi feccay ɓe"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "e Yaaqob"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "mi pinnay ɓe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israyil"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:25.931407554Z",
+  "model": "glm-5.3"
+}

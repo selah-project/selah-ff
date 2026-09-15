@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Dawuud waɗi konnguɗi ɗin ⟨את⟩ ɗee e nder ɓernde mun, o ɗooftii haa maawɗum yeeso Akish laamɗo Gati.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "e nder ɓernde mun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o ɗooftii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haa maawɗum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gati"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:40.745871434Z",
+  "model": "glm-5.3"
+}

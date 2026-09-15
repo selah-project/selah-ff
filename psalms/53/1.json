@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Fii yoowo on, e dow Maxalat, masiilil Daawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Maxalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "masiilil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:01.695883890Z",
+  "model": "glm-5.3"
+}

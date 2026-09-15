@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono le ɓiɗɗe lekki ngol woni ngol e hakkunde jarne ngen, Eloohim wi'i: wata on ñaame e mum, wanaa on tooɗo mum, nde wata on maaya.”",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Kono le ɓiɗɓe"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jarne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "on ñaame"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e mum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "on tooɗo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mum"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nde wata"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "on maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:16.784928975Z",
+  "model": "glm-5.3"
+}

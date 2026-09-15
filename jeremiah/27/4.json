@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wamru ⟨את⟩ ɓe fii joomiraaɓe mun en, ko nii wiyde: Ko nii Yaawe Sabaoth, Eloohim Israyil, wi'i: ko nii ngendata to joomiraaɓe mon:",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "wamru"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (nulaaɓe ɓen)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "joomiraaɓe mun en"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko nii wiyde"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ngendata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "joomiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:17:12.766218563Z",
+  "model": "glm-5.3"
+}

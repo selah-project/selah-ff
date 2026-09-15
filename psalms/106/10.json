@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O daañi ɓe e junngo ñaawoowo on, o wowri ɓe e junngo gaño on.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "O daañi ɓe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ñaawoowo on"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "o wowri ɓe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "gaño on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:44.016801718Z",
+  "model": "glm-5.3"
+}

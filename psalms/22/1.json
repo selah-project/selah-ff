@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Fii hoore tabbituɗo on, e dow Ayeelet ha-Shahar — mizmoor Dawuuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii hoore tabbituɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayeelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.310048147Z",
+  "model": "glm-5.3"
+}

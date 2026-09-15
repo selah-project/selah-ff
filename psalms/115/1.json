@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Lanaa min, Yaawe, lanaa min, kono fii innde maa nden ndinu teddungal, sabu hesed maa, sabu goonga maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "lanaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lanaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "fii innde maa nden"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ndinu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "goonga maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:44.943502498Z",
+  "model": "glm-5.3"
+}

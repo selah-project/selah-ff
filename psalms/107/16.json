@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Sabu O yanii dame njamendi, paandi layngu O taƴi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "O yanii"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dame"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamendi"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "paandi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "layngu"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "O taƴi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:19.283452072Z",
+  "model": "glm-5.3"
+}

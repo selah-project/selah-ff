@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O yamrataa neɗɗo yo o tooñu ɓe, o ñaaworii laamɓe fii ɓe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yamrataa"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "o yamri"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "yo o tooñu ɓe"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "o ñaaworii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fii ɓe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "laamɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:28.005449323Z",
+  "model": "glm-5.3"
+}

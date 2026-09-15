@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Min yettirta maa e berɗe laaɓtuɗe, nde min janngata ñaawooje nuunaaɗe maa ɗen.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "min yettirta maa"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "e laaɓal"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "berɗe"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "nde min janngata"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawooje"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "nuunaaɗe maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:26.307330898Z",
+  "model": "glm-5.3"
+}

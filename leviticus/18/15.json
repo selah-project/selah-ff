@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Munndu soodiɗo maa wata a feñnina; debbo ɓiy maa ko kanko; wata a feñnina munndu makko.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "munndu"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "soodiɗo maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a feñnina"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiy maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a feñnina"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "munndu makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:34.714938761Z",
+  "model": "glm-5.3"
+}

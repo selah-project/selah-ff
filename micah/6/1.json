@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nanjee, on moƴƴi, ⟨את⟩ ko Yaawe wi'i: ummito, ñaawo ⟨את⟩ tulde ɗen, denndin colli ɗin nano daande maa nden.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nanjee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "on moƴƴi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe wi'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulde ɗen"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tulde ɗen"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "denndin nano"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "colli ɗin"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "daande maa nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:31.341279534Z",
+  "model": "glm-5.3"
+}

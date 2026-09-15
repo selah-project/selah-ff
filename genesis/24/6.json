@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Awraham wi'i mo: “Hoto waɗɗa a warta ⟨את⟩ ɓiɗɗo am ɗoo to ɗoon.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hoto waɗɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "a warta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo am ɗoo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am ɗoo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "to ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:00.638224084Z",
+  "model": "glm-5.3"
+}

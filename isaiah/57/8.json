@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Ɓaawo selngal ngal e woorta ɓuuɓndu ɗaɗɗiiɗ siftorde maa; sabu ⟨את⟩ e am peccitii-ɗaa, ɗiiƴi-ɗaa; yaajnini-ɗaa leeso maa, waɗ-ɗaa nanondir maa e maɓɓe; yiɗi-ɗaa leeso maɓɓe, junngo njiytu-ɗaa.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "selngal ngal"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "e woorta ɓuuɓndu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ɗaɗɗiiɗ"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "siftorde maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ e am",
+      "marks": "e am"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "peccitii-ɗaa"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "ɗiiƴi-ɗaa"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "yaajnini-ɗaa"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "leeso maa"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "waɗ-ɗaa nanondir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "yiɗi-ɗaa"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "leeso maɓɓe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "njiytu-ɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:51.399632206Z",
+  "model": "glm-5.3"
+}

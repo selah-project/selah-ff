@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Konngi Nehenya ɓiɗɗo Hakalya. Nde waɗata, e lewru Kislew, e duuɓi noogas ɗeen, mi wonnoo ko e Shushan ɓernde nden.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nehenya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Hakalya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nde waɗata"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "Kislew"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "e duuɓi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "wonnoo ko"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "e Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ɓernde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:36.759093903Z",
+  "model": "glm-5.3"
+}

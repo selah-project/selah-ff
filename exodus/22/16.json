@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si baaba mum sali hokkude mo ɗum, o yoɓa kaalis, foti mahri ɓinngel rewbe ɗen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "sali"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "sali ñaawondiral"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "hokkude mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "o yoɓa \/ o weynita"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "foti mahri"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ɓinngel rewbe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:17.571288082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen o waɗi noon fii damal suudu sakkitiindu ndun: pale leɗɗe zaytun, ɓuuɓnuɗe no nayaaje ⟨את⟩ nayaɓere.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "noon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "fii damal"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "suudu sakkitiindu ndun"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "pale"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaytun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "nayaɓere"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "nayaɓere"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:06.121879703Z",
+  "model": "glm-5.3"
+}

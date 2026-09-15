@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Reenyo lewru Abiib, waɗa Pesaah fii Yaawe Eloohim maa; sabu e lewru Abiib Yaawe Eloohim maa yaltini ⟨את⟩ maa e Misrayim jemma.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Reenyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewru Abiib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waɗa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    }
+  ],
+  "timestamp": "2026-09-14T11:50:12.465018442Z",
+  "model": "glm-5.3"
+}

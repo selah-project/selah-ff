@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Min kadi mi yettata maa e kuutorɗe nevel, goongɗinal maa, Eloohim am; mi yimata maa e kinor, Ceniiɗo Israayiila.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mi yettata maa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "e kuutorɗe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "goongɗinal maa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi yimata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "e kinor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ceniiɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiila"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:48.712873634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kadi jaawnge Israa'iil jaabii dow yeeso mun, ɓe artiraali to Yaawe Eloohim mun, ɓe ɗaɓɓiraali mo e nder ngol fuu.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jaawnge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "dow yeeso mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "artiraali"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ɓe artiraali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɗaɓɓiraali"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "ɓe ɗaɓɓiraali mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ngol fuu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngol fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:39.810597549Z",
+  "model": "glm-5.3"
+}

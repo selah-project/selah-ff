@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Israa'iila fow e Yahuuda ɓe njiɗi ⟨את⟩ Daawuuda, sabu ko o woni jahduɗo e artuɗo yeeso maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ɓe njiɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o woni"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "jahduɗo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "e artuɗo"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "yeeso maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:30.106678673Z",
+  "model": "glm-5.3"
+}

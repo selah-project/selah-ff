@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɗemngal am mawnintoo ñaawoore maa, yettoore maa kala ñalawma.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "ɗemngal am"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mawnintoo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "yettoore maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:39.660302249Z",
+  "model": "glm-5.3"
+}

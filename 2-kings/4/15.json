@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: Noddit mo. O noddi mo, oon darii e damal ngal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddit"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "oon darii"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "e damal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:48.406724566Z",
+  "model": "glm-5.3"
+}

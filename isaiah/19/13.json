@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɓe mbec'i hooreeɓe Tso'an, ɓe njiɓɓitii hooreeɓe Nof; ɓe ndirii ⟨את⟩ Misrayim, taƴre leƴƴi mun.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ɓe mbec'i"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hooreeɓe"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tso'an"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɓe njiɓɓitii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hooreeɓe"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ɓe ndirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "taƴre"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "leƴƴi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:28.118874083Z",
+  "model": "glm-5.3"
+}

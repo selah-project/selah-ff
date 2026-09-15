@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe Adonaay amen, no innde maa nden mawniri e nder leydi ndin fuu!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaay amen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no ... mawniri"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mawniri"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa nden"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:45.313386699Z",
+  "model": "glm-5.3"
+}

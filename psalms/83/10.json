@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Waɗ ⟨e maɓɓe⟩ hono Madyan, hono Sisera, hono Yabin, e ƴiiƴam Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Waɗ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "hono Madyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "hono Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "hono Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:41.316902858Z",
+  "model": "glm-5.3"
+}

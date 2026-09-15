@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi ⟨את⟩ lewru ndun — sabu mbaroodi ndin naaɗata ɓuuɓri, kono paaye mayri wanaa ceernaaɗe — nden wonii lanndaaku fii on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lewru ndun"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "lewru ndun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "naaɗata"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mbaroodi ndin"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kono paaye mayri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ceernaaɗe"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "lanndaaku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:37.494564827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Fii Yobel nden ko ⟨wonii⟩; ko senaande waayay on; e nder ladde nden on ñaamoy ⟨את⟩ ɓeydite mayre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yobel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ⟨wonii⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaande"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "waayay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "on ñaamoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeydite mayre"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ɓeydite mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T11:42:04.384301042Z",
+  "model": "glm-5.3"
+}

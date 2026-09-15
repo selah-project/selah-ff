@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 10:22",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E nandi yeesoje mun ɗen — kamɓe ko ɗeen yeesoje ɗi mi yi'i pentol maayo Kevar; mbaadi mun ɗen e ⟨את⟩ kamɓe: neɗɗo kala fayde daande yeeso mun yaha.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "e nandi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yeesoje mun ɗen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ɗeen yeesoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "pentol"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Kevar"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "mbaadi mun ɗen"
+    },
+    {
+      "surface": "ואותם",
+      "gloss": "⟨את⟩",
+      "marks": "kamɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "daande"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yaha"
+    }
+  ],
+  "timestamp": "2026-09-14T08:36:46.871001451Z",
+  "model": "glm-5.3"
+}

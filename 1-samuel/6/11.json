@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ndarni ⟨את⟩ sanɗa Yaawe nden e palaa nden, e ⟨את⟩ suudu-boɓe ndun, e ⟨את⟩ jiiɓe kaŋŋe ɗen, e ⟨את⟩ pottitte muñaaɗe mun en.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ɓe ndarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanɗa Yaawe nden"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "palaa nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu-boɓe ndun"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "suudu-boɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jiiɓe kaŋŋe ɗen"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "jiiɓe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pottitte muñaaɗe mun en"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "pottitte"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "muñaaɗe mun en"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:04.633363801Z",
+  "model": "glm-5.3"
+}

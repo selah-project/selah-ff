@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Moab ko ndiyam-juuleere am; dow Edom mi werla moota am; dow am Pelishet, wullo a e mawninde.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ndiyam-juuleere"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "juuleere am"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mi werla"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "moota am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow am"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelishet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "wullo a"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:25.829746504Z",
+  "model": "glm-5.3"
+}

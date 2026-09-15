@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Yottuɗo ɓen, aree njiɗ-ɗon golle Eloohim, ko ⟨o⟩ ɗooƴata e golle makko ɗen ɓiɓɓe aadee ɓen.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "yottuɗo ɓen aree"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "njiiɗ-ɗon"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ɗooƴata"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "e golle makko ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:20.895074792Z",
+  "model": "glm-5.3"
+}

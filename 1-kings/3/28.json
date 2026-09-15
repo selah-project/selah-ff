@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Israa'iil fuu nani ⟨את⟩ ñaawoore nde laamɗo on ñaawi, ɓe ɗooñii laamɗo on, sabu ɓe yi'i wonde hakkillaaji Eloohim ngonii e nder makko, ngam waɗde ñaawoore.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ɓe nani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore nde"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ñaawoore nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe ɗooñii"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu (yeeso)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hakkillaaji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "e nder makko"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam wađde"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:06.758432474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen a yiyata yaajeende e hakkilantaagu moƴƴu e ñiiƴe Eloohim e yimɓe.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "a yiyata"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yaajeende"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "e hakkilantaagu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e ñiiƴe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "e yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:29.289021092Z",
+  "model": "glm-5.3"
+}

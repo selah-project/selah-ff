@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Goongɗingol am e hesed am nanondiral e makko; e nder innde am sarnde mun lootir.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Goongɗingol am"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "e hesed am"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nanondiral e makko"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "e nder innde am"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "lootir"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sarnde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:03.741121324Z",
+  "model": "glm-5.3"
+}

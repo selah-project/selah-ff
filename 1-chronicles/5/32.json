@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Uzzi jibini ⟨את⟩ Zerachja; Zerachja jibini ⟨את⟩ Merajot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachja"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachja"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerachja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:01.895758779Z",
+  "model": "glm-5.3"
+}

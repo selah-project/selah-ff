@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Oo addi ⟨את⟩ beeyngu ɗiɗaɓu ngun, beeyngu mulloore ngun; Aharon e ɓiɓɓe mun mbaali ⟨את⟩ juuɗe mumɗen e dow hoore beeyngu ngun.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beeyngu ɗiɗaɓu ngun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beeyngu ngun"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓu"
+    },
+    {
+      "surface": "איל",
+      "gloss": "beeyngu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "mulloore"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "mbaali"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe mumɗen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "juuɗe mumɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beeyngu ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:48.085751065Z",
+  "model": "glm-5.3"
+}

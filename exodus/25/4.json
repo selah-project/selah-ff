@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "e buloo, e purpur, e boddewal, e ɗaɗɗol laaɓngol, e wutturu be'i.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "e buloo"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "e boddewal"
+    },
+    {
+      "surface": "שני",
+      "gloss": "boddewal"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e ɗaɗɗol laaɓngol"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "e wutturu be'i"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:22.258540206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Hade pelle ɗen jibineede, hade Aa ƴellitirde leydi ndin e aduna on, gila duumi haa duumi, Aan ⟨woni⟩ Eel.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Hade"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "jibineede"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ƴellitirde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "aduna on"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "gila duumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:08.825091429Z",
+  "model": "glm-5.3"
+}

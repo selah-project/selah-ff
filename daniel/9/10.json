@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 9:10",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Min nanaali daande Yaawe Eloohi men, ngaha e laabi mun ɗi o waɗini yeeso amen, e junngo maccuɓe makko, annabi'en ɓen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "min nanaali"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohi men"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngaha"
+    },
+    {
+      "surface": "בתורתיו",
+      "gloss": "e laabi mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "yeeso amen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe makko"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabi'en ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:38:01.311228640Z",
+  "model": "glm-5.3"
+}

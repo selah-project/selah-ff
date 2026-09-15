@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "E nde Aharonuna fewa ⟨את⟩ fennde ɗen hakkunde kikiiɗe, o ŋooyra ɗum : kuutol duumiingol yeeso Yaawe, e ngontaaji mon ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "nde o fewa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fennde ɗen"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "fennde ɗen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "o ŋooyra ɗum"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kuutol"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumiingol"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "e ngontaaji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:35.795930892Z",
+  "model": "glm-5.3"
+}

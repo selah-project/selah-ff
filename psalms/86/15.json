@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Kanko a, Adonaay, ko Eel yurmetoowo e moƴƴuɗo, muñɗo sunaare, keewɗo hesed e goonga.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kanko a"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "yurmetoowo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "e moƴƴuɗo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "muñɗo"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sunaare"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e keewɗo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e goonga"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:40.109291867Z",
+  "model": "glm-5.3"
+}

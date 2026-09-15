@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Lemɗi Yaawe ɗin ina heɓa muñɗo — leɗɗe Labanon ɗen ɗe o lelni.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ina heɓa muñɗo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "Lemɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "leɗðe"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Labanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "o lelni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:47.015690294Z",
+  "model": "glm-5.3"
+}

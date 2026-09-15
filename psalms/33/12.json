@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Moƴƴere woodani leydi ndin Eloohim mun woni Yaawe; yimɓe ɓe o suɓii yo wonu jeyngol Makko.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Moƴƴere woodani"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o suɓii"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "yo wonu jeyngol"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:28.585451852Z",
+  "model": "glm-5.3"
+}

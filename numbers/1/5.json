@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɗee'ɗe ko innde rewɓe worɓe ɓen ɓe daraayay ⟨את⟩ mon: fii Re'uwen — Elitsur ɓiy Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee'ɗe"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "innde"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "rewɓe worɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "daraayay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "fii Re'uwen"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:42.995556207Z",
+  "model": "glm-5.3"
+}

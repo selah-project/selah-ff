@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Aram kaɗa fuɗɗaange, e Filistiin'en kaɗa caggorgal; ɓe ñaami ⟨את⟩ Israa'iila e muḍḍum haɗa. E ɗum fof muḍḍum makko artiraali, kono hanɗo junngo makko heddii waɗɗiima.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kaɗa fuɗɗaange"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "e Filistiin'en"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "kaɗa caggorgal"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e muḍḍum"
+    },
+    {
+      "surface": "פה",
+      "gloss": "haɗa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "E ... fof"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "artiraali"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "muḍḍum makko"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "kono hanɗo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "waɗɗiima"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:20.526144151Z",
+  "model": "glm-5.3"
+}

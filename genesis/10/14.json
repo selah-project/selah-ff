@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ Pathrusim e ⟨את⟩ Kasluhim — ɗo ɗum en Pilistim en njalti — e ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "njalti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗum en"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistim en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:23.073890144Z",
+  "model": "glm-5.3"
+}

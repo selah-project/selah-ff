@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Yoocef fiyi kiita, o wi'ii ɗum banndiraaɓe makko ɓen; ɓe ɓeydii ñaawa ⟨את⟩ mo ɓuri ko ɓennunoo.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "fiyi kiita"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoocef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "kiita"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o wi'ii"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "banndiraaɓe makko ɓen"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ɓe ɓeydii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓuri ko ɓennunoo"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ñaawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:28.855306782Z",
+  "model": "glm-5.3"
+}

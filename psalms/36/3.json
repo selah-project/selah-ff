@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Sabu o laaɓtini hoore makko e gite mun, fii yiytude bonannde mun nde nenaaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "o laaɓtini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite mun"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "fii yiytude"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "bonannde mun"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "fii nenaade"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:14.827134307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 12:2",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E ko heewi e ɓe ngonni e ɗoolngu pamaru leydi ndin mbejjitoy; ɗum en ngoni fii nguurndam duumiinde, ɗum en ngoni fii koyngol e kelme gullere duumiinde.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "e ko heewi"
+    },
+    {
+      "surface": "מישני",
+      "gloss": "e ɓe ngonni e ɗoolngu"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pamaru"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "mbejjitoy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗum en"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "fiu nguurndam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiinde"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ɗum en"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "fiu koyngol"
+    },
+    {
+      "surface": "לדראון",
+      "gloss": "e kelme gullere"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiinde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:41:35.886452702Z",
+  "model": "glm-5.3"
+}

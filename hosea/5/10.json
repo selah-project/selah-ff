@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ardiiɓe Yuuda ɓen ngontii no ɓe pippitooɗi keerol; e dow maɓɓe mi yeewoyay kulholla am no ndiyam.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ɓe ngontii"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardiiɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "no ɓe pippitooɗi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e dow maɓɓe"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "mi yeewoyay"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kulholla am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:56:57.639444136Z",
+  "model": "glm-5.3"
+}

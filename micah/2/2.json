@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓe cuorii leydiiji, ɓe nanngi ɗum e warngooji; ɓe cuorii gure, ɓe jogorii ɗum; ɓe tooñii gorko e suudu mun, e neɗɗo e dokkal mun.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "ɓe cuorii"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "leydiiji"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ɓe nanngi e warngooji"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "e gure"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ɓe jogorii ɗum"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ɓe tooñii"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "e suudu mun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "e dokkal mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:57.218168379Z",
+  "model": "glm-5.3"
+}

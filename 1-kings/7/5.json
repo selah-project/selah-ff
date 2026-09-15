@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ko cowgol ɗin fof e mahirɗi ɗin njoyi — nayi laylaytol, heewnooɓe lewɓe — e henornde ina hiiraa e henornde, laabi tati.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ko ... fof"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "cowgol ɗin"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "e mahirɗi ɗen"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "nayi laylaytol"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "heewnooɓe lewɓe"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "e hiirde"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "henornde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde e"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "henornde"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laabi"
+    }
+  ],
+  "timestamp": "2026-09-15T05:36:13.817676712Z",
+  "model": "glm-5.3"
+}

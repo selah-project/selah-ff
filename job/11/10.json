@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Si o yawii, o uddii, o dakmitii — ko hommbo waawi ruttidde mo?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "o yawii"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "o uddii"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "o dakmitii"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ko hommbo"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "waawi ruttidde mo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:29.628046791Z",
+  "model": "glm-5.3"
+}

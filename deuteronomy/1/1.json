@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɗee konngi ɗen, Moshe wi'i ɗi fii Yisraa'iil fuu, caggal maayo Yardaan, e jeereende, e ɓeeli, yeeso Suuf, hakkunde Paaran e hakkunde Tofel e Laban e Haserot e Dii-Zaahaw.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "maayo Yardaan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "e ɓeeli"
+    },
+    {
+      "surface": "מול",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "e Laban"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "e Haserot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "e Dii-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zaahaw"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:49.270225120Z",
+  "model": "glm-5.3"
+}

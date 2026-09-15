@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ɗooƴe ndiyam ngarii peeñde, kaɓirɗe layiri ngarii feeñde, e ɗaɓɓude maa, Yaawe, e henndu asira maa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ngarii peeñde"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ɗooƴe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "ngarii feeñde"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "layiri"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "e ɗaɓɓude maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "e henndu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "asira"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:57.521857527Z",
+  "model": "glm-5.3"
+}

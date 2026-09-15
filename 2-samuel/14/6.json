@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E maccuɗo maa lam ɓiɓɓe worɓe ɗiɗo; ɓe ɗiɗo luurai e ladde, alaa ballitoowo hakke maɓɓe; gooto fiyi ⟨את⟩ gooto, o warri ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "maccuɗo maa lam"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "ɓe luurai"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɓe ɗiɗo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ballitoowo"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "hakke maɓɓe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooto"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "warri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:54.084099140Z",
+  "model": "glm-5.3"
+}

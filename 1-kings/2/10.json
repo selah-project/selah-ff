@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Daawuuda lelnaa e baabiraaɓe mun, o wirnaa e wuro Daawuuda.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lelnaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:17.135833900Z",
+  "model": "glm-5.3"
+}

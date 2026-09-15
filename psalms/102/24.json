@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "O weninii doole am e laawol ngol; o dumtinii ñalɗe am.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "O weninii"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "o dumtinii"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:37.525425447Z",
+  "model": "glm-5.3"
+}

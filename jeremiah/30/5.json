@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Koy ko nii Yaawe wi'i: daande titinndol min njanngii, kulol e ⟨walaa⟩ jam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "titinndol"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "min njanngii"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e ⟨walaa⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:32.190136306Z",
+  "model": "glm-5.3"
+}

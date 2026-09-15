@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ko ɓuri moƴƴude: keɓal wootere jam, ɓuri keɓalɗi ɗiɗi ballal e muusere ruuhu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ko ɓuri moƴƴude"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "keɓal wootere"
+    },
+    {
+      "surface": "כף",
+      "gloss": "banngogol juunde"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "keɓalɗi ɗiɗi (juuɗe ɗiɗi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e muusere"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:18.219251786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "si wanaa fii jokkol mu'en ɓadiiɗo himmo: fii yumma mun, e baaba mun, e ɓi mun, e ɓiɗɗo debbo mun, e miñi mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "fii jokkol mu'en"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ɓadiiɗo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "himmo"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "fii yumma mun"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "e baaba mun"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "e ɓi mun"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "e ɓiɗɗo debbo mun"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "e miñi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:35.115520047Z",
+  "model": "glm-5.3"
+}

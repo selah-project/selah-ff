@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ndiyam ɗen cuddii gaññeeɓe mun en; gooto e maɓɓe wanaa dulaa.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "cuddii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "Ndiyam ɗen"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "gaññeeɓe mun en"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "dulaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:44.017003483Z",
+  "model": "glm-5.3"
+}

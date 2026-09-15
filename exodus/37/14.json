@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ɗe njuutiri heen caɗe caɗe, ɗum woni ko sara keerol ngol, ñaawe ɗen ngoni juuɗe fii polle ɗen, ngam nawde ⟨את⟩ lewru ndun.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "sara"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "keerol ngol"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ñaawe ɗen"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "polle ɗen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngam nawde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewru ndun"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lewru ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:47.015413578Z",
+  "model": "glm-5.3"
+}

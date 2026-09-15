@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 14:9",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kadi noon ⟨את⟩ annabiijo on, si o firfiraama o haali konngol, min, Yaawe, mi firfirii ⟨את⟩ annabiijo non, mballitii-mi junngo am e makko, mi momtii mo e nder yimɓe am Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "kadi noon annabiijo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "o firfiraama"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "פתיתי",
+      "gloss": "mi firfirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabiijo on"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabiijo on"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "non"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "mballitii-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "והשמדתיו",
+      "gloss": "mi momtii mo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:39:08.769055072Z",
+  "model": "glm-5.3"
+}

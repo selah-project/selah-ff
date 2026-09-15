@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Shemuwel maayi, yimɓe Israa'iil fof kawri, ɓe ngi'a mo, ɓe ngabbo mo e nder galle makko to Rama. Daawuda ummii, o naati e jeereende Paaran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ɓe ngi'a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ɓe ngabbo mo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "e nder galle makko"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "to Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:36.426905662Z",
+  "model": "glm-5.3"
+}

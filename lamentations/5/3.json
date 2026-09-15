@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Min ngoni moyyiraaɓe, walaa baaba; yummaaɓe amen no nanndu e rewɓe dewɗe.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "moyyiraaɓe"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "min ngoni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "yummaaɓe amen"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "no nanndu e rewɓe dewɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:57.679549861Z",
+  "model": "glm-5.3"
+}

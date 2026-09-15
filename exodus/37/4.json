@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O waɗi coktirɗe lekkiuje Shittim, o lelni ɗum ⟨את⟩ e kaŋe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "coktirɗe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "lekkiuje"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "o lelni ɗum e"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "coktirɗe ɗen (e kaŋe)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    }
+  ],
+  "timestamp": "2026-09-15T07:03:44.731876408Z",
+  "model": "glm-5.3"
+}

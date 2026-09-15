@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Nde waɗunoo, nde Moshe gasi winndude ⟨את⟩ kelme Tora nden e deftere, haa ɗe gasii fof.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde waɗunoo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nde o gasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "winndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelme Tora nden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kelme"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora nden"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ɗe gasii fof"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:28.500996891Z",
+  "model": "glm-5.3"
+}

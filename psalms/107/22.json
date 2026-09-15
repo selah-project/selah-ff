@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "E ɓe sadtu sadagol yettoore, ɓe limtor golle Makko e yimre weltinde.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "e ɓe sadtu"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sadagol"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "yettoore"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ɓe limtor"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "golle Makko"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "e yimre weltinde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.640197851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Satan jaabii ⟨את⟩ Yaawe, o wi'i: kalla, ko e meere Iyoob hulirta Eloohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ko e meere"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hulirta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyoob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:36.740735690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Sabu kammuuli ɗin toowii e leydi ndin, ko nonno laawol am toowii e laawolle mon, e miijooji am ɓurtii miijooji mon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nonno"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "e laawolle mon"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "e miijooji am"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "e miijooji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:27.155741550Z",
+  "model": "glm-5.3"
+}

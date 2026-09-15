@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kala houruɗo e wuro-maayuɓe majje, o laylu comci makko, o laaɓaani haa jamma.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "houruɗo"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "e wuro-maayuɓe majje"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "o laylu"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comci makko"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "o laaɓaani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:28.639551397Z",
+  "model": "glm-5.3"
+}

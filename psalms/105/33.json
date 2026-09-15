@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O fi'i rese maɓɓe e lekki tin maɓɓe, o fecci lekki keeri leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "O fi'i"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "rese maɓɓe"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "e lekki tin maɓɓe"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "o fecci"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "keeri leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:21.227636837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Leydi ndin fuu ⟨wonnoo⟩ haala gooto, e konngi gootodi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨wonnoo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "haala"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "gootodi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:26.277455512Z",
+  "model": "glm-5.3"
+}

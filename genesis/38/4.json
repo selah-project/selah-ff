@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O heɓi reedu kadi, o wuńńi ɓiɗɗo gorko; o wi'itiri ⟨את⟩ innde mun Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "O heɓi reedu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o wuńńi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o wi'itiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:47.513871622Z",
+  "model": "glm-5.3"
+}

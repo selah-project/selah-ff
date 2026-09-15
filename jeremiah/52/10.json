@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Laamɗo Babilon moyyi ⟨את⟩ ɓiɓɓe Sidkiyaahu to yeeso makko; kadi o moyyi ⟨את⟩ ardinooɓe Yahuuda fuu to Riibla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "o moyyi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Sidkiyaahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyaahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "to yeeso makko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardinooɓe Yahuuda fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardinooɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "o moyyi"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "to Riibla"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:40.569894999Z",
+  "model": "glm-5.3"
+}

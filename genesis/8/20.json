@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Noaah mahi nokku wote fii Yaawe; o jogorii e kala neemoraaɗo laaɓɗo e kala colli laaɓɗi, o ƴelliti wote ƴellitooje dow nokku wote nden.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaah"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nokku wote"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o jogorii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "neemoraaɗo"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "laaɓɗo"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e e kala"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "laaɓɗi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o ƴelliti"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "wote ƴellitooje"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "dow nokku wote nden"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:56.642488233Z",
+  "model": "glm-5.3"
+}

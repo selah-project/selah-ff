@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O wi'i: Nggara. O wi'i: No konngu-maa waɗirta, fii no anndirtaa woodaani hay goo ko Yaawe, Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Nggara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "No konngu-maa waɗirta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "no anndirtaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "hay goo ko Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:59.167301625Z",
+  "model": "glm-5.3"
+}

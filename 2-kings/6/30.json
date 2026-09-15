@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nde laamɗo on nan'i ⟨את⟩ konngi debbo on, o yirbi ⟨את⟩ comci makko; o ndaari no o yahata dow ŋoral ngal, yimɓe ɓen ndaari, ƴeew, ŋorko ngoo no woni e nder comci makko, e nder nder galle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nan'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi debbo on"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "o yirbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci makko"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comci makko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ndaari no o yahata"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "ŋoral ngal"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndaari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "השק",
+      "gloss": "ŋorko ngoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nder comci makko"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e nder nder galle"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:21.402332714Z",
+  "model": "glm-5.3"
+}

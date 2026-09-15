@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Tedduɗo on, mi nodda Yaawe, e gaññooɓe am mi hisnee.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Tedduɗo on"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi nodda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "gaññooɓe am"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "mi hisnee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:28.567544929Z",
+  "model": "glm-5.3"
+}

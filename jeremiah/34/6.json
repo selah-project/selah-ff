@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yirmiyaahu annabi on haali e Tsidkiyaahu laamɗo Yuuda ⟨את⟩ konngi ɗon fuu ɗee e nder Yerushalaam.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗon fuu ɗee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗon"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e nder Yerushalaam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:21:02.653500072Z",
+  "model": "glm-5.3"
+}

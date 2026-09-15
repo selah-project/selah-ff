@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "O yani e koyɗe makku, o wi'i: Tela, joomi am, bakkat ngul ko e am ⟨ko⟩; tele jomru maa haalan e noppi maa, nanngu ⟨את⟩ konngi jomru maa.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe makku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "joomi am"
+    },
+    {
+      "surface": "העון",
+      "gloss": "bakkat ngul"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tele"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jomru maa"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "e noppi maa"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "nanngu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi jomru maa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jomru maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:58:16.893707193Z",
+  "model": "glm-5.3"
+}

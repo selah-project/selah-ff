@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wujjotoo neđđo, so o momti mo, walla tawaa e junngo mun — maayde o maayetee.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Wujjotoo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neđđo"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "so o momti mo"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "walla tawaa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo mun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o maayetee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:32.743866424Z",
+  "model": "glm-5.3"
+}

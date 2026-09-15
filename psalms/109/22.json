@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Sabu mi moƴƴitaani, mi ŋakka kala, ngaandi am ndii featheruu nder ɓernde am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moƴƴitaani"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ŋakka kala"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ngaandi am ndii"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "featheruu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nder ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:43.299900724Z",
+  "model": "glm-5.3"
+}

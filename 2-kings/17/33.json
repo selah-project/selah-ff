@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "⟨את⟩ Yaawe ɓe ngonti kulooɓe, e ⟨את⟩ ñaawirɗe mun ɓe ngonti golluɓe, no laawol yimɓe laabi ɗin nih, ɓe njippini ɓe ⟨את⟩ ton.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngonti"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "kulooɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawirɗe mun"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ñaawirɗe mun"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngonti"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "golluɓe"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "no laawol"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yimɓe laabi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "njippini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:17.931306101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Wattu min e haande ⟨e⟩ ŋamri mawndi; e hooreeji damɓe tagoore ɗen a jaabii min.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Wattu min"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "e haande"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ŋamri mawndi"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "e hooreeji"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "damɓe tagoore ɗen"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "a jaabii min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:18.917916631Z",
+  "model": "glm-5.3"
+}

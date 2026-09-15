@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Eloohim wata a ɓeŋta; ɓural e yimɓe maa kadi wata a foyno.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata ... aa"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ɓeŋta"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "e yimɓe maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata ... aa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "foyno"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:10.281342559Z",
+  "model": "glm-5.3"
+}

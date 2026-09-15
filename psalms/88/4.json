@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Sabu nefes am heɓii no feewi balaa e balaa, e nguurndam am ngarti haa Seol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "heɓii no feewi"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "balaa e balaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes am"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "e nguurndam am"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "haa Seol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ngarti"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:30.301703678Z",
+  "model": "glm-5.3"
+}

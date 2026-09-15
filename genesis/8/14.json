@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E nder lewru ɗiɗaɓuru ndee, ñalawe sappo e jeedje e ɗiɗo e nder lewru ndee, leydi ndin yoorii no feewi.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "E nder lewru"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓuru ndee"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sappo e jeedje e ɗiɗo ñalawe"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "jeedje"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawe"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lewru ndee"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "yoorii no feewi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:52.382584414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɗemngal am jaabata konngol maa; sabu ɗaatiiji maa fuu ko peewnu.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "jaabata"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemngal am"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "konngol maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ɗaatiiji maa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ko peewnu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:13.292102504Z",
+  "model": "glm-5.3"
+}

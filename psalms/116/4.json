@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Kono e nder innde Yaawe mi noddi: Eho, Yaawe, hisnu ⟨nafshi — hoore mun no neɗɗo waŋŋori nii⟩.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Eho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hoore mun no neɗɗo waŋŋori nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:23.675509136Z",
+  "model": "glm-5.3"
+}

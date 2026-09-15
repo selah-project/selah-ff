@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Daande ɓe njogii, kono ɓe kaalaani; gite ɓe njogii, kono ɓe yi'aani.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "daande"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "kaalaani"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gite"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe njogii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "yi'aani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:42.993601912Z",
+  "model": "glm-5.3"
+}

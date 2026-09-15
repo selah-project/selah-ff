@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "\"Ɗaɓɓitol sappo e tati Shubael, ɓiɓɓe mun e miñiraaɓe mun ɗiɗo-fuu, sappo e ɗiɗi.\"",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "tati [ɗaɓɓitol]"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo e tati"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shubael"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "e miñiraaɓe mun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo e ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:02:34.355462521Z",
+  "model": "glm-5.3"
+}

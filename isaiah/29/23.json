@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Sabu tuma o yi'oy ɓiɓɓe mun — golle junngo Am — e nder makko, ɓe laaɓtina Innde Am, ɓe laaɓtina ⟨את⟩ Ceniɗo Yaakov, ɓe cuusoy ⟨את⟩ Eloohim Israai'il.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "tuma o yi'oy"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo Am"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "e nder makko"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "ɓe laaɓtina"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Innde Am"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ɓe laaɓtina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ceniɗo Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ceniɗo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim Israai'il"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'il"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "ɓe cuusoy"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:39.898390987Z",
+  "model": "glm-5.3"
+}

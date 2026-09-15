@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O cujjii, o fenii hoore mun, accude malaaɓe ɓen nano e sembe makko.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "o cujjii"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "o fenii hoore mun"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "accude…nano"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "e sembe makko"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "malaaɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:51.398875914Z",
+  "model": "glm-5.3"
+}

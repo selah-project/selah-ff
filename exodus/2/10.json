@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ngulaaɗo on mawni, debbo on addi mo to ɓiɗɗo debbo Firʿawn, o laati ɓiɗɗo mum. O inniri innde mun Moshe, o wi'i: \"Ko no mi ƴettirta mo e ndiyam ɗam.\"",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngulaaɗo on"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "addi mo"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "to ɓiɗɗo debbo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʿawn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o inniri"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "inde mun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko no"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "mi ƴettirta mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:55.843272910Z",
+  "model": "glm-5.3"
+}

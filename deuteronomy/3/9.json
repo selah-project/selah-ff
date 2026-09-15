@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Tsidoniyankooɓe ɓe ngaddi innde Hermon ₋₋ Siryon; Amoriyankooɓe kadi ɓe ngaddi innde mayre Senir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Tsidoniyankooɓe"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ɓe ngaddi innde"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Siryon"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e Amoriyankooɓe"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ɓe ngaddi innde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mayre"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Senir"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:29.189146134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Kono si on nanjetaa am, e si on waɗaa ⟨את⟩ jam’uuji ɗii fof;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "on nanjetaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on waɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jam’uuji ɗii fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "jam’uuji ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:43.183985122Z",
+  "model": "glm-5.3"
+}

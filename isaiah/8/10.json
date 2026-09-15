@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Waɗee wasiya, muññaa; wowlon konngol, ngol ⟨wonataa⟩ duumii; sabo Eel ⟨inna⟩ e min — Immanu-El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "waɗee wasiya"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "wasiya"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "muññaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wowlon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨wonataa⟩"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "duumii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:49.366444611Z",
+  "model": "glm-5.3"
+}

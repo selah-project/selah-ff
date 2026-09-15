@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Sabu ⟨o⟩ wi'i, ɗum laari; ⟨o⟩ yamiri, ɗum darii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ɗum laari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ɗum darii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:08.600292762Z",
+  "model": "glm-5.3"
+}

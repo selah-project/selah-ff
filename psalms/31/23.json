@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Kono min, mi wi'i e jaawgol am: mi taƴaama yeeso gite maa; kono tawa a nanii daande ñaawoore am e nder noonu am fii maa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "e jaawgol am"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "mi taƴaama"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ɗo yi'aa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kono tawa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a nanii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "e noonu am"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:55.282190979Z",
+  "model": "glm-5.3"
+}

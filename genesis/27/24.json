@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "O wi'i: \"A laatii ɗum, ɓiy am Esav?\" O wi'i: \"Ko miin.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a laatii"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiy am"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko miin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:55.183967627Z",
+  "model": "glm-5.3"
+}

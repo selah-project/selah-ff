@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Ruuhu am heñaama hoɗi am, ɓernde am e nder am yermaama.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "heñaama"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hoɗi am"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "e nder am"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "yermaama"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:26.069340003Z",
+  "model": "glm-5.3"
+}

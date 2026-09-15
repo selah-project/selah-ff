@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 32:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "No buntinɗo udditinta muusɗe mun, wudda e ɓiɓɓe cukaaku mun en nii, o yaaji baɗɗe mun, o nanngi ɓe, o dognini ɓe e bannge heen.",
+  "tokens": [
+    {
+      "surface": "כנשר",
+      "gloss": "no buntinɗo nii"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "udditinta"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "muusɗe mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "גוזליו",
+      "gloss": "ɓiɓɓe cukaaku mun en"
+    },
+    {
+      "surface": "ירחף",
+      "gloss": "wudda"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "o yaaji"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "baɗɗe mun"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "o nanngi ɓe"
+    },
+    {
+      "surface": "ישאהו",
+      "gloss": "o dognini ɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "אברתו",
+      "gloss": "bannge heen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:25.752427191Z",
+  "model": "glm-5.3"
+}

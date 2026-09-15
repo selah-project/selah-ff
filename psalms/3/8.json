@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ummu, Yaawe; hisnu mi, Eloohim am; sabu a fiyii ⟨את⟩ baawɓe am fuu e tebere; ƴi'e bonɓe a rompini.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ummu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hisnu mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "a fiyii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baawɓe am fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "baawɓe am"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "e tebere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "a rompini"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:52.864886714Z",
+  "model": "glm-5.3"
+}

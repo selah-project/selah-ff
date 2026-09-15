@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe wi'i Aharuun: kaa e ɓiɓɓe maaɗa e suudu baaba maaɗa ⟨את⟩ e maaɗa, mbaroyon ⟨את⟩ bonannde dendu ngun; kaa kadi e ɓiɓɓe maaɗa ⟨את⟩ e maaɗa, mbaroyon ⟨את⟩ bonannde sarwiraaji mon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ardude-e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharuun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e ɓiɓɓe maaɗa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maaɗa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maaɗa"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "mbaroyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde dendu ngun"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "dendu ngun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kaa kadi"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e ɓiɓɓe maaɗa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maaɗa"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "mbaroyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde sarwiraaji mon"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "sarwiraaji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:44:56.120909622Z",
+  "model": "glm-5.3"
+}

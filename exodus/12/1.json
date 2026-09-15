@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yaawe wi'i to Moshe e to Aharuun nder leydi Misrayim, wondude leydi Misrayim, no wi'a.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharuun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "no wi'a"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:42.682061946Z",
+  "model": "glm-5.3"
+}

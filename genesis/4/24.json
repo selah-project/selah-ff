@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Godo Kayin yettaama laabi jeeɗiɗi, kono Lemek cappanɗe jeeɗiɗi e jeeɗiɗi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "godo"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "laabi jeeɗiɗi"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "yettaama"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "kono Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "cappanɗe jeeɗiɗi"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "e jeeɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:30.043978812Z",
+  "model": "glm-5.3"
+}

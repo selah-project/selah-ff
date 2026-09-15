@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "So o yani, o tuuyaa; sabu Yaawe wallortoo junngo makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o tuuyaa"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "tuuyaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "wallortoo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:14.046702866Z",
+  "model": "glm-5.3"
+}

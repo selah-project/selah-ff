@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Debbo on wi'i: ⟨את⟩ hommbe mi ƴellitata e maa? O wi'i: ƴellit ⟨את⟩ Shemuwel lam.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hommbe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbe"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi ƴellitata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "ƴellit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:17.691619525Z",
+  "model": "glm-5.3"
+}

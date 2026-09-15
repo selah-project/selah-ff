@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Lahiyo, ƴeew-ɗo, mi werni ⟨את⟩ laawol maa ngol e ƴi'e pamarooje, mi mahi ⟨את⟩ ŋoreere makko, laabi makko o heɓataa ɗum.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "lahiyo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeew-ɗo"
+    },
+    {
+      "surface": "שך",
+      "gloss": "mi werni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol maa ngol"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa ngol"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "e ƴi'e pamarooje"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "mi mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ŋoreere makko"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ŋoreere makko"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "laabi makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o heɓataa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:32:40.576202837Z",
+  "model": "glm-5.3"
+}

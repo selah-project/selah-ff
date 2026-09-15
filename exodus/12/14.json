@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nyalnde nde wañetee on siftorde; ñaawaton ⟨את⟩ ɗum jiɗɗere fii Yaawe e duuɓi mon; sariya duuminotooɗum ñaawanton ɗum.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wañetee"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nyalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "siftorde"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "ñaawaton"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "חג",
+      "gloss": "jiɗɗere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "duuɓi mon"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duuminotooɗum"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "ñaawanton ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:13.355827051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Ɓe neldi yiite e dewal Mun; haa e leydi ɓe bonnini hoɗorde innde Mun.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "e dewal Mun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "haa e leydi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ɓe bonnini"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde Mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:52.801009375Z",
+  "model": "glm-5.3"
+}

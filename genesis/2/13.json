@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E innde maayo ɗimmongo on ko Giyon; ko ngel woni pawoowo ⟨את⟩ leydi Kuush fuu.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "maayo on"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗimmongo"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Giyon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ngel"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "pawoowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Kuush fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:17.586565451Z",
+  "model": "glm-5.3"
+}

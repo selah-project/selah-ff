@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "no wi'a: \"A waajata, mi ɗokkirta ⟨את⟩ leydi Kena'an, ɗoftinirde ndi ngoni ronndi mon.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "no wi'a"
+    },
+    {
+      "surface": "לך",
+      "gloss": "A waajata"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi ɗokkirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Kena'an"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ɗoftinirde"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ronndi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:20.690569968Z",
+  "model": "glm-5.3"
+}

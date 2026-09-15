@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mi wi'i Yaawe: Adonaay, ko ⟨an⟩; moƴƴere am ɗen, alaa ko ɓuri maa.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Mi wi'i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko ⟨an⟩"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "moƴƴere am ɗen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ko ɓuri maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:11.993190517Z",
+  "model": "glm-5.3"
+}

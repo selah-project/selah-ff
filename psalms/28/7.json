@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe ko doole am e mooftere am; e makko ɓernde am ƴeewtii, mi wallitaama; ɓernde am wurtuuri, e jimol am mi yettata ⟨mo⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "e mooftere am"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ƴeewtii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "mi wallitaama"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "wurtuuri"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "e jimol am"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "mi yettata mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.731760377Z",
+  "model": "glm-5.3"
+}

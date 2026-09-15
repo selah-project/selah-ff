@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Na'i e beeru ñaamnata wondude, ɓiɓɓe maɓɓe fooɗata renndo; gyamnde ñaamata ina wano na'i.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "beeru"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "ñaamnata"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "fooɗata"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "gyamnde"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "wano na'i"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ina"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:05.799451194Z",
+  "model": "glm-5.3"
+}

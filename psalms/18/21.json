@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe yo'oyam ko yaawu e peewal am; ko laaɓal juneeji am o wartoyam lam.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "yo'oyam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ko yaawu e peewal am"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ko yaawu e"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juneeji am"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o wartoyam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:33.345889431Z",
+  "model": "glm-5.3"
+}

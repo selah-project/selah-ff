@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mbaruk-mi, ɓooytaa, ngam mi ƴeew ⟨את⟩ leydi nden moƴƴunden, nden woni ko beyngu Yarden nden; towru nden moƴƴunden nden e Lebbanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "mbaruk-mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɓooytaa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngam mi ƴeewa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi nden moƴƴunden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nden"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "moƴƴunden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "beyngu"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden nden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "towru nden"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "moƴƴunden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "e Lebbanon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:51.615768525Z",
+  "model": "glm-5.3"
+}

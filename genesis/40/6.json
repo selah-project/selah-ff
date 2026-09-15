@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Yoosef arii e maɓɓe subaka, o yi'i ⟨את⟩ ɓe, e nundi ɓe sunii ɓe wuli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "e nundi ɓe"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "suniiɓe, wuli"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:15.595231140Z",
+  "model": "glm-5.3"
+}

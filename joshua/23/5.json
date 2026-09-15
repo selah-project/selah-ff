@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yaawe Eloohim monɗon — kanko kadi — o dognay ɓe e yeeso monɗon, o hebtray ⟨את⟩ ɓe din yeeso monɗon; on jeytan ⟨את⟩ leydi maɓɓe, no Yaawe Eloohim monɗon wi'un monɗon.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim monɗon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko kadi"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "o dognay ɓe"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "e yeeso monɗon"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "o hebtray"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "din yeeso monɗon"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "on jeytan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'un"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim monɗon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "monɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:52:50.813351446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe hasdi Musa nder ngente, e Haaruun selluɗo Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ɓe hasdi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "nder ngente"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "e Haaruun"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "selluɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.670413451Z",
+  "model": "glm-5.3"
+}

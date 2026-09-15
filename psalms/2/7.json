@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi tinndinay ⟨kuugal⟩ Yaawe: O wi'i lam: Ɓiɗɗo am ⟨a on⟩; hannde min jibinii ma.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Mi tinndinay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨kuugal⟩ Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɗɗo am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a on"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "min jibinii ma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:40.697948687Z",
+  "model": "glm-5.3"
+}

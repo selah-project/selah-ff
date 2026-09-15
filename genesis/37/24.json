@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ɓe nanngi mo, ɓe mbuuri mo ⟨את⟩ e nder wirnii — wirnii ngol waasii, meere, alaa ndiyam e nder maggal.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Ɓe nanngi mo"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ɓe mbuuri mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wirnii"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "e nder wirnii"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "wirnii ngol"
+    },
+    {
+      "surface": "רק",
+      "gloss": "waasii, meere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e nder maggal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:49.466566119Z",
+  "model": "glm-5.3"
+}

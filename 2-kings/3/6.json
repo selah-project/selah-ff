@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo Yehoram yalti Shomron ñalnde nden, o limti ⟨את⟩ fuu Israai'iil.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "o limti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu Israai'iil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:09.210977518Z",
+  "model": "glm-5.3"
+}

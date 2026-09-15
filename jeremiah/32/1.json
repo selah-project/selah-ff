@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Konngol ngol ari Yirmiyaahu diga ⟨את⟩ Yaawe, e hitaande sappo e go'o Tsidqiyaahu laamɗo Yahuuda; ko nde hitaande jeetati e sappo Nebukadnetsar.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "diga ⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "sappo e go'o"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "Tsidqiyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko nde"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande ndee"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "Nebukadnetsar"
+    }
+  ],
+  "timestamp": "2026-09-14T08:19:38.497268985Z",
+  "model": "glm-5.3"
+}

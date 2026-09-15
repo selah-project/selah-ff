@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Wooru ⟨ko⟩ fontoowo, wooru ɓuuɓɗo ⟨ko⟩ huɓɓoowo; kala majjuɗo e maggal alaa o heɓay haŋkilo.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "fontoowo"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wooru"
+    },
+    {
+      "surface": "המה",
+      "gloss": "huɓɓoowo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "wooru ɓuuɓɗo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "majjuɗo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e maggal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "heɓay haŋkilo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:01:38.904897549Z",
+  "model": "glm-5.3"
+}

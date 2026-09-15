@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Wakkati ngo O wi'ay ɓe e murru mun, e huunree mun O hulbintay ɓe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wakkati ngo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "O wi'ay ɓe"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "e ɓe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "e murru mun"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "e huunree mun"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "O hulbintay ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:40.697253077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Nobaḥ yahi, o nanngi ⟨את⟩ Kenaat e ⟨את⟩ ɓiɓɓe rewɓe mayre, o inniri ɗum Nobaḥ, e innde makko.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Nobaḥ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "o nanngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe rewɓe mayre"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ɓiɓɓe rewɓe mayre"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o inniri"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobaḥ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "e innde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:48:46.511798933Z",
+  "model": "glm-5.3"
+}

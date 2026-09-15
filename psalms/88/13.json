@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Ɗoo pelle-majju maa ndeeña e niɓɓere, e goongɗal maa e leydi yejjitunde?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ndeeña"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "e niɓɓere"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "pelle-majju maa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e goongɗal maa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "yejjitunde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:51.258693994Z",
+  "model": "glm-5.3"
+}

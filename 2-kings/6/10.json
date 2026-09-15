@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen laamɗo Israyiil neldi to nokku on ɗi gorko Eloohim on wi'i mo; o dartini mo, o reenti ton — wonaa laawol gootol, wonaa laabi ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ndeen … neldi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "o dartini mo"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "o reenti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "laawol gootol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "laabi ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:07:39.975130828Z",
+  "model": "glm-5.3"
+}

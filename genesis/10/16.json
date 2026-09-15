@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ Yebusiyankooɓe ɗen e ⟨את⟩ Emoriyankooɓe ɗen e ⟨את⟩ Girgashiyankooɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yebusiyankooɓe ɗen"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusiyankooɓe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Emoriyankooɓe ɗen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyankooɓe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Girgashiyankooɓe ɗen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashiyankooɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:23.074301730Z",
+  "model": "glm-5.3"
+}

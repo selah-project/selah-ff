@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Sabu ɗuum, wi': ƴeew, miɗo rokka mo ⟨את⟩ ɓural am jam.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗuum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "miɗo rokka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓural am jam"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ɓural am"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:39.142539407Z",
+  "model": "glm-5.3"
+}

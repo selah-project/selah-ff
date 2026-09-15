@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe nanii ⟨את⟩ daande konnguɗi mon, o muusɗini, o foondi wiyde:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "konnguɗi mon"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "o muusɗini"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "o foondi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:03.333939641Z",
+  "model": "glm-5.3"
+}

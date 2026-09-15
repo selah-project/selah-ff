@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Shiggayon Dawuuda, mo o yiimi fii Yaawe, dow konnguule Kuush ɓiy Yemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shiggayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yiimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguule"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yemini"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:43.764195166Z",
+  "model": "glm-5.3"
+}

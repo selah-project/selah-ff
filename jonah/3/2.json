@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ƴoƴƴu, yah to Niinwe, wuro mawngo ngol, a''a ɗum ⟨את⟩ noddaango ngod⟨o⟩ ngu mi winndataa maa.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Ƴoƴƴu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngol"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mawngo"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "a'a noddaango"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noddaango ngu"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "noddaango ngu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngod(o)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "winndataa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:13.240942636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Laamɗo Babel waɗinii ⟨את⟩ Matanayaah baaba mum mawɗo laamuɗo e nokku makko, o wayli ⟨את⟩ innde makko, o wuɓɓiti hoore mum Sidkiyaahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "waɗinii laamu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanayaah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanayaah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "baaba mum mawɗo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e nokku makko"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "o wayli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde makko"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:02.565131885Z",
+  "model": "glm-5.3"
+}

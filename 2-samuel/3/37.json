@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yimɓe ɗin fuu e Israa'iil fuu nndii ñalnde nden, wonde wonnoo wonaa ummoraade e laamɗo on, warde ⟨את⟩ Abner ɓiy Ner.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "nndii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "ummoraade e laamɗo on"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "warde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:30.558257474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ndeen wata on mettinoo, wata ɗum moyɗu e gite mon, nde nde on soodi min ⟨את⟩ ɗoo; ko fii hisnude nguurndam Eloohim neldi min yinnde mon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "on mettinoo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "moyɗu"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "e gite mon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "on soodi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo (min)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "fii hisnude nguurndam"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "neldi min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yinnde mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:22.613309533Z",
+  "model": "glm-5.3"
+}

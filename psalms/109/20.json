@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ɗum woni njoɓdi ayɓi am juɗunde e Yaawe ⟨את⟩, e ɓen ɓe kaalata bone e nguurndam am.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "njoɓdi"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ayɓi am"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "juɗunde e ⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "e ɓen ɓe kaalata"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.443594286Z",
+  "model": "glm-5.3"
+}

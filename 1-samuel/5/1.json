@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Pelisetiyankooɓe ɓee njamɓi ⟨את⟩ sannde Eloohim ɗen, ɓe addi ɗum iwde Eben-ha-Ezer haa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Pelisetiyankooɓe ɓee"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "njamɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sannde Eloohim ɗen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sannde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ɓe addi ɗum"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "iwde Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "haa Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:38.071110679Z",
+  "model": "glm-5.3"
+}

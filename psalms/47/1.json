@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Fii gardotooɗo on; fii ɓiɓɓe Korah; mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii gardotooɗo on"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:26.374636162Z",
+  "model": "glm-5.3"
+}

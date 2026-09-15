@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Cedek yaha yeeso Makko, o waɗa laawol e potte Makko ɗen.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Cedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso Makko"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗa"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "potte Makko ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:12.022239130Z",
+  "model": "glm-5.3"
+}

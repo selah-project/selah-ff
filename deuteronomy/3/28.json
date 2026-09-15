@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E ɗaɓɓu ⟨את⟩ Yahuusaa, semmbinu mo, baawɗin mo; kono ko kanko o yahay yeeso yimɓe ɓee, kanko o ronni ⟨את⟩-ɓe ⟨את⟩ leydi nden nde a ƴeewata.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "e ɗaɓɓu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuusaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuusaa"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "e semmbinu mo"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "e baawɗin mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "o yahay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɓee"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "ronni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-ɓe",
+      "marks": "ɓe (yimɓe ɓee)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi nden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a ƴeewata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:51.616781093Z",
+  "model": "glm-5.3"
+}

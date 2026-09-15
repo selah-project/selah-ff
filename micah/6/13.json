@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi min, mi waajini ñaamde maa, mi yeeytude ma, sabu junubaaji maa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "mi waajini"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ñaamde maa"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "mi yeeytude ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "junubaaji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:07:51.902670450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Nde Ahab nanii wonde Nabot maayi, Ahab ummiima ngam yahde les to inaari Nabot Yizreelaaɗo on, ngam jeyde nde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nd’en"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nde nanii"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ngam yahde les"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "inaari"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Yizreelaaɗo"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "ngam jeyde nde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:28.119435836Z",
+  "model": "glm-5.3"
+}

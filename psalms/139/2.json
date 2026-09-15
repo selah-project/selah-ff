@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "A anndi jooɗugol am e ummorde am; a faamii miijo am e woɗɗude.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "jooɗugol am"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "e ummorde am"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "a faamii"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "miijo am"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "e woɗɗude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:19.850036288Z",
+  "model": "glm-5.3"
+}

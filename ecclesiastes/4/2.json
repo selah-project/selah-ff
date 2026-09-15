@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kadi mi yettirtinii ⟨את⟩ maayɓe ɓen ɓe gila ɓenni maayɗo, ɓuri wuurɓe ɓen ɓe ngonndo wuurɓe haa jooni.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "mi yettirtinii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayɓe ɓen"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "maayɓe ɓen"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "gila ɓenni"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maayɗo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wuurɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ngonndo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wuurɓe"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "haa jooni"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:29.713822920Z",
+  "model": "glm-5.3"
+}

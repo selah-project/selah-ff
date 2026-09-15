@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mi ko mi yiyi ñaañɗo waɗa yoggu, e jaho mi acciri hoɗorde mun nden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yiyi"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ñaañɗo"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "waɗa yoggu"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "mi acciri"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hoɗorde mun"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "e jaho"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:33.191588380Z",
+  "model": "glm-5.3"
+}

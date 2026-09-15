@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O wi'i to Muusaa: «Miin, duumiraaɗo maa, Yitroo, mi arii to maa, e debbo maa e ɓiɓɓe makko ɗiɗo ɓen wondi e makko.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "duumiraaɗo maa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "e debbo maa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e ɗiɗo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wondi e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:01.208735407Z",
+  "model": "glm-5.3"
+}

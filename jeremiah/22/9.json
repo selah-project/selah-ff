@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe mbi'a: Sabu ɓe acci ⟨את⟩ ahadi Yaawe Eloohim mun, ɓe sujjanii laaɓi e Eloohim goɗɗi, ɓe gollinoo ɓe.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ɓe mbi'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ɓe acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahadi ndi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim mun"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe sujjanii laaɓi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "ɓe gollinoo ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:27.366270332Z",
+  "model": "glm-5.3"
+}

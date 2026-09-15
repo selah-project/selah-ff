@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Tan, ko fii Eloohim, neffe am ena muña dewre; sabu ka makko ko ƴoƴre am.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "fii Eloohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ena muña dewre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neffe am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka makko"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ƴoƴre am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:26.785602698Z",
+  "model": "glm-5.3"
+}

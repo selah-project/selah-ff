@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Tundunde Eloohim, tundunde Bashan; tundunde ɓuuɓɓe, tundunde Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "tundunde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tundunde"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tundunde"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ɓuuɓɓe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tundunde"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:09.227048923Z",
+  "model": "glm-5.3"
+}

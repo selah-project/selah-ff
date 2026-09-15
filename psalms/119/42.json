@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi waawi jaabde on ƴattooɗo mi konngol, gmi mi hoolii e konngol maa.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "mi waawi jaabde"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "on ƴattooɗo mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gmi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi hoolii"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "e konngol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:22.771665035Z",
+  "model": "glm-5.3"
+}

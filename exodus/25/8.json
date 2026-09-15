@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɓe ngaddanay Am mi nokku laaɓtuɗo, Mi hoɗanay hakkunde maɓɓe;",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ɓe ngaddanay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Am mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "nokku laaɓtuɗo"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "Mi hoɗanay"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "hakkunde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:54.462650176Z",
+  "model": "glm-5.3"
+}

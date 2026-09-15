@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "e tawa Jaakob nanii baaba mun e inna mun, o yahi Paddan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-to"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "inna mun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:10.768079378Z",
+  "model": "glm-5.3"
+}

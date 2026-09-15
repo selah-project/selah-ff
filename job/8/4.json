@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Si ɓiɗɓe maa ñaami mo, o neldi ɓe e junngo faamungal maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɗɓe maa"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ñaami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "o neldi ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "faamungal maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:23.991273960Z",
+  "model": "glm-5.3"
+}

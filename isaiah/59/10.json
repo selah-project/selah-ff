@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "No wumɓe nih min ñuuwondira rogorgol, no gite majjuɗe nih min ñuuwondira; min jiŋɓii kaalorgal no e jamma lesru; e nder baadie no neɗɗaaji mawɓe nih meeɗen nii.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "min ñuuwondira"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "no wumɓe nih"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rogorgol"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "no gite majjuɗe nih"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gite"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "min ñuuwondira"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "min jiŋɓii"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "kaalorgal"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "no e jamma lesru"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "e nder baadie"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "no neɗɗaaji mawɓe nih meeɗen nii"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:19.686854055Z",
+  "model": "glm-5.3"
+}

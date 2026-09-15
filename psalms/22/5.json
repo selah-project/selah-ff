@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "E maa baabiraaɓe amen ngoolnii; ɓe ngoolnii, ⟨o⟩ wurtini ⟨ɓe⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "E maa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ngoolnii"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ɓe ngoolnii"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "o wurtini ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:35.985073540Z",
+  "model": "glm-5.3"
+}

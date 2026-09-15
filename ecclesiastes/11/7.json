@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi kelmeendi woni naange ndin, e moƴƴere woni fii gite yiyde ⟨את⟩ naange ndin.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "kadi kelmeendi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "naange ndin"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e moƴƴere"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "fii gite"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naange ndin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:23.011752891Z",
+  "model": "glm-5.3"
+}

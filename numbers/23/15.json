@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O wi'i Balak: Daro ɗoo nayo, kaŋŋe e mbaroodi maa ndin, kono mi mi-ɗen ngarta nayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "Daro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ɗoo nayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaŋŋe e"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "mbaroodi maa ndin"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ngarta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:59.416637696Z",
+  "model": "glm-5.3"
+}

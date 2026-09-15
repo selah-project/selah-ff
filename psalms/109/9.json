@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ɓiɗɓe mun ɗin laatoto yatimɓe, e debbo mun oo laatoto jom-rewɓe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "laatoto"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɗɓe mun ɗin"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatimɓe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo mun oo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "jom-rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:12.663707374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Mo yahata laaɓal, mo gollata ñaawoore, mo haalata goonga e ɓernde makko.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Mo yahata"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "mo gollata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mo haalata"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "e ɓernde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.834455302Z",
+  "model": "glm-5.3"
+}

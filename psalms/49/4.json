@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Haala am haalata hakkille, e miijorɗe ɓernde am ñaawoorejanngu.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "haala am"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "haalata"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "hakkille (keewɗum)"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "e miijorɗe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ñaawoorejanngu (keewndu)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:53.008636400Z",
+  "model": "glm-5.3"
+}

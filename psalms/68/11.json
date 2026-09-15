@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Ne'en Maa on hoɗii e mayri; e moƴƴere Maa on a hebliri fii miskiinɓe, Eloohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Ne'en Maa on"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hoɗii"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mayri"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "a hebliri"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "e moƴƴere Maa on"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "fii miskiinɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:35.017129913Z",
+  "model": "glm-5.3"
+}

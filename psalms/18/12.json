@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O waɗii niɓɓere cuuroore mun, taariiɗe mun chalkere mun — niɓɓere ndiyam, duume kammuuli.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓere"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "cuuroore mun"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "taariiɗe mun"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "chalkere mun"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "niɓɓere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "duume"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:56.124441226Z",
+  "model": "glm-5.3"
+}

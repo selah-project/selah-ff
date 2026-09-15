@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O wi'i mo: yaa ɓooya, yiy ⟨את⟩ salimaandi miñiɓe maa ɗen e ⟨את⟩ salimaandi ghee ɗen, mballaa-mi jaabtol. O neldi mo e lowre Chewron, o ari Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɓooya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salimaandi miñiɓe maa ɗen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salimaandi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñiɓe maa ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salimaandi ghee ɗen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salimaandi"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ghee ɗen"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "mballaa-mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jaabtol"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "o neldi mo"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "e lowre"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:20.849770111Z",
+  "model": "glm-5.3"
+}

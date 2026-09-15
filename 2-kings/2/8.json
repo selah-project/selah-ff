@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Eliya ƴetti ⟨את⟩ mantel mun, o ruŋŋini ɗum, o fiyi ⟨את⟩ ndiyam ɗam; ɗam seerti ɗoo e ɗoo, ɓe njahi tampol ɗiɗo fare e ley yoornde.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantel mun"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "mantel mun"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "o ruŋŋini"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam ɗam"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ɗam seerti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ɗoo"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ɓe njahi tampol"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "e ley yoornde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:32.612008526Z",
+  "model": "glm-5.3"
+}

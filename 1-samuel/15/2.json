@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ko ɗum Yaawe Saba'ot wi'i: mi yii ⟨את⟩ ko Amalek waɗi Yisraa'iil — hono no o mahiri mo fii warde mo e laawol, saŋga o ummii Misrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Saba'ot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mi yii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Amalek waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mahiri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "saŋga o ummii"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:20.247707133Z",
+  "model": "glm-5.3"
+}

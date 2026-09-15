@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kala neɗɗo wuddi paldeeja mun, ɗi laati taniniji; paldeeja Aharon weli ⟨את⟩ paldeeji mun en.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "wuddi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "paldeeja mun"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɗi laati"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taniniji"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "weli"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "paldeeja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paldeeji mun en"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "paldeeji mun en"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:31.587482818Z",
+  "model": "glm-5.3"
+}

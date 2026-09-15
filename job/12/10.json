@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mo junngo mun woni e mum nafusla ko wuuri fuu, e ruuhu ɓerɓe neɗɗo fuu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "junngo mun woni e mum"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nafusla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ko wuuri"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e ruuhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓerɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    }
+  ],
+  "timestamp": "2026-09-15T07:49:48.172549587Z",
+  "model": "glm-5.3"
+}

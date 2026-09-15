@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Koyo a, ɓiɗɗo aadam, nan ⟨את⟩ ɗum mi wowlata e maa; wata a laatoy muuccu no suudu muuccu ndu; uddit hunnde maa, ñaam ⟨את⟩ ɗum mi nadata maa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Koyo a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (mi wowlata)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wowlata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "a laatoy"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "muuccu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "no suudu"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "muuccu ndu"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "uddit"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "hunnde maa"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ñaam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (mi nadata)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nadata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:52.286203168Z",
+  "model": "glm-5.3"
+}

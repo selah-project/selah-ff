@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe keɓi ⟨את⟩ Loot e ⟨את⟩ jawdi mun, ɓiyi miinoy Awraam, ɓe njahi; kanko o wonnoo hoɗɗoɗo Soddom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe keɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jawdi mun"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "jawdi mun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiyi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miinoy"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraam"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hoɗɗoɗo"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Soddom"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:15.534509553Z",
+  "model": "glm-5.3"
+}

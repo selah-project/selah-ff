@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Masinaa jeeyngol geec ngol. Hono dawoolaaji nder Negev ɗi loowirta, ummoto-ɗo ko e jeeyngol, ko e leydi wumndiri ndi ari.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masinaa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeeyngol"
+    },
+    {
+      "surface": "ים",
+      "gloss": "geec"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "dawoolaaji"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "nder Negev"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "loowirta"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "e jeeyngol"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "wumndiri"
+    }
+  ],
+  "timestamp": "2026-09-14T12:13:30.722729240Z",
+  "model": "glm-5.3"
+}

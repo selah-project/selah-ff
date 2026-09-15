@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Nde o timmini hafrude ⟨את⟩ ka sennde ngam e ⟨את⟩ teental mooñondirngal ngal e ⟨את⟩ fewnde nden, o addana ⟨את⟩ bucco wuurnoowo on.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "nde o timmini"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "hafrude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka sennde ngam"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ka sennde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "teental mooñondirngal ngal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mooñondirngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fewnde nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "fewnde"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "o addana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bucco wuurnoowo on"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bucco woolaako"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wuurnoowo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:02.859574Z",
+  "model": "glm-5.3"
+}

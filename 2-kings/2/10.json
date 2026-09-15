@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i: “A ñaamii huunde saɗtunde. Kono si a yi'ii ⟨את⟩ mi ƴettaama ⟨את⟩ maa, ko nnon waɗaa maa; kono si wonaa, waɗataa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "saɗtunde"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ñaamude"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "a yi'ii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ƴettaama"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "waɗaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nnon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "walaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:12.139576239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 37:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Laamɗo Tsidkiyahu ɓiy Yoošiyyahu laamiima lomto Keniyahu ɓiy Yehoyakim, ɓe ɗoon Nevukadretsar laamɗo Babel waɗi mo laamɗo e leydi Yahuudah.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoošiyyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lomto"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "Keniyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "waɗi laamɗo"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    }
+  ],
+  "timestamp": "2026-09-14T08:24:28.508631772Z",
+  "model": "glm-5.3"
+}

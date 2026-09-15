@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "E Eloohim mi yetto konngol Makko, e Eloohim mi wijjii; mi luuraali — ko ɓernde waɗata kam?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "mi yetto"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol Makko"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi wijjii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wa'a"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mi luura"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:41.564939075Z",
+  "model": "glm-5.3"
+}

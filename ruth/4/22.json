@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Oobed danyi ⟨את⟩ Yishay, Yishay kadi danyi ⟨את⟩ Daawuuda.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Oobed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishay kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:55.443612488Z",
+  "model": "glm-5.3"
+}

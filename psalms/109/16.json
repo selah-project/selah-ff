@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Sabu o waɗaani hesed waɗugol, o rewii neɗɗo miskiɗo e needo, e ƴaañoowo ɓernde fii warde mo.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o jaɓaani"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "waɗugol"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "o rewii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskiɗo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e needo"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "e ƴaañoowo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "fii warde mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:22.850180886Z",
+  "model": "glm-5.3"
+}

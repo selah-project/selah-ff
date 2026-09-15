@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Mi nanii e loope ɗee cookɗe, ɗo ⟨walaa⟩ doppial; mi naatii e ɓuuɓri ndiyam, e ilam ɓuuɓninam.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "e"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "loope ɗee cookɗe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨walaa⟩"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "doppial"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "mi naatii"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "e ilam"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ɓuuɓninam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:24.615171144Z",
+  "model": "glm-5.3"
+}

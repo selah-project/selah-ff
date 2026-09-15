@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Yiite yaha yeeso makko, nde naɓa taarotoo ayɓɓe makko.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Yiite"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yaha yeeso makko"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "nde naɓa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taarotoo"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ayɓɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:23.093130690Z",
+  "model": "glm-5.3"
+}

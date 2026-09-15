@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mbonnaande maa nden, Israa'iil — tawde ballal maa ko e Am.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "mbonnaande maa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e Am"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "e ballal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:12.424684020Z",
+  "model": "glm-5.3"
+}

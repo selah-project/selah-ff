@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɓe ngoni ⟨ko⟩ daande reennde min, jemma e ñalorman, e ñalɗi amen fuu tawa min njahi e maɓɓe, min ngoni ko njiylotoo baali ɗin.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "daande reennde"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min"
+    },
+    {
+      "surface": "גם",
+      "gloss": "e"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalorman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi amen"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "tawa min njahi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "njiylotoo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "baali ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:02.298944287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O wi'i: “Umbu heɓ ngal.” O waɗni junngo makko, o heɓi ngal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Umbu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hedda maa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o waɗni"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "o heɓi ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:07.207234148Z",
+  "model": "glm-5.3"
+}

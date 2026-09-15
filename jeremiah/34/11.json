@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Kono caggal ɗum ɓe ruttitii, ɓe ruttini ⟨את⟩ maccuɓe ɗin e ⟨את⟩ maccuɓe rewɓe ɓen ɓe waccunoo dimaaji, ɓe lelni ɓe maccu e maccu rewbe.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ɓe ruttitii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ruttini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɓe ɗin"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "maccuɓe ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "maccuɓe rewɓe ɓen"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "maccuɓe rewɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "waccunoo"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "dimaaji"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "ɓe lelni ɓe maccu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "maccu"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "e maccu rewbe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:43.757671454Z",
+  "model": "glm-5.3"
+}

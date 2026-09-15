@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "E huɗo maa nguurda, maa gollu ⟨את⟩ miñi maa; kadi si a ruttitii, maa yyɗit caggiire mun diga daande maa.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "E"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "huɗo maa"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "nguurda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miñi maa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "maa gollu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "si"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "a ruttitii"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "maa yyɗit"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "caggiire mun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "diga"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "daande maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:49.741264151Z",
+  "model": "glm-5.3"
+}

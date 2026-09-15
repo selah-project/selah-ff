@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Gorko on, Adonaay leydi ndin, wi'i minen: \"E ɗoo mi annday wonde ko on worɓe gonɗi; acciton ɓiyeyɗen mon gooto e am ⟨את⟩, ƴettu ⟨את⟩ hebi fii njangu gure mon, ndeenu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "e minen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "e ɗoo"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mi annday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "worɓe gonɗi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ɓiyeyɗen mon"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "acciton"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "e am ⟨את⟩",
+      "marks": "ɓiyeyɗen mon gooto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hebi"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "njangu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "gure mon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ndeenu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:09.921209904Z",
+  "model": "glm-5.3"
+}

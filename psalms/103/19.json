@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yaawe, ka nder kammuuli, fooɗtii jooɗorde makko; e laamu makko no laamoo dow fuu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ka nder kammuuli"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "fooɗtii"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jooɗorde makko"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "e laamu makko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dow fuu"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "no laamoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:20.543517025Z",
+  "model": "glm-5.3"
+}

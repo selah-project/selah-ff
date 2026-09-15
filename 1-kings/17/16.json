@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kadre ɓeewe ndee waylaani, wiraade geec ɗam ustaani — no haala Yaawe woni, mo o haali e juuɗe Eliyaahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kadre"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ɓeewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "wayli"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "wiraade"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "geec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "usta"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:43.560377687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe wi'i: mi momtoto ⟨את⟩ neɗɗo mo mi tagiri, dow nder leydi ndin — neɗɗo maa daaba, maa daaba dogoowo, e colli kammuuli ɗin; ko mi yejjii ɓe waɗde ɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "mi momtoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "mi tagiri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nder"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "daaba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "maa"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "daaba dogoowo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "mi yejjii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:07.197565294Z",
+  "model": "glm-5.3"
+}

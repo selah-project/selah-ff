@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yoktan jibini ⟨את⟩ Almodad, e ⟨את⟩ Shelef, e ⟨את⟩ Hatsarmawet, e ⟨את⟩ Yarah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hatsarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yarah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarah"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:33.107690847Z",
+  "model": "glm-5.3"
+}

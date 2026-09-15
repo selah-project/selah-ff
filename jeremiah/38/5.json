@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Tsidkijah laamɗo on wi'i: Ɗoo o woni, o e junnde mon; ko laamɗo on waawataa ⟨את⟩ mon e huunde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "e junnde mon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "waawataa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:25:14.579141593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Aadam e teddungal, kono o faamaani, ⟨o⟩ nanndiraama e baali — ɗi ngommaa.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "e teddungal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono o faamaani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "faamaani"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "nanndiraama"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "e baali"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ngommaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:26.635198123Z",
+  "model": "glm-5.3"
+}

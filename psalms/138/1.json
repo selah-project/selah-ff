@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Fiiri Dawuudi. Mi yettinta maa e ɓernde am fuu, yeeso Eloohim mi fijirta maa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fiiri Dawuudi"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Mi yettinta maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mi fijirta maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:29.744664518Z",
+  "model": "glm-5.3"
+}

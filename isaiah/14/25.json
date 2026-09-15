@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Fii boneede Ashur e leydi am, e dow puɗe am mi woƴa mo; naggi mun nditta e maɓɓe, teemedere mun ndittaa e dow ɓoggodi mun.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "fii boneede"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "e leydi am"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "puɗe am"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "mi woƴa mo"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "nditta"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "naggi mun"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "teemedere mun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ɓoggodi mun"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ndittaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:58.109044358Z",
+  "model": "glm-5.3"
+}

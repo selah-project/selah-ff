@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Yeewo laawoje am ɗen laaɓu, ngam reende kuutoraaji maa ɗin!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "yeewo (aadu-riistaare)"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ɗen laaɓu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawoje am"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuutoraaji maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:26.306949982Z",
+  "model": "glm-5.3"
+}

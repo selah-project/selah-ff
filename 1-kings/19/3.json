@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "O yi'i ɗum, o ummii, o yahi ⟨fii⟩ nguurndam mun, o ari Beer-Sheba jeyaaɗo Yahuuda, o acci ⟨את⟩ sukaabo mun toon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nguurndam mun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jeyaaɗo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukaabo mun"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sukaabo mun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:06.554779829Z",
+  "model": "glm-5.3"
+}

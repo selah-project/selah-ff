@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Hesed maa, Yaawe, weeyotoo leydi ndin; janngin-mi kuule maa ɗen.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "weeyotoo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuule maa ɗen"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "janngin-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.765295906Z",
+  "model": "glm-5.3"
+}

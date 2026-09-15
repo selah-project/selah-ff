@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Kono a, Yaawe, ko a Ɓurɗo-toowɗo dow ⟨leydi⟩ ndin fuu; a toowii no feewi dow eloohim ɓee fuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɓurɗo-toowɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "a toowii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloohim ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:38.715872023Z",
+  "model": "glm-5.3"
+}

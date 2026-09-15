@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i: Yuuda yimaata; ƴeew, miɗo woodniniri ⟨את⟩ leydi ndin e junngo makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "yimaata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "miɗo woodniniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:42.155977619Z",
+  "model": "glm-5.3"
+}

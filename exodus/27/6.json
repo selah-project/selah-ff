@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Waɗu laylaye altar on, laylaye leɗɗe shitim, ɗo ndartina ⟨את⟩ ɗum e njamndi mboɗeeri.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waɗu"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "laylaye"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altar on"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "laylaye"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ɗo ndartina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "njamndi mboɗeeri"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi mboɗeeri"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:50.148063462Z",
+  "model": "glm-5.3"
+}

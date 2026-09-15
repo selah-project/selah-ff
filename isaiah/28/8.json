@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Sababu taƴe ɗen fuu wirnii ɓulliti e ɓowɗi, tawa alaa nokku laaɓɗo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "taƴe ɗen"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "wirnii"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ɓulliti"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ɓowɗi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tawa alaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:30.925571052Z",
+  "model": "glm-5.3"
+}

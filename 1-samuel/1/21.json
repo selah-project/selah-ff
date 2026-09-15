@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Gorko on Elqana e nder galle makko fuu ƴetti ngam wadde to Yaawe ⟨את⟩ dewre ñalɗi ɗin e ⟨את⟩ alkawal makko.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle makko"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ngam wadde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewre ñalɗi ɗin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dewre"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ñalɗi ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alkawal makko"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "alkawal makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:37:13.036000442Z",
+  "model": "glm-5.3"
+}

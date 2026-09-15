@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "On, ɓi aadam, haaldan ⟨את⟩ suudu Yiisraa'il ⟨את⟩ suudu ndin, ɓe fonndoya e bonndeeji maɓɓe, ɓe ƴeŋtoro ⟨את⟩ tonngoode mayre.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "On"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "haaldan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yiisraa'il"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yiisraa'il"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ndin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndin"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ɓe fonndoya"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "bonndeeji maɓɓe"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ɓe ƴeŋtoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tonngoode mayre"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "tonngoode mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T12:32:10.089104800Z",
+  "model": "glm-5.3"
+}

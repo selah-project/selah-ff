@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Lanngaama o layruɗo e yumma debbo mum, kadi yimɓe ɓen fuu ɓe mbi'a: “Aamiin.”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Lanngaama"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "layruɗo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "yumma debbo mum"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "kadi ɓe mbi'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:54.903207663Z",
+  "model": "glm-5.3"
+}

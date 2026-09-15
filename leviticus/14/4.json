@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Gaasinoođo on yamru yo ƴettu fii laaɓoowo on ɗooɗi colli wuurɓe laaɓtuɓe, e lector cedre, e bunndu boɗeeru (shani tola'at) e jombowal (ezow)",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "yamru"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Gaasinoođo on"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "yo ƴettu"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "fii laaɓoowo on"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗooɗi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "colli"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "wuurɓe"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "laaɓtuɓe"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "e lector"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedre"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "e bunndu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "boɗeeru (tola'at)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "e jombowal (ezow)"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:46.840233151Z",
+  "model": "glm-5.3"
+}

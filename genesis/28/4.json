@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ookan maa ⟨את⟩ barke Awraham, to maa e to zuriya maa ⟨את⟩ wondude maa, maa ndaar-taa ⟨את⟩ leydi eggugol maa, nde Eloohim rokki to Awraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ookan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barke"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barke"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e to zuriya maa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wondude maa"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "maa ndaar-taa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "eggugol maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "to Awraham"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:13.859233121Z",
+  "model": "glm-5.3"
+}

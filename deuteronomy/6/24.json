@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe naammini min yo min waɗ ⟨את⟩ kuule ɗen fow ɗee, yo min ƴooyo ⟨את⟩ Yaawe Eloohim amen, fii moƴƴere amen balɗi fow, yo o wuurnit min, no ñalawma hannde o waɗiri.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "naammini min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yo min waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule ɗen fow ɗee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "yo min ƴooyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim amen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "fii moƴƴere"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "yo o wuurnit min"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "no ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:11.086199453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Wimmee Eloohim, doole amen ɗen; wowjee Eloohim Yaakuubu on.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Wimmee"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "doole amen ɗen"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "wowjee"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuubu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:53.350762855Z",
+  "model": "glm-5.3"
+}

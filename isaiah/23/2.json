@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Meeɗu, jooɓɓe dunde nden; soodoowo Tsiidon, dawroowo geec, mo hebbinii.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "meeɗu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jooɓɓe"
+    },
+    {
+      "surface": "אי",
+      "gloss": "dunde"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "soodoowo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsiidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dawroowo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "geec"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "mo hebbinii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:57.181560237Z",
+  "model": "glm-5.3"
+}

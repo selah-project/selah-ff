@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Kono mi woni ko ñaawaama ñalawma fuu, e jokkirde am arii kala subaka.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mi woni"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ñaawaama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ñalawma fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "e jokkirde am"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kala subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:11.946285592Z",
+  "model": "glm-5.3"
+}

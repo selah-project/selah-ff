@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Naange nden ñalawma wanaa yatta-maa, kadi lewru ndun jamma.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Naange nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "yatta-maa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "kadi lewru ndun"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:42.183743257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Ndiwo innde maa, Eloohim, ko nnoon yettoode maa, haa caɗe leydi ndin; ñaawoore heɓii junngo maa ñaamo.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Ndiwo innde maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nnoon"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "yettoode maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "heɓii"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "junngo maa ñaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:03.698058239Z",
+  "model": "glm-5.3"
+}

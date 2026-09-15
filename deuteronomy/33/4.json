@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Tora nden Moosaa yamiri min; nden ⟨woni⟩ jeyiitol kawral Yaakuuba.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "jeyiitol"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    }
+  ],
+  "timestamp": "2026-09-14T11:52:03.689345091Z",
+  "model": "glm-5.3"
+}

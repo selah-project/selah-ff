@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Araana wartii, o yi'i ⟨את⟩ nulaaɗo on, e ɓiɓɓe makko nayo ɓe ngonnoo e makko ngondi e cuuɗiiɗe; Araana ena danee gawri.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wartii"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Araana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nulaaɗo on"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "nulaaɗo on"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "e nayo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ngondi e cuuɗiiɗe"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "Araana"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ena danee"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gawri"
+    }
+  ],
+  "timestamp": "2026-09-14T11:01:05.714136995Z",
+  "model": "glm-5.3"
+}

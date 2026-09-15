@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ndiyam amen min ngobbii e kaalis; lekki amen ina ari e njoɓdi.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ndiyam amen"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "min ngobbii"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "lekki amen"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "e njoɓdi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "inna ari"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:57.679689965Z",
+  "model": "glm-5.3"
+}

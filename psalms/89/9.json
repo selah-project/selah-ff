@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Yaawe, Eloohim Tseba'ot, hommbo woodi no maa nii, doole mawɗo, Yaah? Goongɗal maa ngo woni ko ⟨e⟩ taƴe maa kala.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseba'ot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "no maa nii"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "doole mawɗo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "goongɗal maa ngo"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "taƴe maa kala"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:05.263998972Z",
+  "model": "glm-5.3"
+}

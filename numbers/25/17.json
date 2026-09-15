@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Tiiɗnore ⟨את⟩ Midayannaaji ɗen, ɓulliton ⟨את⟩ ɓe;",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Tiiɗnore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midayannaaji ɗen"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midayannaaji ɗen"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ɓulliton"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:05.022695440Z",
+  "model": "glm-5.3"
+}

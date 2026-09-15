@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 93,
+  "translation": "Gila e daaɗe ndiyam keewɗam, gila e ɓulli maayo teddinaaɗi: Yaawe to toowɗo on ko Ɓurɗo teddude.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "gila e daaɗe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗam"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "teddinaaɗi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "Ɓurɗo teddude"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "to toowɗo on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:21.282099598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Kuɗo gooto ⟨ko⟩ maa ko iwdu nguurndam; e ley annoore maa minen-nee annoore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuɗo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "iwdu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "e ley annoore maa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "minen-nee"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.121651091Z",
+  "model": "glm-5.3"
+}

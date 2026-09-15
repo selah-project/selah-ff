@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Ardam laawol maa, Yaawe; mi yaha e goonga maa; hawru ɓernde am woto yo'oyre innde maa.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ardam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "e goonga maa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hawru"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "woto yo'oyre"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:11.489613127Z",
+  "model": "glm-5.3"
+}

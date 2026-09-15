@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "O ɗaɓɓi koltu makko ngon sara mum, haa joomu makko arii e suudu makko.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "o ɗaɓɓi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "koltu makko ngon"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "sara mum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomu makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:59.667387052Z",
+  "model": "glm-5.3"
+}

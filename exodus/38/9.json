@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi ⟨את⟩ duɗal ngal, e ŋore worgo-fuɗnaange-rewo: pire duɗal ngal ko Ina (kanngum) ɓuuɓnaaɗum, teemedere e nderujaare.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duɗal ngal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "duɗal ngal"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "e ŋore"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "worgo-rewo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "fuɗnaange-rewo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "pire"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "duɗal ngal"
+    },
+    {
+      "surface": "שש",
+      "gloss": "Ina"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ɓuuɓnaaɗum"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "e nderujaare"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:10.602463849Z",
+  "model": "glm-5.3"
+}

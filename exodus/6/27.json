@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ko ɓe ɗoo kaalotooɓe e Firawna laamɗo Misrayim, fii ɓeyditde yaltinde ⟨את⟩ ɓiɗɗe Israa'iila ɗen diga Misrayim; ko ɓe ɗoo Muusaa e Aharonen.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ko ɓe ɗoo"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "kaalotooɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "fii ɓeyditde yaltinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗe Israa'iila ɗen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "diga Misrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ɓe ɗoo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharonen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:11.722947204Z",
+  "model": "glm-5.3"
+}

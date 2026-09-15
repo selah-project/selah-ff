@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Baraak wi'i to makko: So a yahii e am, mi yaha; so a yahaayi e am, mi yahaay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "a yahii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "so kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a yahaay"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "a yahii"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahaay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:26:06.022201779Z",
+  "model": "glm-5.3"
+}

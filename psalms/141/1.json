@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "Mizmoor Davuda. Yaawe, mi noddii ma, ummito faam; heɗit daande am, tuma mi noddata maa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mi noddii ma"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "לי",
+      "gloss": "faam"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "heɗit"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "tuma mi noddata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:04.613948413Z",
+  "model": "glm-5.3"
+}

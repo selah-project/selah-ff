@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si naange nawii e dow makko, ƴiiƴam ⟨alana⟩ mo; yoottannde timmunde o yootta; si alaa e makko, o soomaa fii ngaddugol makko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "nawii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "yoottannde timmunde"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o yootta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "o soomaa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "fii ngaddugol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:13.628495519Z",
+  "model": "glm-5.3"
+}

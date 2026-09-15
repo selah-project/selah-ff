@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Hisnu am e ayɓeeɓe am, Eloohim am; toowtin am e ɗuumɓe ummoruɓe dongu am.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "hisnu am"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "e ayɓeeɓe am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "e ɗuumɓe ummoruɓe dongu am"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "toowtin am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.567785652Z",
+  "model": "glm-5.3"
+}

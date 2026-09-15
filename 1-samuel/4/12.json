@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Gorko jeyaaɗo e Benyamin dogi e ma'aare laawol konngo nden, o ari Shilo ñalnde nden; comci mun ɗi leccii, e ƴeerdu waɗi hoore mun.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "e ma'aare laawol konngo nden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "comci mun ɗi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "leccii"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "ƴeerdu"
+    },
+    {
+      "surface": "על",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:01.758593425Z",
+  "model": "glm-5.3"
+}

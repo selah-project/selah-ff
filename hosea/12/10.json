@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kono min ko mi Yaawe Eloohim maa, ummoriiɗo e leydi Misrayim; ree mi ngartana-maa aayaaji, no ñalɗi mu'aad ɗin nih.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummoriiɗo e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ree"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "mi ngartana-maa"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "aayaaji"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no ñalɗi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mu'aad"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:09.614648955Z",
+  "model": "glm-5.3"
+}

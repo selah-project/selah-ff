@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O mußini ⟨את⟩ suudu mawndu ndun e kuute beruushuuji, o mußini ɗum kadi kaŋe moƴƴo, o waɗi dow mayre nate palmeere e cawe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu mawndu ndun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawndu"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "o mußini"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kuute"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beruushuuji"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "o mußini ɗum kadi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o waɗi dow"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mayre"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "nate palmeere"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "e cawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:08:52.237785826Z",
+  "model": "glm-5.3"
+}

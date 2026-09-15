@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono a, Yaawe, wataa woɗɗu; doole am, faati ballal am dauda.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wataa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "woɗɗu"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "faati ballal am"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "dauda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:48.315392368Z",
+  "model": "glm-5.3"
+}

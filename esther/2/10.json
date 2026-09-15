@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ester ɓeydanaani humpitaade ⟨את⟩ yimɓe makko wondude e ⟨את⟩ iwdi makko, sabu Mordekay yamiri mo wata o humpita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɓeydanaani"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "humpitaade"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe makko"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwdi makko"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "iwdi makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "o humpita"
+    }
+  ],
+  "timestamp": "2026-09-14T10:30:42.683698533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Aɗe moŋi konngi ɗin fof, ɗi ñaamata, wowre fenaande!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "aɗe moŋi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗin fof"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ɗi ñaamata"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "wowre"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:47.888113782Z",
+  "model": "glm-5.3"
+}

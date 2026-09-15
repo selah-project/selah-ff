@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe haalani Muusa, wondude ko wi'i:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude ko wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:23.040281476Z",
+  "model": "glm-5.3"
+}

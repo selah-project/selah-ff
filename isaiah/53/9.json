@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "O waɗii ⟨את⟩ bewɓe wirnande makko, e ⟨את⟩ alɗo e maayde makko; sabu o waɗaano bonannde, wanaa fenaande woni e hunde makko.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bewɓe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bewɓe"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "wirnande makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alɗo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "alɗo"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "e maayde makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e hunde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:39.243216193Z",
+  "model": "glm-5.3"
+}

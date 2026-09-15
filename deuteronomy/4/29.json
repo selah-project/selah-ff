@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "« tee, ɗaɓɓitooɗon to ɗoon Yaawe Eloohim mon, onndo waɗata ⟨את⟩ mo; maa oniyoo mo, si onndiraama mo e ɓernde mon fuu e e muuɗum mon fuu »",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ɗaɓɓitooɗon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "to ɗoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "maa oniyoo mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "onndiraama mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e e fuu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "muuɗum mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:09.315526762Z",
+  "model": "glm-5.3"
+}

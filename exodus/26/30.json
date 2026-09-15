@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Darinin ⟨את⟩ asirde ndee no sariya mun nii, din holliraama-ma dow ɗottle nden.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "darinin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asirde ndee"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asirde ndee"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "no sariya mun nii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "din"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "holliraama-ma"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dow ɗottle nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:56.863928650Z",
+  "model": "glm-5.3"
+}

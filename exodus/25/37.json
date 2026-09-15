@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɓe mbaɗa ⟨את⟩ laylayti mun jeeɗiɗum, ɓe ƴella ⟨את⟩ laylayti mun, ɗum kadi laylay e dow yeeso mun.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ɓe mbaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laylayti mun"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laylayti mun"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "jeeɗiɗum"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ɓe ƴella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laylayti mun"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "laylayti mun"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "laylay"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "yeeso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:28.324266483Z",
+  "model": "glm-5.3"
+}

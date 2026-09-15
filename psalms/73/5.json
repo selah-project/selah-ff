@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "E nder muuyaa adama ena woodanaa ɓe; e yimɓe ɓe nanngaaŋ yeru.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "e nder muuyaa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "adama"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ena woodanaa ɓe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaawataa"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ɓe nanngaaŋ yeru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:02.740711974Z",
+  "model": "glm-5.3"
+}

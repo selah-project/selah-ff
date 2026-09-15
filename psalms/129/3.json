@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "Dow daande am wuttotooɓe ɓe wuttii, ɓe juɗinii laye maɓɓe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Dow"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ɓe wuttii"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "wuttotooɓe"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ɓe juɗinii"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "laye maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:10.263565294Z",
+  "model": "glm-5.3"
+}

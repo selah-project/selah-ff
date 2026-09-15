@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "e pelli balɓe boorneeɗi boɗeeji, e pelli takashiim, e leɗɗe shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "e pelli"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "balɓe"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "boorneeɗi boɗeeji"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "e pelli"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takashiim"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "e leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:54.461911446Z",
+  "model": "glm-5.3"
+}

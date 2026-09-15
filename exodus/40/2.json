@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "E ñalnde lewru nduu aranndere, e ñalnde gootal e lewru nduu, a daroyay ⟨את⟩ suudu miskana, hoɗorde nde kawtata ɗoo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lewru nduu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "aranndere"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "e ñalnde gootal"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru nduu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "a daroyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu miskana"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "suudu miskana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nde kawtata ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:57.303763793Z",
+  "model": "glm-5.3"
+}

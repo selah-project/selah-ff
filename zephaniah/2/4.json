@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sabu Azzah laatoto ko naaɓaande, e Ashkelon laatoto ko wohee; Ashdod ɓe yaltinoyta mo e caka ñalawma, e Ekron taggiree.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "naaɓaande"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "laatoto"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "e Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "wohee"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "e caka ñalawma"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ɓe yaltinoyta mo"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "e Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "taggiree"
+    }
+  ],
+  "timestamp": "2026-09-14T09:10:51.292818195Z",
+  "model": "glm-5.3"
+}

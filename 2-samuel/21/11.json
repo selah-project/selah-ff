@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Habininaa Dawuuda ⟨את⟩ ko Ritspa ɓiɗɗo Ayya, pilegesh Shaa'ul, wañi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "habininaa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Ritspa wañi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "wañi"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ayya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "pilegesh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ul"
+    }
+  ],
+  "timestamp": "2026-09-14T07:04:56.003495082Z",
+  "model": "glm-5.3"
+}

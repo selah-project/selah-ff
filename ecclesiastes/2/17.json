@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndeen miñii mi ⟨את⟩ ngurndan nden, sabu golle ɗe mbaɗaa les naange ɗen ko boni e am; sabu fuu ko hebel e muñal ruuhu.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "miñii mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngurndan nden"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ngurndan nden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ko boni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "golle ɗen"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ɗe mbaɗaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e muñal"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:07.992033704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Isaaq wi'i ɓe: 'Ko fii wonde arii-ɗaa e am, on on nenci am ⟨את⟩, on neldi am dewde ⟨את⟩ e mon?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaaq"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko fii wonde"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "arii-ɗaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "on nenci"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "on neldi am dewde"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ e mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:06.854876644Z",
+  "model": "glm-5.3"
+}

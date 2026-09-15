@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Nguurndam Yaawe ɓuri tiiɗnaade e yimɓe mun, o ñiŋi ⟨את⟩ ndonu mun.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ɓuri tiiɗnaade"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nguurndam (aandinnde)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "e yimɓe mun"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "o ñiŋi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndonu mun"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ndonu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T18:57:56.325214131Z",
+  "model": "glm-5.3"
+}

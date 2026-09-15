@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Honno ɓe hoolii e jawdi mun, ɓe ƴeewta hoore mun e keewal ngalu mun?",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ɓe hoolii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "jawdi mun"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "e keewal"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ngalu mun"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ɓe ƴeewta hoore mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.038245696Z",
+  "model": "glm-5.3"
+}

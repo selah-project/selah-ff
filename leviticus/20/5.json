@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ndeen mi waɗtay ⟨את⟩ yeeso am feewde e neɗɗo on e nder ɓesngu makko, mi muḍɗintay ⟨את⟩ mo e ⟨את⟩ fuu hurmooɓe ɓen ɓaawo makko, ngam hurmude ɓaawo Molok on, diga nder yimɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mi waɗtay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi kanko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso am"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "e nder ɓesngu makko"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mi muḍɗintay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "hurmooɓe ɓen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo makko"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ngam hurmude"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molok on"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "diga nder"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "yimɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:35.726666545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "e mo o waɗata sungo, mo o naamnota wuro e wuro-ganndo, mo o ɗaɓɓata e maayɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "e mo o waɗata"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "sungo"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "mo o naamnota"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "e wuro-ganndo"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "mo o ɗaɓɓata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "maayɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:42.835016866Z",
+  "model": "glm-5.3"
+}

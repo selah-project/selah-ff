@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "No bante bunndu nii leppi maa, konngol maa ko wooɗa; no pomaraandam peccaa nii caggal wutte maa, peccere hoore maa.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "No bante ... nii"
+    },
+    {
+      "surface": "השני",
+      "gloss": "bunndu"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "leppi maa"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "konngol maa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ko wooɗa"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "no ... peccaa nii"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "pomaraandam"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "peccere hoore maa"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "wutte maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:50.594079070Z",
+  "model": "glm-5.3"
+}

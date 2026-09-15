@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Eloohim feeñi kadi Yaakov en o arii e Paddan Aram, o barakii mo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "feeñi kadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "o arii e"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "e Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o barakii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:24.505009110Z",
+  "model": "glm-5.3"
+}

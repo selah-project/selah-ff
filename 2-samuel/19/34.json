@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Laamɗo on wi'i Barzillay: “Aa yawo ⟨את⟩ e am, mi ñamminan ⟨את⟩ maa e am to Yerushalayim.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yawo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "mi ñamminan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa (a)"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "to Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:16.473124419Z",
+  "model": "glm-5.3"
+}

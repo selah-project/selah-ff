@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Jibinugol majjuɗo ko njangu fii mun, kono baaba majjuɗo weltataa.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "jibinugol"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "majjuɗo"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "njangu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ta"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "welta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "majjuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:57:32.905920572Z",
+  "model": "glm-5.3"
+}

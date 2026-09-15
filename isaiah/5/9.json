@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "E noppi am Yaawe Tseba'ot wi'i: goongɗii, gure keewɗe laataay en majjere, mawɗe e moƴƴuɗe, alaa hoɗɓe ɗe.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "e noppi am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseba'ot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "gure"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "en majjere"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mawɗe"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "e moƴƴuɗe"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "hoɗɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:10.673565883Z",
+  "model": "glm-5.3"
+}

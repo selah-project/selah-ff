@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O waɗa ⟨את⟩ gooto e toriiji ɗin, wolla e ɓiɓɓe duɗe ɗen, ko destunde junngo makko heɓata.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "o waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooto"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "toriiji ɗin"
+    },
+    {
+      "surface": "או",
+      "gloss": "wolla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "duɗe ɗen"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "heɓata"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:56.377930452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Leydi ndin wonnoo ko meere e mujju, e niɓɓo dow yeeso duumiwal ngal, e Ruuhu Eloohim ina boyloo dow yeeso ndiyam ɗin.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Leydi ndin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wonnoo ko"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "meere"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "e mujju"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "e niɓɓo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "duumiwal ngal"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e Ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "ina boyloo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "keerol"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:41.384177321Z",
+  "model": "glm-5.3"
+}

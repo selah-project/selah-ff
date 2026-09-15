@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kono min, e ɓural hesed maa, mi yenota suudu maa; mi sujjata fii heykaal laaɓal maa, e kulol maa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi yenota"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "mi sujjata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heykaal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "laaɓal maa"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "e kulol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:53.247609076Z",
+  "model": "glm-5.3"
+}

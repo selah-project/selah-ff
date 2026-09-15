@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "E ⟨את⟩ kadee am, kadee kaalis on, waɗ e haayre dayre suka-suka on, e ⟨את⟩ kaalis ñemri mun. O waɗi no haala Yuusufa wi'i.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadee am"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "kadee am"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "kadee"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis on"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haayre"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "dayre"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "suka-suka on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaalis"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ñemri mun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no haala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:16.274791247Z",
+  "model": "glm-5.3"
+}

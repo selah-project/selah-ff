@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O ummini am e ɓullere dillere, e loope ɓuuɓɗe; o dariini koyɗe am dow colo, o danni peewnugol naatiye am.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "o ummini am"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "e ɓullere"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dillere"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "e loope"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ɓuuɓɗe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o dariini"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "colo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyɗe am"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "o danni peewnugol"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "naatiye am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:46.335050474Z",
+  "model": "glm-5.3"
+}

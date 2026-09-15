@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 110,
+  "translation": "Yaawe hunii, o waylataa, o mooytata: “Aan ko sarwaaɗo haa abada, e dow konngol am, an Malkii-Tsedek.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "hunii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o waylataa"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "o mooytata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sarwaaɗo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "konngol am"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkii"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:45.859405431Z",
+  "model": "glm-5.3"
+}

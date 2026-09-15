@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe, barke keɓal mun, e golle juuɗe mun ɗe wella; ofrit ngaddiiɓe mum junngo mum, e ɓe nɓeɗi mo — ɓe ummataa.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "barke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "keɓal mun"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe mun"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ɗe wella"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ofrit"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ngaddiiɓe"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ummuɓe hajjiiɓe mun"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "e ɓe nɓeɗi mun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ɓe ummataa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:52.933596589Z",
+  "model": "glm-5.3"
+}

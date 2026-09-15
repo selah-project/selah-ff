@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen Eloohim rokkii ⟨את⟩ Daniiyel hesed e yurmeende to yeeso gardiiɗo sarisaaji ɗen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokkii"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniiyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniiyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "e yurmeende"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "שר",
+      "gloss": "gardiiɗo"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarisaaji ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:38.729691075Z",
+  "model": "glm-5.3"
+}

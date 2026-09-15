@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ndeen ɓiyɓe Israa'iil ndokki Leviyim ɓee, e iwdi maɓɓe, e haala Yaawe, ⟨את⟩ ɗee ceese e ⟨את⟩ lignaaji majje.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiyɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Leviyim ɓee"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "e iwdi maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nanndude e"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee ceese"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ɗee ceese"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lignaaji majje"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "lignaaji majje"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:24.260310894Z",
+  "model": "glm-5.3"
+}

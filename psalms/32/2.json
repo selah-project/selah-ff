@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ndeenja neɗɗo on Yaawe limataa mo bonannde, e nder ruuhu mun waɗataa fenaande.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ndeenja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "limataa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "e nder ruuhu mun"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:17.306892776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe yahnnita ⟨את⟩ maa e ⟨את⟩ laamɗo maa ɗi suɓotoy dow maa, feewde leñol ngol aan wanaa baabiraaɓe maa nganndu; maa rewu ɗun Eloohim goɗɗi, leppi e kannje.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "yahnnita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo maa"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "laamɗo maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "suɓotoy"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nganndu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "e baabiraaɓe maa"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "maa rewu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "leppi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e kannje"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:53.813529243Z",
+  "model": "glm-5.3"
+}

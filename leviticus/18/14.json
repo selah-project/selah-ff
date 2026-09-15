@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Munndu miñi baaba maa wata a feñnina; to debbo mum wata a ɓadto; ko o tado maa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "munndu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a feñnina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "a ɓadto"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "tado maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:34.714704207Z",
+  "model": "glm-5.3"
+}

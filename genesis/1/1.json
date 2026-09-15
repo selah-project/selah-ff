@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E fuɗɗoode Eloohim tagi ⟨את⟩ kammuuli ɗin e ⟨את⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "E fuɗɗoode"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kammuuli ɗin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:41.383457402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "O yi'i muunaaɗu no moƴƴu, kadi ⟨את⟩ leydi ndin no weltu; o sujjiti junngo mun fii ɗaɓɓude, o laati maccuɗo golleudi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "muunaaɗu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kadi ⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "weltu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o sujjiti"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "fii ɗaɓɓude"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "למס",
+      "gloss": "maccuɗo les njoɓdi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "golleudi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:25.907436446Z",
+  "model": "glm-5.3"
+}

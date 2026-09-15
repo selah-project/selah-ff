@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe anndinaama, ñaawoore waɗii; e golle junnde mun ko bonɗo on nanngaa e ndonki. Higgayon. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "anndinaama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "nanngaa e ndonki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgayon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:05.388615444Z",
+  "model": "glm-5.3"
+}

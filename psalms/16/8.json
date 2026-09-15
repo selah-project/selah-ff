@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mi lelnii Yaawe yeeso am sahaa fuu, sabu o ⟨woni⟩ to junngo am ñaamo, mi woppataa.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "mi lelnii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa fuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "to junngo am ñaamo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mi woppataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:43.976776563Z",
+  "model": "glm-5.3"
+}

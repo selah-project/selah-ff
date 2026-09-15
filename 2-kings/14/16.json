@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yehowaash fooftii e baabiraaɓe makko, o wirnaa to Shomron e laamɓe Israa'iil; Yarobaam, ɓiy makko, laami lomtii mo.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "fooftii"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehowaash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "to Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laami"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobaam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy makko"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomtii mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:55.816543138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O waɗii ñalnde nden maandere, o wi'i: “Ɗum ko maandere Yaawe haalannde: Yi'ee, natuufal ngal yirbinaama, huura nde wonndu e dow mayre witchiraama.”",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "maandere"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "maandere nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalannde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yi'ee"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "natuufal ngal"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "yirbinaama"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "witchiraama"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "huura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:37.879792282Z",
+  "model": "glm-5.3"
+}

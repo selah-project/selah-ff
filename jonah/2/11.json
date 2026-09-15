@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe wi'i liɗɗi ɗin, ɗi ruttini ⟨את⟩ Yuunaa e leydi woorndi ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "liɗɗi ɗin"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ruttini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuunaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yuunaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "leydi woorndi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:46.195661594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Sabu si min dadtituuno, gorko jooni min artunuuno tawo ɗoo laawol ɗiɗaɓol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "si ... wanaa"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "min dadtituuno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "min artunuuno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laawol ɗiɗaɓol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:47.125420023Z",
+  "model": "glm-5.3"
+}

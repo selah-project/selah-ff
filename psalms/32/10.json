@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Caɗe keewɗe ⟨en⟩ e ngedda on; kono mo hoolnii e Yaawe, hesed heddoto ko sara mo.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "e ngedda on"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "kono mo hoolnii"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "heddoto ko sara mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:10.303705813Z",
+  "model": "glm-5.3"
+}

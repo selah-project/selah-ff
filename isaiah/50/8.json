@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Oo ɓadii, mo laataay mi laaɓuɗo; hombo haɓata ⟨את⟩ e am? Min darre toppito. Hombo jeyi ñaawoore ndee e am? Yo o ɓadoo am.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Oo ɓadii"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "mo laataay mi laaɓuɗo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "haɓata"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am",
+      "marks": "e am"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "min darre"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "toppito"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "jeyi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore ndee"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yo o ɓadoo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:10.917285551Z",
+  "model": "glm-5.3"
+}

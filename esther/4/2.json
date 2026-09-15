@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "o ari haa yeeso damal laamɗo on, sabu alanaa naatde e damal laamɗo on e wanndugol saak.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alanaa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "naatde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "e wanndugol"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saak"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:08.997739635Z",
+  "model": "glm-5.3"
+}

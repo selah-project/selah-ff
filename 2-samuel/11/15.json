@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O winndi e nder deftere nden wiyude: Waɗee ⟨את⟩ Uuriya to yeeso hare ɓurnde tiiɗde, ɓe rutto ɓaawo mun, o fiyee o maaya.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "O winndi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "e nder deftere nden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Waɗee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מול",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "hare ɓurnde tiiɗde"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ɓurnde tiiɗde"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ɓe rutto"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ɓaawo mun"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "o fiyee"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:41.035867703Z",
+  "model": "glm-5.3"
+}

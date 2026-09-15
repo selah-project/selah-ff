@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ɓe weltorii sabu ɓe muumtii, o fewni ɓe faade to bandiraare ɓe yiɗi nden.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Ɓe weltorii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ɓe muumtii"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "o fewni ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade to"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bandiraare"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "ɓe yiɗi nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:39.358353366Z",
+  "model": "glm-5.3"
+}

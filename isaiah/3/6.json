@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Si neɗɗo nanngi ɓiy-yumma mun, ɓiɗɗo suudu baaba mun, o wi'a: “Mbaajje aɗa mari; wallaa ardoowo amen; ngol mbonngi jeyii e junngo maa.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ɓiy-yumma mun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "mbaajje"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "aɗa mari"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ardoowo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wallaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "e mbonngi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jeyii e"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:51.657980892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "e ⟨את⟩ comci sardeeji ɗin, e ⟨את⟩ comci dara ɗin fii Aharonona yimoowo on, e ⟨את⟩ comci ɓiɓɓe mun ɓen fii yimnde yimooɓe,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "comci sardeeji ɗin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sardeeji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "comci dara ɗin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dara ɗin"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aharonona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "yimoowo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "comci ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii yimnde yimooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:36.321335769Z",
+  "model": "glm-5.3"
+}

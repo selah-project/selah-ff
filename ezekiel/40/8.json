@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O ƴeewtii kadi ⟨את⟩ jeeɲeere damal ngal, hono nder suudu ndun — caƴe wootere.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "o ƴeewtii kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeeɲeere damal ngal"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "jeeɲeere"
+    },
+    {
+      "surface": "השער",
+      "gloss": "damal ngal"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "hono nder suudu ndun"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "caƴe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T08:53:03.422720331Z",
+  "model": "glm-5.3"
+}

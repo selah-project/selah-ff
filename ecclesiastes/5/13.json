@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Alal ɗen majjii e muñal bonngal; o dañi ɓiɗɗo, kono hay huunde walaa e junngo makko.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "alal ɗen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "e muñal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonngal"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kono...walaa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hay huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:00.868360289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ibraniyankooɓe paarii ⟨את⟩ maayo Yardenaan feccere leydi Gaad e Giilaad; Sawulo tawi ina heddii haa to Gilgala, kala yimɓe ɓee njokkii mo hakkille kulol.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ibraniyankooɓe"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "paarii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayo Yardenaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "e Giilaad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sawulo"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "tawi ina heddii"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "to Gilgala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "njokkii hakkille kulol"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:13.878849687Z",
+  "model": "glm-5.3"
+}

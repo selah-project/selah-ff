@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi wi'i e mal'aa'o on kaŋŋoowo e am: Ɗee ko ɗe? O wi'i lam: Ɗee ko kese ɗe diŋŋinii ⟨את⟩ Yuuda, ⟨את⟩ Israa'iila e Yeruusaalaam.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mal'aa'o on"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kaŋŋoowo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko ɗe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "kese ɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "diŋŋinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Yeruusaalaam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:55.387975322Z",
+  "model": "glm-5.3"
+}

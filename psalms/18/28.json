@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Tawa a woppata leñol ŋakkool, a hoybinta gite toowɗe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עם",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkool"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "a woppata"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "toowɗe"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "a hoybinta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:07.944288860Z",
+  "model": "glm-5.3"
+}

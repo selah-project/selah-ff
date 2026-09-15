@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Konngol Yaawe wonii feewde e Yehuu ɓiy Xanani, feewde e Basa'a, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde e"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Xanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "feewde e"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basa'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:01.747753042Z",
+  "model": "glm-5.3"
+}

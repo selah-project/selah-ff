@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yimɓe ɓen yalti, ɓe wooli ⟨את⟩ kampa Aram; sa'a suukara daneejo wonii seekel gooto, sa'aaji ɗiɗi diɗɗe seekel gooto, no konngol Yaawe wiiri nih.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ɓe wooli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampa Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "suukara daneejo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "seekel gooto"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "sa'aaji ɗiɗi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "diɗɗe"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "seekel gooto"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:31:10.722541786Z",
+  "model": "glm-5.3"
+}

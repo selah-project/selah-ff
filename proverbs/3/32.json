@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Tawa ko tooñɗo on tuubngol woni ka Yaawe; kono e ⟨את⟩ artuɓe siriido makko woni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawa ko"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tuubngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "tooñɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "artuɓe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "artuɓe"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "siriido makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:50.123577556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Kono onen, ɗaɓɓittee, wata junnte mon ɗen lootoru; fii noon ⟨e⟩ nana heɓe njoɓdi golle mon ɗen.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "oneno"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ɗaɓɓittee"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "lootoru"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "junnte mon ɗen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii noon"
+    },
+    {
+      "surface": "יש",
+      "gloss": "nana heɓe"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "njoɓdi"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "golle mon ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T13:06:33.322731733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Huɗo na hecca, bereendi na woppa, kono konngol Eloohim amen enen daray haa abada.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "na hecca"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Huɗo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "na woppa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "bereendi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kono konngol"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "enen daray"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:26.885136256Z",
+  "model": "glm-5.3"
+}

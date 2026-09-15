@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kala Israa'iil ngondi Daawuuda to Hebron, ɓe wi'i: “Ndaara, min ngoni ƴi'e maa e eeru maa.”",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngondi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndaara"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ƴi'e maa"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "e eeru maa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "min ngoni"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:22.917919863Z",
+  "model": "glm-5.3"
+}

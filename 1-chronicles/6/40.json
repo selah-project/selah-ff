@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ndokki ɓe ⟨את⟩ Chebron nder leydi Yahuuda, e ⟨את⟩ renndaaji mum gonɗi saraaji mum.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ɓe ndokki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "renndaaji mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "renndaaji mum"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "saraaji mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:16.569379683Z",
+  "model": "glm-5.3"
+}

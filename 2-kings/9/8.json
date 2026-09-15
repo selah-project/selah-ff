@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kala suudu Ahab maayata; mi taƴa fii Ahab kala woolotooɗo dow mahdi, e haɗaaɗo e accaaɗo, nder Israyiil.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "maayata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mi taƴa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "fii Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "woolotooɗo"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dow mahdi"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "e haɗaaɗo"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "e accaaɗo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nder Israyiil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:58.904020662Z",
+  "model": "glm-5.3"
+}

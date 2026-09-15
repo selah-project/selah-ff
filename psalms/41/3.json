@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Yaawe rendata mo, wuurnitay mo; o barakee e leydi ndin; wata a okku mo e nefes penjanke makko ɓen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "rendata mo"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "wuurnitay mo"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "o barakee"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata a"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "okku mo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "e nefes"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "penjanke makko ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.916467527Z",
+  "model": "glm-5.3"
+}

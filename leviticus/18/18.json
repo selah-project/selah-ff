@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E debbo e ɓiyiiko mun debbo a ƴotta hay, fii luural, fii nidaade nimidgu mun dow mun, nguuru mun ina woodi.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "e debbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (dewal)"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ɓiyiiko mun debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a ƴotta"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "fii luural"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "fii nidaade"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "nimidgu mun"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "nguuru mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:06.899976807Z",
+  "model": "glm-5.3"
+}

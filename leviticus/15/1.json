@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Yaawe wi'i to Muuse e to Aarun, wiyde:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:24:02.315624419Z",
+  "model": "glm-5.3"
+}

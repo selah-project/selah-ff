@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Wata a daninu ⟨את⟩ munde maa ngam bonnude ⟨את⟩ ƴiiƴam maa, wanaa wu'a yeeso malaaika on wonde ko majjere; ko fii ko Eloohim hidda e daande maa, o bonnana ⟨את⟩ golle juuɗe maa?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a daninu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munde maa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "munde maa"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "ngam bonnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam maa"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ƴiiƴam maa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e wata"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wu'a"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaaika on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii ko"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "hidda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "e bonnana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle juuɗe maa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "juuɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:33.611987289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ɓernde makko toowii e laawɗi Yaawe; ko ɓeydi, o itti ⟨את⟩ ɓeeli ɗin e ⟨את⟩ Asheraaji ɗin e Yahuuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "toowii"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "Ɓernde makko"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "e laawɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ko ɓeydi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "o itti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeeli ɗin"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ɓeeli ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Asheraaji ɗin"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asheraaji ɗin"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "e Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:16:30.010819219Z",
+  "model": "glm-5.3"
+}

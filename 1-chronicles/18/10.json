@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O neldi ⟨את⟩ Hadoram ɓiyum to laamɗo Daawuuda, ngam ɓamta mo selli e barŋini mo, sabu o haɓi e Hadadezer o fi'i mo; ko gorko hareeji Tou wonnoo Hadadezer; o ari kadi e kuutorɗe kaŋe e kaalis e njamndi, no keɓirtee fof.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ngam ɓamta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "selli"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "e barŋini mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "e Hadadezer"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "o fi'i mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "hareeji"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "e njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:48.075123017Z",
+  "model": "glm-5.3"
+}

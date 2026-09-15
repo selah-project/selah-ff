@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yi'u, ñalawuɗi aray, jeheyre Yaawe: mi irtay e ⟨את⟩ galle Israa'iila e ⟨את⟩ galle Yuuda kawtal kesal.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yi'u"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalawuɗi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "aray"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jeheyre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "mi irtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle Israa'iila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle Yuuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "kesal"
+    }
+  ],
+  "timestamp": "2026-09-14T08:19:42.482928247Z",
+  "model": "glm-5.3"
+}

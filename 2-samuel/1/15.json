@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Dawuud noddiri gooto e sukaaɓe ɓen, o wi'i: “Ara, fiyi mo.” O fiyi mo, o maayi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddiri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "e sukaaɓe ɓen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Ara"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "fiyi mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:45.379201034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E jooni, ƴeew, ciirol ɓiɓɓe Yisraa'el ngol arii e am, e kadi mi yi'ii ⟨את⟩ ƴaañorgal ngal Misrayimnaaɓe ƴaañorta ⟨את⟩ ɓe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e jooni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ciirol"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "באה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e kadi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴaañorgal ngal"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ƴaañorgal ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayimnaaɓe"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ƴaañorta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:13.853667342Z",
+  "model": "glm-5.3"
+}

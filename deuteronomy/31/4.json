@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yaawe mbaray ⟨e mun⟩ beldugol no o waɗiri Siyon e Og, laamɗo en Emoriyankooɓe ɓen, e leydi mun ɓen, ɓe o halki ⟨את⟩ ɓe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mbaray beldugol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨e mun⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗiri"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "e Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo en"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyankooɓe ɓen"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "e leydi mun ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "o halki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-15T07:02:40.912120194Z",
+  "model": "glm-5.3"
+}

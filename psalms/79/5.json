@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Haa nayi, Yaawe? A heeday haa fuu? Wuro maa ngo ɓurnoo wano yiite?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "a heeday"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa fuu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngo ɓurnoo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "wano"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "wuro maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:57.902256684Z",
+  "model": "glm-5.3"
+}

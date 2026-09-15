@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E bone maɓɓe ɓe weltinii laamɗo on, e fenaande maɓɓe ɓe weltinii ardiɓɓe.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "E bone maɓɓe"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ɓe weltinii"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "e fenaande maɓɓe"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ardiɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:28.140917842Z",
+  "model": "glm-5.3"
+}

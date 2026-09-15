@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Shafaan naatnani ⟨את⟩ deftere nden ka Laamɗo on, o artirani ⟨את⟩ ka Laamɗo on konngol, wiyude: “Ko fuu ko naatnaa e juuɗe maccuɓe maa ɗen, ko ɓe gollinta.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "naatnani"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deftere nden"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "deftere nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ka Laamɗo on"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o artirani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka Laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ka Laamɗo on"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko fuu ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naatnaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "maccuɓe maa ɗen"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ko ɓe"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gollinta"
+    }
+  ],
+  "timestamp": "2026-09-14T11:29:25.806372230Z",
+  "model": "glm-5.3"
+}

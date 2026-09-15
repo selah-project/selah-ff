@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Nyaamdu ñemmbitton ⟨את⟩ e maɓɓe e kaalis, ñammon; kadi ndiyam soodon ⟨את⟩ e maɓɓe e kaalis, nandon.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "nyaamdu"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ñemmbitton"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "e maɓɓe ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ñammon"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "soodon"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "e maɓɓe ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "nandon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:11.998359677Z",
+  "model": "glm-5.3"
+}

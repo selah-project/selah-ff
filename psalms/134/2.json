@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 134,
+  "translation": "Ƴelltanon junaaɗe mon ⟨e⟩ senaande, ɓennuɗon ⟨את⟩ Yaawe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ƴelltanon"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "junaaɗe mon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaande"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ɓennuɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:56.521425960Z",
+  "model": "glm-5.3"
+}

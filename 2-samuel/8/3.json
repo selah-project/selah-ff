@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Daawuuda fiyi ⟨את⟩ Hadaad'ezer ɓiɗɗo Rehob, laamɗo Cowaah, tuma nde o yahnoo ngam artirde laamu mun nguu e maayo ngoo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadaad'ezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadaad'ezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cowaah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "tuma nde o yahnoo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ngam artirde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "laamu mun"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "e maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:06.002394607Z",
+  "model": "glm-5.3"
+}

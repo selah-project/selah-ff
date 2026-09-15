@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yaawe kaaldii e Mooses, wi'a:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaaldii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooses"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'a"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:52.500785352Z",
+  "model": "glm-5.3"
+}

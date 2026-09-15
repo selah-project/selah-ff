@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "o rokki leydi maɓɓe ndi neldorlaaɓe — neldorlaaɓe Israa'iil yimɓe mun ɓen.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe ndi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "neldorlaaɓe"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "neldorlaaɓe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:28.325652066Z",
+  "model": "glm-5.3"
+}

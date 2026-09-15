@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Fii ardotooɗo on, e Gittiit, mizmor Daawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii ardotooɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittiit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:16.876689935Z",
+  "model": "glm-5.3"
+}

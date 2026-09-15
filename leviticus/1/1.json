@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe noddi Musa, o haali e makko, ummoraade e nder teental kawtal, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ummoraade e nder teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:05.539887536Z",
+  "model": "glm-5.3"
+}

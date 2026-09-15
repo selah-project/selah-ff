@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Fii Dewdu gorko maa, wata woppirta yeeso Mashiah maa.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "fii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dewdu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "gorko maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "woppirta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:57.996223565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Si heddi e yamre mawningol ngol walla e gerte ɗen haa subaka, maa ngolloo ko heddi ngol e yiite ⟨את⟩; dum wanaa ñaameede, sabu senaare ko ngol woni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "heddi"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "e yamre"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "mawningol ngol"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "gerte ɗen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "maa ngolloo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko heddi ngol"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "ko heddi ngol"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaameede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaare"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ngol woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:47.765662532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 31:2",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yecizqiyahu ardini ⟨את⟩ pidde sarwaaɓe ɓen e pidde Lewiyeen ɓen, kala neɗɗo e wuddi golle mun, fii sarwaaɓe ɓen e Lewiyeen ɓen, fii wursagol tottol e wursagol jam, fii gollude e yettinde e dukineede e dame kampuuji ɗin Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ardini"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yecizqiyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pidde ... ɓen"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "pidde"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sarwaaɓe ɓen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e pidde Lewiyeen ɓen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "pidde maɓɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "e wuddi"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "golle mun"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "fii sarwaaɓe"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "e Lewiyeen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "fii wursagol tottol"
+    },
+    {
+      "surface": "ולשלמים",
+      "gloss": "e wursagol jam"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "fii gollude"
+    },
+    {
+      "surface": "ולהדות",
+      "gloss": "e yettinde"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "e dukineede"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "e dame"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kampuuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:27:22.617285254Z",
+  "model": "glm-5.3"
+}

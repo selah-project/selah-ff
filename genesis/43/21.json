@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 43:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Wonii tuma min njottunoo e motel on, min udditii ⟨את⟩ koŋŋe amen ɗen, e nden yiyde kaalis neɗɗo kala ina woni e haande koŋngol mun, kaalis amen no muuynoo; min ngartirii ⟨את⟩ mo e junnde amen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tuma nde"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "min njottunoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלון",
+      "gloss": "motel on"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "min udditii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koŋŋe amen"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "koŋŋe amen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nden yiyde"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haande"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "koŋngol mun"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "kaalis amen"
+    },
+    {
+      "surface": "במשקלו",
+      "gloss": "no muuynoo"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "min ngartirii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (kaalis on)"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "e junnde amen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:06.082862049Z",
+  "model": "glm-5.3"
+}

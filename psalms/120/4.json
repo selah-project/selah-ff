@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 120,
+  "translation": "Poopi balɗo ɗooƴuɗi, wondude e potte leɗɗe retam.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Poopi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "balɗo"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ɗooƴuɗi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wondude e"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "potte"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "leɗɗe retam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:37.287685741Z",
+  "model": "glm-5.3"
+}

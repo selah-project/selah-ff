@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Aamasa yahi ngam mawninde ⟨את⟩ Yahuuda, kono o leeltii ko ɓuri waktu lanɓtuɗo ɗum ɓe pellijini mo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Aamasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ngam mawninde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "kono o leeltii"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ko ɓuri"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "waktu lanɓtuɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ɓe pellijini mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:41.766215248Z",
+  "model": "glm-5.3"
+}

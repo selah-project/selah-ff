@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Yimmitu-ee fii makko, fiyu-ee kuɗe fii makko, haalu-ee e ñeeñɗi makko ɗin fof.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "yimmitu-ee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "fiyu-ee kuɗe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "haalu-ee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... ɗin fof"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ñeeñɗi makko ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:42.873665996Z",
+  "model": "glm-5.3"
+}

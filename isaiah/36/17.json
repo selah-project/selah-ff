@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Haa mi arata, mi nannga ⟨את⟩ on, mbaɗa on to leydi no leydi mon nii — leydi gawri e wowru kesu, leydi ñamri e yinirɗe wowru.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באי",
+      "gloss": "mi arata"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "e mi nannga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "no leydi mon nii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gawri"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e wowru kesu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "e yinirɗe wowru"
+    }
+  ],
+  "timestamp": "2026-09-14T07:52:59.526187310Z",
+  "model": "glm-5.3"
+}

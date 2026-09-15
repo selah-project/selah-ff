@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kadi faayiida leydi ndin ko e kala: laamɗo on ko ladde gollanoo.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "kadi faayiida"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "gollanoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:33.612576411Z",
+  "model": "glm-5.3"
+}

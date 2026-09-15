@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 3:2",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe, mi nanii nanɗe maa ɗen, mi hulii; Yaawe, golle maa ɗen, e nder duuɓi ɗin, wuurnitin-ɗe; e nder duuɓi ɗen, ɓanoy-ɗe; e nder calaal, jiftor yurmeende.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "nanɗe maa ɗen"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mi hulii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "golle maa ɗen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi ɗin"
+    },
+    {
+      "surface": "חייהו",
+      "gloss": "wuurnitin-ɗe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi ɗin"
+    },
+    {
+      "surface": "תודיע",
+      "gloss": "ɓanoy-ɗe"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "e nder calaal"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "jiftor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:09:42.133511833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Laamɗo on neldi, ɓe moofti to makko doomgimɓe Yehuda e Yerushalayim fuu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe moofti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "doomgimɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:13.487517201Z",
+  "model": "glm-5.3"
+}

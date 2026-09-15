@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Mi yimoyoy Yaawe e nder nguurndam am; mi laceloy Eloohim am tawa mi wodi.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "mi yimoyoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "e nder nguurndam am"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi laceloy"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "tawa mi wodi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:19.121586206Z",
+  "model": "glm-5.3"
+}

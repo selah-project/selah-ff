@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "O waɗii ⟨את⟩ daande mun e cikkuki; yimɓe Misrayim njaŋŋorii, e galle Perʿon njaŋŋorii.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande mun"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "e cikkuki"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "njaŋŋorii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yimɓe Misrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "njaŋŋorii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Perʿon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:20.887955486Z",
+  "model": "glm-5.3"
+}

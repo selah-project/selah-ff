@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Ummu, teddungal am; ummu, nevel e kinnor; mi hebbinoo subaka.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ummu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "teddungal am"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ummu"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "e kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "mi hebbinoo"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:02.230180001Z",
+  "model": "glm-5.3"
+}

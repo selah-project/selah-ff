@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Daawuuda e yimɓe makko ɓen arii wuro ngol, tawi ko ngoo huɓɓaama e yiite; rewɓe maɓɓe ɓen, ɓiɓɓe worɓe maɓɓe e ɓiɓɓe rewɓe maɓɓe nanaa nandaaɓe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e yimɓe makko ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngol"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "huɓɓaama"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "rewɓe maɓɓe ɓen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ɓiɓɓe worɓe maɓɓe"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ɓiɓɓe rewɓe maɓɓe"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "nanaa nandaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:13.387816943Z",
+  "model": "glm-5.3"
+}

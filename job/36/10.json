@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O udditi nano mun fii janngirde, o wi'i ɓe ruttorton ga bonannde.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "nano mun"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "fii janngirde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "ruttor [ɓe]"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "ga bonannde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:53:17.202647223Z",
+  "model": "glm-5.3"
+}

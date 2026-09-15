@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɗɓe Aharonen awroo on ɓe ndoppay yiite e dow saare nden, ɓe lelnay leɗɗe dow yiite nden.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe ndoppay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "awroo on"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "saare nden"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ɓe lelnay"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:23.123099494Z",
+  "model": "glm-5.3"
+}

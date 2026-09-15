@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yaawe ñiiŋnii ɓen yooruɓe fuu, kanko o umminii ɓen cuurɓe fuu.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ñiiŋnii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ɓen yooruɓe"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "kanko o umminii"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ɓen cuurɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:05.246026494Z",
+  "model": "glm-5.3"
+}

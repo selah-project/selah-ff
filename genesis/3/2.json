@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Debbo on wi'i njiddiiri on: “Min ñaamata e ɓiɗɓe lekkiiji jarne ngen.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Debbo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "njiddiiri on"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "e ɓiɗɓe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekkiiji"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jarne"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "min ñaamata"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:16.784613382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Ndeen geec mawɗo, yaajɗo juɗe; to ɗon ko daɓɓube ɣi ngalaa limoore, tagoije wuurɗe tokoose e mawɗe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geec"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "yaajɗo"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "juɗe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗon"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "daɓɓube"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ɗi ngalaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limoore"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "tagoije wuurɗe"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "tokoose"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mawɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:56.564704498Z",
+  "model": "glm-5.3"
+}

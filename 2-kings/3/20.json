@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Nde wonnooni subaka, sahaa ɓuuɓgol mincha nden, e ndaaru — ndiyam ari e laawol Edom ngol; leydi ndin hebbinaama ⟨את⟩ ndiyam ɗin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde wonnooni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "sahaa ɓuuɓgol"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha nden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndaaru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ari"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hebbinaama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam ɗin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:48.564325051Z",
+  "model": "glm-5.3"
+}

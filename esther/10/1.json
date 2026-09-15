@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Laamɗo on Achashverosh fuɗɗii ⟨ko⟩ yo mas waddu e leydi ndin e duuji ɗin ɗi maayo ngon.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "fuɗɗii yo waddu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mas"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "e duuji ɗin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ɗi maayo ngon"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:42.441130422Z",
+  "model": "glm-5.3"
+}

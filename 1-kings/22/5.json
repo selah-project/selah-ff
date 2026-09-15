@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yehoşafat wi'i to laamɗo Israa'iil: “Ñaawu, ton, hannde ⟨את⟩ konngol Yaawe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoşafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Ñaawu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ton"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:06:57.242462809Z",
+  "model": "glm-5.3"
+}

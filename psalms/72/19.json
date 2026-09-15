@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Kadi barake woodanii innde teddungal makko duumi, kaliima teddungal makko yo hebu ⟨את⟩ leydi ndin fuu. Aamiin, kadi Aamiin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "kadi barake woodanii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "teddungal makko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "yo hebu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kaliima teddungal makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "kadi Aamiin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:08.653414597Z",
+  "model": "glm-5.3"
+}

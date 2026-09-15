@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Fiyuɗo neɗɗo, o maayi kadi, warde laaɓi hara warde.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "fiyuɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maayi kadi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "warde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hara warde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:58.707131919Z",
+  "model": "glm-5.3"
+}

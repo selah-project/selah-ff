@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "E kemi gootel e puccel gootel, e pucci sappo e nayi ɗin.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "e kemi"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "e puccel"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "e"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo e"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "pucci nayi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:46.766653727Z",
+  "model": "glm-5.3"
+}

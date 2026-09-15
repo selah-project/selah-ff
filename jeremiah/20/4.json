@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 20:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Fii ko nii wii Yaawe: Ndewi, mi waɗata maa kulol hoore maa e ɓe moɓɓi maa fof, ɓe naftoo e kaafaahi gañɗo ɓe, gite maa kadi njayoto; ⟨את⟩ Yahuuda fof mi danay e junngo laamɗo Babil, o scomana ɓe Babil, o fiya ɓe e kaafaahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ndewi"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "mi waɗata maa"
+    },
+    {
+      "surface": "למגור",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa hoore maa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e fof"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "moɓɓi maa"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ɓe naftoo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e kaafaahi"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "gañɗo ɓe"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "e gite maa"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "njayoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuuda fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi danay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "והגלם",
+      "gloss": "o scomana ɓe"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "o fiya ɓe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e kaafaahi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:52.916823461Z",
+  "model": "glm-5.3"
+}

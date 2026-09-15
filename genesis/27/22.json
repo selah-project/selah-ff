@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Yaakob araali haa Yitschak baaba mum; o ƴoŋŋini mo, o wi'i: \"Ɗoo wolde ko wolde Yaakob, kono juneeje ɗen ko juneeje Esav.\"",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "araali"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "o ƴoŋŋini mo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "wolde nden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "wolde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "juneeje ɗen"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juneeje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:55.183592893Z",
+  "model": "glm-5.3"
+}

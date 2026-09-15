@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko heddi e minchah ndin ko Aarona e ɓiɓɓe mun ngoni — senaade je senaaje — e nder ofirooje yiite ɗe Yaawe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ko heddi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah ndin"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aarona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaade"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "je senaaje"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "e nder ofirooje yiite ɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:16.656286068Z",
+  "model": "glm-5.3"
+}

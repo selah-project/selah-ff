@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 70,
+  "translation": "Hoto ɓe ɗaɓɓooɓe maaɗa fuu beltu ɓe ɓillitoo e maaɗa, kanko ɓe ennugol daɗndu maaɗa ɓe wi'u duumiay: “Eloohim mawnintee!”",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "beltu"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ɓe ɓillitoo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ɓe ɗaɓɓooɓe maaɗa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'u"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumiay"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "mawnintee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ɓe ennugol"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "daɗndu maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:56.146358547Z",
+  "model": "glm-5.3"
+}

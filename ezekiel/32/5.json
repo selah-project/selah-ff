@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Mi waɗan ⟨את⟩ paye maa ɗen e dow pelle ɗen, mi hebbinan daawe ɗen e tulde maa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paye maa ɗen"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "paye maa ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "mi hebbinan"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "daawe ɗen"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "tulde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:48:33.879399209Z",
+  "model": "glm-5.3"
+}

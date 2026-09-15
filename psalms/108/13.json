@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Hokku min ballal feewde e caɗe, kono ballal neɗɗaŋke ko meere.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Hokku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "feewde e caɗe"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ko meere"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadanke"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:31.653420682Z",
+  "model": "glm-5.3"
+}

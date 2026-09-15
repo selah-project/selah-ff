@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe, yurmin min; hoore min ngañorii maa; laatoy junngo ɓalɗe maɓɓe subaka kala, laatoy kadi faamlaare amen e sahaa jiiɓru.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "yurmin min"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "min ngañorii"
+    },
+    {
+      "surface": "היה",
+      "gloss": "laatoy"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "junngo ɓalɗe maɓɓe"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "subaka kala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "faamlaare amen"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "jiiɓru"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:36.458706181Z",
+  "model": "glm-5.3"
+}

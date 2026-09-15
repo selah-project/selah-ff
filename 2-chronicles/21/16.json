@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Yaawe umminii ⟨את⟩ ruuhu Filistiina'en e Arab'en ɓe ɓadii Kuuši'en, e Yehoraam.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "umminii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoraam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuhu Filistiina'en e Arab'en"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistiina'en"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "e Arab'en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɓadii"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ɓadii"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kuuši'en"
+    }
+  ],
+  "timestamp": "2026-09-14T11:19:01.944153383Z",
+  "model": "glm-5.3"
+}

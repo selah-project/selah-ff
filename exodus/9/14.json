@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Fii ɗoo laawol min mi neldata ⟨את⟩ musibbaaji am ɗen fuu e dow ɓernde maa, e maccuɓe maa, e yimɓe maa; mbele a anndu wonde alaa nannduɗo e am e nder leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ɗoo laawol"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "mi neldata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musibbaaji am ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "musibbaaji am ɗen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "e maccuɓe maa"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "e yimɓe maa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "a anndu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "nannduɗo e am"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:12.046858875Z",
+  "model": "glm-5.3"
+}

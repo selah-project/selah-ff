@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Si korbaŋke mun jeyaa e daayi ñeebe walla e daayi baɗee, ngam olah — ngorko mo ŋakkaani o adda ɗum.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "daayi"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbaŋke mun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ñeebe"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "baɗee"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ngam olah"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ngorko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mo ŋakkaani"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "o adda ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:43.282785819Z",
+  "model": "glm-5.3"
+}

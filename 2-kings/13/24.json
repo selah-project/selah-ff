@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Haza'el, laamɗo Aram, maayi; Ben-Hadad ɓiy mun laamii lomto mun.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomto mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:21.060386810Z",
+  "model": "glm-5.3"
+}

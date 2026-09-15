@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɗum lelnaa ko arere, dow cafrirɗe ɗen ɗi ngoni dow kolonwooje ɗen — capanɗe nay e njowe, sappo e njowe e layngal ngal.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "Ɗum lelnaa ko"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "arere"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "cafrirɗe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kolonwooje ɗen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "capanɗe nay"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "e njowe"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "njowe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "layngal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:27.503608924Z",
+  "model": "glm-5.3"
+}

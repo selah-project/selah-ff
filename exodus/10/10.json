@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i ɓe: « Yo Yaawe wonu e mon nuyo, no mi neddirta on ⟨את⟩ e ⟨את⟩ sukaaɓe mon ɗen; ndaaron, fimmini bone ina darii haande yeeso mon. »",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "yo... wonu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nuyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "min neddirta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "sukaaɓe mon ɗen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ndaaron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fimmini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ina darii haande"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yeeso mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:54.473283052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Shammuwel maayii, Yisraayel fuu muusɗinii mo, ɓe ngummii mo Ramaa, e wuro makko. Sawul ittii wonduɓe e ruuhu e ⟨את⟩ annduɓe ruuhu diga leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shammuwel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayii"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "muusɗinii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ɓe ngummii mo"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramaa"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "e wuro makko"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ittii"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "wonduɓe e ruuhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "annduɓe ruuhu"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "annduɓe ruuhu"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "diga leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:48.579431094Z",
+  "model": "glm-5.3"
+}

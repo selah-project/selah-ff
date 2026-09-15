@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 53:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Sabu ɗum mi peccay mo e hakkunde heewɓe, e ⟨את⟩ ɓurɓe doole o peccay njangu, tawa o yoolni hoore makko haa maayde, e ⟨את⟩ tooñooɓe o limtaama; kanko o addi bakkaatu heewɓe, fii tooñooɓe o torlay.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗum"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "mi peccay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "e hakkunde heewɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓurɓe doole"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ɓurɓe doole"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "o peccay"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "njangu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הערה",
+      "gloss": "o yoolni"
+    },
+    {
+      "surface": "למות",
+      "gloss": "haa maayde"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tooñooɓe"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "tooñooɓe"
+    },
+    {
+      "surface": "נמנה",
+      "gloss": "o limtaama"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bakkaatu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o addi"
+    },
+    {
+      "surface": "ולפשעים",
+      "gloss": "fii tooñooɓe"
+    },
+    {
+      "surface": "יפגיע",
+      "gloss": "o torlay"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:39.243926041Z",
+  "model": "glm-5.3"
+}

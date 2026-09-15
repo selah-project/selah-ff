@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde wonii kikiiɗe, nde wonii subaka — ñalnde joyaɓere.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde wonii"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nde wonii"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "joyaɓere"
+    }
+  ],
+  "timestamp": "2026-09-14T11:31:31.467738844Z",
+  "model": "glm-5.3"
+}

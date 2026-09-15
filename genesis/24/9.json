@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ndeen maccuɗo on waali ⟨את⟩ junnde mun les koyngal Awraham jeyɗo mun, o woŋŋi mo fii konngol ngol.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waali"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "maccuɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde mun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jeyɗo mun"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "o woŋŋi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:42.299856771Z",
+  "model": "glm-5.3"
+}

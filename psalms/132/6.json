@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Nde! Min nanii ɗum ⟨e⟩ Efrata, min tawi ɗum e kuɗe ladde.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Nde!"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "min nanii ɗum"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "e Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "min tawi ɗum"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "e kuɗe"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:21.203586133Z",
+  "model": "glm-5.3"
+}

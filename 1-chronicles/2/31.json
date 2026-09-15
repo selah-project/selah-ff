@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Appayim ko Yishiy; ɓiɓɓe Yishiy ko Sheshan; ɓiɓɓe Sheshan ko Ahlay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Appayim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Yishiy"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Yishiy"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Sheshan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Sheshan"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ahlay"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:50.288275643Z",
+  "model": "glm-5.3"
+}

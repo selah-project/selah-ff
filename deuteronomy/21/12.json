@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "a naatnata mo haa e nder suudu maa, o mumta ⟨את⟩ hoore makko, o taƴta ⟨את⟩ ñaawe makko.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "a naatnata mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "o mumta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore makko"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "o taƴta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawe makko"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "ñaawe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:23.925149375Z",
+  "model": "glm-5.3"
+}

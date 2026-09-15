@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Konngi ɗin fuu ko muñal; neɗɗo waawaa haalde ⟨ɗum⟩; gite ɓoorataa yiyde, e nokku ɗum nanngite ɓoorataa nannde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ɗin fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ko muñal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓoorataa"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ɓoorataa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ɓoorataa"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ɓoorataa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "nanngite"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "nannde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:03.413734840Z",
+  "model": "glm-5.3"
+}

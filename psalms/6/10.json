@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe nanii ñaawoore-am; Yaawe jaɓata du'aawu am.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ñaawoore-am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "du'aawu am"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jaɓata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:39.119237983Z",
+  "model": "glm-5.3"
+}

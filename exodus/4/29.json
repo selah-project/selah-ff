@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Moosaa e Aarooŋa njahi, ɓe mooɓi ⟨את⟩ mawɓe ɓiɓɓe Yisraayil ɓen fof.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "njahi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aarooŋa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe mooɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawɓe ɓiɓɓe Yisraayil ɓen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayil"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:42.004485458Z",
+  "model": "glm-5.3"
+}

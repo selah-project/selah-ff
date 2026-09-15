@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "A ḍemmbita ɓe e ɓoggu njamndi; hono no kaɓirgel pewoowo nii, a ḍikkita ɓe.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "a ḍemmbita ɓe"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "e ɓoggu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "hono no kaɓirgel"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "pewoowo"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "a ḍikkita ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:16.615754761Z",
+  "model": "glm-5.3"
+}

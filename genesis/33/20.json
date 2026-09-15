@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O darijni toon sadu, o waɗi ɗum innde Eel, Eloohim Israa'iila.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "o darijni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sadu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o waɗi ɗum innde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:34.142847583Z",
+  "model": "glm-5.3"
+}

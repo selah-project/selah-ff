@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yaawe wowi Musa wondude, o wi'i:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wowi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:32.749430397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yehu mooftu ⟨את⟩ yimɓe ɓe fuu, o wi'i ɓe: Ahav gollinoo ⟨את⟩ Baal seeɗa; Yehu maa golloo mo keewi.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "mooftu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gollinoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "maa golloo mo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "keewi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:25.984705951Z",
+  "model": "glm-5.3"
+}

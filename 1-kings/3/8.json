@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E jeyaaɗo maa ⟨woni⟩ ko nder ɓiɓɓe maa ɗi cuɓiɗaa — ɓiɓɓe keewɗe, ɗi limteede waawaa, wanaa ireede, sabu keewal mum en.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "jeyaađo maa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "cuɓiɗaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "limteede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ireede"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "sabu keewal"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:17.076040693Z",
+  "model": "glm-5.3"
+}

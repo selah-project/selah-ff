@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Kono ko a woni, a neɗɗo no am nannduɗo, sehilaaɗo am, annduɗo am.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono ko a woni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a neɗɗo"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "no am nannduɗo"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sehilaaɗo am"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "annduɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:00.091810558Z",
+  "model": "glm-5.3"
+}

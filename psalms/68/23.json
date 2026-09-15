@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Adonaay wi'i: E Bashan mi wartintay, mi wartintay e cuuɗi maayo ɗin.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "e Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mi wartintay"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "mi wartintay"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "e cuuɗi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:01.545636323Z",
+  "model": "glm-5.3"
+}

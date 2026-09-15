@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nañu e dewal maccuɗo ɓee: e ⟨את⟩ Chelday, e ⟨את⟩ Tobiya, e ⟨את⟩ Yedaya; aɗa arata ñalnde nden, aɗa naata e suudu Yosia ɓiy Tsefana, ɓe aruɓe ummorii Babilon.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Nañu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dewal maccuɗo ɓee"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "dewal maccuɗo ɓee"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "e Chelday"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tobiya"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobiya"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yedaya"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedaya"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "aɗa arata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "aɗa naata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "aruɓe"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ummorii Babilon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:06.915282560Z",
+  "model": "glm-5.3"
+}

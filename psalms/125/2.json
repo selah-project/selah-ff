@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 125,
+  "translation": "Yerushalayim: tulaaji ina taƴa mun; e Yaawe kadi ina taƴa yimɓe mun, gila jooni haa duumi.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tulaaji"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ina taƴa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "e Yaawe kadi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ina taƴa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gila jooni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:46.601113967Z",
+  "model": "glm-5.3"
+}

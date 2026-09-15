@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Woni ɓaawo maayde Awraham, Eloohim barakii ⟨את⟩ Yitschak ɓiɗɗo mun; Yitschak jooɗi e sara Buur-Lahay-Rooji.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "barakii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jooɗi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e sara"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Buur"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lahay"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Rooji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:54.554550165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Eloohim Israa'iila wi'i; hoodere Israa'iila haali e hoore am: laamuɗo e yimɓe ko ⟨goonga⟩, laatuɗo e kulol Eloohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e hoore am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "צור",
+      "gloss": "hoodere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "laamuɗo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gooŋɗinɗo"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "laatuɗo"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:07:42.987623252Z",
+  "model": "glm-5.3"
+}

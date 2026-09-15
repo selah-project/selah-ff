@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ɗon ndartina innde am ⟨את⟩ e ɓiɓɓe Israa'iila, kanko mi mi barke ɓe.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "ɓe ɗon ndartina (ɗon mbi'a) "
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde am"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "על",
+      "gloss": "e (dow) "
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko mi (mi kadi)"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "mi barke ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:08.340437996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "On reena huutoraade ⟨את⟩ kuule ɗen fuu e ⟨את⟩ ñaawoore ɗen, ɗe mi payɗon yeeso mon ɓe nganndu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reena"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "huutoraade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuule ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawoore ɗen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawoore ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "payɗon"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ɓe nganndu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:25.808800092Z",
+  "model": "glm-5.3"
+}

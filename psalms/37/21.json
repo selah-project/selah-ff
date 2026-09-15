@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Bonɗo on ñaamata ɗam, kono o yoɓaani ɗam; kono cenɗo on ina ƴi'e, ina rota.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ñaamata ɗam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono o yoɓaani"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ɗam"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kono cenɗo on"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ina ƴi'e"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ina rota"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:14.045893453Z",
+  "model": "glm-5.3"
+}

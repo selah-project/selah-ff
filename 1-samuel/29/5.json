@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Wela ɗoo wonaa Daawuuda, ɓe jaabtii mo e danndirɗi, ɓe wi'i: “Sha'uul fiyi ⟨e⟩ ujunnaaje makko, Daawuuda kadi ⟨e⟩ ujunnaaje sappo makko?”",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "wela"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ɓe jaabtii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "e danndirɗi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "e ujunnaaje makko"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Daawuuda kadi"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "e ujunnaaje sappo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:48.503149607Z",
+  "model": "glm-5.3"
+}

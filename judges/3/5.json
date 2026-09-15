@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓiɓɓe Israa'iila ngoniino hoɗɓe e nder Kana'anaan'en, e Hittiyanke, e Amoriyanke, e Perizziyanke, e Hiwwiyanke, e Yebusiyanke.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngoniino hoɗɓe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kana'anaan'en"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittiyanke"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e Amoriyanke"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e Perizziyanke"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e Hiwwiyanke"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e Yebusiyanke"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:26.087736858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ñaawittinol laylaytol o ñaawittintoo ⟨את⟩ on, si e suuɗi min ndarti pucci.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ñaawittinol"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o ñaawittintoo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e suuɗi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pucci"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "min ndarti"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:35.706480603Z",
+  "model": "glm-5.3"
+}

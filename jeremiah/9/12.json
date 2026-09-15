@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe wi'i: Sabu ɓe acci ⟨את⟩ Laawu am ngu mi waɗi yeeso maɓɓe, ɓe naniraali e daande am, ɓe ndahaali e maggal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "ɓe acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laawu am ngu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Laawu am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "yeeso maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe naniraali"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "naniraali"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "e daande am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe ndahaali"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ndahaali"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T08:09:32.575590244Z",
+  "model": "glm-5.3"
+}

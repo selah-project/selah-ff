@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Yaawe, A toɗɗiima jam min ñiiɓe; sabu ko A gollunoo golle amen ɗen fof min ñiiɓe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "A toɗɗiima"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min ñiiɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ko ... fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "golle amen ɗen"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "A gollunoo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min ñiiɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:15.505964459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Lawo, o fiyi letaande nden, ndiyam ɗon ɓun'ude, ko dogduɗe ɗon ila. Ene waawi ⟨kadi⟩ hokkude ñameende? Maa o hebbina ƴi'e fii yimɓe makko on?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lawo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "letaande"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ɗon ɓun'ude"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ko dogduɗe"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ɗon ila"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ene waawi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "hokkude"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "o hebbina"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "fii yimɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:20.728775059Z",
+  "model": "glm-5.3"
+}

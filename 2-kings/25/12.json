@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Kono mawɗo warɓe ɓen accii miɗɗu leƴƴi leydi ndin, ɓe laata ɓe wuurɓe inab e ɓe remooɓe.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "miɗɗu leƴƴi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "accii"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "warɓe ɓen"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "fii wuurɓe inab"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "e fii remooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:09:46.880241500Z",
+  "model": "glm-5.3"
+}

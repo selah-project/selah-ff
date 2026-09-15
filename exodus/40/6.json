@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "E aaday ⟨את⟩ jaalta ƴeewtorteengu nguu to yeeso dammagal Layngu Layngu Kawral nguu.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "aaday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaalta ƴeewtorteengu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jaalta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ƴeewtorteengu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dammagal"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Layngu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Layngu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Kawral"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:21.741971040Z",
+  "model": "glm-5.3"
+}

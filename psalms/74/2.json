@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Jokku e yaajde konngu-maa ɗun, ngol heɓunɗaa ko ɓuri heewde kadi ngol fodɗitunɗaa no leñol jeyi-maa ngen; ngol dunggal Siyon ɗun, hoɗunɗaa nder mum.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Jokku e yaajde"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "konngu-maa ɗun"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "heɓunɗaa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ko ɓuri heewde"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "fodɗitunɗaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "jeyi-maa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dunggal"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "hoɗunɗaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nder mum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:54.283403327Z",
+  "model": "glm-5.3"
+}

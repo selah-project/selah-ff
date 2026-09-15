@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "So tooñannge wummina hakkilaaku, kadi woccoore momta ⟨את⟩ ɓernde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "tooñannge"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "wummina"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hakkilaaku"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "kadi momta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "woccoore"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:47.643442346Z",
+  "model": "glm-5.3"
+}

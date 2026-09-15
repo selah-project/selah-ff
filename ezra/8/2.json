@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 8:2",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ɓiɓɓe Fineyas, Gereshom; e ɓiɓɓe Itamar, Daniyel; e ɓiɓɓe Dawid, Hatush.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "E ɓiɓɓe"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Fineyas"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Hatush"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:25.207674282Z",
+  "model": "glm-5.3"
+}

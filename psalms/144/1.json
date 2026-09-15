@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Ñaamoore Dawuudi: Tedduɗo ⟨ko⟩ Yaawe, jurŋe am, On jannginta junne am fii hare, cokle am fii konu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ñaamoore Dawuudi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Tedduɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "jurŋe am"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "On jannginta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junne am"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "fii hare"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "cokle am"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fii konu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.853176744Z",
+  "model": "glm-5.3"
+}

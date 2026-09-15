@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E hannde, Eloohim amen, ko min mbi'ata ɓaawo ɗum? Sabu min njippii e jamirooje Maa ɗen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e hannde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko ... mbi'ata"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "min mbi'ata"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "min njippii"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "e jamirooje Maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:49.303435515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O wi'i: «Hollu Am, ŋoral, ⟨את⟩ teddingal Maa ngal.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Hollu Am"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ŋoral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teddingal Maa ngal"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "teddingal Maa ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:05.439872052Z",
+  "model": "glm-5.3"
+}

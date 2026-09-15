@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "A golfii e junngo maa yimɓe maa ɗen — ɓiɓɓe Yaaquba e Yuusufa. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "a golfii"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa ɗen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "e Yuusufa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.337678125Z",
+  "model": "glm-5.3"
+}

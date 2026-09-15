@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Fii ko ñalawma ngal o heblay on, ngam laaɓtude ⟨את⟩ on e baasiiji mon fow; faade Yaawe on laybay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "o heblay"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ngam laaɓtude"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e ... fow"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "baasiiji mon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "faade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "on laybay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:57.969398632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 60:18",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Kiitgol alaa nanete tawa e leydi maa, hay ruuddugol wanaa bonnugol e keerol maa; maa wiyan heddinde maa nden “Ndaaftirde”, e dame maa “Yettoode”.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nanete"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kiitgol"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "e leydi maa"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ruuddugol"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "e bonnugol"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "e keerol maa"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "maa wiyan"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Ndaaftirde"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "heddere maa nden"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "e dame maa"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "Yettoode"
+    }
+  ],
+  "timestamp": "2026-09-14T08:02:45.047347888Z",
+  "model": "glm-5.3"
+}

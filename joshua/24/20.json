@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Si on woppu ⟨את⟩ Yaawe, on gollira Eloohim arooɓe, o artirta, o bonnana on, o momta ⟨את⟩ on, ɓaawo o moƴƴinani on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "on-woppu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "on-gollira"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "arooɓe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o-artirta"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "o-bonnana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "o-momta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-on",
+      "marks": "on"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(nexus)"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "o-moƴƴinani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:21.645720474Z",
+  "model": "glm-5.3"
+}

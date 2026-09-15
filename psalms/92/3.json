@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Fii bayyinde hesed maa subaka, e goongɗiri maa jemmaaji.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "fii bayyinde"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "e goongɗiri maa"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "jemmaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:50.237747373Z",
+  "model": "glm-5.3"
+}

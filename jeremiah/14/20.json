@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Min nganndi, Yaawe, bonanze amen amen e jawayɓe amen: min bonnii fii maa.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "min nganndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "bonanze amen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "jawayɓe amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "min bonnii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:12:03.312734864Z",
+  "model": "glm-5.3"
+}

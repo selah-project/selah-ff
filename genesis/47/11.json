@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Yuusufa hoɗinii ⟨את⟩ baaba mum e ⟨את⟩ miñiraaɓe mum, o okki ɓe jeyi leydi e leydi Misrayim, e ɓurɗo moƴƴude e leydi ndin, e leydi Ramses, no Pirore yummiri nande.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "hoɗinii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mum"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "miñiraaɓe mum"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe mum"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o okki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "jeyi leydi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "e ɓurɗo moƴƴude"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ramses"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yummiri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pirore"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:42.334494202Z",
+  "model": "glm-5.3"
+}

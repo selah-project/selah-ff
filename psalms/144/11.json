@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Daɗnin mi, hisnin mi e junngo ɓiɓɓe leyɗe goɗɗe, ɓe hunuirta en ñeeñe, e junngo nanngu maɓɓe ko junngo fenaande.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Daɗnin mi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "e hisnin mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "leyɗe goɗɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hunuirta en"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ñeeñe"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "e junngo nanngu maɓɓe"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "junngo nano"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:12.993243168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi arii ngam hokkude maa faamde ⟨את⟩ ko waɗata yimɓe maa nder timmunde ñalɗi ɗin; tawa njiyaandi ndin ko haa ñalɗi.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "Mi arii"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "ngam hokkude maa faamde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko wađata yimɓe maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "wađata"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "nder timmunde"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ñalɗi ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hewi"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "njiyaandi ndin"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "haa ñalɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:38.543842693Z",
+  "model": "glm-5.3"
+}

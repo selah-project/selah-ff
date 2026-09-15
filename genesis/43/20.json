@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Ɓe wi'i: Tanao, Adonaay min, min njahii les tawai gadanii ngam soodde nguura.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Tanao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay min"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tawai"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "min njahii les"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "gadanii"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ngam soodde"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nguura"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:10.373915867Z",
+  "model": "glm-5.3"
+}

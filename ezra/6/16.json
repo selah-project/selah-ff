@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Bene Israa'iila — almuudɓe ɓen, Lewiɓe ɓen e ko heddii e bene beneeggol ngol — mbaɗii dewtinagol suudu Elooha nduu weltaare.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "mbaɗii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "almuudɓe ɓen"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "e Lewiɓe ɓen"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "e ko heddii e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "beneeggol ngol"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "dewtinagol"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "nduu"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "weltaare"
+    }
+  ],
+  "timestamp": "2026-09-14T10:43:08.266579677Z",
+  "model": "glm-5.3"
+}

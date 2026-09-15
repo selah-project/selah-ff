@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ndeen ⟨ndii⟩ binndi ɗin ɗi winndaama: MENEE, MENEE, TEKEL e PARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Ndeen ⟨ndii⟩"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "binndi ɗin"
+    },
+    {
+      "surface": "די",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "winndaama"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENEE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENEE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "e PARSIN"
+    }
+  ],
+  "timestamp": "2026-09-14T10:34:22.873542934Z",
+  "model": "glm-5.3"
+}

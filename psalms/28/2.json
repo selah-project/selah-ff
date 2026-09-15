@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Nano daande ñaawoore am, ɗo mi wullata e maa, ɗo mi tolninta junneeje am faade e suudu nderndu ceniiɗu maa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ɗo mi wullata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ɗo mi tolninta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junneeje am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "suudu nderndu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ceniiɗu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:36.775935027Z",
+  "model": "glm-5.3"
+}

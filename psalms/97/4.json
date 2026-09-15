@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Meeme mum ndirni aduna oo; leydi ndin yi'i, ndi ɗooyna.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ndirni"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Meeme mum"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduna oo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ndi ɗooyna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:23.093333407Z",
+  "model": "glm-5.3"
+}

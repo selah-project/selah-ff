@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Nde ñalnde mi noddi, jaabu-ɗaa lam; a semmbinii lam e nguurdam am doole.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nde ñalnde"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddi"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "jaabu-ɗaa lam"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "a semmbinii lam"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "e nguurdam am"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:29.745197541Z",
+  "model": "glm-5.3"
+}

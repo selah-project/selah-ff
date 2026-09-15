@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɗum waɗata: kala helnooɗo e Sion, e kala heddiiɗo e Yerushalayim, 'kenɗo' mbi'etee; kala winndaaɗo ngam nguurndam to Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ɗum waɗata"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "kala helnooɗo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "e Sion"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "e kala heddiiɗo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "kenɗo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mbi'etee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "winndaaɗo"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ngam nguurndam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "to Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T12:11:52.167966311Z",
+  "model": "glm-5.3"
+}

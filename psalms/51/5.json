@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Kimi miɗo anndi mawnugol am, e bonannde am woni yeeso am sahaa fuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mawnugol am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "miɗo anndi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "e bonannde am"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:20.951618509Z",
+  "model": "glm-5.3"
+}

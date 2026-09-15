@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Jooɗo kooluɗo, naat e niɓɓere, ɓiɗɗo Kasdim, sabu ɓe ɓeydotaako noddaade maa laamɗo-debbo laamlaamuuji.",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "kooluɗo"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "naat"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "e niɓɓere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "ɓeydoto"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "noddaade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "laamɗo-debbo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamlaamuuji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:11.995226269Z",
+  "model": "glm-5.3"
+}

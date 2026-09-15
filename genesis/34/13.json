@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɓiɓɓe Yaakob jaabii ⟨את⟩ Shekem e ⟨את⟩ Chamor baaba mun e hWnda, ɓe wi'i, sabu o bonnii ⟨את⟩ Diina deerɗiraawo mun.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "e hWnda"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "o bonnii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Diina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Diina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "deerɗiraawo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:03.051603232Z",
+  "model": "glm-5.3"
+}

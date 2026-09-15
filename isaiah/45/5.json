@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Mi woni Yaawe, etee walaa ⟨ɗum⟩ goo heewi heen; kono wonaa Min, walaa Eloohim; Mi ddoggina ma, kono a anndinaali Mi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "etee walaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goo heewi heen"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "wonaa Min"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Mi ddoggina ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono wonaa"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "a anndinaali Mi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:57:16.452586770Z",
+  "model": "glm-5.3"
+}

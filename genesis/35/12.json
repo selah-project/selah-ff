@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Leydi ndi mi darnuunoo Awraham e Isaak, maa mi ndarna ⟨את⟩ ɗum, e zumre maa ɓaawo maa ndarna ndii leydi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Leydi ndi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi darnuunoo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "e Isaak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "mi ndarna"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e zumre maa"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ɓaawo maa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ndarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndii leydi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ndii leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:24.505612226Z",
+  "model": "glm-5.3"
+}

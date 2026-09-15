@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Jaakob neldi nelaaɓe yeeso makko to Eesav miñiiko, to leydi Se'iir, ladde Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "nelaaɓe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to leydi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:55.663340733Z",
+  "model": "glm-5.3"
+}

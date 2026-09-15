@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓe naatataa ngam yiyde, hay kas, nde ⟨את⟩ senaare nden etchiree, ɓe newnata",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɓe naatataa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "naatoy"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yiyde"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "hay kas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senaare nden"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senaare nden"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ɓe newnata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:09.147430290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ñaawoore laaɓtuɗo ndee moƴƴintinata laawol mun ngool; kono e bonannde mun bano o on yaha yoyna.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "laaɓtuɗo"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "moƴƴintinata"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun ngool"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "kono e bonannde mun"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yaha yoyna"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bano o"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:46.929871368Z",
+  "model": "glm-5.3"
+}

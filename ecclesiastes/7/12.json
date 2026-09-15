@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono e nder duume hakkilinal, e nder duume kaalis; ko faayida ganndal ngal, hakkilinal wuurninta jeyɓe ngal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e nder duume"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hakkilinal"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e nder duume"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "faayida"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hakkilinal"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "wuurninta"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "jeyɓe ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:41.505842516Z",
+  "model": "glm-5.3"
+}

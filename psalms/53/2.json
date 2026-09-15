@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Wumɗo wi'i e nder ɓernde mun: “Eloohim alaa”; ɓe mbonitii, ɓe waɗi kuule wulluɗe; alaa baɗoowo moƴƴere.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wumɗo"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "e nder ɓernde mun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ɓe mbonitii"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ɓe waɗi kuule wulluɗe"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baɗoowo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:01.696150080Z",
+  "model": "glm-5.3"
+}

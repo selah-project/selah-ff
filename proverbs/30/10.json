@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Wata a beltu maccuɗo to mawɗo mun, wanaa o cuusaa ma, a wona bakkaatu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "a beltu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "mawɗo mun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "o cuusaa ma"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "a wona bakkaatu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:26.330918367Z",
+  "model": "glm-5.3"
+}

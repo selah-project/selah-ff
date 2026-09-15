@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono mi miɗo anndi laamɗo Misrayim jaɓataa ⟨את⟩ on yahde, si wanaa e junngo woolngu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "miɗo anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "jaɓataa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jaɓataa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "yahde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "si wanaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "woolngu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:07.373438295Z",
+  "model": "glm-5.3"
+}

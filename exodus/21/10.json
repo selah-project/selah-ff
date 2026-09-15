@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si debbo goɗɗo o jabbii fii mun, ñaamdu makko, comci makko e jokkere makko dewardu, o ustatay ɗe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o jabbii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ñaamdu makko"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "comci makko"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "e jokkere makko dewardu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ustatay"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "ustatay ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:58.706820413Z",
+  "model": "glm-5.3"
+}

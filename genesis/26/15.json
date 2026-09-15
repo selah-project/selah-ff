@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "e lummbe ɗen fuu ɗe golluɓe baaba mun njilli e naange Abraham baaba mun, Pilisti'en ɗen udditi ɗe, ɗe keɓii e mboddi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "lummbe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "njilli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "golluɓe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e naange"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "udditi ɗe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilisti'en ɗen"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "ɗe keɓii"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "e mboddi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:06.915024168Z",
+  "model": "glm-5.3"
+}

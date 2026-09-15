@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O waray ⟨את⟩ ɓiɗɗo nagge nannduɗo Yaawe, ɓiɗɓe Aharonen awrooɓe ɓen addan ⟨את⟩ ƴiiƴam on, ɓe ɓooray ⟨את⟩ ƴiiƴam on e dow saare nden heddaade, nden woni hiirnde damal teenti ɗum woni ɗo kawrata.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "o waray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo nagge nannduɗo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɓo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nagge nannduɗo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "nannduɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ɓe addan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "awrooɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam on"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam on"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ɓe ɓooray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam on"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "saare nden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "heddaade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden woni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "hiirnde damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ɗo kawrata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:23.122688010Z",
+  "model": "glm-5.3"
+}

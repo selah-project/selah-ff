@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Selomoo yiɗi ⟨את⟩ Yaawe, fii yahde e sariyaji Daawuuda baaba mum; tan e bamaji kanko o ndarna sadak o niɓɓi uurngol.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "o yiɗi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "fii yahde"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "e sariyaji"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "e bamaji"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "o ndarna sadak"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "o niɓɓi uurngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:24.346049549Z",
+  "model": "glm-5.3"
+}

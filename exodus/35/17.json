@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ leppi cuaddirka ndin, ⟨את⟩ ŋorɗe mun ɗen e ⟨את⟩ potte mun ɗen, e ⟨את⟩ panndal damal cuaddirka ndin,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leppi cuaddirka ndin"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "leppi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "cuaddirka ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ŋorɗe mun ɗen"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ŋorɗe mun ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "potte mun ɗen"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "potte mun ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "panndal damal cuaddirka ndin"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "panndal"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "cuaddirka ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:18.925879758Z",
+  "model": "glm-5.3"
+}

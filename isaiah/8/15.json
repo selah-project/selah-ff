@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Heewɓe e maɓɓe mbaɗa muusde, ɓe yahu, ɓe feŋŋoo, ɓe naat e mbaasal, ɓe nanngaa.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ɓe mbaɗa muusde"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ɓe yahu"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ɓe feŋŋoo"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ɓe naat e mbaasal"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ɓe nanngaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:37.450045058Z",
+  "model": "glm-5.3"
+}

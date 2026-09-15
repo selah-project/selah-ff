@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Kooru ko e kammu he waawi lelsinde hoore mum no Yaawe? Kooru ko e ɓiɓɓe laamɓe nanndi e Yaawe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kooru ko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kooru"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "e kammu he"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "waawi lelsinde hoore mum no"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "nanndi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "laamɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:45.818889197Z",
+  "model": "glm-5.3"
+}

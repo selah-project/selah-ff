@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Nde Lea yi'i nde ⟨o⟩ dartinii jibinde, o ƴetti ⟨את⟩ Zilpa maccuɗo mun, o hokki ⟨את⟩ mo Yaakov fii debbo.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "dartinii"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "jibinde"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "maccuɗo mun"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yaakov)"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "fii debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:51.476236101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Sabu o yi'ata enooɓe kadi maayirta, abay e naaɗo ɗum e ɗum njippirta, ɓe accirta jawdi mun e yimɓe goɗɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi'ata"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "enooɓe"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "maayirta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ɗum e ɗum"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "abay"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "e naaɗo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "njippirta"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ɓe accirta"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "e yimɓe goɗɓe"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "jawdi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:05.948041694Z",
+  "model": "glm-5.3"
+}

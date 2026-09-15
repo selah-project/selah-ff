@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ndeen wakkati, ndaaru Yaawe, ɓe yaltinay ⟨את⟩ ƴiye laamuuji Yahuudah e ⟨את⟩ ƴiye mawɓe mun e ⟨את⟩ ƴiye hijabaaɓe ɓen e ⟨את⟩ ƴiye annabaaɓe ɓen e ⟨את⟩ ƴiye hoɗɓe Yerushalayim e kebbe mun ɓen.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "e ndeen wakkati"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndaaru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "ɓe yaltinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiye laamuuji Yahuudah"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamuuji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye mawɓe mun"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "mawɓe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye hijabaaɓe ɓen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "hijabaaɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye annabaaɓe ɓen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye hoɗɓe Yerushalayim"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "e kebbe mun ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:10:26.595260681Z",
+  "model": "glm-5.3"
+}

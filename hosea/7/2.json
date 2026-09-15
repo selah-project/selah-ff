@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Teawaajo ɓe wi'aani e ɓernde maɓɓe wonde bone maɓɓe fuu mi waajtii; jooni golle maɓɓe ngaddanii ɓe dañaare, ɗi ngoni yeeso ⟨Am⟩.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "Teawaajo ... aani"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "e ɓernde maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bone maɓɓe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mi waajtii"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "ngaddanii ɓe dañaare"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "golle maɓɓe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeru"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngoni"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:28.139131154Z",
+  "model": "glm-5.3"
+}

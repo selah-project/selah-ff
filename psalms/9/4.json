@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde aybiiɓe am ruttata caggal, ɓe humbata, ɓe maayata e yeeso maa.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "nde ɓe ruttata"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "aybiiɓe am"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ɓe humbata"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ɓe maayata"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "e yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:16.002422972Z",
+  "model": "glm-5.3"
+}

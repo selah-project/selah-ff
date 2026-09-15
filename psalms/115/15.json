@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "On ɓe mbarke ⟨en⟩ woni konngol Yaawe, Waɗoowo kammuuli ɗin e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "ɓe mbarke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "konngol Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Waɗoowo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:56.651718300Z",
+  "model": "glm-5.3"
+}

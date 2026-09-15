@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "E ɗi ɓe ngonnoo e Chorma, e ɗi ɓe ngonnoo e Bor-Ashan, e ɗi ɓe ngonnoo e Atach.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "e ɗi ɓe ngonnoo e"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Chorma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "e ɗi ɓe ngonnoo e"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "e ɗi ɓe ngonnoo e"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atach"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:18.108909397Z",
+  "model": "glm-5.3"
+}

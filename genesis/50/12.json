@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Ɓiɓɓe makko ɓe mbaɗi mo non, no o tamyani ɓe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צום",
+      "gloss": "o tamyani ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:51.620487957Z",
+  "model": "glm-5.3"
+}

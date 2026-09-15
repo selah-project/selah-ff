@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Mi ɗon nana ⟨את⟩ yerulla e Yerushalayim ⟨את⟩ ɗuddu Shomron e ⟨את⟩ mawngal leƴƴanngal ɓesngu Ahab, mi ɗon momta Yerushalayim no neɗɗo momirta ⟨את⟩ njaram-kaɓirgal njaŋgorgal — o momti ɗum, o ɗilli nguubaral e hoore mayre.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "mi ɗon nana yerulla"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗuddu Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ɗuddu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mawngal leƴƴanngal ɓesngu Ahab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "mawngal leƴƴanngal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɓesngu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "mi ɗon momta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "momirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njaram-kaɓirgal njaŋgorgal"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "njaram-kaɓirgal njaŋgorgal"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "o momti ɗum"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "o ɗilli nguubaral"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "hoore mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:58.576912411Z",
+  "model": "glm-5.3"
+}

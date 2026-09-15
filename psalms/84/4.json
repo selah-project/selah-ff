@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Kadi colo waɗii suudu, e dror weendu fii mun, ɗi ɗo o waɗi pieluuɗi mun — ⟨את⟩ altaaruuji maa, Yaawe Fedde, Laamɗo am e Eloohim am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "colo"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "e dror"
+    },
+    {
+      "surface": "קן",
+      "gloss": "weendu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi ɗo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "pieluuɗi mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaaruuji maa"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "altaaruuji maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Fedde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Laamɗo am"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:40.727814097Z",
+  "model": "glm-5.3"
+}

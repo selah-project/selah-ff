@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Konu Kasdim njaɓi caggal laamɗo on, ɓe heɓi ⟨את⟩ mo e jeereende Yeriixo, e konu mun fuu senaama hunanzo e makko.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "njaɓi caggal"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ɓe heɓi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (laamɗo on)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriixo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "konu mun"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "senaama"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:39.284738303Z",
+  "model": "glm-5.3"
+}

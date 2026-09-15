@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "O neldi banndiraawɓe mun ⟨את⟩ ɓe njahi; o wi'i ɓe: Wata ɓe weerɗinon laawol ngol.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banndiraawɓe mun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraawɓe mun"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ɓe weerɗinon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:33.807246857Z",
+  "model": "glm-5.3"
+}

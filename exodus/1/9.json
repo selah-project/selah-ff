@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wi'i e yimɓe mun: Ɗoo, yimɓe ɓiɓɓe Israa'iila keewi, ɓe ɓuri min tiiɗtude.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ɓuri min tiiɗtude"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɗi min"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:49.705201168Z",
+  "model": "glm-5.3"
+}

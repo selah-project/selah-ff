@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Munndi hoore men ndi yani; woy woya minen, sabu minen bonii.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "yani"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Munndi"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "hoore men"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "woy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "woya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "min bonii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:59.147639461Z",
+  "model": "glm-5.3"
+}

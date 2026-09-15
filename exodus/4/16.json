@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kanko o wowoyan maa e yimɓe ɓen; kadi ko kanko o wonan maa daande, kadi a wonaa mo Eloohim.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "wowoyan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kadi ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "daande"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kadi a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:30.632088537Z",
+  "model": "glm-5.3"
+}

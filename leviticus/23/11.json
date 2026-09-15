@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O mbaɗay ⟨את⟩ omeruuji ɗin presentir Yaawe, fii jaɓgol mon; ñalawma ɓaawo shabat on, awsiyo on mbaɗata ɗum laaɓta.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "mbaɗay-diŋtina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omeruuji ɗin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omeruuji ɗin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "presentir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "fii jaɓgol mon"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ñaalawma ɓaawo"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabat on"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "mbaɗata ɗum diŋtina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "awsiyo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:52.501766743Z",
+  "model": "glm-5.3"
+}

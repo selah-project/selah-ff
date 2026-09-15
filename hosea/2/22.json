@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi mbaɗay maa dewal e am e goongɗinal, maa anndu ⟨את⟩ Yaawe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "mi mbaɗay maa dewal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "e goongɗinal"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "maa anndu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:32.252433965Z",
+  "model": "glm-5.3"
+}

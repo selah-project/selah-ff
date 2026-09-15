@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Ɗum ngonndi, mi anndi wonde A njiyri yiɗde e am, sabu gañño am wanaa woyo e am.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ɗum ngonndi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "njiyri yiɗde"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "woyo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "gañño am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:26.759871058Z",
+  "model": "glm-5.3"
+}

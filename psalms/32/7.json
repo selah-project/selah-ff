@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Aan ko ⟨wonii⟩ cuuroore am; e tiiɗnaare Aan mooftaay mi; aambooji daɗal Aamboɗɗii mi. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "cuuroore"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "e tiiɗnaare"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Aan mooftaay mi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "aambooji"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "dađal"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "Aambođđii mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:33.954508675Z",
+  "model": "glm-5.3"
+}

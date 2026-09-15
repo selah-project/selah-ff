@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɗiɗi mi ɗaɓɓi ɗem maa ⟨את⟩; wata a haɗan ɓuri mi wonnde tawa mi maayataa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Ɗiɗi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mi ɗaɓɓi"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ɗem maa ⟨את⟩",
+      "marks": "ɗem maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "a haɗan ɓuri"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mi maayataa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:52.937937146Z",
+  "model": "glm-5.3"
+}

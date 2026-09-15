@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Daawuda nano, o neldi ⟨את⟩ Yowabu e ⟨את⟩ konu nguu fof, ɓen worɓe waawɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konu nguu fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "konu nguu"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "worɓe waawɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:14.226759507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O yahi, o waɗi no konngol Yaawe wi'i nii; o yahi, o jooɗii e lowre Kirith, nde ⟨wonii⟩ ley Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol wi'i nii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "e lowre"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kirith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "על",
+      "gloss": "ley"
+    },
+    {
+      "surface": "פני",
+      "gloss": ""
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:05.877254175Z",
+  "model": "glm-5.3"
+}

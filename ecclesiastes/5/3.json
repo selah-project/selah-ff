@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Nde a hucca huccere to Eloohim, warta yuurno heftinde ɗum; sabu alaa weltere to wumruɓe: ⟨את⟩ ko a hucci, heftin ɗum.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "a hucca"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "huccere"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "to Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "warta"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "yuurno"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "heftinde ɗum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "weltere"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "to wumruɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko a hucci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "a hucci"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "heftin ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:13.304570720Z",
+  "model": "glm-5.3"
+}

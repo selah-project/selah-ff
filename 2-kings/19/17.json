@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Goongɗii, Yaawe, laamɓe Assur mboninii ⟨את⟩ leƴƴi ɗin e ⟨את⟩ leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Goongɗii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "mboninii"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi ɗin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:14.669684480Z",
+  "model": "glm-5.3"
+}

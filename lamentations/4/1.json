@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "No waɗii kaŋe on niɓɓii, danewol ɓurngel moƴƴu ngol waylaama; kaaƴe senaare ɗen ɓullitaa ⟨to⟩ hoore kala laawol.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "no waɗii"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "niɓɓii"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe on"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "waylaama"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "danewol ɓurngel moƴƴu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ɓurngel moƴƴu"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ɓullitaa"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaare"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "to hoore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:13.065092502Z",
+  "model": "glm-5.3"
+}

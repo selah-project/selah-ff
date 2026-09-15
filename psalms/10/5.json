@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Laawol mun ngol saakata sahaa kala; ñaawoore maaɗa ɗee toowɗe, duuɗotooɗe mun; fof gaasaaɓe mun o ɓuuwtata ɓe.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "saakata"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun ngol"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "toowɗe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawoore maaɗa ɗee"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "duuɗotooɗe mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "gaasaaɓe mun"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "o ɓuuwtata"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:15.113768180Z",
+  "model": "glm-5.3"
+}

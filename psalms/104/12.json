@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "E mayre colli kammuuli ɗin hođii; e hakkunde kaanje ɗe nelda daande.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "E mayre"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "hođii"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "kaanje"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ɗe nelda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:57.353728861Z",
+  "model": "glm-5.3"
+}

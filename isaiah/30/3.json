@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ko mawnugol Paroh wontira on horma, e suudiro e ɓoggol Misrayim wontira on yerugu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wontira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mawnugol"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "horma"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "e suudiro"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e ɓoggol"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "yerugu"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:59.421310244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Balak wi'i e Bilam: “Hay ñiŋo, a ñiŋinaa mo; hay barke, a barkinaa mo.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ñiŋo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inaa"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "a ñiŋinaa mo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inaa"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "a barkinaa mo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:21.324489430Z",
+  "model": "glm-5.3"
+}

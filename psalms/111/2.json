@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 111,
+  "translation": "Golle Yaawe ɗen mawni no feewi, ɗe njiylottee fowu e ɓe faandi e mayre.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "njiylottee"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fowu"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ɓe faandi e mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:46.454578635Z",
+  "model": "glm-5.3"
+}

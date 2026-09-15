@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yeriixo ko udditiinde, ko udditaande sabu yeeso ɓiɓɓe Israa'iila; alaa yaltuɗo, alaa naatuɗo.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yeriixo"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "ko udditiinde"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ko udditaande"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu yeeso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "yaltuɗo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:12:21.464471744Z",
+  "model": "glm-5.3"
+}

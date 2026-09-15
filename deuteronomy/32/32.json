@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Inaabere maɓɓe jeyi ko e lekki inabere Sedom e e laddeeji Amora; inabireeji maɓɓe ko inabireeji roos, kawle maɓɓe ko ciiɗu mawndu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "e lekki inabere"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "inaabere maɓɓe"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "e laddeeji"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "inabireeji maɓɓe"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "inabireeji"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "roos (ɗennɗo)"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "kawle"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "ciiɗu mawndu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:39.301310177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Nguurndam Dawuudi. Ñaawu ⟨min⟩, Yaawe, gollaade min yahiimi e laaɓal am, e Yaawe mi hoolnii, alaa mbaawaa min yerbite.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nguurndam Dawuudi"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ñaawu min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gollaade"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "e laaɓal am"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "yahiimi"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi hoolnii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "yerbite"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:11.729578373Z",
+  "model": "glm-5.3"
+}

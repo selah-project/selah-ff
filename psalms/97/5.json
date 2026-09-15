@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Tulli ɗen likkii no ñeebe ƴettirta nii, yeeso Yaawe, yeeso Adonaay leydi nden fuu.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "tulli ɗen"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "no ñeebe"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "likkii"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:17.476314331Z",
+  "model": "glm-5.3"
+}

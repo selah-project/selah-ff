@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaawe wi'i Musa: mi yi'ii ⟨את⟩ ɓamɓe ɗin, e nde yiyirtee, ɓe ngoni yimɓe ɓe daande saɗtuunde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dukuduku (fii)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓamɓe ɗin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓamɓe ɗin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nde yiyirtee"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "saɗtuunde"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɓe ngoni"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:45.439677659Z",
+  "model": "glm-5.3"
+}

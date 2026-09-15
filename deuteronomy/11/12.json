@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Leydi ndi Yaawe Eloohim maa hessiti ⟨את⟩ maydu sikke-sikke; gite Yaawe Eloohim maa ko e maydu, puɗɗo hitaande nden haa caaku hitaande.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hessiti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "maydu (leydi ndin)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sikke-sikke"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e maydu"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "puɗɗo"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "hitaande nden"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "caaku"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:39.761139224Z",
+  "model": "glm-5.3"
+}

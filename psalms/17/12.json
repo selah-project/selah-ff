@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Nanndiral mun no gyamngol jaɗɗo ngam mboɗaari, no wuddere wonndunde e cuuɗirɗe.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "nanndiral mun"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "no gyamngol"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "jaɗɗo"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ngam mboɗaari"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "no wuddere"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wonndunde"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "e cuuɗirɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:04.321226473Z",
+  "model": "glm-5.3"
+}

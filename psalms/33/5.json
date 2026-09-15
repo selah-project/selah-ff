@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O moŋkii ñaawoore laaɓnde e woppitere; leydi ndin ina hebli hesed Yaawe.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "O moŋkii"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ñaawoore laaɓnde"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e woppitere"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ina hebli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:11.199358514Z",
+  "model": "glm-5.3"
+}

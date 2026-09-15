@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ƴeewtike mi ɓuri mawniiɓe; wonnde mi reeni jamirooje maa.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ɓuri mawniiɓe"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "Ƴeewtike mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jamirooje maa"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "mi reeni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:56.888428357Z",
+  "model": "glm-5.3"
+}

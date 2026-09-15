@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 20:23",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Mi kadi, min ɓulli ⟨את⟩ junngo am e maɓɓe e nder ladde nden: yo faattin ⟨את⟩ ɓe e nder yimɓe ɓen, yo saaktu ⟨את⟩ ɓe e nder leyɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "min ɓulli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e nder ladde nden"
+    },
+    {
+      "surface": "להפיץ",
+      "gloss": "yo faattin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "e nder yimɓe ɓen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder yimɓe ɓen"
+    },
+    {
+      "surface": "ולזרות",
+      "gloss": "yo saaktu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "e nder leyɗe ɗen"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "e nder leyɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:13.830094686Z",
+  "model": "glm-5.3"
+}

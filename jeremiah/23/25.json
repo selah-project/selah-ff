@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ndanmi mi ⟨את⟩ ɗum ɓe nji'i — annabi'en ɓe ɗon annabi'ira e innde am fuu — fewre, ɓe wi'a: “Mi'ii alfabeere, mi'ii alfabeere.”",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ndanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum ɓe nji'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum ɓe nji'i"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe nji'i"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabi'en"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ɓe ɗon annabi'ira"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "e innde am"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fewre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'a"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mi'ii alfabeere"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "mi'ii alfabeere"
+    }
+  ],
+  "timestamp": "2026-09-14T08:16:25.822102265Z",
+  "model": "glm-5.3"
+}

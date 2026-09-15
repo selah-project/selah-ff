@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Firawna noddi Moshe e Haaruun, o wi'i: “Yahon, waddon sadak fii Eloohim mon nder leydi.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e Haaruun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "waddon sadak"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "fii Eloohim mon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:35.062195333Z",
+  "model": "glm-5.3"
+}

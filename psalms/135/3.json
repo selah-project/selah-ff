@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Yetto-yee Yaah, sabu Yaawe ⟨ko⟩ moƴƴo; wammo-yee innde makko, sabu nde ⟨ko⟩ weltunde.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yetto-yee"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "wammo-yee"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "weltunde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:40.813890550Z",
+  "model": "glm-5.3"
+}

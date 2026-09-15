@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɗuuɗɓe ɓe wi'a: Hommo holliranay min moƴƴere? Yaawe, toownu dow majjere annoorde wuro maa.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Ɗuuɗɓe"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ɓe wi'a"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommo"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "holliranay min"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "toownu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "dow min"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoorde"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wuro maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:41.214476715Z",
+  "model": "glm-5.3"
+}

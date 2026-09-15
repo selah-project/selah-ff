@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Tan e mawnu-majjere woodi jalbale, kono e ⟨את⟩ ɓe wondi e peeje woodi fernu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "e mawnu-majjere"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "jalbale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe wondi e peeje"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ɓe wondi e peeje"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fernu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:48:25.406187804Z",
+  "model": "glm-5.3"
+}

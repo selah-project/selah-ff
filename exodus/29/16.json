@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "War ⟨את⟩ mbeewa nden, ƴettu ⟨את⟩ ƴiiƴam mun, fewnu ngal dow sarde nden taaraaɗe fuu.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "war"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeewa nden"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mbeewa nden"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam mun"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "fewnu ngal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarde nden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taaraaɗe fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:52.553003047Z",
+  "model": "glm-5.3"
+}

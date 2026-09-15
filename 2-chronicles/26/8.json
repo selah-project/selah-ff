@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ammonɓe ɓen ndokki Uzziyaahu dokkal, innde makko yahi haa keerol ngol naatata Misrayim, tawi o ɓeydii doole haa ɓurti.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "Ammonɓe ɓen"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "Uzziyaahu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "keerol ngol naatata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "o ɓeydii doole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ɓurti"
+    }
+  ],
+  "timestamp": "2026-09-14T13:06:28.313982392Z",
+  "model": "glm-5.3"
+}

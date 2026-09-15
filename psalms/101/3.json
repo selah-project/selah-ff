@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 101,
+  "translation": "Mi placeda ŋorɓel ɓurngel meere, golle ɗe njaltuɓe ngoŋŋi; ɗe ƴettataa jooɗorde e am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mi placeda"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ŋorɓel"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ɓurngel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "meere"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "golle"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ɓe njaltuɓe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngoŋŋi"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ɗe ƴettataa"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "am"
+    },
+    {
+      "surface": "בי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:41.409208829Z",
+  "model": "glm-5.3"
+}

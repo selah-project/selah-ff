@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Heɓee on worɓe tato fii kala leñol, mi nelay ɓe, ɓe ummitoo, ɓe yaha-yaha e leydi ndin, ɓe winndu ⟨את⟩ ndin e dow ngondu maɓɓe, ɓe aro e am.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Heɓee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "fii leñol"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "mi nelay ɓe"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummitoo"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ɓe yaha-yaha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ɓe winndu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ndin (leydi ndin, ɓe winndu)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ngondu maɓɓe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe aro"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:23.864988198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "O ñaawa yimɓe maa e ñaawoore, e miskineeɓe maa e ñaawu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "O ñaawa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "e miskineeɓe maa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:13.313700021Z",
+  "model": "glm-5.3"
+}

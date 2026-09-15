@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Mi rokki Isaahak ⟨את⟩ Yaakuuba e ⟨את⟩ Eesawu, mi rokki Eesawu ⟨את⟩ tulde Se'iir nde yo jeyɗo ⟨את⟩ heen, Yaakuuba e ɓiɓɓe mum en njahi les Misraayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mi rokki"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isaahak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakuuba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Eesawu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eesawu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Eesawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulde Se'iir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'iir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "yo jeyɗo heen"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ heen"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mum en"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "njahi les"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:29.882315802Z",
+  "model": "glm-5.3"
+}

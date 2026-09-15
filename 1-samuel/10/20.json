@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shemuwel ɓadtinii ⟨את⟩ leƴƴi Israa'el fuu, leñol Binyamin nanngaa.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɓadtinii"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi Israa'el fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nanngaa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:31.700563990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "No mawniri golle maaɗe, Yaawe! No lelniri miijooji maaɗa ɗin!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "no ... ri"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "mawniri"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "golle maaɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "lelniri"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "miijooji maaɗa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.740266988Z",
+  "model": "glm-5.3"
+}

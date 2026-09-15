@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yiɓe Yosef sappo njahi les fii soodde ngeedu e Misraayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "njahi les"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "yiɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "fii soodde"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ngeedu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misraayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:30.025482531Z",
+  "model": "glm-5.3"
+}

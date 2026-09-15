@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Addu ⟨את⟩ Aharon e ⟨את⟩ ɓiɓɓe mun to gayngol teenti kawtirɗe, lar ⟨את⟩ ɓe e ndiyam.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Addu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "gayngol"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtirɗe"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "lar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:51.442408778Z",
+  "model": "glm-5.3"
+}

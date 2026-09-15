@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kadi dow maccuɓe worɓe ɓen e dow maccuɓe rewɓe ɓen, e ɗee ñalɗi mi ƴellita ⟨את⟩ ruuhu am.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "maccuɓe worɓe ɓen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "maccuɓe rewɓe ɓen"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e ɗee ñalɗi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "mi ƴellita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruuhu am"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:34.009466600Z",
+  "model": "glm-5.3"
+}

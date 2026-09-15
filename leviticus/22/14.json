@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si neɗɗo ñamata huunde senaande e juumre, o ɓeyda joyaɓere mum heen, o rokka dewo on ⟨את⟩ huunde senaande nden.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "si neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñamata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "huunde senaande"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "e juumre"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "o ɓeyda"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "joyaɓere mum"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o rokka"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "dewo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huunde senaande nden"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "huunde senaande nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:08.334031137Z",
+  "model": "glm-5.3"
+}

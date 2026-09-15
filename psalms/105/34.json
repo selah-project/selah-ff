@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O wi'i, luggi ari, e luggi suukaa, e ɗuuɗal ngal alaa limoore.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "luggi"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "e luggi suukaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:21.227854403Z",
+  "model": "glm-5.3"
+}

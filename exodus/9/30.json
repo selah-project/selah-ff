@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono min e maccuɓe maa, mi anndi wonde on ɗaɓɓaaki goo Yaawe Eloohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kono on"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "e maccuɓe maa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "goo"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "on ɗaɓɓaaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:37.022722223Z",
+  "model": "glm-5.3"
+}

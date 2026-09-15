@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Fii miijooji am ɗi wonaani miijooji mon ɗin, e laawɗe mon ɗen wonaani laawɗe am ɗen, nden Naamoraaku Yaawe wi'i.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaani"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "miijooji am ɗi"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "miijooji mon ɗin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wonaani"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "laawɗe mon ɗen"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawɗe am ɗen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Naamoraaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:14:49.383448597Z",
+  "model": "glm-5.3"
+}

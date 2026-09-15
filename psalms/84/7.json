@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Ɓe ittata e cađđe Baka, ɓe waɗata ɗum henndu (bulo); duumingol yooro kadi ɓoornorta ɗum barke.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ɓe ittata"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "e cađđe"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "bulo"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "ɓe waɗata ɗum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "barke"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ɓoornorta"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "duumingol yooro"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.289560180Z",
+  "model": "glm-5.3"
+}

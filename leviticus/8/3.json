@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "e ⟨את⟩ dingiraajahaa fow, kaa hoɗɗina ɗum baɗɗo tentooji ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dingiraajahaa fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "dingiraajahaa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kaa hoɗɗina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baɗɗo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baɗɗo tentooji"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tentooji"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "woɗɗugol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:07.838542543Z",
+  "model": "glm-5.3"
+}

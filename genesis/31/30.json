@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ƴeewto, a yahi kisa a muñii tamde galle baaba maa; ko nafata a wujjii ⟨את⟩ Eloohim am?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ƴeewto"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "a yahi kisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "a muñii"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "tamde"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko nafata"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "a wujjii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:57.383843026Z",
+  "model": "glm-5.3"
+}

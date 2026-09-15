@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɓɓe Israya'il ɓen campoy ; neɗɗo kala e campal mun e neɗɗo kala e maandorde mun, no konuuli mun ɓen pelliri.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "ɓe campoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'il"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "campal mun"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo kala"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "maandorde mun"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "no konuuli mun ɓen pelliri"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:02.183819586Z",
+  "model": "glm-5.3"
+}

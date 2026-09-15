@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ñaajo nde ɗoo binndi ngari on — e on ⟨את⟩ ɓiɓɓe joomi mon, e on ⟨את⟩ koyɗe ɗen e pucci ɗin, e wuro nyeemeendu e kaɓirɗe —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ñaajo"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "nde ... ngari"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ɗoo binndi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "e on ⟨את⟩",
+      "marks": "ɓiɓɓe joomi mon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "joomi mon"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "e on ⟨את⟩",
+      "marks": "koyɗe ɗen e pucci ɗin"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "koyɗe ɗen"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "e pucci ɗin"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nyeemeendu"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "e kaɓirɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:48.368739956Z",
+  "model": "glm-5.3"
+}

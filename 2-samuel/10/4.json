@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Hanun jogtii ⟨את⟩ maccuɓe Dawuwi, o tonni ⟨את⟩ hoddo duume maɓɓe, o taƴi ⟨את⟩ comci maɓɓe e hoddo, haa dow koppi maɓɓe, o neldi ɓe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogtii"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɓe Dawuwi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuwi"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "tonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoddo duume maɓɓe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "hoddo"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "duume maɓɓe"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "taƴi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci maɓɓe"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "comci maɓɓe"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "e hoddo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa dow"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "koppi maɓɓe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "neldi ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:55.385911728Z",
+  "model": "glm-5.3"
+}

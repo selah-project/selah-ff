@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi hiiɗii e muusde am; kammuuru fuu leeso am mi ɓullina; juulde am mi fenaa e duume am.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Mi hiiɗii"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "e muusde am"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "mi ɓullina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kammuuru"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "leeso am"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "e duume am"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "juulde am"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "mi fenaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:26.912551911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Mbela mi woni maayoo, walla tanin, wonde aɗañaani reenaaɗo am?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "maayoo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mbela"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tanin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ñaani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "reenaaɗo"
+    }
+  ],
+  "timestamp": "2026-09-15T09:12:31.571057369Z",
+  "model": "glm-5.3"
+}

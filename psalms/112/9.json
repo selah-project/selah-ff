@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "O ɓalli, o hokki waasɓe ɓen; laaɓal mun darii duumiaye; nder mun torrooma e teddungal.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "o ɓalli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o hokki"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "waasɓe ɓen"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "laaɓal mun"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "darii"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "duumiaye"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "nder mun"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "torrooma"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "e teddungal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:38.892799953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ko ɓuri heen, weltaare subaka nden, ko nde weltaare duumiinde nden — ɗee ɗoo mbaɗee ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ko ɓuri heen"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaka nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko nde"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "duumiinde nden"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee ɗoo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:48.111513238Z",
+  "model": "glm-5.3"
+}

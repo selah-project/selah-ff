@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Eloohim arii to Bilaam, o wi'i: ko hommɓe yimɓe ɓee ɗo e maaɗa?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilaam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommɓe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɓee ɗo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:44:26.454283237Z",
+  "model": "glm-5.3"
+}

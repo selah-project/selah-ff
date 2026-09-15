@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "Yeddite ɓe, ɓe ruttu caggal, ɓen fuu ɓe njiɗ-oy Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "yeddite ɓe"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ɓe ruttu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɓen fuu"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ɓe njiɗ-oy"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:18.966334794Z",
+  "model": "glm-5.3"
+}

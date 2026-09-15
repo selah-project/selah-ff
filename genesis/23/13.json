@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 23:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O wolli Efron e noppi yimɓe leydi ndin, wiyde: kono si a nanii mi, miɗo totta kaalis ngalu ndin — jaɓ ummiime — mbele mbara ⟨את⟩ maayɓe am ɗoon.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "o wolli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e noppi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "nanu mi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "miɗo totta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ngalu ndin"
+    },
+    {
+      "surface": "קח",
+      "gloss": "jaɓ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ummiime"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "mbele mbara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayɓe am"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "maayɓe am"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:58.810327311Z",
+  "model": "glm-5.3"
+}

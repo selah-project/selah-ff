@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yaawe ɓeydii tiiɗgol ⟨את⟩ ɓernde Par'oh, o jaɓaani yaltinde ɓe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ɓeydii tiiɗgol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde Par'oh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o jaɓaani"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "jaɓde"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "yaltinde ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:56.139073532Z",
+  "model": "glm-5.3"
+}

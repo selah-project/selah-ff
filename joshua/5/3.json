@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yehoshua waɗi maa pamarɗe kaaƴe, o sunnini ⟨את⟩ ɓiɓɓe Israa'iil to Tulde Pinaaje ɗen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pamarɗe"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "sunnini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Tulde"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Pinaaje ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:12:10.552902187Z",
+  "model": "glm-5.3"
+}

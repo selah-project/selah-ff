@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Fir'awn yaawi noddi Muusaa e Haaruuna; o wi'i: Miɗo ƴamii Yaawe, Eloohim mon on, e mon.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "yaawi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awn"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "e Haaruuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "miɗo ƴamii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon on"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "e mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:07.303554654Z",
+  "model": "glm-5.3"
+}

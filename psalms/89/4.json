@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Mi taƴii jokkorde fii suɓaaɗo am; mi woŋŋii fii Daawuuda maccuɗo am.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Mi taƴii"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "jokkorde"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "fii suɓaaɗo am"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi woŋŋii"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:09.202386213Z",
+  "model": "glm-5.3"
+}

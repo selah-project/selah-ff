@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ko Yowzabad ɓiy Shimat e Yehowzabad ɓiy Shomer, jeyaaɓe makko on, fiyi mo; o maayi, ɓe ngubbii ⟨את⟩ mo e baabiraaɓe makko e wuro Dawuud; ɓiy makko Amatsya laamii e nokku makko.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Yowzabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Shimat"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "Yehowzabad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko on"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "fiyi mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ngubbii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamii"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy makko"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e nokku makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:34.733075649Z",
+  "model": "glm-5.3"
+}

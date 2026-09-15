@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono noon, goonga, wonde ko miin go'el, kono tawa go'el ɓadiiɗo ina woodi ɓuri miin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kono noon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "go'el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "miin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kono tawa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ina woodi"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "go'el"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ɓadiiɗo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ɓuri miin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:40.376219733Z",
+  "model": "glm-5.3"
+}

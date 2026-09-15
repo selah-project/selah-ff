@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "Nde Eloohim ummii fii ⟨ñaawoore⟩, fii hisnude kala cuurbiiɓe leydi ndin. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "nde o ummii"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fii ñaawoore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "fii hisnude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "cuurbiiɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:39.508164279Z",
+  "model": "glm-5.3"
+}

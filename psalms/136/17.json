@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Mo fi'i laamɓe mawɓe, fii hesed makko ena duumi haa duumi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Mo fi'i"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:51.049134075Z",
+  "model": "glm-5.3"
+}

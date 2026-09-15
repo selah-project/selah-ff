@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "E nagge walla mbaawaari — ⟨את⟩ mum e ⟨את⟩ ɓiyum — wata on warja ñalnde goote.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "e nagge"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "שה",
+      "gloss": "mbaawaari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiyum"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "on warja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "goote"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:19.086486431Z",
+  "model": "glm-5.3"
+}

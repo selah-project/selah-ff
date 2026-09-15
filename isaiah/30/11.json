@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ndaccu e laawol ngol, durnu e laawol yahuu ngol, ittu e yeeso amen ⟨את⟩ Kaddu Israayiil.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ndaccu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "e"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "durnu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laawol yahuu"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "ittu"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "e yeeso amen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaddu Israayiil"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kaddu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:13.800455030Z",
+  "model": "glm-5.3"
+}

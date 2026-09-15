@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Gite Yaawe ɗen ko e deeɗuɓe ɓen, e pelle makko ko e nodeende maɓɓe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Gite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko e"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "deeɗuɓe ɓen"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "e pelle makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ko e"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "nodeende maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:32.432954057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "A dawlaande Daawuuda: wata a ɓuurno hakke e bonɓe ɓen, wata a heɓo muusɗam e gollooɓe tooñande ɓen.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "dawlaande Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "a ɓuurno hakke"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "e bonɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "a heɓo muusɗam"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "e gollooɓe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tooñande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:49.485228966Z",
+  "model": "glm-5.3"
+}

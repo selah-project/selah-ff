@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Woni yimɓe leydi ndin nattinii juuɗe yimɓe Yahuuda ɓen, ɓe wolli ɓe cikkere ⟨את⟩ mahgol ngol.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nattinii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ɓe wolli ɓe cikkere"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "yimɓe Yahuuda ɓen"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahgol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:00.811033927Z",
+  "model": "glm-5.3"
+}

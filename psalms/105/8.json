@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O siiftorii haa duumiayru ndun jeyngal Makko; konngol ngol o yamiri haa ujunnaaje duuɓi leydi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "O siiftorii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiayru ndun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "jeyngal Makko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o yamiri"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "haa ujunnaaje"
+    },
+    {
+      "surface": "דור",
+      "gloss": "duuɓi leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:37.415902729Z",
+  "model": "glm-5.3"
+}

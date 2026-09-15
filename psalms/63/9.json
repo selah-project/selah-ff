@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Nafsi am ɓadtinii caggal maa; e maayeru junngo maa ñaamo ngo sowitii mi.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ɓadtinii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi am"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "caggal maa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e maayeru am"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "sowitii"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "junngo maa ñaamo ngo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:38.906570146Z",
+  "model": "glm-5.3"
+}

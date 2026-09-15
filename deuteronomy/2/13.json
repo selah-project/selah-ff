@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Nono ummitee, kañum en ŋakkir laawol Zered ngol ⟨את⟩. Min njahrii ⟨את⟩ laawol Zered ngol.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nono"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ummitee"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ŋakkir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kañum en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol Zered ngol"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "njahrii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol Zered ngol"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:09.483536077Z",
+  "model": "glm-5.3"
+}

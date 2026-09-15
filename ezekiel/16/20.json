@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɗaɓɓiti kadi ⟨את⟩ ɓiɗɓe maa worɓe e ⟨את⟩ ɓiɗɓe maa rewɓe, ɗi danyuɗaa kam, waɗirtaa ɓe ceñagol ɓe ñaame; famɗere wonii meereenu maa?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Ɗaɓɓiti kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe maa worɓe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɗɓe maa worɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe maa rewɓe"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "ɓiɗɓe maa rewɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "danyuɗaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "waɗirtaa ɓe ceñagol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ɓe ñaame"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "famɗere wonii"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "meereenu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:27:43.450355349Z",
+  "model": "glm-5.3"
+}

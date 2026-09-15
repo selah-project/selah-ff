@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim liggini gese Edene, to fuɗnaange, o watti to ɗoon ⟨את⟩ aadamaajo on mo o mooftunoo.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "liggini gese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "gese"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Edene"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "to fuɗnaange"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o watti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamaajo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaajo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "o mooftunoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:34.003341465Z",
+  "model": "glm-5.3"
+}

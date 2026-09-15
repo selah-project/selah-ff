@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Fii nde ɓe re'nata laabi mun ɗin, e toraaji mun ɗin ɓe ndaranite. Yettin-Ƴe Yaah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Fii nde"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ɓe re'nata"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "laabi mun ɗin"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "e toraaji mun ɗin"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ɓe ndaranite"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Yettin-Ƴe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:05.566649979Z",
+  "model": "glm-5.3"
+}

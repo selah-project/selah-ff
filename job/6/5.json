@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Hol pere yinita dow pur? Hol nagge ɓuuɓa dow belilo mun?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "yinita"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "pere"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "pur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hol"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ɓuuɓa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "belilo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:30.197533784Z",
+  "model": "glm-5.3"
+}

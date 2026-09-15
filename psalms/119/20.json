@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Nafsi am peccii e yiɗde, faade e ñaawooje maa, sahaa kala.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "peccii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi am"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "e yiɗde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawooje maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:38.150712067Z",
+  "model": "glm-5.3"
+}

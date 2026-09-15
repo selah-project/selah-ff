@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "E ɗoon e jooni, ñaamu e Yaawe fii am: wanaa ñaamo-ɗaa ⟨את⟩ dayngu am ɓaawo am, wanaa halki-ɗaa ⟨את⟩ innde am e nder suudu baaba am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "E ɗoon e jooni"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ñaamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ñaamo-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dayngu am"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "dayngu am"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo am"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "halki-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde am"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e nder suudu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:17.850480817Z",
+  "model": "glm-5.3"
+}

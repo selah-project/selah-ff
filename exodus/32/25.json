@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Mosheh yi'i ⟨את⟩ yimɓe ɓen, tawa ɓe ngoppitaama, sabu Aarona woppiti ɓe fii tuunnde wonande dartooɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ɓe ngoppitaama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "woppiti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarona"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "fii tuunnde"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "wonande dartooɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:46.405701922Z",
+  "model": "glm-5.3"
+}

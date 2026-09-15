@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓe ngaddi ⟨את⟩ ƴi'e maɓɓe ɗen, ɓe ngunaama ɗum les aashel ngel to Yabeesa, ɓe ñoomi balɗe jeeɗiɗo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe ngaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e maɓɓe ɗen"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ƴi'e maɓɓe ɗen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ngunaama ɗum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "aashel ngel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "to Yabeesa"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ɓe ñoomi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:26.335029710Z",
+  "model": "glm-5.3"
+}

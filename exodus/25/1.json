@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yaawe wii e Musa, wiyu—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyu—"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:22.257150787Z",
+  "model": "glm-5.3"
+}

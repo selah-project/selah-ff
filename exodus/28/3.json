@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Kadi a haalan ɓe hakkeeji muuyka laaɓuɓe ɗin, ɗi mi heltini ruuhu hikima, ɓe mbaɗa ⟨את⟩ comci Aharona fii laaɓnude mo, fii waɗde mo almuudo Am.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kadi a"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "hakkeeji"
+    },
+    {
+      "surface": "לב",
+      "gloss": "muuyka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "mi heltini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikima"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ɓe mbaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci Aharona"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "comci"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "fii laaɓnude mo"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "fii waɗde mo almuudo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:50.058984118Z",
+  "model": "glm-5.3"
+}

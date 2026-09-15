@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "On majjay e nder leƴƴi ɗin, leydi ayɓe mon ñamoy ⟨את⟩ on.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "on majjay"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder leƴƴi ɗin"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ñamoy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ayɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:02.525020366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kooto on laatiima ⟨hay huunde⟩; on yiyi kulol, on kulii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kooto"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "on laatiima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "on yiyi"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "on kulii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:20.788845957Z",
+  "model": "glm-5.3"
+}

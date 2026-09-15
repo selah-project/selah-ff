@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Jawdi tooñande nafataa; kono gunaaku hisnana ⟨e⟩ maayde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nataa"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "nafata"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tooñande"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kono gunaaku"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "hisnana"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "maayde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:22.995673510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Imre maa nden laaɓtinaama haa ŋakkataa, ko ɗum waɗi jeyaaɗo maaɗa mo yiɗi ɗum.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "laaɓtinaama"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Imre maa nden"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "haa ŋakkataa"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ko ɗum waɗi jeyaaɗo maaɗa"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "mo yiɗi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-15T06:04:01.466093802Z",
+  "model": "glm-5.3"
+}

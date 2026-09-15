@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Hoto dañu heen heddii haa subaka; ko heddii heen haa subaka, nder yiite njujjitoɗon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hoto"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "dañu heddii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nder yiite"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "njujjitoɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:25.560758812Z",
+  "model": "glm-5.3"
+}

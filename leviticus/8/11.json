@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O fewni heen dewe e dow kelmal nden joweetooje, o muurniri ⟨את⟩ kelmal ngal e ⟨את⟩ kuutorɗe makko fof, e ⟨את⟩ ɓuuɓru ndu e ⟨את⟩ junnde mayre, fii cenaynde ɗe.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "o fewni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kelmal ngal"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "joweetooje"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dewe"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "o muurniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelmal ngal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kelmal ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe makko fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓuuɓru ndu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ɓuuɓru ndu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "junnde mayre"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "junnde mayre"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "fii cenaynde ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:57.111460347Z",
+  "model": "glm-5.3"
+}

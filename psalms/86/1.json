@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Tefilla Daawuuda. Tippin nanngu maa, Yaawe, jaaba mi, fii mi woni ŋakkaaɗo e bayɗo, kanko mi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tefilla"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tippin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nanngu maa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaaba mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkaaɗo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e bayɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kanko mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:30.166718102Z",
+  "model": "glm-5.3"
+}

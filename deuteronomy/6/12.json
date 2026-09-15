@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Reeno hoore maa, wata yejjitu ⟨את⟩ Yaawe, mo o yaltini Misrayim, e saare maccuɓe",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "reeno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "yejjitu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "o yaltini ma"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "maccuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:15.990869293Z",
+  "model": "glm-5.3"
+}

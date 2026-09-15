@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O wartirii ⟨את⟩ jawdi ndi fuu, e wana ⟨את⟩ Lot miñiiko — jawdi mun kadi o wartirii — e wana ⟨את⟩ rewɓe ɓen e ⟨את⟩ yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o wartirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawdi ndi fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot miñiiko"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "e jawdi mun"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "o wartirii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe ɓen"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:51.886236895Z",
+  "model": "glm-5.3"
+}

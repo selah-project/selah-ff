@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i mo: Mi yahaa; so wonaa feewde leydi am e feewde jibinannde am mi ñoññortoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "leydi am"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e feewde"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "jibinannde am"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi ñoññortoo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:54.753582018Z",
+  "model": "glm-5.3"
+}

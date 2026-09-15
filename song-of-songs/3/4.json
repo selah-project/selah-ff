@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Seeɗa tan mi dawii e maɓɓe, haa mi tawiri ⟨את⟩ mo ɓernde am yiɗi; mi nanngi mo, wanaa mi acca mo, haa mi naatni mo to suudu yumma am, e to suudu nderndu nde reeni mi.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Seeɗa tan"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "mi dawii"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "mi tawiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo ɓernde am yiɗi"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "mo ... yiɗi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "mi nanngi mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "mi acca mo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "mi naatni mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "suudu nderndu"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "nde reeni mi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:55:03.214590092Z",
+  "model": "glm-5.3"
+}

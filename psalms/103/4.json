@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Ko o ñaawtooowo wursugol nguurndam maa, ko o ɓoorninoowo maa kolɗam hesed e yurmeende.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "ñaawtooowo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "wursugol"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "nguurndam maa"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "ɓoorninoowo maa kolɗam"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "e yurmeende"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:49.106962950Z",
+  "model": "glm-5.3"
+}

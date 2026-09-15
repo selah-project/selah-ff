@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Ñiiɓde ñiiɓiimi Yaawe, o wañii ɗo fayde am, o nanii wullere am.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ñiiɓde"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ñiiɓiimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o wañii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ɗo fayde am"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "wullere am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:46.334704307Z",
+  "model": "glm-5.3"
+}

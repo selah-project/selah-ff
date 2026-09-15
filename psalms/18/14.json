@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe walaa e kammuuli ɗin, kadi Elyoon funnii daande makko — emboore e kulorol yiite.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli ɗin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "kadi Elyoon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "funnii"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "emboore"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "e kulorol"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:57.520253109Z",
+  "model": "glm-5.3"
+}

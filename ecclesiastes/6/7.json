@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Junjie neɗɗo on fuu ko fii hunre mun; kadi nefo on horraani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "junjie"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "fii hunre mun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "horraani"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:29.428225990Z",
+  "model": "glm-5.3"
+}

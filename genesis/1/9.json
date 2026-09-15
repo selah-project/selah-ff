@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E Eloohim wi'i: ɗon mooftu ndiyam ɗin les kammuuli ɗin ka nokkuure wootere, ɗon feeñu leydi-yeeyde ndin; ko non wonii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ɗon mooftu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokkuure"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ɗon feeñu"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "leydi-yeeyde ndin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:48.774452434Z",
+  "model": "glm-5.3"
+}

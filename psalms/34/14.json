@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Reenu kelme maaɗa ɗen bonɗe, e leppi maaɗa ɗen, wanaa ɓe kaalda fenaande.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Reenu"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "kelme maaɗa ɗen"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "bonɗe"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "e leppi maaɗa ɗen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wanaa ɓe kaalda"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:32.431864816Z",
+  "model": "glm-5.3"
+}

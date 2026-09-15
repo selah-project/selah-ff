@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O hawrini ⟨את⟩ kelli joy seernda, e ⟨את⟩ kelli jeegom seernda.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "o hawrini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelli joy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "joy"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "seernda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kelli jeegom"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kelli"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "seernda"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:57.969143375Z",
+  "model": "glm-5.3"
+}

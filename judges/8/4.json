@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Gidon ari to Yorden, o taƴi ɗum — kanko e worɓe teemedere tato ɓe wonnoo ⟨את⟩ makko — ɓe hiiɗi, kono ɓe ndewi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "to Yorden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o taƴi ɗum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e tato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "makko"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ɓe hiiɗi"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "ɓe ndewi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:03.503902416Z",
+  "model": "glm-5.3"
+}

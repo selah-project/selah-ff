@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yi'u, mi nena Basa'a e galle makko fuu, mi waɗan galle maa ⟨את⟩ hono no galle Yarobeam ɓiy Nebaat woniri.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "yi'u"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "mi nena"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "e"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basa'a"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle makko fuu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle maa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "galle maa"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "hono no galle"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebaat"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:01.750824810Z",
+  "model": "glm-5.3"
+}

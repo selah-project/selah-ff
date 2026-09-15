@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Mizmor. Yimmoruɗon fii Yaawe yimre hesere, sabu o waɗi kesi marɗe; ñaawoore nden laawtoraama mo junngo mun ñaamo ngoo e gorol mun ceniiɗol ngol.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "yimmoruɗon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kesi marɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ñaawoore nden laawtoraama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "junngo mun ñaamo ngoo"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "e gorol"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ceniiɗol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:08.236407914Z",
+  "model": "glm-5.3"
+}

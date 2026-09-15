@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Dawuud wi'i: “Mbadda ɓe jeyɓe Keyila ⟨את⟩ am e ⟨את⟩ worɓe am e junngo Shaa'uul?” Yaawe wi'i: “Mbaddata.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Mbadda"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ɓe jeyɓe"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keyila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "worɓe am"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe am"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Mbaddata"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:59.277616584Z",
+  "model": "glm-5.3"
+}

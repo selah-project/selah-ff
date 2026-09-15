@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Leƴƴi ɗin mbaɗa yahde faade e laylaytol maa, e laamɓɓe faade e jalbol tolnaare maa.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "mbaɗa yahde"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "faade e laylaytol maa"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "laamɓɓe"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "faade e jalbol"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "tolnaare maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:17:14.510799964Z",
+  "model": "glm-5.3"
+}

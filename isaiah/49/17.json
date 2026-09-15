@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ɓiɗɓe maa ɗen mawnitoo; halkooɓe maa ɗen e bonnooɓe maa ɗen njaltata e maa.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "mawnitoo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɗɓe maa ɗen"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "halkooɓe maa ɗen"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "e bonnooɓe maa ɗen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "njaltata"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:21.253963525Z",
+  "model": "glm-5.3"
+}

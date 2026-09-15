@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Sabu ⟨את⟩ on o Yaawe yiɗi, o ñiŋata mo; hono baaba ⟨את⟩ ɓiy mo o weltorii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on o (gorko mo Yaawe yiɗi)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on o"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "o ñiŋata mo"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "hono baaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "mo o weltorii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:08.336695506Z",
+  "model": "glm-5.3"
+}

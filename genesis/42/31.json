@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Min wi'i mo: en ⟨en⟩ wirniyankooɓe, en ngonaano fuɗotooɓe.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "min wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "wirniyankooɓe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñanaano"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "en ngonaano"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "fuɗotooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:30.739045137Z",
+  "model": "glm-5.3"
+}

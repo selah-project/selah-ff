@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "A winnday dow leɗɗe ɗen ⟨את⟩ konngi Toraa ndee fuu, enndu no laaɓiri.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "a winnday"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "leɗɗe ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Toraa ndee fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa ndee"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "באר",
+      "gloss": "enndu"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "no laaɓiri"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:04.526130157Z",
+  "model": "glm-5.3"
+}

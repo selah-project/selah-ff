@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Shaul jogii mo ñalnde nden, o accaani mo artude suudu baaba mun.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "jogii mo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o accaani"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "accaani"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "artude"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:29.541457500Z",
+  "model": "glm-5.3"
+}

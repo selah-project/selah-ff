@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "E derde am ɓe mbeldii, ɓe mooɓii hoore maɓɓe; ɓoynooɓe ɓe mi anndaani ɓe mooɓii hoore maɓɓe am; ɓe noƴƴini kam, ɓe dartinaani.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "e derde am"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ɓe mbeldii"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ɓe mooɓii hoore maɓɓe"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ɓe mooɓii hoore maɓɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ɓoynooɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaani"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ɓe noƴƴini kam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ɓe dartinaani"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:11.476092079Z",
+  "model": "glm-5.3"
+}

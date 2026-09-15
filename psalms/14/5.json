@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe ɗon ɓoya-ɗon ɗoo kulol mawngol, sabu Eloohim woni ko e duumiire ⟨a⟩ laaɓuɓe.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ɓe ɓoyii kulol"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol mawngol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "e duumiire"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "laaɓuɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:49.566674854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mi waɗan am seedeeɓe goonguɓe ⟨את⟩ Uuriyaa almuudo ɗemngal, e ⟨את⟩ Sekarjaa ɓiy Yeberekjaa.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "mi waɗan seedeeɓe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "seedeeɓe"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "goonguɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriyaa almuudo ɗemngal"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uuriyaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuudo ɗemngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Sekarjaa ɓiy Yeberekjaa"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Sekarjaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeberekjaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:44.890778576Z",
+  "model": "glm-5.3"
+}

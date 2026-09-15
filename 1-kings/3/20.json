@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O ummiima hakkunde jemma on, o ƴetti ⟨את⟩ ɓiɗɗo am ɗo wonnoo ɓadiiɓe am — tawi maccuɗo maa ɗaaniima — o lelni mo e dow ɓernde makko; ⟨את⟩ ɓiɗɗo mum maayɗo on o lelni mo e dow ɓernde am.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "jemma on"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ɓadiiɓe am"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "maccuɗo maa"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ɗaaniima"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "o lelni mo"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "e dow ɓernde makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo mum maayɗo on"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiɗɗo mum"
+    },
+    {
+      "surface": "המת",
+      "gloss": "maayɗo"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "o lelni"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "e dow ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:44.403683927Z",
+  "model": "glm-5.3"
+}

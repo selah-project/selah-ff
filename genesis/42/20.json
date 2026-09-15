@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Mawni mon ɓurɗo suɓde on addan ⟨את⟩ mo; konngi mon ɗin tabitinee, onon on rewraa. Ɓe ndeeƴi non.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mawni mon ɓurɗo suɓde"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "mawni mon"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ɓurɗo suɓde"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "addan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mo (e am)"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "tabitinee"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "konngi mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "onon on rewraa"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "rewraa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Ɓe ndeeƴi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:21.954279969Z",
+  "model": "glm-5.3"
+}

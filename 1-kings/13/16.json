@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O wi'i: «Mi waawi waasde ruttaade ⟨את⟩ e maa e naatde ⟨את⟩ e maa; mi ñaamataa ñameendi, mi yarataa ⟨את⟩ e maa ndiyam e nokku oon.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ruttaade"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa",
+      "marks": "e maa (e maa)"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "e naatde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa",
+      "marks": "e maa (e maa)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaame"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameendi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "yar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa",
+      "marks": "e maa (e maa)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:06.173615288Z",
+  "model": "glm-5.3"
+}

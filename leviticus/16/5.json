@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "E dow ⟨את⟩ kawral ɓiɓɓe Israa'iil o ƴettu ɓiy-be'e ɗiɗo wuroore fii dewinde-baasal, e hoore boodo gooto fii naral-honndu.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "e dow ⟨את⟩",
+      "marks": "kawral ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o ƴettu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ɓiy-be'e"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wuroore"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "fii dewinde-baasal"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "e hoore boodo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gotoo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "fii naral-honndu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:00.040575250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Woodi maayo, pellu maggu ɗin mbaɗata welto wuro Eloohim, nokku ceniiɗo hoɗordeeji Eel Elyoon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "pellu maggu ɗin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mbaɗata welto"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nokku ceniiɗo"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "hoɗordeeji"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eel Elyoon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:55.030540242Z",
+  "model": "glm-5.3"
+}

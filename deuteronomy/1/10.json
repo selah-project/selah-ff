@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe Eloohim mon'on ɓeydiino ⟨את⟩ mon'on, e ƴeew, on woni hannde no wana koode kammuuli ɗin e keewal.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon'on"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ɓeydiino"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon'on",
+      "marks": "mon'on"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "e ƴeew, on woni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "no wana koode"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "e keewal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:17.175551580Z",
+  "model": "glm-5.3"
+}

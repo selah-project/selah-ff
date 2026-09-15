@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Ndewri maa ndin, Eloohim, haa to toyre ɗen; a waɗi ko mawni — Eloohim, hol mo nanndi e maa?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "ndewri maa ndin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanaa haa to"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "toyre ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "a waɗi"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ko mawni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol mo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nanndi e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:45.912887768Z",
+  "model": "glm-5.3"
+}

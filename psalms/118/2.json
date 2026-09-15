@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 118,
+  "translation": "Wujuɓe Israayiil mbi'u: sabu haa duumiɗi hesed makko.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "mbi'u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Wujuɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiɗi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:14.765436775Z",
+  "model": "glm-5.3"
+}

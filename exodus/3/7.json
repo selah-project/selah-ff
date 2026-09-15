@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe wi'i: “Ƴeewde ƴeewii-mi ⟨את⟩ meeteere yimɓe am wonduɓe e Misrayim, e ⟨את⟩ dollere maɓɓe nani-mi ko sabu ñaaƴooɓe makko ɓee, sabu mi anndi ⟨את⟩ mette mun.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ƴeewde"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi ƴeewii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meeteere yimɓe am"
+    },
+    {
+      "surface": "עני",
+      "gloss": "meeteere"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonduɓe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dollere maɓɓe"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "dollere maɓɓe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ko sabu"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ñaaƴooɓe makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mette mun"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "mette mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:09.814902856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Cebiɗe maayde ndarii lam, e ɓulli Beliyaal ɓoornii lam kulol.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ndarii lam"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "cebiɗe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "e ɓulli"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaal"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ɓoornii lam kulol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:52.601685570Z",
+  "model": "glm-5.3"
+}

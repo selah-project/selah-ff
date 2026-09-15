@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Bone mawnde mettinii Yona, o yeri noomum.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "mettinii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "o yeri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "noomum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:31.646887034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Mi uddaali woɗɗaani mi udditiraali daande am; kanko a, a tagi ɗum.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "mi uddaali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woɗɗaani"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "mi udditiraali"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "a tagi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:17.998615423Z",
+  "model": "glm-5.3"
+}

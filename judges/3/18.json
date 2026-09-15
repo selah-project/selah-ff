@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Tuma nde o gasi naatnude ⟨את⟩ dokkal ngal, o neldi ⟨את⟩ yimɓe ɓen wirnooɓe dokkal ngal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "o gasi"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "naatnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal ngal"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dokkal ngal"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "wirnooɓe"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dokkal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:24:13.090683986Z",
+  "model": "glm-5.3"
+}

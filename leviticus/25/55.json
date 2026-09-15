@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Fii ko ɓiɓɓe Israa'iila jeyaaɓe minen nii; maaɓe ko jeyaaɓe am, ɗi min yaltini ⟨את⟩ ɓe e leydi Misrayim; miin Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jeyaaɓe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɓe am"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "min yaltini"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:50.175581064Z",
+  "model": "glm-5.3"
+}

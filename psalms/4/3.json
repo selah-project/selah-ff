@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓiɓɓe worɓe, haa nde boo teddungal am waɗetee yerƴere? Foññere on ngiɗon, =aare on ɗaɓɓiton, Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa nde boo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "teddungal am"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "waɗetee yerƴere"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ngiɗon"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "foññere"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ɗaɓɓiton"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "=aare"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:42.904064018Z",
+  "model": "glm-5.3"
+}

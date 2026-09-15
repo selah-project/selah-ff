@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Muññinee-dewen hoore mon, e won'den muññaaɓe, ko waɗi ko mi Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "muññinee-dewen"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "won'den"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muññaaɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:22.663410604Z",
+  "model": "glm-5.3"
+}

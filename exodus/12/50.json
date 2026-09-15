@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓiɓɓe Israa'iil fuu ndaru no Yaawe amariri Muusaa ⟨את⟩ e ⟨את⟩ Haaruun; ko non ɓe ndaru.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe ndaru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amariri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Haaruun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haaruun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe ndaru"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:19.473071925Z",
+  "model": "glm-5.3"
+}

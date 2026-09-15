@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ko non Adonaay Yaawe wi'i: mi na yaajnirta ⟨את⟩ layngol am dow ma, e kaaldude yimɓe heewɓe, ɓe ƴettirta ma e nder layngol am.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko non"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "mi na yaajnirta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layngol am"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "layngol am"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "e kaaldude"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heewɓe"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "ɓe ƴettirta ma"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "e nder layngol am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:48:44.661815226Z",
+  "model": "glm-5.3"
+}

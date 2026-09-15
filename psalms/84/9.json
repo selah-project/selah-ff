@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Yaawe, Eloohim cewɓe, nano ngamduwaango am; heɗit, Eloohim Yaaqoob. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "cewɓe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nano"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ngamduwaango am"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "heɗit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqoob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:36.989080126Z",
+  "model": "glm-5.3"
+}

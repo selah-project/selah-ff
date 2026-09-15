@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Tawi ɓe ngenti e maa ñaawoore; ɓe caɗinii peeje bonɗe, kono ɓe mbaawaa ɗum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ɓe ngenti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ɓe caɗinii"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "peeje bonɗe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kono"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ɓe mbaawaa ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:45.502824072Z",
+  "model": "glm-5.3"
+}

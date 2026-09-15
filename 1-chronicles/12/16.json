@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɗeeɗoo ɓe ko ɓe penti ⟨את⟩ Yardiin ñalnde lewru arandeere, nde tawnoo nde ilii haa daaƴe mayre fuu, ɓe dogtini ⟨את⟩ yimɓe daawe ɗee fuu, feewde fuɗnaange e feewde hirnaange.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗeeɗoo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ɓe"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "penti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardiin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardiin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ñalnde lewru"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "arandeere"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nde tawnoo nde"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ilii"
+    },
+    {
+      "surface": "על",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "daaƴe mayre"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ɓe dogtini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe daawe ɗee fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "daawe ɗee"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "feewde fuɗnaange"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "e feewde hirnaange"
+    }
+  ],
+  "timestamp": "2026-09-14T10:58:49.943550181Z",
+  "model": "glm-5.3"
+}

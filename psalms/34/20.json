@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Boneeji keewi gunoɗo on, kono Yaawe daɗnii mo e ɗe fuu.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "keewi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "boneeji"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "gunoɗo"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "e ɗe fuu"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "o daɗnii mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:37.625801142Z",
+  "model": "glm-5.3"
+}

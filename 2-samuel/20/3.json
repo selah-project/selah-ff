@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 20:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Dawuda naati e suudu mun to Yerushalayim; laamɗo on nanngi ⟨את⟩ rewɓe sappo ɗen pilagshuuji ɓe o acci reende suudu ndun, o waɗi ɓe e suudu reennde, o waɗi ɓe nguura, kono o naataa e ɓe; ɓe ndaŋñaama haa ñalnde maayde mun, no wirbiyaaɓe nguurndu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe sappo ɗen pilagshuuji"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "pilagshuuji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "reende"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "o waɗi ɓe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reennde"
+    },
+    {
+      "surface": "ויכלכלם",
+      "gloss": "o waɗi ɓe nguura"
+    },
+    {
+      "surface": "ואליהם",
+      "gloss": "e ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o naataa"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "צררות",
+      "gloss": "ndaŋñaama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "maayde mun"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wirbiyaaɓe"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "nguurndu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:23.099639213Z",
+  "model": "glm-5.3"
+}

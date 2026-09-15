@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Ko o waɗunoo ngoo bonii e gite Yaawe, o wara kanko ⟨את⟩ noon.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "bonii"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗunoo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o wara"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kanko (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:12.426433068Z",
+  "model": "glm-5.3"
+}

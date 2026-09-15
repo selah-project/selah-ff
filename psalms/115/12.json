@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Yaawe siftorii min; o barkinay, o barkinay ⟨את⟩ galle Yisraa'iil, o barkinay ⟨את⟩ galle Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "siftorii min"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o barkinay"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o barkinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle Yisraa'iil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o barkinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.785712133Z",
+  "model": "glm-5.3"
+}

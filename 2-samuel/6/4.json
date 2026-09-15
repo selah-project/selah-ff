@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ƴelliti nde gila e saare Abinadaab, wonnde e Geeba, e sanne Eloohim; Ahiyo yahi yeeso sanne nden.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ɓe ƴelliti nde"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gila e saare"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadaab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "e Geeba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanne"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "Ahiyo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanne nden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:34.081175566Z",
+  "model": "glm-5.3"
+}

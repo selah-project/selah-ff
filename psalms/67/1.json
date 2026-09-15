@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Fii hooreejo jimɗi, e kuutoro duƴƴe; mizmor, jimo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii hooreejo jimɗi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "e kuutoro duƴƴe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "jimo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:10.615459030Z",
+  "model": "glm-5.3"
+}

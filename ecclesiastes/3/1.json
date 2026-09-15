@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Fii kala huunde sa'a, e sa'a fii kala yiɗere les kammuuli ɗin.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "fii kala huunde"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e sa'a"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:43.830725591Z",
+  "model": "glm-5.3"
+}

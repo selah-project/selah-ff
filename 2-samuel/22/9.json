@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ƴimri ƴawii e nderdditira mun, e yiite ummortaande e mun lelnii; gaasaaji ɓurnooji tawi ina njippoo e makko.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ƴawii"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ƴimri"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "e nderdditira mun"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ummortaande e mun"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "lelnii"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gaasaaji ɓurnooji"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "tawi ina njippoo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:04:24.257542481Z",
+  "model": "glm-5.3"
+}

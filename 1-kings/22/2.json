@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kadi e hitaande tataɓere nden, Yehooshafat laamɗo Yuuda nehii to laamɗo Israa'il.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadi wonii"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "tataɓere"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nehii"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'il"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:23.047676965Z",
+  "model": "glm-5.3"
+}

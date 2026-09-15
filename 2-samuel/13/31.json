@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Laamɗo on ummii, o yeewti ⟨את⟩ comci makko, o dairyi les leydi; kala jeyaaɓe makko darii, comci maɓɓe yeewtaaɗi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "o yeewti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci makko"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "comci makko"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o dairyi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "les leydi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "darii"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "yeewtaaɗi"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "comci"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:28.289365048Z",
+  "model": "glm-5.3"
+}

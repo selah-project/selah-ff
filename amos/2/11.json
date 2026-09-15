@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 2:11",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi umminii e ɓiɓɓe mon en annabaaɓe, e e sukaaɓe mon en naziraaɓe. Hara ngee wonaali ɗum, ɓiɗɓe Israa'iila? Konngol Yaawe.",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "mi umminii"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "e ɓiɓɓe mon"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "annabaaɓe"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "e e sukaaɓe mon"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "naziraaɓe"
+    },
+    {
+      "surface": "האף",
+      "gloss": "hara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wonaali"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:03.032678281Z",
+  "model": "glm-5.3"
+}

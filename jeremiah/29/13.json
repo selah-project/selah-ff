@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "A on ɗaɓɓitay am ⟨את⟩, on heɓay am, nde tawnoo ɗaɓɓitay am e ɓernde mon fuu.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "on ɗaɓɓitay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "on heɓay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawnoo"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ɗaɓɓitay am"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:19:17.587491677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "E nder ⟨leydi ndin⟩ fuu saaku mun yaltii, haa e keerol tevel konngi maɓɓe; fii naange o ⟨o⟩ waɗi nder majje ɓuuɓol.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltii"
+    },
+    {
+      "surface": "קום",
+      "gloss": "saaku mun"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "haa e keerol"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "konngi maɓɓe"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "fii naange o"
+    },
+    {
+      "surface": "שם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ɓuuɓol"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nder majje"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:09.044196433Z",
+  "model": "glm-5.3"
+}

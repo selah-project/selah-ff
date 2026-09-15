@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Ko noon Yaawe wi'i: Ɗo winndannde ceernoore yumma mon woni, ɗum mi neldi mo? Middo ɗaɓɓoowo on ko mi njeeyri on ⟨את⟩-on mo? Ɗoo, sabu baasi mon njeeyaama, sabu aggondaaji mon yumma mon neldaama.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "winndannde"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "ceernoore"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "yumma mon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "mi neldi mo"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "ɗaɓɓoowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "mi njeeyri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on (mon)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "sabu baasi mon"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "njeeyaama"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "sabu aggondaaji mon"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "neldaama"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "yumma mon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:17.717173403Z",
+  "model": "glm-5.3"
+}

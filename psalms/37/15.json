@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Nuƴƴe maɓɓe naata e ɓernde maɓɓe, kammuɗi maɓɓe kadi irtay.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "nuƴƴe maɓɓe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "naata"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "e ɓernde maɓɓe"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "kammuɗi maɓɓe kadi"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "irtay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:34.137568045Z",
+  "model": "glm-5.3"
+}

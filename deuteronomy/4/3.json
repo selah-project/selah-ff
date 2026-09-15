@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Gite mon laari-arii ⟨את⟩ ko Yaawe waɗi e Baal-Pegor; godo gorko fof rewindoowo caggii Baal-Pegor, Yaawe Eloohim maa momti mo e hakkunde mon.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "gite mon"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "laari-arii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "e Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pegor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "godo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gorko fof"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rewindoowo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "rewi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggii"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pegor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "momti mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "e hakkunde mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:52.361442338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "A welti Yaawe, leydi maa ndin; a ruttitinii nano Yaakob.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "a welti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa ndin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a ruttitinii"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nano (ruttoore)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:47.316228970Z",
+  "model": "glm-5.3"
+}

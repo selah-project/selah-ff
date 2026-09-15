@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 23:12",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kono so ruttoton tigi, aɗondirta e ko heddii e ɗee leƴƴi, ɗee ⟨את⟩e mon heddaaɗe, ɓe ndewirta ɓe e nder dewgal, naatoton e ɓe, ɓe kadi e on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "rutto"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "ruttoton"
+    },
+    {
+      "surface": "ודבקתם",
+      "gloss": "aɗondirta"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "e ko heddii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "heddaaɗe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩e mon",
+      "marks": "ɗee leƴƴi ɗee heddaaɗe"
+    },
+    {
+      "surface": "והתחתנתם",
+      "gloss": "ɓe ndewirta ɓe e nder dewgal"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɓe"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "naatoton"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɓe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ɓe kadi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:06.009557306Z",
+  "model": "glm-5.3"
+}

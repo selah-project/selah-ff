@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Fuu nden yahi to nokku wootu; fuu nden ⟨woni⟩ ummiiɗo e mbuuri, fuu nden ruttii to mbuuri ndi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "fuu nden"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "fuu nden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨woni⟩ ummiiɗo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mbuuri"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "fuu nden"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ruttii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mbuuri ndi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:41.624312701Z",
+  "model": "glm-5.3"
+}

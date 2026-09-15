@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Baabiraaɓe amen, e Misrayim, ɓe yi'iraani laaɓtuɗe majjal maa, ɓe ciftoraani ⟨את⟩ keewal hesed maa; ɓe muñanii no feewi e maayo, e maayo Suuf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe yi'iraani"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "laaɓtuɗe"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "majjal maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe ciftoraani"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ɓe ciftoraani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keewal hesed maa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ɓe muñanii no feewi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "בים",
+      "gloss": "e maayo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:49.985642797Z",
+  "model": "glm-5.3"
+}

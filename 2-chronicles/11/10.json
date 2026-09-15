@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e ⟨את⟩ Tsoraah, e ⟨את⟩ Ajalon, e ⟨את⟩ Hevron, ɗe ngonirta e Yahuuda e nder Bunyamin — gure fortiniraaɗe",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsoraah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoraah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe ngonirta"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "e nder Bunyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "fortiniraaɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T13:06:13.352885823Z",
+  "model": "glm-5.3"
+}

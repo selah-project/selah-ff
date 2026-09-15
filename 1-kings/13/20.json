@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Nde ɓe ngoni ⟨ko⟩ collirooɓe to lewru ndin, konngol Yaawe arii e annabi on ɗum artu-daa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ngoni collirooɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lewru ndin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "artu-daa mo",
+      "marks": "o (gorko Eloohim on)"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:38.976418940Z",
+  "model": "glm-5.3"
+}

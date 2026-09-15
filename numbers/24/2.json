@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Bilam tuynii ⟨את⟩ gite mun, o yi'i ⟨את⟩ Israa'il hoɗoowo e leƴƴi mun; Ruuhu Eloohim arii e dow makko.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "tuynii"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gite mun"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gite mun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'il"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "hoɗoowo"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "e leƴƴi mun"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:45.315643369Z",
+  "model": "glm-5.3"
+}

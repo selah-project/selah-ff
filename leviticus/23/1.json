@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yaawe haali Moosaa, wi'u:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'u"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:20.581586775Z",
+  "model": "glm-5.3"
+}

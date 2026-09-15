@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ɓiɓɓe Lewi'en ɓen ndarii ⟨את⟩ sandu Eloohim on, no Musa jamiri, e konngol Yaawe, e ɓerɗe mun ɗen e ɓoggirɗe ɗen dow mun.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ndarii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi'en ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandu Eloohim on"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim on"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "jamiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "e konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "e ɓerɗe mun ɗen"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "e ɓoggirɗe ɗen"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:59:10.731299527Z",
+  "model": "glm-5.3"
+}

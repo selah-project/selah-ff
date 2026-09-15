@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 75,
+  "translation": "Kono noon Eloohim ko ñaawoowo; o waɗa goto les, o toowna goɗɗo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono noon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ko ñaawoowo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "goto"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "o waɗa les"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "e goɗɗo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o toowna"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:32.742642934Z",
+  "model": "glm-5.3"
+}

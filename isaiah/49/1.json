@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Njanngu, duuji, e am, e nanngu, leƴƴi, ummoriiɗi woɗɗu; Yaawe noddii min gila reedu, gila nder taannde yumma am o waajorii innde am.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "njanngu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "duuji"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "e nanngu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ummoriiɗi woɗɗu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gila reedu"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "noddii min"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "gila nder taannde"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "o waajorii"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:08.884815639Z",
+  "model": "glm-5.3"
+}

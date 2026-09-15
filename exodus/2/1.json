@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndeen gorko gooto ummoriiɗo e suudu Leviyi yahi, o ƴetti ⟨את⟩ ɓiɗɗo debbo Leviyi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko gooto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ummoriiɗo e suudu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leviyi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo debbo Leviyi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leviyi"
+    }
+  ],
+  "timestamp": "2026-09-15T05:41:35.119005010Z",
+  "model": "glm-5.3"
+}

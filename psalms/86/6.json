@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Nanuu, Yaawe, juulde am; e ɗaɓɓit e daande ɗaanaaɓe am.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Nanuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "juulde am"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "e ɗaɓɓit"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "ɗaanaaɓe am"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:50.920922772Z",
+  "model": "glm-5.3"
+}

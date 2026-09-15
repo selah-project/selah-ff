@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Adama anndi kadi ⟨את⟩ debbo mun, o dañi ɓiɗɗo gorko, o inniri ⟨את⟩ innde mun Set, sabu Eloohim waɗii min ɓiɗɗo goɗɗo ñaami Hevel, sabu Kayina warri mo.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo mun"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o inniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שת",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ñaami"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "warri"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayina"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:28.525756103Z",
+  "model": "glm-5.3"
+}

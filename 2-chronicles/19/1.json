@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yehosafat laamɗo Yahuuda ruttii e galle mun e jam haa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ruttii"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "haa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:17:42.669864185Z",
+  "model": "glm-5.3"
+}

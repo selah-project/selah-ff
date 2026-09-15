@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndiyam ɗin ngonnoo ko yahude e ustude haa lewru sappooɓuru; e lewru sappooɓuru, ñalande wootere e lewru ndun, pewje pelle ɗen njiiraandi.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ndiyam ɗin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngonnoo ko"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yahude"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "e ustude"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "sappooɓuru"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "e lewru sappooɓuru"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ñalande wootere"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru ndun"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "njiiraandi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pewje"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "pelle ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:19.465283335Z",
+  "model": "glm-5.3"
+}

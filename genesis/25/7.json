@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɗee ko balɗe duuɓi nguurdam Awraham ɗin ɗo o wuuri: duuɓi teemedere e cappoɗe jeeɗiɗe e ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurdam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "o wuuri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "cappoɗe jeeɗiɗe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:25.979003737Z",
+  "model": "glm-5.3"
+}

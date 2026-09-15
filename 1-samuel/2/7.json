@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe bonnay jawdi e ɓuray-heende, o hoyinay, kadi o ɗaftinay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "bonnay jawdi"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ɓuray-heende"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "o hoyinay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "o ɗaftinay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:35:20.009623082Z",
+  "model": "glm-5.3"
+}

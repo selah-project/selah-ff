@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Kulol e cemmbe na'i e am, alluuju cuɗii lam.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "e cemmbe"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "cuɗii lam"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "alluuju"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:33.736619798Z",
+  "model": "glm-5.3"
+}

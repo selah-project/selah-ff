@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Yo wuro Siyon weltin, ɓiɗɓe rewɓe Yuuda pawtir, sabu ñaawooje maa.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "weltin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "pawtir"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɗɓe rewɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawooje maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:03.698341463Z",
+  "model": "glm-5.3"
+}

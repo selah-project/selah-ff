@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O egginii Yehoyakin to Babel — o yaltini ⟨את⟩ ɓe eggude ummoraade Yerushalayim fayde Babel — e ⟨את⟩ yumma laamɗo on, e ⟨את⟩ rewɓe laamɗo on, e ⟨את⟩ sarwisaaji makko, e ⟨את⟩ doole leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "o egginii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "to Babel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma laamɗo on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "rewɓe laamɗo on"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sarwisaaji makko"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "sarwisaaji makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "doole leydi ndin"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "doole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "o yaltini ɓe eggude"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "eggude"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "ummoraade Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "fayde Babel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:52.068552518Z",
+  "model": "glm-5.3"
+}

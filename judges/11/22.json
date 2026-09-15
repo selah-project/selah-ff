@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ɓe heɓi ⟨את⟩ keewal leydi Emoriyen en, puɗɗortooɗe Arnon haa Yabboq, e huɗo haa Yuurdan.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Ɓe heɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keewal leydi Emoriyen en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "leydi (keeri)"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriyen en"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "puɗɗortooɗe Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "huɗo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yuurdan"
+    }
+  ],
+  "timestamp": "2026-09-14T18:56:36.168207674Z",
+  "model": "glm-5.3"
+}

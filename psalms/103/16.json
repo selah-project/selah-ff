@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Sabu ruuhu hawri heen, o woodaani; nokku makko mallataa mo ɓaawo ɗum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "hawri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "o woodaani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "mallataa mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓaawo ɗum"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nokku makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:07.595178087Z",
+  "model": "glm-5.3"
+}

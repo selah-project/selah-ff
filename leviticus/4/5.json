@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kohen mulaaɗo on ƴetti e ƴiiƴam daabbundu ngun, o naatnani ⟨את⟩ ɗum to teentu kawtirɗe nden.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "mulaaɗo on"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "daabbundu ngun"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "o naatnani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtirɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:57.872819215Z",
+  "model": "glm-5.3"
+}

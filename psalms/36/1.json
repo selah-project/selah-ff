@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Fii ɗowoowo on; fii maccuɗo Yaawe, fii Dawuuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii ɗowoowo on"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fii maccuɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:14.825581199Z",
+  "model": "glm-5.3"
+}

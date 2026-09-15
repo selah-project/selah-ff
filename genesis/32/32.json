@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Naange nden lewii mo nde o yaajnoo ⟨את⟩ Penuel, o loowii e koyngal mun.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "lewii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange nden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o yaajnoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "loowii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "koyngal mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:15.838535401Z",
+  "model": "glm-5.3"
+}

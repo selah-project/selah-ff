@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Sabu ⟨את⟩ aadoraaji maɓɓe ɗen mbedditoɗon, e ⟨את⟩ mentooje maɓɓe ɗen durtitoɗon, e ⟨את⟩ leɗɗe Asheraaji makko ɓurnitoɗon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadoraaji maɓɓe"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "aadoraaji maɓɓe"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "mbedditoɗon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mentooje maɓɓe"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "mentooje maɓɓe"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "durtitoɗon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leɗɗe Asheraaji makko"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "leɗɗe Asheraaji makko"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "ɓurnitoɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:18.523374987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Akiish wi'i: 'Hol to ɓe njani ñalnde he?' Dawuudi wi'i: 'E dow Negev Yuuda, e dow Negev Yerahmeeli, e dow Negev Keni-en.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akiish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "njani"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde he"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerahmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni-en"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:42.123895925Z",
+  "model": "glm-5.3"
+}

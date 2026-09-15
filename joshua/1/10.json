@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde Yehoshuwa yamiri ⟨את⟩ Ardiiɓe yimɓe ɓee, wondude e wiyde:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Nde ... yamiri"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ardiiɓe yimɓe ɓee"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "Ardiiɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude e wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:09:52.727807905Z",
+  "model": "glm-5.3"
+}

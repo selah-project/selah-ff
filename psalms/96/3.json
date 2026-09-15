@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Seedinii e nder leƴƴi ɗin teddungal makko; e nder yimɓe fuu cemmbinirɗi makko ɗin.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Seedinii"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder leƴƴi ɗin"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "teddungal makko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "cemmbinirɗi makko ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:38.411484351Z",
+  "model": "glm-5.3"
+}

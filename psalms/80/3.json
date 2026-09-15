@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Yeeso Efrayim e Benyamin e Menashe, ummin ⟨את⟩ ngamgu maa, aro fii daɗnude amen.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "e Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ummin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngamgu maa"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ngamgu maa"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "aro"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "fii daɗnude"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:23.115781033Z",
+  "model": "glm-5.3"
+}

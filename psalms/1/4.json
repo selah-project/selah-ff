@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Wonaa nii bonɓe ɓen; ko ɓe no ɓunndu ni, ɓuuɓri ndi diwata ɗum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wonaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ko ɓe"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "no ɓunndu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "diwata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ɓuuɓri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:33.059999438Z",
+  "model": "glm-5.3"
+}

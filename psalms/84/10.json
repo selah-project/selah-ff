@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Mbuuɗu amen, yiy, Eloohim, ƴeewndo yeeso Mashiah maa.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Mbuuɗu amen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ƴeewndo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:36.989336808Z",
+  "model": "glm-5.3"
+}

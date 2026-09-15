@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɗeeɓe ko ɓiɓɓe Eehuud; ɗeeɓe ɗinon ko hooreeji baabiraaɓe jooɗooɓe e Geba; ɓe ngummii ɓe to Manaahat.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗeeɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ko ɓiɓɓe"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "Eehuud"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗeeɓe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗinon"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ko hooreeji"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "baabiraaɓe"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "jooɗooɓe e"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "ɓe ngummii ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "Manaahat"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:21.872934006Z",
+  "model": "glm-5.3"
+}

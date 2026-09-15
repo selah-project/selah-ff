@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Bonni, bonnanii leydi ndin; fecci, feccinii leydi; tiimi, tiimtinii leydi.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "bonni"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "bonnanii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "פור",
+      "gloss": "fecci"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "feccinii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "tiimi"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "tiimtinii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:51.805196922Z",
+  "model": "glm-5.3"
+}

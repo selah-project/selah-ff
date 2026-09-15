@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Eda, ko on yimɓe ɓen; hakkilankel kadi maayata e wondude e on.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Eda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taw, ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "e wondude e on"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "maayata"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakkilankel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:10.961256136Z",
+  "model": "glm-5.3"
+}

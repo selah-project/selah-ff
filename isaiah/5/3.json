@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Hannde noon, ennooɓe Yerushalayim e worɓe Yahuuda, ñawlu, to, hakkunde am e hakkunde wuro reende am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hannde noon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ennooɓe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ñawlu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "wuro reende am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:52.678808542Z",
+  "model": "glm-5.3"
+}

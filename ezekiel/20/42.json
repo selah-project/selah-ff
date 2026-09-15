@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "On mbaaway ⟨את⟩ anndude wonde miin ko mi Yaawe, e naatnanaade mi ⟨את⟩ on e leydi Israa'iila, e leydi ndi mi ɓoodtii ⟨את⟩ junu am fii hokkude ɗum baabiraaɓe mon.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "on mbaaway anndude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "e naatnanaade mi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi ɓoodtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junu am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junu am"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii hokkude"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "baabiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:28:37.358397442Z",
+  "model": "glm-5.3"
+}

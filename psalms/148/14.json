@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 148,
+  "translation": "O ɗaɓɓitii ƴi'e fii yimɓe mun, yettoore fii kanse gooɗɗinɓe mun — fii ɓiɓɓe Israa'iila, yimɓe ɓadiiɓe mun. Yettooyee Yaah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "O ɗaɓɓitii"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "fii yimɓe mun"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoore"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kanse"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "gooɗɗinɓe mun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ɓadiiɓe mun"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Yettooyee"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:42.673243319Z",
+  "model": "glm-5.3"
+}

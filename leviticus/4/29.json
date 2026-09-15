@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O fooɗnay ⟨את⟩ junnde mun e hoore sakri-bakkaat on, o wara ⟨את⟩ sakri-bakkaat on e nokku ɗo sakri-yiite ɗen mbarlee.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "o fooɗnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde mun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sakri-bakkaat on"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "o wara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakri-bakkaat on"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sakri-bakkaat on"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku ɗo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sakri-yiite ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:00.853779894Z",
+  "model": "glm-5.3"
+}

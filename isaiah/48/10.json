@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Ndaaru, mi laaɓtinii ⟨את maa⟩, kono wonaa no kaalis nii; mi suɓii ⟨את maa⟩ e kaasnge mette.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndaaru"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "mi laaɓtinii maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono wonaa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "no kaalis nii"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "mi suɓii maa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "e kaasnge"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mette"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:27.336317370Z",
+  "model": "glm-5.3"
+}

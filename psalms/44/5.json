@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Kanko ⟨wonii⟩ Laamɗo am, Eloohim; yamir hisnnde Yakubu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kanko a"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨wonii⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Laamɗo am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamir"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "hisnnde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakubu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:20.562908852Z",
+  "model": "glm-5.3"
+}

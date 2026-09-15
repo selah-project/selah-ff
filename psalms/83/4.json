@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "E yimɓe maa ɓe tuubii sodooru ñeeñndu, ɓe yeewtidii e cuuɗiraaɓe maa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ɓe tuubii"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sodooru ñeeñndu"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ɓe yeewtidii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "cuuɗiraaɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:14.849354456Z",
+  "model": "glm-5.3"
+}

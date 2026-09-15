@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Haman wi'i kadi: tee Ester laamɗo debbo na addanaani hay gooto e laamɗo on to ñaametere nden ɗen o waɗi, si wanaa ⟨את⟩ min; kadi ñalawma ɗooŋo mi noddaama e makko e laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "addanaani"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "laamɗo debbo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ñaametere nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min (mi) — aleph-tav e suffix -i"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ñalawma ɗooŋo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "noddaama"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:55.388115762Z",
+  "model": "glm-5.3"
+}

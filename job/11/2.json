@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Haray mawningol konngi mbaawaa jaabaade? On neɗɗo jeyaaɗo leppi ɗin, ko o ñaawaa feewde?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "mawningol"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mbaawaa"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "jaabaade"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Haray"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "jeyaaɗo leppi ɗin"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ñaawaa feewde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:53:44.541893034Z",
+  "model": "glm-5.3"
+}

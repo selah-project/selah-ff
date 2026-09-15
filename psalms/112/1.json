@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Huliyettu Yaah! Memne neɗɗo hulɗo ⟨את⟩ Yaawe, weltotooɗo no feewi e amirji makko ɗin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "huliyettu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "memne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hulɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "e amirji makko ɗin"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "weltotooɗo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:11.832857307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E gorko mo lelnata e ⟨את⟩ goggo mun, nuddaare baaba-goggo mun o feeñnini; bakkaat maɓɓe ɓe ndoora, alɓe ɓiɓɓe ɓe maayata.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e gorko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "lelnata e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goggo mun"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "goggo mun"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nuddaare"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "baaba-goggo mun"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o feeñnini"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "bakkaat maɓɓe"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ɓe ndoora"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "alɓe ɓiɓɓe"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ɓe maayata"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:24.254094194Z",
+  "model": "glm-5.3"
+}

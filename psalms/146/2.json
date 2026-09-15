@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "Mi worno Yaawe e nguurdam am; mi woya fii Eloohim am tawa mi woodi.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Mi worno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "e nguurdam am"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi woya"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fii Eloohim am"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "tawa mi woodi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:44.758003363Z",
+  "model": "glm-5.3"
+}

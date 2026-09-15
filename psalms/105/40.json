@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Ɓe ɗiimi, O addani ɓe sontere, e ñameende kammuɗi o o wisri ɓe.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Ɓe ɗiimi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "O addani"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "sontere"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "e ñameende"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuɗi"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "o wisri ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:14.422762939Z",
+  "model": "glm-5.3"
+}

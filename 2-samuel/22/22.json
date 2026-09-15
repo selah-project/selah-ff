@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Fii min reeni laawol Yaawe, mi bonanaali luuringo e Eloohim am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "min reeni"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi ... laaɓaa",
+      "": ""
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "bonanaali"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "luuringo e Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:29.534277386Z",
+  "model": "glm-5.3"
+}

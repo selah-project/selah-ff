@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E ko fii nde ɓe ɓeydinii min ummaade Misrayim, ngam addude min ⟨את⟩ e ɗo nokku bonɗo oo, nokku ɗo ɓeydaani pai, wanaa inyeeje, wanaa sarabaraaje, wanaa rummaan, ndiyam kadi alaa ngam yarde.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e ko fii nde"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ɓe ɓeydinii min ummaade"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngam addude"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pai"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "e inyeeje"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "e sarabaraaje"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "e rummaan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ngam yarde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:43:22.292408943Z",
+  "model": "glm-5.3"
+}

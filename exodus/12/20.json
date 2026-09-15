@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kala ɓuraama ñaameton; e nokkuuje monɗon fuu ñaameton maafe ɓuralaaɗe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ɓuraama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaameton…wanaa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaameton"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e … fuu"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "nokkuuje monɗon"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaameton"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "maafe ɓuralaaɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:46.697539111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Ɓernde am yawaaka laawol gootol; semte am acci mi, e annoore gite am — ɗum ene ɓuri, ⟨את⟩ woodaani e am.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "yawaaka laawol gootol"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "semte am acci mi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "semte am"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e annoore"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ɗum ene ɓuri"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗiɗo ɗin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:18.232125696Z",
+  "model": "glm-5.3"
+}

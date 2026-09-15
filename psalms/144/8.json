@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Mo heedu mum wowlata weeyere, e juumde mum ko juumde fenre.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "heedu mum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wowlata"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "weeyere"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "e juumde mum"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "juumde"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:16.562373385Z",
+  "model": "glm-5.3"
+}

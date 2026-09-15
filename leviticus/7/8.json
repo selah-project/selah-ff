@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Sardiido naatnuɗo ⟨את⟩ nafroogu loyru neɗɗo — gaddi nafroogu loyru ngu o naatni, ko kanko sardiido on jeyata ɗum.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "sardiido"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "naatnuɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafroogu loyru neɗדo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "nafroogu loyru"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gaddi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nafroogu loyru ngu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "o naatni"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sardiido on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jeyata ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:44.091220237Z",
+  "model": "glm-5.3"
+}

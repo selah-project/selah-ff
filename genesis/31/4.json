@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yaakuuba neldi, o noddii Rakela e Leeha to ladde, to layngu mun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddii"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakela"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "e Leeha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "to ladde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "layngu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:28.171376855Z",
+  "model": "glm-5.3"
+}

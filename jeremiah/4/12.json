@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Baŋke tiiɗngol no ɗun, iwde e ɗun, aroyata lam; jooni, kadi min miɗo haala ⟨את⟩ ñaawooje e fawaade ɓe.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "baŋke"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tiiɗngol"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "iwde e ɗun"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "aroyata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "miɗo haala"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ñaawooje"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:06:23.004762737Z",
+  "model": "glm-5.3"
+}

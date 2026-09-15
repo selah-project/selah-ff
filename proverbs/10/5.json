@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Hotoowo e ɓuri nguleendi ko ɓiy ñaawoowo; nanoowo e ɓuri ñaamgol ko ɓiy hoyɓitinoowo.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "hotoowo"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "e ɓuri nguleendi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "nanoowo"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "e ɓuri ñaamgol"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "hoyɓitinoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:15.449226498Z",
+  "model": "glm-5.3"
+}

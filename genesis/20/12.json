@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kadi tawno kanko ko miñi am debbo — ɓiɗɗo baaba am, kono wanaa ɓiɗɗo yumma am — o laati debbo am.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "tawno"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "miñi am debbo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:47.856955679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe kaali e Mose, wiyde:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kaali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:07.837661641Z",
+  "model": "glm-5.3"
+}

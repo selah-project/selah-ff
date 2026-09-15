@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Konngi bonɗen ɓurii lam; kaaƴe amen ɗen — a cuddayɗa ɗen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "bonɗen"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ɓurii"
+    },
+    {
+      "surface": "מני",
+      "gloss": "lam"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "kaaƴe amen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "cuddayɗa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:31.496906998Z",
+  "model": "glm-5.3"
+}

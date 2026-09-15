@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 82,
+  "translation": "Miɗo wi'a: on ko Eloohim, on fuu ko ɓiɓɓe Eel Elyon.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "miɗo wi'a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eel Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "on fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:26.614118435Z",
+  "model": "glm-5.3"
+}

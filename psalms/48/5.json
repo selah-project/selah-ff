@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Fii, nden — laamɓe ɓen kawti ɗoon, ɓe yawti wonndude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "laamɓe ɓen"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ɓe kawti ɗoon"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɓe yawti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wonndude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:24.907694814Z",
+  "model": "glm-5.3"
+}

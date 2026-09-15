@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi wi'i: 'E goonga a hoofnira ⟨את⟩, a jaɓo jarribo, hoɗorde mayre wanaa taƴee e kala ɗum mi jugoo ɓuri mayre'; kono ɓe ummii subka, ɓe mbonni golle majje fuu.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אך",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "a hoofnira"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "a hoofnira"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "a jaɓo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "jarribo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "taƴee"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "hoɗorde mayre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mi jugoo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɓuri mayre"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kono"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "ɓe ummii subka"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ɓe mbonni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "golle majje"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:42.669088097Z",
+  "model": "glm-5.3"
+}

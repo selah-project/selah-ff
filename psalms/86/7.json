@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Nde ñalawma caɗe am mi nodday maa, sabu maa jaɓɓa am.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "nde ñalawma"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "caɗe am"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "mi nodday maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "maa jaɓɓa am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:24.938199774Z",
+  "model": "glm-5.3"
+}

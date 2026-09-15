@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi mi, mi janngini Efrayim yahde, mi ƴetti ɓe e ɓoggi am; kono ɓe anndaali wonde mi mo'ƴƴinii ɓe.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "kadi mi"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "mi janngini ... yahde"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "mi ƴetti ɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ɓoggi am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... alaa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ɓe anndaali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "mi mo'ƴƴinii ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:06.145905113Z",
+  "model": "glm-5.3"
+}

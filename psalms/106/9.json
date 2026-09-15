@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O ñiŋi maayo Suuf, nden ⟨woorii⟩; o ardii ɓe e nder cuuɗri no e jeereende nii.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "O ñiŋi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suuf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "woorii"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "o ardii ɓe"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "e nder cuuɗri"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "no e jeereende nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:44.016553321Z",
+  "model": "glm-5.3"
+}

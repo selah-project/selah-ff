@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kajin anndi ⟨את⟩ debbo mun; o re'i, o du'aani ⟨את⟩ Chanok. O woni mahuɗo wuro, o wiyi innde wuro ngoo no innde ɓiy mun Chanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo mun"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o re'i"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o du'aani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o woni"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahuɗo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o wiyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "no innde"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:42.935231646Z",
+  "model": "glm-5.3"
+}

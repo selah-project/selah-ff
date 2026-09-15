@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Ko Yaawe yiɗunoo fuu, o waɗi ɗum, e kammuuli ɗin e nder leydi ndin, e maaje ɗen e nder luggiɗi ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ... yiɗunoo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗunoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli ɗin"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "e nder leydi ndin"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e maaje ɗen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "luggiɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:47.273723286Z",
+  "model": "glm-5.3"
+}

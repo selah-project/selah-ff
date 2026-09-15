@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Hono yo ñaawoore Yisraayil arde Siyon! Si Yaawe artirti ngartugol yimɓe mun, Yaaquba fooƴoy, Yisraayil weltin!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hono yo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ñaaawore-yirtaande"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayil"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "si ... artirti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ngartugol"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "fooƴoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "weltin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayil"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:48.228845151Z",
+  "model": "glm-5.3"
+}

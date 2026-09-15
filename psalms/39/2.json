@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Mi wi'i: mi ɗaɓɓitana laawol am, wanaa mi bonnugo e ɗemngal am; mi ɗaɓɓitana hannde am e mummba, tawa bone on ina darii yeeso am.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "mi ɗaɓɓitana"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "wanaa mi bonnugo"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "e ɗemngal am"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "mi ɗaɓɓitana"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "hannde am"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "mummba"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bone on"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ina darii yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:01.774434480Z",
+  "model": "glm-5.3"
+}

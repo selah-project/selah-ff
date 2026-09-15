@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Si alaa ɓiɗɗo debbo ⟨o⟩ jogii, ndokkon ⟨את⟩ ndonu makko ɓiɓɓe gorko yumma makko.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Si alaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨o⟩ jogii"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ndokkon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndonu makko"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ndonu makko"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ɓiɓɓe gorko yumma makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:00.278022203Z",
+  "model": "glm-5.3"
+}

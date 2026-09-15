@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Ñaami huɗo fuu ngo woni e leydi maɓɓe, ñaami kadi balla leydi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Ñaami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "huɗo"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "e leydi maɓɓe"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ñaami kadi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "balla"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "leydi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:21.228045637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Gonii konnguji keewɗi ɓeydooji hebel; ko heddii kadi woni neɗɗo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gonii"
+    },
+    {
+      "surface": "יש",
+      "gloss": "gonii"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konnguji"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "keewɗi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ɓeydooji"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "heddii"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "neɗɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:13.580814506Z",
+  "model": "glm-5.3"
+}

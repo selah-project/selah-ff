@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Ɓe wiɗii am no ndiyam ñalawla fof; ɓe pirii am e am wondude.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ɓe wiɗii am"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fefof"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawla"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "ɓe pirii am e am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "wondude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:16.734560581Z",
+  "model": "glm-5.3"
+}

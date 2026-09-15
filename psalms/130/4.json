@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Kono faade maa ko haforre, fii yo a waawe naabte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "faade maa"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "haforre"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii yo"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "a waawe naabte"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:04.896573930Z",
+  "model": "glm-5.3"
+}

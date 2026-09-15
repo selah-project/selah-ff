@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O duɓini junngo makko fii worgo, o halki ⟨את⟩ Ashur, o waɗi ⟨את⟩ Niinwe ɓurde heewde, nokku yooro hono jeereendi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "o duɓini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "worgo"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "o halki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niinwe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinwe"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ɓurde heewde"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "nokku yooro"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "hono jeereendi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:10:16.474566752Z",
+  "model": "glm-5.3"
+}

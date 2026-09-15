@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Ɓen mbaray, kono a dotoo; fuu ɓe hono comci mbaray; hono comdi a wayloy ɓe, ɓe paasay.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ɓen"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mbaray"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "dotoo"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "fuu ɓe"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "hono comci"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "mbaray"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "hono comdi"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "a wayloy ɓe"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ɓe paasay"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:43.942624402Z",
+  "model": "glm-5.3"
+}

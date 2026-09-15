@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E sariyaaji maa mi weltorto, alfa mi yejjito konngol maa.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "e sariyaaji maa"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "mi weltorto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alfa"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "mi yejjito"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "konngol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:41.597675061Z",
+  "model": "glm-5.3"
+}

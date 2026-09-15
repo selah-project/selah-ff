@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe toowɗinaama, kono o hoɗii toowɗere; o heewnii Siyon ñaawoore e nuɗɗinal.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "toowɗinaama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "o hoɗii"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "toowɗere"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o heewnii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e nuɗɗinal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:50:04.948681431Z",
+  "model": "glm-5.3"
+}

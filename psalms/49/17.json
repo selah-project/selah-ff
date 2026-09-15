@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Hoyo kulol tawa neɗɗo alɗinaama, tawa teddungal suudu mun ɓeydii;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hoyo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "alɗinaama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ɓeydii"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:57.518378210Z",
+  "model": "glm-5.3"
+}

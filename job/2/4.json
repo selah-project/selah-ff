@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sataan jaabii ⟨את⟩ Yaawe, o wi'i: “Lekkiri fii lekkiri — kala ko gorko waɗi, o hokkoy ngam neefoowo makko.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sataan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Lekkiri"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lekkiri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o hokkoy"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "neefoowo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:35.780243309Z",
+  "model": "glm-5.3"
+}

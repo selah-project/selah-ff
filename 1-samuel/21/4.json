@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ñaamo noon, ko woni les junngo maaɗa? Tammbi njowi, ndokku e junngo am, walla ko tawaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ñaamo noon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "woni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maaɗa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "njowi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tammbi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "e junngo am"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ko tawaa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:44.715024302Z",
+  "model": "glm-5.3"
+}

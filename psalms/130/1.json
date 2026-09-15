@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Nate ñaawirɗe. Ummitoore ɓuuɓɗe mi noddii-ma, Yaawe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nate"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ñaawirɗe"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Ummitoore ɓuuɓɗe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "mi noddii-ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:04.895894009Z",
+  "model": "glm-5.3"
+}

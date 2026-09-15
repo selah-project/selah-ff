@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Wakkati tiɗɗo on, on ruttitii, on ciiŋii yeeso Yaawe; kono Yaawe naniraali daande mon, wanaa o yeñtinaali nano mun mon.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "on ruttitii"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "on ciiŋii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ɗum-alla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "naniraali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "daande mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "yeñtinaali nano mun"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:46.483486840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Yaawe anndi miijooji neɗɗo, wonde kamɗi ko meere.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "miijooji"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɗi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "meere"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:08.487239779Z",
+  "model": "glm-5.3"
+}

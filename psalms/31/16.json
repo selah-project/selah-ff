@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Jamaaji am ina jooɗii e junngo maa; hisnu mi e junngo ayɓe am e ɗaɓɓooɓe lam.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "jamaaji am"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hisnu mi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ayɓe am"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "e ɗaɓɓooɓe lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:58.721060950Z",
+  "model": "glm-5.3"
+}

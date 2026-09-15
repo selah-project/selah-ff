@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E Husim o wallyi ⟨את⟩ Abitub e ⟨את⟩ Elpaʻal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "e Husim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o wallyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Abitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Elpaʻal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaʻal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:03.153012299Z",
+  "model": "glm-5.3"
+}

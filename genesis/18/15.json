@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sariya faami o wi'i: mi yi'aali; sabu o kulii. O wi'i: alaa, ko a yi'ii.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "faami"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sariya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "mi yi'aali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o kulii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "a yi'ii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:01.120035361Z",
+  "model": "glm-5.3"
+}

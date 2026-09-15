@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Wallu mi, ello Yaawe Eloohim am; hisnu mi no hesed maa wonirta.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "wallu mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hisnu mi"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "no hesed maa wonirta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:16.477882942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "So mi yahi nder caɗeele, a wuurnitay mi; dow tikkere añɓe am ɗen a nelday junnde maa, ñaamo maa ndin hisnay mi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nder"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "caɗeele"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "a wuurnitay mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tikkere"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "añɓe am ɗen"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "a nelday"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junnde maa"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "e ... hisnay mi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ñaamo maa ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:10.221999618Z",
+  "model": "glm-5.3"
+}

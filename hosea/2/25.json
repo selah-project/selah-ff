@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi ñiŋi mo fii am e leydi ndin, mi yurmi ⟨את⟩ Loo-Ruhamaa (Walaa-Yurmaa), mi wi'i Loo-Ammii (Walaa-Ƴamɓe-am): “Ƴamɓe am on”; kanko o wi'ay: “Eloohim am.”",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "mi ñiŋi mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "mi yurmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loo-Ruhamaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Walaa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Yurmaa"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Walaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ƴamɓe-am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ƴamɓe am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'ay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:56:33.318255340Z",
+  "model": "glm-5.3"
+}

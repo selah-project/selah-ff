@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Tawi ɓe sakkitii haalde e mun, sarwisaaji laamɗo on ngari, ɓe dawri ngaddude ⟨את⟩ Haman to nyaamu ndu Ester waɗi.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "tawi ɓe sakkitii"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e mun"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "e sarwisaaji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ɓe ngari"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ɓe dawri"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngaddude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "nyaamu ndu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:55.866088774Z",
+  "model": "glm-5.3"
+}

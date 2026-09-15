@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko o ⟨o⟩ bejje luggoriiɗo am, o wondi lawa e nokkuuje cuuɗuɗe.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "bejje"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "luggoriiɗo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "e nokkuuje cuuɗuɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:24:02.683364653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "E ƴi'e makko o suɗata on, e les junee makko a ɗaɓɓoyay ndeenre; goongɗinal makko ko ŋoral e paltooral.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "E ƴi'e makko"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "o suɗata on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "e les"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "junee makko"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "a ɗaɓɓoyay ndeenre"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ŋoral"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "e paltooral"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "goongɗinal makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.968419576Z",
+  "model": "glm-5.3"
+}

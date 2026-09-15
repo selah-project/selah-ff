@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Si a naatii e nder inabere woɗɗo maa, a ñaamata inabireeje no neere maa yammi, kono a waawaa waɗde ɗe e kañirde maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "a naatii"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "e nder inabere"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "woɗɗo maa"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "a ñaamata"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "inabireeje"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "no neere maa"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "yammi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kono e"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "kañirde maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:01.379034640Z",
+  "model": "glm-5.3"
+}

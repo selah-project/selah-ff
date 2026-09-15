@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "si cakkereejeeje mun duwaanii mi, kono o ɓuuɓnaaka e wutte baali am —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "si ... wanaa"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "duwaanii mi"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "cakkereejeeje mun"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "e wutte"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "baali am"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "o ɓuuɓnaaka"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:21.895603726Z",
+  "model": "glm-5.3"
+}

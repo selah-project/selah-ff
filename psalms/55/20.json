@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Eel nanay, o jaaboy ɓe; kanko no o jooɗii gila e jaŋngo ɓooyɗo — Selah — ɓe ngalaa waylo-waylo, ɓe ndiñaaki Eloohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "nanay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "o jaaboy ɓe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kanko no o jooɗii"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "gila e jaŋngo ɓooyɗo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɓe ngalaa"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "waylo-waylo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe ndiñaaki"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "diñde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.994369836Z",
+  "model": "glm-5.3"
+}

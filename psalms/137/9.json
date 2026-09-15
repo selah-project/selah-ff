@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "Mo moyyini yo o wonu, on jooɓotooɗo on, o loowta ⟨את⟩ ɓiɓɓe mbeddaaji maa ɗon ɗon fayde ɗii rockaaji.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mo moyyini yo o wonu"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "on jooɓotooɗo on"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "o loowta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mbeddaaji maa ɗon"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ɓiɓɓe mbeddaaji maa ɗon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "rockaaji ɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:24.480187137Z",
+  "model": "glm-5.3"
+}

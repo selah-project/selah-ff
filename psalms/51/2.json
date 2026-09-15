@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Nde Natan annabiijo on arii to makko, nde o yahi e Batsheba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nde ... arii"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabiijo on"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:02.246322834Z",
+  "model": "glm-5.3"
+}

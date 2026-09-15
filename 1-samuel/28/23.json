@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "O sali, o wi'i: Mi ñaamataa. Kono maccuɗi makko ɓe ɗaɓɓiti mo, e debbo on kadi, o nano daande maɓɓe; o ummii e leydi ndin, o jooɗii to bannge leeso ngoo.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "o sali"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mi ñaamataa"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "ɓe ɗaɓɓiti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɗi makko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e kadi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "daande maɓɓe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "leeso ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:42.510384732Z",
+  "model": "glm-5.3"
+}

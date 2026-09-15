@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Yuusufa ñaammini ⟨את⟩ baaba mum e ⟨את⟩ miñiraaɓe mum e ⟨את⟩ galle baaba mum fof, ñamri fotndi e haaju sukaɓe ɓee.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "ñaammini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mum"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "miñiraaɓe mum"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle baaba mum fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "galle... fof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "fotndi e haaju"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "sukaɓe ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:42.334688485Z",
+  "model": "glm-5.3"
+}

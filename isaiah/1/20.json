@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono si tawii on sali, on mujjii, juuɗe on ñaamay on; fii haala Yaawe wiyii ɗum.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si tawii"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "on sali"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "on mujjii"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "on ñaamay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wiyii ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:10.130573333Z",
+  "model": "glm-5.3"
+}

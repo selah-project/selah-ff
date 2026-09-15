@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe mbaɗi ⟨את⟩ jawe shoham ɗen, cirƴaaɗe e nder mbaydiiji kaŋŋe, pirte no pirgol ñaamoore nii, e inɗe ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ɓe mbaɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawe shoham ɗen"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "jawe"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "cirƴaaɗe"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "e nder mbaydiiji"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "pirte"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "pirte no ... nii"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ñaamoore"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "inɗe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:59.546082288Z",
+  "model": "glm-5.3"
+}

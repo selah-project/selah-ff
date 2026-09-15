@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Mi yi'i ⟨את⟩ kala golle ɗen ɗe waɗaa les naange nden, e nden — ɗuum fof ko huuɓtere e mette ruuhu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mi yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala golle ɗen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "golle ɗen"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ɗe waɗaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange nden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nden"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ɗuum fof"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "huuɓtere"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "e mette"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:43.410003274Z",
+  "model": "glm-5.3"
+}

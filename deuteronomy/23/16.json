@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wata a neldu maccuɗo to joomu mun, mo daɗii e joomu mun, ari to maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "a neldu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomu mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "daɗii"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ari to maa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:40.499161886Z",
+  "model": "glm-5.3"
+}

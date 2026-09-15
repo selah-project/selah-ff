@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 113,
+  "translation": "Yoŋgi ko no Yaawe, Eloohim amen, ⟨On⟩ mo toowirta toowde ngam jooɗaade?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Yoŋgi"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "no Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "mo toowirta toowde"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngam jooɗaade"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:46.815856174Z",
+  "model": "glm-5.3"
+}

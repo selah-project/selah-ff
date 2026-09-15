@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Tawa mi bonnii, hai hayre am; tawa mi feewi, mballataa hoore am; heewii ko hoyre, tawa a yi'ii seele am.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Tawa"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "mi bonnii"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mi feewi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woppataa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "mballata"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "heewii"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a yi'ii"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "seele am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:33.689010430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono si neɗɗo seniindi e jeyi leydi makko huunde fii Yaawe, njoɓdi maa nden laatoto ko bana ñiiri mum: ñiiri hommar ñaareeje ko skuɗuuji capanɗe joyi kaalis.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "e jeyi leydi makko"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "jeyi makko"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "o seniindi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "laatoto"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "njoɓdi maa nden"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ko bana"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ñiiri mum"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñiiri"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "hommar"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ñaareeje"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "capanɗe joyi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "skuɗuuji"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:32.111951293Z",
+  "model": "glm-5.3"
+}

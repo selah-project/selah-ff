@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Jonere njaltuɗo on ko boɗeejo, wuro mun fuu no wuro ɗooɗngo nii, ɓe nodditi innde mun Esav.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "njaltuɗo"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "jonere"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "boɗeejo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wuro mun fuu"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "no wuro ɗooɗngo nii"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ɗooɗe"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ɓe nodditi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:44.631602770Z",
+  "model": "glm-5.3"
+}

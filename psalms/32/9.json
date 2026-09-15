@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Wata on laatu bana pucci walla bana mula, ɗi ngalaa faamuyanke; e kosam e junngo-coktirɗe nguuri mun taggorte ngam haɗde ɓe, wanaa ɓe ɓadtata on.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "on laatu"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "bana pucci"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "walla bana mula"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ɗi ngalaa"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "faamuyanke"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "e kosam"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "e junngo-coktirɗe"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "nguuri mun taggorte"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ngam haɗde ɓe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ɓe ɓadtata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:10.303042265Z",
+  "model": "glm-5.3"
+}

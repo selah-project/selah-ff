@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Nden konngol Yaawe arii e am, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nden konngol arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:46:24.051470236Z",
+  "model": "glm-5.3"
+}

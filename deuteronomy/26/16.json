@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Hannde, oo ñalnde, Yaawe Eloohim maaɗa inaambara-ma waɗde ⟨את⟩ kuule ɗen e ⟨את⟩ ñaawoore ɗen; reenu ⟨את⟩ ɗe, waɗ ɗe e nder fuu ɓernde maaɗa e kadi fuu nguurndam maaɗa.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo ñalnde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "inaambara-ma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule ɗen"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore ɗen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "reenu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɗe",
+      "marks": "kuule e ñaawoore ɗen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ɓernde maaɗa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e kadi fuu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguurndam maa'da"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:11.249343952Z",
+  "model": "glm-5.3"
+}

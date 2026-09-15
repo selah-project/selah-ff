@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Woyee Eloohim, woyee; woyee laamɗo amen on, woyee.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "woyee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "woyee"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "woyee"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "laamɗo amen on"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "woyee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:36.752059202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 58,
+  "translation": "Mboros maɓɓe no nandi e mboros ɓowre; ɓe no nandi mummba ñeɓo ngu daaƴina ⟨e⟩ nokku mun.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "mboros"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "no nandi e"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mboros"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ɓowre"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no nandi"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "mummba"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ñeɓo"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "daaƴina"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:40.262353414Z",
+  "model": "glm-5.3"
+}

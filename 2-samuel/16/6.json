@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O fuḍḍii e kaaƴe ⟨את⟩ Daawuuda e ⟨את⟩ maccuɓe laamɗo on Daawuuda fuu; yimɓe ɓee fuu e warɓe ɓee fuu ngonnoo ñaamo makko e nano makko.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "o fuḍḍii"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "e kaaƴe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɓe laamɗo on Daawuuda fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "warɓe ɓee"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ñaamo makko"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "e nano makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:00.512770639Z",
+  "model": "glm-5.3"
+}

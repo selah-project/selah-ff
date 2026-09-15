@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ndeen yimɓe rewɓe ɓen fof ɓe ɓeydii ⟨את⟩ daande mun, ɓe cujjitii; yimɓe ɓen ɓe di'a nder jemma kaŋta.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ɓe ɓeydii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "yimɓe ɗon ɓen"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ɓurtinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande mun"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ɓe cujjitii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nder jemma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kaŋta"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:47.351699930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Nano, Yaawe, ñaawaami yurme; Yaawe, wonu walluɗo am.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ñaawaami yurme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "walluɗo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:23.705676016Z",
+  "model": "glm-5.3"
+}

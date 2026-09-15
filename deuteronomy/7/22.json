@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 7:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe Eloohim maaɗa maa Momtu ⟨את⟩ leƴƴi ɗin ɗee yeeso maaɗa, seeɗa seeɗa; a waawaa halkude ɓe jaawnde, wanaa daabaaji ladde ɗin ɓeyloo hoɗɓe e maaɗa.",
+  "tokens": [
+    {
+      "surface": "ונשל",
+      "gloss": "maa Momtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi ɗin ɗee"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin ɗee"
+    },
+    {
+      "surface": "האל",
+      "gloss": ""
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yeeso maaɗa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "a waawaa"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "halkude ɓe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "jaawnde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ɓeyloo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hoɗɓe e maaɗa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "daabaaji ladde"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:55.354023303Z",
+  "model": "glm-5.3"
+}

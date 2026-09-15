@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Hol mo e mon naatnata ɗoo? Hol mo ñeeñnata o nanngo? O waɗa nugol heɗaade ko arata ɓaawo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hol mo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "naatnata ɗoo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "ñeeñnata"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "heɗaade"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ko arata ɓaawo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:21.181931430Z",
+  "model": "glm-5.3"
+}

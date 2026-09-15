@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "On priire on ɓe addana ɗen yeeso Yaawe, o waɗa ⟨את⟩ dokke baasite mun e ⟨את⟩ korbuyre mun",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ɓe addana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "on priire on"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokke baasite mun"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dokke baasite mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "korbuyre mun"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "korbuyre mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:42:35.783450781Z",
+  "model": "glm-5.3"
+}

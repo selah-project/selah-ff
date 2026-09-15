@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Mi yahay to yeeso Yaawe, e leydiiji nguurndam ɗin.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "mi yahay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "to yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "e leydiiji"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nguurndam ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.462098376Z",
+  "model": "glm-5.3"
+}

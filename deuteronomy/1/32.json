@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E ɗoo konngol on mo'maani e Yaawe Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "e ɗoo konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "on (wanaa)"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "mo'maani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:35.380342471Z",
+  "model": "glm-5.3"
+}

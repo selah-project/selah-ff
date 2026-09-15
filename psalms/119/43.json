@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Wata a wirnin e haande am tawa konngol goonga ngol, e fokku; gmi mi weni e ñaawoore maa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "wata a"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "wirnin"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "e haande am tawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fokku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gmi"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "e ñaawoore maa"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mi weni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:22.771857733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Ɓe juuro e dulol suudu maa, e ɓuurgel dakku maa a waɗa ɓe yaroo.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ɓe juuro"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "dulol"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "e ɓuurgel"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "dakku maa"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "a waɗa ɓe yaroo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.120937415Z",
+  "model": "glm-5.3"
+}

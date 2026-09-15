@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wi'i am: “Dari, tawo, e am, a war am, wonde ɓuuɓol ngol nanngi am, nde neefsere am fuu heddii e am.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "a war am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "nanngi am"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "ɓuuɓol ngol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "heddii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefsere am"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:23.785635293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe waɗata ⟨את⟩ duuɗi leydi maa ɓuuɓri e puɗol; ummoraade e kammuuli ɗin ɗum naatana dow maa haa a helake.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duuɗi leydi maa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "duuɗi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e puɗol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "naatana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "a helake"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:13.399719676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Achaz fooɗorii e baabiraaɓe makko, o wirnaa e baabiraaɓe makko nder saare Dawuud; ɓiy makko Hizkiya laamii lomto makko.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "fooɗorii"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nder saare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamii"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy makko"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomto makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:36.168589701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Mawɗo ɓadteeɓe ƴetti ⟨את⟩ Seraya limaam mawɗo on, e ⟨את⟩ Tsefanya limaam ɗiɗaɓo on, e ⟨את⟩ tatoowo jeenoowo ɗammal ngal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Mawɗo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ɓadteeɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya limaam mawɗo on"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "limaam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mawɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsefanya limaam ɗiɗaɓo on"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "limaam"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ɗiɗaɓo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tatoowo jeenoowo ɗammal ngal"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tatoowo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "jeenoowo"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ɗammal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:44.986305703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɗum famɗi e gite Yaawe; o hokkay kadi ⟨את⟩ Moowab e juneeji mon.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "famɗi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o hokkay kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moowab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moowab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "e juneeji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:48.563404709Z",
+  "model": "glm-5.3"
+}

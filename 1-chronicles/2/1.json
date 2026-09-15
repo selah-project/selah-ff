@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɗee ko ɓiɓɓe Israya'iila: Re'uuben, Shiime'on, Leewi, e Yahuuda, Yissaskar, e Zebuluun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'iila"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uuben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shiime'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "e Zebuluun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:03.142342918Z",
+  "model": "glm-5.3"
+}

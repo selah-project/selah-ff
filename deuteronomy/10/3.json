@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi waɗi sanne leɗɗe shittim, mi ɓesdii ɗiɗo lorol kaaƴe no ɗe arande ɗen njiiri, mi ƴetti hoore falde nden, ɗo ɗiɗo lorol ɗen e junngo am.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanne"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "mi ɓesdii"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lorol"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "no ɗe arande ɗen njiiri"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "mi ƴetti"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "hoore falde nden"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lorol ɗen"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "e junngo am"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:01.269623098Z",
+  "model": "glm-5.3"
+}

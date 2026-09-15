@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Kaakkunji Edom e Ismaa'iilaen, Moab e Hagreenoɓe,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "kaakkunji"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "e Ismaa'iilaen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "e Hagreenoɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:15.016308761Z",
+  "model": "glm-5.3"
+}

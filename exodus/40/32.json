@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Nde ɓe naatata e tentu kawral ngal, nde ɓe ɓadtata e mbeda nden, ɓe ndattata; no Yaawe yummiri Muusaa nih ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "nde ɓe naatata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tentu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral ngal"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "nde ɓe ɓadtata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mbeda nden"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "ɓe ndattata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yummiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:39.669725173Z",
+  "model": "glm-5.3"
+}

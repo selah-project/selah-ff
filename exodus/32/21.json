@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Mosheh wi'i to Aaharon: Mbay ngol yimɓe waɗi maaɗa, nde a addi e dow maggal bonannde mawnde?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaharon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mbay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maaɗa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "a addi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow maggal"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mawnde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:45.311511486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Tulɗe ɗen dujun jam fii leñol ngol, e teeñuɗe ɗen e gidɗaaku.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "dujun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Tulɗe ɗen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fii leñol ngol"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "e teeñuɗe ɗen"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "e gidɗaaku"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:13.314824631Z",
+  "model": "glm-5.3"
+}

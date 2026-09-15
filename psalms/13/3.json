@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Haa ñaawo mi ɓeydoto ñaawondire e nder neefu am, muñal e nder ɓernde am ñalnde kala? Haa ñaawo gaññuɗo am toowata e am?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi ɓeydoto"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ñaawondire"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "e nder neefu am"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "muñal"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "e nder ɓernde am"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde kala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "toowata"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "gaññuɗo am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:20.179496817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Dawiid wi'i: wata on waɗ nii, miñiibe am; ko ⟨את⟩ fuu Yaawe rokki min, o reeni ⟨את⟩ min, o rokki min ⟨את⟩ fedde ndee arii e min, e juuɗe amen ɗen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on waɗ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñiibe am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu Yaawe rokki min"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "o reeni"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ min"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fedde ndee"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "fedde ndee"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "e juuɗe amen ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:53:51.326338391Z",
+  "model": "glm-5.3"
+}

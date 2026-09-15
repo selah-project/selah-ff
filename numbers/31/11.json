@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓe njabbi ⟨את⟩ kosam ngam fuu e ⟨את⟩ jawtuɗo fuu, e yimɓe e daabaaji.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe njabbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosam ngam fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "kosam ngam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jawtuɗo fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "jawtuɗo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "e daabaaji"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:32.998948929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Wanaa ko e maaɗa Eel rento, wanaa a sujjoto Eel janɗo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rento"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "a sujjoto"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "janɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:37.045030285Z",
+  "model": "glm-5.3"
+}

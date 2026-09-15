@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "E junngo ngooɗo, fii ɓiɓɓe Korah, mizmoor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "e junngo ngooɗo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:47.315993429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Israa'iil ngolliri ⟨את⟩ bonannde nden e juuɗe Yaawe, ɓe gollinii ⟨את⟩ Baal-im ɓen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngolliri"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde nden"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonannde nden"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe gollinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal-im ɓen"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal-im ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:35.836109203Z",
+  "model": "glm-5.3"
+}

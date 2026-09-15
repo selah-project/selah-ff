@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "A suuɗii yeeso maa, ɓe tuuboo; a nattinii ruuhu maɓɓe, ɓe maaya, ɓe ruttii e pucci maɓɓe.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "a suuɗii"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "ɓe tuuboo"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "a nattinii"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruuhu maɓɓe"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "ɓe maaya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "pucci maɓɓe"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ɓe ruttii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:25.237927904Z",
+  "model": "glm-5.3"
+}

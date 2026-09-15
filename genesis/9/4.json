@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono ɓanndu nguura e wuurde mayre — ƴiiƴam mayre — wata on ñaamu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "nguura e wuurde mayre"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mayre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "on ñaamu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:15.269121815Z",
+  "model": "glm-5.3"
+}

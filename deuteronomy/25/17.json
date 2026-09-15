@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Joftor ⟨את⟩ ko Amalek waɗi maa, e laawol ngol, haadeɓe ndartuɓe e Misrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Joftor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Amalek waɗi maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "haadeɓe ndartuɓe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:13.493371001Z",
+  "model": "glm-5.3"
+}

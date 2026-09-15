@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Eloohim am, waɗ ɓe hono ɓuuɓnirgel wondurol ngel, hono ñebbe woppuɗe ɗen yeeso henndu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "waɗ ɓe"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "hono ɓuuɓnirgel wondurol"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "hono ñebbe woppuɗe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henndu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:55.855785175Z",
+  "model": "glm-5.3"
+}

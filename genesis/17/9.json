@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Eloohim wi'i to Awraham: \"Aɗa, reen ⟨את⟩ ɓeynguure am nden — aɗa e ɓiɗɗo maa ɓen ɓaawo maa, e duuɓi maɓɓe ɗin\".",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeynguure am nden"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ɓeynguure am nden"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "reen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "e ɓiɗɗo maa ɓen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ɓaawo maa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "e duuɓi maɓɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-15T07:04:10.869189523Z",
+  "model": "glm-5.3"
+}

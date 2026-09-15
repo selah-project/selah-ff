@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yettoome Yaawe, sabu o nanii daande ɗaɓɓannde am.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Yettoome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ɗaɓɓannde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.730985442Z",
+  "model": "glm-5.3"
+}

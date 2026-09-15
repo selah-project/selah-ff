@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "o waɗi nde fii Ya'aqob sariya, fii Israayiil pottital duumiingal;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "o waɗi nde"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fii Ya'aqob"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fii Israayiil"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pottital"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiingal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:20.690417269Z",
+  "model": "glm-5.3"
+}

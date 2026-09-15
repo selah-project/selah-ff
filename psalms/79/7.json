@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Sabu ɓe ñaami ⟨את⟩ Yaaqooba, e ⟨את⟩ hoɗorde mum ɓe bonni no feewi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaaqooba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaqooba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗorde mum"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hoɗorde mum"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ɓe bonni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:57.903038994Z",
+  "model": "glm-5.3"
+}

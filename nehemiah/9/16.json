@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono ɓe e baabiraaɓe amen ɓen mawnitii, ɓe tiiɗtini ⟨את⟩ wuddu maɓɓe, ɓe naniraali cukaaku amiraji maa.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "e baabiraaɓe amen"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "ɓen mawnitii"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ɓe tiiɗtini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddu maɓɓe"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "wuddu maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono wanaa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ɓe naniraali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cukaaku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amiraji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:49:21.959073847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "fii suɓaade peeje, fii waɗde golle e kaŋe, e kaalis, e njamndi:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "fii suɓaade peeje"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "peeje"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fii waɗde golle"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "e kaŋe"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "e njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:23.770808799Z",
+  "model": "glm-5.3"
+}

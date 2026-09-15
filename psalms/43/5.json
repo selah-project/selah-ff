@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Ko waɗi a renndu, nguuram am? e ko waɗi a ɓuuɓna e am? Yaakaa Eloohim, sabu mi yettoto mo kadi; ⟨O⟩ woni daɗndu geeceeje am, e Eloohim am.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "a renndu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguuram am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ko waɗi"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "a ɓuuɓna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "yaakaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mi yettoto mo"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "daɗndu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "geceeje am"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:19.772154390Z",
+  "model": "glm-5.3"
+}

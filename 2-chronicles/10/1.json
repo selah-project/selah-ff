@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Rohabowam yahi to Shekem, sabu to Shekem Yisraa'el fuu ariino ngam laamtinde ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rohabowam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "to Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ariino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ngam laamtinde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:24.381393879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓiɗɗo am, reeno amaruuje baaba maa, e wata a woppu Toraa yumma maa.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "reeno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amaruuje"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "a woppu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toraa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:23.036900384Z",
+  "model": "glm-5.3"
+}

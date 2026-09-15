@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mi yamirii wattiraaɓe am, kadi mi noddii giiɗuɓe am fii tikkere am, ɓe weltuɓe e jalbu am.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi yamirii"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "wattiraaɓe am"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddii"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "giiɗuɓe am"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "tikkere am"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "ɓe weltuɓe"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "jalbu am"
+    }
+  ],
+  "timestamp": "2026-09-15T09:12:42.811967170Z",
+  "model": "glm-5.3"
+}

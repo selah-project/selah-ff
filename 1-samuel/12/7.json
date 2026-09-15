@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "⟨את⟩ Non hannde dariiɗaa, mbo ñaawa ⟨את⟩ on yeeso Yaawe ⟨את⟩ peewje sariya Yaawe ɗin fow, ɗi o waɗi e mon e ⟨את⟩ baabiraaɓe mon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "non hannde"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "dariiɗaa"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "mbo ñaawa on"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "on ⟨את⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peewje ɗin fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "peewje sariya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "e mon ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:21.448183024Z",
+  "model": "glm-5.3"
+}

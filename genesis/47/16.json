@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Yoosef wi'i: “Hokku min mbeɗe mon, mi hokkotoo on e mbeɗe mon, so kaalis gasii.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hokku min"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "mbeɗe mon"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mi hokkotoo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "e mbeɗe mon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:11.269307550Z",
+  "model": "glm-5.3"
+}

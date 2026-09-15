@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kala lunginta padere ñaajeende, taƴa poɗe ɗe taƴaaama no feewi, e ƴettu ngartu — e nder daabaaji ɗeen, ⟨את⟩ nden mbi'a ñaametee.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "lunginta"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "padere ñaajeende"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "taƴa poɗe ɗe taƴaaama"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "taƴre"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "poɗe"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ngartu"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "e nder daabaaji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nden mbi'a ñaametee"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaametee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:02.099654759Z",
+  "model": "glm-5.3"
+}

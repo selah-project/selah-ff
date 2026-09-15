@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Pastoraji ɓen ngarii, ɓe ruttini ɓe; Musa ummi, o hisni ɓe, o waɗi ndiyam ⟨את⟩ geddi maɓɓe ɗin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastoraji ɓen"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ɓe ruttini ɓe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "o hisni ɓe"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "o waɗi ndiyam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geddi maɓɓe ɗin"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "geddi maɓɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:21.871422828Z",
+  "model": "glm-5.3"
+}

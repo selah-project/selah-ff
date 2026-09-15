@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "O hollirta konngol mun to Yaaquba, kuule mun e ñaawoore mun to Israa'iila.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "O hollirta"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol mun"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "to Yaaquba"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "kuule mun"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "e ñaawoore mun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "to Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:41.721884205Z",
+  "model": "glm-5.3"
+}

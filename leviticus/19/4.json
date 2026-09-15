@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wata ɓe ƴellito faade e laaɓe-wonaa-Eloohim, euluji wirnaaɗi wata ɓe mbaɗa fii hoore maɓɓe; ko mi Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "ɓe ƴellito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "laaɓe-wonaa-Eloohim ɗin"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e euluji"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wirnaaɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ɓe mbaɗa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii hoore maɓɓe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:20.178184178Z",
+  "model": "glm-5.3"
+}

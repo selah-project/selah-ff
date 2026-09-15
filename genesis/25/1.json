@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Abraaam ɓeydi o ƴetti debbo, innde makko ko Keturaa.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ɓeydi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraaam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturaa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:07.630319123Z",
+  "model": "glm-5.3"
+}

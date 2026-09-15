@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O ummitinii ⟨את⟩ boota o; o yalti, yaltude e ruttaade, haa ndiyam ɗen ɓe yoori e dow leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O ummitinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boota o"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "boota o"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "yaltude"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "e ruttaade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ɓe yoori"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:19.465942374Z",
+  "model": "glm-5.3"
+}

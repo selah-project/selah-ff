@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Nde ɓe ngarii, o yi'i ⟨את⟩ Eliyawab, o wi'i: “Tawo, yeeso Yaawe ⟨ko⟩ Mashiah mun.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nda"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ɓe ngarii"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyawab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyawab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:05.282376435Z",
+  "model": "glm-5.3"
+}

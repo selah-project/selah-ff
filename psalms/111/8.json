@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 111,
+  "translation": "Ɗe wallitaaɗi duumi haa duumi; ɗe mbaɗaa e goonga e ñoŋkoo.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Ɗe wallitaaɗi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ɗe mbaɗaa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "e ñoŋkoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:27.704154991Z",
+  "model": "glm-5.3"
+}

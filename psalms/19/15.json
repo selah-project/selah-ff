@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mbaɗo konnguɗi hunnde am e miijaare ɓernde am laaɓtude no weltoto yeeso maa, Yaawe, ɓuuɓri am e foytuɗo am.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mbaɗo"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "no weltoto"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "hunnde am"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "e miijaare"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ɓuuɓri am"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "e foytuɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:43.751346128Z",
+  "model": "glm-5.3"
+}

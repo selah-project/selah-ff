@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓe ñaamay kono ɓe mumdira; ɓe fenoyi kono ɓe ɓeydaa; sabu ɓe acci ⟨את⟩ Yaawe, ɓe reñaaki.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ɓe ñaamay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ...-aani"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ɓe mumdira"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ɓe fenoyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ...-aani"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ɓe ɓeydaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ɓe acci"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "reñaade"
+    }
+  ],
+  "timestamp": "2026-09-14T08:56:55.928321410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ko noon laamɗo Ashur yimnata ⟨את⟩ nanngaaɓe Misrayim e ⟨את⟩ eggiiɓe Kush — sukaaɓe e mawɓe — wuro e ɓalɗi, e dow mum en ɓaañiiɗo: ko hoyre Misrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ko noon"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "yimnata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanngaaɓe Misrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "nanngaaɓe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eggiiɓe Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "eggiiɓe"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "e mawɓe"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "e ɓalɗi"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ɓaañiiɗo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "e dow mum en"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:29.515460272Z",
+  "model": "glm-5.3"
+}

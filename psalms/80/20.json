@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Yaawe, Eloohim Tzebaot, ruttu min; lelnu yeeso maa, min hisnée.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ruttu min"
+    },
+    {
+      "surface": "האר",
+      "gloss": "lelnu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "min hisnée"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:08.582665565Z",
+  "model": "glm-5.3"
+}

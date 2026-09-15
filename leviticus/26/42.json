@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Maa mi waajjito ⟨את⟩ jeyaange am Yaakuuba, kadi ⟨את⟩ jeyaange am Is'haaka, kadi ⟨את⟩ jeyaange am Ibraahiima maa mi waajjito, e leydi ndin maa mi waajjito.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "maa mi waajjito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaange am Yaakuuba"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jeyaange am"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaange am Is'haaka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jeyaange am"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is'haaka"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaange am Ibraahiima"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jeyaange am"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiima"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "maa mi waajjito"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "maa mi waajjito"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:25.433684817Z",
+  "model": "glm-5.3"
+}

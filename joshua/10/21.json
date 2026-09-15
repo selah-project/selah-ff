@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 10:21",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yimɓe ɓen fuu ngarti to kampaaɗ to Yahuwaa, to Makkeedaa, e jam; alaa gooto e ɓiɓɓe Israa'iil wirnini ⟨את⟩ ɗemngal mun ngal.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ngarti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampaaɗ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwaa"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkeedaa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "חרץ",
+      "gloss": "wirnini"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗemngal mun ngal"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ɗemngal mun ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:21.989155039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Chuur danyi ⟨את⟩ Uurii, Uurii danyi ⟨את⟩ Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Chuur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uurii"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uurii"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Uurii"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:56.336476060Z",
+  "model": "glm-5.3"
+}

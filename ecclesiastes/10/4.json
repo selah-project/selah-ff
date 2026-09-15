@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "So ruuhu laamɗo ummii dow maa, woppaa nokku maa; sabu muñal newɗal darta bakkaatuuji mawɗi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "nokku maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "woppaa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "--"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "muñal newɗal"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "darta"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bakkaatuuji"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "mawɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:26.558432389Z",
+  "model": "glm-5.3"
+}

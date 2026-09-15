@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ko honno a lelnii hoore maa, moyyeere am? E ko honno a ɗaɓɓii e am? Sabu jooɗo feewde Eloohim; tawa mi yettata mo hanaa — daɗndo yeeso am ⟨woni⟩, e Eloohim am.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "a lelnii hoore maa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyyeere am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ko honno"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "a ɗaɓɓii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "sabu jooɗo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "feewde Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hanaa"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mi yettata mo"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "daɗndo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:54.256494846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O naatnani ⟨את⟩ senaaje baaba mun e senaaje mun ɗen e suudu Eloohim — kaalis e ngoldi e kuutorɗe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o naatnani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senaaje baaba mun e senaaje mun ɗen"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "senaaje"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "e senaaje mun ɗen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e ngoldi"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "e kuutorɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:14:32.323396098Z",
+  "model": "glm-5.3"
+}

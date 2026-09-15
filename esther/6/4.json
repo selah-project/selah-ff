@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Laamɗo on wi'i: hol woni e nder ŋoral ngal? Kono Haman ariino to ŋoral suudu laamɗo on ngal yaajowal, fii wiyde laamɗo on yo rope ⟨את⟩ Mordekay dow lekki ngal o hebbini fii makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol woni"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "e nder ŋoral ngal"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kono Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ariino"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "to ŋoral"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ngal yaajowal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "fii wiyde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "fii ropeende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o hebbini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:25.537195397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Fii mi ɗuuynay ndiyam e kaɓɓo, e ciiɗi e leydi woorndu; mi ɗuuynay Ruuhu Am e ɓiɗɗo maaɗa, e barke Am e ɓiɓɓe maaɗa ɓe muddinta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "mi ɗuuynay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "kaɓɓo"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "e ciiɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "leydi woorndu"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "mi ɗuuynay"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Ruuhu Am"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ɓiɗɗo maaɗa"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "e barke Am"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "ɓiɓɓe maaɗa ɓe muddinta"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:03.536535992Z",
+  "model": "glm-5.3"
+}

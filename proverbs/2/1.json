@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiyum, si a jaɓii konnguɗi am, maa a suuɗu amaruuji am ⟨את⟩ e maaɗa",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiyum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a jaɓii"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konnguɗi am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "maa amaruuji am"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "a suuɗu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "e maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:47:36.560385561Z",
+  "model": "glm-5.3"
+}

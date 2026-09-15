@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen a yiɗoto ⟨את⟩ Yaawe Eloohim maaɗa, e ɓernde maaɗa fuu, e nguuram maaɗa fuu, e doole maaɗa fuu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ndeen a yiɗoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim maaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ɓernde maaɗa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguuram maaɗa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "doole maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:59.888709273Z",
+  "model": "glm-5.3"
+}

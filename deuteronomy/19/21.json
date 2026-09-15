@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wata gite maa ɗen yurmo: nguurndam e nguurndam, gite e gite, ñoƴƴe e ñoƴƴe, junngo e junngo, koyɗe e koyɗe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "yurmo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "gite maa ɗen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "e nguurndam"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ñoƴƴe"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "e ñoƴƴe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koyɗe"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "e koyɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:14.190494342Z",
+  "model": "glm-5.3"
+}

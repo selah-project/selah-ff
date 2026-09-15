@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Mi okkoy ñeebe duɗe maa fii maa-na'i maa, on ñaame, on ŋore",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Mi okkoy"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ñeebe"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "duɗe maa"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "fii maa-na'i maa"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "on ñaame"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "on ŋore"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:14.949437211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E ɗee ñalɗi, tawa laamɗo Axashwerosh jooɗii e jooɗorde laamu makko, nde woni Shushan caabal ngal.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "E ɗee ñalɗi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "tawa o jooɗii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde woni"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "caabal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:20.926570739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i am: ɓiɗɗo aadam, yah, naatu e saare Israa'iil, haalan ɓe konngi am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (faade)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "konngi am"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:35:18.957191163Z",
+  "model": "glm-5.3"
+}

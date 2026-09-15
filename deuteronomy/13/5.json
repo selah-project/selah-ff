@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Caggal Yaawe Eloohim mon yoɓoto, ⟨את⟩ kanko on mo'u, ⟨את⟩ ɗaɓɓe makko on reen, daande makko on nano, ⟨את⟩ kanko on gollu, e makko on ɗokku.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yoɓoto"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ kanko",
+      "marks": "kanko (mo on mo'u)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "on mo'u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗaɓɓe makko"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ɗaɓɓe makko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "on reen"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "on nano"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ kanko",
+      "marks": "kanko (mo on gollu)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "on gollu"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "on ɗokku"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:20.735749561Z",
+  "model": "glm-5.3"
+}

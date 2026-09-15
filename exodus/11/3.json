@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe hokki yimɓe ɓen ⟨את⟩ ɓural e ƴi'e Misriiyankooɓe ɓen; kadi gorko Mosse oo, mawɗo no feewi e leydi Misrayim, e ƴi'e maccuɓe Pir'a e ƴi'e yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hokki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓural"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ɓural"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e ƴi'e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misriiyankooɓe ɓen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko oo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosse"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e ƴi'e"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pir'a"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "e e ƴi'e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:21.115097713Z",
+  "model": "glm-5.3"
+}

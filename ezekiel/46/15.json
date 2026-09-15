@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Ɓe maha ⟨את⟩ coltel ngel e ⟨את⟩ dokke nden e ⟨את⟩ nebam ngam, subaka subaka, dewo duumi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ɓe maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coltel ngel"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "coltel ngel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dokke nden"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dokke nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nebam ngam"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nebam ngam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "dewo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:55:23.956695528Z",
+  "model": "glm-5.3"
+}

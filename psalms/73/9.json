@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ɓe ngonndi e nder kammuuli meere mun ɗen, taaɓol mun ɗen yaatoo e nder leydi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "ɓe ngonndi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e nder kammuuli"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "meere mun ɗen"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "taaɓol mun ɗen"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "yaatoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:42.624398123Z",
+  "model": "glm-5.3"
+}

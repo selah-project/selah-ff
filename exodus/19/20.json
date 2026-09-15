@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yaawe jippini hoore mun e tulde Siinay, to hoore tulde nden; Yaawe noddi Mosheh to hoore tulde nden, Mosheh ƴetti hoore mun.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "jippini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ƴetti hoore mun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:12.882720082Z",
+  "model": "glm-5.3"
+}

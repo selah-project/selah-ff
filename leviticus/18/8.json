@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Muntende debbo baaba maa on a ɓoytortaa ɗum; muntende baaba maa on ⟨woni⟩ nde.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "muntende"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ɓoytortaa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "muntende"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa on"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨woni⟩ nde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:14.910413767Z",
+  "model": "glm-5.3"
+}

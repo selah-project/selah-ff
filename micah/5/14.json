@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kadi mi waɗan e sunaare e eellaare njaŋgordu ⟨את⟩ pagguɗi ɗin, ɗi nanjaani.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "kadi mi waɗan"
+    },
+    {
+      "surface": "באף",
+      "gloss": "e sunaare"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "e eellaare"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "njaŋgordu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paggudi ɗin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "paggudi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanjaani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:01.506214340Z",
+  "model": "glm-5.3"
+}

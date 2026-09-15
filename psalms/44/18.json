@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Ɗuum fof arii e min, kono min mbonaali ma, kono min fenaani e jokkere maa enɗam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fotde"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "arii e min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... -aali"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "min mbonaali ma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... -aani"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "min fenaani"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "e jokkere maa enɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.098773498Z",
+  "model": "glm-5.3"
+}

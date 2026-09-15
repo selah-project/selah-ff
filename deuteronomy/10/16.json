@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Pellu-ɗon ⟨את⟩ gondu ɓernde mon, wata on ɓeydu towdude daande mon.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Pellu-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gondu ɓernde mon"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "gondu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "daande mon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "on ɓeydu towdude"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓeydu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:59.950916169Z",
+  "model": "glm-5.3"
+}

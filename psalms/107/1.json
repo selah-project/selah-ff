@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Meeɗinee Yaawe, sabu ⟨o⟩ moƴƴi, sabu hesed makko duumii haa duumi.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Meeɗinee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:21.291462424Z",
+  "model": "glm-5.3"
+}

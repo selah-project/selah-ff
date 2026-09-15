@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shemuëleree haalani yimɓe ɓen ⟨את⟩ sariya laamu ngun, o winnditi ɗum deftere, o waɗi ɗum yeeso Yaawe; Shemuëleree neldi ⟨את⟩ yimɓe ɓen fof, neɗɗo faade e galle mun.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëleree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sariya laamu ngun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "laamu ngun"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "o winnditi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëleree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "faade e galle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:56:48.665441788Z",
+  "model": "glm-5.3"
+}

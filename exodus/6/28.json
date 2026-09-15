@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Wonii e ñalawma Yaawe kaalunoo Muusaa, e nder leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wonii"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalawma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaalunoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:11.723126518Z",
+  "model": "glm-5.3"
+}

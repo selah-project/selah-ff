@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yuuma waɗi bonannde e nder gite Yaawe, ɓe muusini ⟨את⟩ mo ko ɓuri kala ko baabiraaɓe maɓɓe waɗnoo, e junuubuuji maɓɓe ɗi ɓe junnuubi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e nder gite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "ɓe muusini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Yaawe)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ko ɓuri kala ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "waɗnoo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "e junuubuuji maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ɓe junnuubi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:39.008331254Z",
+  "model": "glm-5.3"
+}

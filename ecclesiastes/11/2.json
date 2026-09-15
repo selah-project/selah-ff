@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Jowdu heen jeegom, kadi jeetati; sabu a anndaa bone hol wonata dow leydi ndin.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "jowdu"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "heen"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "a anndaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonata"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:43.678091894Z",
+  "model": "glm-5.3"
+}

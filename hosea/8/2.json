@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Am ɓe noddunoyi: “Eloohim am, min Yisraa'iil min nganndi maa.”",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ɓe noddunoyi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "min nganndi maa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:41.188045140Z",
+  "model": "glm-5.3"
+}

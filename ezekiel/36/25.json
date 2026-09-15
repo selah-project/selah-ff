@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Mi ɓooray moƴƴere ndiyam dow mon on, on laaɓa; e nder puccol mon fuu e nder sanamuuji mon fuu mi laaɓan ⟨את⟩ on.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "mi ɓooray"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dow mon on"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "on laaɓa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "puccol mon"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "sanamuuji mon"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "mi laaɓan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:30:41.431015504Z",
+  "model": "glm-5.3"
+}

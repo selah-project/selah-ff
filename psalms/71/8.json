@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Haande am heɓa timmude e yettoore maa, balaa ñalawma fof e ñemmbude maa.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "heɓa timmude"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haande am"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "e yettoore maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "balaa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma fof"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "e ñemmbude maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:02.675808762Z",
+  "model": "glm-5.3"
+}

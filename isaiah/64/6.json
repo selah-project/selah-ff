@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Alaa mo wooɗata innde maa, mo ummotooɗo nanngude maa; maa a suuɗii yeeso maa e min, a halkii min e junngo bonannde amen.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "mo wooɗata"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "mo ummotooɗo"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "nanngude"
+    },
+    {
+      "surface": "בך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maa a"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "a suuɗii"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "a halkii min"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "bonannde amen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:02:31.877578638Z",
+  "model": "glm-5.3"
+}

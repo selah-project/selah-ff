@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Jooɗorde maa ⟨ko⟩ e nder fenaande; e nder fenaande ɓe muññii anndude ⟨את⟩ Am, wi'i Yaawe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "jooɗorde maa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "e nder fenaande"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ɓe muññii"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Am",
+      "marks": "anndude Am"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:09:34.977762985Z",
+  "model": "glm-5.3"
+}

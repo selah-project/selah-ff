@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Woye leydi bakkaatunde, yimɓe colli bonannde, buri bonɓe, ɓiɓɓe yeeyɓe; ɓe acci ⟨את⟩ Yaawe, ɓe ƴiiƴamii ⟨את⟩ Cennuɗo Israa'iila, ɓe ƴelliti caggal.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Woye"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bakkaatunde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "colli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "buri"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bonɓe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "yeeyɓe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ɓe acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ɓe ƴiiƴamii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cennuɗo Israa'iila"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Cennuɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ɓe ƴelliti"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "caggal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:18.949006464Z",
+  "model": "glm-5.3"
+}

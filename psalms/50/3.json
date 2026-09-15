@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Eloohim amen ari, wata o suuɗ; yiite ina ñamminoo yeeso makko, e baɗte makko huɓɓere werla mawnde.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "suuɗ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ñaamdata"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "e baɗte makko"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "huɓɓere werla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mawnde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:36.325749388Z",
+  "model": "glm-5.3"
+}

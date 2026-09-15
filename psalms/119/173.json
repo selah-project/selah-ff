@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Juude maa ɗen ƴettiwoy am, sabu min suɓiima jamirije maa ɗen.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ƴettiwoy"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "juude maa ɗen"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "ballal am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jamirije maa ɗen"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "min suɓiima"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:15.512534165Z",
+  "model": "glm-5.3"
+}

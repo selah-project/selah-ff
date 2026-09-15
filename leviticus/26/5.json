@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Heɓoto on ndiyam fooñgol ⟨את⟩ vignobes, ɗi vignobes ngadda ⟨את⟩ ñiwi; ñaamuu on meere mon haa ñawra, nguuron on e koolol e leydi mon.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "heɓoto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ndiyam fooñgol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vignobes"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vignobes"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ɗi vignobes"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ngadda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñiwi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ñiwi"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ñaamuu"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "meere mon"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "haa ñawra"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "nguuron"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e koolol"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "e leydi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:15.484695439Z",
+  "model": "glm-5.3"
+}

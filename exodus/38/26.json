@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 38:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Bekaa wonande hoore neɗɗo — feccere jeyngal, e jeyngal cennde nden — fii kala mo darii e limaaɓe ɗen, ɓe ɓuri duuɓi noogas e ko ɓuri ɗum, haa e jeegom teemedde ujunnaaje e ujuneeje tati e teemedde jeeɗiɗo e jeegomɗi noogas.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "bekaa"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "wonande hoore neɗɗo"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "jeyngal"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "e jeyngal"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cennde nden"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kala"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "mo darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "limaaɓe ɗen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ɓe ɓuri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "duuɓi noogas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e ko ɓuri ɗum"
+    },
+    {
+      "surface": "לשש",
+      "gloss": "haa e jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujunnaaje"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "e ujuneeje tati"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ujuneeje"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e teemedde jeeɗiɗo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "e jeegomɗi noogas"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:36.400993210Z",
+  "model": "glm-5.3"
+}

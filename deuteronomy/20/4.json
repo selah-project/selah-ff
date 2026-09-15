@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kono Yaawe Eloohim mon on, mongo yaha e mon, haɓata fii mon e pembe mon, fii moɗɗitinde ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "on, mongo yaha"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "haɓata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "pembe mon"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "fii moɗɗitinde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:03.556168487Z",
+  "model": "glm-5.3"
+}

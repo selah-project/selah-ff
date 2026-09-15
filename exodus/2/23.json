@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 2:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Nde waɗii e ñalɗi ɗii keewɗi, laamɗo Misrayim maayi; ɓiɓɓe Israa'iil ñiŋi hoore mum en e gollal ngal, ɓe cuurii, cuurka mum en ƴetti to Eloohim sabu gollal ngal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde waɗii"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e ñalɗi"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "keewɗi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויאנחו",
+      "gloss": "ɓe ñiŋi hoore mum en"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "gollal ngal"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ɓe cuurii"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "cuurka mum en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "gollal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:43.150662730Z",
+  "model": "glm-5.3"
+}

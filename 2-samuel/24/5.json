@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓe njippii ⟨את⟩ Yardden, ɓe dartii e Aroer, ñaamo wuro ngo woni hakkunde lesdi Gad, ɓe njahdi haa Yaaser.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ɓe njippii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe dartii"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "e Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lesdi ndin"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e haa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaaser"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:28.497075201Z",
+  "model": "glm-5.3"
+}

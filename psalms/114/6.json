@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Pelle ɗen, maa no waɗata, ɗe dilli no walli? Ɓulli ɗen, no benɓe dokoy?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ɗe dilli"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "no walli"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ɓulli ɗen"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "no benɓe"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dokoy"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.712964162Z",
+  "model": "glm-5.3"
+}

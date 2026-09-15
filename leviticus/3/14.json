@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Oo naatna e maggal dokkal mun, huɓɓere fii Yaawe: ⟨את⟩ duume huɓɓotoo ⟨את⟩ nder, e ⟨את⟩ duume fuu woolde woni dow nder.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "oo naatna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e maggal"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "dokkal mun"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "huɓɓere"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duume nden"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duume nden"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "huɓɓotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nder nden"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nder nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woolde"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nder nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:28.624808060Z",
+  "model": "glm-5.3"
+}

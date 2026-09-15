@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ko hommbo oo suuɗoowo peeje alaa ganndal? Sabu ɗuum mi haali, kono mi haajaa; ɗee ko ciftineeje ɓurɗe am, te mi anndaa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ko hommbo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "suuɗoowo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "peeje"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗuum"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "mi haali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "mi haajaa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ciftineeje ɓurɗe am"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mi anndaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:08.966310457Z",
+  "model": "glm-5.3"
+}

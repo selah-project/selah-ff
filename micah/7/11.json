@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ñalnde mahirgol mahdiiji maa; ñalnde nden heeri nden maa woɗɗitee.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahirogol"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "mahdiiji maa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "maa woɗɗitee"
+    },
+    {
+      "surface": "חק",
+      "gloss": "heeri nden"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:29.581704413Z",
+  "model": "glm-5.3"
+}

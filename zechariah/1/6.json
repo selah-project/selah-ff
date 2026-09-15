@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 1:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono konngi Am e kuule Am ɗen, ɗen mi amri ⟨את⟩ jeyaaɓe Am annabaaɓe ɗen, mbewaɗi nattude e baabiraaɓe mon? Ɓe ruttii, ɓe wi'i: Ko no Yaawe Sabao'ot feewnoo waɗude fii minen, no laawol amen e no golle amen mbi'irtee, nanko o waɗi ⟨את⟩ amen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi Am"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "e kuule Am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi amri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe Am annabaaɓe ɗen"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɓe Am"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɗen"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "mbewaɗi"
+    },
+    {
+      "surface": "השיגו",
+      "gloss": "nattude e"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "ɓe ruttii"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko no"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "feewnoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabao'ot"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wañude"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fii minen"
+    },
+    {
+      "surface": "כדרכינו",
+      "gloss": "no laawol amen"
+    },
+    {
+      "surface": "וכמעללינו",
+      "gloss": "e no golle amen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nanko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o wañi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:47.372562161Z",
+  "model": "glm-5.3"
+}

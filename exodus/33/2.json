@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Mi nelaya julaaɗo ko adii maa, mi yaltinaya ⟨את⟩ Kana'anaaɓe, Emoraɓe, Hittaɓe, Perisaɓe, Hiwwi'en e Yebusaɓe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mi nelaya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ko adii maa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "julaaɗo"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "mi yaltinaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kana'anaaɓe"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kana'anaaɓe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoraɓe"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e Hittaɓe"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e Perisaɓe"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwwi'en"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e Yebusaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:10.013378611Z",
+  "model": "glm-5.3"
+}

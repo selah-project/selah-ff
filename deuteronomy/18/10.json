@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Wata tawaama e maaɗa: baɗɗo ɓiyum mawɗum walla ɓiyum debbo yottuɗo e yiite, jeyoowo kese, jiilotooɗo duume, manaajo, e gorko wuro.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "baɗɗo yottuɗo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum mawɗum"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "walla ɓiyum debbo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "jeyoowo"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "kese"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "jiilotooɗo duume"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "e manaajo"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "e gorko wuro"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:42.834847808Z",
+  "model": "glm-5.3"
+}

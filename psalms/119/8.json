@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "⟨את⟩ kuule maa ndaran mi; wata a yowtu mi haa yaajde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule maa (חקיך)"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuule maa"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ndaran mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "a yowtu mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yaajde"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:00.825477626Z",
+  "model": "glm-5.3"
+}

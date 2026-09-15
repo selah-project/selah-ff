@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Hara kanko o yi'a laabi am, e o limta kala pigaaji am?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "hara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yi'a"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laabi am"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "pigaaji am"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "o limta"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:30.803877380Z",
+  "model": "glm-5.3"
+}

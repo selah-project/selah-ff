@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Mi wontii moɗɗo e miñiraaɓe am, e yajoowo e ɓiɓɓe yumma am.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "moɗɗo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wontii"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "e miñiraaɓe am"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "e yajoowo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:25.164750773Z",
+  "model": "glm-5.3"
+}

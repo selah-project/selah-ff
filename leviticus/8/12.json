@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O ɓucci e dutte muurnirɗe ɗen dow hoore Aharon, o muurniri ⟨את⟩ mo fii cenaynde makko.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "o ɓucci"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "e dutte"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "muurnirɗe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "o muurniri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "fii cenaynde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:57.111617217Z",
+  "model": "glm-5.3"
+}

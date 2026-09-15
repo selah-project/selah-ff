@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kohin Midayaan ina woodi ɓiɓɓe rewɓe jeeɗiɗi; ɓe ngarii, ɓe ƴeŋgii ndiyam, ɓe hebbini ⟨את⟩ laakaraaji ɗii ngam yarlude ba'i baaba maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midayaan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ɓe ngarii"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ɓe ƴeŋgii"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ɓe hebbini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laakaraaji ɗii"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "laakaraaji ɗii"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ngam yarlude"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ba'i"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "baaba maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:24.393382116Z",
+  "model": "glm-5.3"
+}

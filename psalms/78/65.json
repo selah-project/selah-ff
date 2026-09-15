@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Adonaay ummiima no hoorebbiri-ɗo etee, no gaadoroowo wottoojo caggal wine.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "no hoorebbiri-ɗo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "no gaadoroowo"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "wottoojo"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "caggal wine"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:36.427686512Z",
+  "model": "glm-5.3"
+}

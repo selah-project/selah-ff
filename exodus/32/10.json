@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Non hannde accu lam, yitere muuyo am yo ƴotto ɓe, mi huntoo ɓe; mi waɗan maa ⟨את⟩ leñol mawngol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "non hannde"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "accu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yo ƴotto"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "muuyo am"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "mi huntoo ɓe"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mi waɗan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maa",
+      "marks": "leñol mawngol"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngol"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:45.440697686Z",
+  "model": "glm-5.3"
+}

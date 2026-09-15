@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Waɗu ƴikkere hiire wuddu maa, so a jeyi mofru.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "waɗu"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ƴikkere"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "hiire wuddu maa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "a jeyi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mofru"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:56.533745710Z",
+  "model": "glm-5.3"
+}

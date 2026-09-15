@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "E ⟨את⟩ ɗuuɗi ɓuuɓɗi ɗin, e ⟨את⟩ nebam ngen, fii laylaytol ngol e fii nebam nuuygol ngol, e fii ɓuuɓri ɗuuɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗuuɗi ɓuuɓɗi ɗin"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ɗuuɗi ɓuuɓɗi ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nebam ngen"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nebam ngen"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "fii laylaytol ngol"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "e fii nebam"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "nuuygol ngol"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "e fii ɓuuɓri"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ɗuuɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:25.403171130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Akis ndokki mo ñalnde nden ⟨את⟩ Tsiklag; ko ɓuri, Tsiklag ⟨wonii⟩ jeyi laamɓe Yuuda haa ñalnde hannde ndee.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ko ɓuri"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "jeyi laamɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:29.289337696Z",
+  "model": "glm-5.3"
+}

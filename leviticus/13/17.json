@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kohen on yi'ay ɗum, tawi wonii, ñawu nguu wayliima o waɗi danewo; kohen on laɓɓintay ⟨את⟩ ñawu nguu: ko ⟨o⟩ celluɗo.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "yi'ay ɗum"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen on"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawi wonii"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "wayliima"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ñawu nguu"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "o waɗii danewo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "laɓɓintay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawu nguu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ñawu nguu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "celluɗo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:23.360070923Z",
+  "model": "glm-5.3"
+}

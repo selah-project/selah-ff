@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Avimelek wi'i: \"Holno noon ngolɗam waɗɗaɑɗaa e amen? Go'ɗɗo e yimɓe ɓee fotnoo lorde ⟨את⟩ debbo maa, so maa adduɗaa e amen asam.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "holno"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngolɗam"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɗɗaɗaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "fotnoo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lorde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "go'ɗɗo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo maa"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "debbo maa"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "adduɗaa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:00.725371078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "E ñalnde jeegobaasa ɓe heblay ⟨את⟩ ko ɓe ngaddata, ɗum wontay ɗiɗi-guru ɓuri ko ɓe mooftata ñalnde kala.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "wontay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "jeegobaasa"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ɓe heblay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko ɓe ngaddata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ɓe ngaddata"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wontay"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ɗiɗi-guru"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "ɓe mooftata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kala"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:29.737707348Z",
+  "model": "glm-5.3"
+}

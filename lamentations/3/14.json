@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi laati piyannde yimɓe am fuu, wolde maɓɓe ñalawma fof.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "mi laati"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "piyannde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yimɓe am fuu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "wolde maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:56.674080491Z",
+  "model": "glm-5.3"
+}

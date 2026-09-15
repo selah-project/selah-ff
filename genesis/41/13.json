@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Nde o firii ɗum e amen, ko non ndum woni: ⟨את⟩ lam o artirii e nokku am, ⟨את⟩ mun o tarii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde wonii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "firii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ndum woni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lam"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "o artirii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כני",
+      "gloss": "nokku am"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "mun"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "o tarii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:08.886576607Z",
+  "model": "glm-5.3"
+}

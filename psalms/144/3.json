@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 144,
+  "translation": "Yaawe, ko neɗɗaano woni, wata a anndu mo? Walla ɓiɗɗo aadam, wata a limtu mo?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko... woni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗaano"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "wata a anndu mo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "wata a limtu mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.853638347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe haalii Moshe e haalii Aharon, o wi'i:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (faade)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e (faade)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i:"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:09.146689224Z",
+  "model": "glm-5.3"
+}

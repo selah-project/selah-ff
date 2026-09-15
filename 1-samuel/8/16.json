@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ⟨את⟩ mbaraaji mon e ⟨את⟩ maccuɓe rewɓe mon e ⟨את⟩ sukaaɓe worɓe mon ɓurɗi moƴƴude e ⟨את⟩ pucci mon o yiddata, o waɗa ɓe e golle mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "E ⟨את⟩",
+      "marks": "mbaraaji mon"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "mbaraaji mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "maccuɓe rewɓe mon"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "maccuɓe rewɓe mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sukaaɓe worɓe mon"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "sukaaɓe worɓe mon"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ɓurɗi moƴƴude"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pucci mon"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "pucci mon"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o yiddata"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o waɗa ɓe"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "e golle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:37:51.360544784Z",
+  "model": "glm-5.3"
+}

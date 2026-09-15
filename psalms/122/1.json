@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Yimre laabi ƴellitgol, ñaawoode Dawuuda. Mi weltiima si ɓe wi'i mi: «Suudu Yaawe, min njaha.»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "laabi ƴellitgol"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ñaawoode Dawuuda"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Mi weltiima"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "si ɓe wi'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "min njaha"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:07.013121570Z",
+  "model": "glm-5.3"
+}

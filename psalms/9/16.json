@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Leƴƴi ɗin yoolii e hersa ɗi tagi; e ceŋor ɗe ɗi cuuñi, koyɗe maɓɓe nanngaa.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "yoolii"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "e hersa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɗi tagi"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "e ceŋor"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ɗi cuuñi"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nanngaa"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "koyɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:06.544461391Z",
+  "model": "glm-5.3"
+}

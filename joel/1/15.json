@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eey, hello fii ñalawma ngan! Fii ko ñalawma Yaawe ɓadii, no hunndugol Shadday nii muma aray.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Eey, hello"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "fii ñalawma ngan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ɓadii"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "no hunndugol nii"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "muma aray"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:29.048087345Z",
+  "model": "glm-5.3"
+}

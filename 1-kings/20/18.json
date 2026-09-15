@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "O wi'i: si ɓe njalti fii jam, nanngu ɓe ⟨a wuurde⟩; si ɓe njalti fii konngu, ⟨a wuurde⟩ nanngu ɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "fii jam"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ɓe njalti"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "nanngu ɓe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a wuurde"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fii konngu"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ɓe njalti"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a wuurde"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "nanngu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:27.515936264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde Achaab yi'i ⟨את⟩ Eliyahu, Achaab wi'i mo: “A ko a woni ɗoo, waloowo Israa'iil?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "Nde... yi'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ko a woni ɗoo"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "waloowo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:17.703149852Z",
+  "model": "glm-5.3"
+}

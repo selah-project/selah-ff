@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "A maya dow gaynaako e sappo; a noonoy gaynaako suka e jaabirdu mawnde.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "gaynaako"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "e sappo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "a maaya"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "a noonoy"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "gaynaako suka"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "e jaabirdu mawnde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:48.909914221Z",
+  "model": "glm-5.3"
+}

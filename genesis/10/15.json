@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kanaan ngaddi ⟨את⟩ Sidon ɓiɗɗo mum mawɗo e ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ɓiɗɗo mum mawɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:23.074141630Z",
+  "model": "glm-5.3"
+}

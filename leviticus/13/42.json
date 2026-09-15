@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 13:42",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono si tawa ko e ɓerɗe hoore ɓoornotooɗe, walla e gannde ɓoornotooɗe, ina woodi ñaawoore danayru booriiɗo-boori — ko çaraa'at (ñawuɲoONGO) lulbotooka ko e ɓerɗe hoore mun walla e gannde mun.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kono si tawa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "inna woodi"
+    },
+    {
+      "surface": "בקרחת",
+      "gloss": "e ɓerɗe hoore ɓoornotooɗe"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בגבחת",
+      "gloss": "e gannde ɓoornotooɗe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "danayru"
+    },
+    {
+      "surface": "אדמדם",
+      "gloss": "booriiɗo-boori"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "çaraa'at (ñawuɲoONGO)"
+    },
+    {
+      "surface": "פרחת",
+      "gloss": "lulbotooka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "e ɓerɗe hoore mun"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "e gannde mun"
+    }
+  ],
+  "timestamp": "2026-09-15T05:49:51.994556648Z",
+  "model": "glm-5.3"
+}

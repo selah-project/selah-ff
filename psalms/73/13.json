@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Pellet, ko meere: mi laɓɓinii ɓernde am, mi loorii juuɗe am e laaɓal.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "pellet"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "meere"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "mi laɓɓinii"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "e mi loorii"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "e laaɓal"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "juuɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:11.944616327Z",
+  "model": "glm-5.3"
+}

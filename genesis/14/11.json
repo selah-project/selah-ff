@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe keɓi ⟨את⟩ jawdi Soddom e Gomorra fuu, e ⟨את⟩ nguura maɓɓe fuu, ɓe njahi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe keɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawdi Soddom e Gomorra fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Soddom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "e Gomorra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nguura maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nguura maɓɓe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:15.534329234Z",
+  "model": "glm-5.3"
+}

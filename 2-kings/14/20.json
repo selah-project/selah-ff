@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe ɓoorni mo ⟨את⟩ e dow pucci ɗin, o wirnaa to Yerushalayim e baabiraaɓe makko, to wuro Daawuda.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Ɓe ɓoorni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "pucci ɗin"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "to Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "to wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:19.003078063Z",
+  "model": "glm-5.3"
+}

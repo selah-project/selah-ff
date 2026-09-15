@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Blesi, yo wellu am, ⟨את⟩ Yaawe, wata yaho honoore maa baawɗe mun fuu.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "blesi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wellu am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "yaho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "baawɗe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:49.106642051Z",
+  "model": "glm-5.3"
+}

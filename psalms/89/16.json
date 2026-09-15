@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Behdinaa yimɓe ɓe nganndi dewal Yaawe; e nder lewru yeeso maa ɓe yaha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "behdinaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ɓe nganndi"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "dewal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "e nder lewru"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ɓe yaha"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:58.676672401Z",
+  "model": "glm-5.3"
+}

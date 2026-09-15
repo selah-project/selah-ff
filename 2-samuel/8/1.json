@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E ɓaawo ɗum wonnoo: Daawuuda fiyi ⟨את⟩ Fillisti'en, o lelni ɓe les; Daawuuda ƴetti ⟨את⟩ bitto ngo wuro-maamum ngol e juuɗe Fillisti'en.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "e ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Fillisti'en"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fillisti'en"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "o lelni ɓe les"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitto ngo wuro-maamum ngol"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "bitto"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wuro-maamum"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Fillisti'en"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:06.001884190Z",
+  "model": "glm-5.3"
+}

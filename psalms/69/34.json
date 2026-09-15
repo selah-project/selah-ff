@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Tawde Yaawe nano to enaasiiɓe ɓen, o ɓeernaa ⟨את⟩ jeyaaɓe makko ɓen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tawde"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "enaasiiɓe ɓen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "o ɓeernaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:18.127568271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ɗemngal cellungal ko lekki nguurndam, kono wendere e maggel ko torseende ruuhu.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "cellungal"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "Ɗemngal"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "kono wendere"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e maggel"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "torseende"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruuhu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:58:01.132187697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Wi'ee nder leƴƴi ɗin: «Yaawe laamii!» Aduna kadi danɗinaama, moytataa hay soyet; o ñaawata leƴƴi ɗen e nuɗɗudi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Wi'ee"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nder leƴƴi ɗin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "danɗinaama"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "moytataa"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "soyet"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ñaawata"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "leƴƴi ɗen"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "e nuɗɗudi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:30.701599818Z",
+  "model": "glm-5.3"
+}

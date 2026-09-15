@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O waɗini ⟨את⟩ altar kaŋŋe ka e hoɗorde ndejondi nde, yeeso keddol ngol.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar kaŋŋe ka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e hoɗorde"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ndejondi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "keddol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:26.775200574Z",
+  "model": "glm-5.3"
+}

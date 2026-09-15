@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Wata ijoto amen bonanɗe gadane; meeɗen, yurmeende maa ƴotto amen, sabu min lelnaama no feewi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ijoto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "bonanɗe"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "gadane"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "meeɗen"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ƴotto amen"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "yurmeende maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "min lelnaama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:57.903307459Z",
+  "model": "glm-5.3"
+}

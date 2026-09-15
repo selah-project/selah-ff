@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ɓe moota, ɓe kaalaa bone e ƴaañde; ɓe kaalaa woɗɗude.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ɓe moota"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe kaalaa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "e ƴaañde"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "woɗɗude"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ɓe kaalaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:02.744317508Z",
+  "model": "glm-5.3"
+}

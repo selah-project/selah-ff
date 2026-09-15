@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ko mini nanii fenaande keewnde, kulol kalaange; ɓe pottondirii ɓe rennduɓe fii am, ɓe fellitii nanngude nguurndam am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "min nanii"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewnde"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kalaange"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "ɓe pottondirii"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "rennduɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "nanngude"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ɓe fellitii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:58.720741746Z",
+  "model": "glm-5.3"
+}

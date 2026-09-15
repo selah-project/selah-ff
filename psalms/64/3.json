@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Suuɗorii mi e sod muneeɓe, e murdagol gollotooɓe bone.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "suuɗorii mi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "e sod"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "muneeɓe"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "e murdagol"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollotooɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:32.925419621Z",
+  "model": "glm-5.3"
+}

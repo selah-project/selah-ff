@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Haruna naatnu ⟨את⟩ na'i baasal on mo eerii, o heɓtu libru mun e libru suudu mun.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "naatnu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haruna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na'i baasal on"
+    },
+    {
+      "surface": "פר",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "baasal on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eerii"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "o heɓtu libru"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "e libru mun"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "e libru"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:00.040926855Z",
+  "model": "glm-5.3"
+}

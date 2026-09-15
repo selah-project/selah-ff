@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E waɗu wano humpito maa ngol, wata a yuɓɓin hoore booye mun nden e jam ka Seol",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waɗu"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "wano humpito maa ngol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "yuɓɓin"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "hoore booye mun nden"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ka Seol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:28.137878799Z",
+  "model": "glm-5.3"
+}

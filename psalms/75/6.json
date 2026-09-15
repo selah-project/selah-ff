@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 75,
+  "translation": "Wata ɗum njogiton ƴiewre mon dow toowre; wata kaaloton e dewɗo toowɗo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ɗum njogiton"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "dow toowre"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ƴiewre mon"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "kaaloton"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "e dewɗo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "toowɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:32.741936783Z",
+  "model": "glm-5.3"
+}

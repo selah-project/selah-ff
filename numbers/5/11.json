@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yaawe wakkilani Mooses, wakkilaneede.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakkilani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooses"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wakkilaneede"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:06.074327853Z",
+  "model": "glm-5.3"
+}

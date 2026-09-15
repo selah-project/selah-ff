@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono e haane ɗoo mi darinɗin ma, fii no mballirta-ma ⟨את⟩ sembe Am, e fii winndude Innde Am e nder leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "e haane"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "mi darinɗin ma"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "no mballirta-ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sembe Am"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "sembe Am"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "winndude"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Innde Am"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:54.926454825Z",
+  "model": "glm-5.3"
+}

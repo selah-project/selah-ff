@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mi wi'i: “Ko ⟨ngal woni⟩?” O wi'i: “Ngal ⟨woni⟩ eepaa jooni yaltuɗo.” O wi'i kadi: “Ngal ⟨woni⟩ gite maɓɓe e nder leydi ndin fuu.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ngal woni⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eepaa"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "yaltuɗo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i kadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "gite maɓɓe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:45.187152422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Nguurndam o ɗaɓɓunii e maa, a hunii mo; juuteende duuvi, duumiiɗum e abada.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Nguurndam"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o ɗaɓɓunii"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "a hunii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "juuteende"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "duuvi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiiɗum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e abada"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:44.031349998Z",
+  "model": "glm-5.3"
+}

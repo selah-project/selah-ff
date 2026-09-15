@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe awri, ɓe yejjiti golle makko; ɓe enniraali wasiya makko.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ɓe awri"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ɓe yejjiti"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "golle makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ɓe enniraali"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "wasiya makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.669947489Z",
+  "model": "glm-5.3"
+}

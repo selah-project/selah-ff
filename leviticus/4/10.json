@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Hono no ɗum ummiteteeɗo e nagge nanngirde cellal nii; kahenajo on ɓuuɓnina ɗum e kaɓirgel nanngirde olan ngel.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "hono no ... nii"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ummiteteeɗo"
+    },
+    {
+      "surface": "משור",
+      "gloss": "e nagge"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nanngirde"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "cellal"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ɓuuɓnina ɗum"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahenajo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kaɓirgel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olan ngel"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:21.456826305Z",
+  "model": "glm-5.3"
+}

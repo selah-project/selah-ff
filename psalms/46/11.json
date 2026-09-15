@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Dewnittee, anndee wonde ko miin Eloohim; mi toowii e nder leƴƴi ɗin, mi toowii e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Dewnittee"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "anndee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko miin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mi toowii"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e nder leƴƴi ɗin"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mi toowii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:10.750765564Z",
+  "model": "glm-5.3"
+}

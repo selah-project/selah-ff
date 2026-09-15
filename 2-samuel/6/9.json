@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Daawuuda huli ⟨את⟩ Yaawe ñalawma kan, o wi'i: no kees Yaawe naatorta e am?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "huli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "איך",
+      "gloss": "no"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "naatorta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:04.362854933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Gidiyon wi'i ɓe: “Mi laamataa on, ɓiɗɗo am kadi laamataa on; Yaawe laamota on.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "mi laamataa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "laamataa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "laamota"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:27:24.737434026Z",
+  "model": "glm-5.3"
+}

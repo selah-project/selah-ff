@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Tawa mi reeni laabi Yaawe, mi waɗaani bonannde fii Eloohim am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "mi reeni"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi waɗaani"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "fii Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:33.346372155Z",
+  "model": "glm-5.3"
+}

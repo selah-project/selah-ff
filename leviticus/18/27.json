@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Fii ko worɓe leydi ndin ɓe ɗo yeeso mon ɗin mbaɗi ⟨את⟩ ɗee bonndeeji ɗee fuu, leydi ndin lanɓi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee bonndeeji ɗee fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "bonndeeji ɗee"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ɗo yeeso mon ɗin"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "lanɓi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:52.166529251Z",
+  "model": "glm-5.3"
+}

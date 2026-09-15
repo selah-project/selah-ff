@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Ndeen noon ko nii Yaawe wi'i, tago maa, Yaakob, e semmɗo maa, Yisraa'iil: wata hulu, mawni mi artirii maa; mi noddirii maa e innde maa; ko amin a jeyi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndeen noon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "tago maa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "e semmɗo maa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "mi artirii maa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddirii maa"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "e innde maa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko amin a jeyi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:06.240817849Z",
+  "model": "glm-5.3"
+}

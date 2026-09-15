@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nde Atalya nanri ⟨את⟩ daande dawrooɓe ɓen e yimɓe ɓen, o naati e yimɓe ɓen nder suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Nde ... nanri"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "dawrooɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:01.862666439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Dawuudi waɗi no Eloohim yamiri mun nih, ɓe fiyi ⟨את⟩ konu Filiistaynaaɓe ɓen, iwde to Giib'on haa to Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamiri mun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu Filiistaynaaɓe ɓen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filiistaynaaɓe ɓen"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "iwde to Giib'on"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa to"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:29.788567318Z",
+  "model": "glm-5.3"
+}

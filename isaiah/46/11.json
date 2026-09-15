@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Nodduɗo burnaagu ummiinde fuɗnaange, neɗɗo muñɗo peeje am leydi woɗnde; ko miin haali ɗum, ko miin kadi addoyay ɗum; ko miin fewni ɗum, ko miin kadi waɗay ɗum.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "noddu"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ummiinde fuɗnaange"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "burnaagu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "woɗnde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "muñɗo peeje am"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ko miin kadi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "haali"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ko miin kadi"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "addoyay ɗum"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "fewni"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ko miin kadi"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "waɗay ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:30.803967510Z",
+  "model": "glm-5.3"
+}

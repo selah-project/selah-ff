@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 9:23",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Hannde on ngoni cujjaaɓe, maccuɗo wanaa kaɓetee e mon, wonnde cokkuɓe lekki e yogaari ɓe ndiyam fii suudu Eloohim am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "cujjaaɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kaɓetee"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "maccuɗo"
+    },
+    {
+      "surface": "וחטבי",
+      "gloss": "cokkuɓe"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "ושאבי",
+      "gloss": "e yogaari ɓe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fii suudu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:09.889092755Z",
+  "model": "glm-5.3"
+}

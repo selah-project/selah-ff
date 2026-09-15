@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Akish wi'i to jeyaaɓe mun: 'Ɗoo, njiytu-on neɗɗo wumo waasɗo; ko fii kon honno njippinata-on ⟨את⟩ mo faade e am?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe mun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "njiytu-on"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "wumo waasɗo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii kon honno"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "njippinata-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "faade e am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:40.746335378Z",
+  "model": "glm-5.3"
+}

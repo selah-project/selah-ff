@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi nanngi laawɗi ɗiɗi ɗin, mbiɗmi ɗi e juuɗe am ɗiɗi, mi fecci ɗi yeeso gite mon.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "mi nanngi"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "laawɗi ɗin"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "mbiɗmi ɗi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe am"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "mi fecci ɗi"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "yeeso gite mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:55.609100767Z",
+  "model": "glm-5.3"
+}

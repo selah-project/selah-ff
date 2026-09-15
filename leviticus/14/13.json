@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O waray ⟨את⟩ ɗoo on e ɗo waretee ⟨את⟩ sadak aybe on e ⟨את⟩ sadak ɓurɗo on, e nokku seniiɗo on; fii no sadak aybe nii, sadak tooñande on ko kohengal on jeyi; ko ⟨o⟩ woni seniiɗe seniiɓe.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "o waray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo on"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ɗoo on"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e ɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "waretee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadak aybe on"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sadak aybe on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sadak ɓurɗo on"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sadak ɓurɗo on"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "seniiɗo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii no"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "no sadak aybe nii"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sadak tooñande on"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohengal on jeyi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "seniiɗe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "seniiɓe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:49.283864571Z",
+  "model": "glm-5.3"
+}

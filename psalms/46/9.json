@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Aroyee, nji'ee golle Yaawe, ɗe o waɗii momte e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Aroyee"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "nji'ee"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "momte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:10.749086519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Miikaal jogii ⟨את⟩ terafim ɗen, o laneeki ɗi e leeso ngon, e ⟨את⟩ boɗel wutte koɗɗe ñaameteeɗe o waɗi ngo hoore-rende mun, o suɗɗi ɗum e layngol.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "jogii"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Miikaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim ɗen"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim ɗen"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "o laneeki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "leeso ngon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "boɗel wutte koɗđe ñaameteeɗe"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "bođel wutte kođđe ñaameteeđe"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kođđe ñaameteeđe ɗen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "hoore-rende mun"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "o suđɗi"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "e layngol"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:04.395672589Z",
+  "model": "glm-5.3"
+}

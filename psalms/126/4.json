@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 126,
+  "translation": "Artir, Yaawe, ⟨את⟩ jeyaagu men, hono maayooji ɗii e nder Neegev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "artir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaagu men"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "jeyaagu men"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "hono maayooji ɗii"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "e nder Neegev"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:43.572314569Z",
+  "model": "glm-5.3"
+}

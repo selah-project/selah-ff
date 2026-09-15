@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "E ɓiɓɓe worɓe Israyiil ɗen kaala, a wi'a: neɗɗo si o maayi, wanaa ɓiɗɗo gorko mo, ɗon ɗum addu ⟨את⟩ jeyi leydi makko fayde e ɓiɗɗo debbo makko.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kaala"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a wi'a"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "wanaa ɓiɗɗo gorko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "ɗon ɗum addu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyi leydi makko"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jeyi leydi makko"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "fayde e ɓiɗɗo debbo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:49.011980713Z",
+  "model": "glm-5.3"
+}

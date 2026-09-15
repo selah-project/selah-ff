@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Laamɗo debbo Saba'a yi'i ⟨את⟩ ñaawo Shelomoo, e suudu nduu o mahi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Laamđo debbo"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Saba'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o mahi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:31.565857018Z",
+  "model": "glm-5.3"
+}

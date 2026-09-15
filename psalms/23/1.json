@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yimre jijjirnde fii Dawuud: Yaawe ko baɗo baali am; mi ŋakkataa hay huunde.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Yimre jijjirnde"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ko baɗo baali am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi ŋakkataa"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "hay huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:53.099939791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ɓe toytin mo e nder batte yimɓe ɗum, e nder jooɗorde mawɓe ɓe yetta mo.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ɓe toytin mo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "e nder batte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e nder jooɗorde"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ɓe yetta mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:39.358617673Z",
+  "model": "glm-5.3"
+}

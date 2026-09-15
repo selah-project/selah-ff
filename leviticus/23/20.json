@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Almaami on ɗabbana ɗen ⟨את⟩ e lembi jiyɓe arane, ko dabbagol, yeeso Yaawe, e ñaawoje ɗiɗi ɗen; ko sennde ɗe laatata fii Yaawe, fii almaami on.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "almaami on ɗabbana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗen (ñaawoje ɗiɗi ɗen e lembi ɗen)"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lembi"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "jiyɓe arane"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "dabbagol"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ñaawoje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sennde"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɗe laatata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "fii almaami on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:18.373349146Z",
+  "model": "glm-5.3"
+}

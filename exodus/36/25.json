@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "E caɗel ɗiɗmel caɗeele ɗen, feewde worgo, o waɗi pannoje noogas.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "e caɗel"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "caɗeele ɗen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ɗiɗmel"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "worgo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "pannoje"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:50.873413966Z",
+  "model": "glm-5.3"
+}

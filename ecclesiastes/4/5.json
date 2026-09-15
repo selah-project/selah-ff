@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Wumru on mußɓinta ⟨את⟩ juuɗe makko, o ñaamata ⟨את⟩ yooro makko.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "wumru on"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "mußɓinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe makko"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "o ñaamata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yooro makko"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "yooro makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:18.218944024Z",
+  "model": "glm-5.3"
+}

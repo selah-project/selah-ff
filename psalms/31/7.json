@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Mi nuunɗii ɓe ɗooñuɓe ⟨ɗii⟩ meereeuje fenaande, kono e Yaawe mi tamyii.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "mi nuunɗii"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ɓe ɗooñuɓe"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "meereeuje"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi tamyii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:15.430500178Z",
+  "model": "glm-5.3"
+}

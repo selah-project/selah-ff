@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Ɓe pellii ɓe golluɓe paabi ɗii, ɓe heewnorii e allaaji ɗii — sujjanee mo, ayoowaaji ɗii fuu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ɓe pellii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ɓe golluɓe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "paabi ɗii"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "ɓe heewnorii"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "e allaaji ɗii"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujjanee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ayoowaaji ɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:17.476734724Z",
+  "model": "glm-5.3"
+}

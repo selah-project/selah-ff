@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen ⟨את⟩ ladde wuro ngo e ⟨את⟩ dome mum ɗi ndokki Kalev ɓiy Yefunne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ladde wuro ngo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dome mum"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "dome mum ɗi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ndokki"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:31.912668005Z",
+  "model": "glm-5.3"
+}

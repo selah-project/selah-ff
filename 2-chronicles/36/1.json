@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Yimɓe leydi ndi njaɓti ⟨את⟩ Yehowaahaz ɓiy Yoshiyahu, ɓe laamɗini mo e nokku baaba mum e Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe njaɓti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehowaahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehowaahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "ɓe laamɗini mo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:29:33.886073033Z",
+  "model": "glm-5.3"
+}

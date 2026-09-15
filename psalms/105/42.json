@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Sabu o siiftinii ⟨את⟩ konngol mum ceniiɗol, ⟨את⟩ Awraham gollooɗo mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "siiftinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol mum ceniiɗol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ceniiɗol mum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham gollooɗo mun"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gollooɗo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:21.774943281Z",
+  "model": "glm-5.3"
+}

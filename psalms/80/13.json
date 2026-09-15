@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Ko fii pirit-ɗaa palidi mayre ɗen, ɓe ɓennuɓe laawol fuu ƴammi ɗum?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko fii"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "pirit-ɗaa"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "palidi mayre ɗen"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ƴammi ɗum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ɓe ɓennuɓe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:09.325368261Z",
+  "model": "glm-5.3"
+}

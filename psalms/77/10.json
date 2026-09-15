@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Hol Eel yejjitii nuunɗu? Hol o muñii kaddeele mun ɗen e tikkere? Selah",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "yejjitii-nuunɗude"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "nuunɗu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hol"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "muñii"
+    },
+    {
+      "surface": "באף",
+      "gloss": "e tikkere"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "kaddeele mun ɗen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-15T09:35:44.568553825Z",
+  "model": "glm-5.3"
+}

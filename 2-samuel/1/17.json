@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Dawoodi wi'i dingira ngara e ⟨את⟩ wadata ndee, faade Sha'uul e faade Yehonataan ɓiyum.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "wi'i dingira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawoodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadata ndee"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "wadata"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "על",
+      "gloss": "faade"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e faade"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonataan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:22.371275356Z",
+  "model": "glm-5.3"
+}

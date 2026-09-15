@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Abraham Waɗii ⟨את⟩ ɗiɗo ɗi jeeƴe ɗe bubiri ɗen iiwoyru-fuɗɗo.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "o Waɗii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiɗo ɗi jeeƴe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ɗiɗo ɗi"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "jeeƴe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ɗe bubiri ɗen"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "iiwoyru-fuɗɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:35.052285627Z",
+  "model": "glm-5.3"
+}

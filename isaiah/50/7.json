@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Kono Adonaay Yaawe wallay mi; sabu ɗum mi kelmitaani; sabu ɗum mi suɓii yeeso am no kaaƴe tiiɗɗe nii, e mi anndi mi tampataa.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Kono Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "wallay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waasii"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "mi kelmitaani"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mi suɓii"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "no kaaƴe tiiɗɗe nii"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "e mi anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "non"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waasii"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mi tampataa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:10.917133543Z",
+  "model": "glm-5.3"
+}

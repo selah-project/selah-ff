@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Lomtinirde giɗal am ɓe ari e am ayboowo; kono min ko du'aawu.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "lomtinirde"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "giɗal am"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ɓe ari e am ayboowo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "du'aawu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:33.709418974Z",
+  "model": "glm-5.3"
+}

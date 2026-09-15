@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Awa mo laawɗina, gila ko ⟨את⟩ nguura Eloohim maa ko o dokkata; laawɗuɗo o laatan maa; gila mi laawɗuɗo, miin Yaawe, laawɗinɗo on.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "awa mo laawɗina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguura Eloohim maa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nguura"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dokkata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "laawɗuɗo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o laatan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gila"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "laawɗuɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "laawɗinɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:21.476655754Z",
+  "model": "glm-5.3"
+}

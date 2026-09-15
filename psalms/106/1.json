@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Wottinee Yaah, yettin Yaawe, sabu ko o moƴƴo, sabu hesed makko ina duumo duumi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Wottinee"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "yettin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ko o moƴƴo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumo duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:48.249798539Z",
+  "model": "glm-5.3"
+}

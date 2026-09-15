@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Gorko doole e gorko konu, ñaawoowo e annabi, e jaŋnguɗo maandeeji, e mawɗo.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "gorko doole"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e gorko"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "e annabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "e jaŋnguɗo maandeeji"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "e mawɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:56.248144153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Hulu ⟨את⟩ Yaawe, wirsiɓe makko; nde walaa ŋakkere fii ɓe hulɓe ɗum.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "wirsiɓe makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ŋakkere"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "fii ɓe hulɓe ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:19.909128121Z",
+  "model": "glm-5.3"
+}

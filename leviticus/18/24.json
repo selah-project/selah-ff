@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Wata on hoyɓindo e ɗee ɗoo fof, nde e ɗee ɗoo fof leƴƴi ɗin hoyɓinii — ɗi min nulata yeeso mon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "on hoyɓindo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "hoyɓinii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nulata"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yeeso mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:09.245222692Z",
+  "model": "glm-5.3"
+}

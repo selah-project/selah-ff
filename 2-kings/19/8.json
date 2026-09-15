@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Rabshakeh artii, o yiyi ⟨את⟩ laamɗo Ashur ina haɓa e Libna, sabu o nano o ummii Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "o yiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ina haɓa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "נסע",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:13.287406880Z",
+  "model": "glm-5.3"
+}

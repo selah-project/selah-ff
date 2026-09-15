@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Yimre, mizmor, fii Asaaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaaf"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:14.848033010Z",
+  "model": "glm-5.3"
+}

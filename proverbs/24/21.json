@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓiyum, hulu ⟨את⟩ Yaawe e laamɗo on, e ɓe cuuɗuɗi waylude wata a jeydu e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "e laamɗo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ɓe cuuɗuɗi waylude"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "a jeydu e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:49:40.059757717Z",
+  "model": "glm-5.3"
+}

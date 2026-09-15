@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O wayli ɓernde maɓɓe nde nde ɓeynorta haɗade yimɓe makko, ngam wujjude e jeyaaɓe makko.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "O wayli"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓernde maɓɓe"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nde ɓeynorta haɗaude"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ngam wujjude e"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "jeyaaɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.937166696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "To maa, Yaawe, mi hebbi; wata mi ujru abada.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "To maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi hebbi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mi ujru"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abada"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:53.307797819Z",
+  "model": "glm-5.3"
+}

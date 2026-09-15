@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kajin wi'i Yaawe: mbonaari am mawnii no hebbire.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnii"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mbonaari am"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "hebbire"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:44.520554385Z",
+  "model": "glm-5.3"
+}

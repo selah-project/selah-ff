@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O wanaa wertoo e niɓɓo; lewru jiha sooyoytana ɓesngu mun ngun, o naa fay e henndu mum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o wanaa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "wertoo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "e"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓo"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ɓesngu mun ngun"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "sooyoytana"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "lewru jiha"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "o fay"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "e henndu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:12:02.876801672Z",
+  "model": "glm-5.3"
+}

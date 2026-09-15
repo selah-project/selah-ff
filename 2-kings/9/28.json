@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Jeyɓe mun ndewni ⟨את⟩ mo haa Yerushalayim, ɓe ngubbiri ⟨את⟩ mo e nder wirneede mun, e baabiraaɓe mun, e nder saare Dawuda.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ndewni (e miseere)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyɓe mun"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ngubbiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "e nder wirneede mun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e nder saare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:15.705171393Z",
+  "model": "glm-5.3"
+}

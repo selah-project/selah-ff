@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Haa saanga konngol makko ari; konngol Yaawe ngol wirnii mo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "saanga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "wirnii mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:33.068387466Z",
+  "model": "glm-5.3"
+}

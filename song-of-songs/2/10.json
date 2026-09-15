@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Doddum am jaabii, o wi'i am: Ummu ɗoo, moƴƴere am, belɗum am, yah ɗoo.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "doddum am"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ummu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "moƴƴere am"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "belɗum am"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "yah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:35.708459510Z",
+  "model": "glm-5.3"
+}

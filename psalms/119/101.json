@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E kala laawol bonngu mi dartinii koyɗe am, fii mi reeno konngol maa.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonngu"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "mi dartinii"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyɗe am"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "mi reeno"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "konngol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:19.203398917Z",
+  "model": "glm-5.3"
+}

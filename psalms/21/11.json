@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Mbereeji maɓɓe maa majjina e leydi; aga maɓɓe maa majjina e nder ɓiɓɓe aadee.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "mbereeji maɓɓe"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "maa majjina"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "aga maɓɓe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:45.502625824Z",
+  "model": "glm-5.3"
+}

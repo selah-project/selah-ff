@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yaakuuba yi'i ⟨את⟩ yeeso Laban, e nden yiytere, ngol wonaa makko no duuni ɓennuɗi ɗin nii.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso Laban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nden yiytere"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wonaa makko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "no duuni ɓennuɗi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ɓennuɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:28.171082026Z",
+  "model": "glm-5.3"
+}

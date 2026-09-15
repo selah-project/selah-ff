@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ko nii Yaawe wi'i: so on mborii ⟨את⟩ kiittal Am ñalnde e ⟨את⟩ kiittal Am jemma, fii wanaade woodgol ñalnde e jemma e saare mun ɗen —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "on mborii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiittal Am ñalnde"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kiittal Am"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kiittal Am jemma"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kiittal Am"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "fii wanaade"
+    },
+    {
+      "surface": "היות",
+      "gloss": "woodgol"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "e saare mun ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:22.169463796Z",
+  "model": "glm-5.3"
+}

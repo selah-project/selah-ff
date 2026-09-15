@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Kono niɓɓo nden sowataa e maa; jemma na lelnoo no ñalorma nii; niɓɓo no e(cellal) nii.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kono"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓo nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sowataa"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "…"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalorma nii"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "na lelnoo"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "niɓɓo"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "no cellal nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:45.800974427Z",
+  "model": "glm-5.3"
+}

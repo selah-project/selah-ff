@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "O ummii ɗum, yahi haa Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "באר",
+      "gloss": "haa Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:34.790778363Z",
+  "model": "glm-5.3"
+}

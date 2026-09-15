@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "Ko noon ɗon nannguɓe min ɗaɓɓi e min konnguɗi jimre, tooñotooɓe min ɗaɓɓi welaare, ɓe mbi'i: “Jimmitu e min jimre Siiyon.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "ɗi ɗaɓɓi e min"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "nannguɓe min"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "jimre"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "tooñotooɓe min"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "welaare"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "jimmitu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "jimre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siiyon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:16.726813988Z",
+  "model": "glm-5.3"
+}

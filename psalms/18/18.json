@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O daaƴi kam e gaño am jolɗo, e ɓe njiyɗo lam, sabu ɓe ɓuri kam sembe.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "o daaƴi kam"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "e gaño am"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jolɗo"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "e ɓe njiyɗo lam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ɓe ɓuri sembe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:29.100117616Z",
+  "model": "glm-5.3"
+}

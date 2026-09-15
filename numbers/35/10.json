@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Haal e ɓiɓɓe Israa'iila, wiyu ɓe: so onen ngonii fa'naaɓe ⟨את⟩ Yarduuden, to leydi Keena'an;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wiyu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onen"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngonii fa'naaɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarduuden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduuden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Keena'an"
+    }
+  ],
+  "timestamp": "2026-09-14T05:51:23.550048922Z",
+  "model": "glm-5.3"
+}

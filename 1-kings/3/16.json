@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɗoo sa'aa, rewɓe ɗiɗo aawɓe ɓe ari to laamɗo on, ɓe darii yeeso makko.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ɗoo sa'aa"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "ɓe ari"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "aawɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:10.179766134Z",
+  "model": "glm-5.3"
+}

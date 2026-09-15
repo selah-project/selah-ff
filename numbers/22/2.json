@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Balak ɓiy Sippor yi'i ⟨את⟩ fuu ko Israyaal waɗi to Amoriyanke.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Sippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko Israyaal waɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyaal"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "to Amoriyanke"
+    }
+  ],
+  "timestamp": "2026-09-14T05:44:28.002321678Z",
+  "model": "glm-5.3"
+}

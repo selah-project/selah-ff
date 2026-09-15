@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Yaawe hollitiri ⟨את⟩ junngo mun ceniiɗo to yi'ande yimɓe ɗin fof; tampirɗe leydi ndin fof njahi yi'ude ⟨את⟩ daɗndude Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "hollitiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo ceniiɗo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ceniiɗo mun"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "to yi'ande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗin fof"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "e ɗen njahi yi'ude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗin fof"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "tampirɗe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daɗndude Eloohim amen"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "daɗndude"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:01.197372139Z",
+  "model": "glm-5.3"
+}

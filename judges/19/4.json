@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yarso mun, baaba suka debbo on, jogori mo; o jooɗii ⟨את⟩ mo balɗe tati, ɓe ñaami, ɓe njunni, ɓe njooni to ɗo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "jogori"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "Yarso mun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "suka debbo on"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e ⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ɓe njunni"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ɓe njooni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:34:21.552987020Z",
+  "model": "glm-5.3"
+}

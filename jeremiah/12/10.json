@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Balibali keewɗi ngullitii widere am, nalii les ⟨את⟩ feccere am; ɓe ndokki ⟨את⟩ feccere welnde am hono jeereende wootaare.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "Balibali"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ngullitii"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "widere am"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "nalii les"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feccere am"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "feccere am"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feccere welnde am"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "welnde am"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "hono jeereende"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "wootaare"
+    }
+  ],
+  "timestamp": "2026-09-14T08:11:14.095083611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Minen njokkondiri e Yaawe, Eloohim baabiraaɓe amen; Yaawe nanii ⟨את⟩ daande amen, o yi'i ⟨את⟩ muñal amen e ⟨את⟩ ceggal amen e ⟨את⟩ mustandal amen.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "minen njokkondiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Yaawe nanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande amen"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "daande amen"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muñal amen"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "muñal amen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ceggal amen"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ceggal amen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mustandal amen"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "mustandal amen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:21.173956767Z",
+  "model": "glm-5.3"
+}

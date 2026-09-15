@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde Awbraamum naati Misrayim, Misrayimnaaɓe ɓe ƴeewi ⟨את⟩ debbo on, wonde o belɗunoo no feewi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awbraamum"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe ƴeewi"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Misrayimnaaɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo on"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "o belɗunoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:13.909428804Z",
+  "model": "glm-5.3"
+}

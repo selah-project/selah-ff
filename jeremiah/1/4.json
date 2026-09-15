@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen konngol Yaawe arii e am, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:21.829151964Z",
+  "model": "glm-5.3"
+}

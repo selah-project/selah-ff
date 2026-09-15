@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Miɗon reenan ⟨את⟩ reende ceniiɗum ngun e ⟨את⟩ reende sarɗiɗo on, wanaa ɓeydu yinnde wooda e ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Miɗon reenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reende ceniiɗum ngun"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ceniiɗum ngun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "reende sarɗiɗo on"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sarɗiɗo on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wooda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓeydu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "yinnde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:42:53.033429730Z",
+  "model": "glm-5.3"
+}

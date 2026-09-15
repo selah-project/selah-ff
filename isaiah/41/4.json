@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Ko hommbo gollini ɗum e waɗde ɗum, noddata duumi gila arannde? Miin Yaawe, Aranɗo, e ⟨את⟩ cakkittiɗo ɗin miin ko kanko woni.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ko hommbo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "gollini ɗum"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "e waɗde ɗum"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddata"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "gila arannde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Aranɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cakkittiɗo ɗin"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "cakkittiɗo ɗin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko woni"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:51.219314784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "A kadi maa ɓuuɓɓaa, a laatoto cuuɗiiɗo; a kadi maa ɗaɓɓaa maho sabu gaño.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "a kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "a"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ɓuuɓɓaa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "a laatoto"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "cuuɗiiɗo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "a kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "a"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ɗaɓɓaa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "maho"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "sabu gaño"
+    }
+  ],
+  "timestamp": "2026-09-14T09:07:54.575163902Z",
+  "model": "glm-5.3"
+}

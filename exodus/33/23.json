@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Mi woolata junngo am ⟨את⟩, maa yi'a ɓuttunde am ⟨את⟩; kono ƴeeso am ɗe yanñaake.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Mi woolata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo am"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "junngo am"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "maa yi'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuttunde am"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓuttunde am"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ƴeeso am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɗe yanñaake"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "yanñaake"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:31.840103246Z",
+  "model": "glm-5.3"
+}

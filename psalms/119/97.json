@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Maa no mi yiɗi toraa maa! Ñalawma fuu nde woni miijagol am.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "no mi yiɗi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toraa maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "miijagol am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:56.887848482Z",
+  "model": "glm-5.3"
+}

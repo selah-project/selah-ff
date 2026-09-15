@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi lelnii ɓernde am fii waɗde kuule maa ɗen haa duumiay, haa sakkitiinde.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "mi lelnii"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "fii waɗde"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kuule maa ɗen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiay"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "haa sakkitiinde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:02.954135140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Dawuud limti ⟨את⟩ ɓesngu ngun ngol wonduɗo ⟨את⟩ mo, o suɓii hooreeji ujunnaaje e hooreeji teemedeeji dow maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "limti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓesngu ngun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓesngu ngun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wonduɗo ⟨את⟩ mo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o suɓii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ujunnaaje"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e hooreeji"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedeeji"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:51.453340537Z",
+  "model": "glm-5.3"
+}

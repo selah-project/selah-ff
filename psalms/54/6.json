@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Ƴeew, Eloohim ko walluɗo am; Adonaay no wonde e ɓeen balluɓe nguurndam am.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "walluɗo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "e ɓeen balluɓe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:36.523938187Z",
+  "model": "glm-5.3"
+}

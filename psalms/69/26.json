@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Wumru fuu waɗu ⟨woni⟩ ŋorirde maɓɓe, wanaa woodo hoɗo e presenteduuji maɓɓe.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "waɗu ⟨woni⟩"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ŋorirde maɓɓe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "wumru"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "e presenteduuji maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "woodo ⟨woni⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hoɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:03.182251979Z",
+  "model": "glm-5.3"
+}

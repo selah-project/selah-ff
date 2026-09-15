@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Si ajaaɓo arii hoɗde ⟨את⟩ e mon duuɓi, e leydi mon ndin, wata mon ñabbu ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "arii hoðde duuɓi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e mon",
+      "marks": "e mon"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ajaaɓo"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "e leydi mon ndin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ñabbu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-15T07:06:07.233373315Z",
+  "model": "glm-5.3"
+}

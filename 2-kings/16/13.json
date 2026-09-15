@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "O ɲaŋñinii ⟨את⟩ wirnnde mun nden e ⟨את⟩ neldu mun nden, o wulli ⟨את⟩ wullugol mun ngol, o wallitii ⟨את⟩ ƴiƴe pidde ɗen ɗe moyra e makko dow altere nden.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "o ɲaŋñinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wirnnde mun nden"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "wirnnde mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "neldu mun nden"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "neldu mun"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "o wulli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wullugol mun ngol"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "wullugol mun"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "o wallitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiƴe pidde ɗen"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiƴe"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "pidde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altere nden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:37.208734788Z",
+  "model": "glm-5.3"
+}

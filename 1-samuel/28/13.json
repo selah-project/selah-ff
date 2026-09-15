@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 28:13",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Laamɗo on wi'i mo: wata a kul, ko honde njiy-ɗaa? Debbo on wi'i Shauul: Mi yii Eloohim ina ƴiɓɓa ummoraade e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "a kul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "honde"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "njiy-ɗaa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Debbo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yii"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "ina ƴiɓɓa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:52.558724790Z",
+  "model": "glm-5.3"
+}

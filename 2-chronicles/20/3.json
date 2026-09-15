@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "O huli, Yehoshafaat waɗii ⟨את⟩ wajere mun fii ɗaɓɓitde Yaawe, o winnditi ñalaawu ñamngu fii Yahuuda fuu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "O huli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wajere mun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wajere mun"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "fii ɗaɓɓitde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o winnditi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ñalaawu ñamngu"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:19:12.851430579Z",
+  "model": "glm-5.3"
+}

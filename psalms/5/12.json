@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɓe fof ɗaɓɓuɓe ndeenka maa ɓe weltin; duumay ɓe wulla basra; a suuɗu ɓe; ɓe felloo e maa, ɓe duɗɗi innde maa.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ɓe weltin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɓe fof"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "ɗaɓɓuɓe ndeenka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumay"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ɓe wulla basra"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "a suuɗu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "ɓe felloo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ɓe duɗɗi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:56.800254982Z",
+  "model": "glm-5.3"
+}

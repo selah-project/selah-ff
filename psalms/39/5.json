@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Humpu-mi, Yaawe, kuugal am e ɗerewol balɗe am — ko nuyi ⟨en⟩? Mi annday no mi palori.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "humpu-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "kuugal am"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "e ɗerewol"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko nuyi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨en⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "mi annday"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "palori"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:30.915807331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Galle Aharon, hoolotoɗon e Yaawe; kanko ko ⟨o⟩ woni ballal maɓɓe e ngoŋŋo maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Galle"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hoolotoɗon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ballal maɓɓe"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "e ngoŋŋo maɓɓe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko ko ⟨o⟩ woni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.785454098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Ƴeewtin desndir e Yaawe, o hokkoy ma ɗaɓɓe ɓernde maa.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ƴeewtin desndir"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o hokkoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ɗaɓɓe"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:49.487009299Z",
+  "model": "glm-5.3"
+}

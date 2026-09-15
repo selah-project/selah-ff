@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Mor e aalooje e kesiiyooje — comci maa fuu — iwde e cuuɗi ñiibi ɗin ⟨minii ɗin mbaawii maa weltinde⟩.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mor"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "e aalooje"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kesiiyooje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "comci maa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iwde e"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ñiibi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minii"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "mbaawii maa weltinde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:33.379759397Z",
+  "model": "glm-5.3"
+}

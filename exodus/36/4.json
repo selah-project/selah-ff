@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Arii kala ñawooɓe ɓen waɗooɓe ⟨את⟩ kala golle dewɗe, gooto e gooto e golle mako nde ɓe waɗooɓe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Arii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "ñawooɓe ɓen"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "waɗooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala golle dewɗe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "dewɗe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "e golle mako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "waɗooɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:50.845737711Z",
+  "model": "glm-5.3"
+}

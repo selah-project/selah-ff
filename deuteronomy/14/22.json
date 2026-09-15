@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "A yoɓu nayaɓu goonga ⟨את⟩ keewal ngal leɗɗe maa, ko ngal punndi ndi yaltata hitaande kala hitaande kala.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "nayaɓu"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "yoɓu goonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keewal ngal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "leɗɗe maa"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "yaltata"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "punndi ndi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande kala"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande kala"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:35.134045649Z",
+  "model": "glm-5.3"
+}

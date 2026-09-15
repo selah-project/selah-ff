@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Baale ummoriinde ladde ñammi ɗum, e belluɓe ladde ñamori ɗum.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ñammi ɗum"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "baale"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ummoriinde ladde"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "e belluɓe"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ñamori ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:09.326276688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Kush, e Put, e Lud, e ɓesngu ndenndungu nguu fuu, e Lub, e ɓiɓɓe leydi nanondiral ndin — e ⟨את⟩ maɓɓe e boofere ɓe nayloo.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "e Put"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "e Lud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ɓesngu ndenndungu"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "e Lub"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "nanondiral"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maɓɓe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e boofere"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ɓe nayloo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:31:23.057916260Z",
+  "model": "glm-5.3"
+}

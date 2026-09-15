@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Mi neldata e maɓɓe ⟨את⟩ gaddi, ⟨את⟩ yoorere e ⟨את⟩ ñawu nguu, haa ɓe gasa e dow leydi ndin ɗum mi rokki ɓe e baabiraaɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mi neldata"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaddi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "gaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoorere"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yoorere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñawu nguu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ñawu nguu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ɓe gasa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "e baabiraaɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:20.380656056Z",
+  "model": "glm-5.3"
+}

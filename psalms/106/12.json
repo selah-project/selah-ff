@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Nden ɓe goongɗini konngi makko; ɓe jimɗi yettore makko.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ɓe goongɗini"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "konngi makko"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ɓe jimɗi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yettore makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:44.017120792Z",
+  "model": "glm-5.3"
+}

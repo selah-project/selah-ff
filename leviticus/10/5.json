@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ndeen ɓe ɓadtii, ɓe nanngi ɓe e comci maɓɓe, ɓe addi ɓe feewde yaasi kanngirngal ngal, no Moshe haaliri.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ɓe ɓadtii"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ɓe nanngi ɓe"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "e comci maɓɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kanngirngal ngal"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaliri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:34.760642839Z",
+  "model": "glm-5.3"
+}

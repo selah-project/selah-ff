@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe wi'i am: wata na foofty ⟨את⟩ mo, sabu e junngo maa nde mi rokki ⟨את⟩ mo e ⟨את⟩ yimɓe mun fuu e ⟨את⟩ leydi mun; maaɗa waɗa mo no maa waɗiri Sihon laamɗo Amoriyanke o jooɗiiɗo Cheshbon ndee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "na foofty"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi mun"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi mun"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maa waɗa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no…nde"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "maa waɗiri"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyanke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jooɗiiɗo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Cheshbon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:48.060241946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Yi'u, mi woɗɗintoo doggo, mi dillotoo e ladde. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Yi'u"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "mi woɗɗintoo"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "doggo"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "mi dillotoo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:33.736940646Z",
+  "model": "glm-5.3"
+}

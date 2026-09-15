@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Sabu paygoofo ƴamii wulla am, o momtii nguurndam am jaka e leydi ndin, o jooɗinii mi e nder niɓe, no maayɓe duuɓi ɓennuɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ƴamii"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "paygoofo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wulla am"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "o momtii"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "jaka e leydi ndin"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "o jooɗinii mi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "e nder niɓe"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "no maayɓe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duuɓi ɓennuɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:26.069152666Z",
+  "model": "glm-5.3"
+}

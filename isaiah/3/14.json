@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe naatata e misraal e mawɓe yimɓe mun e hooreeɓe mun: on ñaamii wuroore nden, ngartu miskineeɓe ɗen ngoni e cuuɣi mon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e misraal"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "naatata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "e hooreeɓe mun"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "on ñaamii"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "wuroore nden"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ngartu"
+    },
+    {
+      "surface": "העני",
+      "gloss": "miskineeɓe ɗen"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "e cuuɣi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:06.882199244Z",
+  "model": "glm-5.3"
+}

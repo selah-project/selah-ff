@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Daawuuda e galle Israa'iil fuu ɓe njippini ⟨את⟩ sanduki Yaawe e muusere e daande wanngo buuɗe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e … fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ɓe njippini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduki Yaawe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "e muusere"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wanngo buuɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:50.624914056Z",
+  "model": "glm-5.3"
+}

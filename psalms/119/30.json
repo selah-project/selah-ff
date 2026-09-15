@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Laawol goonguɗam suɓiimi, ñaawoore maa ɗen mi tonndini yeeso am.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "goonguɗam"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "suɓiimi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawoore maa ɗen"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "mi tonndini yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:53.951072817Z",
+  "model": "glm-5.3"
+}

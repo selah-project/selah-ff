@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Sabu e makko ɓernde amen weltorii, sabu e nder innde mun nde teddunde min ni'tii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "weltorii"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ɓernde amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "mun nde teddunde"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "min ni'tii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:36.483100641Z",
+  "model": "glm-5.3"
+}

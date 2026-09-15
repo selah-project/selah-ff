@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "A fiyii mi e ɓulli lesɗuɗi, e niɓe, e lume.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "a fiyii mi"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "e ɓulli"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "lesɗuɗi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "e niɓe"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "e lume"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.542146791Z",
+  "model": "glm-5.3"
+}

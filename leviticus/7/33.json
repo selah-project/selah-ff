@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ndee mo waɗata ⟨את⟩ ƴiiƴam pippi sarseeji ɗin e ⟨את⟩ ƴarngu ngun, e nder ɓiɓɓe Aharon, loɓre ñaamo nden ko mun woni fii keɓe.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "mo waɗata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam pippi sarseeji ɗin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "pippi sarseeji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴarngu ngun"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ƴarngu ngun"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ko mun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "loɓre"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ñaamo nden"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "fii keɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:37.001969136Z",
+  "model": "glm-5.3"
+}

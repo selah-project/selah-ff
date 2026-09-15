@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Eloohim, a yeddii min, a mbori min, a eñii teskinnde; artu min.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "a yeddii min"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "a mbori min"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "a eñii"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:25.629206090Z",
+  "model": "glm-5.3"
+}

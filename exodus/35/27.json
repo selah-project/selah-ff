@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ndee njiidaandi ɓurɓe heewde kadi addi ⟨את⟩ jawdi shoham ndin e ⟨את⟩ jawdi milu'uim ɗin, fii efod nden e fii ɓoggu ƴi'e nden.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "Ndee njiidaandi ɓurɓe heewde"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "kadi addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawdi shoham ndin"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jawdi milu'uim ɗin"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "milu'uim"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "fii efod nden"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "e fii ɓoggu ƴi'e nden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:25.402960308Z",
+  "model": "glm-5.3"
+}

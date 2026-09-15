@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i am: Wi' ɓe wata ɓe ƴellito, wata ɓe haɓa, sabu mi ŋakkaani e nder maɓɓe; wata ɓe fooɗoo yeeso gañɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ɓe ƴellito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "ɓe haɓa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "mi ŋakkaani"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "e nder maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ɓe fooɗoo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "gañɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:27.524074376Z",
+  "model": "glm-5.3"
+}

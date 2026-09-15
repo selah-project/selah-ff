@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 1:24",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde ɓe njahi, mi nanii ⟨את⟩ daande baali maɓɓe — hono daande ndiyam heewɗam, hono daande Shadday; daande muumre, hono daande konu; kadi nde ɓe darii, baali maɓɓe ina nnoyla.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "baali maɓɓe"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "hono daande"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "heewɗam"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "hono daande"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "nde ɓe njahi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "המלה",
+      "gloss": "muumre"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "hono daande"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "nde ɓe darii"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ina nnoyla"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "baali maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:42.415112074Z",
+  "model": "glm-5.3"
+}

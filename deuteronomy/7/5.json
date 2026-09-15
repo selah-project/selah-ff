@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono ko nii ngeɗa mbaɗa ɓe: josiyaji maɓɓe momtattee, pelle maɓɓe tettee, Asheraaji maɓɓe ƴoggaa, pinnaaɗe maɓɓe ƴoongaa e yiite.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kono"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ngeɗa mbaɗa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "josiyaji maɓɓe"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "momtattee"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "e pelle maɓɓe"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "tettee"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "e Asheraaji maɓɓe"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "ƴoggaa"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "e pinnaaɗe maɓɓe"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "ƴoongaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:39.001929508Z",
+  "model": "glm-5.3"
+}

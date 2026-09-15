@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Mi, Yaawe, miɗo reena ɗum; kala sahaa miɗo ndiyammina ɗum; saa wana yeewtan e mayre — jemma e ëllun miɗo reena ɗum.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "miɗo reena ɗum"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "kala sahaa"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "miɗo ndiyammina ɗum"
+    },
+    {
+      "surface": "פן",
+      "gloss": "saa wana"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "yeewtan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "e ëllun"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "miɗo reena ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:14.305768718Z",
+  "model": "glm-5.3"
+}

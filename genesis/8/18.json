@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Noaah yalti, e ɓiɓɓe makko, e debbo makko, e rewɓe ɓiɓɓe makko ⟨את⟩ ⟨e makko⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaah"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe makko"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo makko"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e rewɓe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨e makko⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:56.642167253Z",
+  "model": "glm-5.3"
+}

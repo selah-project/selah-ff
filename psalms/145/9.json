@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yaawe moƴƴu fii ⟨den fuu⟩, e ƴiiƴam mun dow golle mun ɗen fuu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii fuu"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "e ƴiiƴam mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "golle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:27.713367217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O dariinii ⟨את⟩ yimɓe ɓen fof, kala neɗɗo wuddere mun e junngo mun, gila ceŋal suudu nduu ñaamo haa ceŋal suudu nduu nano, sara jaɓɓe nden e suudu nden, ko fayti e laamɗo on, sara no feewi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dariinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "wuddere mun"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "gila ceŋal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu nduu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ceŋal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu nduu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "nano"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sara jaɓɓe nden"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "e suudu nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko fayti e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sara no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T13:07:03.734704347Z",
+  "model": "glm-5.3"
+}

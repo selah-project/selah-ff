@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɓe ruttitii, kono ɗaaƴde artiraali; ɓe laati hono takakuru fenaande; ardiiɓe maɓɓe mbara e kaafaahu sabu jambaaru ɗemɗe maɓɓe; ndeeɗoo ko laide maɓɓe e leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ɓe ruttitii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "toowɗo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe laati"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "hono takakuru"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ɓe mbara\/yaltu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e kaafaahu"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ardiiɓe maɓɓe"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "sabu jambaaru"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ɗemɗe maɓɓe"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ndeeɗoo"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "laide maɓɓe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:51.797969132Z",
+  "model": "glm-5.3"
+}

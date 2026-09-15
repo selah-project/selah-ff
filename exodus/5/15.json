@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ari arduɓe golle ɓiɓɓe Israa'iil, ɓe cujjiri e Fir'awna ɓe wi'i: Sabo ko waɗtaa hono ɗoo maccuɓe maa?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ari"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "arduɓe golle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ɓe cujjiri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗtaa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hono ɗoo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "maccuɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:20.868124043Z",
+  "model": "glm-5.3"
+}

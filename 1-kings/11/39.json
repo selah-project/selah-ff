@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Mi heñaay ⟨את⟩ oddaale Daawuuda sabu ɗoo; kono wonaa duuɓi ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "mi heñaay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oddaale Daawuuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "oddaale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "duuɓi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:36.239017492Z",
+  "model": "glm-5.3"
+}

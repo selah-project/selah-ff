@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Jeggoringo, a wanaa jeggoro; nefes am ina waasoo hoore mum.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Jeggoringo"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "a wanaa jeggoro"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ina waasoo hoore mum"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e hoore am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:24:25.031909953Z",
+  "model": "glm-5.3"
+}

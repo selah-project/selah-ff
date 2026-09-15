@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nden wonay e ñalnde nden, wi'i Yaawe: ojaaje cfuuɗol ummotoo e Damal Ñeebe ɗen, e cuuriiɗol ummotoo e Ɗemngal Ɗaɗre ngal, e bonannde mawnde ummotoo e tobbe ɗen.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Nden wonay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ojaaje"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "cfuuɗol"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ummotoo e Damal"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "Ñeebe ɗen"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "e cuuriiɗol"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummotoo e"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "Ɗemngal Ɗaɗre ngal"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "e bonannde"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "ummotoo e tobbe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:36:16.641731876Z",
+  "model": "glm-5.3"
+}

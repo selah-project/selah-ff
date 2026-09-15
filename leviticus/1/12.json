@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O taƴa ⟨את⟩ ɗum e taƴe mun, e ⟨את⟩ hoore mun e ⟨את⟩ duum mun; kohan on eara ⟨את⟩ ɗi e dow leɗɗe ɗe ngoni e dow yiite nde ngoni e dow mizbea on.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "o taƴa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "e taƴe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoore mun"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duum mun"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "duum mun"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "eara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohan on"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe ngoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde ngoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbea on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:43.283211040Z",
+  "model": "glm-5.3"
+}

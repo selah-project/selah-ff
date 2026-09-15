@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Waɗa laawol, fii pewe nden naatde ⟨את⟩ Rabbah, wuro ɓiɓɓe Ammon, e ⟨את⟩ Yahuuda to Yerushalayim, ngootaandi ɓurndi yaajde.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "waɗa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "fii ... naatde"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pewe nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah, wuro ɓiɓɓe Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yahuuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "to Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "ngootaandi ɓurndi yaajde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:13.119010991Z",
+  "model": "glm-5.3"
+}

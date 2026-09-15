@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Mo haanɗe am noddi, e teddinal ⟨woni⟩ les ɗemngal am.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haanɗe am"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "e teddinal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemngal am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:48.169282698Z",
+  "model": "glm-5.3"
+}

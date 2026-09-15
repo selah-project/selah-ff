@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Gorko woto jogora ⟨את⟩ debbo baaba mum, e woto uddito werla baaba mum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "woto"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jogora"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo baaba mum"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e woto"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "uddito"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "werla"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:58.625712337Z",
+  "model": "glm-5.3"
+}

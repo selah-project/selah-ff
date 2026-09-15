@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Shemuwel ummii, o umminii hoore makko diga Gilgaala fayde Gibaa Binyamin; Shawul limti ⟨את⟩ yimɓe ɓe tawaa e makko, ko hedde teemedde jeegom worɓe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o umminii hoore makko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "diga"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaala"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibaa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "limti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ɓe tawaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "ko hedde"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde jeegom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:37.199725849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ndeen ɓe wowlinii to Yaawe e nder musiiba mun, O daañi ɓe e muñte mun.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ndeen ɓe wowlinii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e nder musiiba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "e muñte mun"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "O daañi ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:19.283009285Z",
+  "model": "glm-5.3"
+}

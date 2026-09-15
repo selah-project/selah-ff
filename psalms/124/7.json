@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Naafoore munu wuurti no colccol pol ngam taƴde wuddu namngu; wuddu nduu taƴaama, kanko'en minen min wuurtii.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "naafoore munu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "no colccol"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "wuurti"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "pol ngam taƴde wuddu namngu"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "namngu"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "wuddu nduu"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "taƴaama"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kanko'en minen"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "min wuurtii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:33.733853670Z",
+  "model": "glm-5.3"
+}

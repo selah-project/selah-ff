@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ko hommbo woni ɗum, laamɗo teddeere on? Yaawe Sabaoth — kanko woni laamɗo teddeere on. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ko hommbo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "woni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "teddeere on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko woni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "teddeere on"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:08.346431959Z",
+  "model": "glm-5.3"
+}

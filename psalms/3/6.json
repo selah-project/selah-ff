@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi haayii, ɗaŋŋii, ummii; sabu Yaawe teepanii mi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "haayii"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "e ɗaŋŋii"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "teepanii mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:52.863292146Z",
+  "model": "glm-5.3"
+}

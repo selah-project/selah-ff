@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ⟨את⟩ ɗee ⟨את⟩ ɗooƴotee on e colli ɗin; ɗi ñaamate; ɗooƴere ɗi ⟨ko⟩: ⟨את⟩ Neshar on, e ⟨את⟩ Peres on, e Azniya on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ɗooƴotee on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "colli ɗin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñaamate"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ɗooƴere"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Neshar on"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Neshar on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Peres on"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "Peres on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Azniya on"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "Azniya on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:55.170352813Z",
+  "model": "glm-5.3"
+}

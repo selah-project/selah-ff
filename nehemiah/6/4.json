@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe neldi am konngol ngol nayaaji kala; mi jaabi ⟨את⟩ ɓe no konngol ngol nii.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ɓe neldi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nayaaji"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "mi jaabi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:47:52.031411122Z",
+  "model": "glm-5.3"
+}

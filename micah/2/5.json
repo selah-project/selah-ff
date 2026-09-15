@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sabu ɗum, maa walaa werlorde ɓoggol e lottol, e nder renndo Yaawe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "werlorde"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ɓoggol"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "e lottol"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "e nder renndo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:36:06.549851741Z",
+  "model": "glm-5.3"
+}

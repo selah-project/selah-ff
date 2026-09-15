@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "No ɓuri heewde ɓe ɗaŋɗii min gila e cukaagu am; kono ɓe waawaani heɓde min.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "No ɓuri heewde"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ɓe ɗaŋɗii min"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gila e cukaagu am"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ɓe waawaani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "heɓde min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:10.263439919Z",
+  "model": "glm-5.3"
+}

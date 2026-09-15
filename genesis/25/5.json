@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Awraham rokki ⟨את⟩ fuu ko o mari, Yitshaak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko o mari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o mari"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitshaak"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:25.978411459Z",
+  "model": "glm-5.3"
+}

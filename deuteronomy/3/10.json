@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Cukiiji ɗin fof laynde ndee, e Gilngad fof, e Bashaan fof, haa Salkaa e Edreʿi — cukiiji laamu Og ka Bashaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cukiiji"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "laynde ndee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilngad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkaa"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "e Edreʿi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cukiiji"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ka Bashaan"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:29.189622791Z",
+  "model": "glm-5.3"
+}

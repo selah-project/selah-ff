@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Nde Yirmiyaahu yamiri ⟨את⟩ Baruk, wiyude: min mi jomaama, mi waawaa naatde nder suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "jomaama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "naatde"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:24:17.287346369Z",
+  "model": "glm-5.3"
+}

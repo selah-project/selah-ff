@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Nelki bonɗo on ina tammi bonannde; morso mun heɓataa moyre e gate mun.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nelki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ina tammi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "heɓataa"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "moyre"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite mun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "morso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:48:13.235906441Z",
+  "model": "glm-5.3"
+}

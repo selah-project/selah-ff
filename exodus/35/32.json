@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "e fii su'aade peeje, fii waɗde golle e kaŋŋe e e kaalis e e njamndi.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "e fii su'aade"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "peeje"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "fii waɗde golle"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "e njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:18.138402299Z",
+  "model": "glm-5.3"
+}

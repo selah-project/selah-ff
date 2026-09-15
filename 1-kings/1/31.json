@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Bat-Sheba memi leydi e wuroore mun, o sujjani Laamɗo on, o wi'i: Joomi am Laamɗo Dawuuda wuurto haa abada.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "memi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "wuroore mun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "o sujjani"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "wuurto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:25.041306768Z",
+  "model": "glm-5.3"
+}

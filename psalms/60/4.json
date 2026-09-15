@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "A lelnii leydi ndin watta, a yanti mayre; hisnu dammaaji magge, nde tawa ina tooynoo.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "a lelnii watta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "a yanti mayre"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "dammaaji magge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ina tooynoo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:25.629409649Z",
+  "model": "glm-5.3"
+}

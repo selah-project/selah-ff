@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Cemmbe ɗiɗi jokkuɗe ⟨ay⟩ no wonana ɗum, haa e ɗiin caƴe ɗiɗi mun, ɗum jokkitere.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "cemmbe"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "jokkuɗe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ay⟩ no wonana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "caƴe mun"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ɗum jokkitere"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:59.624883096Z",
+  "model": "glm-5.3"
+}

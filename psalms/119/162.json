@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi weltii e konngi maa, hono no baawɗo yiyde jawdi mawnindi",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "mi weltii"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "konngi maa"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "hono no baawɗo yiyde"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "jawdi (wawruunde)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawnindi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:37.614363431Z",
+  "model": "glm-5.3"
+}

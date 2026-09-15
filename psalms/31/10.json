@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yurto e am, Yaawe, sabu tawan caɗe ngoni e am; gite am, neeyam am e ɓernde am ɓooyii e muusaa.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Yurto e am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ɓooyii"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "e muusaa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neeyam am"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "e ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.735139364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Ɓe yetton Yaawe fii hesed mun, e juume keertuɗe mun fii ɓiɓɓe yimɓe.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ɓe yetton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e juume keertuɗe mun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:19.283332017Z",
+  "model": "glm-5.3"
+}

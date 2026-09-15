@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "E wonnde, ummo subaka a e maccuɓe joomi maa ɓen ɓe arii e ⟨את⟩ maa; ɓe ɗoon on ummitoo subaka, so faade hebloto on, yahon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e wonnde"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ummo subaka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "e maccuɓe"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "joomi maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓen ɓe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "e ⟨את⟩ maa",
+      "marks": "maccuɓe joomi maa ɓen"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "on ummitoo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "faade hebloto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "yahon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:52.629198416Z",
+  "model": "glm-5.3"
+}

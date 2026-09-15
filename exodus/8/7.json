@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Jiḍɓe ɗen ɓe rutta e maa, e cuuɗri maa, e maccuɓe maa, e yimɓe maa; tan e maayo ngoo ɓe heddoto.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ɓe rutta"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "jiḍɓe ɗen"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "e cuuɗri maa"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "e maccuɓe maa"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "e yimɓe maa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "e maayo ngoo"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ɓe heddoto"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:59.167465108Z",
+  "model": "glm-5.3"
+}

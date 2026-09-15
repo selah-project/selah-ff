@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Min ñaagorii Eloohim amen, min darmini reeno dow maɓɓe ñalnde e jemma, sabo maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "min ñaagorii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "min darmini"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "reeno"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "sabo maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:15.780130782Z",
+  "model": "glm-5.3"
+}

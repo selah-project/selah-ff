@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Per'o nanii ⟨את⟩ konngol ngol, o ɗaɓɓi warde ⟨את⟩ Muusaa; Muusaa dogi e yeeso Per'o, o jooɗii e leydi Midayaan, o jooɗii sara balaaɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Per'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "o ɗaɓɓi"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "warde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Per'o"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midayaan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "על",
+      "gloss": "sara"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "balaaɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:24.393218112Z",
+  "model": "glm-5.3"
+}

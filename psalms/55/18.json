@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Jemo e subaka e cakañande, mi yeewtata e muusɗa; o nanii daande am.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "jemo"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e subaka"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "e cakañande"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi yeewtata"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "e muusɗa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.993580311Z",
+  "model": "glm-5.3"
+}

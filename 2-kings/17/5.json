@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Laamɗo Ashur ɗuum yaawi leydi ndin fuu, o ɗuum Shomeron, o nguuri mayre duuɓi tati.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ɗuum yaawi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o ɗuum"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "o nguuri"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "mayre"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:03.591589523Z",
+  "model": "glm-5.3"
+}

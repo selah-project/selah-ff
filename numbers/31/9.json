@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ɓiɓɓe Israail njaɓɓi ⟨את⟩ rewɓe Midiyan e ⟨את⟩ sukaaɓe maɓɓe tokosɓe, e ⟨את⟩ daabaaji maɓɓe fuu, e ⟨את⟩ layraaji maɓɓe fuu, e ⟨את⟩ jawleeri maɓɓe fuu — ɓe yakii ɗum.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "njaɓɓi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israail"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe Midiyan"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sukaaɓe maɓɓe tokosɓe"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "sukaaɓe maɓɓe tokosɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "daabaaji maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "daabaaji maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "layraaji maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "layraaji maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jawleeri maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "jawleeri maɓɓe"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ɓe yakii ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:32.998450400Z",
+  "model": "glm-5.3"
+}

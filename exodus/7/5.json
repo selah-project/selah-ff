@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Misrayimnaaɓe ɓen mbanndirta mi woni Yaawe, nde mi tentinirta ⟨את⟩ junnu-am dow Misrayim, e yaltinde ⟨את⟩ ɓiɓɓe Israa'iila nder majji.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mbanndirta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayimnaaɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "mi tentinirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnu-am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junnu-am"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "yaltinirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "nder majji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:14.580222522Z",
+  "model": "glm-5.3"
+}

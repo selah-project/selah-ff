@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Daawuuda acci ⟨את⟩ kuɗe ɗen dow makko, e junngo reenoowo kuɗe ɗen, o dogi faade e darorɗe ɗen, o ari, o naamndii banndiraaɓe makko mum en cellal.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "acci"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuɗe ɗen"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kuɗe ɗen"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "dow makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "reenoowo"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "kuɗe ɗen"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "darorɗe ɗen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "o naamndii"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "banndiraaɓe makko"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mum en cellal"
+    }
+  ],
+  "timestamp": "2026-09-14T11:58:50.490989602Z",
+  "model": "glm-5.3"
+}

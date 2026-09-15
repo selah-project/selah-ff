@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi yi'ii ⟨את⟩ wooɗere nden ɗen Eloohim rokki ɓiɓɓe aadee ngam ɓe muñina ɗum.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'ii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wooɗere nden"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "wooɗere nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadee"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ngam muñinde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:34.493785246Z",
+  "model": "glm-5.3"
+}

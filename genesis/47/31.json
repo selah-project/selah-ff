@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "O wi'i: hakkoran am. O hakkorii mo. Israa'iil sujjtii e hoore leeso ngal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "hakkoran"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "o hakkorii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "o sujjtii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "leeso ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:54.551708643Z",
+  "model": "glm-5.3"
+}

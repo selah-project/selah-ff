@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O ittii e cae Yahuuda fuu ⟨את⟩ bamooji ɗen e ⟨את⟩ ngaskaaji naange ɗen, laamu ngun deeƴi yeeso makko.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "o ittii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "cae"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamooji ɗen"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamooji ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ngaskaaji naange ɗen"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ngaskaaji naange ɗen"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "deeƴi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "laamu ngun"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:15:10.999273278Z",
+  "model": "glm-5.3"
+}

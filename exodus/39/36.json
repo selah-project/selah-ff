@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "⟨את⟩ Taabal on, ⟨את⟩ kala kaɓirɗe mun, e ⟨את⟩ leemde yeeso on.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taabal on"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Taabal on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala kaɓirɗe mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaɓirɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leemde yeeso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leemde"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yeeso on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:33.391886369Z",
+  "model": "glm-5.3"
+}

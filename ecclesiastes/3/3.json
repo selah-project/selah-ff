@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Sa'a fii warde, e sa'a fii cellinde; sa'a fii bonnude, e sa'a fii mahde.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "fii warde"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e sa'a"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "fii cellinde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "fii bonnude"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e sa'a"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "fii mahde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:43.831136595Z",
+  "model": "glm-5.3"
+}

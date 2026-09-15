@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ñaamlaaɗo nattoo e nder ladde, tawi wanaa on wondi e mum? Ɓii-ñaamlaaɗo wallit daande mum e nder sunoore mun, si wanaa o nanngii?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "nattoo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "Ñaamlaaɗo"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "e nder ladde"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "tawi wanaa ... e mum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on ... e mum"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "wallit"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "Ɓii-ñaamlaaɗo"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "e nder sunoore mun"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si tawa ... ɓaawo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "o nanngii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:32.393978771Z",
+  "model": "glm-5.3"
+}

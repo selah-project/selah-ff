@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Alaa laataane on Allaaji goɗɗi yeeso am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "laataane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:04.821528258Z",
+  "model": "glm-5.3"
+}

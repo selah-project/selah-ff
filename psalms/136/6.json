@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Mo yaajini leydi ndin e dow ndiyam ɗin, fii hesed makko dartoto haa abada.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Mo yaajini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko dartoto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:31.266209845Z",
+  "model": "glm-5.3"
+}

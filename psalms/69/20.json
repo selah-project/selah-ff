@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Kanko on, anndaa kuugal am e bonnde am e ndeen kadi; ɗoo yeeso maaɗa ko ɓe kala baawɓe am.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kanko on"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "kuugal am"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "e bonnde am"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "e ndeen kadi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ɗoo yeeso maaɗa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "baawɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:24.628550649Z",
+  "model": "glm-5.3"
+}

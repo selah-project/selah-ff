@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E Gat ƴeewtu ɗum; wuurtinaa; e Ɓeet-le-Afra hofoo on e mbuunri.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "e Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ƴeewtu ɗum"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "wuurtinaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "wuurtinaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e Ɓeet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mbuunri"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "hofoo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:54.570350375Z",
+  "model": "glm-5.3"
+}

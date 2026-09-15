@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Sabu ayɓe am ɓe wowii fii am; ɓe reeni nefes am ɓe fiilli gamte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe wowii"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ayɓe am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "e ɓe reeni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefes am"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ɓe fiilli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "gamte"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:04.337080504Z",
+  "model": "glm-5.3"
+}

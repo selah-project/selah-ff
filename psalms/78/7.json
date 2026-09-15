@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe waɗan e Eloohim hoolaare mum en, ɓe cuuran gollal Eel, ɓe reenan poweeje makko.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ɓe waɗan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "hoolaare mum en"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe cuuran"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ɓe cuuran"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "gollal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "e poweeje makko"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ɓe reenan"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:02.005360611Z",
+  "model": "glm-5.3"
+}

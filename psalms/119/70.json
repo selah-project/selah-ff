@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɓernde maɓɓe ɓuuɓii no duɗam; kanko mi, Toraa maa neldii mi dele.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "ɓuuɓii"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "no duɗam"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓernde maɓɓe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraa maa"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "neldii mi dele"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:27.936235161Z",
+  "model": "glm-5.3"
+}

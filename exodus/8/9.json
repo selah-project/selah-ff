@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe waɗi no konngel Muusaa wi'unoo; ɓulli ɗin maayi e cuuɗi ɗin, e daɗe ɗen, e faddeeji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ɓulli ɗin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e \/ nder (ummiiteere)"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "cuuɗi ɗin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e \/ nder (ummiiteere)"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "daɗe ɗen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e e \/ nder (ummiiteere)"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "faddeeji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:55.414990037Z",
+  "model": "glm-5.3"
+}

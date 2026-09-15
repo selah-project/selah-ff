@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Sabu kulol ngol mi kulii ngol arii e am, e ko mi huli ngol arii e am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "mi kulii"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "arii e am"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ko"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "mi huli"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:51:00.375415243Z",
+  "model": "glm-5.3"
+}

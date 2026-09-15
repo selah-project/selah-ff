@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 2:34",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Israa'iila ɓen ngaddi no Yaawe fiyri Mun ⟨את⟩ dum fuu; ko non ɓe ndarni teemeduɗi maɓɓe, ko non ɓe njahi, gooto fow e leƴƴi mun, e saare baabiraaɓe mun.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngaddi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no ... dum fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fiyri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ɓe ndarni teemeduɗi"
+    },
+    {
+      "surface": "לדגליהם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto fow"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "e leƴƴi mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:12.698389178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Woodan keewal ngamri e nder leydi ndin, e dow toowe pelle ɗin; payi mun woli no Libaanon nii, ɓe muddoo e wuro no puɗol leydi nii.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "woodan"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ngamri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "e dow toowe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle ɗin"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "woli"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "no Libaanon nii"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "payi mun"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ɓe muddoo"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "no puɗol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi nii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:16.318495999Z",
+  "model": "glm-5.3"
+}

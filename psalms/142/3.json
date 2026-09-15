@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Mi ɓuuɓnii tame am yeeso makko; muñal am yeeso makko mi hollit ɗum.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "mi ɓuuɓnii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "tame am"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "muñal am"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mi hollit ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:14.013050425Z",
+  "model": "glm-5.3"
+}

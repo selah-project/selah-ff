@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wata noon on hoɗɓe-moɗɗo mborosaajje; onon ɗoo anndan ⟨את⟩ neef on hoɗɗo-moɗɗo on, nde tawnoo ko onon wonnoo hoɗɓe-moɗɓe e leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "noon on hoɗɗo-moɗɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "mborosaajje"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "onon ɗoo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "anndan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neef on hoɗɗo-moɗɗo on"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "neef"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "on hoɗɗo-moɗɗo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawnoo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ko onon wonnoo hoɗɓe-moɗɓe"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-15T06:02:44.533668711Z",
+  "model": "glm-5.3"
+}

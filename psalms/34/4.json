@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Mawninee Yaawe ⟨את⟩ e am; min ndennu innde makko e gootel.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Mawninee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "min ndennu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "e gootel"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:08.850296629Z",
+  "model": "glm-5.3"
+}

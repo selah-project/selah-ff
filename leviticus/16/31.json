@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Shabbat Shabbaton ko nden woni on; on hembina ⟨את⟩ ngeendam mon — sariya duumingal.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabbaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko nden woni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "on hembina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngeendam mon"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ngeendam mon"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumingal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:57.969746230Z",
+  "model": "glm-5.3"
+}

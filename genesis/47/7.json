@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Yusuufu addi ⟨את⟩ Yaakov baaba mum, o darini mo yeeso Faroh, Yaawkob bariki ⟨את⟩ Faroh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "addi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov baaba mum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaawkob"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "o darini mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bariki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaawkob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faroh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:04.455498066Z",
+  "model": "glm-5.3"
+}

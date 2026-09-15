@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim waɗi ⟨את⟩ leɗɗe annoore ɗeeɗoo ɗiɗi mawɓe — ⟨את⟩ leel annoore mawɗo on ngam laamu ñalawma on, e ⟨את⟩ leel annoore tokooso on ngam laamu jamma on — e ⟨את⟩ paabi ɗin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leɗɗe annoore ɗeeɗoo ɗiɗi mawɓe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "leɗɗe annoore ɗen"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leel annoore mawɗo on"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "leel annoore on"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ngam laamu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leel annoore tokooso on"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "leel annoore on"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tokooso"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ngam laamu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "jamma on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paabi ɗin"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "paabi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:53.036275023Z",
+  "model": "glm-5.3"
+}

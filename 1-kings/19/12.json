@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Caggal yanñde nden, yiite — Yaawe wonaa e yiite nden; caggal yiite nden, daande memmre, uruuru.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "yanñde nden"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite nden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "memmre"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "uruuru"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:25.741882112Z",
+  "model": "glm-5.3"
+}

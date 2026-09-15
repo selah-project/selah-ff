@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ester wi'i: “Neɗɗo muusɗo e gaño — ko Haman bonɗo on.” Kono Haman kulii yeeso laamɗo on e laamɗo debbo on.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "muusɗo"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "e gaño"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "kono Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "kulii"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "e laamđo debbo on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:58:14.864463494Z",
+  "model": "glm-5.3"
+}

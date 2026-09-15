@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Hadi ɗum, e konngi ɗin fuu ɗi ɓe wowlay, wata jaɓɓinaa ɓernde maa ndee, wata a nano ⟨את⟩ jeyaaɗo maa on ñaawoowo maa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hadi ɗum"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "e ɗin fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ɓe wowlay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jaɓɓinaa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa ndee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a nano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɗo maa on"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa on"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "ñaawoowo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:02.146707725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ko jamirooje e dow jamirooje, jamirooje e dow jamirooje; ɗoggol e dow ɗoggol, ɗoggol e dow ɗoggol; seeɗa ɗoo, seeɗa ɗoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צו",
+      "gloss": "jamirooje"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "e dow jamirooje"
+    },
+    {
+      "surface": "צו",
+      "gloss": "jamirooje"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "e dow jamirooje"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ɗoggol"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "e dow ɗoggol"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ɗoggol"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "e dow ɗoggol"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:46.918576543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Fewnotooɗo to dow ndiyam cufray makko toowɗe; O waɗirta duuje laana makko; O naatirta dow balɗe henndu.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Fewnotooɗo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "to dow ndiyam"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "cufray makko toowɗe"
+    },
+    {
+      "surface": "השם",
+      "gloss": "O waɗirta"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "duuje"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "laana makko"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "O naatirta"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henndu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:52.597485892Z",
+  "model": "glm-5.3"
+}

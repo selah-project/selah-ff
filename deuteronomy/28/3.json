@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Dewetenaama a e saare, e dewetenaama a e ladde.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dewetenaama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "e dewetenaama"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:09.094397027Z",
+  "model": "glm-5.3"
+}

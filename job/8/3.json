@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Hol to Eel ina wirnina ñaawoore? walla Shadday ina wirnina nuunɗal?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ina wirnina"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ina wirnina"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "nuunɗal"
+    }
+  ],
+  "timestamp": "2026-09-15T05:48:07.350096401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Kono ko waktuuji tan woni e sunaare makko; nguurdam woni e moƴƴere makko; jikkoyngal heddoto jamma, wuddo aro subaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono ko"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "waktuuji tan"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "e sunaare makko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurdam"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "e moƴƴere makko"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "jamma"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "heddoto"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "jikkoyngal"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "wuddo aro"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.334984674Z",
+  "model": "glm-5.3"
+}

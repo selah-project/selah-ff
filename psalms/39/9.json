@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E nder ɓulli am ɗiin fof ndimdii lam; wata a waɗ lam hoyre neɗɗaŋke-naaɓe.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "e nder ... fof"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ɓulli am ɗiin"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ndimdii lam"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neɗɗaŋke-naaɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "a waɗ lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:17.998219509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "E ɗum wellay Yaawe ɓuri nagge, ɓuri bulli wondude e njeeɗe e koyɗe.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "E ɗum wellay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ɓuri nagge"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ɓuri bulli"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "wondude e njeeɗe"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "e koyɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:44.914470616Z",
+  "model": "glm-5.3"
+}

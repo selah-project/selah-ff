@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Laamɗo on wonnooɗo kaaldude e Geehazi, suddo neɗɗo Eloohim on, wi'a: «Haalan mi, ɗoyla, ⟨את⟩ golle mawɗe ɗe fow ɗe Elisaa waɗi.»",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaaldude"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Geehazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suddo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɗoyla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle mawɗe ɗe fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗe fow"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "golle mawɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:43.803188163Z",
+  "model": "glm-5.3"
+}

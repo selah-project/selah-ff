@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Mi meeñi, sabu Yaawe nanata ⟨את⟩ daande am, ñaawoore am.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Mi meeñi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nanata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande am"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñaawoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:23.675016362Z",
+  "model": "glm-5.3"
+}

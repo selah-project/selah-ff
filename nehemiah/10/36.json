@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "e addude ⟨את⟩ dasaaji leydi amen e dasaaji kala ñamri kala lekki, hitaande e hitaande, to suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "e addude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dasaaji leydi amen"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "dasaaji"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "leydi amen"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "e dasaaji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ñamri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "to suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:32.685084346Z",
+  "model": "glm-5.3"
+}

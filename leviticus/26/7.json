@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ñaamton ⟨את⟩ gaññeeɓe mon, ɓe.ymlito yeeso mon ngam ponndol.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Ñaamton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaññeeɓe mon"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "gaññeeɓe mon"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ɓe.ymlito"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ngam ponndol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:15.486077462Z",
+  "model": "glm-5.3"
+}

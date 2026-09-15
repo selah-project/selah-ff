@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 35:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Konngol ngol arii to Yirmiyaahu, diga e ⟨את⟩ Yaawe, e naange Yehoyakim, ɓiy Yoshiyaahu, laamɗo Yahuuda, ngam wiyde.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ".ngol"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "diga e Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e naange"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:37.066756430Z",
+  "model": "glm-5.3"
+}

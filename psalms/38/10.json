@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Adonaay, teddungal am fii woni yeeso maa; e heñinoyre am wanaa suuɗnde iwde e maa.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "teddungal am fii"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "e heñinoyre am"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iwde e maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "suuɗnde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:18.231808876Z",
+  "model": "glm-5.3"
+}

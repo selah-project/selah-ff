@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Israayel ko laaɓal fii Yaawe, gasaari adannde demngal makko; kala ñamminɗo mo yo bono; bone aroyay e maɓɓe, jeertino Yaawe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "gasaari adannde"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "demngal makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "ñamminɗo mo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "yo bono"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "aroyay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jeertino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:04:53.749326965Z",
+  "model": "glm-5.3"
+}

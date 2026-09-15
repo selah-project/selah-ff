@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Mi ɗaamii ⟨את⟩ Yaawe, o jaabani mi, o hisnini mi e nder kulol kulɓe am fuu.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "mi ɗaamii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "o jaabani mi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e nder ... fuu"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "kulɓe am"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o hisnini mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:34.947266994Z",
+  "model": "glm-5.3"
+}

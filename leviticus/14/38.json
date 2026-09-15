@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Almaami on yaltay e suudu ndun haa e dammagal suudu ndun, o oudditay ⟨את⟩ suudu ndun balɗe jeetati.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaltay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dammagal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "o oudditay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ndun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:40.543951557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Esaw hoɗi e tulde Se'ir; Esaw kadi ko Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "hoɗi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kadi ko"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:12.665141926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Wanaa ɓe mbaɗa hoyre e hoore mun, wanaa ɓe diŋtin taƴre wutte mun, wanaa e ɓernde mun ɓe ɓuuɓna ɓuuɓol.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ɓe mbaawa waɗde"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "e taƴre"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "wutte mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ɓe diŋtin"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "e ɓernde mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "ɓe ɓuuɓna"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "ɓuuɓol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:21.476082962Z",
+  "model": "glm-5.3"
+}

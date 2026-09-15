@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Duuman, ngehen, nde wonaa ɗoo nii walaa; sabu ɗum ena daaƴaa, ko bonantere wawnduuru huɓɓata on.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "duuman"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ngehen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo nii"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "sabu ɗum"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ena daaƴaa"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ko bonantere huɓɓata"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "bonantere"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "wawnduru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:23.563156820Z",
+  "model": "glm-5.3"
+}

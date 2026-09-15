@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ndeen ⟨wonii⟩: si nana-ɗon no heewi noddiral am, ɗe mi noda ⟨את⟩ onon ɗum tonngoode ɗoo, ngam yiɗde ⟨את⟩ Yaawe Eloohim mon, e gollude mo e ɓernde mon fuu e nguurndam mon fuu",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ndeen wonii"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanaade"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nana-ɗon no heewi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "noddiral am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "noda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ onon",
+      "marks": "onon ɗum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tonngoode ɗoo"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ngam yiɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim mon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "e gollude mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nguurndam mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:14.949064700Z",
+  "model": "glm-5.3"
+}

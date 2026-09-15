@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "Kono aɗa, Eloohim, nanngu-ɗaa naddeeje am, aɗa woodiniri njondu ɓen hanndu innde maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nanngu-ɗaa"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "naddeeje am"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "aɗa woodiniri"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "njondu"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ɓen hanndu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:25.019536826Z",
+  "model": "glm-5.3"
+}

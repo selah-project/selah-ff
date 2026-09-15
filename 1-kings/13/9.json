@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Fii ko noon ⟨את⟩ am waɗiraaka e konngol Yaawe, wiyude: A ƴammboraaka ñameende, a ƴamɓaaka ndiyam, a artiraa e laawol ngol a yahi e ngol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "waɗiraaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ am",
+      "marks": "am (anoowo on)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "e konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a ƴammboraaka ñameende"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waɗaa"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "a ƴamɓaaka ndiyam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waɗaa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "a artiraa e laawol"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "a yahi e ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:15.991019082Z",
+  "model": "glm-5.3"
+}

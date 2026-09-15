@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe wi'i makko: Saba mi wanay e maa, maa fiyi ⟨את⟩ Midyaan no neɗɗo wooto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mi-wanay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e-maa"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "maa-fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyaan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyaan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "no-neɗɗo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wooto"
+    }
+  ],
+  "timestamp": "2026-09-14T06:25:29.142723307Z",
+  "model": "glm-5.3"
+}

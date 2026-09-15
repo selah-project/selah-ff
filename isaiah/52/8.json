@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Daande reenooɓe maa ɗin! Ɓe ɓesni daande, ɓe welta wondude; sabu gite e gite ɓe yiyata, tawa Yaawe ruttorii Ziyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "reenooɓe maa ɗin"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɓe ɓesni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wondude"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ɓe welta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe yiyata"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "tawa … ruttorii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziyon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:48.909879398Z",
+  "model": "glm-5.3"
+}

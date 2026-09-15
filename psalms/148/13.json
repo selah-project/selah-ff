@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 148,
+  "translation": "Ɓe yettoyo ⟨את⟩ innde Yaawe, sabu innde mun tan ɓuri toowde; teddina makko woni dow leydi e kammuuli.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ɓe yettoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde Yaawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "ɓuri toowde"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tan"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "teddina makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "e kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:42.672987047Z",
+  "model": "glm-5.3"
+}

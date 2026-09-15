@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe nji'o ⟨את⟩ daande Yaawe Eloohim ina yaha e wertinyo ngelo, e ñolwoonde ñalawma ngel; Aadama e debbo mum cuuɗii hoore maɓɓe e yeeso Yaawe Eloohim, hakkunde lekki wertinyo ngelo.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ɓe nji'o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ina yaha"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "e wertinyo ngelo"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "e ñolwoonde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma ngel"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "cuuɗii hoore"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Aadama"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo mum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "wertinyo ngelo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:27.759114732Z",
+  "model": "glm-5.3"
+}

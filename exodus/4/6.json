@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe wi'i mo kadi: 'Naatnu ñaamoore, junnde maa nder ɓalnde maa.' O naatni junnde mun nder ɓalnde mun, o yaltini nde — nde-yi'i, junnde mun melii no nees waɗiri.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "naatnu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñaamoore"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junnde maa"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nder ɓalnde maa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naatni"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "nder ɓalnde mun"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "o yaltini nde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "nde-yi'i"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "melii"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "no nees waɗiri"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:19.875495327Z",
+  "model": "glm-5.3"
+}

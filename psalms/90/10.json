@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Balɗe duuɓi amen e majje ko cappanɗe jeeɗiɗe, kono si ko semmbe, cappanɗe jeetati; ko mawninaare majje tan ko cajj e bonannde, fii noon ɗe taƴaama jaajol, minen men mbayla.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "duuɓi amen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e majje"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "cappanɗe jeeɗiɗe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ko semmbe"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "cappanɗe jeetati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "mawninaare majje"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cajj"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "e bonannde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii noon"
+    },
+    {
+      "surface": "גז",
+      "gloss": "taƴaama"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "jaajol"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "minen men mbayla"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:15.594005071Z",
+  "model": "glm-5.3"
+}

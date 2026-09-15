@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Bilha heɓi reedu, o danyi fii Yaaquba ɓiɗɗo gorko.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "heɓi reedu"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o danyi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fii Yaaquba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:58.838440147Z",
+  "model": "glm-5.3"
+}

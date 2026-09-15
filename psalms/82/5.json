@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 82,
+  "translation": "Ɓe anndaali, ɓe faamaani; e nder niɓɓere ɓe yahay; ɗonɗe leydi ndin fuu ina ɗon yyilɓi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ɓe anndaali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ɓe faamaani"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "e nder niɓɓere"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ɓe yahay"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ina ɗon yyilɓi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "ɗonɗe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:26.613738822Z",
+  "model": "glm-5.3"
+}

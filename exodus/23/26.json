@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Wanaa muurngu wanaa ceasehu tawa e leydi maa; ⟨את⟩ limoore balɗe maa mi heletay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "muurngu"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "wanaa ceasehu"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "e leydi maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limoore balɗe maa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limoore"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "balɗe maa"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "mi heletay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:12.807016982Z",
+  "model": "glm-5.3"
+}

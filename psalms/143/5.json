@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Miɗo siftoroo ñalɗi ɓennuɗi ɗin; miɗo miijoroo e golle maa ɗe fof; e golle juuɗe maa ɗiɗe miɗo yeewtoro.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "miɗo siftoroo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi ɓennuɗi ɗin"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ɓennuɗi"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "miɗo miijoroo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ɗe fof"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "golle maa"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "juuɗe maa ɗiɗe"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "miɗo yeewtoro"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:46.163549641Z",
+  "model": "glm-5.3"
+}

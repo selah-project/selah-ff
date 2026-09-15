@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Nanoowo ñaawoore, maa ɓernde fuu aroyata.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nanoowo"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "aroyata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:31.495350323Z",
+  "model": "glm-5.3"
+}

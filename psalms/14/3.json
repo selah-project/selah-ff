@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Fuu ɗen ɗarti, ɓe renndi ɓe mbonaama; alaa baɗoowo moƴƴere, alaa hay gooto.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Fuu ɗen"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ɗarti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɓe renndi"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ɓe mbonaama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baɗoowo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gotoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:46.904202177Z",
+  "model": "glm-5.3"
+}

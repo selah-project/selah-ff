@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E ɓernde am mi suuɗii konngol maa, fii yo mi bonnataa ma.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "e ɓernde am"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "mi suuđii"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "konngol maa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(walaa) ... taa"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "mi bonnata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.612523091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Nde ɗum waɗi, e joofnirde ñalɗi tati, ardooɓe ɓee naati e nder kaampal ngal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde ɗum waɗi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "e joofnirde"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "naati"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "ardooɓe ɓee"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:52.908716434Z",
+  "model": "glm-5.3"
+}

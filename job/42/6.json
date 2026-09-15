@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Sabu ɗum mi ñiŋii ⟨mi⟩, mi ngartini mi e dow palor e ɓuuɓri.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "mi ñiŋii"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "mi ngartini mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "palor"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "e ɓuuɓri"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:20.748115574Z",
+  "model": "glm-5.3"
+}

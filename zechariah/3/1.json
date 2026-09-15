@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O hollu mi ⟨את⟩ Yehoshuwa almuudo mawɗo on, darordo yeeso nulaaɗo Yaawe, e haasaama-on darordo bannge ñaamo makko fii ñiŋde makko.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "o hollu mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa almuudo mawɗo on"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almuudo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawɗo on"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darordo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "nulaaɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "e haasaama-on"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darordo"
+    },
+    {
+      "surface": "על",
+      "gloss": "bannge"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ñaamo makko"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "fii ñiŋde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:23.079549718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Sabu Awraham heɗii daande Am, o reeni reenu Am, amarje Am, sariyaaji Am e toraaji Am.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heɗii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "daande Am"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "o reeni"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "reenu Am"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amarje Am"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "sariyaaji Am"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "e toraaji Am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:23.623030685Z",
+  "model": "glm-5.3"
+}

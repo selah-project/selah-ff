@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Fii waɗude fii makko ardooɓe ujunnaaje e ardooɓe cappanɗe joyi; fii wuddude wuddu makko nduu e fii hoolde aduna makku makko; e fii waɗde kaɓirɗe konu makko nguu e kaɓirɗe nguudi makko nduu.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "fii waɗude fii makko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardooɓe"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ujunnaaje"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ardooɓe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cappanɗe joyi"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "fii wuddude"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "wuddu makko nduu"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "fii hoolde"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "aduna makku makko"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "fii wañde"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "konu makko nguu"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "nguudi makko nduu"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.871159482Z",
+  "model": "glm-5.3"
+}

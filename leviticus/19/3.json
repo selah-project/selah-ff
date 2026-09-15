@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Neɗɗo kala yummu mun e baaba mun waasoye, e ⟨את⟩ dewe am ɗen reenoron; ko mi Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Neɗɗo kala"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yummu mun"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "e baaba mun"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "waasoye (ɓe ngonaa cokaaɗi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dewe am ɗen"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "dewe am ɗen"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "reenoron"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:20.177926664Z",
+  "model": "glm-5.3"
+}

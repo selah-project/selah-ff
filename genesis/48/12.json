@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Yuusufu yaltini ⟨את⟩ ɓe diga hakkunde koŋŋe mum, o sujjanaali yeeso mum dow leydi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "diga"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "hakkunde koŋŋe mum"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "o sujjanaali"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "yeeso mum"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "dow leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:08.906291668Z",
+  "model": "glm-5.3"
+}

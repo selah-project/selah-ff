@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Ɓe njiɓi ⟨את⟩ fuu worɓe ɓen, ɓe njahi ngam haɓde e Ishmayel ɓiy Netanya, ɓe tawii ⟨את⟩ mo e ɓuuɓri ndiyam mawndi wonndi e Gibeon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe njiɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu worɓe ɓen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishmayel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanya"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ɓe tawii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mawɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonndi"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "e Gibeon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:26:01.081949338Z",
+  "model": "glm-5.3"
+}

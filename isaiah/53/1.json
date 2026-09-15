@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Yo huɓɓu yo ngo'oo e ɗaɓɓol amen ngol, e junngo Yaawe, to yeddiraama ɗum?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yo huɓɓu"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "yo ngo'oo"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "e ɗaɓɓol amen ngol"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yeddiraama"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:32.554205928Z",
+  "model": "glm-5.3"
+}

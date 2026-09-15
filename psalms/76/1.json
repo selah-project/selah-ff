@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "Fii yo'oowo on, e jimlle pauli — mizmoor, fii Asaaf, yimre.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii yo'oowo on"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "e jimlle pauli"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:22.409142712Z",
+  "model": "glm-5.3"
+}

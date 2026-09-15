@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E fii miñi debbo mun, ɓingel debbo mo ɓuraani gorko, ɓadiiɗo himmo; fii makko o laylay.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "e fii miñi debbo mun"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "ɓingel debbo mo ɓuraani gorko"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ɓadiiɗo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "himmo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ɓuraani"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "o laylay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:35.115675435Z",
+  "model": "glm-5.3"
+}

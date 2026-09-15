@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Caggal ɗee dingi, nde wuluuru laamɗo Ahashuerosh fellunoo, o jalmini ⟨את⟩ Washti, e ⟨את⟩ ko o waɗi, e ⟨את⟩ ko sokaa e makko.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Caggal"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ɗee dingi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "nde fellunoo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "wuluuru"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashuerosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o jalmini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Washti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ko o waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ko sokaa e makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "sokaa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:30:52.832642504Z",
+  "model": "glm-5.3"
+}

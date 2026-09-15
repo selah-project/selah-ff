@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe hokku-mi ⟨את⟩ ɗiɗo lekki ɗii jawe, winndaandi e junngo Eloohim; e ɗiɗɓe hono konngi ɗin fuu, ɗe Yaawe weli heen on e nder tulde nden, diga ɗii yiite nder, ñalnde kawral ngal.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiɗo lekki ɗii jawe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "lekki ɗii"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "jawe"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "winndaandi"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "e ɗiɗɓe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hono...fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "weli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "heen on"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e nder tulde nden"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "diga ɗii...nder"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kawral ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:25.303293370Z",
+  "model": "glm-5.3"
+}

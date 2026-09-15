@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Ɓe yeeyna kala wuyru ladde; pucci jeertuɗi ñaafa ceeri mun.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Ɓe yeeyna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "wuyru"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ñaafa"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "pucci jeertuɗi"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ceeri mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:57.353583967Z",
+  "model": "glm-5.3"
+}

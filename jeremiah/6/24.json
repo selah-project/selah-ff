@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Min nanii ⟨את⟩ haala mum; junne amen njahri ko ɓuuɓnooje; caɗe na nanngi min, muñɗe no debbo jibinowo nii.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "min nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala mum"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "haala mum"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "njahri ko ɓuuɓnooje"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "junne amen"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "na nanngi min"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "muñɗe"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "no debbo jibinowo nii"
+    }
+  ],
+  "timestamp": "2026-09-14T08:06:56.070623127Z",
+  "model": "glm-5.3"
+}

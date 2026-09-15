@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe Eloohim am, si mi waɗi ɗum, si tooñere woni e junuurooje am;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יש",
+      "gloss": "woni"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tooñere"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "e junuurooje am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:43.766979811Z",
+  "model": "glm-5.3"
+}

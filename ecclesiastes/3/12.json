@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi anndi wonde alaa moƴƴere woni e maɓɓe, si wanaa weltaade e waɗde moƴƴere e nguurndam maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "weltaade"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "e waɗde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "e nguurndam maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:34.494127766Z",
+  "model": "glm-5.3"
+}

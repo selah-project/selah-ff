@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Mi ittii gacce makko e njaram ngam, junne makko njalti ko e kattu.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "mi ittii"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "e njaram"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "gacce makko"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "junne makko"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "e kattu"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "njalti"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:16.480318510Z",
+  "model": "glm-5.3"
+}

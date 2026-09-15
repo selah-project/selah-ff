@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Yaawe timminay ⟨golle⟩ mum fii am; Yaawe, hesed maa duumotoo haa abada; golle juuɗe maa ɗen wata a woppu ɗe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "timminay"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "juuɗe maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "a woppu ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:10.222133941Z",
+  "model": "glm-5.3"
+}

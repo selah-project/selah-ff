@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Yisma'iila, ɓiy mun, ko ɓiy duuɓi sappo e tati, tuma suddugol ⟨את⟩ ɓeyngu suddo mun.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Yisma'iila"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "duuɓi sappo e"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "tuma suddugol mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeyngu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓeyngu"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "suddo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:45.645231140Z",
+  "model": "glm-5.3"
+}

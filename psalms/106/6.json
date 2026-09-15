@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Minen min bakkatii e baabiraaɓe amen, min ƴuurnitii, min bonnii no feewi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "min bakkatii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "min ƴuurnitii"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "min bonnii no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:49.985468355Z",
+  "model": "glm-5.3"
+}

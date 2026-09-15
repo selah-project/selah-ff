@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E debbo mun gaynaako — Hamoleketh — o jibini ⟨את⟩ Ishod e ⟨את⟩ Abiezer e ⟨את⟩ Mahlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "e debbo mun gaynaako"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Abiezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Mahlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahlah"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:37.481304015Z",
+  "model": "glm-5.3"
+}

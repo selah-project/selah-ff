@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yaɓɓo leydi maa no ɓuuɓri ndiri, ɓi Tarshish — alaa ceeo kadi.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "yaɓɓo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "no ɓuuɓri ndiri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ceeo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:03.826688207Z",
+  "model": "glm-5.3"
+}

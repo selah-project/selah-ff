@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɗoo ko ɗum ⟨את⟩ woni yamre nden, sariiji ɗin e ñaawoore ɗin, ɗi Yaawe Eloohim mo'on ƴami yo ɓe janngina on, ngam waɗude ɗum en leydi ndin ɗo on ngaddoo toon ngam ruttude ndi.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ɗoo ko ɗum woni"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "yamre nden"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariiji ɗin"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "e ñaawoore ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ƴami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mo'on"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "yo ɓe janngina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗude ɗum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "en leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngaddoo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "toon"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ngam ruttude ndi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:33.581349147Z",
+  "model": "glm-5.3"
+}

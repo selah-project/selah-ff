@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim wi'i: 'Wata laaɓal wonu hakkunde ndiyam ɗam, wata nguu seertu ndiyam e ndiyam.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "wata ... wonu"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wata nguu"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "seertu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "e"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "למים",
+      "gloss": "e ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:15.661280699Z",
+  "model": "glm-5.3"
+}

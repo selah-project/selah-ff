@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Menashe ɗaani e baabiraaɓe mun, o wirnaama e wersow hoore mun, e wersow Uzza; Amon ɓiy mun laamiima e nokku mun.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ɗaani"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "o wirnaama"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "e wersow"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "e wersow"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiy mun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:19.646245893Z",
+  "model": "glm-5.3"
+}

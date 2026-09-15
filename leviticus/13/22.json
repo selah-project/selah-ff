@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono si nde yaaji no feewi e ɗerundi ndin, kahin on munoyat ⟨את⟩ mo: ko bonnde nde woni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yaaji no feewi"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yaaji"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "e ɗerundi ndin"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "munoyat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahin on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "gorko on ñawɗo on"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:34.831499552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 133,
+  "translation": "No ruwa ñooru Hermon ngonnata e dow tulli Tsiyon, chunki ɗon Yaawe yamiri ⟨את⟩ barke ngan — nguurdam haa duumi.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "no ruwa ñooru"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ngonnata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "tulli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barke ngan"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurdam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:38.980788647Z",
+  "model": "glm-5.3"
+}

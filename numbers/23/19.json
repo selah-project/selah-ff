@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Eel ⟨wanaa⟩ neɗɗo, wanaa o fewnata; kadi ɓiɗɗo Aadam, wanaa o waylata. O wi'i, mo waɗataa? O haali, mo himmintaa?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "wanaa o fewnata"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "kadi ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "wanaa o waylata"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "O"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mo... aa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mo... aa"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "himmintaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:00.361601100Z",
+  "model": "glm-5.3"
+}

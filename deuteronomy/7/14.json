@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "A barkete ɗuɓɓe yimɓe fuu; walaa mo heewa walla debbo heewo e nder maa, wanaa e nder daabaaji maa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "barkete"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "a ⟨woni⟩"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ɗuɓɓe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe fuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨woni⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e nder maa"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "mo heewa"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "walla debbo heewo"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "wanaa e nder daabaaji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:55.341664192Z",
+  "model": "glm-5.3"
+}

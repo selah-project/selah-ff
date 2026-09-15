@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Wata on tooñ neɗɗo ⟨את⟩ sodaabo mun, on moƴƴintina kulol Eloohim maa; ko miin Yaawe, Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wata on"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "tooñ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sodaabo mun"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "sodaabo mun"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "on moƴƴintina kulol"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:00.496739805Z",
+  "model": "glm-5.3"
+}

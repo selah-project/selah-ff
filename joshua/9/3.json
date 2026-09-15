@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yimɓe Gibeon kadi nani ⟨את⟩ ko Yahuşua waɗi to Yeriiko e to Ay.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Yimɓe...jooɗiiɓe"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yahuşua waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko...waɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuşua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "to Yeriiko"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "e to Ay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:17.473399361Z",
+  "model": "glm-5.3"
+}

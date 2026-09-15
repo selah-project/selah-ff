@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yimɓe Yabeesh Gil'aad ɗin fuu nani ⟨את⟩ fuu ɗe Pelishtiyankooɓe mbaɗi Sha'uul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ɓe nanii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗin fuu"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabeesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'aad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗe ... mbaɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyankooɓe"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sha'uul"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:07.369749805Z",
+  "model": "glm-5.3"
+}

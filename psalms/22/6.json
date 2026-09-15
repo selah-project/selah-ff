@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "E maa ɓe cemmbinii, ɓe ndima; e maa ɓe hoolii, ɓe hullitaa.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ɓe cemmbinii"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ɓe ndima"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ɓe hoolii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hullitaa"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "hullitii"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:00.283954915Z",
+  "model": "glm-5.3"
+}

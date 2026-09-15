@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kohaan on ɓadtinirta ⟨את⟩ makko, o dariinoyta mo yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ɓadtinirta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "debbo on"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohaan on"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "o dariinoyta mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:36:02.371747219Z",
+  "model": "glm-5.3"
+}

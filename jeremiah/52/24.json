@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Mawɗo warooɓe ɓen jooɓi ⟨את⟩ Seraja kohem mawɗo on, e ⟨את⟩ Tsefanya kohen ɗiɗaɓo on, e ⟨את⟩ tato jiitooɓe damal ngal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jooɓi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "warooɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja kohem mawɗo on"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohem"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mawɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Tsefanya kohen ɗiɗaɓo on"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ɗiɗaɓo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tato jiitooɓe damal ngal"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "jiitooɓe"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "damal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:38.903054002Z",
+  "model": "glm-5.3"
+}

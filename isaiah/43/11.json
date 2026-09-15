@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Kanko mi, kanko mi, ⟨woni⟩ Yaawe, e so wonaa mi hisnoowo wanaa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "so wonaa mi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "hisnoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:46.515433878Z",
+  "model": "glm-5.3"
+}

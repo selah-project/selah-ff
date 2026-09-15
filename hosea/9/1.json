@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 9:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Israa'iil, wata a weltinoo, wata a weltu hono leƴƴi ɗin; sabu aɗa fenndude, aɗa muñii e Eloohim maa; aɗa yiɗi njoɓdi ɓural dow gaasuuji ngurndam ɗin fof.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "a weltinoo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "weltu"
+    },
+    {
+      "surface": "כעמים",
+      "gloss": "hono leƴƴi ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זנית",
+      "gloss": "aɗa fenndude"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "aɗa muñii"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "aɗa yiɗi"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "njoɓdi ɓural"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "גרנות",
+      "gloss": "gaasuuji"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ngurndam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:13.435788035Z",
+  "model": "glm-5.3"
+}

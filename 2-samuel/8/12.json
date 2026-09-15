@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ummoraade e Aram, e Moab, e ɓiɓɓe Ammon, e Filiisthiimen, e Amalek, e kuutoragol Hadadezer ɓiy Rehob laamɗo Tsoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "ummoraade e Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "e Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "e Filiisthiimen"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "e Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "e kuutoragol"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    }
+  ],
+  "timestamp": "2026-09-14T06:56:25.838805682Z",
+  "model": "glm-5.3"
+}

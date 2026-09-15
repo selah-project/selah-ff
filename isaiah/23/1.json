@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Masaajo Tsor. Wullitee, yaa ngardiiji Tarshish, sabu ko bonaa haa alaa galle, alaa naatgol; e leydi Kittim ko laaɓtinaama e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masaajo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "wullitee"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ngardiiji"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ko bonaa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "naatgol"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "laaɓtinaama"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:57.181301270Z",
+  "model": "glm-5.3"
+}

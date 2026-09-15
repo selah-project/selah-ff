@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 110,
+  "translation": "Adonaay ina ⟨darii⟩ to junngo maa ñaamo; o foofa laamɓe ñalnde sunaare mun.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "junngo maa ñaamo"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o foofa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sunaare mun"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "laamɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.418414818Z",
+  "model": "glm-5.3"
+}

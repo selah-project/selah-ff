@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Kono O daɗnii ɓe fii innde makko, ngam hollirde ⟨את⟩ doole makko.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Kono O daɗnii ɓe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ngam hollirde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doole makko"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "doole makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:49.985792881Z",
+  "model": "glm-5.3"
+}

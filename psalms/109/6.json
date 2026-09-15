@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Toɗɗin ganjo dow mun, kodo sataana dari e junngo ñaamo mun.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "toɗɗin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ganjo"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "kodo sataana"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "dari"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "junngo ñaamo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:48.849191160Z",
+  "model": "glm-5.3"
+}

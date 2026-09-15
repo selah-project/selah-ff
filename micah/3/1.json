@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi wi'i: Nanee, on ƴaañooɓe hoore Yaakob, on ardotooɓe suudu Yisra'el; hoɗaali on anndude ⟨את⟩ ñaawoore nden?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mi wi'i"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Nanee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "on ƴaañooɓe hoore"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "on ardotooɓe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hoɗaali"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore nden"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ñaawoore nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:33.020870315Z",
+  "model": "glm-5.3"
+}

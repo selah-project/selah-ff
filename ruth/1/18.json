@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O yi'i wonde o faamtinii hoore mun fii yahde ⟨את⟩ makko; o haɗitan haalde e makko.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "faamtinii hoore mun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "fii yahde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "makko"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "o haɗitan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:29.600057478Z",
+  "model": "glm-5.3"
+}

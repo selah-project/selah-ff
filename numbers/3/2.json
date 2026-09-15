@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɗee ɗoo ko innde ɓiɓɓe Aharon: ɓiɗɗo mawɗo on Nadaab, e Abihuwa, e Elazaar, e Itamaar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee ɗoo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "innde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ɓiɗɗo mawɗo on"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "e Abihuwa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "e Itamaar"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:15.237081296Z",
+  "model": "glm-5.3"
+}

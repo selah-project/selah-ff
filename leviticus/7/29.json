@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kaalto e ɓiɓɓe Israa'iila wiyde: on yoowoowo ⟨את⟩ sadak jam mun fii Yaawe, layna ⟨את⟩ dokkal mun fii Yaawe, e dow sadak jam mun.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kaalto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "yoowoowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadak jam mun"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadak"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "jam mun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "layna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal mun"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "dokkal mun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "e dow sadak"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "jam mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:41.633771900Z",
+  "model": "glm-5.3"
+}

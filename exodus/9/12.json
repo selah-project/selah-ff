@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe ɗaɓɓiti ⟨את⟩ ɓernde Par'oh, o nano ɓe; hono no Yaawe haaliri Moshe ndee.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "o ɗaɓɓiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde Par'oh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaliri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:06.442786110Z",
+  "model": "glm-5.3"
+}

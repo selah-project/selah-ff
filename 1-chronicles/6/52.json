@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓe ndokki ɓe ⟨את⟩ gure daɗnorɗe ɗen ⟨את⟩ Shekhem e ⟨את⟩ leydi udditiindi mun e tulde Ef-rayim, e ⟨את⟩ Gezer e ⟨את⟩ leydi udditiindi mun.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gure daɗnorɗe ɗen"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "daɗnorɗe ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi udditiindi mun"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "leydi udditiindi mun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ef-rayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi udditiindi mun"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "leydi udditiindi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:25.934504806Z",
+  "model": "glm-5.3"
+}

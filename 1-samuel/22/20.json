@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓiɗɗo gooto laaɓtuɗo e Ahimelek ɓiɗɗo Ahitub, innde makko Abiyataar, dogu o woppi, o dogi ɓaawo Daawuda.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "o dogu woppi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "e Ahimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiyataar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:59:12.550275096Z",
+  "model": "glm-5.3"
+}

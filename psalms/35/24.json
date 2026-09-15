@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ñaawu am e laaɓal maa, Yaawe Eloohim am; wata ɓe weltin e am.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ñaawu am"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "e laaɓal maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ɓe weltin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:42.357669598Z",
+  "model": "glm-5.3"
+}

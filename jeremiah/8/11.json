@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓe selliniri ⟨את⟩ ffiye ɓiɗɗo debbo yimɓe am no famɗi, ɓe wi'a: jam, jam, e jam woodaani.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ɓe selliniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ffiye ɓiɗɗo debbo yimɓe am"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ffiye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "על",
+      "gloss": "no"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "famɗi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'a"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "e woodaani"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:08:55.385669028Z",
+  "model": "glm-5.3"
+}

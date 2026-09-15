@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Joftor ko Yaawe Eloohim maa waɗi ⟨את⟩ Miriyam e laawol ngol, e yaltugol mon mum Misrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Joftor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miriyam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miriyam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "e yaltugol mon"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "mum Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:38.408458728Z",
+  "model": "glm-5.3"
+}

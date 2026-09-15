@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Wanaa ballal alaa ⟨e⟩ nder am, e tushiyya ko rittaande e am?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ballal am"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e nder am"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "e tushiyya"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "rittaande"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:49.581399892Z",
+  "model": "glm-5.3"
+}

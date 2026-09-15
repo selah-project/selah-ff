@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Ko heewi ɗum waɗɗinii aadayu, aadayu ⟨Eloohim⟩ am: kaabte maa ɗen e miijooji maa ɗin ⟨ɗi⟩ fii amen — alaa nanndu e maa. Mmiɗoto, mmi'oto ɗum; ko ɓuri limgol ɗum eni.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Ko heewi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɗɗinii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aadayu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "kaabte maa ɗen"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "e miijooji maa ɗin"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "fii amen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "nanndu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "Mmiɗoto"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mmi'oto"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ko ɓuri"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limgol ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:27.051145037Z",
+  "model": "glm-5.3"
+}

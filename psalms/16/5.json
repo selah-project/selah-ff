@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yaawe ⟨woni⟩ womre deggere am e kaasum am; kanko a wallitii gorol am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "womre"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "deggere am"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "e kaasum am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanko a"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "wallitii"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "gorol am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:43.972185244Z",
+  "model": "glm-5.3"
+}

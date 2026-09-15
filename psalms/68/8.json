@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Eloohim, e yaltugol Maaɗa yeeso yimɓe Maaɗa, e yahugol Maaɗa nder jeereende, Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "e yaltugol Maaɗa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe Maaɗa"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "e yahugol Maaɗa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "nder jeereende"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:07.702629874Z",
+  "model": "glm-5.3"
+}

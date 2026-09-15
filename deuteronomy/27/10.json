@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Nanay daande Yaawe Eloohim maa, waɗ ⟨את⟩ jamirooje makku e ⟨את⟩ sariiji makku ɗi mi waɗirta maa hannde ɗoo.”",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Nanay"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamirooje makku"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "jamirooje makku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sariiji makku"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sariiji makku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "waɗirta maa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:37.189699692Z",
+  "model": "glm-5.3"
+}

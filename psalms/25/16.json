@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Faade am, Yeeso, e waasu am, sabu miɗo wondi tan, miɗo muusɗo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Faade am"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "(fii) am"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "e waasu am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "miɗo wondi tan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "miɗo muusɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:38.158745999Z",
+  "model": "glm-5.3"
+}

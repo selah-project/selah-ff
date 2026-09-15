@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Fii ɓe woɗɗuɓe maa wallittee, hisnu e junngo maa ñaamo, jaabu min.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ɓe wallittee"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ɓe woɗɗuɓe maa"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "junngo maa ñaamo"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "e jaabu min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:09.821292506Z",
+  "model": "glm-5.3"
+}

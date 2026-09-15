@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yiftaŋ ñaawi ⟨את⟩ Yisra'el duuɓi jeegom; Yiftaŋ Giladnaajo on maayi, o muɓɓaama e cuuɗi Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaŋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaŋ"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladnaajo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "muɓɓaama"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "e cuuɗi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-14T06:31:04.567262530Z",
+  "model": "glm-5.3"
+}

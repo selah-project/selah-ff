@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ko nii Yaawe wi'i: ko nii mi bonnay ⟨את⟩ mawninde Yahuudah e ⟨את⟩ mawninde Yerushalayim nde mawni.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mi bonnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawninde Yahuudah"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mawninde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mawninde Yerushalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mawninde"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "nde mawni"
+    }
+  ],
+  "timestamp": "2026-09-14T08:12:03.240411051Z",
+  "model": "glm-5.3"
+}

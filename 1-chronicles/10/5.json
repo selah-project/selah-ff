@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Nayoowo kaafele makko yi'i wonde Sha'uul maayi, kanko kadi o yani e juuɗere nden, o maayi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nayoowo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaafele makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanko kadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "juuɗere nden"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:33.112291060Z",
+  "model": "glm-5.3"
+}

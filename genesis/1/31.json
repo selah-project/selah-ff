@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim yi'i ⟨את⟩ ko o tagi fuu, ngeeɗɗu — mbelteew no feewi. Njenteere waɗi, subaka waɗi — ñalnde jeegobaadre.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko o tagi fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o tagi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ngeeɗɗu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mbelteew"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "njenteere"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "jeegobaadre"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:54.711217764Z",
+  "model": "glm-5.3"
+}

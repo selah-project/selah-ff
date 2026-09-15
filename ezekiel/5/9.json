@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Miɗo waɗan maa ɗum ⟨את⟩ ɗum mi waɗaani, kam e ⟨את⟩ ɗum mi waɗataa ɗum no nii ɗoo kadi — sabu tuumaaɗe maa ɗe fof.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "miɗo waɗan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (ɗum mi waɗaani)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗum (ɗum mi wađataa no nii)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗataa"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "no nii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi ɗoo"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "tuumaaɗe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:25:30.578432253Z",
+  "model": "glm-5.3"
+}

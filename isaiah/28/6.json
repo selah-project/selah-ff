@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "e ngam ruuhu ñaawoore fii o duɗotoɗo dow ñaawoore nden, e ngam doole fii artotooɓe konu haa damal ngal.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "e ngam ruuhu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "fii o duɗotoɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ñaawoore nden"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "e ngam doole"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "artotooɓe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "haa damal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:30.925192001Z",
+  "model": "glm-5.3"
+}

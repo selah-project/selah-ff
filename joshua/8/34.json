@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Caggal ɗum o janngi ⟨את⟩ konngi Toraa ɗin fuu, ɓuɓɓu nden e ruusu nden, no winndiraa fow e deftere Toraa nden.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o janngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Toraa ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa ɗin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ɓuɓɓu nden"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "e ruusu nden"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no ... fuu"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "winndiraa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "e deftere"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa nden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:08.549159418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Balak ɓiy Sippoor, laamɗo Moab, ummi, o haɓi e Israa'iil; o neldi o noddi Bilaam ɓiy Be'or fii horkaade ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Sippoor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilaam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Be'or"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "fii horkaade"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:16.297442901Z",
+  "model": "glm-5.3"
+}

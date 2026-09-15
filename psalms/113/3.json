@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 113,
+  "translation": "Duma naange wuurata, haa naange naatata, innde Yaawe teddunde ⟨woillee⟩.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "duma naange wuurata"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "naange naatata"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "woillee"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:21.369926709Z",
+  "model": "glm-5.3"
+}

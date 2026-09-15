@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Laamɗo on wi'i e Hazael: Heɓ e junngo maa dokkal, yah dañɗo gorko Eloohim, ɗaɓɓu ⟨את⟩ Yaawe ⟨את⟩ e makko, wiyde: Haya mi wuurnitoo e ñaw ngun?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Heɓ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "dañɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ɗaɓɓu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Haya mi wuurnitoo"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "e ñaw"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:19.275359119Z",
+  "model": "glm-5.3"
+}

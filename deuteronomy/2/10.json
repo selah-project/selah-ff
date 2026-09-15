@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ha-Emiim ko adii ɓe ngoni hoɗɓe ton, leñol mawngol e keewngol e toowngol, hono no Anakiim ɗin ngorti.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Ha-Emiim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ko adii"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ɓe ngoni hoɗɓe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "עם",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngol"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e keewngol"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "e toowngol"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "hono no Anakiim ɗin ngorti"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:00.653841229Z",
+  "model": "glm-5.3"
+}

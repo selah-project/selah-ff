@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "Kadi Eel maa yannge ma duumi, maa yoŋta ma, maa ittu ma e teŋe ma, e coliire ma e leydi wuurɓe. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "maa yannge ma"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "maa yoŋta ma"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "maa ittu ma"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "e teŋe ma"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "e coliire ma"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wuurɓe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:47.888321889Z",
+  "model": "glm-5.3"
+}

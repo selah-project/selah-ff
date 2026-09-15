@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Dewtiton Yaawe, leydi ndin fuu; udditon daande, wewniton, e yimde.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "dewtiton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "udditton daande"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "wewniton"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "e yimde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:08.236912361Z",
+  "model": "glm-5.3"
+}

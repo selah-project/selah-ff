@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kono onen acci ⟨את⟩ min, on gollinii Eloohim goɗɗi; ndeeno mi ɓurtataa hisnude ⟨את⟩ onen.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kono onen"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "on acci"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ min",
+      "marks": "min (Yaawe)"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "on gollinii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ndeeno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ɓurtataa"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hisnude"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "onen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:27:24.664164354Z",
+  "model": "glm-5.3"
+}

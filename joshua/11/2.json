@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e to laamɓe ɗin ɗi ngoni kaŋkoye fuunaaŋke, e nder Araba fuɗnaange Kinerot, e nder leydi lesundi, e nder ngoomte Dor bisi maayo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "laamɓe ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "fuunaaŋke"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e nder kaŋkoye"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "e nder Araba"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "fuɗnaange"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "e nder leydi lesundi"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "e nder ngoomte"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:16:49.905984749Z",
+  "model": "glm-5.3"
+}

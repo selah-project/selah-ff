@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 47:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Ko nii ɓe ngonti maa — ɓe nguurnoo-ɗaa; soodooɓe-jeeyooɓe maa gila e cukalel maa: gooto e kala dogi e diiwaan mum, wanaa hisnuɗo maa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe ngonti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ɓe nguurnoo-ɗaa"
+    },
+    {
+      "surface": "סחריך",
+      "gloss": "soodooɓe-jeeyooɓe maa"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "gila e cukalel maa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto e kala"
+    },
+    {
+      "surface": "לעברו",
+      "gloss": "dogi e diiwaan mum"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "dogi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "hisnuɗo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:42.918053227Z",
+  "model": "glm-5.3"
+}

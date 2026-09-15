@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Suudu-suddere wonay cemmbal ñalande ngam hisnude tawa e nguleeki, e nokku cuuɗol e nokku asiloowal, e saafaare toɓo",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Suudu-suddere"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "cemmbal"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalande"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "e nguleeki"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "e nokku asiloowal"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "e nokku cuuɗol"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "e saafaare"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "toɓo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:58.963913825Z",
+  "model": "glm-5.3"
+}

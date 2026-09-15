@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Daawuuda wi'i Shawuul: “Ko honno nɗen ɗaɓɓitaa ⟨את⟩ konngi yimɓe ɓen wi'oo ɗoo: Ndee Daawuuda ɗaɓɓitana bonannde maa?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shawuul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honno nɗen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a ɗaɓɓitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi yimɓe ɓen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'oo ɗoo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o ɗaɓɓitana"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "bonannde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:56.118012479Z",
+  "model": "glm-5.3"
+}

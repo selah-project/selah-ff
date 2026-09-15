@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ben-Hadad, laamɗo Aram, moofti ⟨את⟩ konu mun nguu fof, e laamɓe capanɗe tati e ɗiɗo ⟨את⟩ ⟨e makko⟩, e pucci e kooƴe; o ƴetti o daañii Shomeron, o haɓi e maggo.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "moofti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu mun nguu fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "konu mun nguu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "capanɗe tati"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "e ɗiɗo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "laamɓe capanɗe tati e ɗiɗo ɗin"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "e pucci"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "e kooƴe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "o daañii"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e maggo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:49.049186240Z",
+  "model": "glm-5.3"
+}

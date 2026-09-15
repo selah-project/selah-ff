@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O ruttinii ⟨את⟩ sarworgal cuɗaaɓe ɗen e golle mun ñemmbude, o waddi kaas on e ballu junngo Paroh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o ruttinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarworgal cuɗaaɓe ɗen"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarworgal"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "cuɗaaɓe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "golle mun ñemmbude"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waddi"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kaas on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e ballu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:24.483393089Z",
+  "model": "glm-5.3"
+}

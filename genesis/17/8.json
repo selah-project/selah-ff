@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Maa ndokka maa e zurrya maa ɓaawo maa ⟨את⟩ leydi wurooji maa, ⟨את⟩ leydi Kanaan fuu, jeyi duumayru; maa laatudo Eloohim maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "maa ndokka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e zurrya maa"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ɓaawo maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi wurooji maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "wurooji maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Kanaan fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "jeyi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumayru"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "maa laatudo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:43.397187877Z",
+  "model": "glm-5.3"
+}

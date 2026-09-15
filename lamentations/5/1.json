@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Janto, Yaawe, ko honu heɓi min; ƴeewto, ƴeew ⟨את⟩ hoyre amen.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Janto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "heɓi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ƴeewto"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoyre amen"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "hoyre amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:57.679151411Z",
+  "model": "glm-5.3"
+}

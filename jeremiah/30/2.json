@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ko non Yaawe, Eloohim Israa'iil, wi'i, wiyude: Winndan ɗoo e deftere ⟨את⟩ konngi ɗin fof ɗe mi wi'i maa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko non"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Winndan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:54.425772545Z",
+  "model": "glm-5.3"
+}

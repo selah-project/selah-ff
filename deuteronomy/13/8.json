@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "(Eeloohim yimɓe ɓe taarii on, ɓe ɓadii on, walla ɓe woɗɗi on, diga céru leydi ndin haa cetel mum);",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "Ee eloohim"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "taarii on"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ɓe ɓadii on"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "on"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "ɓe woɗɗi on"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "diga céru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "cetel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:47:41.819850279Z",
+  "model": "glm-5.3"
+}

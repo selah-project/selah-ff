@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "E daande wullugol am, ƴi'e am ɗakkitii e ƴiiƴam am.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "wullugol am"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ɗakkitii"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ƴi'e am"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "e ƴiiƴam am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.114265376Z",
+  "model": "glm-5.3"
+}

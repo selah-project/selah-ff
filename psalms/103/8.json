@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yaawe mo yurmeende, mo ɓuri ɓural, dorriɗo gaso, keewɗo hesed.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "mo yurmeende"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "mo ɓuri ɓural"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dorriɗo"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "gaso"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "keewɗo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.720013992Z",
+  "model": "glm-5.3"
+}

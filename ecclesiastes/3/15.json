@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko wonnoo ko, ko ɓuri heewde kisa; ko arata kadi ko ɓuri heewde wonnoo; Eloohim ɗaɓɓata ⟨את⟩ ɗum doguɗo on.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ko ɓuri heewde kisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ko"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "arata"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ko ɓuri heewde"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ɗaɓɓata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum doguɗo on"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "doguɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:38.780132188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe wowli Moshe e jeereende Siinay, wondude:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:00.373335215Z",
+  "model": "glm-5.3"
+}

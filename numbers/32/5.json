@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ɓe wi'i: “Si min njiyii yurme e nder gite maa, yo ⟨את⟩ leydi ndin ndee wallinee maccuɓe maa jeytol; wata a cuuɗu min ⟨את⟩ Yarden.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "min njiyii"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yurme"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e nder gite maa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wallinee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin ndee"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "maccuɓe maa"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "jeytol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "a cuuɗu min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:13.073633647Z",
+  "model": "glm-5.3"
+}

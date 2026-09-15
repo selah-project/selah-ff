@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kono si nanaaɗon daande Yaawe, on yeddi ⟨את⟩ haala Yaawe, junngo Yaawe wona gonngal e mon e baabiraaɓe mon.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nanaa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nanaaɗon"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "on yeddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "e baabiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:45.534936763Z",
+  "model": "glm-5.3"
+}

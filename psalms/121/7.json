@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Yaawe reenan-maa bone fuu; o reenata ⟨את⟩ nguurndam-maa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "reenan-maa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bone fuu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o reenata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam-maa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguurndam-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:42.183917058Z",
+  "model": "glm-5.3"
+}

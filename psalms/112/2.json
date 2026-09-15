@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Ɓiɗɗo-leydi mawɗo ⟨ko⟩ hebgiraa e moyyugol makko e leydi ndin; awaye moƴƴuɓe ɓen barakee.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mawɗo doole"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hebgiraa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "moyyugol makko"
+    },
+    {
+      "surface": "דור",
+      "gloss": "awaye"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "moƴƴuɓe ɓen"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:11.833115191Z",
+  "model": "glm-5.3"
+}

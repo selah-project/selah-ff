@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O ƴetti ⟨את⟩ wuddere Eliyahu nden yottunnde e makko, o arti, o darii e daande Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere Eliyahu"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "yottunnde"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o arti"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-14T12:09:03.334804188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wata a suuɗu ñiiri maa diga am; wata a waas jeyaaɗo maa e tikkere; a wonii ballal am; wata a woppu mi, e wanaa a accu mi, Eloohim hisnude am.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "a suuɗu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñiiri maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "diga am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תט",
+      "gloss": "a waas"
+    },
+    {
+      "surface": "באף",
+      "gloss": "e tikkere"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ballal am"
+    },
+    {
+      "surface": "היית",
+      "gloss": "a wonii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "a woppu mi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "a accu mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "hisnude am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:49.362586932Z",
+  "model": "glm-5.3"
+}

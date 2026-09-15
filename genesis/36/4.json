@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Adadu ndiini Esau ⟨את⟩ Eliifaas; Bosmata ndiini ⟨את⟩ Reuwel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ndiini"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adadu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliifaas"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliifaas"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "Bosmata kadi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ndiini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuwel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuwel"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:26.586465661Z",
+  "model": "glm-5.3"
+}

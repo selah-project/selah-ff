@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O wi'i to Yehooshafat: 'A yahay e am ⟨את⟩ to hare Ramot Gil'aad?' Yehooshafat wi'i to laamɗo Israa'il: 'No min, no a; no yimɓe am, no yimɓe maa; no pucci am, no pucci maa.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "a yahay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "e am ⟨את⟩"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "to hare"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'aad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehooshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'il"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "no min"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "no a"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "no yimɓe am"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "no yimɓe maa"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "no pucci am"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "no pucci maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:23.048372678Z",
+  "model": "glm-5.3"
+}

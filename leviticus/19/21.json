@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "O adday ⟨את⟩ bonnde mun nden to Yaawe, to damal tente kawral ngal — balbal fii bonnde.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "o adday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonnde mun nden"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "bonnde mun nden"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "איל",
+      "gloss": "balbal"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "fii bonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:54.380936159Z",
+  "model": "glm-5.3"
+}

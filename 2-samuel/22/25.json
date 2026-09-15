@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yaawe artiri lam no peewal am woniri, no laaɓal junngo am woniri yeeso gite munɗe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "artiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "no peewal am woniri"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "no laaɓal junngo am woniri"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gite munɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:07:21.923617709Z",
+  "model": "glm-5.3"
+}

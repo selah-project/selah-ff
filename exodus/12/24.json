@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Reedu ⟨את⟩ konngol ngol no sariya fii mon e ɓiɓɓe mon haa duumi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Reedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "no sariya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "e ɓiɓɓe mon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:21.966395773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Mbondu mawndu waɗata e leydi Misrayim fof, hono nde wanaa waɗaani tawa, wanaa hono nde ɓeydataa tawo.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "mbondu"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mawndu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hondo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "no hono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "wanaa no hono"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ɓeydataa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:40.544574704Z",
+  "model": "glm-5.3"
+}

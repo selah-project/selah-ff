@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Daande Yaawe nden ina woni dow ndiyam ɗam; Eel jara nguuri ñaawi; Yaawe ina woni dow ndiyam keewɗam.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "jara nguuri"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:14.981410318Z",
+  "model": "glm-5.3"
+}

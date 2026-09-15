@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɗoo Yaawe Eloohim maa dartintan maccungaagu maa ⟨את⟩, o yurmin maa, o wartat o moofta maa e yimɓe ɗin fuu, ɗo Yaawe Eloohim maa ɓorni maa ɗon.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ɗoo … dartintan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccungaagu maa"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "maccungaagu maa"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "o yurmin maa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o wartat"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "o moofta maa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e … fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "ɓorni maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗon"
+    }
+  ],
+  "timestamp": "2026-09-15T05:42:02.994553329Z",
+  "model": "glm-5.3"
+}

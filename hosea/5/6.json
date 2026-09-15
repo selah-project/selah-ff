@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "E wuddiiji maɓɓe e na'i maɓɓe ɓe maha yo ngoya ɗiftora ⟨את⟩ Yaawe, kono ɓe yanataa; o iti hoore makko e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "E wuddiiji maɓɓe"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "e na'i maɓɓe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ɓe maha yo ngoya"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ɗiftora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ɓe yanataa"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "o iti hoore makko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:43.189905270Z",
+  "model": "glm-5.3"
+}

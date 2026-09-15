@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mo maayata e Basa'a e wuro ngo, cujjee ñaamata mo; mo maayata e makko e ladde, colli kammuuli ñaamata mo.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "mo maayata"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "e Basa'a"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro ngo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "cujjee"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mo maayata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:01.752883697Z",
+  "model": "glm-5.3"
+}

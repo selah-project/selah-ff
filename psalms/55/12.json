@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Bonannde ngoni e nder mum; tooñannge e fenaande ɗaanataa e laylaytol mum.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "e nder mum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɗaanataa"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "baylataa"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "e laylaytol mum"
+    },
+    {
+      "surface": "תך",
+      "gloss": "tooñannge"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "e fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:48.162278777Z",
+  "model": "glm-5.3"
+}

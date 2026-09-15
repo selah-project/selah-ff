@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Shemuwël haali mo ⟨את⟩ konngi ɗin fof, o suuɗaani mo hay wootere; o wi'i: Yaawe ⟨ko kanko⟩; ko moƴƴi e gite makko o waɗa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "o-haali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "foy"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi-ɗin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o-suuɗaani"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "suuɗa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o-wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko-kanko"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "e-gite-makko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o-waɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.273656081Z",
+  "model": "glm-5.3"
+}

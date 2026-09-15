@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Mi maa jaabo maa e konnguɗi, e ⟨את⟩ sehilaaɓe maa ɓe ngoni e maa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "jaabo maa"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "e konnguɗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sehilaaɓe maa"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sehilaaɓe maa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ɓe ngoni e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:17:16.297954970Z",
+  "model": "glm-5.3"
+}

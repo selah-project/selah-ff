@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Nde waɗii mo ko no nii, yimɓe ɓen njampii ⟨את⟩ mo e damal, o maayi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde waɗii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no nii"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ɓe njampii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (sarwiiðo on)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "e damal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:58.172278788Z",
+  "model": "glm-5.3"
+}

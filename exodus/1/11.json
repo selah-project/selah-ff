@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe ngarti hooreeɓe golle baɗɗe dow maɓɓe, fii ɓe ñawna ɓe e teddeende maɓɓe; ɓe ngarti gure mooftirɗe fii Fir'awna: ⟨את⟩ Pitoom e ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ɓe ngarti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hooreeɓe"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "golle baɗɗe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ɓe ñawna ɓe"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "e teddeende maɓɓe"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ɓe ngarti"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "mooftirɗe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fii Fir'awna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitoom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitoom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:49.705987950Z",
+  "model": "glm-5.3"
+}

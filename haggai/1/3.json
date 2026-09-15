@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Konngol Yaawe arii kadi e junngo Chaggay annabi on, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "arii kadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Chaggay"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:16.682571752Z",
+  "model": "glm-5.3"
+}

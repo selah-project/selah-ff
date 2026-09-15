@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi fewnii ⟨את⟩ yeeso am fayde Adonaay, Eloohim on, fii ɗaɓɓude toro e hoore-sukkara, e ñaamdu woppugol, e wuulu;",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mi fewnii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso am"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim on"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "fii ɗaɓɓude"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "e hoore-sukkara"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "e ñaamdu woppugol"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "e woppude"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "e wuulu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:37:20.843375701Z",
+  "model": "glm-5.3"
+}

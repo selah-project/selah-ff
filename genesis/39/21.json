@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Yaawe wonnuno ⟨את⟩ Yuusufa, o yaafini mo hesed, o waɗi ɓural makko e gite hooreejo suudu kasoo ndin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonnuno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuusufa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yaafini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ɓural makko"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kasoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:01.964466628Z",
+  "model": "glm-5.3"
+}

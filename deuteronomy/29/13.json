@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Kono wana ⟨את⟩ e mon tan; ko min woni taƴoowo ⟨את⟩ aahdu nduu e ⟨את⟩ woore nduu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kono wana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ e mon"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "taƴoowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aahdu nduu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "aahdu nduu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nduu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "woore nduu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "woore nduu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nduu"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:56.461291297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Gila ɗoo ɓe ɓeydoyla maa duuvi juutɗi, e duuvi nguura, e jam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gila ɗoo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "juutɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "duuvi"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "e duuvi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguura"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ɓe ɓeydoyla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:29.288642240Z",
+  "model": "glm-5.3"
+}

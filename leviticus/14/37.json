@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O yi'ay ⟨את⟩ baasal ngal, ɗoo, tawa baasal ngal ⟨woni⟩ e berɗe suudu ndun — lowɗe ɓuuɓɗe, booyɗe walla boodɗe, kadi tireede mum en lesiri ko e palloorde nden.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "o yi'ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baasal ngal"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "baasal ngal"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "baasal ngal"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "e berɗe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "lowɗe ɓuuɓɗe"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "booyɗe"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "boodɗe"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "tireede mum en"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "lesiri"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "palloorde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:40.543597898Z",
+  "model": "glm-5.3"
+}

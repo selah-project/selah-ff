@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Wata a woɗɗu e am, sabu caɗe ɗen njunii, sabu balluɗo alaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "a woɗɗu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "caɗe ɗen"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "njunii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "balluɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:58.322330901Z",
+  "model": "glm-5.3"
+}

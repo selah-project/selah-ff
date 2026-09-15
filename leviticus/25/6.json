@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Saabta leydi ndin wonay oku ñaametee: e maa, e maccuɗo maa, e maccuɗo debbo maa, e gollooɗo maa, e hoɗo maa eggaaji ɗin wonduɓe e maa.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "e wonay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "saabta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "fii ñaametee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "e maccuɗo maa"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "e maccuɗo debbo maa"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "e gollooɗo maa"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "e hoɗo maa"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "eggaaji ɗin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wonduɓe e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:27.004519894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 11:30",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Zanoa, Adulam e gure mum, Lakis e kesam mum, Aseka e gure mum; ɓe ndinii ko e Be'er-Sheba haa Gay-Hinnom",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Zanoa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "e gure mum"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakis"
+    },
+    {
+      "surface": "ושדתיה",
+      "gloss": "e kesam mum"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseka"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e gure mum"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe ndinii"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ko e Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gay-"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:44.534807704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Kadi danndi ɗin fuu, ɗi Miisiraa ñiiɓirdu ndun e ɗi werddi rakkuɗi ɗin, ko njamddi njamdi keeri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kadi ... fuu"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "danndi ɗin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Miisiraa ñiiɓirdu ndun"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "e werddi rakkuɗi ɗin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rakkuɗi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamddi njamdi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:35.736100417Z",
+  "model": "glm-5.3"
+}

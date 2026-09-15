@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Jadii, e ɓe nanaade ⟨את⟩ Tora ndee, ɓe seerntinii rendu ndewndu fuu e Israayiil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Jadii"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "e ɓe nanaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora ndee"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora ndee"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ɓe seerntinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rendu ndewndu"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "e Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T10:51:34.148510406Z",
+  "model": "glm-5.3"
+}

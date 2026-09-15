@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɓiɓɓe Chet jaabii ⟨את⟩ Awraham, ɓe wi'i mo:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:36.174123800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ndeen balɗo on arii o humpadi mo, wi'ude: Ɓe ngaddii hoore ɓiɓɓe laamɗo on. O wi'i: Waɗtan ⟨את⟩ ɗum duume ɗiɗi, ɓuuɓnuɗe dame nden haa subaka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "balɗo on"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "o humpadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ɓe ngaddii"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "waɗtan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (hoore ɓen)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "duume"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ɓuuɓnuɗe"
+    },
+    {
+      "surface": "השער",
+      "gloss": "dame nden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:16.270797949Z",
+  "model": "glm-5.3"
+}

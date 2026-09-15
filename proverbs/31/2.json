@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Hol, ɓiy am? E hol, ɓiy reedu am? E hol, ɓiy du'uji am?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ɓiy am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e hol"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "reedu am"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e hol"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "du'uji am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:05:41.344613607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Moab fofii e Israayil ɓaawo maayde Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "fofii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israayil"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:02.904924020Z",
+  "model": "glm-5.3"
+}

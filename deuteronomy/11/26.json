@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ndee, min ngennay yeeso mon ñalnde heere: barka e cuunfa.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ngennay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde heere"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barka"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "e cuunfa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:25.911072460Z",
+  "model": "glm-5.3"
+}

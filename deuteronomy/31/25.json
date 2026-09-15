@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moses yamiri ⟨את⟩ Leviyim en, ɗumɓe ngaddi sanne kawtal Yaawe on, wi'u:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moses"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviyim en"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviyim en"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ngaddi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanne"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'u"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:28.457363166Z",
+  "model": "glm-5.3"
+}

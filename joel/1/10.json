@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ñaawaama ladde, leydi ndin ngiñii; ggena ñaawaama gawri, wuyre hesere yoorii, nebam ronkii doole.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Ñaawaama"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ngiñii"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ggena"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ñaawaama"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gawri"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "yoorii"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "wuyre hesere"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ronkii doole"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "nebam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:32:20.270008769Z",
+  "model": "glm-5.3"
+}

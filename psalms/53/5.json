@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Ɓe ɓe gollinoo bonannde mbaɗaa anndude? Ɓe ɗi ñaamata ɓamtaare am no ɓe ñaamata lewru, ɓe noddaali Eloohim.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "mbaa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollinoo"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ɓamtaare am"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "al"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "noddaali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:27.215724029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 32:11",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yoo, mi muñii e konnguɗi mon ɗen, mi naatnii nano haa faamtorɗe mon ɗen, haa ɗe ƴeewtitti konngi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "mi muñii"
+    },
+    {
+      "surface": "לדבריכם",
+      "gloss": "e konnguɗi mon"
+    },
+    {
+      "surface": "אזין",
+      "gloss": "mi naatnii nano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תבונתיכם",
+      "gloss": "faamtorɗe mon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תחקרון",
+      "gloss": "ɗe ƴeewtitti"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "konngi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:15:42.445295568Z",
+  "model": "glm-5.3"
+}

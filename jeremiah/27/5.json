@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Mi — mi tagi ⟨את⟩ leydi ndin, ⟨את⟩ yimɓe ɗin e ⟨את⟩ daƴƴi ɗin wonuɗo dow geeße leydi ndin, e doole am mawɗe ɗen e junngo am daningol ngol; mi ndokki ɗum mo moƴƴunoo e gite am.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi tagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɗin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "daƴƴi ɗin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "daƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "geeße"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "e doole am"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawɗe ɗen"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "e junngo am"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "daningol ngol"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "mi ndokki ɗum"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "moƴƴunoo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:22:26.794248241Z",
+  "model": "glm-5.3"
+}

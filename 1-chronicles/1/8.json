@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɓɓe Ham: Kuush e Misrayim e Puut e Kenaana.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Puut"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "e Kenaana"
+    }
+  ],
+  "timestamp": "2026-09-14T10:51:56.472229711Z",
+  "model": "glm-5.3"
+}

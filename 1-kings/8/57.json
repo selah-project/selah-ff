@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe Eloohim amen wonu e amen, no o wonnoo e baabiraaɓe amen; wata o accu min, wata o woppu min.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o wonnoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "o accu min"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e wata"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "o woppu min"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:55.463548890Z",
+  "model": "glm-5.3"
+}

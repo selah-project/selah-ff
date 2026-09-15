@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E debbo jeyaaɗo mo walluɗo maa, a hokkoyaa jampagol maa fii ɓeydugol, fii bonnude e makko.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mo walluɗo maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a hokko"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "jampagol maa"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "fii ɓeydugol"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "fii bonnugol"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:06.900457577Z",
+  "model": "glm-5.3"
+}

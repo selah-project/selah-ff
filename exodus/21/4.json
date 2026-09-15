@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si joomum mun waɗi mo debbo, o wundi mo suɓɓe walla ɓiɓɓe rewɓe, debbo on e ɓiɗɓe makko wonay joomum debbo, kanko o yaltata e hoore mun.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomum mun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "waɗi mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "wundi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "suɓɓe"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ɓiɗɓe makko"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "joomum debbo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltata"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "e hoore mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:17.925013580Z",
+  "model": "glm-5.3"
+}

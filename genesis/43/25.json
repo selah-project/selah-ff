@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Ɓe hebbini ⟨את⟩ dokkal ngal haa Yoosef ari caka ñalorma, sabu ɓe nani ko ɓe mbi'ata ɗoon ɓe ñamata ñameende.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "ɓe hebbini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal ngal"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dokkal ngal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hana"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "caka ñalorma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ɓe nani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko ɓe mbi'ata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñamata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:46.434807495Z",
+  "model": "glm-5.3"
+}

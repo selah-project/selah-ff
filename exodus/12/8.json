@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓe ñaamoo ⟨את⟩ ƴiyeere nden e nder jemma oo, waɗndirteende e yiite; e maaroore diwtunde e purture ɓuuɓɗe ɓe ñaamoo ɗum.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ɓe ñaamoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiyeere nden"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ƴiyeere nden"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "e nder jemma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "waɗndirteende"
+    },
+    {
+      "surface": "אש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "e maaroore diwtunde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "purture ɓuuɓɗe"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ɓe ñaamoo ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:31.426805029Z",
+  "model": "glm-5.3"
+}

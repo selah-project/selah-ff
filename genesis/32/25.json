@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Jaakob woorii tan, gorko gooto abbii e makko haa subaka ummii.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "woorii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tan"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "abbii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko gooto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:55.842445363Z",
+  "model": "glm-5.3"
+}

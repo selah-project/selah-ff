@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "⟨את⟩ Yaawe ⟨את⟩ neldi ⟨את⟩ Yerubbaal, ⟨את⟩ e ⟨את⟩ Bedan, e Yiftah, e Shemuwel, o hisni on e juuɗe gañɓe mon wonɓe saraaji mon, on jooɗii e kisal.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yiftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Shemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "o hisni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "gañɓe mon"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "saraaji"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "on jooɗii"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e kisal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:43.119486679Z",
+  "model": "glm-5.3"
+}

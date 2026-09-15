@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Njooku ⟨את⟩ e mon terumaa fii Yaawe; kala mo ɓernde mun ñaawii, moƴƴu naatnana ⟨את⟩ terumaa Yaawe: kaŋe, e kaalis, e njamndi.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Njooku"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ e mon",
+      "marks": "terumaa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "mo ñaawii"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "moƴƴu naatnana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumaa Yaawe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "terumaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "e kaalis"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "e njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:57.367112957Z",
+  "model": "glm-5.3"
+}

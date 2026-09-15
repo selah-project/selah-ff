@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "ama gooto duumiinde mun, e ama gooto yaajde mun; no ŋoorniri wonay; e amaaji ɗiɗo toowde mun; honde mun wooti ɗum ko ɗabbaaji mun njeyaa.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "ama gooto"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "duumiinde mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e ama gooto"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajde mun"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "no ŋoorniri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "e amaaji ɗiɗo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "toowde mun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "honde mun"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ɗabbaaji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:09.416670385Z",
+  "model": "glm-5.3"
+}

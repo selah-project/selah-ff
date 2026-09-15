@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ko nela a anndi, min anndaani? Ko nela a faami, ɗum wonaani e amen?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko nela"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "a anndi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "min anndaani"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "a faami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wonaani"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ɗum⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:40.972686219Z",
+  "model": "glm-5.3"
+}

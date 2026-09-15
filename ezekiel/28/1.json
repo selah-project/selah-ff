@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Konngol Yaawe arii e am, wiyde:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:46:27.873735843Z",
+  "model": "glm-5.3"
+}

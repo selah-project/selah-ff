@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Ko ɗoo ɗaminii jooɗi julle fii ñaawoore, julle ɗe ⟨galle⟩ Dawuudi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ɗaminii jooɗi"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "julle"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fii ñaawoore"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "julle"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ɗe ⟨galle⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuudi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:48.554010749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "E non ƴiiƴam laaɓɗam ngam o ƴucci; o helni ⟨את⟩ Yerushalayim e ƴiiƴam laaɓɗam; Yaawe jaɓaani haforde.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "E non"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "laaɓɗam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "o ƴucci"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "o helni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "laaɓɗam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "jaɓaani"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "jaɓaani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "haforde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:23.918100691Z",
+  "model": "glm-5.3"
+}

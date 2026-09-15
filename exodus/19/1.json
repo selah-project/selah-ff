@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "E lewru tataɓuru, hono ɓiɓɓe Israa'iil yalti e leydi Misrayim, e ñalnde heere ɓe naati e jeereende Siinay.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tataɓuru"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "yaltude"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "heere"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ɓe naati"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:15.009746270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E Misrayimnaaɓe fof njeebbi pondi sara maayo ngoo ngam heɓde ndiyam laaɓɗam; gila ɓe waawaano yarlude ndiyam maayo ngoo.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "njeebbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayimnaaɓe"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "sara"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam laaɓɗam"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ngam heɓde ... yarlude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaano"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ɓe waawaano"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "yarlude"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:51.211547874Z",
+  "model": "glm-5.3"
+}

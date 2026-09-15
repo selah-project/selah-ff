@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Njibri nde Baasaa naniri ɗum, o dartinii mahngol ⟨את⟩ Rama, o waɗii sell ⟨את⟩ golle mun ɗen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "njibri"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nde naniri"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasaa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "o dartinii"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mahngol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "o waɗii sell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle mun ɗen"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "golle mun ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T11:16:43.238576944Z",
+  "model": "glm-5.3"
+}

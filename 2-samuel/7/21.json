@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Fii konngol maa ngol e fii ɓernde maa, mbaɗ-ɗaa ⟨את⟩ mawnugol fof ngol, ngam hollirde ⟨את⟩ maccuɗo maa.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "fii"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "konngol maa ngol"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "e fii ɓernde maa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mbaɗ-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawnugol fof ngol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mawnugol"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ngam hollirde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo maa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "maccuɗo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:43.163542121Z",
+  "model": "glm-5.3"
+}

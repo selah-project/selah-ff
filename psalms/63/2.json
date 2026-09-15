@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Eloohim, Aan Eloohim am; subuto mi ƴeewtoo ⟨Adu⟩, neefo am ina yawra Adu, ɓanndu am ina muuyaa Adu, e leydi woorndi, muusndi, nde alaa ndiyam.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "subuto mi ƴeewtoo Adu"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ina yawra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Adu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefo am"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ina muuyaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Adu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ɓanndu am"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "woorndi"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "muusndi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nde alaa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:38.547771691Z",
+  "model": "glm-5.3"
+}

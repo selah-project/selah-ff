@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mosheh limtorii no Yaawe yummiri mo ⟨את⟩, ⟨את⟩ fuu ɓiɗɗo arannde e nder ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "limtorii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yummiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Mosheh)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɓiɗɗo arannde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ɓiɗɗo arannde"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-15T07:06:48.520532431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ñalnde o waddirta ⟨את⟩ ɓiɓɓe mun ndonu ⟨את⟩ ko woodi mo fof, o waawaa waɗde ⟨את⟩ ɓiy mo giɗaaɗo on aranoore tawa ko ɓiy mo ɓoyaaɗo on — aranoore on.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "o waddirta ndonu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko woodi mo fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "o waawaa"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "waɗde aranoore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiy mo giɗaaɗo on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "mo giɗaaɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tawa ko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "mo ɓoyaaɗo on"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "aranoore on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:53.950498607Z",
+  "model": "glm-5.3"
+}

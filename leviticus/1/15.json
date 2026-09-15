@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Almaami on naynay ɗum to jaŋre nden, o ƴbit ⟨את⟩ hoore mun, o ɗaɓɓu ɗum e jaŋre nden, ƴiiƴam mun yaɓɓitinee e mahol jaŋre nden.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "o naynay ɗum"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "almaami on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋre nden"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "o ƴbit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore mun"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "o ɗaɓɓu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e jaŋre nden"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "yaɓɓitinee"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mahol"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋre nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:55.754961392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "O wi'i, o dariɗini ruuhu sawo, nden ruuhu hirjini ɓulli mum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "o dariɗini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "sawo"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "hirjini"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ɓulli mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:31.251740069Z",
+  "model": "glm-5.3"
+}

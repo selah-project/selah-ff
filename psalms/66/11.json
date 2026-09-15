@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "A naatnii min e torde nden, a waɗi gerɗe e duuɗe amen.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "A naatnii min"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "e torde nden"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "a waɗi"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "gerɗe"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "e duuɗe amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:28.988229358Z",
+  "model": "glm-5.3"
+}

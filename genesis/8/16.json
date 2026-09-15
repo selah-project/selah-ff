@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaltu e baatu ndun — a e debbo maa e ɓiɓɓe maa ɓe e rewɓe ɓiɓɓe maa ɓe, ⟨את⟩ maa.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Yaltu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "baatu ndun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "e debbo maa"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e ɓiɓɓe maa ɓe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e rewɓe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe maa ɓe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:52.383002067Z",
+  "model": "glm-5.3"
+}

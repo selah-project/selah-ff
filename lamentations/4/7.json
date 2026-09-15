@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Naziiriiɓe makko laaɓii ko ɓuri neesel, ɗanɗinii ko ɓuri kosam, boɗɗii ƴii'e maɓɓe ko ɓuri panni, hono safiir ngardagol maɓɓe.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "laaɓii"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "Naziiriiɓe makko"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ko ɓuri neesel"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "ɗanɗinii"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ko ɓuri kosam"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "boɗɗii"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ƴii'e"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ko ɓuri panni"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safiir"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "ngardagol maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:27.250973963Z",
+  "model": "glm-5.3"
+}

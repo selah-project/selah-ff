@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yonta woodi, cuusii baaba mum, e ⟨את⟩ yumma mum duwaani.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "yonta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "cuusii"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yumma mum"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "duwaani"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "duwa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:26.331074753Z",
+  "model": "glm-5.3"
+}

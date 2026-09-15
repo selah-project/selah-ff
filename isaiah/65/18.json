@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Kono weltaa e weltinmee haa abada, e ɗe mi tagata; sabu ƴeewo, mi tagoto ⟨את⟩ Yerushalayim no weltinirta, e yimɓe mum no weltunde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "weltaa"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "weltaa"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "e weltinmee"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "abada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e ɗe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "tagata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeewo"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "mi tagoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "no weltinirta"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "e yimɓe mum"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "no weltunde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:17:40.503007184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Kono min, mi ɗisɗo e mi ŋakkdo; Adonaay ina faamay mi: Ko ⟨a⟩ woni wallaare am e daɗndo am; Eloohim am, wata a leeltu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ɗisɗo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e mi ŋakkdo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ina faamay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "wallaare am"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e daɗndo am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko a"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "a leeltu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:16.700494390Z",
+  "model": "glm-5.3"
+}

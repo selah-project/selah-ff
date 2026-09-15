@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "gite e ñaamo gite, ñiire e ñaamo ñiire, junngo e ñaamo junngo, koyngal e ñaamo koyngal.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ñiire"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ñiire"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e ñaamo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koyngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:06.898449182Z",
+  "model": "glm-5.3"
+}

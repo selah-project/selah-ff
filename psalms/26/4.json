@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Alaa mi jooɗii e yimɓe fenre, e ɓe cuuɗortoo ⟨sifor mun⟩ alaa mi naatata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mi jooɗii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "fenre"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ɓe cuuɗortoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi naatata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:11.731492998Z",
+  "model": "glm-5.3"
+}

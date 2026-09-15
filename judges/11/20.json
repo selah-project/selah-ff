@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kono Sihon mo'oonaani Israa'iil ⟨את⟩ yo o yotto e keerol mun; Sihon moofti ⟨את⟩ yimɓe mun ɗin fof, ɓe njooɗii e Yaahca, o haɓi e Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kono ... wa'a"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "mo'oonaani"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yo o yotto"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "e keerol mun"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "moofti"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe mun ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun ɗin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe njoođii"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "e Yaahca"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "o haɓi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T06:31:42.272091945Z",
+  "model": "glm-5.3"
+}

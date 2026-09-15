@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Minen min mbonii min njiɓɓii; kono Aa yaaferaali.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "minen min"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "min mbonii"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "min njiɓɓii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "yaaferaali"
+    }
+  ],
+  "timestamp": "2026-09-14T10:24:06.631482627Z",
+  "model": "glm-5.3"
+}

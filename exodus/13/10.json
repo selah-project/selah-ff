@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ndaara aɗa reena ⟨את⟩ ngal sariya e saatu mun, iwde e ñalawe ñalawe.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ndaara aɗa reena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngal sariya"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ngal sariya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "e saatu mun"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "iwde e ñalawe"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ñalawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:10.246349380Z",
+  "model": "glm-5.3"
+}

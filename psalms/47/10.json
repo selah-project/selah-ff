@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Ardiɓe yimɓe ɗen ngadii; ⟨ɓe ngonti⟩ yimɓe Eloohim Aybraham; fii ko Eloohim jeyi kinndi leydi ndin — o ummiima no feewiri.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "ardiɓe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ngadii"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Aybraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kinndi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewiri"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ummiima"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:35.909515882Z",
+  "model": "glm-5.3"
+}

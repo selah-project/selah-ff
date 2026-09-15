@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "e ɗiwel jawɗe ɗiɗi e mon, fuu ɓe yaltuɓe e Shabbat, mbaɗoo reende ⟨את⟩ reende suudu Yaawe sara laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "ɗiwel jawɗe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "yaltuɓe"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "mbaɗoo reende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reende"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "reende"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:31:20.245722888Z",
+  "model": "glm-5.3"
+}

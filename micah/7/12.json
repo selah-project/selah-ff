@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ñalnde nden ɓe maa aru e maa, ummoraade Ashshur e gure Matsor, e ummoraade Matsor haa maayo, e maayo haa maayo, e kayre haa kayre.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ɓe maa aru"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "e gure"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "e ummoraade"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "וים",
+      "gloss": "e maayo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "והר",
+      "gloss": "e kayre"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kayre"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:29.582044398Z",
+  "model": "glm-5.3"
+}

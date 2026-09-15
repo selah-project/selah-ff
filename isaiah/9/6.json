@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 9:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ngam laamu nguu ɓeydoytee, e Jam alaa gasa, e jooɗorde Dawuudi e laamu makko, ngam tabitinde ⟨את⟩ ɗum e duumagol ɗum e ñaawoore e feere, gila hannde haa duumo; kelmeeli Yaawe Sabaoot mahrata ɗum.",
+  "tokens": [
+    {
+      "surface": "לםרבה",
+      "gloss": "ɓeydoytee"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "laamu nguu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "e Jam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "gasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "ngam tabitinde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (laamu makko)"
+    },
+    {
+      "surface": "ולסעדה",
+      "gloss": "e duumagol"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "e feere"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gila hannde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kelmeeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:12.347070243Z",
+  "model": "glm-5.3"
+}

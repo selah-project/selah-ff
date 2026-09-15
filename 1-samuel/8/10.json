@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Samuwel haali ⟨את⟩ konnguɗi Yaawe ɗin fow e yimɓe ɓen ɓe ɗaɓɓitunoo mo ⟨את⟩ laamɗo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi Yaawe ɗin fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ɓe ɗaɓɓitunoo"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.870735742Z",
+  "model": "glm-5.3"
+}

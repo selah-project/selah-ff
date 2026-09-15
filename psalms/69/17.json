@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Jaabam, Yaawe, sabu hesed maaɗa ko moƴƴi; e ko ɓuri heewde e yurmeende maaɗa, wattirtaa wajde am.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Jaabam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maaɗa"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "e ko ɓuri heewde"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "yurmeende maaɗa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "wattirtaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "wajde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:24.624466910Z",
+  "model": "glm-5.3"
+}

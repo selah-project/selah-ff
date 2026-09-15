@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O momtii tinɓe dewal ɗen diga leydi ndin, o ittinii ⟨את⟩ tinje foddaaɗe fof ɗe baabiraaɓe makko tagi ɗen.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "momtii"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "tinɓe dewal ɗen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "diga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ittinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinje foddaaɗe fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "tinje foddaaɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-15T05:36:27.580629167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ndaara, ɓeeɗoo ko bonɓe; ɓe welnooɓe duumi ɓe ndañi alɗude.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndaara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɓeeɗoo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ko bonɓe"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ɓe welnooɓe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ɓe ndañi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "alɗude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:42.627289319Z",
+  "model": "glm-5.3"
+}

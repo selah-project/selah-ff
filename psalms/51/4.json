@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Heewtin wasgol am e mbaawka am; e bakkaat am laɓɓin am.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "heewtin"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "wasu am"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "e mbaawka am"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "e bakkaat am"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "laɓɓin am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:02.246653741Z",
+  "model": "glm-5.3"
+}

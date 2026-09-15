@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "⌈Kadi⌉ piddi mon ɗin e na'i mon ɗin neldan, no ɓe wi'u-ɗen nii, yahon, ɓe du'anan kadi ⟨את⟩ am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "piddi mon ɗin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "na'i mon ɗin"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neldan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no ɓe wi'u-ɗen nii"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": ""
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ɓe du'anan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "gloss_target": "",
+      "marks": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:56.990711410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Duccu-mi, fodon gollooɓe bone; tawo Yaawe nanii daande cuusgol am.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Duccu-mi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fodon"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollooɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "cuusgol am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:39.118754217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Mo hunii Yaawe, mo fooñii Abiir Yaakuub;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hunii"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fooñii"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abiir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuub"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:31.434385418Z",
+  "model": "glm-5.3"
+}

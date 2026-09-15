@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ƴi'e am ɗen fuu mbi'a: Yaawe, hombo nanndi e maa, daɗɗoowo ŋakkıɗo on e ɓurtuɗo ɓurɗo mo, e ŋakkıɗo on e hiisa on, e bunnoowo mo?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ƴi'e am"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nanndi e maa"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "daɗɗoowo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkıɗo on"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "e ɓurtuɗo ɓurɗo mo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e mo"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "e ŋakkıɗo on"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e hiisa on"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "e bunnoowo mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.611896530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Worɓe Israa'iila ɓe yi'i no ɓe welɗinaa, no yimɓe ɓee ɓuuɓniraa, yimɓe ɓee ɓe cuuɗii e kaayiɗi, e nder hotte, e pepper, e toowɗe, e ɗonnguɗe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ɓe welɗinaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ɓuuɓniraa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "ɓe cuuɗii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "e kaayiɗi"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "e nder hotte"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "e pepper"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "e toowɗe"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "e ɗonnguɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:13.878656349Z",
+  "model": "glm-5.3"
+}

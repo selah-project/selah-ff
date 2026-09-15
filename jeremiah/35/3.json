@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Mi ƴetti ⟨את⟩ Yaazanyaahu ɓiy Yirmiyaahu, ɓiy Xabaçniyahu, e ⟨את⟩ miñiraaɓe makko, e ⟨את⟩ ɓiɓɓe makko fuu, e ⟨את⟩ suudu Rekaabiyankooɓe ɓen fuu.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Mi ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyaahu"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Xabaçniyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "miñiraaɓe makko"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe makko fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu Rekaabiyankooɓe ɓen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rekaabiyankooɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:37.067230787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Mo fi'i adiiɓe jibinannde Misrayim, gila neɗɗo haa mbaɗɗe.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Mo fi'i"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "adiiɓe jibinannde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gila neɗɗo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mbaɗɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:47.274055436Z",
+  "model": "glm-5.3"
+}

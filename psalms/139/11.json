@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Mi wi'i: \"Labaa nane hiɗay mi\", kono jemma na wertaa e mise.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אך",
+      "gloss": "labaa nane"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓo"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "hiɗay mi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kono jemma"
+    },
+    {
+      "surface": "אור",
+      "gloss": "na wertaa"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "e mise"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:45.800818542Z",
+  "model": "glm-5.3"
+}

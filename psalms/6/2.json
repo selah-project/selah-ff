@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe, wata e muunɗin maa a tuusu am, kono wata e urngol maa a riɓɓu am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "e muunɗin maa"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "a tuusu am"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kono wata"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "e urngol maa"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "a riɓɓu am"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:19.242791138Z",
+  "model": "glm-5.3"
+}

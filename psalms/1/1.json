@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "No welli e neɗɗo mo yahraaki e ƴamɗire bonɓe ɓen, o daraaki e laawol ñaawooɓe ɓen, o jooɗaaki e jooɗorde cemmbinɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "No welli"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "e ƴamɗire"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ñaawooɓe ɓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "dara"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "e jooɗorde"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "cemmbinɓe ɓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:33.051581658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe wi'i to Muusaa: Wi' to Aaruunaa: Dottin ⟨את⟩ ɓoggi maaɗa, ƴaañ ⟨את⟩ mbuuwol leydi ndin, mbele ngentoo ko ƴiʼe e nder leydi Misrayim fuu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Wi'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaruunaa"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Dottin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓoggi maaɗa"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ɓoggi maaɗa"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ƴaañ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuuwol leydi ndin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mbuuwol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mbele ngentoo \/ laata"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ƴiʼe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:55.415625853Z",
+  "model": "glm-5.3"
+}

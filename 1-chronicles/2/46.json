@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E Eefaa, piraani Kalab, danyi ⟨את⟩ Haran e ⟨את⟩ Motsa e ⟨את⟩ Gaazeez; Haran kadi danyi ⟨את⟩ Gaazeez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "E Eefaa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "piraani"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalab"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gaazeez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gaazeez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "Haran kadi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaazeez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gaazeez"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:41.441466453Z",
+  "model": "glm-5.3"
+}

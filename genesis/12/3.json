@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mi barkinata ɓe barkinooɓe maa, ɓe rufooɓe maa mi rufa; e maa ɗen leƴƴi pamaruuji leydi ndin fuu jeemoytee barka.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "mi barkinata"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ɓe barkinooɓe maa"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "ɓe rufooɓe maa"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "mi rufa"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "jeemoytee barka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa ɗen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leƴƴi pamaruuji"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:49.062039913Z",
+  "model": "glm-5.3"
+}

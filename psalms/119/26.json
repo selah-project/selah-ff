@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi limtii laabi am, a jaabii-mi; janngin-mi sariyaaji maa.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "laabi am"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "mi limtii"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "a jaabii-mi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "janngin-mi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sariyaaji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:54.123790024Z",
+  "model": "glm-5.3"
+}

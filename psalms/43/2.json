@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Sabu ko aan Eloohim, danngu am; ko honno yaltinɗu-mi? Ko honno mi yahri e teson e ƴiiƴam gaño?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko aan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "danngu am"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "yaltinɗu-mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "e teson"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mi yahri"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "gaño"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:23.735157721Z",
+  "model": "glm-5.3"
+}

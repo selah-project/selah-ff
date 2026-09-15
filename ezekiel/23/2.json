@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɓiɗɗo aadam, rewɓe ɗiɗo, ɓiɓɓe ɗe yumma gooto, ɗiɗo ɓe nguuri.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe ɗe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɗiɗo ɓe nguuri"
+    }
+  ],
+  "timestamp": "2026-09-14T08:44:29.319462109Z",
+  "model": "glm-5.3"
+}

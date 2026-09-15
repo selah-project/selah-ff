@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Sandaawe Eloohim nangaa, e ɓiɓɓe ɗiɗo Eli ɗi — Hophni e Pinehas — ɓe maayi.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "sandaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "nangaa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ɓe maayi"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hophni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "Pinehas"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:01.758426338Z",
+  "model": "glm-5.3"
+}

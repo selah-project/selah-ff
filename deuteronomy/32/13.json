@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 32:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O lonii mo dow tolnooji ⟨leydi ndin⟩, o ñaami tagudiiji ⟨ladde⟩, o waññiraa asal ummoraade ⟨laadorol⟩, e nebam ummoraade polooral ⟨muntere⟩.",
+  "tokens": [
+    {
+      "surface": "ירכבהו",
+      "gloss": "O lonii mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "tolnooji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "o ñaami"
+    },
+    {
+      "surface": "תנובת",
+      "gloss": "tagudiiji"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "וינקהו",
+      "gloss": "o waññiraa"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "asal"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ummoraade laadorol"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "e nebam"
+    },
+    {
+      "surface": "מחלמיש",
+      "gloss": "polooral"
+    },
+    {
+      "surface": "צור",
+      "gloss": "muntere"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:15.545920243Z",
+  "model": "glm-5.3"
+}

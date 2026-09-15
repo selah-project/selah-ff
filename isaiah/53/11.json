@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "E caɗeele hoore makko o yi’ay, o hebbay; e ganndal makko o waɗay moŋñal gollooɗo am moŋño e dow heewɓe, kanko o adday bakkaatuuji maɓɓe.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "e caɗeele"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi’ay"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "o hebbay"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "e ganndal makko"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "o waɗay moŋñal"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moŋño"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gollooɗo am"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "e dow heewɓe"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "e bakkaatuuji maɓɓe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "o adday"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:39.243686743Z",
+  "model": "glm-5.3"
+}

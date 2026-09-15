@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Yaawe ko reenu-maa; Yaawe ko nodee-maa, dow junngo ñaamo-maa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "reenu-maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "nodee-maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ñaamo-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:42.183486906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kono Yaawe woni e suudu sanɗum mun: ennuɗee yeeso makko, leydi ndin fuu!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kono Yaawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sanɗum mun"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ennuɗee"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:58.801261577Z",
+  "model": "glm-5.3"
+}

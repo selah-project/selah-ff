@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 33:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O wi'i: Yaawe arii diga Sinaayi, o siryii diga Se'iir fii ɓe; o feeñii diga tulde Paaraan, o arii e ujuneeje sanɗitiiɓe; e juumune mun saraa-yite wonande ɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מסיני",
+      "gloss": "diga Sinaayi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "o siryii"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "diga Se'iir"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fii ɓe"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "o feeñii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "diga tulde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaraan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o arii"
+    },
+    {
+      "surface": "מרבבת",
+      "gloss": "e ujuneeje"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sanɗitiiɓe"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "e juumune mun"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "saraa-yite"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fii ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:07.823767590Z",
+  "model": "glm-5.3"
+}

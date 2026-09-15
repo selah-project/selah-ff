@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Haa nde mi tawa nokku feere fii Yaawe, hoɗorde feere fii Abiir Yanqub.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nde mi tawa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "feere fii Yaawe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "feere fii Abiir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yanqub"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:21.203368237Z",
+  "model": "glm-5.3"
+}

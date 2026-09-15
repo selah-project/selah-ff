@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "e ⟨את⟩ sarde nafooje ɗen e ⟨את⟩ pitte mun e ⟨את⟩ diibo ngu hoyringol e ⟨את⟩ nafoore ɓiɓɓe leɗɗe ɗen e ⟨את⟩ kolo ɓuuɓnorgal ñiiƴirgal suudu dewal ndun",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sarde nafooje ɗen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarde"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "nafooje ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pitte mun"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "pitte mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "diibo ngu hoyringol"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diibo ngu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "hoyringol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nafoore ɓiɓɓe leɗɗe ɗen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nafoore"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ɓiɓɓe leɗɗe ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kolo ñiiƴirgal"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ñiiƴirgal"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "e ñiiƴirgal"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "suudu dewal ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:26.084317085Z",
+  "model": "glm-5.3"
+}

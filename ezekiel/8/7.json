@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O naatni ⟨את⟩ mi haa damal keerol ngol; mi yi'ii, e yee-go, balle goote e nder pallare ndee.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "O naatni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "damal"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "keerol ngol"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mi yi'ii"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e yee-go"
+    },
+    {
+      "surface": "חר",
+      "gloss": "balle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "goote"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "e nder pallare ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T08:35:20.289076834Z",
+  "model": "glm-5.3"
+}

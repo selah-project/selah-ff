@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 21:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "O wayli ⟨את⟩ neɗɗaaku mun e nder gite maɓɓe, o feññinii wumo e juuɗe maɓɓe, o ɓeydi binndi dow dame dentuɗe on, o werli tokosol mun ngol feewde liɗam mun.",
+  "tokens": [
+    {
+      "surface": "וישנו",
+      "gloss": "o wayli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗaaku mun"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "neɗɗaaku mun"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "e nder gite maɓɓe"
+    },
+    {
+      "surface": "ויתהלל",
+      "gloss": "o feññinii wumo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e juuɗe maɓɓe"
+    },
+    {
+      "surface": "ויתו",
+      "gloss": "o ɓeydi binndi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dame dentuɗe on"
+    },
+    {
+      "surface": "השער",
+      "gloss": "on"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "o werli"
+    },
+    {
+      "surface": "רירו",
+      "gloss": "tokosol mun ngol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "זקנו",
+      "gloss": "liɗam mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:40.746187350Z",
+  "model": "glm-5.3"
+}

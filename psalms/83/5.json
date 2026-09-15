@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Ɓe wi'i: “Areen, min momtu ɓe ngam woppude wonde leƴƴi; nde innde Israa'iila jaɓataa firte yejjite kadi.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Areen"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "min momtu ɓe"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "gardagol leƴƴi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "firte yejjite"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:15.015665793Z",
+  "model": "glm-5.3"
+}

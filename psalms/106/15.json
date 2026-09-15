@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O waɗi ɓamtaare maɓɓe, kono o neldi lepte nder nejjum maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi (o weeñi)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓamtaare maɓɓe"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ɓamtaare maɓɓe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "lepte"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "nder nejjum maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.670290671Z",
+  "model": "glm-5.3"
+}

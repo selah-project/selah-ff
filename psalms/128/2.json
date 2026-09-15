@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 128,
+  "translation": "Golle junngooji maa ɗen, maa ñaamaa ɗi; no moƴƴi woniri maa, e moƴƴere nden ina woodana maa.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Golle"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "junngooji maa ɗen"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "maa ñaamaa ɗi"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "no moƴƴi woniri maa"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "e moƴƴere nden"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ina woodana maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:04.104632136Z",
+  "model": "glm-5.3"
+}

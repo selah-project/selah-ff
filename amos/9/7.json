@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "E on wonaa no ɓiɓɓe Kushiyim nii to am, yee ɓiɓɓe Israa'iil? — konngol Yaawe. Mi nattinaa ⟨את⟩ Israa'iil e leydi Misrayim, e Pilisti'en e Kaftor, e Aram e Kiir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "E on wonaa"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "no ɓiɓɓe nii"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kushiyim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yee ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mi nattinaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nattini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "e Pilisti'en"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "e Kaftor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "e Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "e Kiir"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:44.690254126Z",
+  "model": "glm-5.3"
+}

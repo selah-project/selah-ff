@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Balak wuddi nayi e be'i, o neldi e Bilam e mawɓe ɓe ngonnoo ⟨את⟩ makko.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wuddi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e be'i"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "e Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "e mawɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngonnoo e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:18.255403975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yaawe wi'i Musaa: Haa ñaaje on sali jogaade amɓe e amruuji am?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ñaaje"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "on sali"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "jogaade"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amɓe am"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "amruuji am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:47.820748004Z",
+  "model": "glm-5.3"
+}

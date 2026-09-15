@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Wujjii mo kala pottuɗo laawol; o laati hoyre wonande koɗdiiɓe mun.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "wujjii mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "pottuɗo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "wonande koɗdiiɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:48.274908660Z",
+  "model": "glm-5.3"
+}

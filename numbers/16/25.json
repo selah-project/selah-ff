@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Mosheh uddii, yahi haa e Datan e Abiiram, mawɓe Israa'iila ngari ɓaawo makko.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "uddii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "e Abiiram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo makko"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T11:43:19.319440722Z",
+  "model": "glm-5.3"
+}

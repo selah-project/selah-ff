@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Maa waɗan ⟨את⟩ sarɣiire nden dow sandukorde nden, toownde; e nder sandukorde nden maa waɗan ⟨את⟩ seedaare nden nde mi maa okkirtaa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "maa waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarɗiire nden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sarɗiire"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandukorde"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "toownde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandukorde"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maa waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seedaare nden"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seedaare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mi maa okkirtaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:05.231618623Z",
+  "model": "glm-5.3"
+}

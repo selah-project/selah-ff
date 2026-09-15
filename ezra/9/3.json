@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde nanndir-mi ⟨את⟩ konngol ngol, miƴƴiri-mi ⟨את⟩ wuddu am e mbabballu am, mi bonaali wutte hoore am e wutte gene am, mi jooɗii mi ɓurtii haa tiinɗinaaki.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Nde nanndir-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "miƴƴiri-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddu am e mbabballu am"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "wuddu am"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "e mbabballu am"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "mi bonaali"
+    },
+    {
+      "surface": "משער",
+      "gloss": "wutte"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoore am"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "e wutte gene am"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "mi jooɗii"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "mi ɓurtii haa tiinɗinaaki"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:24.541326353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Yimɓe saare Israa'iila, barkee ⟨את⟩ Yaawe; yimɓe saare Aaruun, barkee ⟨את⟩ Yaawe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "yimɓe saare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yimɓe saare"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaruun"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:46.761071849Z",
+  "model": "glm-5.3"
+}

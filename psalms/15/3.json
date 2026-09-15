@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O ɓuuɓnataa e daande makko, o waɗaa bonannde sehil makko, o habitaa ɗaɓɓitol dow keɓɗo makko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "o ɓuuɓnataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗaa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sehil makko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "e ɗaɓɓitol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o habitaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "keɓɗo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.835118318Z",
+  "model": "glm-5.3"
+}

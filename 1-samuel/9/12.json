@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe jaabii ɓe ⟨את⟩, ɓe wi'i: “Ina woodi; ƴeew, ko yeeso maa; yaroya jonnde, sabu ko hannde o arii e saare ndee, sabu wajju woodi hannde yimɓe ɓee e toownde.”",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "ɓe jaabii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (Shaul e suka makko)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ina woodi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yaroya"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "jonnde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ko hannde"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "e saare ndee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "wajju"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "e toownde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:14.074732130Z",
+  "model": "glm-5.3"
+}

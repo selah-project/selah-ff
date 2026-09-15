@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O yi'i caɗeele maɓɓe, nde o nanii ⟨את⟩ dewirde maɓɓe;",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "caɗeele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "nde o nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewirde maɓɓe"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "dewirde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:43.953012557Z",
+  "model": "glm-5.3"
+}

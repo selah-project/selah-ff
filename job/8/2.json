@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Haa nnjuɓɓu maa wolana ɗee? Konngi hunnde maa ɗen ari hono henndu mawndu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "אן",
+      "gloss": "nnjuɓɓu"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "wolana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "hono henndu"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mawndu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Konngi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "hunnde maa ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:23.991035483Z",
+  "model": "glm-5.3"
+}

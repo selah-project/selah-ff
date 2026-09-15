@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Kono Eloohim wi'i bonɗo on: ko heɓi on winndaade sarɗiiji am, e ƴettude jokkol am e mun on?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "kono bonɗo on"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko heɓi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "on"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "winndaade"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "sarɗiiji am"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "e ƴettude"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jokkol am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mun on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:39.118515477Z",
+  "model": "glm-5.3"
+}

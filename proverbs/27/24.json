@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Sabu jawji duumaani abada, wanaa laamorde duumoto haa ronnere e ronnere.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abada"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "jawji"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "laamorde"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "haa ronnere"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ronnere"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:25.017500351Z",
+  "model": "glm-5.3"
+}

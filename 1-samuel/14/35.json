@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Shaamu mahi sarde fii Yaawe; ⟨את⟩ nden ko o fuɗɗiri mahde sarde fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaamu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sarde nden"
+    },
+    {
+      "surface": "החל",
+      "gloss": "o fuɗɗiri"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahde"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:06.021170157Z",
+  "model": "glm-5.3"
+}

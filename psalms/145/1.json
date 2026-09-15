@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yettoode Daawuuda. Mi mawninay ma, Eloohim am, Laamɗo on, ko mi barkee innde maa haa duumiire e kaa ñalawma duumi.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Yettoode"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mi mawninay ma"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ko mi barkee"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumiire"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e kaa ñalawma duumi"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:34.628114335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kala neɗɗo no huutoroo wondude e dokkal junngo mun, no waɗiri e barkel Yaawe Eloohim maa, mo O rokki maa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "no waɗiri e dokkal"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "no waɗiri e barkel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "O rokki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:28.692021917Z",
+  "model": "glm-5.3"
+}

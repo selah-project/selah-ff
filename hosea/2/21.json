@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi mbaɗay maa dewal e am duumiayaagal; mmi mbaɗay maa dewal e am e nuunɗu e ñaawoore e hesed e yurmeende.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "mi mbaɗay maa dewal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumiayaagal"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "mmi mbaɗay maa dewal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "e nuunɗu"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "e hesed"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "e yurmeende"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:32.240986123Z",
+  "model": "glm-5.3"
+}

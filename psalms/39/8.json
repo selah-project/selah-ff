@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Hannde, Adonaay, hol ko mi jogorii? Yaakaare am ko e maa ⟨woni⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hol ko"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "mi jogorii"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "yaakaare am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko ... woni"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:37.563455325Z",
+  "model": "glm-5.3"
+}

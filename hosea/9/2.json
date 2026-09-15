@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Gaasu e masirde inab wata ɓe ɓeyda; e inab kesum yeddata e makko.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "Gaasu"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "e masirde inab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ɓe ɓeyda"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "e inab kesum"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "yeddata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:13.437650601Z",
+  "model": "glm-5.3"
+}

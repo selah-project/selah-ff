@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yaawe wi'i mo: Yaha, artu e laawol maa ngol to laylaytol Dammasek; nde aroytoɗaa, ɗuññir ⟨את⟩ Haza'el laamuɗo e dow Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yaha"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "artu"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "e laawol maa ngol"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "to laylaytol"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammasek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "nde aroytoɗaa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ɗuññir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haza'el"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'el"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamuɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:09.284505109Z",
+  "model": "glm-5.3"
+}

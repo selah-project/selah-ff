@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Ɓe ndokkii laaɓal e ñaamde am, e tesorde am ɓe njoginii mi yaru.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokkii"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "e ñaamde am"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "e tesorde am"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "ɓe njoginii mi yaru"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinigaar"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:03.507588856Z",
+  "model": "glm-5.3"
+}

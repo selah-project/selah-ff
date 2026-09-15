@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe, no ƴaañooɓe am ɗin ɓeydii! Heewɓe ene ummoo tam e am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "no...!"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ɓeydii"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ƴaañooɓe am ɗin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Heewɓe"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ene ummoo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tam e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:33.951065622Z",
+  "model": "glm-5.3"
+}

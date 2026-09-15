@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Ɗemre am kadi ñalawma fuu mbinndoyta ñaawoore maa; ɓe haawnii, ɓe lorii, ɓe ɗaɓɓooɓe bonannde am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemre am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mbinndoyta"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ñaawoore maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɓe haawnii —"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "ɓe haawnii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— ɓe lorii"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ɓe lorii"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ɓe ɗaɓɓooɓe"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bonannde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:48.714290025Z",
+  "model": "glm-5.3"
+}

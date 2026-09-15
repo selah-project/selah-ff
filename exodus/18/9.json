@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yitroo wondi ŋakkere fii moƴƴere nden fuu, hono Yaawe waɗi nde fii Israa'iila, tawa o daañi ɓe e junngo Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "wondi ŋakkere"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitroo"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "moƴƴere nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fii Israa'iila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "o daañi ɓe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:30.748976736Z",
+  "model": "glm-5.3"
+}

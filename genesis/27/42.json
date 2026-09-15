@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Konnguudi Esav ɓiɗɗo mun mawɗo on kabinaama ⟨את⟩ Rivka; o neldi, o noddi Yaakob ɓiɗɗo mun tokooso on, o wi'i mo: “Ndiy, Esav miñi maa ina weltina hoore mum e maa, ngam warde maa.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kabinaama"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguudi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguudi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mawɗo on"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "tokooso on"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndiy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "ina weltina hoore mum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "ngam warde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:04.546841987Z",
+  "model": "glm-5.3"
+}

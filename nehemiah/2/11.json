@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi arii to Yerushalayim, mi woniino ɗon balɗe tati.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "arii mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "woniino mi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tati"
+    }
+  ],
+  "timestamp": "2026-09-14T10:46:20.132136460Z",
+  "model": "glm-5.3"
+}

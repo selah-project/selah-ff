@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kori jooɗoowo Maroot ɗaminii moƴƴere; kori bone jippii e ⟨את⟩ Yaawe, fii damal Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kori"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ɗaminii"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "jooɗoowo"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kori"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "jippii"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "fii damal"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:54.570686481Z",
+  "model": "glm-5.3"
+}

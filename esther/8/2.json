@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Laamɗo on ittitii ⟨את⟩ caaka noddirɗo mun ɗen, ka o ƴettunoo e Haaman, o dokki ɗum Mordekay; Ester lelni ⟨את⟩ Mordekay dow suudu Haaman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ittitii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "caaka noddirɗo mun"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "caaka noddirɗo mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ƴettunoo"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "e Haaman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "dokki"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "to Mordekay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "lelni"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haaman"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:39.185675183Z",
+  "model": "glm-5.3"
+}

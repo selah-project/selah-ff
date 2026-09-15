@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Ɓe ndiyi laawɓe maa, Eloohim; laawɓe Eel am, laamɗo am, e nder santuaar ngal.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ɓe ndiyi"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "laawɓe maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "laawɓe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel am"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo am"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "e nder santuaar"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:56.463542173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Shee timmuɗo, woro, ɓiɗɗo hitaande, ko ⟨o⟩ ngiddan on; e nder misoje ɗen walla e nder pobbereje ɗen nattoree ⟨o⟩.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "shee"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmuɗo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "woro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ngiddan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "misoje ɗen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "walla e nder"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "pobbereje ɗen"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nattoree"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:31.426144145Z",
+  "model": "glm-5.3"
+}

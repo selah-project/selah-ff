@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Jimmu Dawuuda. Yaawe ⟨woni⟩ jaayngol am e ndeenka am, mo mi-ɗoo kulol? Yaawe ⟨woni⟩ damal nguurndam am, mo mi-ɗoo taway?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Jimmu Dawuuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "jaayngol am"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "e ndeenka am"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mi-ɗoo kulol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "damal"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "mi-ɗoo taway"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:46.962224202Z",
+  "model": "glm-5.3"
+}

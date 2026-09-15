@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Yumre ara e makko o anndaay; taƴre mum nde o suuɗii nanngu mo; e yumre o yotto e mayre.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Yumre ara e makko"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "yuumre"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o anndaay"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "taƴre mum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "טמן",
+      "gloss": "o suuɗii"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "nanngu mo"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "e yuumre"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o yotto"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:55.745374662Z",
+  "model": "glm-5.3"
+}

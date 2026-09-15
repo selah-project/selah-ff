@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 97,
+  "translation": "Kammuuli ɗen wi'ii njaaruu mun, yimɓe ɗen fuu nji'ii teddungal mun.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "wi'ii"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗen"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "njaaruu mun"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nji'ii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "teddungal mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:17.476589580Z",
+  "model": "glm-5.3"
+}

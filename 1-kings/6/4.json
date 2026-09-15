@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "O waɗi ⟨e⟩ suudu ndun panele je daayaaɗi, udditaaɗi-fuunaare-taƴondirɗi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨e⟩ suudu ndun"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "panele"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "je daayaaɗi"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "udditaaɗi-fuunaare-taƴondirɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:31.990057246Z",
+  "model": "glm-5.3"
+}

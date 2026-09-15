@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "È wanaa no Karkemish nii Kalno woni? È wanaa no Arfad nii Hamat woni? È wanaa no Damesek nii Shomeron woni?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "È wanaa"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "no Karkemish nii"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "È wanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "no Arfad nii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "È wanaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "no Damesek nii"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:17.001496090Z",
+  "model": "glm-5.3"
+}

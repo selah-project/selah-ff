@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Daawuuda ƴami ⟨את⟩ worɓe mun e konngi, o yamiraali ɓe ƴellitaade e dow Shaa'ul; Shaa'ul ƴelliti e nder suudu-reedu ndun, o yahi laawol ngol.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ƴami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe mun"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "worɓe mun"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o yamiraali"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ƴellitaade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaa'ul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ƴelliti"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "e nder suudu-reedu ndun"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T11:59:22.515046320Z",
+  "model": "glm-5.3"
+}

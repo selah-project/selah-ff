@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaakuuba huli no feewi, o metti ɓernde; o feccii ⟨את⟩ yimɓe ɓen ɓe ⟨את⟩ e makko, e ⟨את⟩ baali ɗen, e ⟨את⟩ na'i ɗen, e gelooɗi, feccere ɗiɗi kampaañuuji.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "o huli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "o metti ɓernde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "o feccii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e makko ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baali ɗen"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "baali ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "na'i ɗen"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i ɗen"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "e gelooɗi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "feccere ɗiɗi"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kampaañuuji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:44.589794720Z",
+  "model": "glm-5.3"
+}

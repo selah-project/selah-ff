@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "On jaabii ⟨את⟩ mi, on wi'i: ko konngol goodum ngol ɗaɓɓirtaa waɗde.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "On jaabii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "on wi'i"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ko ... goodum"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ɗaɓɓirtaa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:11.390997038Z",
+  "model": "glm-5.3"
+}

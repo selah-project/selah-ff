@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 87,
+  "translation": "Mi waajata Rahaab e Babilon e nder ɓe anndi ⟨mi⟩; ƴeew, Filistiya e Tor, e Kush: ɗum jibinaama ɗoon.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "mi waajata"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahaab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "e Babilon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "e nder ɓe anndi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistiya"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "e Tor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "jibinaama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:05.833126706Z",
+  "model": "glm-5.3"
+}

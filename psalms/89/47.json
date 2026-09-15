@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Haa nde, Yaawe? A cuuɗii hoore maa a duumi? Tindeere maa maa yooro hono no yiite nii?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "a cuuɗii hoore maa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "a duumi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "maa yooro"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hono no... nii"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tindeere maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:11.440206772Z",
+  "model": "glm-5.3"
+}

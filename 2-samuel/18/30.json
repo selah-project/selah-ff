@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Laamɗo on wi'i: dirtin, daro ɗoo; o dirtini, o daroii.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "סב",
+      "gloss": "dirtin"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "daro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "o dirtini"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "o daroii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:05:45.160371706Z",
+  "model": "glm-5.3"
+}

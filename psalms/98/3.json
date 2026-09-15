@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "O siiftorii hesed makko e goongɗiral makko fii suudu Israa'iila; kaɓɓe ɗen njiyii ⟨את⟩ daɗndugal Eloohim amen en.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "o siiftorii"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed makko"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "e goongɗiral makko"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fii suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "njiyii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaɓɓe"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daɗndugal"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "daɗndugal"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen en"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:08.236760674Z",
+  "model": "glm-5.3"
+}

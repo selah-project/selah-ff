@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Min ndokki Makir ⟨את⟩ Gilʿad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "min ndokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilʿad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilʿad"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:13.022966232Z",
+  "model": "glm-5.3"
+}

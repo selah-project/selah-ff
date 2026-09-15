@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Ɓe yettoto innde maa, mawnde e wuddunde; ko terɗe no feewi kanko.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ɓe yettoto"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "e wuddunde"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "terɗe no feewi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:21.829586426Z",
+  "model": "glm-5.3"
+}

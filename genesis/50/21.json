@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Jooni noon wata on kul: kanko e hoore mun, mi ñaamɓay on ⟨את⟩ e ⟨את⟩ sukaaɓe mon tokooso. O weeɓitini ɓe ⟨את⟩, o haali e ɓernde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Jooni noon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "on kul"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko e hoore mun, mi"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ñaamɓay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sukaaɓe mon tokooso"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "sukaaɓe mon tokooso"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "O weeɓitini"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓernde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:21.288948546Z",
+  "model": "glm-5.3"
+}

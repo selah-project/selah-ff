@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 80,
+  "translation": "Duƴƴe ɗen cuuɗiino e kuural mum, e calɗi mum — kedde Eel tedduɗe.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "cuuɗiino"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "duƴƴe ɗen"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "kuural mum"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "e calɗi mum"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "kedde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:02.945238194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Paroh kadi udditii jom'en ñaawoore e jom'en puffere; ɓe kadi — gardeji Misrayim ɗin — ngolliri ko nii e ɓulli mun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "udditii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "jom'en ñaawoore"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "jom'en puffere"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ngolliri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "gardeji"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "e ɓulli mun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko nii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:31.587313273Z",
+  "model": "glm-5.3"
+}

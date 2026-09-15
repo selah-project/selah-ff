@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Taron dottirɗi mayre ɓe tooye, kala waɗoowo njoɓdi ɓe metti ⟨e⟩ nder nguurndam.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "taron"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "dottirɗi mayre"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "ɓe tooye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "waɗoowo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "njoɓdi"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "ɓe metti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguurndam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:12.106719823Z",
+  "model": "glm-5.3"
+}

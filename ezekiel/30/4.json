@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 30:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Pawaaru naata Misrayim, muñal-suddo laata Kush; tuma warɓe ɓe yeññi Misrayim, keewal maggal neldetee, doole maggal ruttetee.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "naata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Pawaaru"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "laata"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "muñal-suddo"
+    },
+    {
+      "surface": "בכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "tuma ... yeññi"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "warɓe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "neldetee"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "keewal maggal"
+    },
+    {
+      "surface": "ונהרסו",
+      "gloss": "ruttetee"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "doole maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T08:47:25.716558792Z",
+  "model": "glm-5.3"
+}

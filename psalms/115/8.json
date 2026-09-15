@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "No ɓe nii ɓe taguɓe ɓen laataay; no ɓe nii kala mo hoolnii e ɓe.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "no ɓe nii"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ɓe taguɓe ɓen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hoolnii"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:42.994168561Z",
+  "model": "glm-5.3"
+}

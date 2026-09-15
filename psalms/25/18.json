@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yi'i ŋakkere am e heewal am, yaafru ñaawe am ɗe fof.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Yi'i"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ŋakkere am"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "e heewal am"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "yaafru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ɗe fof"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "ñaawe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:32.846553442Z",
+  "model": "glm-5.3"
+}

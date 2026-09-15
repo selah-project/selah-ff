@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "Yaawe udditirta gite wumɓe ɗen; Yaawe dariinirta lo'otooɓe ɗen; Yaawe moorirta ejjitiiɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "udditirta gite"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "wumɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "dariinirta"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "lo'otooɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "moorirta"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ejjitiiɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:07.986895793Z",
+  "model": "glm-5.3"
+}

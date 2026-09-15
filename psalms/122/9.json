@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Fii suudu Yaawe Eloohim amen, mi ɗaɓɓirtay moƴƴere fii maaɗa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "mi ɗaɓɓirtay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:27.427696303Z",
+  "model": "glm-5.3"
+}

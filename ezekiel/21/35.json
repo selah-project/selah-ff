@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Dartu ɗum e wuddo mun; e nokku ɗo o tagiraa, e leydi iwdi maaɗa, mi ñaawa ⟨את⟩ aawa.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Dartu ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "wuddo mun"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "o tagiraa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "iwdi maaɗa"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mi ñaawa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aawa",
+      "marks": "aawa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:53.758144116Z",
+  "model": "glm-5.3"
+}

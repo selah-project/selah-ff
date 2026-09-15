@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi addi ⟨את⟩ on e leydi karmel, ngam ñaamde ɓiɗe mayre e moƴƴere mayre; kono so on naatii, on ɓornii langal, ⟨את⟩ leydi am on ɓornii, e ndonu am on waɗi ɗum ko ƴeewata ko boni.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Mi addi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ɓiɗe mayre"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "e moƴƴere mayre"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "on naatii"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "on ɓornii langal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi am"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "leydi am"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "e ndonu am"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "on waɗi"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "ko ƴeewata ko boni"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:20.012094041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Yaawe accataa mo e junngo makko, wanaa ñaawata mo bonɗo tuma ñaawoore mun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "accataa"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "accataa mo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ñaawata mo bonɗo"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "tuma ñaawoore mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.677394017Z",
+  "model": "glm-5.3"
+}

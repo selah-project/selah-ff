@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wata a jaara e ñalnde jaŋngo, sabu a anndaa ko ñalnde roddata.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "a jaara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "jaŋngo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "a anndaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "roddata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:20.200014575Z",
+  "model": "glm-5.3"
+}

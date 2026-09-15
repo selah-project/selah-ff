@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Tawii mi seedtii no feewi e baabiraaɓe mon, e ñalnde nde mi umminoo ⟨את⟩ ɓe diga leydi Misrayim, haa e ñalnde hannde ndee: mi ummiima subaka, mi seedtii, wiyde: “Nanee daande am.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tawii"
+    },
+    {
+      "surface": "העד",
+      "gloss": "seedtii"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "mi seedtii no feewi"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "e baabiraaɓe mon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "nde mi umminoo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (baabiraaɓe mon)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "diga leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde ndee"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "mi ummiima subaka"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "mi seedtii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Nanee"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:19:02.523131330Z",
+  "model": "glm-5.3"
+}

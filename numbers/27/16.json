@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "'Yaawe, Eloohim ruuhuuji ɗin fii ɓernde fuu, toɗin gorko dow kawtal ngal",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "toɗin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "ruuhuuji ɗin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓernde fuu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kawtal ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:28.762066333Z",
+  "model": "glm-5.3"
+}

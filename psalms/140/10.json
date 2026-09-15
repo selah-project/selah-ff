@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Hoore dendooɓe lam ɗen — fittaße ɗen ganndirtee ɓe; caɗeele lewɗe maɓɓe ɗen cuuju ɓe.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "dendooɓe lam"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "caɗeele"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lewɗe maɓɓe ɗen"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "cuuju ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:49.566221600Z",
+  "model": "glm-5.3"
+}

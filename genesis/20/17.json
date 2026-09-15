@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Abrahaam torii Eloohim, Eloohim fooñiti ⟨את⟩ Abimelek e ⟨את⟩ debbo mun e jeyngooji makko, ɓe ndiidi ɓiɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "torii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahaam"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "fooñiti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "debbo mun"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "e jeyngooji makko"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ɓe ndiidi ɓiɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:24.780588081Z",
+  "model": "glm-5.3"
+}

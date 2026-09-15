@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E nde o leelti hoore mun, murte Yaawe artiri e makko, wanaa feewnude bonnugol timmungol; kadi e Yuuda tawaama konnguɗi moƴƴuɗi.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "E nde o leelti hoore mun"
+    },
+    {
+      "surface": "שב",
+      "gloss": "artiri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "feewnude bonnugol"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "timmungol"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "e Yuuda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "moƴƴuɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T13:08:02.964144105Z",
+  "model": "glm-5.3"
+}

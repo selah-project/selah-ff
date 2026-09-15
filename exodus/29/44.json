@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Mi senanirta ⟨את⟩ teentu Yaaŋorde ngal e ⟨את⟩ jaŋŋe ngal, e ⟨את⟩ Aharon e ⟨את⟩ ɓiɓɓe mum ɓen mi senanira, laamuɗo almuudo wonande Am.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "mi senanirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teentu Yaaŋorde ngal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Yaaŋorde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jaŋŋe ngal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋŋe ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mum ɓen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mum ɓen"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "mi senanira"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "laamuɗo almuudo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wonande Am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:19.247896390Z",
+  "model": "glm-5.3"
+}

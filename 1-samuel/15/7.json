@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sha'uul fiyi ⟨את⟩ Amalek, diga Haviila haa naatgol maaɗaa Suur, ngol woni yeeso Misraim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "diga Haviila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "naatgol maaɗaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Suur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol woni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ko yaasi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:32.998477574Z",
+  "model": "glm-5.3"
+}

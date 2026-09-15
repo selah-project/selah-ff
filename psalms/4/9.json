@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "E nder jam mi ɗaana e nder ɓural gootal, kadi mi ɗaanaa; kono amin: tawa ko wanaa An, Yaawe, woolwol koo, e nder koolkisol nelda-ɗaa mi.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "e nder jam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "e nder ɓural gootal"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mi ɗaana"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "kadi mi ɗaanaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono amin: tawa ko wanaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "An"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "woolwol koo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e nder koolkisol"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "nelda-ɗaa mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:23.397777497Z",
+  "model": "glm-5.3"
+}

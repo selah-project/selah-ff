@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono a waɗii mo barkeeji duumiiɗum; a weltiniii mo e beldal, ⟨e⟩ ⟨את⟩ yeeso maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "a waɗii mo"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "barkeeji"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "duumiiɗum"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "a weltiniii mo"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "e beldal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso maa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:44.032175312Z",
+  "model": "glm-5.3"
+}

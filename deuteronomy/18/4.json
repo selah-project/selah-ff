@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Arannduuji gawri maa, inab maa kesum, diida maa, e aranndare woolu baaɗi maa, ndokkaa mo.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "arannduuji"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "gawri maa"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "inab maa kesum"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "diida maa"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "e aranndare"
+    },
+    {
+      "surface": "גז",
+      "gloss": "woolu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "baaɗi maa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ndokkaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:15.507161007Z",
+  "model": "glm-5.3"
+}

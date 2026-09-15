@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ńjere ndeenay nder ɓural maa; e nder ɗemngal ngal ɓuuɓri maa ɗon fooɗoo; kume ɓuuɓe maa ɗen e mbaylaaji maa ɗen ɓennii kam.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Ńjere ndee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ɓural maa ɗon fooɗoo"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "naalanii"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "e nder ɗemngal"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ɓuuɓri maa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kume"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ɓuuɓe maa ɗen"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "e mbaylaaji maa ɗen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ɓennii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:13.821186380Z",
+  "model": "glm-5.3"
+}

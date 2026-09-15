@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Si neɗɗo woodani rewɓe ɗiɗo — gooto mo o giɗi, gooto mo o ɓoyi — ɓe ndiɗdi mo sukaaɓe, mo giɗaaɗo on e mo ɓoyaaɗo on; woni ko suka aranoore tam ko mo ɓoyaaɗo on jeyi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "woodani"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "mo o giɗi"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "mo o ɓoyi"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ɓe ndiɗdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "mo giɗaaɗo on"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "mo ɓoyaaɗo on"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "woni ko"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "aranoore"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "ko mo ɓoyaaɗo on jeyi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:53.950321402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "Yettoode fii Yaah, sabu ko moƴƴi yimde fii Eloohim amen; sabu ko delorii, yettoore ina layɗini.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Yettoode fii"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "yimde fii"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "delorii"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "layɗini"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:38.724630300Z",
+  "model": "glm-5.3"
+}

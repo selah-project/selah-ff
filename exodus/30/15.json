@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Bogoojo on wanaa ɓeyda, Maaɗo on wanaa ustude, e ŋorel shekel ngel, fii hokkude ⟨את⟩ dokkal Yaawe, fii faaborgal dow neffe mon.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Bogoojo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ɓeyda"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "e Maaɗo on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "ustude"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "e ŋorel"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii hokkude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "fii faaborgal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "neffe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:01.772203114Z",
+  "model": "glm-5.3"
+}

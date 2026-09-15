@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Fii ardotooɗo on. Wata hayru. Jakre Dawuud, miktam, e neldugol Shaul, ɓe ngumni ⟨את⟩ ɓurde nden ngam warde mo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii ardotooɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hayru"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Jakre Dawuud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "e neldugol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ɓe ngumni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓurde nden"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ɓurde nden"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ngam warde mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.567234383Z",
+  "model": "glm-5.3"
+}

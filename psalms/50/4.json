@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "O noddata kammuuli ɗin diga dow, e leydi ndin, fii ñaawde yimɓe makko.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "noddata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "diga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dowa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "fii ñaawde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:36.326006451Z",
+  "model": "glm-5.3"
+}

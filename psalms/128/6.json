@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 128,
+  "translation": "Ndaara ɓiɓɓe ɓiɓɓe maaɗen; jam dow Israya'il.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ndaara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ɓiɓɓe maaɗen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'il"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:38.949647487Z",
+  "model": "glm-5.3"
+}

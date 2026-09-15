@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "⟨את⟩ ceene mun fuu o ƴetto heen, o cokor ɗum e jaɓnde nden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ceene mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ceene mun"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o ƴetto heen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "heen"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "o cokor ɗum"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e jaɓnde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:24.976817196Z",
+  "model": "glm-5.3"
+}

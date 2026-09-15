@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "O ƴeewoto leydi ndin, ndi henjoo; o memi duuji ɗin, ɗi piydu.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "o ƴeewoto"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ndi henjoo"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "o memi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "duuji ɗin"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ɗi piydu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:25.238447120Z",
+  "model": "glm-5.3"
+}

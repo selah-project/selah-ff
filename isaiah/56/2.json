@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "E moƴƴetee neɗɗo mo waɗata ɗum, e ɓiy aadam mo jolnata ɗum: reenuɗo Shabbat ngam wanaade defde ɗum, e reenuɗo junngo mun fawaade waɗde kala bonannde.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "E moƴƴetee"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mo waɗata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "e ɓiy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "mo jolnata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "reenuɗo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "ngam wanaade defde ɗum"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "e reenuɗo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "fawaade waɗde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonannde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:36.198840038Z",
+  "model": "glm-5.3"
+}

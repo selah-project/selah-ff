@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Kadi ⟨את⟩ ngendi ndin ɓe gollinta — miin mi ñaawa ɓe; ɓaawo ɗuum ɓe yalta e jawle mawnde.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngendi ndin"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ngendi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "ɓe gollinta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ñaawa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "miin mi"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ɓe yalta"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "e jawle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:38.213609478Z",
+  "model": "glm-5.3"
+}

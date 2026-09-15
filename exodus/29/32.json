@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Aharun e taaniraaɓe makko ɓen ñaamay ⟨את⟩ leetol peeru ngol e ⟨את⟩ gerte ɗen ɗe woni e ɗaɓɓere nden, to damal teentaare ndi kawtal.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ñaamay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharun"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e taaniraaɓe makko ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leetol peeru ngol"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "leetol"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "peeru ngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gerte ɗen"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "gerte ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "e ɗaɓɓere nden woni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "to damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentaare"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ndi kawtal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:56.823904708Z",
+  "model": "glm-5.3"
+}

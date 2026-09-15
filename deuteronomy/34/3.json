@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "E ⟨את⟩ Negev, e ⟨את⟩ ɓullaane ɗo yeru Yeriiho, wuro tulde-ɗamle, haa Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓullaane nga"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ɓullaane"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "yeru"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriiho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "tulde-ɗamle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:55.966074126Z",
+  "model": "glm-5.3"
+}

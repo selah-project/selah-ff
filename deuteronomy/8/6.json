@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɗen reenu ⟨את⟩ jamirooje Yaawe Eloohim maa, ngam yahde e laawol makko, e gasɗa ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ɗen reenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamirooje Yaawe Eloohim maa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "jamirooje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "e laawol makko"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "e gasɗa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:47:07.812072391Z",
+  "model": "glm-5.3"
+}

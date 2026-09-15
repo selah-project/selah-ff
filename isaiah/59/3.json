@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Kono paali mon ɗen ndiyam ɓuuɓnii e ƴiiƴam, cokle mon ɗen e bone; lebbi mon ɗen kaali fenaande, ɗemngal mon ngal mumtii tooñannge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "paali mon ɗen"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "ndiyam ɓuuɓnii"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "cokle mon ɗen"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "lebbi mon ɗen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kaali"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ɗemngal mon ngal"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tooñannge"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mumtii"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:57.277328245Z",
+  "model": "glm-5.3"
+}

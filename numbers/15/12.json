@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ko heewi no mbaɗɗu kon, non mbaɗa ngam gooto e kala, ko heewi mun fof.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "ko heewi no"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗɗu"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "non"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ngam gooto e kala"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ko heewi mun fof"
+    }
+  ],
+  "timestamp": "2026-09-14T05:40:56.007041368Z",
+  "model": "glm-5.3"
+}

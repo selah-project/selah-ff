@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓiɓɓe Goomer ɗin ko: Ashkenaz e Riiyat e Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Goomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "e Riiyat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "e Togarma"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:57.768914558Z",
+  "model": "glm-5.3"
+}

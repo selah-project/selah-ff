@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O waɗii ⟨את⟩ fuu nden e paami Aarona e paami ⟨את⟩ ɓiɓɓe mun ɗin, o wuurnii ⟨אתם⟩ ɗum wuurnaare yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu nden"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "fuu nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "paami"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "paami"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun ɗin"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "o wuurnii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɗum wuurnaare"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "wuurnaare"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:22.297849176Z",
+  "model": "glm-5.3"
+}

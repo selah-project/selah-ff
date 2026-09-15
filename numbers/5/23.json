@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kohen on winndata ⟨את⟩ cuuɗi ɗii e deftere, o momtata ɗum e ndiyam ɓuuɓnam ɗam.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "winndata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi ɗii"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "cuuɗi ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen on"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "e deftere"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "o momtata ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ɓuuɓnam ɗam"
+    }
+  ],
+  "timestamp": "2026-09-14T11:42:01.401507414Z",
+  "model": "glm-5.3"
+}

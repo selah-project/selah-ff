@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Kamɓe ɓe ɓiyi golle Yaawe, e peeje Makko e nder luggere.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe ɓiyi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "e peeje Makko"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "e nder luggere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:58.640441888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Aru, min ndarin ⟨את⟩ baaba amen inebal, min ɗaana bee makko, min hisnu nder baaba amen lewru.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "min ndarin inebal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba amen"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baaba amen"
+    },
+    {
+      "surface": "יין",
+      "gloss": "inebal"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "min ɗaana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bee makko"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "min hisnu"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "nder baaba amen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lewru"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:52.315309397Z",
+  "model": "glm-5.3"
+}

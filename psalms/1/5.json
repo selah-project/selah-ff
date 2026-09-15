@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Sabu ɗum boneeɓe ɓee na mbara ⟨slaaki⟩ ndimitteede e ñaawoore ⟨nden⟩, wanaa bommɓe e dingiral peewuɓe ɓee.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "slaaki"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ndimitteede"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "boneeɓe ɓee"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "e ñaawoore nden"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "wanaa bommɓe"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "e dingiral"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "peewuɓe ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:48.658746303Z",
+  "model": "glm-5.3"
+}

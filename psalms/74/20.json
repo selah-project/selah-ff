@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Yi'ọt laaɓtu e ɓingal ngal; sabu nokkuuje niɓɓiɗe leydi ndin keɓii ɗum, ko gure tafɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Yi'ọt laaɓtu"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "e ɓingal ngal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "keɓii ɗum"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "nokkuuje niɓɓiɗe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "gure"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tafɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:29.021054167Z",
+  "model": "glm-5.3"
+}

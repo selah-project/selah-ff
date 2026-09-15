@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Ngam anndinande ɓiɓɓe aadanɓe sembe mun, e teddungal jalbu laamu mun.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "ngam anndinande"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɓe"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "sembe mun"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "e teddungal"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "jalbu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "laamu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:27.713905380Z",
+  "model": "glm-5.3"
+}

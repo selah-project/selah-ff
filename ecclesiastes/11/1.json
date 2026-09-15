@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Neldu ɗam maa dow yeeso ndiyam ɗin, sabu e nder balɗe keewɗe ɗo a tawata ɗum.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ɗam maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e nder ɓeyngu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "balɗe ɗin"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "a tawata ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:43.677772118Z",
+  "model": "glm-5.3"
+}

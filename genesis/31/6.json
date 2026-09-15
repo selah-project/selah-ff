@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Onon ndanan tawi e mbaawka am fuu mi gollunoo ⟨את⟩ baaba mon.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Onon"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ndanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mbaawka am"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mi gollunoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mon"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "baaba mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:09.710785571Z",
+  "model": "glm-5.3"
+}

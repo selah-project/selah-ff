@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɗee ɗoo ko iwdi Aharon e Musa, e ñalnde Yaawe haali ⟨את⟩ Musa to tulde Siinay.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee ɗoo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "iwdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "e Musa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "to tulde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:15.236813707Z",
+  "model": "glm-5.3"
+}

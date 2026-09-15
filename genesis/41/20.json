@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Nay ɓoorniiɗe ɗen e bonɗe ɗen ñaami ⟨את⟩ nay jeeɗiɗe gadane ɗen, cuuɗiɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "ñaami"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "nay"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "ɓoorniiɗe ɗen"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "bonɗe ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nay jeeɗiɗe gadane ɗen cuuɗiɗe ɗen"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "nay"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "gadane ɗen"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "cuuɗiɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:08.435357284Z",
+  "model": "glm-5.3"
+}

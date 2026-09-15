@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Priista so o soodi neɗɗo, soodgol kaalis mun, o ñamldata ɗum; kadi jibinaaɗo e nder galle mun, ɓe ñamldata lewru mun.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "priista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "o soodi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "soodgol"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "kaalis mun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ñamldata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "jibinaaɗo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñamldata"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "lewru mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:13.730461162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Mbuurdum, ɓecci titaaɗi, e tuggi kesum — wata ñaamu, haa ñalawma oo hiɗɗum, haa nde addu-ɗon ⟨את⟩ korban Eloohim mon; ko ɗum sariya duumiiɗum fii iwdiiji mon e nder laaɓi ngalluure mon.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "mbuurdum"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "ɓecci titaaɗi"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "e tuggi kesum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "hiɗɗum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma oo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hiiɗtii"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "nde addu-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korban"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "sariya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiiɗum"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fii iwdiiji mon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder laaɓi"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ngalluure mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:19.169663596Z",
+  "model": "glm-5.3"
+}

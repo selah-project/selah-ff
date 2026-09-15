@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mi anndini maa: re'u ⟨e⟩ haala laamɗo on, e fii lekki ki Eloohim fuɗɗii.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "re'u"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "lekki ki"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "fuɗɗii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:08.667282053Z",
+  "model": "glm-5.3"
+}

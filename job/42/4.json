@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Nano, mi ñaagii, ko minen haalata; mi naamnotaa maa, a winndan am.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi ñaagii"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ko minen"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "haalata"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "mi naamnotaa maa"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "a winndan am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:20:08.966470840Z",
+  "model": "glm-5.3"
+}

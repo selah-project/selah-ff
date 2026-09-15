@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Maa ɗaɓɓinir ⟨את⟩ ngal kaŋe daneejo laaɓtuɗo, maa waɗan mun ñeeñere kaŋe daneejo saraaji mum fuu.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "maa ɗaɓɓinir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "taabal ngal"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe daneejo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓtuɗo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maa waɗan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ñeeñere"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋe daneejo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saraaji mum fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:05.232436811Z",
+  "model": "glm-5.3"
+}

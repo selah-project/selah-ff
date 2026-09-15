@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Sabu Baruk ɓiy Neriya yuɓɓintii ⟨את⟩ min, fii hokkude ⟨את⟩ min e junngo Kasdim ɗin, ngam warde ⟨את⟩ min e ngam majjinde ⟨את⟩ min to Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neriya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "yuɓɓintii"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "תת",
+      "gloss": "hokkude"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "min e junngo Kasdim ɗin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim ɗin"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ngam warde"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "e ngam majjinde"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "min"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "to Babel"
+    }
+  ],
+  "timestamp": "2026-09-14T12:25:07.002689299Z",
+  "model": "glm-5.3"
+}

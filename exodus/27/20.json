@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "A arroya ⟨את⟩ ɓiɓɓe Israa'iila, ɓe addana maa diƴƴe olownaam laaɓuɗe, ñaaƴaaɗe, fii laaɓal, ngam ƴellitde lampa duumiiɗo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "arroya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe addana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diƴƴe"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olownaam"
+    },
+    {
+      "surface": "זך",
+      "gloss": "laaɓuɗe"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ñaaƴaaɗe"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "fii laaɓal"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ngam ƴellitde"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumiiɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:17.538046815Z",
+  "model": "glm-5.3"
+}

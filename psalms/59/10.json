@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Ñeeñal mun ngal mi reenata maa; tawii Eloohim ko tulde ɓurtunde am.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ñeeñal mun ngal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "mi reenata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "tulde ɓurtunde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:36.811481590Z",
+  "model": "glm-5.3"
+}

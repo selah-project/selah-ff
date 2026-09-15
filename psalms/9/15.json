@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Fii mi winndata ɗoftaare maa fuu e dingiraaji ɓiɗɗo debbo Siiyon; mi weltoto e daɗnde maa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii...nde"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "mi winndata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ɗoftaare maa"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "e dingiraaji"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siiyon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "mi weltoto"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "e daɗnde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:06.542869127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Sabu maa mi ƴoogi hoore-bonannde; nanngu hiddi yeeso am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "mi ƴoogi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hoore-bonannde"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "nanngu hiddi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "yolnde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:00.444347823Z",
+  "model": "glm-5.3"
+}

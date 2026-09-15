@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndeen Aaroon e ɓiɓɓe mun ndeñi ⟨את⟩ konngi ɗin fuu ɗi Yaawe yamiri e juuɗe Muusaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ndeñi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaroon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:07.025593734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E nder ñalɗi makko Edom muuli les junnde Yahuuda, ɓe toɗɗi laamɗo hoore maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "E nder ñalɗi makko"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "muuli"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junnde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ɓe toɗɗi laamɗo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hoore maɓɓe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:22.855076265Z",
+  "model": "glm-5.3"
+}

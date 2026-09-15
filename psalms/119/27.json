@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Faammin-mi laawol aamaruuji maa; mmi yeewtata e kaawniiɗe maa.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "aamaruuji maa"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "faammin-mi"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "mmi yeewtata"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "e kaawniiđe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:54.123934927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "O ɓadtinii ⟨את⟩ leñol Yehuda, o nanngi ⟨את⟩ leñol Zerachiy en; o ɓadtinii ⟨את⟩ leñol Zerachiy en gorko gooto e gorko gooto, Zabdi nanngaama.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "o ɓadtinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "o nanngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerachiy en"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "o ɓadtinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerachiy en"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "gorko gooto e gorko gooto"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "nanngaama"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zabdi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:53.340719060Z",
+  "model": "glm-5.3"
+}

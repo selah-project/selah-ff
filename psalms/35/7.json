@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Tawa ko e ko wa'aani ɓe suuɗii fii am ɓulli, e taƴe mun ɗen; e ko wa'aani ɓe ngollii ɓulli fii neɗɗan am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tawa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "e ko wa'aani"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ɓe suuɗii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "e taƴe mun ɗen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "e ko wa'aani"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ɓe ngollii ɓulli"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fii neɗɗan am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:55.744242357Z",
+  "model": "glm-5.3"
+}

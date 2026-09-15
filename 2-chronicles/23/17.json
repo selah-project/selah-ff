@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Yimɓe ɓee fof naati e suudu Baal ɓe munndi ndi, ⟨את⟩ dartiiji makko e ⟨את⟩ nate makko ɓe taƴi, ⟨את⟩ Matan almuudo Baal ɓe wara yeeso dartiiji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "naati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "ɓe munndi ndi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dartiiji makko"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "dartiiji makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nate makko"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "nate makko"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ɓe taƴi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Matan"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Matan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "almuudo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ɓe wara"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "dartiiji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:20:36.233564927Z",
+  "model": "glm-5.3"
+}

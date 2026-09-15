@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O hoolii e Yaawe, Eloohim Israa'iil; ɓaawo makko alaa mo nanndi e makko e nder laamɓe Yahuuda fof, wanaa e ɓenwonnooɓe yeeso makko.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "o hoolii"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ɓaawo makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "mo nanndi e makko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fof"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "wanaa e ɓen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wonnooɓe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:34:47.819742623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Gootel mi haali, mballa mi jaaba; ɗiɗiɗo, mballa mi ɓeydu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Gootel"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi haali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "mi jaaba"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ɗiɗiɗo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "mi ɓeydu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:18:22.863655570Z",
+  "model": "glm-5.3"
+}

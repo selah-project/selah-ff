@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Yaawe, Eloohim mo cellal am, ñalawma ɓennuɗo mi ñiiɓanii ma, kikiiɗe, yeeso maa daande am waɗi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim mo"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "cellal am"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "mi ñiiɓanii"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:30.301348093Z",
+  "model": "glm-5.3"
+}

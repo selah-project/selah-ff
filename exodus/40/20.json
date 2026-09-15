@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O jogii, o wađini ⟨את⟩ seeda ngal nder sarewo ngol, o toyi ⟨את⟩ laabi ɗiii e dow sarewo ngol, o wađini ⟨את⟩ sarsoore nden e dow sarewo ngol to dow.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "o jogii"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o wađini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seeda ngal"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seeda ngal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sarewo ngol"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o toyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laabi ɗii"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "laabi ɗii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sarewo ngol"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o wađini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarsoore nden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sarsoore nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sarewo ngol"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "to dow"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:20.943907739Z",
+  "model": "glm-5.3"
+}

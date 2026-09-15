@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Gorko gooto yi'i ɗum, o humpidii Yowaab, o wi'i: “Ejji, mi yi'i ⟨את⟩ Abshalom toɗɗaaɗo e gaas on.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "humpidii"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ejji"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "toɗɗaaɗo"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "e gaas on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:03:20.313686351Z",
+  "model": "glm-5.3"
+}

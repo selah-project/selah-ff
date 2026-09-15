@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kala neɗɗo ñaawuɗo ⟨את⟩ baaba mum e ⟨את⟩ yumma mum — wartere wartere; baaba mum e yumma mum o ñaawi; ƴiiɓam mun ⟨en⟩ woni e makko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ño"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ñaawuɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mum"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yumma mum"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mum"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wartere"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wartere"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e yumma mum"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "o ñaawi"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ƴiiɓam mun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:53.384784962Z",
+  "model": "glm-5.3"
+}

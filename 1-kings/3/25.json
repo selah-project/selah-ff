@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo on wi'i: “Pulnu-ɗaa ⟨את⟩ ɓiɗɗo nguuruɗo on feɗɗendi ɗiɗi, ⟨את⟩ ngence nden ndokkee gootel, e ⟨את⟩ ngence nden ndokkee gootel.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "pulnu-ɗaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo nguuruɗo on"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ɓiɗɗo on"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nguuruɗo on"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "feɗɗendi ɗiɗi"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ndokkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngence nden"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ngence nden"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "gootel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngence nden"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ngence nden"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "gootel"
+    }
+  ],
+  "timestamp": "2026-09-14T12:06:51.436692119Z",
+  "model": "glm-5.3"
+}

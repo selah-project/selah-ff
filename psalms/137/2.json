@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "E dow leɗɗe keewal ɗen, e nder mayre, min loyni kinnoraaji amen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "leɗɗe keewal"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "e nder mayre"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "min loyni"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinnoraaji amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:16.726654546Z",
+  "model": "glm-5.3"
+}

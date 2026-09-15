@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "O dariinii ñaawooɓe e leydi ndin, e nder gure Yahuuda ɗen fof daneeje ɗen, wootde e wootde.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "O dariinii"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ñaawooɓe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder ... fof"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "daneeje ɗen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wootde"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "e wootde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:20:03.060205367Z",
+  "model": "glm-5.3"
+}

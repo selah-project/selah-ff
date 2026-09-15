@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe yahi ⟨nde⟩ o timminii haalde e Awrahamam, Awrahamam kadi arti e nokku mun.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "timminii"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awrahamam"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "Awrahamam kadi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "e nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:00.397464410Z",
+  "model": "glm-5.3"
+}

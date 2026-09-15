@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 1:17",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Aa, haɗu ɓalndu mā, ummito, waajan ɓe ⟨את⟩ ko woni fuu ko mi yamirta mā; wata a tuuru yeeso maɓɓe, wane mi tuuranta mā ɓe yeeso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Aa"
+    },
+    {
+      "surface": "תאזר",
+      "gloss": "haɗu"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ɓalndu mā"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "waajan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko woni fuu (almaa fuu ɗo את feŋata)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "yamirta mā"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "a tuuru"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "yeeso maɓɓe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wane"
+    },
+    {
+      "surface": "אחתך",
+      "gloss": "mi tuuranta mā"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ɓe yeeso"
+    }
+  ],
+  "timestamp": "2026-09-14T12:18:46.044029349Z",
+  "model": "glm-5.3"
+}

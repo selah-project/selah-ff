@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Shallum jibini ⟨את⟩ Yekamyaah, Yekamyaah jibini ⟨את⟩ Eliishamaa.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyaah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyaah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "Yekamyaah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliishamaa"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eliishamaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:11.423322496Z",
+  "model": "glm-5.3"
+}

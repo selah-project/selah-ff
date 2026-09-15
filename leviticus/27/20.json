@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono si o fedataa ⟨את⟩ ladde nden, walla si o soodi ⟨את⟩ ladde nden to neɗɗo goo, nde fedetee tawo goo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o fedataa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "fedo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladde nden"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla si"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "o soodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ladde nden"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "to neɗɗo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nde fedetee"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "fedo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawo goo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:57.620141772Z",
+  "model": "glm-5.3"
+}

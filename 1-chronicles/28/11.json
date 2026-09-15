@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Dawuudi rokki Shelomoo ɓiyum ⟨את⟩ natal portoo ngal e ⟨את⟩ cuuɗi mum e ɗakuuji jawdi mum e suudu toppitte mum e cuuɗi nder ɗin, e suudu kippore.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "natal portoo ngal"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "natal"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "portoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi mum"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "cuuɗi-mum"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "ɗakuuji-jawdi-mum"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "suudu-toppitte-mum"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "cuuɗi-mum-nder"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ɗin-nder"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e-suudu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kippore"
+    }
+  ],
+  "timestamp": "2026-09-14T11:06:49.054202075Z",
+  "model": "glm-5.3"
+}

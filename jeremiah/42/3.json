@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yaawe Eloohim maa waajanu min ⟨את⟩ laawol ngol min mbaadata e nder mum, e ⟨את⟩ konngol ngol min mbaɗata.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waajanu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laawol ngol"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "min mbaadata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e nder mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "min mbaɗata"
+    }
+  ],
+  "timestamp": "2026-09-14T08:26:38.156312674Z",
+  "model": "glm-5.3"
+}

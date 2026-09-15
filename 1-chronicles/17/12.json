@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ko kanko o mahata am suudu, mi tabintinta ⟨את⟩ jooɓorde mun haa duumay.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "o mahata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "mi tabintinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jooɓorde mun"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jooɓorde mun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumay"
+    }
+  ],
+  "timestamp": "2026-09-14T11:01:05.846840820Z",
+  "model": "glm-5.3"
+}

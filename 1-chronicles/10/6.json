@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Sha'uul maayi, e ɓiɓɓe makko tato, e saare makko fuu; ɓe kawti maayi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "saare makko"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ɓe kawti"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:33.112565908Z",
+  "model": "glm-5.3"
+}

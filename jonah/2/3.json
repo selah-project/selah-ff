@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i: Mi noddii e caɗe ɗe am fayde e Yaawe, o jaabii mi; e nder reedu Seol mi wullii, a nanii daande am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Mi noddii"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "e caɗe ɗe am"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "o jaabii mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "mi wullii"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "a nanii"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:16.099249821Z",
+  "model": "glm-5.3"
+}

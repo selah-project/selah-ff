@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Sabu wondude barke makko ɗen njirotaa ⟨ndi⟩ leydi ndin; wondude rere makko ɗen taƴetee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "wondude barke makko ɗen"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "njirotaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "wondude rere makko ɗen"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "taƴetee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:14.046239840Z",
+  "model": "glm-5.3"
+}

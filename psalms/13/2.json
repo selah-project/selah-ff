@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Haa ñaawo, Yaawe, yawtirtaa-⟨mi⟩ duumayru? Haa ñaawo suuɗirtaa ⟨את⟩ yeeso maa ummiido e am?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "yawtirtaa-mi"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "duumayru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "suuɗirtaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso maa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ummiido e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:20.179007610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɗee ɗoo ko innde ɓiɓɓe Israa'iil ɓe ngari Misrayim — ⟨את⟩ Ya'aqob, gooto e galle mun, ɓe ngari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee ɗoo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "innde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ɓe ngari"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'aqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "e galle mun"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ɓe ngari"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:15.744324768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Konngol Yaawe arii e makko, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:29.575767122Z",
+  "model": "glm-5.3"
+}

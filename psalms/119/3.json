@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Kadi ɓe noggaali tooñannge, e laawodi Makko ɓe yimi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ɓe noggaali"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tooñannge"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "e laawodi Makko"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ɓe yimi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:38.845452449Z",
+  "model": "glm-5.3"
+}

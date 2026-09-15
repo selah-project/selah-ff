@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim ƴetti ⟨את⟩ neɗɗo on, o fooɗni mo e jarne Eden, fii mo gollina ɗum e reenna ɗum.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "o fooɗni mo"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "e jarne"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "fii mo gollina ɗum"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "e reenna ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:17.587202880Z",
+  "model": "glm-5.3"
+}

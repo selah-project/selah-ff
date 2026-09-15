@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Laamɗo Misrayim itti mo e Yerushalayim, o ñaawi ⟨את⟩ leydi ndi teemerere kikkare kaalis e kikkare njeeɗi.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "o itti mo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "o ñaawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "teemerere"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkare"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "e kikkare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njeeɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:29:33.886509658Z",
+  "model": "glm-5.3"
+}

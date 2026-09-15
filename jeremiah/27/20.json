@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "ɗi Nebukadnessar, laamɗo Babilon, naa jebbɗi, tuma nde o egginni ⟨את⟩ Yekonanja ɓiy Yehojakim, laamɗo Yahuuda, iwde Yerushalaam to Babilon, kam e ⟨את⟩ kala tedduɓe Yahuuda e Yerushalaam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "jebbɗi"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "tuma nde o egginni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonanja"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonanja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iwde Yerushalaam"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "to Babilon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kam e ⟨את⟩",
+      "marks": "kala tedduɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "tedduɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "e Yerushalaam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:09.945776006Z",
+  "model": "glm-5.3"
+}

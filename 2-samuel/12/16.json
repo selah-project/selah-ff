@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Dawuudi ɗaɓɓitii ⟨את⟩ Eloohim fii suka oo; Dawuudi waɗi juunɗe, o naati, o jippii ton, o darti ka leydi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ɗaɓɓitii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka oo"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "waɗi juunɗe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "צום",
+      "gloss": "juunɗe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "o jippii ton"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "o darti"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:08.887050047Z",
+  "model": "glm-5.3"
+}

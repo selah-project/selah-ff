@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Si ɓe wi'i: Aru ⟨את⟩ e min; min ngena ngam ƴiiƴam, min ngenna ngam alaaƴtinirde laaɓtuɗo, alaa sabu;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ e min",
+      "marks": "e min"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "min ngena ngam ƴiiƴam"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ngam ƴiiƴam"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "min ngenna"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "ngam laaɓtuɗo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "alaa sabu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:10.931550184Z",
+  "model": "glm-5.3"
+}

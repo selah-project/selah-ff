@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Hataach yahi to Mordekay, to yaajde wuro ngoo, ngol woni yeeso damal laamđo on.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "yaajde"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:19.344886334Z",
+  "model": "glm-5.3"
+}

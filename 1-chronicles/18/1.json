@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Jadi caggal ɗuum Daawuda fiyi ⟨את⟩ Pelishtim en, o ɓooytini ɓe, o ƴetti ⟨את⟩ Gat e gure tokoose mum ɗen e juuɗe Pelishtim en.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jadi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim en"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim en"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "o ɓooytini ɓe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e gure tokoose mum ɗen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim en"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:47.641662763Z",
+  "model": "glm-5.3"
+}

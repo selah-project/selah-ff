@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Kono hesed Yaawe, gaɗa duuɓi ɓooyɗi haa duuɓi ɓooyɗi, no woni dow ɓen ɗon moobii Mo; e lootu makko no woni fii ɓiɓɓe ɓiɓɓe ɓen;",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Kono hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gaɗa duuɓi ɓooyɗi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duuɓi ɓooyɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ɓen ɗon moobii Mo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e lootu makko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:20.542993680Z",
+  "model": "glm-5.3"
+}

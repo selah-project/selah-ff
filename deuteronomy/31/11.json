@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Nde Yisrayel fof ardata ngam yiyde ⟨את⟩ yeeso Yaawe Eloohim maa ɗum e nokku ɗum suɓotoo, a jannga ⟨את⟩ Toraa nden ñaamaa Yisrayel fof, e noppi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Nde ... ardata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yiyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso Yaawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "suɓotoo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "a jannga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toraa nden"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toraa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nden"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñaamaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayel"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "e noppi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:19.041377158Z",
+  "model": "glm-5.3"
+}

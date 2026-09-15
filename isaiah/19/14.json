@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yaawe naatini nder nder mum ruuhu kuugal; Misrayim ⟨את⟩ ɓe ndirii nder golle mum fof, hono no ƴaaƴo waasirta e ɓuuɓri mun nih.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "naatini"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "nder nder mum"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "ɓe ndirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nder... fof"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "golle mum"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "hono no... waasirta"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ƴaaƴo"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "e ɓuuɓri mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:28.119237274Z",
+  "model": "glm-5.3"
+}

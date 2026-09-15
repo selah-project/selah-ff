@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Haalu e ɓiɓɓe Israai'il, wi'a ɓe: neɗɗo so o fodani nadaru keeruɗum, e ndenju maa neɗɗaaje, ko fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "haalu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'il"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "fodani nadaru keeruɗum"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadaru"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "e ndenju maa"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "neɗɗaaje"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ko fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:44.566313913Z",
+  "model": "glm-5.3"
+}

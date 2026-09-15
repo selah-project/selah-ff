@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Wottoree ɓe laaɓuɓe e Yaawe; winnditooje ɗum fii moƴƴuɓe ɓe yettoore.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "wottoree"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ɓe laaɓuɓe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "fii moƴƴuɓe ɓe"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "winnditooje"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yettoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:59.683884565Z",
+  "model": "glm-5.3"
+}

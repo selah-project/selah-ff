@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "No ⟨את⟩ feewi min bonnii maa, min reeni wanaa ⟨את⟩ peawje ɗen e ⟨את⟩ sariyaaji ɗin e ⟨את⟩ ñaawoore ɗen ɗe ɗaɓɓirii Moosaa jeyaaɗo maa on.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "no feewi bonnude"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "min bonnii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "min reeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peawje ɗen"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "peawje ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sariyaaji ɗin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sariyaaji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawoore ɗen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawoore ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ɗaɓɓirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moosaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:46:08.620794483Z",
+  "model": "glm-5.3"
+}

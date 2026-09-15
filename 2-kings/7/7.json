@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɓe ummii, ɓe dogi e kikiiɗe naange, ɓe ngaddii ⟨את⟩ teentaaji maɓɓe e ⟨את⟩ pucci maɓɓe e ⟨את⟩ wura-njooɗi maɓɓe — kampañol no ngol woniri — ɓe dogi ngam hisnude nguurndam maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Ɓe ummii"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ɓe dogi"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "e kikiiɗe naange"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "ɓe acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teentaaji maɓɓe"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "teentaaji maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pucci maɓɓe"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "pucci maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "wura-njooɗi maɓɓe"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "wura-njooɗi maɓɓe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampañol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ngol woniri"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ɓe dogi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nguurndam maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:54.783778064Z",
+  "model": "glm-5.3"
+}

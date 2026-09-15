@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓiɗɓe on woni ⟨ko⟩ ɓiɗɓe Yaawe Eloohim mon; wata on taƴu hoore mon, wata on waɗu peccal ɗerewal hakkunde gite mon fii maayɗo.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Ɓiɗɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on woni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "on taƴu hoore mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wata"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "on waɗu"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "peccal ɗerewal"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "gite mon"
+    },
+    {
+      "surface": "למת",
+      "gloss": "fii maayɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:08.880491574Z",
+  "model": "glm-5.3"
+}

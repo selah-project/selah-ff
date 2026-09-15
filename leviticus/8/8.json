@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O waɗi e makko ⟨את⟩ cosam ɓernde nden, o waɗi ender cosam ɓernde nden ⟨את⟩ Uuriim e ⟨את⟩ Tumiim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cosam ɓernde nden"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "cosam ɓernde nden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "cosam ɓernde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uuriim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Uuriim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumiim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumiim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:46.778740837Z",
+  "model": "glm-5.3"
+}

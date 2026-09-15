@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɗaɓɓannde maa ɗaɓɓu ⟨את⟩ nde e sehilaaɗo maa, kono sirru gooɗɗo wata a feñnina.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ɗaɓɓannde maa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ɗaɓɓu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehilaaɗo maa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sehilaaɗo maa"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "kono sirru"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "gooɗɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "a feñnina"
+    }
+  ],
+  "timestamp": "2026-09-14T10:02:28.401169557Z",
+  "model": "glm-5.3"
+}

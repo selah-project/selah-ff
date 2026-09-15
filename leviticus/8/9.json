@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O fooñi ⟨את⟩ wondu-juɗre nden e hoore makko; o fooñi kadi e wondu-juɗre nden, to yeeso fii, ⟨את⟩ ñaaje kaŋŋa ngaa, kaddol ceniiɗol ngol, no Yaawe jamiri ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o fooñi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wondu-juɗre nden"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "wondu-juɗre nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o fooñi kadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "wondu-juɗre nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מול",
+      "gloss": "yeeso fii"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaaje kaŋŋa ngaa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ñaaje"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋŋa"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kaddol"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ceniiɗol"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "jamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:57.110726646Z",
+  "model": "glm-5.3"
+}

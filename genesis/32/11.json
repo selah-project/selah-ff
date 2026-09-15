@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 32:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Mi famɗii e heseduuji ɗin fuu, e goonga ngan fuu ɗo mbaɗɗun ⟨את⟩ jeyaaɗo maa; ko e paltoora am tan pawii mi ⟨את⟩ Yuurdan oo, hannde mi laatii feddeaji ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "קטנתי",
+      "gloss": "mi famɗii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "החסדים",
+      "gloss": "heseduuji ɗin"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "goonga ngan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɗɗun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɗo maa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "במקלי",
+      "gloss": "e paltoora am tan"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "pawii mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuurdan oo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yuurdan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi laatii"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "feddeaji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:22.282776765Z",
+  "model": "glm-5.3"
+}

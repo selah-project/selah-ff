@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Hoodere am ⟨woni⟩ dow Eloohim, balluɗo peewɓe ɓen e ɓernde.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "hoodere am"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "balluɗo"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "peewɓe ɓen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "e ɓernde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:00.004298553Z",
+  "model": "glm-5.3"
+}

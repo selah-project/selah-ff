@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "Yo bonɓe ɗin yoyo e fenndeeji mun ɗin; kam e hoore am haa mi yaha.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Yo ɓe yoyo"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "e fenndeeji mun ɗin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɗin"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kam e hoore am"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "mi yaha"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:32.990588568Z",
+  "model": "glm-5.3"
+}

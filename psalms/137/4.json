@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "No lane min mirta ⟨את⟩ jimre Yaawe e dow leydi janani?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "no lane"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "min mirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jimre Yaawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "jimre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "janani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:16.726999381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Mi yettata Yaawe e ñaawoore mum nde woɗɗaani, mi yimata innde Yaawe Ɓurɗo Toowde.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "mi yettata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "e ñaawoore mum"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mi yimata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ɓurɗo Toowde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:37.865093327Z",
+  "model": "glm-5.3"
+}

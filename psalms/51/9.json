@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Sinu-mi e ezowu, mi laaɓa; lar-mi, mi ɓura ⟨daneejo⟩ no nebbare.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "sinu-mi"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "e ezowu"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "mi laaɓa"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "lar-mi"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "no nebbare"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "mi ɓura ⟨daneejo⟩"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:31.981426460Z",
+  "model": "glm-5.3"
+}

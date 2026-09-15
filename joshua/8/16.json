@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yimɓe fow ɓe wonɓe e wuro ngo njeemi fii doggoode maɓɓe; ɓe ndogi caggal Yahuushuwa, ɓe aletoke wuro ngo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "njeemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe wonɓe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro ngo"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "fii doggoode"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ɓe ndogi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuushuwa"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "ɓe aletoke"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:13:49.211096188Z",
+  "model": "glm-5.3"
+}

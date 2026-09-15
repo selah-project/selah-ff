@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe fiyi maa e enkeewal, e ɓuuɓol, e pirgol, e nguleendi hiiɗunde, e yooro, e baytal, e mouldu; ɗen ɓe ngaña-ma haa a maaya.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "fiyi-ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "e enkeewal"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "e ɓuuɓol"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "e pirgol"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "e nguleendi hiiɗunde"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "e yooro"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "e baytal"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "e mouldu"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "ɓe ngaña-ma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "a maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:13.399321771Z",
+  "model": "glm-5.3"
+}

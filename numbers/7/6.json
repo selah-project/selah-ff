@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Moshe nanngi ⟨את⟩ karonge ɗen e ⟨את⟩ na'i ɗin, o neddii ⟨את⟩ ɗi e Lewi'en.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karonge ɗen"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "karonge ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "na'i ɗin"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "na'i ɗin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o neddii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɗi",
+      "marks": "e Lewi'en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi'en"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:17.219801651Z",
+  "model": "glm-5.3"
+}

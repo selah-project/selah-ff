@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Juunal naatata e gure mun, momtata ɗum pawne gure ɗen, e ñammta ɗum e dow wasiyaaji maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "naatata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "juunal"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "e gure mun"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "momtata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "pawne gure ɗen"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "e ñammta"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "e dow wasiyaaji maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:44.234594865Z",
+  "model": "glm-5.3"
+}

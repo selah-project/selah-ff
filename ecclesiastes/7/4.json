@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɓernde laykuɓe ⟨en⟩ woni to suudu sunaare, ɓernde paaɗe ⟨en⟩ woni to suudu weltaare.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "laykuɓe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "to suudu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sunaare"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "paaɗe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "to suudu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "weltaare"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:23.452055894Z",
+  "model": "glm-5.3"
+}

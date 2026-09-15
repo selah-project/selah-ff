@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 111,
+  "translation": "O waɗi siftorde pelle mun ɗe jawtuɗe ɗee; Yaawe ko himmo, jom yurmeende.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "siftorde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "pelle mun ɗe jawtuɗe ɗee"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "himmo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "jom yurmeende"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:46.454796011Z",
+  "model": "glm-5.3"
+}

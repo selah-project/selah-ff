@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Wata njanngu e majji; gollan ⟨את⟩ laamɗo Babilon, nguurton; ko fii ɗum wuro ngo wata laataake bunndu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "njanngu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "e majji"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gollan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo Babilon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "nguurton"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii ɗum"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "laataake"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "bunndu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:09.945239045Z",
+  "model": "glm-5.3"
+}

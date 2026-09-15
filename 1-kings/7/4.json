@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Enceene ina woodi e layɗi tati, yi'orde ina fottii e yi'orde tati laabi.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "enceene"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tati"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "layɗi"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "e yi'orde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ina fottii e"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "yi'orde"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laabi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:27.504935859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ndee: neɗɗo on sukkinii, gorko on leslinii — wata a jaɓɓu ɓe.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Ndee: sukkinii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "leslinii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "a jaɓɓu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:18.595132398Z",
+  "model": "glm-5.3"
+}

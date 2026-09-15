@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen wonii e duuɓi cappanɗe nayi, e lewru sappo e go'oto, ñalnde gooto e lewru ndun, Moshe haali ɓiɓɓe Israa'iila, no Yaawe yamiri ⟨את⟩ mo fii ɓe non,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen wonii"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "e duuɓi cappanɗe nayi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "e (sappo e go'oto, aranol)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ñalnde gooto"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e lewru ndun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e(fii)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no...non"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Moshe)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "fii ɓe non"
+    }
+  ],
+  "timestamp": "2026-09-15T05:39:58.248419793Z",
+  "model": "glm-5.3"
+}

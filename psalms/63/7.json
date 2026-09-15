@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Tawa mi ciftorii ma dow leeso am, e nder pemmaaji jemma mi miijoo e maa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "mi ciftorii ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "leeso am"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "e nder pemmaaji jemma"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "mi miijoo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:23.516402272Z",
+  "model": "glm-5.3"
+}

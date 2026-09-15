@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Neɗɗo nayɗo o anndaa, laaɓtintaako, huuɓtinaa anndude ⟨את⟩ ɗum.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nayɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o anndaa"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "e laaɓtintaako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "huuɓtinaa anndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.740425929Z",
+  "model": "glm-5.3"
+}

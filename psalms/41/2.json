@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "No welli mo gollirta e hakkille fii miskineeɓe ɓen! E nder ñalnde bone Yaawe mo hisnay.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "No welli"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gollirta e hakkille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "דל",
+      "gloss": "miskineeɓe ɓen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "E nder ñalnde"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "hisnay mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:50.916232928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 93,
+  "translation": "Seedeeje maa ɗen ɓeeɗaama no feewi; muusal ko kañum yamri to suudu maa, Yaawe, fii duuɓi juutɗi.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "seedeeje maa ɗen"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ɓeeɗaama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "to suudu maa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "yamri"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muusal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "fii duuɓi juutɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:54.014893110Z",
+  "model": "glm-5.3"
+}

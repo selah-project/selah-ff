@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Ɓe dañaaki ɓe neɓɓini kala neɗɗo ⟨את⟩ sakku mun ka leydi, kala neɗɗo uddititi sakku mun.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ɓe dañaaki"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ɓe neɓɓini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakku mun"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sakku mun"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ka leydi"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "kala neɗɗo uddititi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(kala neɗɗo)"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sakku mun"
+    }
+  ],
+  "timestamp": "2026-09-15T05:44:44.292721330Z",
+  "model": "glm-5.3"
+}

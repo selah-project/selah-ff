@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Ɓuuɓorɗe ɗen ɓuuɓnii ndiyam, kammuuli ɗin njaltini daande, kadi faŋŋe maa ɗen ngumaakaa.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ɓuuɓnii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ɓuuɓorɗe ɗen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "njaltini"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "faŋŋe maa ɗen"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ngumaakaa"
+    }
+  ],
+  "timestamp": "2026-09-14T18:58:07.952627171Z",
+  "model": "glm-5.3"
+}

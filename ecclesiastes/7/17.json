@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wata a waɗ tooñannge heewde, kono wata a wonu welliɗo ; hollee nji'a a maaya tawa wonaa e saatu maa?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "a waɗ tooñannge"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "heewde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kono wata"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "a wonu"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "welliɗo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hollee nji'a"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "a maaya"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tawa wonaa"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "e saatu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:32.632422379Z",
+  "model": "glm-5.3"
+}

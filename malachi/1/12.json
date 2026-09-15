@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono on bonnirta ɗum ⟨את⟩ e wiyde mon: taabal Adonaay ko bonnuka, e dokkal mun ko noddaandu nyaamdu mun.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "on bonnirta"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (inde am)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "e wiyde mon"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "taabal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "bonnuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "e dokkal mun"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "noddaandu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nyaamdu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:03.354296410Z",
+  "model": "glm-5.3"
+}

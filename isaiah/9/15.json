@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ko ɓe peewnitooɓe yimɓe ɗoo ngoni majjinooɓe, ɓe peewnitooɓe ɓee kadi ko loraaɓe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "peewnitooɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "majjinooɓe"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "e peewnitooɓe ɓe"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "loraaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:32.058218121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono ⟨את⟩ Natanaan annabi on, e Benayahuu, e ⟨את⟩ geddooɓe ɓurɓe waawde ɗen, e ⟨את⟩ Selomoo miñiiko mun, o noddaali.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Natanaan annabi on"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanaan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi-on"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benayahuu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "geddooɓe ɓurɓe waawde ɗen"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "geddooɓe-ɓurɓe-waawde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Selomoo miñiiko mun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko-mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o-noddi"
+    }
+  ],
+  "timestamp": "2026-09-14T12:04:45.810213146Z",
+  "model": "glm-5.3"
+}

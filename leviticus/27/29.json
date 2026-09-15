@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kala ko cherem, hombo cheramaama e yimɓe, wanaa yeeyde-fadeede; o maayataa ko aro wanaa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "cheramaama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "yeeyde-fadeede"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayataa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ko aro wanaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:34.019012762Z",
+  "model": "glm-5.3"
+}

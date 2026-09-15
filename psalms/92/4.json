@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "E dow asor sappoje, e dow nevel, e dow higgaion ñoŋkiro e kinnaare.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "asor sappoje"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgaion"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ñoŋkiro e kinnaare"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:50.237943768Z",
+  "model": "glm-5.3"
+}

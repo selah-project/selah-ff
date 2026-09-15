@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "No hono golloowo njoɓaaɗo hitaande e hitaande ⟨o⟩ wonirta e makko; wata o huufo mo e kasol, duumingal yeeso maa.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "no hono golloowo njoɓaaɗo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o wonirta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "o huufo mo"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "e kasol"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "duumingal yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:50.175110373Z",
+  "model": "glm-5.3"
+}

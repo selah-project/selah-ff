@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Hoto ⟨את⟩ sehilnu ⟨את⟩ jom tikkere, wanaa e gorko mboddi aada hita.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "hoto"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "sehilnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jom tikkere"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "jom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tikkere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mboddi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hita"
+    }
+  ],
+  "timestamp": "2026-09-14T12:48:49.147026067Z",
+  "model": "glm-5.3"
+}

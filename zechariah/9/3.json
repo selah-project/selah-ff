@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Tsoor mahi mun haarorgal, o mooɓi kaalis hono ƴooro, e njeeŋu hono loope laabi.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsoor"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "haarorgal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "mooɓi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "hono ƴooro"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "e njeeŋu"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "hono loope"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "laabi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:13:14.459071728Z",
+  "model": "glm-5.3"
+}

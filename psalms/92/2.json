@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Ko moƴƴi yettinde Yaawe, e yimde yettoore fii innde maa, Eylyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "yettinde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "e yimde yettoore"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "fii innde maa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eylyon (Ɓurɗo Toowde)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:50.237607058Z",
+  "model": "glm-5.3"
+}

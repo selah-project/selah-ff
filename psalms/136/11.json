@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "O yaltini Israa'iil e nder maɓɓe, ko hesed mun duimata haa duumi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "O yaltini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "e nder maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun duimata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:30.085946435Z",
+  "model": "glm-5.3"
+}

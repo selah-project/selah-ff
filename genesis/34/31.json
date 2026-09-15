@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɓe wi'i: hara yo o waɗ ⟨את⟩ ɗenngere amen hono jaambotooɗo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ɓe wi'i"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "hono jaambotooɗo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yo o waɗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗenngere amen"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "ɗenngere amen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:27.600423080Z",
+  "model": "glm-5.3"
+}

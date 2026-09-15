@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Wata belɗal Adonaay Eloohim amen wonnu e min, e golle junngo amen ɗen sabbu e min; ko noon kadi, golle junngo amen ɗen sabbu ɗe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wata wonnu"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "belɗal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "junngo amen ɗen"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "sabbu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "junngo amen ɗen"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "sabbu ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:56.393987313Z",
+  "model": "glm-5.3"
+}

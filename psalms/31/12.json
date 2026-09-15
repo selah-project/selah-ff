@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Mi wontii laawol mawnanaande e gaañaaɓe am fof, e ko ɓuri heewde e hoɗɓe am; kulol woni ko annduɓe am nji'i, ɓe ngoni e yaasi, ɓe dawtii e am.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "gaañaaɓe am"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wontii"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "laawol mawnanaande"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "e hoɗɓe am"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ko ɓuri heewde"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "annduɓe am"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ɓe nji'i"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "e yaasi"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ɓe dawtii"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:37.735429662Z",
+  "model": "glm-5.3"
+}

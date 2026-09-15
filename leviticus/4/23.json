@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Walla sinsin makko, hono ko o gena e mun, anndinaama mo; o addana ⟨את⟩ dewal makko: puccu piddi, gorko, mo laaɓi.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "anndinaama"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sinsin makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o gena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mun"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "o addana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewal makko"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "dewal makko"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "puccu piddi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "piddi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mo laaɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:11.844323409Z",
+  "model": "glm-5.3"
+}

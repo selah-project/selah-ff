@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "ko kinnor e nevel, tof e xaliil e yiyre ngoni ko ñaamuye maɓɓe; ⟨את⟩ golle Yaawe ɓe yi'aani, e golle junngo makko ɓe nji'aano.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko ... ngoni"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnor"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "e nevel"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tof"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "e xaliil"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "e yiyre"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ñaamuye maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "golle Yaawe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe yi'aani"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "yi'aani"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe nji'aano"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nji'aano"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:10.674131761Z",
+  "model": "glm-5.3"
+}

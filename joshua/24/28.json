@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ndeen Yahuwaa neldi ⟨את⟩ yimɓe ɓen, neɗɗo kala faade e njanngu makko.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "faade e njanngu makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:21:56.448517537Z",
+  "model": "glm-5.3"
+}

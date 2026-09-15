@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Bone arataako to maa; e mette ɓadataako e nder weendu maa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "arataako"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ara"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "e mette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓadataako"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ɓada"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "e nder weendu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:23.626083061Z",
+  "model": "glm-5.3"
+}

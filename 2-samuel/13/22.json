@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kadi Abshaalom haalaani e Amnoon bonɗum wanaa moƴƴuɗum; tawii Abshaalom wanii ⟨את⟩ Amnoon, sabu ɗuum o ƴeewtanoo ⟨את⟩ Tammar miñiiko debbo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kadi ... a"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalaani"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "bonɗum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴuɗum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawii"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "wanii"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnoon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ɗuum (fiyatol)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ƴeewtanoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tammar miñiiko debbo"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tammar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "miñiiko debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:18.344326170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ruuhu Yaawe haali e hoore am, e konngol mun ngol dow ɗemngal am.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e hoore am"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "e konngol mun ngol"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemngal am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:07:42.987478389Z",
+  "model": "glm-5.3"
+}

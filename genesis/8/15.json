@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E Eloohim wowli Noo'a, wiyude:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noo'a"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:52.382786643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Fenaande woni puccu ngam hisnude, e ɓural ngal mun o hisaani.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "puccu ngal"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ngam hisnude"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ngal mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "o hisa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:35.888418709Z",
+  "model": "glm-5.3"
+}

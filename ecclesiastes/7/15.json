@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "⟨את⟩ fuu nden mi yi'i e ɗalle hebel am: geɗal woni moƴƴuɗo o majji e moƴƴere mun, kono geɗal woni bonɗo o duumi e bonre mun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu nden"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "fuu nden"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e ɗalle"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hebel am"
+    },
+    {
+      "surface": "יש",
+      "gloss": "geɗal woni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moƴƴuɗo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "o majji"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "e moƴƴere mun"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kono geɗal woni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "o duumi"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "e bonre mun"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:37.451382928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Si a neldaani mo, min ndeena; sabu gorko on wi'i minen: “Nyurtoyɗon tonngoode am, si wonaa miñi mon woni ⟨את⟩ e mon.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "a neldaani"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nelda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "min ndeena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nyurtoyɗon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tonngoode am"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "si wonaa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miñi mon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ e mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:13.322103554Z",
+  "model": "glm-5.3"
+}

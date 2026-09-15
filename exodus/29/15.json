@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ƴetta ⟨את⟩ mbeewa nden gooto, Aharon e ɓiɓɓe mun boƴe munoyan ⟨את⟩ junuute munɗen dow hoore mbeewa nden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mbeewa nden"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mbeewa nden"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ƴetta"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "boƴe munoyan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junuute munɗen"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "junuute munɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "mbeewa nden"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:52.552708340Z",
+  "model": "glm-5.3"
+}

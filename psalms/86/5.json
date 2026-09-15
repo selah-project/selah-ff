@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Sabu ko aɗa, Adonaay, ⟨ko⟩ moƴƴo, awdii haforde, keewɗo hesed fii ɓe ɓooyata noddirde maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "awdii haforde"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "keewɗo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii ɓe fuu"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ɓe ɓooyata noddirde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:24.937806585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Awraham ummii dingiral wuddu maayɗo mun on, o haali e ɓiɓɓe Het, wiyuɗo:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dingiral"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wuddu"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maayɗo mun"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyuɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:21.152410134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "Sabu muñal aadam yettinay-ma; ko heddii e muñal, a ñorma ⟨ngam hoore maa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "muñal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "yettinay-ma"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "muñal"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "a ñorma"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:39.509657961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Ñaawirɗe ɗen coornorii e mbaɗe, ɓulli ɗen ina mbuurnoo gawri, ɗi tabbita, kadi ɗi yimo.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "coornorii"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mbaɗe"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dumdu"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "e ɓulli"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "ina mbuurnoo"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gawri"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "ɗi tabbita"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ɗi yimo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:20.501376900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Pinechas darorii, o waɗi ñaawoore, ñaw ngaw dartaama.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "darorii"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "o waɗi ñaawoore"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "dartaama"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ñaw ngaw"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:07.199853702Z",
+  "model": "glm-5.3"
+}

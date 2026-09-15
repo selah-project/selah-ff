@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Awraham yani e yeeso mun, Eloohim haaldiri e makko ⟨את⟩, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "yani"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "haaldiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:10.782213560Z",
+  "model": "glm-5.3"
+}

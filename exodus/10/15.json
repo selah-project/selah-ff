@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Balbalu ɗen cujjii ⟨את⟩ yitere leydi ndin fof, leydi ndin duimi; ɓe ñaami ⟨את⟩ lewru leydi ndin fof e ⟨את⟩ mbuuri lekki ɗin fof ɗi duuje ɗen njoppiti; walaa huunde yoornde accita e lekki ɗin walla e lewru ladde ndin, e leydi Misrayim fof.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "cujjii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yitere leydi ndin fof"
+    },
+    {
+      "surface": "עין",
+      "gloss": "yitere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "duimi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ñaami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewru leydi ndin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mbuuri lekki ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mbuuri"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "njoppiti"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "duuje ɗen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "accita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "yoornde"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "e lekki ɗin"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "walla e lewru"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde ndin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fof"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:07.303281069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Fii yoowo ɗum, e nder laawol Gittiit, fii Asaaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii yoowo ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "laawol Gittiit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaaf"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:53.350486595Z",
+  "model": "glm-5.3"
+}

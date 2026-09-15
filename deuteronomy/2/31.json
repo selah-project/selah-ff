@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe wi'i kam: Ƴeew, mi fuɗɗiiimo kokkirde yeeso maa ⟨את⟩ Siijon e ⟨את⟩ leydi makko; fuɗɗo momtude, ngam heɓde ⟨את⟩ leydi makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "mi fuɗɗiiimo"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kokkirde"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siijon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Siijon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi makko"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi makko"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fuɗɗo"
+    },
+    {
+      "surface": "רש",
+      "gloss": "momtude"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ngam heɓde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi makko"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:46.039173222Z",
+  "model": "glm-5.3"
+}

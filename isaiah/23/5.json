@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Nde kabaruuji mun naati Misrayim, ɓe ɓooyi mette; ko nii ɓe meeɗay metde e kabaruuji Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ndo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabaruuji nanngaa"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ɓe ɓooyi mette"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "hay ko nanngaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:02.995943182Z",
+  "model": "glm-5.3"
+}

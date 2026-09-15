@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Oo sahaa ndiyam ɗon ɓuuɓnoo-min, kolkol ƴellorii e nefes amen,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "oo sahaa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗon"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ɓuuɓnoo-min"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "kolkol"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ƴellorii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefes amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:36.085717242Z",
+  "model": "glm-5.3"
+}

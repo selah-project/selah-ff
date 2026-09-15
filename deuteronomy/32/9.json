@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Fii inge Yaawe ko yimɓe mun; Yaaquba ko lay jawdi-mborndi mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "inge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jawdi-mborndi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:25.751970790Z",
+  "model": "glm-5.3"
+}

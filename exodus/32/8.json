@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 32:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "“Ɓe artii lewndu e laawol ngol min waɗi ɓe; ɓe ngollinii ɓe hoore mum en puccu naatnaaɗo, ɓe sujjani ɗum, ɓe wuddi ɗum, ɓe wi'i: ‘Ɗee ko Eloohim maa, Israa'iil, ɗi cemmbinii ma leydi Misrayim ɗon.’”",
+  "tokens": [
+    {
+      "surface": "סרו",
+      "gloss": "Ɓe artii"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "lewndu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "minwaɗiɓe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe ngollinii"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe hoore mum en"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "puccu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "naatnaaɗo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe sujjani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ɓe wuddi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "cemmbinii ma"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:06.985751972Z",
+  "model": "glm-5.3"
+}

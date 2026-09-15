@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kanko o naatnay ⟨את⟩ junngo-mum ñaawoore nden faade e Yaawe: peeko timmuɗo immorde e kirsi ɗin, e ƴeewde-ma faamuyee, fii sadak-junngo, to kefaal on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "junngo-mum ñaawoore nden"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "junngo-mum ñaawoore nden"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "naatnay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "faade e Yaawe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "peeko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "timmuɗo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "immorde e"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kirsi ɗin"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "e ƴeewde-ma faamuyee"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "fii sadak-junngo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kefaal on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:39.897653542Z",
+  "model": "glm-5.3"
+}

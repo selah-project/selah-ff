@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Aru ⟨את⟩ kam ummorii Lebbanon, jommbaajo am; aru ⟨את⟩ kam ummorii Lebbanon, aroy. Ngaŋŋo diga toowde Amanaana, diga toowde Shenii e Hermon, diga keccere jeeyi'en, diga taƴje pannda'en.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kam",
+      "marks": "ummorii Lebbanon"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ummorii Lebbanon"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "jommbaajo am"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kam",
+      "marks": "ummorii Lebbanon"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "ummorii Lebbanon"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "aroy"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "ngaŋŋo"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "diga toowde"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amanaana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "diga toowde"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Shenii"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "e Hermon"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "diga keccere"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "jeeyi'en"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "diga taƴje"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "pannda'en"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:41.085139266Z",
+  "model": "glm-5.3"
+}

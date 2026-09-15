@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Towree, dame, hoore mon; ɗamtinee, damme duumiide ɗen; malyo Laamɗo teddungal on naatu.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "towree"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dame"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ɗamtinee"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "damme"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiide"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "malyo o naatu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "teddungal on"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:18.022644600Z",
+  "model": "glm-5.3"
+}

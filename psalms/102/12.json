@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Ñalɗi am no niɗe ɓoorniiɗo; kanko mi, no huɗo min ɓoorii.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ñaalɗi am"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "no niɗe"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ɓoorniiɗo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "no huđo"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "min ɓoorii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:42.075756187Z",
+  "model": "glm-5.3"
+}

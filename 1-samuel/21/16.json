@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "'Mbaasaa woodi-mi waasɓe mbaruuji, si njiippu-mi ⟨את⟩ ɗoo waɗde mbaruuɗo yeeso am! Ee, ɗoo nay naata e suudu am?'",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Mbaasaa woodi-mi"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "waasɓe mbaruuji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "njiippu-mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗoo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "waɗde mbaruuɗo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Ee, ɗoo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nay naata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "suudu am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:40.746495891Z",
+  "model": "glm-5.3"
+}

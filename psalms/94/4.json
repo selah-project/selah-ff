@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Ɓe cuurtoo, ɓe wowlata ko ɓuraa meeñunde; golloorɓe bonɗum ɓen fuu mawnintoo.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ɓe cuurtoo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ɓe wowlata"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ko ɓuraa meeñunde"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "mawnintoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "golloorɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:07.215236286Z",
+  "model": "glm-5.3"
+}

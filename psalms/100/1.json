@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 100,
+  "translation": "Mizmoor yettoore: wotte fii Yaawe, leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "yettoore"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "wotte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:19.097030733Z",
+  "model": "glm-5.3"
+}

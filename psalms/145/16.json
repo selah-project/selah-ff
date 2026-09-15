@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "A udditi ⟨את⟩ junngo maa, a saɗɗinii kala huunde wuuru e weltam.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "a udditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo maa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "a saɗɗinii"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kala ... fuu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "huunde wuuru"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "e weltam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:05.246279890Z",
+  "model": "glm-5.3"
+}

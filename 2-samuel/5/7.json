@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kono Daawuda nanoiti ⟨את⟩ ɓaleeri Siyon ndin — ko nde wuro Daawuda.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nanoiti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓaleeri Siyon ndin"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ɓaleeri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko nde"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:13.256941162Z",
+  "model": "glm-5.3"
+}

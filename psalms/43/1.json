@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Ñaawu mi, Eloohim, ñaawo ñaawoore am e yimɓe ɓe ngonaano jeyaaɓe hesed; e neɗɗo fenaande e tooñannge, hisnu mi.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ñaawu mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "e ñaawo"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe ngonaano"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "jeyaaɓe hesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "e tooñannge"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "hisnu mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:23.734650008Z",
+  "model": "glm-5.3"
+}

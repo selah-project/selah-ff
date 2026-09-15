@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Kadi Ashur hawti e maɓɓe; ɓe ngontu junngo fii ɓiɓɓe Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "hawti"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe ngontu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:41.313429774Z",
+  "model": "glm-5.3"
+}

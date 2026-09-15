@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ko ndee barkael ɗo Moshe, neɗɗo Eloohim, barkini ⟨את⟩ ɓiɓɓe Israayiil, yeeso maayde mun.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ko ndee"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barkael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barkini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israayiil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "maayde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:53:07.823337408Z",
+  "model": "glm-5.3"
+}

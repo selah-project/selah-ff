@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Aharon e ɓiɓɓe Yisraa'iil fow nji'i ⟨את⟩ Moshe, tawa laɓɓinii ƴiiƴam wuro makko, ɓe ɗooñii ɓadtaade e makko.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nji'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fow"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "laɓɓinii"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "wuro makko"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe ɗooñii"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ɓadtaade"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:57.136825969Z",
+  "model": "glm-5.3"
+}

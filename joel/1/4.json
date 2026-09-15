@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko ɗoo gasata e gazam en, arbeh ñaamii; ko ɗoo gasata e arbeh en, yeleq ñaamii; ko ɗoo gasata e yeleq en, hasil ñaamii.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Ko ɗoo gasata"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "e gazam en"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamii"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ko ɗoo gasata"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "e arbeh en"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamii"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ko ɗoo gasata"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "e yeleq en"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamii"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:22.625279475Z",
+  "model": "glm-5.3"
+}

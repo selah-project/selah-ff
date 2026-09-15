@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Mi ƴettitay yaniyaŋɓe makko ɗooftoo makko; ɓe njiyɗo mo mi halkay ɓe.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Mi ƴettitay"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ɗooftoo makko"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "yaniyaŋɓe makko"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ɓe njiyɗo mo"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "mi halkay ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:20.864346903Z",
+  "model": "glm-5.3"
+}

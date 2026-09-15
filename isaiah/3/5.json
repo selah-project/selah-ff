@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yimɓe ɓen mbonitoytee, neɗɗo e neɗɗo, kadi neɗɗo e sehil mun; suka on famminoo mawɗo on, e laaɓtinaaɗo on tedduɗo on.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "mbonitoytee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "neɗɗo e"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kadi neɗɗo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "e sehil mun"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "famminoo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "mawɗo on"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "e laaɓtinaaɗo on"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "tedduɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:51.657652289Z",
+  "model": "glm-5.3"
+}

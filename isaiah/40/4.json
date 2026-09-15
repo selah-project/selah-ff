@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Kala ɓallol ɗon toowe, kala tonngol e ɓuuɓol ɗon lesnina; ɗo moofti ɗon laaɓtina feccere, ɗo ƴiiƴam-leydi ɗon laaɓtina jeereende.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ɓallol"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ɗon toowe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tonngol"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "e ɓuuɓol"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ɗon lesnina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ɗo moofti"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "e ɗo ƴiiƴam-leydi"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "jeereende"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:13.986922331Z",
+  "model": "glm-5.3"
+}

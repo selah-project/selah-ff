@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Ndiraa ñaamo, yiy; kono ⟨alaa⟩ annduɗo am; majjii doggol am; ⟨alaa⟩ ɗaɓɓuɗo neefu am.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Ndiraa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "yiy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kono ⟨alaa⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "annduɗo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "doggol"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "am"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨alaa⟩"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ɗaɓɓuɗo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "neefu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:33.413528444Z",
+  "model": "glm-5.3"
+}

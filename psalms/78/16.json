@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O yaltini ciiɗi eNAS layre, o wurtini ndiyam no maayɗe nii.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "o yaltini"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ciiɗi"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "eNAS layre"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "o wurtini"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "no maayɗe nii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:01.847798697Z",
+  "model": "glm-5.3"
+}

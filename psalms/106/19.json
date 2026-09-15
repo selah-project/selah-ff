@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe mbaɗi ɓiy na'i e Xoreb, ɓe sujjii ɓuuɓnaande ndee.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "Ɓe mbaɗi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ɓiy na'i"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e Xoreb"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe sujjii"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ɓuuɓnaande ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:09.830227693Z",
+  "model": "glm-5.3"
+}

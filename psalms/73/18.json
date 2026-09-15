@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Pellet, a darori ɓe e palaaje ɓuuɓɓe; a yejjiti ɓe haa halkere.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Pellet"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "e palaaje ɓuuɓɓe"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "a darori"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "a yejjiti ɓe"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "haa halkere"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:35.488864439Z",
+  "model": "glm-5.3"
+}

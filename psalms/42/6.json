@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Ko waɗi a ɓenniiɗa, wonate-am, e ko waɗi a muuñii ɓural am? Sabajaa e Eloohim, ko ɗoo mi yettata mo, ko deeƴe jeeƴe makko.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ko waɗi"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "a ɓenniiɗa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wonate-am"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "a muuñii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ɓural am"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Sabajaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko ɗoo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mi yettata mo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "deeƴe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jeeƴe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:13.820728525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Hade naange nden naƴrude, e annoore nden, e lewru ndun, e ƴiye ɗen, e duuɓe ɗen ruttude ɓaawo toɓo ngoo",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "naƴrude"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange nden"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "e annoore nden"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "e lewru ndun"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "e ƴiye ɗen"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "e ruttude"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "duuɓe ɗen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "toɓo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:56.154127664Z",
+  "model": "glm-5.3"
+}

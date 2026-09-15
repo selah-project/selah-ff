@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Koolol jam woni fii ɓe moƴƴinoo toraama maa; wanaa ɓe dusireede huunde.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Koolol"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "fii ɓe moƴƴinoo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "toraama maa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "dusireede huunde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:48.242838011Z",
+  "model": "glm-5.3"
+}

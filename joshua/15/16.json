@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Kaleeb wi'i: \"Hoɗɗo fiyi ⟨את⟩ Kiryat-Sefeer o nana ɗum, mi ñiinnda mo ⟨את⟩ Akisa ɓiɗɗo debbo am, debbo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hommoo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefeer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefeer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "o nana ɗum"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ñiinnda mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akisa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akisa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɓiɗɗo debbo am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:18:14.219390177Z",
+  "model": "glm-5.3"
+}

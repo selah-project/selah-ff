@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe feeñi e Selomom ɗiɗaɓo, hono no o feeñirnoo e makko to Giw'on.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "feeñi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomom"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ɗiɗaɓo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "feeñirnoo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "to Giw'on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:00.282742175Z",
+  "model": "glm-5.3"
+}

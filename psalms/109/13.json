@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Heddoy jamiraande mun nden wanaa ñaawoore momtugol, e nder duumiɓe goɗɗi innde maɓɓe momte.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "heddoy"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "jamiraande mun nden"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "wanaa ñaawoore momtugol"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "e nder duumiɓe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "momte"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "innde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:22.849596452Z",
+  "model": "glm-5.3"
+}

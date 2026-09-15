@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi wi'i mi, e ɓernde am: Eloohim maa ñaaw ⟨את⟩ oo ñaawoowo e ⟨את⟩ oo bonɗo; ko nde wakkati woni fii kala yiɗde, e dow kala golle, ɗoon.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "e ɓernde am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oo ñaawoowo"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "oo ñaawoowo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "oo bonɗo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "oo bonɗo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "maa ñaaw"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wakkati"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:41.623711806Z",
+  "model": "glm-5.3"
+}

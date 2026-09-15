@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Waɗan kabaarde keerol on: puddi bele booyeeje, e kabaarde dow mum ko puddi takash.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waɗan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "kabaarde"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "fii keerol on"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "puddi"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "bele"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "booyeeje"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "e kabaarde"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "puddi"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takash"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "dow mum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:54.595451443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Abshalom wi'i Hushay: Ɗum hesed maa ⟨את⟩ seedito maa; ko fii ko honno a yahaani ⟨את⟩ seedito maa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hushay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seedito maa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "seedito maa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "saa'i"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "a yahaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seedito maa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "seedito maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:02:46.890905591Z",
+  "model": "glm-5.3"
+}

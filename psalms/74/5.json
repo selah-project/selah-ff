@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Yana anndira no gooto addirta ɗum dow, e nder duɗe lekki, ballooje.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "yana anndira"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "no gooto addirta"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "e nder duɗe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "ballooje"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:52.798138348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nanjee, tulde ɗen, ⟨את⟩ ñaawoore Yaawe, e kaaƴe duumuɓe ɗen ennon leydi ndin; mawno woodi ñaawoore woodande Yaawe e yimɓe makko ɓen, kadi e Israa'iila o heewa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nanjee"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tulde ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore Yaawe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "e kaaƴe duumuɓe ɗen"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "ennon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mawno"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "woodande Yaawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe makko ɓen"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "kadi e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "o heewa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:31.341506958Z",
+  "model": "glm-5.3"
+}

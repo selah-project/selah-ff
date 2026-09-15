@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Misrayim ⟨heɓataa⟩ nafooje golle, ɗe hoore walla laaɓi, ƴi'e palme walla dunɗe mbaɗata.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "heɓataa"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "fii Misrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mbaɗata"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "walla laaɓi"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ƴi'e palme"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "walla dunɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:28.119451113Z",
+  "model": "glm-5.3"
+}

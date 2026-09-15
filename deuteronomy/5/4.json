@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yeeso e yeeso Yaawe haali e on, e tullol ngol, nder hakkunde yiite nden.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e on"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tullol"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "nder hakkunde"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T11:47:22.477180391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Noɗi so miskunaaji maa ɗen njiɗɗi-ko, Yaawe Sabao'ot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "noɗi so"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "njiɗɗi-ko"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "miskunaaji maa ɗen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabao'ot"
+    }
+  ],
+  "timestamp": "2026-09-15T09:13:18.529355340Z",
+  "model": "glm-5.3"
+}

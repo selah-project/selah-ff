@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "A dartinii celaal makko, jooɗorde makko ndin a werlii haa e leydi.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "a dartinii"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "celaal makko"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "jooɗorde makko ndin"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "haa e leydi"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "a werlii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:11.439754036Z",
+  "model": "glm-5.3"
+}

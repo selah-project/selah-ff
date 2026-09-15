@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndaara, lokku Shelomo on: worɓe capanɗe jeegom ina taarii ⟨mo⟩, worɓe Israayiil waawɓe hare.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndaara"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "lokku ... on"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "capanɗe jeegom"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "worɓe waawɓe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ina taarii"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "worɓe waawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:22.150741237Z",
+  "model": "glm-5.3"
+}

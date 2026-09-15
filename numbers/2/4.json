@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Konu mun e limoore maɓɓe: nayi e cappo e jeeɗiɗi ujjere, e jeegom teemedde.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "konu mun"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "e limoore maɓɓe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "e cappo e jeeɗiɗi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujjere"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:19.245260640Z",
+  "model": "glm-5.3"
+}

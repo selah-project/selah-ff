@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Mi wi'i on e wakkati nden ñaawoowo: mi waawaa hoɗo am wootere addude ⟨את⟩ on.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mi wi'i"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e wakkati"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndefi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mi waawaa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "hoɗo am wootere"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "addude"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:17.175316228Z",
+  "model": "glm-5.3"
+}

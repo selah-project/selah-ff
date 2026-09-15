@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Reen ⟨את⟩ ñalnde shabbat ngam laaɓtinde nde, no Yaawe Eloohim maa ƴamiriri maa nnde.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Reen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalnde shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ngam laaɓtinde nde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ƴamiriri maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:14.104231178Z",
+  "model": "glm-5.3"
+}

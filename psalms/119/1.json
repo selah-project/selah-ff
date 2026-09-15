@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "No mburdi woniri ɓe laaɓuɓe e laawol mun, ɓe yahayɓe e Tora Yaawe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "No mburdi woniri"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ɓe laaɓuɓe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ɓe yahayɓe"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "e Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:57.887340925Z",
+  "model": "glm-5.3"
+}

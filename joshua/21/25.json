@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E ɗimmal leñol Menashshe ⟨את⟩ Taanak e ⟨את⟩ duume mayre, e ⟨את⟩ Gath-Rimmon e ⟨את⟩ duume mayre — gure ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "e ɗimmal"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duume mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gath-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duume mayre"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gure"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:21.295592216Z",
+  "model": "glm-5.3"
+}

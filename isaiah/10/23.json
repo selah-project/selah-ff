@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Maa timmitinnde laaɓtinnde, Adonaay Yaawe Sabaoth waɗata nder cakkal leydi ndin fof.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "timmitinnde"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "laaɓtinnde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nder cakkal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:40.046714866Z",
+  "model": "glm-5.3"
+}

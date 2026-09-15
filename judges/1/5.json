@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe tawii ⟨את⟩ Adoni-Bezek to Bezek, ɓe ndarii e makko, ɓe mbari ⟨את⟩ Kana'anaanɓe ɗin e ⟨את⟩ Periziyyen ɓen.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ɓe tawii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "to Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ɓe ndarii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe mbari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kana'anaanɓe ɗin"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kana'anaanɓe ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Periziyyen ɓen"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Periziyyen ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:52.635182028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓe moofti ⟨את⟩ ɗum subaka kala subaka, neɗɗo kala laaɓi e ñaamde mun, naange nden ɓuuɓtii, ɗum liiki.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "Ɓe moofti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "laaɓi e"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ñaamde mun"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ɓuuɓtii"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange nden"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ɗum liiki"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:07.300661452Z",
+  "model": "glm-5.3"
+}

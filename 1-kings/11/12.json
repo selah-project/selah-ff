@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kono tan, e balɗe maa mi waɗaay ɗum, fii Daawuuda baaba maa; e junngo ɓiy maa mi yeeƴa ɗum.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono tan"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "e balɗe maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi waɗaay"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "mi waɗa ɗum"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiy maa"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "mi yeeƴa ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:18:02.421945731Z",
+  "model": "glm-5.3"
+}

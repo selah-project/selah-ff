@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Baaba maa saɗtinii ⟨את⟩ nalal amen; wona jooni hennu dewal baaba maa saɗtungal ngal e nalal makko mawnungal ngal o waɗi hoore amen, maa min mballu maa.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Baaba maa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "saɗtinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nalal amen"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "nalal amen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "wona jooni"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "hennu"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "dewal"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "saɗtungal"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "e nalal makko"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mawnungal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hoore amen"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "maa min mballu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:24.382022359Z",
+  "model": "glm-5.3"
+}

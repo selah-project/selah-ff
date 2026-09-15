@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O yaltini ⟨את⟩ yimɓe maa ⟨את⟩ Israa'iila e nder leydi Misra, e maandeeji e kaawniije, e junngo wowndu e baawɗe hottere, e kulol mawngol.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "O yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe maa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "e maandeeji"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "e kaawniije"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wowndu"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "e baawɗe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "hottoraande"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:55.020354089Z",
+  "model": "glm-5.3"
+}

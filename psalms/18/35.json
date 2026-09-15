@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O janngina juuɗe am fii hare, juno am tuugi ɓoggol njamndi.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "O janngina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe am"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "fii hare"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "tuugi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ɓoggol"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "juno am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:09.014307951Z",
+  "model": "glm-5.3"
+}

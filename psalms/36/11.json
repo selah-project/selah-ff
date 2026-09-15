@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Duttin hesed maa haa e ɓe anndu maa, e knitdol maa haa e laaɓtuɓe ⟨tiɗɓe⟩ ɓernde.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "duttin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "haa e ɓe anndu maa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "e knitdol maa"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "haa e laaɓtuɓe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.122461466Z",
+  "model": "glm-5.3"
+}

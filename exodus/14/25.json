@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O ittiniri ⟨את⟩ weere kooje ɗen, o ardinani ɗum en e teddinnde mawnde, Misrayim en nden wi'i: “Duuwurmin gonndo e yeeso Israa'iil, tawa Yaawe haɓata e maɓɓe fii Misrayim.”",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "o ittiniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weere kooje ɗen"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "weere"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "kooje ɗen makko"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "o ardinani ɗum en"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "e teddinnde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim en"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "a duuwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gonndo e yeeso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "haɓata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe fii"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:46.338172637Z",
+  "model": "glm-5.3"
+}

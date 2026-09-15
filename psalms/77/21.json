@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "A ardii yimɓe maa ɗen no pañoŋ nii, e junngo Muusaa e Haaruna.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "A ardii"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "no pañoŋ nii"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa ɗen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Haaruna"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:15.575001079Z",
+  "model": "glm-5.3"
+}

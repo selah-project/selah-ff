@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Wonaa si hono no mi waɗiri Shomron e laaɓe mum ɗen, nindo mbaɗan Yerushalayim e panteenaji mum ɗen?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wonaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗiri"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "e laaɓe mum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nindo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mbaɗan"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "e panteenaji mum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:14:14.188455862Z",
+  "model": "glm-5.3"
+}

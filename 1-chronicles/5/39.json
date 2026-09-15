@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Shallum danyi ⟨את⟩ Chilkiyahun, Chilkiyahun danyi ⟨את⟩ Azaarayahun.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkiyahun"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkiyahun"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Chilkiyahun"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaarayahun"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaarayahun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:42.544986118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Yintere maa ngahrii e am; kule maa ɗen momtii am.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngahrii"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "yintere maa"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "kule maa ɗen"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "momtii am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:16.734243641Z",
+  "model": "glm-5.3"
+}

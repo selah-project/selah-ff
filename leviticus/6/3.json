@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Zerbiijo on ɓoorno jakket linndu makko, e kuloŋ linndu o ɓoornoto dow ɓernde makko; o ƴettay ⟨את⟩ huɗo ɓuuɓɗo ngol yiite njiɗi ⟨את⟩ olah dow jaŋre ndee, o waɗa ɗum sara jaŋre ndee.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "ɓoorno"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Zerbiijo on"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "jakket makko"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linndu"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "e kuloŋ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linndu"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "o ɓoornoto"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓernde makko"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "o ƴettay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huɗo ɓuuɓɗo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "huɗo ɓuuɓɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "njiɗi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite ndee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋre ndee"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "o waɗa ɗum"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaŋre ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:23.040785112Z",
+  "model": "glm-5.3"
+}

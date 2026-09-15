@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Efrayim — no colo nii teddungal maɓɓe fawayta; ⟨wonaa⟩ jibinannde, ⟨wonaa⟩ reedu, ⟨wonaa⟩ reedu-ɓeydugol.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "no colo nii"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "fawayta"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "teddungal maɓɓe"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "e reedu"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "e reedu-ɓeydugol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:49.386345640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yiirit e bonnde, waɗ moƴƴere; ɗaɓɓit jam, e dewna ɗum.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Yiirit"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "e bonnde"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "waɗ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ɗaɓɓit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "e dewna ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:32.432525368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Gila nde mi yaltini ⟨את⟩ ɓiɓɓe Israa'iil e Misrayim haa hannde, mi jooɗaani nder suudu; ko e nder teendu e nder pallare mi wirninta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gila nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-aani"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "mi jooɗa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "gila ñalnde"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "mi yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngoo \/ hannde"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "mi wirninta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e nder teendu"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "e nder pallare"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:46.032284972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Bendu ɓernde am feewde seedeeje maa, wanaa feewde njogori nganjiri.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Bendu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "seedeeje maa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa feewde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nganjiri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:31.562356874Z",
+  "model": "glm-5.3"
+}

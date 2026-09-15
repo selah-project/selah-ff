@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ndeen a wi'ata: yah, wi' joomi maa: ƴeewo, Eliyahu wonii ɗoo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a wi'ata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "joomi maa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeewo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu wonii ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:02.417679150Z",
+  "model": "glm-5.3"
+}

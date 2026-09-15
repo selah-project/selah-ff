@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Wuuɓru hade maa dow leƴƴi ɗen ɓe anndaali maa, e dow laamuuji ɗen ɓe noddiraali e innde maa.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wuuɓru"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "hade maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "anndaali maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamuuji ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "e innde maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "noddiraali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:57.902740911Z",
+  "model": "glm-5.3"
+}

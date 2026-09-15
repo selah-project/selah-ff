@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Welɗe wonɓe ɓe peccata kuugePermission: kuuge aawɗi hiisi, ɓe winndooɓe saɗre hiisa, ɓe winndi.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "welɗe"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "wonɓe ɓe peccata kuuge"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "kuuge aawɗi hiisi"
+    },
+    {
+      "surface": "און",
+      "gloss": "aawɗi"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ɓe winndooɓe saɗre"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "saɗre"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ɓe winndi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:11.179895707Z",
+  "model": "glm-5.3"
+}

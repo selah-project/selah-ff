@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Ɓernde am dartiima, Eloohim; ɓernde am dartiima; miɗo yima, miɗo yetta.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "dartiima"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "dartiima"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "miɗo yima"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "miɗo yetta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:43.528392366Z",
+  "model": "glm-5.3"
+}

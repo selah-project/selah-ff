@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Kono si on nanñaali minen fii sunngoode, min njabbitii ⟨את⟩ ɓiɗɗo debbo amen nden, min njahii.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñaawataa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "on nanñaali"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "fii sunngoode"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "min njabbitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo debbo amen nden"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ɓiɗɗo debbo amen nden"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "min njahii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:50.393209136Z",
+  "model": "glm-5.3"
+}

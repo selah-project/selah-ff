@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Bur junngo bonɗo on e bonɗo mawɗo; ɗaɓɓu bonannde mun haa so hendataa.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "bur"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "e bonɗo mawɗo"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ɗaɓɓu"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "bonannde mun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "so"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "hendataa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:01.898418971Z",
+  "model": "glm-5.3"
+}

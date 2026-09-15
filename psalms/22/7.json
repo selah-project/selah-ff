@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono ko mi woni boru, wanaa gorko; hoyre yimɓe, ko woppitaa-ɗen e yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kono ko mi woni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "boru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "hoyre"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ko woppitaa-ɗen e"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:46.671498705Z",
+  "model": "glm-5.3"
+}

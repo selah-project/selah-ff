@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Eloohim hawri e Bilam, o wi'i ⟨mo⟩: ⟨את⟩ jeeɗiɗi jaɓɓe ɗen mi lurdiri, mi ƴelliti nagge e werla e jaɓɓere.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "hawri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeeɗiɗi jaɓɓe ɗen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "jaɓɓe ɗen"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "mi lurdiri"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "mi ƴelliti"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "werla"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "e jaɓɓere"
+    }
+  ],
+  "timestamp": "2026-09-14T11:44:18.724918266Z",
+  "model": "glm-5.3"
+}

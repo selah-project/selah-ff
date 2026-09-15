@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Nde o wi'i ɓe: Ndeen kaalata Yaawe, Eloohim Israayil, wi'on: Onon neɗɗo on nulu ⟨את⟩ onon mo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Nde o wi'i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kaalata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayil"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "wi'on"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "Onon neɗɗo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nulu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ onon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:17.729106848Z",
+  "model": "glm-5.3"
+}

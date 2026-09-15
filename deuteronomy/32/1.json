@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ɗeɗoo nanngorɗe, kammuuli ɗin, miɗo haala; leydi ndin nanngo konngi ɗin gonɗi e haala am.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "ɗeɗoo nanngorɗe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "miɗo haala"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "nanngo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "e haala am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:28.381461517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Chanok yahdi e ⟨את⟩ Eloohim ɓaawo dañde ⟨את⟩ Metushelah duuɓi teemerre tati, o dañi ɓiɓɓe worɓe e rewɓe.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "yahdi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "e ⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dañde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemerre"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:34.731211270Z",
+  "model": "glm-5.3"
+}

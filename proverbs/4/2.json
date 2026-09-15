@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Fii mi ndokkii on janngirɗe moƴƴe; laawol am wata ngodton.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "janngirɗe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi ndokkii"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ngodton"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:37.513453742Z",
+  "model": "glm-5.3"
+}

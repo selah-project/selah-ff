@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yi'e am ɗuum ɓooyata, mbaray ⟨את⟩ on e balɗe; rewɓe mon laataay deeɓuɓe, ɓiɓɓe mon laataay muumɓe.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ɗuum ɓooyata"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "yi'e am"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "mbaray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e balɗe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "rewɓe mon"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "deeɓuɓe"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "e ɓiɓɓe mon"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "muumɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:24.105632723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ɗoon mi woni no njoɓɓeri inde nii; no lewru e laawol mi ɗaɓɓita ɓe.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mi woni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "njoɓɓeri inde"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "no lewru"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ɗaɓɓita ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:46.572118095Z",
+  "model": "glm-5.3"
+}

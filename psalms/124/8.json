@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 124,
+  "translation": "Ballal munu ko e innde Yaawe, tagoowo kammuuli e leydi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ballal munu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagoowo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:33.733964527Z",
+  "model": "glm-5.3"
+}

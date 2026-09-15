@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓiɓɓe Cham ɗin: Kush, e Misrayim, e Put, e Kena'an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "e Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "e Kena'an"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:25.409761754Z",
+  "model": "glm-5.3"
+}

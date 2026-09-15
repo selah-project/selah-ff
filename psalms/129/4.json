@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "Yaawe ko ⟨Jackuɗo⟩; o taƴii ɗogɗe bonɗoɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨Jackuɗo⟩"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "o taƴii"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ɗogɗe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɗoɓe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:10.263694076Z",
+  "model": "glm-5.3"
+}

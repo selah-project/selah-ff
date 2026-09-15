@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ko honno wii-daa 'debbo am debbo' ndeen mi jogori naatnude ⟨את⟩ mo e am e debbo? Jooni, ƴeew, debbo maaɗa, ƴettu mo yah.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wii-daa"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "'debbo am debbo'"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "woni"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mi jogori naatnude"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "e debbo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Jooni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "debbo maaɗa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "yah"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:20.155938622Z",
+  "model": "glm-5.3"
+}

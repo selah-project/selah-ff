@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kanko wonaa-joo-mi ƴettuɗo ɓernde mun feewde konngol Yaawe, o acci ⟨את⟩ maccuɓe mun e ⟨את⟩ dañi mun (layngal) e nder ladde.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kanko wonaa-joo-mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ƴettii"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɓe mun"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dañi mun"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "dañi mun (layngal)"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e nder ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:03.713038029Z",
+  "model": "glm-5.3"
+}

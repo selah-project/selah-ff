@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mi wi'i e malaa'ika on haalooɗo e am: hol to ɓe ngaddi ⟨את⟩ efahaa on?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaa'ika on"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "haalooɗo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hol to"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ngaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efahaa on"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efahaa on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:50.469055633Z",
+  "model": "glm-5.3"
+}

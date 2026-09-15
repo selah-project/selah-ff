@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Moshe e Aharonen nanngi ⟨את⟩ ɓee rewɓe ɗoo, ɓe noddiraa e inɗe mum en.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharonen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓee rewɓe ɗoo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ɓee rewɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "noddiraa"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "e inɗe mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:53.933720850Z",
+  "model": "glm-5.3"
+}

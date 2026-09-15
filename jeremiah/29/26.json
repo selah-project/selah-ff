@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 29:26",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Yaawe waɗii on dewo lomto Yehoyada dewo on, ngam wakkatiike hooreeɓe nder suudu Yaawe fii kala neɗɗo wumɗo annabiijo; ndaran ⟨את⟩ mo e nder mahpekhet e nder tsinok.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "waɗii on"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "dewo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lomto"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "dewo on"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wakkatiike"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "hooreeɓe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "wumɗo"
+    },
+    {
+      "surface": "ומתנבא",
+      "gloss": "annabiijo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ndaran"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "mahpekhet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הצינק",
+      "gloss": "tsinok"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:11.678263146Z",
+  "model": "glm-5.3"
+}

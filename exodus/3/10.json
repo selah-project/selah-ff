@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E jooni, aru, mi neldata a to Fir'awna, yaltin ⟨את⟩ yimɓe am ɓiɓɓe Yisraa'el e Misrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e jooni"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "aru"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "mi neldata a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:13.854015479Z",
+  "model": "glm-5.3"
+}

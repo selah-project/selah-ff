@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "E ɓural miijooji am nder ɓernde am, moyyingol maa ina weltina neefsaa am.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "miijooji am"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nder ɓernde am"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "moyyingol maa"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "ina weltina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefsaa am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:21.126650952Z",
+  "model": "glm-5.3"
+}

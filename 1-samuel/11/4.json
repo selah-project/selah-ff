@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nulaaɓe ɓee arii Gibah Sha'ul, ɓe haalani yimɓe ɓee kelme ɗee e nanngu mun; yimɓe ɓee fuu ɓe ngalli ⟨את⟩ daande mun, ɓe kaasi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓee arii"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "Nulaaɓe"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe haalani"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "kelme ɗee"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "e nanngu mun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ɓe ngalli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande mun"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ɓe kaasi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:59.819373250Z",
+  "model": "glm-5.3"
+}

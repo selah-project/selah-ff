@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "E dow maayoje Baabel ɗon min njooɗii, kadi min eebi, tuma minen ciftortoo ⟨את⟩ Siiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "maayoje"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "min njooɗii"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "min eebi"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "tuma minen ciftortoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siiyon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:16.726432962Z",
+  "model": "glm-5.3"
+}

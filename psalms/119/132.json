@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Wartu faade e am, foftere am, no nde waɗirta ɓe yiɗɓe innde maa.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wartu faade"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "foftere am"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "no ... waɗirta (aada)"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ɓe yiɗɓe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:39.641145367Z",
+  "model": "glm-5.3"
+}

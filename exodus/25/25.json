@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Waɗan ɗum paneere palmeere goote, taƴoode laawol; waɗan ɗum ɗoo heen ɗiire njamɗam ngam paneere mum nden, taƴoode laawol.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "paneere"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "palmeere goote"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taƴoode laawol"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ɗiire"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njamɗam"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "ngam paneere mum nden"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taƴoode laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:08.038536794Z",
+  "model": "glm-5.3"
+}

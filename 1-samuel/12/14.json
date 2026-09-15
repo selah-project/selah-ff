@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Si njiyliɗon Yaawe ⟨את⟩, on gollu ⟨את⟩ mo, on nanɗo daande makko, on muɓɓa yeddude ⟨את⟩ haala Yaawe, on wona — on kadi e laamɗo on laamuɗo on — ɓaawo Yaawe Eloohim mon.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "njiyliɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "on gollu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "on nanɗo"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "on muɓɓa"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "yeddude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "on wona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e kadi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamuɗo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:45.534757111Z",
+  "model": "glm-5.3"
+}

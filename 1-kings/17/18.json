@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "O wi'i Eliyaahu: ko woodi hakkunde am e maa, a gorko Eloohim? A arii e am ngam waajinde ⟨את⟩ bonndu am, e warde ⟨את⟩ ɓiɗɗo am?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woodi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a gorko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "A arii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ngam waajinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonndu am"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "bonndu am"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "e warde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:06.189286248Z",
+  "model": "glm-5.3"
+}

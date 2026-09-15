@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kaahen on ɗon ɗuŋkita ⟨את⟩ ɗum fii bakkondiral, o ñaamata ɗum; e nokku cesuɗo ɗum ñametee, e wodru tedde njammaaku kawral ngal.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kaahen on"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ɗon ɗuŋkita fii bakkondiral"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (sadak ngol)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "o ñaamata ɗum"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cesuɗo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ɗum ñametee"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "e wodru"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tedde"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "njammaaku kawral"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:47.209324119Z",
+  "model": "glm-5.3"
+}

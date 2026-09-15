@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E sahaa on min adda ⟨את⟩ onon, e sahaa min dewayta ⟨את⟩ on; fii min ndokka ⟨את⟩ on innde e yettoode e nder yimɓe leydi ndin fuu, tawa min artirta ⟨את⟩ dorŋagol mon yeeso gite mon, wi'i Yaawe.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "min adda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "onon"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "min dewayta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "onon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "min ndokka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "onon"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "e yettoode"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "tawa min artirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dorŋagol mon"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "dorŋagol mon"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "yeeso gite mon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-15T05:54:18.075646143Z",
+  "model": "glm-5.3"
+}

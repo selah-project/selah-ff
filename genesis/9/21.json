@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "O naaɓi e wayway ngol, o maayii e yarde, o wirnii hoore mun e nder tomaaku mun.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "o naaɓi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wayway ngol"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "o maayii e yarde"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "o wirnii hoore mun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "tomaaku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:34.671192629Z",
+  "model": "glm-5.3"
+}

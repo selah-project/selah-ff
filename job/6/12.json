@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "So tawii doole am ko doole kaaye? Walla ƴiiƴam am ko njamndi?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "So tawii"
+    },
+    {
+      "surface": "כח",
+      "gloss": "doole"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kaaye"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "doole am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Walla"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ƴiiƴam am"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:39.663106381Z",
+  "model": "glm-5.3"
+}

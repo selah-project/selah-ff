@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "O wamri ⟨את⟩ nelaaɗo on wata o wi'a: so a gasii haalde ⟨את⟩ konngi leydi kon ɗin fof e laamɗo on",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o wamri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelaaɗo on"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "nelaaɗo on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wata o wi'a"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "so a gasii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi leydi kon ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "leydi kon ndin"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:26.188682442Z",
+  "model": "glm-5.3"
+}

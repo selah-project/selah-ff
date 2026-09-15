@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Mo fiyi Misrayim e ɓiɗɓe mum mawɓe, ko hesed mun duimata haa duumi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Mo fiyi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "e ɓiɗɓe mum mawɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun duimata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:30.085800449Z",
+  "model": "glm-5.3"
+}

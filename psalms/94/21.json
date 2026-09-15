@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Ɓe kawri ɗen duuma dow kanu ñaawoowo on, ɓe ñaawana ƴiiƴam laaɓɗam bonnde.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "ɓe kawri ɗen duuma"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kanu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ñaawoowo on"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "e ƴiiƴam"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "laaɓɗam"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ɓe ñaawana bonnde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:03.919456508Z",
+  "model": "glm-5.3"
+}

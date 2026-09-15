@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ɓe nanndaali, ɓe ndiɗɗiniraali ⟨את⟩ parce maɓɓe, ɓe daaƴi ⟨את⟩ duŋe maɓɓe, fii ɓe nanataa, e fii ɓe jaɓataa jannginirgel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ɓe nanndaali, (wanaa)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanndaali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ndiɗɗiniraali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parce maɓɓe"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "parce maɓɓe"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ɓe daaƴi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duŋe maɓɓe"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "duŋe maɓɓe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fii ɓe nanataa"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "nanataa"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "e fii ɓe jaɓataa"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "jaɓataa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "jannginirgel"
+    }
+  ],
+  "timestamp": "2026-09-15T07:05:21.127216647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Pindor ⟨את⟩ ɗum pec, ɗuummtir nebam dow magge — ko mballa woni.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "pindor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (pec ɗen)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "pec"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ɗuummtir"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dow magge"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nebam"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mballa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ... woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:24.715473732Z",
+  "model": "glm-5.3"
+}

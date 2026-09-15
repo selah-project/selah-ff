@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Israa'iimaɓe fof naatii e Pelishtinaaɓe ɓee, neɗɗo kala ngam ɓuuɓnude ⟨את⟩ palaas mun, e ⟨את⟩ kuutorɗe ɓuuɓnirɗe mun, e ⟨את⟩ teemerre mun, e ⟨את⟩ kuutorɗe laylaytol mun.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "naatii e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iimaɓe"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelishtinaaɓe ɓee"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ngam ɓuuɓnude"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palaas mun"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "palaas mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe ɓuuɓnirɗe mun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kuutorɗe ɓuuɓnirɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "teemerre mun"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "teemerre mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe laylaytol mun"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "kuutorɗe laylaytol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:42.065343230Z",
+  "model": "glm-5.3"
+}

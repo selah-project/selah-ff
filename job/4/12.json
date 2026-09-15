@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Konngol naatnanaama am e cuuɗol, nokku heeru, e duume am nanrii coktirgel mum.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "naatnanaama e cuuɗol"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "nanrii"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "duume am"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "coktirgel"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:05:48.857036787Z",
+  "model": "glm-5.3"
+}

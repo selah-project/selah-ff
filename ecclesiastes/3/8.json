@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Waktu ngam moƴƴinde, e waktu ngam bonnude ɓernde; waktu konu, e waktu jam.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ngam moƴƴinde"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ngam bonnude ɓernde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "waktu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e waktu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:18.061486576Z",
+  "model": "glm-5.3"
+}

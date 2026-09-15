@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ñamlu ɗen nji'u wonde Yaawe moƴƴu; maggorɗe gorko mo eggortoo e makko.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ñamlu"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ɗen nji'u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "maggorɗe"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "eggortoo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:19.908466898Z",
+  "model": "glm-5.3"
+}

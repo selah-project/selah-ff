@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sabu meerɗo ummitotaako e nder leydi ndin; sabu ɗuum mi yamiraa ma, ko wiyde: Aadan uddit ⟨את⟩ junngo maa to mawniiko maa, to ŋakkiraaɗo maa, e to meerɗo maa, e leydi maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ummitotaako"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "meerɗo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yamiraa ma"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ko wiyde"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aadan uddit-"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "-uddit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo maa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "to mawniiko maa"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "to ŋakkiraaɗo maa"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "e to meerɗo maa"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "e leydi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:49:52.058087295Z",
+  "model": "glm-5.3"
+}

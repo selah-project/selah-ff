@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi a, Yaawe Tseva'ot, ñaawuɗo peewugol, ƴeewtuɗo ƴiiƴam nder e ɓernde, hay miy yiya njiɓu maa dow mun; sabu to a min udditi ⟨את⟩ ñaawoore am.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Kadi a, Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tseva'ot"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ñaawuɗo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "peewugol"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "ƴeewtuɗo"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "ƴiiƴam nder"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "e ɓernde"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "miy yiya"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "njiɓu maa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "dow mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to a"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "mi udditi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore am"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ñaawoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:09:32.593597261Z",
+  "model": "glm-5.3"
+}

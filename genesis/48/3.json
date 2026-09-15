@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Yaquba wi'i Yuusufa: \"Eel Shadday feeñii e am to Luus, e leydi Kenaana, o barkini ⟨את⟩ lam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaquba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "feeñii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "to Luus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o barkini"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ lam",
+      "marks": "lam (mi)"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:40.774451256Z",
+  "model": "glm-5.3"
+}

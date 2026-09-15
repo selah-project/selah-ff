@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Wata woodu mo tuubata ⟨hesed⟩ faade e makko; wata woodu mo yurmine ene mooyi hebde",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "woodu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tuubata"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "⟨hesed⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "woodu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "mo yurmine"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "mooyi hebde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:50.433765053Z",
+  "model": "glm-5.3"
+}

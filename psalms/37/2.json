@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Woodani no huɗo nɗi ɓe taƴee ɗoon e ɗoon, no purɗe ceene ɗen ɓe muusi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "woodani"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "no huɗo nɗi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ɗoon e ɗoon"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ɓe taƴee"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "no purɗe ceene ɗen"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ceene"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ɓe muusi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:49.486277046Z",
+  "model": "glm-5.3"
+}

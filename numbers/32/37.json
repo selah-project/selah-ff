@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ɓiɓɓe Ruben ngari ndewni ⟨את⟩ Cheshbon e ⟨את⟩ Elale e ⟨את⟩ Kiryataayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ndewni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kiryataayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:49:05.269398735Z",
+  "model": "glm-5.3"
+}

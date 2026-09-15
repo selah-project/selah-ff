@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Nji'uɗo ɗin ndaddani ⟨את⟩ jeygol altaral ngal ñalnde nde ⟨את⟩ ndaddan-ɗum, nji'uɗo ɗen ndaddani ⟨את⟩ dokkal maɓɓe yeeso altaral ngal.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ndaddani"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "nji'uɗo ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeygol altaral ngal"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "jeygol"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaral ngal"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde nde"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ndaddan-ɗum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "altaral ngal"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ndaddani"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "nji'uɗo ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal maɓɓe"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "dokkal maɓɓe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaral ngal"
+    }
+  ],
+  "timestamp": "2026-09-15T07:07:10.241277105Z",
+  "model": "glm-5.3"
+}

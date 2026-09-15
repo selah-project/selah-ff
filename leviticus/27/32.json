@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kala maasaru jawdi na'i e be'i — kala ko yahata les ƴi'e ɗen — wonata ko jeegaɓo, ⟨ko⟩ laaɓal teddungal fii Yaawe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "maasaru"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jawdi na'i"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e be'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ƴi'e ɗen"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "jeegaɓo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "laaɓal teddungal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:34.019610484Z",
+  "model": "glm-5.3"
+}

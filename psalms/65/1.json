@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Fii ardotooɗo on — mizmor, fii Daviida, yimre.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii ardotooɗo on"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daviida"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:31.492302651Z",
+  "model": "glm-5.3"
+}

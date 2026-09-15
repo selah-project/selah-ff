@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shelomo winnditini mo ⟨את⟩ kelme makko den fuu; kelme walaa cuuɗaama e laamɗo on, ko o winnditinaani mo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "winnditini"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelme makko den fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "den fuu"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "kelme makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelme"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "cuuɗaama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "winnditinaani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:08.429431918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O ɓuuɓnani maɓɓe manna ngam ñaamde, o rokki ɓe gawri kammuuli.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "o ɓuuɓnani"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "e gawri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:45.079720897Z",
+  "model": "glm-5.3"
+}

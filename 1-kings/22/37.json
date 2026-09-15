@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Laamɗo on maayi, ⟨o⟩ naati Shomeron, ɓe ngeddini ⟨את⟩ laamɗo on to Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe ngeddini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "to Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-14T07:25:37.913172432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Mi yettoto Yaawe no feewi e haala am, kono e nder yimɓe heewɓe mi yettintoo mo.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "mi yettoto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haala am"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "kono e nder"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "yimɓe heewɓe"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "mi yettintoo mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:31.013485254Z",
+  "model": "glm-5.3"
+}

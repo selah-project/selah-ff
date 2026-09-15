@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Jooɗorde maa e yaltunde maa e naatnde maa, mi anndi; e ⟨את⟩ humbuggere maa e am.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "jooɗorde maa"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "yaltunde maa"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "naatnde maa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "humbuggere maa"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "humbuggere maa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:14.171674195Z",
+  "model": "glm-5.3"
+}

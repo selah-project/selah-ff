@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Sabu leydi ndi a naatata ɗoon ngam roni nde, wanaa no leydi Misrayim nii — nden woni nde yaltuɗon ɗoon — ɗo a puddoto ⟨את⟩ puddi maa, neldaa ndiyam e koyngal maa, hono jarde legume.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ngam roni nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "hono no leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "woni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "yaltuɗon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "puddoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puddi maa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "puddi maa"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "neldaa ndiyam"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "e koyngal maa"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "hono jarde"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "legume"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:39.760747347Z",
+  "model": "glm-5.3"
+}

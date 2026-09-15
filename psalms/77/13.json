@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Mi miijan kadi golle maa ɗen fuu, e peeje maa ɗen mi haalan hoore am.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "mi miijan kadi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ɗen fuu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "golle maa"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "e peeje maa ɗen"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mi haalan hoore am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.333805018Z",
+  "model": "glm-5.3"
+}

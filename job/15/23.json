@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O dimgoo ñaamde — ɗo woni? O anndi wonde ñalnde niɓe ⟨haa⟩ ina darori e junnde mun.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "o dimgoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "fii ñaamde"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ɗo woni?"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "o anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ina darori"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junnde mun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:11:09.832383734Z",
+  "model": "glm-5.3"
+}

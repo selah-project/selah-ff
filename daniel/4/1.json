@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mi, Nebukadnesar, mi wonii dimma e nder suudu am, mi ɓuri waawde heewde e nder ɓuuɓri am.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "wonii dimma"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "mi wonii"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "e nder suudu am"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "mi ɓuri waawde heewde"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "e nder ɓuuɓri am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:36:33.460005258Z",
+  "model": "glm-5.3"
+}

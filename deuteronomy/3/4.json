@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Min nanngi ⟨את⟩ cuuɗi mun fuu e sahaa nden; alaa wuro wonndu ngal min ƴettaa e ⟨את⟩ mum en; cuuɗi cappanjee jeegom, diiwaan Argob fuu, laamu Og e Baashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "min nanngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuuɗi mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "cuuɗi mun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e sahaa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨wonndu⟩"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ƴettaa"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "min ƴetti"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "e ⟨את⟩ mum en"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "cappanjee jeegom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "diiwaan"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "e Baashan"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:48.060592330Z",
+  "model": "glm-5.3"
+}

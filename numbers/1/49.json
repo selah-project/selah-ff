@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono aaya ⟨את⟩ leñol ⟨את⟩ Lewi a ƴamiraa limtude, e hoore mun ɓen a ƴamiraa hoɓtude, hakkunde ɓiɓɓe Israya'il.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono (aaya)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol Lewi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ƴamiraa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "limtude"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoore mun ɓen"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hoore mun ɓen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ƴamiraa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hoɓtude"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'il"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:02.183178819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Lot suɓii hoore mun ⟨את⟩ daande Yarden nden fuu, o ummii; ɓe seerndi, worbo woppunoo gaŋgurum mun.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "suɓii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande Yarden nden fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden nden"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "e fuɗnaange"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "ɓe seerndi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worbo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "woppunoo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "gaŋgurum mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:12.010483447Z",
+  "model": "glm-5.3"
+}

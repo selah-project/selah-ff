@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Yo ɓiɓɓe Abraham, jeyaaɗo mun, ɓiɓɓe Yaakuuba, suɓaaɓe mun!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jeyaaɗo mun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "suɓaaɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:26.212855502Z",
+  "model": "glm-5.3"
+}

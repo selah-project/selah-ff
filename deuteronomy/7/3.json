@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wata on ceerno-wirna e maɓɓe: ɓiɗɗu maa debbo wata a ndokku ɓiɗɗo mum gorko, e ɓiɗɗo mum debbo wata a jogoto ɓiɗɗo maa gorko.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "a ceerno-wirna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ɓiɗɗu maa debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "a ndokku"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ɓiɗɗo mum gorko"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "e ɓiɗɗo mum debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a jogoto"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ɓiɗɗo maa gorko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:39.402319962Z",
+  "model": "glm-5.3"
+}

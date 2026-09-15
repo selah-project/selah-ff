@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen lewru jeeɗaɓuru nden ari, ɓiɓɓe Yisraayel ngoni ko e gure ɗen, yimɓe ɓen kawri no neɗɗo gooto nii to Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ari"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lewru nden"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jeeɗaɓuru"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "e gure"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "no neɗɗo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "goto nii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T10:42:32.923623609Z",
+  "model": "glm-5.3"
+}

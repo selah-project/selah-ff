@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kadi tawa wumɗo on yahata laawol ngol, hakkilannde mun ŋakka, o hollita kala neɗɗo wonde wumɗo ko kanko.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi tawa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "no wumɗo on"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hakkilannde mun"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ŋakka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "o hollita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "wumɗo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:26.558267777Z",
+  "model": "glm-5.3"
+}

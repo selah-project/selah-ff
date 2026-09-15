@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Pele ɗen ko ƴeewitorɗe maa; sabu ɗuum neefu am reeni ɗen.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "pele"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ƴeewitorɗe maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu (dow)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "reeni ɗen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:39.640533900Z",
+  "model": "glm-5.3"
+}

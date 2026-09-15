@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Mujji mun ruttata e hoore mun, e dow kaafaaji mun tooñgol mun jippoto.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ruttata"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mujji mun"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "kaafaaji mun"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "tooñgol mun"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "jippoto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:37.864397647Z",
+  "model": "glm-5.3"
+}

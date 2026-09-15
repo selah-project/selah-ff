@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Awraham sujjii yeeso yimɓe leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "sujjii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:40.772677869Z",
+  "model": "glm-5.3"
+}

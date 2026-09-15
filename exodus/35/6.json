@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "E ñeeñre boɗeejo-rendu (tekelet), e ñeeñre ɓurɗe (argamaan), e ñeeñre boɗeejo-boɗeejo (toola'at shanii), e ñeeñre laaɓunde (shesh), e wuttude pucci be'i.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "e ñeeñre boɗeejo-rendu (tekelet)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "e ñeeñre ɓurɗe (argamaan)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "e ñeeñre (toola'at)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "boɗeejo-boɗeejo (shanii)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e ñeeñre laaɓunde (shesh)"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "e wuttude pucci be'i"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:57.367416247Z",
+  "model": "glm-5.3"
+}

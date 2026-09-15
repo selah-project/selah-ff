@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yaawe haali e Muusaa: “Yah, a hoƴo, sabu yimɓe maa ɓe meeɗtinii, ɗi cemmbinii leydi Misrayim ɗon,”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ahoƴo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ɓemeeɗtinii"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa ɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "cemmbinii"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:06.985525815Z",
+  "model": "glm-5.3"
+}

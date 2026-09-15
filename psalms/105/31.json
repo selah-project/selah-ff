@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "O wiyunoo, e ɓuuɓnugol yani, e wurduuji e keeri maɓɓe fuu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "O wiyunoo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yani"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ɓuuɓnugol"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "wurduuji"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "keeri maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.248667015Z",
+  "model": "glm-5.3"
+}

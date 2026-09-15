@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "«So a gollinoo ⟨את⟩ leydi ndin, nden addataa ko woodi teddungal mun fii maa; a laataay wuurɗo-diwoowo e diwoowo kaŋke e nder leydi ndin.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "a gollinoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "adataa ko woodi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "addataa"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "teddugal mun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "נע",
+      "gloss": "wuurɗo-diwoowo"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "e diwoowo kaŋke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "a laataay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:28.319604092Z",
+  "model": "glm-5.3"
+}

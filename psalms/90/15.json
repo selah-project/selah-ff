@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Weli min no ñalawe ɗen njoɓɓi ɗen njoɓɓi min njeñte ɗen min yi'i bone.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Weli min"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "no ñalawe ɗen"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "njoɓɓi ɗen min"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "njeñte ɗen"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "min yi'i"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:50.174265372Z",
+  "model": "glm-5.3"
+}

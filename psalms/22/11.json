@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Hoɗo e maa nde mi wurtinaa e reedu, e nder reedu yumma am aan wonii Eel am.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Hoɗo e maa"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "nde mi wurtinaa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "e reedu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "e nder reedu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan wonii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:58.321533461Z",
+  "model": "glm-5.3"
+}

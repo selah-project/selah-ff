@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe ndarni ⟨את⟩ coktirɗe mun e suudu ilaaɓe maɓɓe, ɓe ɗaɓɓiti ⟨את⟩ ƴiiƴam-hoore mun e suudu Daagom.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ɓe ndarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "coktirɗe mun"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "coktirɗe mun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilaaɓe maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiiƴam-hoore mun"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "ƴiiƴam-hoore mun"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ɓe ɗaɓɓiti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Daagom"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:07.369597187Z",
+  "model": "glm-5.3"
+}

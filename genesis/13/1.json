@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Awbraam yahi dow mum Misrayim, ko kanko e debbo mun e ko fuu no mun woni, e Luut e makko, feewde e neggev.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yihi dow"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awbraam"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo mun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e ko fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun woni"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "e Luut"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "feewde e neggev"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:05.950749826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Si muntooɗo maa ina hebi baasgol, wuddu mo inee; si kadi o yoori, wuddu mo ndiyam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hebi baasgol"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "muntooɗo maa"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "wuddu mo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inee"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "si kadi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "o yoori"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "wuddu mo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T12:52:05.648342632Z",
+  "model": "glm-5.3"
+}

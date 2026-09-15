@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: “Timbu, Adonaay, neldu naa e junngo ɗum mo neldata.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Timbu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "neldata"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:36.690531432Z",
+  "model": "glm-5.3"
+}

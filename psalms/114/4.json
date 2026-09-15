@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 114,
+  "translation": "Pucci ɗii diwtinii no be'i nii, kammuuli tokoosi no noon-i dorri nii.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Pucci ɗii"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "diwtinii"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "no be'i nii"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kammuuli tokoosi"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "no ... ɓiɓɓe nii"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dorri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:30.611068188Z",
+  "model": "glm-5.3"
+}

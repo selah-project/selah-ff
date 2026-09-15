@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Noowa woni ɓiɗɗo duuɓi teemedaje joyo; Noowa jibini ⟨את⟩ Sheem, ⟨את⟩ Ham e ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "woni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noowa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "joyo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedaje"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sheem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:37.414922308Z",
+  "model": "glm-5.3"
+}

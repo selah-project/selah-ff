@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Nde mi timminirta ⟨את⟩ munƴere am nden dow kiiru ngun, e dow ɓe pawɗi ɗum ⟨את⟩ e puuro tastiingo, maa mi wi'u on: kiiru ngun alaa, ɓe pawɗi ɗum ⟨את⟩ kadi alaa.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "mi timminirta munƴere am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munƴere am (e ɗemngal Fulfulde: kosam munƴere am)"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "munƴere am"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "dow kiiru"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "e dow ɓe pawɗi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (kiiru ngun)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "puuro tastiingo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "maa mi wi'u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "kiiru ngun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kadi alaa"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "ɓe pawɗi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (kiiru ngun, e nder baytu ɗiɗaɓu)"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:33.884231653Z",
+  "model": "glm-5.3"
+}

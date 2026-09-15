@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Adonaay, laaŋtu ɗum, feccu ɗemgal maɓɓe; gorko mi yi'i ⟨e⟩ bonannde e mbootere wuro ngol.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "laaŋtu ɗum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "feccu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ɗemgal maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "e mbootere"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "wuro ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:48.161986335Z",
+  "model": "glm-5.3"
+}

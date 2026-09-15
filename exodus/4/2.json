@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe wi'i mo: “Ko honɗum ngol e junngo maa?” O wi'i: “Palndu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ko honɗum"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "palndu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:40.219310671Z",
+  "model": "glm-5.3"
+}

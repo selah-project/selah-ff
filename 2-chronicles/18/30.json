@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Laamɗo Araam kadi yamiri ⟨את⟩ ardoobe rechem ɓen ɓe o mari, yo wi'a: “Wata on haɓa e ⟨את⟩ ɓurɗo famɗude walla ⟨את⟩ ɓurɗo mawnude, si wonaa ⟨את⟩ laamɗo Israa'iil tan.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Araam"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardoobe rechem"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardoobe"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "rechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓen ɓe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o mari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "yo wi'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "on haɓa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓurɗo famɗude"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ɓurɗo famɗude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓurɗo mawnude"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ɓurɗo mawnude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si wonaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo Israa'iil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "tan"
+    }
+  ],
+  "timestamp": "2026-09-14T11:18:09.048179452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 100,
+  "translation": "Sabuude Yaawe moƴƴo ⟨ko⟩; hesed mun heddoto haa duume, e gootel iwngol e gootel iwngol goongɗingol mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabuude"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duume"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e"
+    },
+    {
+      "surface": "דר",
+      "gloss": "gootel iwngol"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "e gootel iwngol"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "goongɗingol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:18.400801391Z",
+  "model": "glm-5.3"
+}

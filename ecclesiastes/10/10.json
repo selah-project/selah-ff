@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Si njamri ndi wanaa ɓoŋnginaande, te luural wanaa ɓoŋnginaa, hakkile mbaɗetee heen ɓeydude; kono hakilo woni ko nafata heɓde moƴƴere.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "wanaa ɓoŋnginaande"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "njamri ndi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "luural"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ɓoŋnginaa"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "hakkile"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "mbaɗetee heen ɓeydude"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ko nafata"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "heɓde moƴƴere"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakilo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:51.476183284Z",
+  "model": "glm-5.3"
+}

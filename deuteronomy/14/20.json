@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Colli laaɓuɗi fuu ñaamotee.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓuɗi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamotee"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:23.624628613Z",
+  "model": "glm-5.3"
+}

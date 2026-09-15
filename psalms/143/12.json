@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "E hesed maa momtaw pawe am, e hel fuu ɓe muñɗinɗi neesfu am, sabu mi woni golloo maa.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "e hesed maa"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "momtaw"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "pawe am"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "e hel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ɓe muñɗinɗi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neesfu am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "golloo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:58.949735702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mi taƴay gure leydi maa ɗen, mi yanay mahdiiji kisnirɗi maa ɗii fof.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "mi taƴay"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "mi yanay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ɗii fof"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "mahdiiji kisnirɗi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:27.604774534Z",
+  "model": "glm-5.3"
+}

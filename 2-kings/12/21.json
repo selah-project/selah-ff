@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ndeen jeyaaɓe makko on ummi, ɓe fuɗɗii wuddere, ɓe fiyi ⟨את⟩ Yowash e nder suudu Millo, nden wonndi e laawol jippotoongol haa Sila.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko on"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ɓe fuɗɗii wuddere"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "jippotoongol"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-14T07:32:34.732538457Z",
+  "model": "glm-5.3"
+}

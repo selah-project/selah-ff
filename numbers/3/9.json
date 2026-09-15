@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "A e nden tin ndokka ⟨את⟩ Lewiyim ɗen fii Aharon e fii ɓiɓɓe mun; neddanaama, neddanaama, kamɓe ⟨ndokkaama⟩ mo, ummaade e ⟨את⟩ ɓiɓɓe Israayiil.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "a e nden tin ndokka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewiyim ɗen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyim ɗen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e fii ɓiɓɓe mun"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "neddanaama"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "neddanaama"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:37.424073461Z",
+  "model": "glm-5.3"
+}

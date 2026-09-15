@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Wata on ƴeewtoo ⟨את⟩ Yaawe Eloohim mon, no on ƴeewtiri ɗum to Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "on ƴeewtoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim mon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "on ƴeewtiri ɗum"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "to Massa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:02.447213131Z",
+  "model": "glm-5.3"
+}

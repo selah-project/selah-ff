@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kono ko hommbo darii e suudu-sirri Yaawe, o yi'i, o nano ⟨את⟩ konngol Makko ngol? Ko hommbo tuggetii nanngo e konngi Am, o nano?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "e suudu-sirri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol Makko ngol"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol Makko ngol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "tuggetii nanngo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "e konngi Am"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "o nano"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:50.507489175Z",
+  "model": "glm-5.3"
+}

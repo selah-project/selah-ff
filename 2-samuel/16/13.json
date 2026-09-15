@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Dawuudi e worɓe makko faami laawol ngol, kono Shiimayi yahata ko e heddere tulde nden, faade makko, yaha-yaha o ñaagata, o waddata kaaƴe faade makko, o ƴuccata pamaro e pamaro.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "faami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e worɓe makko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "kono Shiimayi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "ko e heddere"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "faade makko"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yaha-yaha"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "o ñaagata"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "o waddata"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "faade makko"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "o ƴuccata pamaro"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "e pamaro"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:38.524487476Z",
+  "model": "glm-5.3"
+}

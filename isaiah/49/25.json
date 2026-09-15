@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ko nii Yaawe wi'i: hay nanngaaɓe ɓoorniiɗo on nanngetee, e mbaroodi bonɗo on daaƴtee; ⟨את⟩ luulndotooɗo maa kanko mi mi wallitora, e ⟨את⟩ ɓiɓɓe maa kanko mi mi hisnina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "nanngaaɓe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ɓoorniiɗo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nanngetee"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "e mbaroodi"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "daaƴtee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "luulndotooɗo maa"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "luulndotooɗo maa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mi wallitora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "mi hisnina"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:46.218855892Z",
+  "model": "glm-5.3"
+}

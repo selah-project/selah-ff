@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Muusa wi'i jamaa on: ɗum ko konngol ngol Yaawe jaɓi waɗde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaa on"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "jaɓi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:46.777948941Z",
+  "model": "glm-5.3"
+}

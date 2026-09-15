@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe jarribii Eel e nder ɓernde maɓɓe, ɓe ɗaɓɓi nyaamdu ngam muusannde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ɓe jarribii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "e nder ɓernde maɓɓe"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ɓe ɗaɓɓi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nyaamdu"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "ngam muusannde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:06.036936353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "No Yaawe woondini ⟨את⟩ Muusaa wondiɗo Mun non, Muusaa non woondini ⟨את⟩ Yahuwshu'a; Yahuwshu'a non waɗi — konngol alaa o itti e fuu huunde nde Yaawe woondini ⟨את⟩ Muusaa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "woondini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "wondiɗo Mun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "woondini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuwshu'a"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwshu'a"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "e non"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwshu'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "itti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "huunde nde"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "woondini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:17:32.954986917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O dawnaari, o muuli kaadirawol makko ngol e nder lootorde ndiyam ndee, o dogi kadi to bunndo ngam ɓoytinde, o ɓoyti ngam gelooɗi makko fuu.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "o dawnaari"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "o muuli"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kaadirawol makko ngol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "lootorde ndiyam ndee"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "bunndo"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ngam ɓoytinde"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "o ɓoyti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "ngam gelooɗi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:51.752123820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Fii ardinooɗo on, fii Yedutun — mizmoor Dawud.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii ardinooɗo on"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "fii Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawud"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:01.774017695Z",
+  "model": "glm-5.3"
+}

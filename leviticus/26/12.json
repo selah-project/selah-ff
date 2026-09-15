@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi naaha hakkunde mon, mballay ⟨ko⟩ Eloohim mon, on laatay yimɓe am.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "mi naaha"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "hakkunde mon"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "mballay ⟨ko⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "on laatay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:18.436554442Z",
+  "model": "glm-5.3"
+}

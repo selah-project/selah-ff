@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim noddi laaɓal ngal kammuuli; wonti kikiiɗe, wonti subaka — ñalawu ɗiɗaɓo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "laaɓal ngal"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗaɓo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:15.661704469Z",
+  "model": "glm-5.3"
+}

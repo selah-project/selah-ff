@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ɗen laati naa, kuuɓe Set ɗen fuu — hitaaje sappo e ɗiɗi e jeenay teemeɗe hitaaje — o maayi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ɗen laati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kuuɓe"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaaje"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "e jeenay"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemeɗe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "hitaaje"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:55.506946233Z",
+  "model": "glm-5.3"
+}

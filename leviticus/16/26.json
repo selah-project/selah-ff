@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kadi mo yaltini ⟨את⟩ bucco ngol fii Azazel, o laylay koltuɗi makko, o ɓuuɓna ⟨את⟩ ɓanndu makko e ndiyam, caggal ɗuum o naatata e kaampa.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "mo yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bucco ngol"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "bucco ngol"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "fii Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "o laylay"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "koltuɗi makko"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "o ɓuuɓna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓanndu makko"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓanndu makko"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o naatata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:03.575555218Z",
+  "model": "glm-5.3"
+}

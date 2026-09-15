@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Doole am e jimol am ko Yaah, o laati ⟨wollu⟩ am; oo ko Eel am, miɗo teddina mo; Eloohim baaba am, miɗo toowtina mo.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Doole am"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "e jimol am"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "⟨wollu⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel am"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "miɗo teddina mo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "miɗo toowtina mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:11.722276409Z",
+  "model": "glm-5.3"
+}

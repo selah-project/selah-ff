@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Misrayim, min ñiiñii junngo; Ashur, ngam heddaade hebbere e ɓeewri.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "min ñiiñii"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ngam heddaade hebbere"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ɓeewri"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:58.178671935Z",
+  "model": "glm-5.3"
+}

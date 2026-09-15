@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O moofta no ɓuuɓniri ndiyam geec ɗen; o waɗa ɓulli ɗin e nder ñaawirɗe tedduɗe mun.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "O moofta"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "no ɓuuɓniri"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "הים",
+      "gloss": "geec ɗen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o waɗa"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "e nder ñaawirɗe tedduɗe"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ɓulli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:11.200942713Z",
+  "model": "glm-5.3"
+}

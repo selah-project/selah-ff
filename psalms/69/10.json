@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Tawtorde saare maa ɓuri lam ñaame, e yenƴe ƴeñtooɓe maa coomi e am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawno"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "sookaare"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "saare maa"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "ñaami lam"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "e yenƴe"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ƴeñtooɓe maa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "coomi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:25.166367506Z",
+  "model": "glm-5.3"
+}

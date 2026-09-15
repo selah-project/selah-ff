@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 65:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Mi yaajinii junji am fuu ñalnde fawaade e yimɓe dawtuɓe, ɓe njaha laawol ngol wonaa moƴƴu, ɓe njokki caggal miijooji mun.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "mi yaajinii"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junji am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fawaade e"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "dawtuɓe"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ɓe njaha"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "מחשבתיהם",
+      "gloss": "miijooji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T08:04:15.315781362Z",
+  "model": "glm-5.3"
+}

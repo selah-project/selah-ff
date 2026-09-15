@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Woto yaltu e ñaawoore e jaajol, wanaa a anndaa ko mbaɗata e joofnirde mun, tuma sehilaa maa hereertin ⟨את⟩ maa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "woto"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "e jaajol"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbađata"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "e joofnirde mun"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "tuma ... hereertin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "sehilaa maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:03:05.602462201Z",
+  "model": "glm-5.3"
+}

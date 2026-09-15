@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Winndan e leƴƴi ɗin ⟨את⟩ teddungal makko ngal, e yimɓe ɓen fuu, cemmbinirɗe makko ɗen.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "winndan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e leƴƴi ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teddungal makko ngal"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "teddungal makko ngal"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "cemmbinirɗe makko ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:58:06.769275590Z",
+  "model": "glm-5.3"
+}

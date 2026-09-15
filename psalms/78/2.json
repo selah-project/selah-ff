@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Udditay muuɗum am e mantaare; ɓuuɓnay chiidte jeyaaɗe kaɓɓe-juutɗe.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Udditay"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "e mantaare"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muuɗum am"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ɓuuɓnay"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "chiidte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "jeyaaɗe"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kaɓɓe-juutɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:55.798516532Z",
+  "model": "glm-5.3"
+}

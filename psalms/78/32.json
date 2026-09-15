@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "E ɗoo fuu ɓe bakkitii kadi, ɓe goongaɗinaaɓe e jawɗe makko mawɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "E fuu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ɓe bakkitii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe goongaɗinaaɓe"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "goongaali"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "e jawɗe makko mawɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:30.463781025Z",
+  "model": "glm-5.3"
+}

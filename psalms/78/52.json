@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O yaltini yimɓe mun no baali nii, o ardii ɓe no kattu nii e nder ladde.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "o yaltini"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "no baali nii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "o ardii ɓe"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "no kattu nii"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e nder ladde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:40.276753016Z",
+  "model": "glm-5.3"
+}

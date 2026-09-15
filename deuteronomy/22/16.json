@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "baaba suka debbo o wi'a to mawɓe ɗin: ⟨את⟩ ɓiɗɗo debbo am mi hokki gorko ngoo fii debbo, o mo'yii mo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka debbo o"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mawɓe ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo debbo am"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɓiɗɗo debbo am"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi hokki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "fii debbo"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "o mo'yii mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:07.996198264Z",
+  "model": "glm-5.3"
+}

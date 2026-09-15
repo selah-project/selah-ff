@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Gollal ngal woodanoo ko heewi fii gollal fuu, ngam waɗugo ⟨את⟩ ngal, e ɓeydude.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "gollal ngal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "woodanoo"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ko heewi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "gollal"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗugo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ngal (gollal ngal)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "e ɓeydude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:03.636968955Z",
+  "model": "glm-5.3"
+}

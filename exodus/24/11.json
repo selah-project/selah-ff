@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kono juuɗe makkofewde dow artuɓe ɓiɓɓe Israa'iila ɗo o wurtinta; ɓe yi'oyi ⟨את⟩ Eloohim on, ɓe ñaami, ɓe njunnu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "fewde dow"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "artuɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɗo o wurtinta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wurtin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ɓe yi'oyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim on"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim on"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ɓe njunnu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:01.710257686Z",
+  "model": "glm-5.3"
+}

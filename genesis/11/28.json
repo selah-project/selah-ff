@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Haran maayi yeeso Terah baaba mum, e leydi jibinannde mum, e Uur lesdi Kasdim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "jibinannde mum"
+    },
+    {
+      "surface": "באור",
+      "gloss": "e Uur"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "lesdi Kasdim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:43.353492144Z",
+  "model": "glm-5.3"
+}

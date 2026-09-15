@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Yaawe ⟨ko⟩ jom-yurme, ⟨ko⟩ ḥaqquɗo, kadi Eloohim amen ⟨ko⟩ jom-yurmeende.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "jom-yurme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kadi ḥaqquɗo"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "kadi Eloohim amen"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "jom-yurmeende"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:13.339153633Z",
+  "model": "glm-5.3"
+}

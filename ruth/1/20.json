@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wi'i ɓe: Wata ɓe noddoor am No'omii; noddoor am Maraa, sabu Shadday ɓoorii am no feewi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "ɓe noddoor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "No'omii"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "noddoor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Maraa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ɓoorii"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:29.600355240Z",
+  "model": "glm-5.3"
+}

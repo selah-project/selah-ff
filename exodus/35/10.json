@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Kala ganɗo ɓernde moŋka e nder mon, ardee, waɗee ⟨את⟩ kala ko Yaawe yamiri.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ganɗo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "e nder mon"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ardee"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "waɗee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:36.314171970Z",
+  "model": "glm-5.3"
+}

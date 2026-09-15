@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Ɓernde laaɓnde tagori am, Eloohim; ruuhu duumiingu hesenitin nder nderi am.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓnde"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "tagori"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "duumiingu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesenitin"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "nder nderi am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:31.982185826Z",
+  "model": "glm-5.3"
+}

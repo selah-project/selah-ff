@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Kono mi, no neɗɗo muumɗo nngu, mi nano; no neɗɗo sevce nngu, mo uddataa hannde mun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono mi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "no neɗɗo muumɗo nngu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi nano"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "no neɗɗo sevce nngu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uddataa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hannde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:25.264464930Z",
+  "model": "glm-5.3"
+}

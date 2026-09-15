@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Hesed e goonga kawri, ñaawoore e jam ŋoŋñii.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "e jam"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ŋoŋñii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:27.180261042Z",
+  "model": "glm-5.3"
+}

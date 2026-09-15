@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kaɓɓaama ledo tooñange; suudu kala uddaama ⟨e⟩ naatgol.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "kaɓɓaama"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ledo"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tooñange"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "uddaama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "naatgol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:17.706755550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 31:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "O ardinii ⟨את⟩ daabaaji makko ɗi fow e ⟨את⟩ jawdi makko ndi fow, miñaa ko o dañunoo: daabaaji dañaaɗe makko ɗe o dañunoo e Paddan-Aram, ngahdude e Isaaq baaba makko, to leydi Kenaan.",
+  "tokens": [
+    {
+      "surface": "וינהג",
+      "gloss": "ardinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daabaaji makko ɗi fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "daabaaji makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jawdi makko ndi fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "jawdi makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "o dañunoo"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "daabaaji"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "dañaaɗe makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "o dañunoo"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "e Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ngahdude"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Isaaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba makko"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "to leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:34.775640206Z",
+  "model": "glm-5.3"
+}

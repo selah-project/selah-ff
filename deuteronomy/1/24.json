@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe tuuyii, ɓe ƴellii towre ndee, ɓe ariii haa e falnde Eshkol, ɓe ƴeewtittii ⟨את⟩ ndin.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ɓe tuuyii"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe ƴellii"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "towre ndee"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ariii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "falnde"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ɓe ƴeewtittii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ndin",
+      "marks": "leydi ndin (fem.)"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:19.495077673Z",
+  "model": "glm-5.3"
+}

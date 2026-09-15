@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yisraayel naatnaama; woni ɓe ngonti yimɓe woddaɓe noŋngol ɗingal ⟨nde⟩ walaa teddungal e maggal.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "naatnaama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɓe ngonti"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ƴimbe woddaɓe"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "noŋngol ɗingal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:08.284726929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Mi naatata e suudu maa e wirnagɗe, mi yoɓata-ma calleɗe am.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "mi naatata"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "e suudu maa"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "e wirnagɗe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mi yoɓata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "calleɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:56.023673111Z",
+  "model": "glm-5.3"
+}

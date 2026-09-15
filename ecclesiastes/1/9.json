@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko wonnoo, ko ɗum wonanɗe; ko waɗnoo, ko ɗum waɗanɗe; wanaa huunde hesere les naange.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "wonanɗe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "e ko"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "waɗnoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "waɗanɗe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:27.141456979Z",
+  "model": "glm-5.3"
+}

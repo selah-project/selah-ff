@@ -1,0 +1,111 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "exodus 10:12",
+ "book": "exodus",
+ "lang": "ff",
+ "chapter": 10,
+ "translation": "Yaawe wi'i Moosaa: « Ndottin junnde maa dow leydi Misrayim ⟨e⟩ arbbe, mbele ɗe ƴeewata dow leydi Misrayim, ɗe ñaama ⟨את⟩ fuu ƴi'e leydi ndin, ⟨את⟩ fuu ko ɓuuɓri ndi acci. »",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "wi'i"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yaawe"
+  },
+  {
+   "surface": "אל",
+   "gloss": "e"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moosaa"
+  },
+  {
+   "surface": "נטה",
+   "gloss": "ndottin"
+  },
+  {
+   "surface": "ידך",
+   "gloss": "junnde maa"
+  },
+  {
+   "surface": "על",
+   "gloss": "dow"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "leydi"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Misrayim"
+  },
+  {
+   "surface": "בארבה",
+   "gloss": "arbbe"
+  },
+  {
+   "surface": "ויעל",
+   "gloss": "mbele ɗe ƴeewata dow"
+  },
+  {
+   "surface": "על",
+   "gloss": "leydi"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "Misrayim"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "ɗe ñaama"
+  },
+  {
+   "surface": "ויאכל",
+   "gloss": "yo ndu ñaamu",
+   "marks": "fuu ƴi'e leydi ndin"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩ fuu"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ƴi'e"
+  },
+  {
+   "surface": "עשב",
+   "gloss": "leydi ndin"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "leydi ndin",
+   "marks": "fuu ko ɓuuɓri ndi acci"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩ fuu"
+  },
+  {
+   "surface": "כל",
+   "gloss": "ko"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "acci"
+  },
+  {
+   "surface": "השאיר",
+   "gloss": "ɓuuɓri ndi"
+  },
+  {
+   "surface": "הברד",
+   "gloss": ""
+  }
+ ],
+ "timestamp": "2026-09-14T04:58:54.473869930Z",
+ "model": "glm-5.3"
+}

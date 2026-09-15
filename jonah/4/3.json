@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ndeen, Yaawe, yoɓu tawo ⟨את⟩ nelɗe am nden e am, sabu maayde am ɓuri wuurde am.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "yoɓu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelɗe am nden"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nelɗe am"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "maayde am"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "wuurde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:31.647429553Z",
+  "model": "glm-5.3"
+}

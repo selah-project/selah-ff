@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Banndiraaɓe makko ɗen wi'i mo: “Laamaade, a laamay min? Wanaa ardaade, a arday min?” Ɓe ɓeydii ñaawa ⟨את⟩ mo dow kiitaaji makko ɗin e dow konngi makko ɗin.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraaɓe makko ɗen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamaade"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "a laamay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min dow"
+    },
+    {
+      "surface": "אם",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "משול",
+      "gloss": "ardaade"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "a arday"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ɓe ɓeydii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goongadi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ñaawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "kiitaaji makko ɗin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "konngi makko ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:28.855989304Z",
+  "model": "glm-5.3"
+}

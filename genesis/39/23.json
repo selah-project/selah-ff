@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Hooreejo suudu kasoo ndin yi'aay ⟨את⟩ huunde e junngo makko, sabu Yaawe ⟨את⟩ mo; huunde o waɗata, Yaawe worstinta nde.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yi'aay... huunde"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kasoo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'aay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huunde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "worstinta"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:01.964961172Z",
+  "model": "glm-5.3"
+}

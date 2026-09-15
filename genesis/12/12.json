@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde waɗata, si Misrayimnaaɓe ɗen ngoni yi'ude ⟨את⟩ maa, ɓe mbi'a: debbo makko ko ndee, ɓe wara ⟨את⟩ am, kono ⟨את⟩ maa ɓe njaɓoo wuurde.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Nde waɗata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ngoni yi'ude"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Misrayimnaaɓe ɗen"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ɓe mbi'a"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo makko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ko ndee"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ɓe wara"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "am"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ɓe njaɓoo wuurde"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:29.044939289Z",
+  "model": "glm-5.3"
+}

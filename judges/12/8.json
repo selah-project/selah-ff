@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓaawo makko Ibtsan, jeyaaɗo Bet-Lechem, ñaawi ⟨את⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ñaawi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "jeyaaɗo Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-14T06:31:04.567393075Z",
+  "model": "glm-5.3"
+}

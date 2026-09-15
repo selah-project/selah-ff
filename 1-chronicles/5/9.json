@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "E kaŋtirde ɓe njoɗɗii haa naatgol jeereende, ummaade maayo Perat, sabu daabaaji maɓɓe keewii e leydi Gilaad.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "e kaŋtirde"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ɓe njoɗɗii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "naatgol"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "למן",
+      "gloss": "ummaade"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "daabaaji maɓɓe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "keewii"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilaad"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:08.137584447Z",
+  "model": "glm-5.3"
+}

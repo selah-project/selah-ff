@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Yuusufa wi'i mo: \"Ɗoo woni faamnore mun: cate tati ɗen — ɗen ko ñalnde tati.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "faamnore mun"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "cate ɗen"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗen ko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:50.250594459Z",
+  "model": "glm-5.3"
+}

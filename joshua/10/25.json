@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yahuwaa wi'i ɓe: Wata on kul, wata on accu ɓernde mawnude; heddite wooɗe e ballu, tawde nii Yaawe murtata ɗum fii gaay dibooɓe mon ɗin fuu, ɗi'onon ɗo duuñoton ⟨את⟩ ɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "on kul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata kadi"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "on accu ɓernde mawnude"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "heddite wooɗe"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "ballu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "murtata ɗum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii fuu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dibooɓe mon ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onon"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "duuñoton"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:19.121049472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen waɗii, ɓaawo maayde Shawul, Daawudaa arti e liɓgol ⟨את⟩ Amalek, Daawudaa hoɗi e Tsiklag balɗe ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen waɗii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "e Daawudaa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "e liɓgol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "hoɗi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawudaa"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "e Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:12.560174465Z",
+  "model": "glm-5.3"
+}

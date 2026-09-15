@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Toraajo Eloohim makko ⟨woni⟩ e ɓernde makko; pelaaje makko ɗe mbaɗɗitaa.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Toraajo"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim makko"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "e ɓernde makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "mbaɗɗitaa"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "pelaaje makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:10.399973674Z",
+  "model": "glm-5.3"
+}

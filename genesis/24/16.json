@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Suka debbo on moƴƴuɗo yiyde no feewi, bakkaatunde, gorko gooto ana anndaa mo; o naati ɓulli on, o heewi wondunnde mun, o ummii.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Suka debbo on"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "moƴƴuɗo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "yiyde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bakkaatunde"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "e gorko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ana anndaa mo"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "ɓulli on"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "o heewi"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "wondunnde mun"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "o ummii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:06.051003151Z",
+  "model": "glm-5.3"
+}

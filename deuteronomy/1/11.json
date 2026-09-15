@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe, Eloohim baabiraaɓe mon'on, ɓeyduto e mon'on no on nii laabi ujjuna, o baro ⟨את⟩ on no o wi'i on nii.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "baabiraaɓe mon'on"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ɓeyduto"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "e mon'on"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "no on nii"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujjuna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "laabi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "o baro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:17.175709092Z",
+  "model": "glm-5.3"
+}

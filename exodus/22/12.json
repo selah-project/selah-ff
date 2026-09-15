@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si burtaa burraa, o addanay ɗum seede; ko burraa koo, o yoɓataa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "burtaa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "burraa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "o addanay ɗum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seede"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "ko burraa koo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o yoɓataa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:16.567306214Z",
+  "model": "glm-5.3"
+}

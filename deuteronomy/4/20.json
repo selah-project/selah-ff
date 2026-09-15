@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kado on, Yaawe ƴetti ⟨את⟩ on, o yaltini ⟨את⟩ on e curirɗe njamiraagu ngal — e Misrayim — ngam wonde leñol ndonaandi makko, no ñalawma ngol ñaawi",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "kado ⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "o yaltini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "e curirɗe"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "njamiraagu ngal"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wonde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ndonaandi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalawma ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ñaawi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:34.898677348Z",
+  "model": "glm-5.3"
+}

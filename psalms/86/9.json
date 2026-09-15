@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Leƴƴi ɗin fuu ɗi mbaɗɗunoo maa ɗen aray, ɓe suɓɓay yeeso maa, Adonaay, ɓe teddinay innde maa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mbaɗɗunoa"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "aray"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ɓe suɓɓay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ɓe teddinay"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "innde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:11.489145072Z",
+  "model": "glm-5.3"
+}

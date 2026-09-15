@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "Sabu o waddii semmbe e paali dame maa, o barakii ɓiɓɓe maa nder nder maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "o waddii semmbe"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "paali"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dame maa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o barakii"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe maa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "nder nder maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:31.636695172Z",
+  "model": "glm-5.3"
+}

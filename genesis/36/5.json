@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Oholiibama kadi jibini ⟨את⟩ Ye'ush e ⟨את⟩ Ya'alam e ⟨את⟩ Korah; ɗee ko ɓiɓɓe Esaw ɗi jibinaa mo e leydi Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Oholiibama kadi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ye'ush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Ye'ush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ya'alam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Ya'alam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "jibinaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:12.664331252Z",
+  "model": "glm-5.3"
+}

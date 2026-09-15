@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe ndaarii ⟨את⟩ ceene wuro Dawuud, tawi ɗi keewii, ɓe renndini ⟨את⟩ ndiyam ɓulli lesre ndin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ceene wuro Dawuud"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "ceene"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "ɓe ndaarii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawi"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ɗi keewii"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ɓe renndini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam ɓulli lesre ndin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "lesre ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:23.724154429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Nefes leeloowo himmo, kono ⟨alaa⟩ huunde o heɓata; kono nefes gollorɓe jaajɓe ɓuuɓnata.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "himmo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kono alaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefes leeloowo"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "leeloowo"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kono nefes"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "gollorɓe jaajɓe"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ɓuuɓnata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:55.403149030Z",
+  "model": "glm-5.3"
+}

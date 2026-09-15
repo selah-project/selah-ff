@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Daawuda fiyi ⟨את⟩ Hadadezer laamɗo Sobah, haa Hamat, tuma o yahrata ngam tabitinde junngo makko e maayo Perat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Sobah"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "e makko yahde"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "ngam tabitinde"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "e maayo"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:47.642179624Z",
+  "model": "glm-5.3"
+}

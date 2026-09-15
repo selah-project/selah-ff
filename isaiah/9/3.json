@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Sabu ⟨את⟩ jolde kalfaare mun e ⟨את⟩ palorɗe dow junngo mun, palorɗe ɓoggotooɗo on gonnduɗo e mun — ⟨a⟩ kaastini ɗum no ñalnde Madyan nii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jolde kalfaare mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "jolde"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "kalfaare mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "palorɗe dow junngo mun"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "palorɗe"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "dow junngo mun"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "palorɗe"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ɓoggotooɗo on"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gonnduɗo e mun"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "⟨a⟩ kaastini ɗum"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalnde nii"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madyan"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:57.738846290Z",
+  "model": "glm-5.3"
+}

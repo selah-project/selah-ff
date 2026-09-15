@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 127,
+  "translation": "Ndee, ɓiɓɓe ko njiimaandi Yaawe; njoɓdi ko jabaari ɓernde nden.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "njiimaandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "njoɓdi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "jabaari"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ɓernde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:03.917047870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "Yaawe mahi Yerushalayim, bamɓe egginiiɓe Israyiil o ene hoŋkoya.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "bamɓe egginiiɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ene hoŋkoya"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:38.724848878Z",
+  "model": "glm-5.3"
+}

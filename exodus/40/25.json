@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O ƴellitti lampaaji ɗin yeeso Yaawe, no Yaawe jamiri ⟨את⟩ Muusaa nihre.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "o ƴellitti"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampaaji ɗin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "jamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:26.774952463Z",
+  "model": "glm-5.3"
+}

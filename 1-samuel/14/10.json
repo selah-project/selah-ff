@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kono si ɓe wi'i nii: «ƴellowe min», min mballa, sabu Yaawe maytinani ɓe e junuure amen; ɗum ko maandee amen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono si"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nio"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ƴellowe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "min mballa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "maytinani ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "e junuure amen"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    },
+    {
+      "surface": "האות",
+      "gloss": "maandee"
+    }
+  ],
+  "timestamp": "2026-09-14T06:43:46.204376154Z",
+  "model": "glm-5.3"
+}

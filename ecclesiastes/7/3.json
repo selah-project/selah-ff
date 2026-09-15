@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Caɗtu ɓuri belɗol, sabu e illa yeeso ɓernde moƴƴirta.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "caɗtu"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "belɗol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "e illa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "moƴƴirta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:23.451859008Z",
+  "model": "glm-5.3"
+}

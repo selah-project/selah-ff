@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "O ɓoyataa, o muummittaa, o waɗataa daande makko e nder laynde wootaande.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "o ɓoya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o muummit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "o waɗa ñeeñde"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "e nder laynde"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "daande makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:52.167395841Z",
+  "model": "glm-5.3"
+}

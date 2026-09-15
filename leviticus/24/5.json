@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "A ƴettan tinyaraande, a paayan ⟨את⟩ nde ñaawe sappo e ɗiɗi; cappande ɗiɗi wona ñaawere nden wootere.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a ƴettan"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tinyaraande"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "a paayan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nde (ñaawe sappo e ɗiɗi)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "ñaawe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "cappande"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wona"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ñaawere nden"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:12.888712319Z",
+  "model": "glm-5.3"
+}

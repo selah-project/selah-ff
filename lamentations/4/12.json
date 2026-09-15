@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Laamɓe leydi ndin e fuu wonduɓe e duunde ndun, ɓe goongɗinaani wonde foolɗo e gaño naatoy e dame Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɓe …-aani"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "goongɗinaani"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wonduɓe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "duunde ndun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "naatoy"
+    },
+    {
+      "surface": "צר",
+      "gloss": "foolɗo"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "e gaño"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "e dame"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:00.410901471Z",
+  "model": "glm-5.3"
+}

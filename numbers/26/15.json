@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ɓiɓɓe Gaad ɗen, e jibinannde maɓɓe: fii Zefon — jibinannde Zefoni; fii Haggi — jibinannde Haggi; fii Shuni — jibinannde Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gaad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e jibinannde maɓɓe"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "fii Zefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Zefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "fii Haggi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Haggi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "fii Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Shuni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:46:03.115554913Z",
+  "model": "glm-5.3"
+}

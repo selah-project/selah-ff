@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Si neɗɗo naatnana korban, mincha, fii Yaawe, solete waata korban mun; o wertinoyata dimɗin dow maggal, o waɗata lebona dow maggal.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "naatnana"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solete"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "waata"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban mun"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "o wertinoyata"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dow maggal"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dimɗin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o waɗata"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dow maggal"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lebona"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:01.000993572Z",
+  "model": "glm-5.3"
+}

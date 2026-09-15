@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe Eloohim wi'i waaworde nden: ko ɗum ngolɗam mbaɗɗaa? Waaworde nden wi'i: Njaareendi nden bonni mi, mi ñaami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "waaworde nden"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "mbaɗɗaa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "waaworde nden"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "njaareendi nden"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "bonni mi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mi ñaami"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:22.622745671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Chetsron ɓe jibinaa mo: ⟨את⟩ Yerachmeel e ⟨את⟩ Ram e ⟨את⟩ Kelubay.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "jibinaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Kelubay"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubay"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:35.484662037Z",
+  "model": "glm-5.3"
+}

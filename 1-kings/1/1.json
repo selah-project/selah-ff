@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Laamɗo Daawuda wayii, arii e balley mawɗi, ɓe cuubbii mo comci kono o heɓataa nguleedu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wayii"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e balley"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ɓe cuubbii mo"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "comci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono wanaa"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "o heɓataa nguleedu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:08:55.671178090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "A yi'ii geɗal keewngal kono a rewaani; nofooje udditii kono o nano-ano.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "A yi'ii"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "geɗal keewngal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono a rewaani"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "rewaani"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "udditii"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "nofooje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o nano-ano"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:22.544144128Z",
+  "model": "glm-5.3"
+}

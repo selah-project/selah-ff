@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "O hawriti ⟨את⟩ yiriyaaji jowo ɗin wootere e wootere, kadi yiriyaaji jowo o hawriti wootere e wootere.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "o hawriti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yiriyaaji jowo ɗin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "jowo"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "yiriyaaji ɗin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "kadi jowo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "yiriyaaji"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "o hawriti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:53.324647006Z",
+  "model": "glm-5.3"
+}

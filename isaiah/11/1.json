@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Coktirgal yaltata e munal Yishay, e calɗi iwdi makko wuray.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaltata"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "coktirgal"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "e munal"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "e calɗi"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "e iwdi makko"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "wuray"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:15.818401118Z",
+  "model": "glm-5.3"
+}

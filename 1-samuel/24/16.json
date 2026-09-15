@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yaawe laatoro ñaawoowo, ñaawu hakke am e hakke maaɗa, yi'u, haɓan ⟨את⟩ ñaawoore am, ndañan lam ballal e junngo maaɗa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "laatoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ñaawu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakke am"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "e hakke maaɗa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'u"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "haɓan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore am"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ndañan lam ballal"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "e junngo maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:49.181057026Z",
+  "model": "glm-5.3"
+}

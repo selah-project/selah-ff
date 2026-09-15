@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Misrayim ko meere e huunde dungu; ɓe mballataa. Ɗum waɗi mi noddi ɗum ko: Rahaab jooɗoowo.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "meere"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "dungu"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ɓe mballataa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ɗum waɗi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddi"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahaab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ko"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "jooɗoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:51:33.679162832Z",
+  "model": "glm-5.3"
+}

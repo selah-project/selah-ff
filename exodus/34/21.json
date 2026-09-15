@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ñalɗi jeegom maa gollaa, ñalnde jeeɗiɗaɓere maa warta; e sahaa pemugol e sahaa orugol maa warta.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "maa gollaa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jeeɗiɗaɓere"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "maa warta"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "e sahaa pemugol"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "e sahaa orugol"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "maa warta"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:55.407771525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "O mooɓi ɓe e leyɗe ceertuɗe, fuɗnaange e hirnaange, worgo e maayo.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "e leyɗe"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "O mooɓi ɓe"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "fuɗnaange"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "e hirnaange"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "worgo"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e maayo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:21.291858559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yaawe yi'ii mo o tuusii ngam yi'ude; Eloohim noddi mo kaɓir-leydi huɗo ngol, wi'i: “Moshe, Moshe”; o wi'i: “Miɗo wi'i, ɗoo mi.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'ii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mo"
+    },
+    {
+      "surface": "סר",
+      "gloss": "o tuusii"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'ude"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kaɓir-leydi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "huɗo ngol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:39.898990442Z",
+  "model": "glm-5.3"
+}

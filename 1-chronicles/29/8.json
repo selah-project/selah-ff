@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Ɓe ɗi ⟨את⟩ mboɗeeji tawaama e mum en, ɓe ndonki ɗunta kaasoru suudu Yaawe, les junngo Yekuu'iila Gereshunaajo.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "ɓe-tawaama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mboɗeeji ɗin — ɗoo ko: 'e makko', wanaa maande jeytol"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mboɗeeji"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ɓe-ndonki"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "kaasoru(-fii)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "les"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yekuu'iila"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Gereshunaajo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:07:34.367636204Z",
+  "model": "glm-5.3"
+}

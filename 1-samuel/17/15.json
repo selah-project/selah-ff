@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Daawuuda yahata e ruttaata e kaŋnge Shaawul, ngam reende ⟨את⟩ bali baaba mum to Betlehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ruttaata"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e kaŋnge"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bali baaba mum"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betlehem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:42.163536832Z",
+  "model": "glm-5.3"
+}

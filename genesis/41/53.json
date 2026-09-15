@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Duuɓi jeeɗiɗi ɗi welaare nden, ɗi ngonnoo e leydi Misrayim, timminii.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "timminii"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "welaare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ngonnoo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:36.248227384Z",
+  "model": "glm-5.3"
+}

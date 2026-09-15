@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Mi wirnii ñalɗi aranoi ɗin, duuɓi jamaanu ɓooyɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Mi wirnii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "aranoi ɗin"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jamaanu ɓooyɗi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:40.224506896Z",
+  "model": "glm-5.3"
+}

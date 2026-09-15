@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi siftoto ⟨את⟩ mballa am nden woni hakkunde am e hakkunde mon e hakkunde kala hunnde wuurnde nder kala ɓanndu; ndiyam ɗin ɓeydaa laataay ilam fii yeeyde kala ɓanndu.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Mi siftoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mballa am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mballa am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden woni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "hakkunde am"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "e hakkunde mon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hunnde"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wuurnde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nder kala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓeydaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓeyda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ilam"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "fii yeeyde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓanndu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:59.912600865Z",
+  "model": "glm-5.3"
+}

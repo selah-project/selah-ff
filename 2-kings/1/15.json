@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nulaaɗo Yaawe on wi'i Eliya: Ƴeewto ⟨את⟩ e makko, wata a hulu makko. O ummii, o ƴeewti ⟨את⟩ e makko faade e laamɗo on.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "nulaaɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ƴeewto"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a hulu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "o ƴeewti"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:38.120060642Z",
+  "model": "glm-5.3"
+}

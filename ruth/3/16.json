@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O ari to yumma-rewbe makko; o wi'i: holo a, ɓiɗɗo am? O hollitii mo ⟨את⟩ fuu dum gorko on waɗi mo.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "O ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "yumma-rewbe makko"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "holo"
+    },
+    {
+      "surface": "את",
+      "gloss": "a"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "o hollitii"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:23:16.856586963Z",
+  "model": "glm-5.3"
+}

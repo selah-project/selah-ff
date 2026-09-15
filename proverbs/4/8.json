@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Toowtin ɗum, ɗum toowtinan ma; ɗum teddinan ma, tawa ɗaɓɓitin ɗum.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "toowtin ɗum"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "ɗum toowtinan ma"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "ɗum teddinan ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "ɗaɓɓitin ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:13.132285773Z",
+  "model": "glm-5.3"
+}

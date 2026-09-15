@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Fii ñalawma e jemma junngo maa teddii am; lewkere am wayliima waasde no yooroore duumingiri. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "e jemma"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "teddii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "wayliima"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "lewkere am"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "no yooroore"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "duumingiri"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:54.117618601Z",
+  "model": "glm-5.3"
+}

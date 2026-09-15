@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Min njeygoo, min ndewgoo ngam anndude ⟨את⟩ Yaawe; hono no subaka feeñiri nihara, hono ɗum feeñnata; o aray min hono toɓo, hono toɓo keso yooro leydi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Min njeygoo"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "min ndewgoo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "hono no subaka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "feeñiri nihara"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ñalawma feeñngo makko"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "o aray"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "hono no toɓo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "hono toɓo keso"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yooro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:29.615496874Z",
+  "model": "glm-5.3"
+}

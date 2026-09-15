@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 140,
+  "translation": "Hisnu mi, Yaawe, e neɗɗo bonɗo; e gorko jihaɗɓe reenaa mi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "hisnu mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonɗo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "e gorko"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "jihaɗɓe"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "reenaa mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:23.537777826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Mizmoor fii Asaf: ɗoo goonga, moƴƴere Eloohim feewi Israa'iil — feewi ɓerɗe laaɓɗe ɗen.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ɗoo goonga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴere"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "feewi Israa'iil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "feewi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓerɗe laaɓɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:26.890300326Z",
+  "model": "glm-5.3"
+}

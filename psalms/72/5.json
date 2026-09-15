@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "Ɓe ɗooftoo ⟨on⟩ e naange, e yeeso lewru, jibinannde jibinanndeaji.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ɓe ɗooftoo on"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jibinannde"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "jibinanndeaji"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:11.053432467Z",
+  "model": "glm-5.3"
+}

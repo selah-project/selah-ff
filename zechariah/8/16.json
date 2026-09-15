@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɗee ɗoo konnguɗi ɗi mbaɗata: wottoree goonga, neɗɗo ⟨את⟩ jokkuɗo mun — goonga; e ñaawoore jam ñaawee e damle mon ɗen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đee đoo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguđi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mon mbađata"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "wottoree"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neđđo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jokkuđo mun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jokkuđo mun"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ñaawee"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "e damle mon đen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:13:37.440552061Z",
+  "model": "glm-5.3"
+}

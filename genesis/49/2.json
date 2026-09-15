@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ɗuwonɗiten, nannton, ɓiɓɓe Jaakob, nannton Israa'iila baaba mon.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "ɗuwonɗiten"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nannton"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nannton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "baaba mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:40.442693987Z",
+  "model": "glm-5.3"
+}

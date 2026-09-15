@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Baabel, keɓal laamuuji, teddungal jaabte Kasdim, o laatoto no Eloohim duttiniri ⟨את⟩ Sodom e ⟨את⟩ Gomora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "laatoto"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "keɓal"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamuuji"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jaabte"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "no ... duttinirta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:25.404157164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yeeyre yeeyooje, Qohelet wi'i; yeeyre yeeyooje, ko fuu yeeyre ⟨woni⟩.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "yeeyre"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yeeyooje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yeeyre"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "yeeyooje"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ko fuu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yeeyre"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:49.531499510Z",
+  "model": "glm-5.3"
+}

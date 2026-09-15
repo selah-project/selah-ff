@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɓe ndottini ⟨את⟩ Haman e dow lekki ngol o heblani Mordekay, muritu laamɗo on hettii.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Ɓe ndottini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o heblani"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "e muritu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "hettii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:46.991072316Z",
+  "model": "glm-5.3"
+}

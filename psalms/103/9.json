@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Ha duumi o luurataa, kadi o reenataa muubaali mun duumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ha duumi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "o luurataa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e walaa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ha duumi"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "o reenataa (muubaali)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:56.643125434Z",
+  "model": "glm-5.3"
+}

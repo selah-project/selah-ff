@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O wi'i: yah, ɓooya caggal maa kaafaaji ummoraade yaasi, ummoraade e ⟨את⟩ derdwirɓe maa fuu — kaafaaji meeri; wata a ustir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "yah"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "ɓooya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "caggal maa"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaafaaji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "derdwirɓe maa fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "derdwirɓe maa"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "kaafaaji"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "meeri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "a ustir"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:18.999954623Z",
+  "model": "glm-5.3"
+}

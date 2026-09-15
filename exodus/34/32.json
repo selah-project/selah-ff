@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ɓaawo ɗum ɓiɓɓe Yisraa'iil fow ɓe ɓadtii; o amarani ɓe ⟨את⟩ ko Yaawe wi'unoo ⟨את⟩ e makko, to duuwal Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ɓe ɓadtii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "o amarani ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe wi'unoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'unoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "to duuwal"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:11:57.137177554Z",
+  "model": "glm-5.3"
+}

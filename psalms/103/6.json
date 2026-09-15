@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Yaawe waɗa ñaaworɗe cuuɗirɗe e ñaawooreaji fii ɓen tooñaaɓe fuu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "waɗa"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ñaaworɗe cuuɗirɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "e ñaawooreaji"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii ... fuu"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ɓen tooñaaɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.719746688Z",
+  "model": "glm-5.3"
+}

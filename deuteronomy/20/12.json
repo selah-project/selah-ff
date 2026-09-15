@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kono si [wuro ngun] salii waɗde jam e maa, waɗi wolde e maa, a ɗaɓɓitagol e ngun.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "salii"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "waɗde jam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wolde"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "a ɗaɓɓitagol"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e ngun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:28.544622202Z",
+  "model": "glm-5.3"
+}

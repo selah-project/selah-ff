@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E nder ɓataaje fawtuki e Tooñunde a neɗɗinaa; no cacawa nangee belɗum mun; goonga, mbuuɗu woni kala neɗɗa. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "e nder ɓataaje"
+    },
+    {
+      "surface": "על",
+      "gloss": "fawtuki e"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Tooñunde"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "a neɗɗinaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "a nangee"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "no cacawa"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "belɗum mun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mbuuɗu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:17.999183885Z",
+  "model": "glm-5.3"
+}

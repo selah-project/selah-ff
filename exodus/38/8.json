@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi ⟨את⟩ liilde ndin njamndi, e ⟨את⟩ jooɗorde mun nden njamndi, e laaɓe rewɓe konnguɓe ɓen ɓe ngoni konngude ka damal teentedo nden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɣi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liilde ndin"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "liilde ndin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jooɗorde mun nden"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jooɗorde mun nden"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "e laaɓe"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "rewɓe konnguɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ngoni konngude"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ka damal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentedo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:20.157851007Z",
+  "model": "glm-5.3"
+}

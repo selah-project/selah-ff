@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Toɗɗo ko fii ɓe mbaraa ɗum goɗɗa? Ɓe ɓeydanta muurtugol; hoore fuu ina ñaw, ɓernde fuu ina metti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "toɗɗo ko fii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ɓe mbaraa ɗum"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goɗɗa"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ɓe ɓeydanta"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "muurtugol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ina ñaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ina metti"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:13.216000007Z",
+  "model": "glm-5.3"
+}

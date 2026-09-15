@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Tawo ko aɗa tikva am, Adonaay Yaawe, ko aɗa hoolaare am gila e suka'am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "tikva am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "hoolaare am"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gila e suka'am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:02.671178404Z",
+  "model": "glm-5.3"
+}

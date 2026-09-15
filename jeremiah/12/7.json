@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mi accii ⟨את⟩ wuro am, mi woppii ⟨את⟩ rabbite am; mi rokki ⟨את⟩ giɗo nguurndam am e junngo ayɓe mum.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "mi accii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro am"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wuro am"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "mi woppii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rabbite am"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "rabbite am"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giɗo nguurndam am"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "giɗo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ayɓe mum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:12:09.434029811Z",
+  "model": "glm-5.3"
+}

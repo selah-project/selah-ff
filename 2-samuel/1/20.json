@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Wata ɓe kabrina ɗum e Gat, wata ɓe jaŋtina ɗum e laabi Askalon; wata ɓiɓɓe rewɓe Pilisti ɗon weltu, wata ɓiɓɓe rewɓe wonaa-kuutorɗe ɗon pamar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ɓe kabrina"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "e Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "ɓe jaŋtina"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "e laabi"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Askalon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "ɗon weltu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilisti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "ɗon pamar"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe rewɓe"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "wonaa-kuutorɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:22.375536996Z",
+  "model": "glm-5.3"
+}

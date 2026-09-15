@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Mi wowi geece maccuɓe ɓen ⟨את⟩ konngi Yaawe ɗin fuu, ɗi o hollu mi ɗin.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "mi wowi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "geece"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "maccuɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "o hollu mi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T08:36:36.141065735Z",
+  "model": "glm-5.3"
+}

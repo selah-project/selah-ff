@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ko ɗoo woni bayyinaango gollal kiɗaaɗo ngal laamɗo Selomo yuɓɓini, ngam mahde ⟨את⟩ suudu Yaawe e ⟨את⟩ suudu makko e ⟨את⟩ Milloo e ⟨את⟩ mahe Yerushalayim e ⟨את⟩ Casor e ⟨את⟩ Megiddo e ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ko ɗoo woni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bayyinaango"
+    },
+    {
+      "surface": "המס",
+      "gloss": "gollal kiɗaaɗo ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yuɓɓini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ngam mahde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu makko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Milloo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milloo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mahe Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mahe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Casor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Casor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:08.467460153Z",
+  "model": "glm-5.3"
+}

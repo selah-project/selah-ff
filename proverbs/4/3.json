@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Fii mien ngaari ɓiɗɗo baaba am, muñɗo keewɗo hoybiral, kañum wootere yeeso yumma am.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mien ngaari"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "רך",
+      "gloss": "muñɗo"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "keewɗo hoybiral, kañum wootere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "yumma am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:37.513606080Z",
+  "model": "glm-5.3"
+}

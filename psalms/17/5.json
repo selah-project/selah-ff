@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Gorwam ñiiwii e laawle maa; kaaƴe am ɗon lu'ataa.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ñiiwii"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gorwam"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "e laawle maa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "lu'ataa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "kaaƴe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:48.873170452Z",
+  "model": "glm-5.3"
+}

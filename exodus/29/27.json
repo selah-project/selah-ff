@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "A laaɓtina-ɗa ⟨את⟩ ɓernde dalbinaare nden e ⟨את⟩ koyngal heɓnirgal ngal, ka daltinaa e ka tolnaa, e njabawtu millima ngu, ka Aharon jeyi e ka ɓiɓɓe mun jeyi.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "laaɓtina-ɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde dalbinaare nden"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "dalbinaare nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "koyngal heɓnirgal ngal"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "heɓnirgal ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "daltinaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ka"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "tolnaa"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "e njabawtu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "millima ngu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "e ka"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ɓiɓɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:05.858957048Z",
+  "model": "glm-5.3"
+}

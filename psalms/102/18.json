@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "O wartiima e du'aawal on mo acciraama, o ɗaɓɓitaani ⟨את⟩ du'aawal maɓɓe.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "o wartiima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "du'aawal"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "on mo acciraama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ɗaɓɓitaani"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ɗaɓɓitde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'aawal maɓɓe"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "du'aawal maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:56.612568327Z",
+  "model": "glm-5.3"
+}

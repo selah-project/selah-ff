@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Cebiɗe Seol ndarii lam, lnoki lam tagi munisone maayde.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "cebiɗe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ndarii lam"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "lnoki lam"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "munisone"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:52.602418303Z",
+  "model": "glm-5.3"
+}

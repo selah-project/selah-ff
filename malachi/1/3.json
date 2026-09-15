@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono ⟨את⟩ Esaw mi muñɗinii, mi waɗini ⟨את⟩ pelle mun ko harɓere, e ⟨את⟩ jawdi mun mawninde leydi yooroore.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi muñɗinii"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "mi waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelle mun"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "pelle mun"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ko harɓere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "jawdi mun"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jawdi mun"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "mawninde"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "leydi yooroore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:22.747066122Z",
+  "model": "glm-5.3"
+}

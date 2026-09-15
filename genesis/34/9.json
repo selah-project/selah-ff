@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Warnee dewte amen mbi'a: ⟨את⟩ ɓiɗɓe rewɓe mon ndokku min, e ⟨את⟩ ɓiɗɓe rewɓe amen on ƴettu wonande mon.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "warnee dewte"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe rewɓe mon"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ɓiɗɓe rewɓe mon"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe rewɓe amen"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ɓiɗɓe rewɓe amen"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wonande mon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:28.557547678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Nde nde hebbi, e battane lasol riiba mum, o soobtii ⟨את⟩ leydi ndin, o waɗi ajjinol e ⟨את⟩ cande ndin e e ⟨את⟩ lekki ngol.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Nde nde hebbi"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "e battane lasol"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "riiba mum"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "o soobtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "o waɗi ajjinol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cande ndin"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "cande ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "lekki ngol"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:05:23.127030434Z",
+  "model": "glm-5.3"
+}

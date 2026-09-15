@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko heewi wonande mon — piddude ⟨את⟩ tulde nde; wartee hoore mon ka worgo.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ko heewi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wonande mon"
+    },
+    {
+      "surface": "סב",
+      "gloss": "piddude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulde nde"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "wartee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ka worgo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:38.366346319Z",
+  "model": "glm-5.3"
+}

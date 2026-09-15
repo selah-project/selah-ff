@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E laawol seedeeji maa mi weltiima, hono no e dow dennde jawdi.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "seedeeji maa"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "mi weltiima"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "hono no e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dennde"
+    },
+    {
+      "surface": "הון",
+      "gloss": "jawdi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:41.597390654Z",
+  "model": "glm-5.3"
+}

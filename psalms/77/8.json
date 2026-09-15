@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Haa duuɓi duuɓi ⟨wata⟩ Adonaay woppata? O ɓeydataa weltinde tawaafu?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Haa duuɓi duuɓi"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "woppata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "O ɓeydataa"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "weltinde"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawaafu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:40.226669397Z",
+  "model": "glm-5.3"
+}

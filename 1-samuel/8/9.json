@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndeennoon nanu daande maɓɓe; kono a jaɓɓan-ɓe seeda, a winndan-ɓe ñaawoore laamɗo on mo laamayroyta dow maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ndeennoon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanu"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "daande maɓɓe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "העד",
+      "gloss": "jaɓɓan"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "seeda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "winndan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "laamayroyta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:06.870259910Z",
+  "model": "glm-5.3"
+}

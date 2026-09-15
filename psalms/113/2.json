@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 113,
+  "translation": "Ɗen teddiniree innde Yaawe, immorde ⟨e⟩ jooni haa duumo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ɗen teddiniree"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "teddiniree"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "immorde jooni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumo"
+    }
+  ],
+  "timestamp": "2026-09-14T18:57:55.087156298Z",
+  "model": "glm-5.3"
+}

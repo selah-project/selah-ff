@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Ko nono, lorru ɓe e henndu mawa maa ndun, e duumi maa ndun dulin ɓe.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ko nono"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "lorru ɓe"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "e henndu mawa maa"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "e duumi maa"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "dulin ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:55.856765183Z",
+  "model": "glm-5.3"
+}

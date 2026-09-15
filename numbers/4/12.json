@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓe ƴetta ⟨את⟩ kuutorɗe golle ɗe ɓe gollu e ɗi e nder suudu laaɓundu ndun fof, ɓe mbaddu ɗe e bojel tekhelet, ɓe cuɓɓitina ⟨את⟩ ɗe e keɓeeri terɗe taksh, ɓe ngartina ɗe dow ɓoggol ngol.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ɓe ƴetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorɗe golle fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ɓe gollu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e ɗi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "e nder suudu laaɓundu ndun"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe mbaddu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "bojel"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ɓe cuɓɓitina"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗe"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "e keɓeeri"
+    },
+    {
+      "surface": "עור",
+      "gloss": "terɗe"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "taksh"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe ngartina"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ɓoggol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:34:48.773472439Z",
+  "model": "glm-5.3"
+}

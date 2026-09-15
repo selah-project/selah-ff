@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Leñol Sebulun; laamɗo ɓiɓɓe Sebulun ko Eliyaab ɓiy Elon.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulun"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulun"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyaab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Elon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:10.868945190Z",
+  "model": "glm-5.3"
+}

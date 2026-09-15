@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mi yi'i ⟨את⟩ eneno fuu ɗi wuurɓe, ɗi yahata les naange, e suka ɗiɗaɓo oo, mo darotoo lomto makko.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Mi yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eneno fuu ɗi wuurɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eneno fuu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ɗi wuurɓe"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "ɗi yahata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "suka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "darotoo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "lomto makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:35.613005474Z",
+  "model": "glm-5.3"
+}

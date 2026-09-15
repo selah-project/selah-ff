@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Ndaru, Adonaay Yaawe ariyay e doole, e junngo makko ngoo laamata; ndaru, njoɓdi makko woni ⟨את⟩ e makko, e golle makko ena yeeso makko.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndaru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "e doole"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ariyay"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "e junngo makko"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "laamata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndaru"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "njoɓdi makko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "e golle makko"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:49.889343021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Kono goongɗii, ñawuuji amen ɗin ko kanko o nanngunoo, e muñɗe amen ɗin ko o durnunoo; kono minen, min cifinnoo mo ñaawaa, fiyaaɗo Eloohim, muñnaaɗo.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Kono goongɗii"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "ñawuuji amen ɗin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o nanngunoo"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "e muñɗe amen ɗin"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "o durnunoo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kono minen"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "min cifinnoo mo"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ñaawaa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "fiyaaɗo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "muñnaaɗo"
+    }
+  ],
+  "timestamp": "2026-09-15T05:45:31.924843843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yaawe woɗɗini ⟨את⟩ neɗɗo on, e ko woppaama nder leydi ndin heewi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "woɗɗini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "e ... heewi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ko woppaama"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:24.559500404Z",
+  "model": "glm-5.3"
+}

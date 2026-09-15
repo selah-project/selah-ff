@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ester wi'i Hatax, o ɓamɗi mo faade e Mordekay.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatax"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "o ɓamɗi mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:13.949393796Z",
+  "model": "glm-5.3"
+}

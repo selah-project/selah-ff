@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Ko Kanko Yaawe woni Eloohim amen; e fuu ⟨leydi⟩ ndin, mispiraaji Makko.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ko Kanko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨leydi⟩ ndin"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mispiraaji Makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:37.415665384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Kadi to ɗoo junngo maa ngoo artondiray mi, e ñaamo maa nden rentonay mi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗoo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "artondiray mi"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "e rentonay mi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ñaamo maa nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:45.800672787Z",
+  "model": "glm-5.3"
+}

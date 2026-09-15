@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ɓiɓɓe Israa'iila ɓenni ⟨את⟩ cokle mum en, nokkuure nden woni teddeere Horew.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ɓenni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cokle mum en"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "cokle mum en"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nokkuure nden"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horew"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:50.311679857Z",
+  "model": "glm-5.3"
+}

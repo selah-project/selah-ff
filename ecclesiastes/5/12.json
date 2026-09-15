@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Woodii bone muusɗo mi yi'i les naange: alɗunde hisnaande fii jeyoowo mun, fii bonnde mun.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Woodii"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "muusɗo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "alɗunde"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hisnaande"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "fii jeyoowo mun"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "fii bonnde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:02.031027850Z",
+  "model": "glm-5.3"
+}

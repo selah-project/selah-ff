@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "E nokku jooɗorde mun o ƴeewtii en no nodda e hoɗɓe leydi ndin fow.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "e nokku jooɗorde"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "jooɗorde mun"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "o ƴeewtii en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no nodda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:36.351164172Z",
+  "model": "glm-5.3"
+}

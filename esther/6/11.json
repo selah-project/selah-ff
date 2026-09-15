@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Hamanana jogi ⟨את⟩ ɓoornannde nden e ⟨את⟩ puccu ngen, ɓoornini ⟨את⟩ Mordekay, moofti mo e yaasi wuro ngan, noddi yeeso makko: ko non wađetee e neɗđo mo laamđo on yiɿi teddinde.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓoornannde nden"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "ɓoornannde nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "puccu ngen"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "puccu ngen"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ɓoornini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "moofti mo"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "e yaasi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wađetee"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "e neđo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiđi"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "teddinde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:20.147993228Z",
+  "model": "glm-5.3"
+}

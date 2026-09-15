@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ndeen waɗii, tuma Raachel jibini ⟨את⟩ Yuusufu, Yaaquba wi'i Labana: Nulaa mi, ndeen mi yaha to nokkuure am e leydi am.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen waɗii"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuusufu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Nulaa mi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "nokkuure am"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "e leydi am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:25.665560215Z",
+  "model": "glm-5.3"
+}

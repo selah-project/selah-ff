@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "E a wi'ay ɓe: Ndee Yaawe wi'i: Ɓe yaltata hade ɓe ummitoo? O rutta hade o rutto?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "a wi'ay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "ɓe yaltata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hade"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ɓe ummitoo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "e"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "o rutta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hade"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "o rutto"
+    }
+  ],
+  "timestamp": "2026-09-14T08:10:26.596000608Z",
+  "model": "glm-5.3"
+}

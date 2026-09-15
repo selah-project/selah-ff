@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Ko maa woni kammuuli ɗin, kadi leydi ndin ko maa woni ⟨ndi⟩; aduna on e moƴƴere mun fuu, aan ngoni taguɗo ⟨ɗi⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ko maa woni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ko maa woni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduna on"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "e moƴƴere mun fuu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ngoni taguɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:43.204678831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "No wasjii-ɗaa on mo alaa ñaawoore! E teskere heewnde no feewni hollu-ɗaa!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "No ... ɗaa!"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "wasjii-"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "mo alaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "teskere feewnde"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "heewnde"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "hollu-"
+    }
+  ],
+  "timestamp": "2026-09-14T10:14:30.766675451Z",
+  "model": "glm-5.3"
+}

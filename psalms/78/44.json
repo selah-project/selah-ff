@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O wayli maayooji maɓɓe, o waɗi ɗum ƴiiƴam; lolli maɓɓe dogduɗi, ɓe waawaa yarude.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "o wayli"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "o waɗi ɗum ƴiiƴam"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "maayooji maɓɓe"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "lolli maɓɓe dogduɗi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ɓe waawaa"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "yarude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:15.310336383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Kono ɓe jarribii ɓe mbaɗi muurtal ⟨את⟩ Eloohim Toowɗo, seedeeji mun ɓe rewaali.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ɓe jarribii"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ɓe mbaɗi muurtal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim Toowɗo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Toowɗo"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "seedeeji mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "rewaali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:33.881034511Z",
+  "model": "glm-5.3"
+}

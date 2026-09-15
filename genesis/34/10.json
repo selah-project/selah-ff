@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "E ⟨את⟩ min nguuron, leydi ndin wonay ⟨ko⟩ yeeso mon; nguuron, njulaadu ɗam ndin, jogaade ndin njogito.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ min"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "nguuron"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonay ⟨ko⟩"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nguuron"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "njulaadu ɗam ndin"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "jogito"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:28.557792309Z",
+  "model": "glm-5.3"
+}

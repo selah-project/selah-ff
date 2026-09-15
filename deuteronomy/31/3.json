@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yaawe Eloohim maaɗa, kanko o yahata yeeso maa; kanko o halkay ⟨את⟩ leƴƴi ɗii iwde yeeso maa, a heɓata ɗi; Yahuushuaa, kanko o yahata yeeso maa, no Yaawe wi'iri.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "halkay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi ɗii"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "iwde yeeso maa"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "a heɓata ɗi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuushuaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'iri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:49.687959421Z",
+  "model": "glm-5.3"
+}

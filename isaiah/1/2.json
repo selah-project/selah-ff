@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nguron, kammuuli, e noppi min, leydi, tawde Yaawe haali: ɓiɓɓe mi mawnini, mi ɓamtini, kono ɓe fitinii e am.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nguron"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "e noppi min"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "mawnini"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "mi ɓamtini"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "fitinii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:18.948640888Z",
+  "model": "glm-5.3"
+}

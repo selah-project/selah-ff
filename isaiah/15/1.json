@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Massa Moab: sabu ko e jamma Ar Moab halkaama, momtaama; sabu ko e jamma Kiir Moab halkaama, momtaama.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "massa (ɓeyngu-darorɗi)"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu ko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "e jamma"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "halkaama"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "momtaama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu ko"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "e jamma"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "halkaama"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kiir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "momtaama"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:18.872377508Z",
+  "model": "glm-5.3"
+}

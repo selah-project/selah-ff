@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "E darannde leydi ndin mi mbi'a to maa; sahaa gonndi ɓernde-am ɓurtunde, arsaa mi to lewru ɓurndu toowde e am.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "E darannde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi mbi'a"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "sahaa gonndi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde-am ɓurtunde"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "to lewru"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ɓurndu toowde"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "arsaa mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:53.956006766Z",
+  "model": "glm-5.3"
+}

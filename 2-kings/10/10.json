@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "\"Anndee jooni, wonde konngol Yaawe ngol alaa ka yalta e leydi, ngol Yaawe wi'i dow baade galle Ahab; Yaawe waɗii ⟨את⟩ ko o wi'i e juuɗe jeyaaɗo mun Eliyaahu.\"",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Anndee"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "yalta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe kadi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko o wi'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jeyaaɗo mun"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:10.237792515Z",
+  "model": "glm-5.3"
+}

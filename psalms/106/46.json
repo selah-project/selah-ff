@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "O waɗi ⟨את⟩ ɓe heɓde yurmeende, yeeso kala gañɗoɗo ɓe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "gañɗoɗo ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:28.148933961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Yo wodɗo yetto maa, wanaa hunnde maa nden; yo ñoññaaɗo, wanaa lebbi maa ɗen.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "yo ... yetto maa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wodɗo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "hunnde maa"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ñoññaaɗo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lebbi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:04:20.200226610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Nguurndam am mawnay solgol e Yaawe, o fenoy e daɗɗagol makko.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "mawnay solgol"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "fenoy"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "e daɗɗagol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:39.610857358Z",
+  "model": "glm-5.3"
+}

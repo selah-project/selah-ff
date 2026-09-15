@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono miin mi heewii doole, ⟨e⟩ ⟨את⟩ Ruuhu Yaawe, e ñaawoore e semmbe, ngam hollirde Yaakuuba fuɗɗude mun e Israa'iila bakkaat mun.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "miin"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "mi heewii"
+    },
+    {
+      "surface": "כח",
+      "gloss": "doole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruuhu Yaawe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "e semmbe"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ngam hollirde"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "fuɗɗude mun"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "e Israa'iila"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "bakkaat mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:06:08.140590868Z",
+  "model": "glm-5.3"
+}

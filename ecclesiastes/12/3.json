@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E nder balɗe ɗo reenooɓe suudu ndun ɗemmboto, e worɓe ɗaanuɓe ɗimmbito, e maƴƴoɓe ɗen heddoto sabu ɓe ŋakku, e yi'oowo'en e nder pannde ɗen naƴoto",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "e nder balɗe"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "ɗo ... ɗemmboto"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "reenooɓe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "e ɗimmbito"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "danuɓe ɓen"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "e heddoto"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "maƴƴoɓe ɗen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "ɓe ŋakku"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "e naƴoto"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "yi'oowo'en"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "e nder pannde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:56.154348866Z",
+  "model": "glm-5.3"
+}

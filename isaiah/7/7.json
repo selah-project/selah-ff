@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ko nii Adonaay Yaawe wi'i: ɗum muuyataa, ɗum tagataa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ɗum muuyataa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e wanaa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ɗum tagataa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:14.554346761Z",
+  "model": "glm-5.3"
+}

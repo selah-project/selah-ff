@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Haa mi naati e miiraaɗe Eel, nooni mi faamay joofnirde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Haa"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi naati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "miiraaɗe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "mi faamay"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "joofnirde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:35.488605802Z",
+  "model": "glm-5.3"
+}

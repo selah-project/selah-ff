@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Nde jeyaa Aarona e ɓiɓɓe mun, ɓe ñaama ɗum e nokku ceniiɗo, chunki ko ceniiɗe ɓurɗe ceniiɗde woni jeyaa makko, e peewnugol yiite Yaawe — kuugal duumiingol.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "nde jeyaa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aarona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e fii ɓiɓɓe mun"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "ɓe ñaama ɗum"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ceniiɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ceniiɗe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ɓurɗe ceniiɗde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jeyaa makko"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "e peewnugol yiite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiingol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:14.939993370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wata a sellinta ɓiɗɗo maa debbo ⟨את⟩ fii momtugol maggol; leydi ndin wanaa yaltu e candu, wanaa ndoornu e bonannde.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "a sellinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo maa debbo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ɓiɗɗo maa debbo"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "fii momtugol maggol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "yaltu e candu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "wanaa ndoornu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "e bonannde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:38.120596Z",
+  "model": "glm-5.3"
+}

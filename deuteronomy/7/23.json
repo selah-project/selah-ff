@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe Eloohim maaɗa maa Hokku ɓe yeeso maaɗa, o mbaɗa ɓe majjere mawnde, haa ɓe halkaa.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "maa Hokku ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maaɗa"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "o mbaɗa ɓe"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "ɓe halkaa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:55:55.354199894Z",
+  "model": "glm-5.3"
+}

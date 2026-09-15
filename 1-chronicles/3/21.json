@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓiɗɗo Hananja ko Pelatja e Yishaja; ɓiɗɓe Refaja, ɓiɗɓe Arnan, ɓiɗɓe Obadja, ɓiɗɓe Shekanja.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "Pelatja"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "e Yishaja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Refaja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Shekanja"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:51.846782236Z",
+  "model": "glm-5.3"
+}

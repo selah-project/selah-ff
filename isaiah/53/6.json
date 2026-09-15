@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 53,
+  "translation": "Men fuu majjii no ⟨en⟩ baali nii, neɗɗo kala eggii laawol makko; Yaawe werlii e makko ⟨את⟩ bonannde men fuu.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "men fuu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "no baali nii"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo kala"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "laawol makko"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "eggii"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "werlii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde men fuu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "men fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:23.566047245Z",
+  "model": "glm-5.3"
+}

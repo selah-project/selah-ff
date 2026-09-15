@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Limanjo on rokkii ardiiɓe teemedaaɗe ɗin ⟨את⟩ lancce ɗen e ⟨את⟩ payeeje ɗen ɗe jeyi Dawuuda laamɗo on, ɗe ngoni e suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "rokkii"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "limanjo on"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ardiiɓe"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "teemedaaɗe ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lancce ɗen"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "lancce ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "payeeje ɗen"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "payeeje ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:32.630410147Z",
+  "model": "glm-5.3"
+}

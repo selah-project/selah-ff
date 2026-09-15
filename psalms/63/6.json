@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "No ñebbe e duum nii morticillo am hebbii; haare am e lewlewwi laawnugol maa yetta.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñebbe"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "e duum"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hebbii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "morticillo am"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "e lewlewwi"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "laawnugol"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "yetta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haare am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:23.515127378Z",
+  "model": "glm-5.3"
+}

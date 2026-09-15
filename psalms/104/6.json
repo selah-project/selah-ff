@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Tiinde nde o cuɓɓini ɗum no wuddiri; ndiyam darii dow tulde.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Tiinde nde"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "no wuddiri"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "o cuɓɓini ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "darii"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:24.415204048Z",
+  "model": "glm-5.3"
+}

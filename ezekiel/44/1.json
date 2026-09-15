@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "O artirimi laawol ⟨את⟩ wertirde mikdash ka yeeso mum wirnii fuɗnaange, kono nde uwwaama.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o artiri-mi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "laawol"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "שער",
+      "gloss": "wertirde"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "mikdash"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ka yeeso mum"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "wirnii"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "fuɗnaange"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kono nde"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "uwwaama"
+    }
+  ],
+  "timestamp": "2026-09-14T08:55:13.256139586Z",
+  "model": "glm-5.3"
+}

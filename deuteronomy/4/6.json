@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 4:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ndee on reennu ɗen e mbaɗtu ɗum, Sabu ko nde ñeeñande mon e faamuyankeende mon yimɓe ɗin njiyata, ɓe nana ⟨את⟩ ɗee cuuɗi fuu, ɓe mbi'a: tawa fedde ñeeñaande e faamuyankoore woni leñol mawngol ngol.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reennu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "e mbaɗtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sabu ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חכמתכם",
+      "gloss": "ñeeñande mon"
+    },
+    {
+      "surface": "ובינתכם",
+      "gloss": "e faamuyankeende mon"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "jiyata"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "nana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee cuuɗi fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ɗee cuuɗi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ɓe mbi'a"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fedde"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ñeeñaande"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "e faamuyankoore"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mawngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:37.046871969Z",
+  "model": "glm-5.3"
+}

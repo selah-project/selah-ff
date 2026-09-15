@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Njahrnooni, tuma nde o wonndi e haalaade Yuusufu ñalnde kala, o nanooyi ɗum, wanaa fii leldaade ɓaawo makko, wanaa fii wonndaade e makko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "njahrnooni"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "tuma nde o haalata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanooyi ɗum"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "fii leldaade"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ɓaawo makko"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "fii wonndaade"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:45.722751725Z",
+  "model": "glm-5.3"
+}

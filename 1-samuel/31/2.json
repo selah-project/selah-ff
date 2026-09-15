@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ndeen Pelishtinaaɓe ɓe ƴeewtii ⟨את⟩ Saul e ⟨את⟩ ɓiɓɓe mun; Pelishtinaaɓe ɓe fi'i ⟨את⟩ Yehonatanan e ⟨את⟩ Abinadab e ⟨את⟩ Malkishuwa, ɓiɓɓe Saul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ɓe ƴeewtii"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtinaaɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ɓe fi'i"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtinaaɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatanan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Abinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Malkishuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:03.231372421Z",
+  "model": "glm-5.3"
+}

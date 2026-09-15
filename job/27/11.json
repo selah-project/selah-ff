@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Mi jannginay ⟨את⟩ on e juuɗe Eel; ɗum woni e Shadday mi suuɗirtaa.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Mi jannginay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mi suuɗirtaa"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "suuɗirtaa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:14:08.934652932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɗum waɗi caggal ɗuum, ƴertere Daawida fiyi mo ⟨את⟩, sabu o taƴunoo ⟨את⟩ kaɓɓol ngol woni e Shaawul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɗum waɗi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ƴertere"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "Daawida (fiyi mo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o taƴunoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaɓɓol ngol"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kaɓɓol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni e"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaawul"
+    }
+  ],
+  "timestamp": "2026-09-14T11:58:26.300402946Z",
+  "model": "glm-5.3"
+}

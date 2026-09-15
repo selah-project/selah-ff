@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yaawe wi'i: “No jeyaaɗo am Yeshayahu yahriri wuro e ɓalɗi duuvi tati, ɗum woni maande e kujeeru fii Misrayim e fii Kush.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "No ... yahriri"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahriri"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɗo am"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "e ɓalɗi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuvi"
+    },
+    {
+      "surface": "אות",
+      "gloss": "maande"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "e kujeeru"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:29.515301281Z",
+  "model": "glm-5.3"
+}

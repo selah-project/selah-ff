@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "E neɗɗo fiyɗo fedde ⟨את⟩ debbo gorko — fiyɗo ⟨את⟩ debbo sehil mun — wartere wartere: fiyoowo on e fiyeeɗo on.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ño"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "fiyɗo fedde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo gorko"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ño"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "fiyɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo sehil mun"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wartere"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wartere"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "fiyoowo on"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "e fiyeeɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:53.385094057Z",
+  "model": "glm-5.3"
+}

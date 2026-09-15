@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O udditii nde, o yi'i mo — ⟨את⟩ suka o — e ndaro: suka ina wulla. O ƴettirii mo yummuere, o wi'i: «Ko e ɓiɗɓe Ibraniyankooɓe ɓen ngadɗi, on woni.»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "o udditii nde"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "o yi'i mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka o"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "suka o"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndaro"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ina wulla"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "o ƴettirii mo yummuere"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "ko e ɓiɗɓe"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ibraniyankooɓe ɓen"
+    },
+    {
+      "surface": "זה",
+      "gloss": "on woni"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:17.486395884Z",
+  "model": "glm-5.3"
+}

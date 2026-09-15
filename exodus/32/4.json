@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O jogi ɗum e junngo maɓɓe, o taƴi ɗum ⟨את⟩ e kuutorgol taƴngol, o waɣi ɗum nagge loowaaɗe; ɓe wi'i: Ɗee woni Eloohim maaɗa, Israa'iil, ɗi mbuuzi maaɗa ummoraade leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "O jogi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "e junngo maɓɓe"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "o taƴi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "e kuutorgol taƴngol"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "e kuutorgol taƴngol"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "o waɣi ɗum"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nagge"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "loowaaɗe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "mbuuzi maaɗa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummoraade leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-15T07:04:21.099003290Z",
+  "model": "glm-5.3"
+}

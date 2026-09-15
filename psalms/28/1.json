@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Nde Daawuda. E maa, Yaawe, mi noddoto; jamde am, wata a muumɗo e am; so wonaa a dewaali e am, mi nanndin e ɓe jippotooɓe e bone.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Nde Daawuda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddoto"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "jamde am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "a muumɗo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "פן",
+      "gloss": "so wonaa"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "a dewaali"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "mi nanndin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ɓe jippotooɓe"
+    },
+    {
+      "surface": "בור",
+      "gloss": "bone"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:36.775285076Z",
+  "model": "glm-5.3"
+}

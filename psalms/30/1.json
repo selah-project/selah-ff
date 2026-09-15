@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Mizmoor — jimol cenngol saare nden — Daawuuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "jimol"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "cenngol"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "saare nden"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:55.924285557Z",
+  "model": "glm-5.3"
+}

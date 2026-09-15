@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "O lelnay leƴƴi les min, e jamaaʼe les koyɗe amen.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "o lelnay"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "les min"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "e jamaaʼe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "koyɗe amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:26.375539309Z",
+  "model": "glm-5.3"
+}

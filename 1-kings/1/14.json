@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndee, tawa a haalata ɗoo e laamɗo on, kamɓe mi ngara ɓaawo maa, mi hełlay ⟨את⟩ konnguɗi maa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndee"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "tawa a haalata"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "haalata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kamɓe mi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ngara"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ɓaawo maa"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "mi hełlay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi maa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "konnguɗi maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:00.739367376Z",
+  "model": "glm-5.3"
+}

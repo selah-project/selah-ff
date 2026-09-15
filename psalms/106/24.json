@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ɓe ɗaɓɓiti e leydi welndi ndi; ɓe goongɗinaani konngol Makko.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Ɓe ɗaɓɓiti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "welndi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe ... aani"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "goongɗina"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "konngol Makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:40.854557544Z",
+  "model": "glm-5.3"
+}

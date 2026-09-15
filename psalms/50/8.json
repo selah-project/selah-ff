@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Wonaa fii ɓalɗe maa mbinndirtoo maa; ɓurtineeje maa ina ngonderi yeeso am duumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wonaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ɓalɗe maa"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "mbinndirtoo maa"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ɓurtineeje maa"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "yeeso am (ñiiɓirde am)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:29.088770878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "So a yahii, ɗi ardin ⟨את⟩ maa; so a lelii, ɗi reeni maa; a ummiinde, ɗi kaaldirta maa.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "So a yahii"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ɗi ardin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "so a lelii"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ɗi reeni"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "a ummiinde"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "kaaldirta maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:54:04.184239998Z",
+  "model": "glm-5.3"
+}

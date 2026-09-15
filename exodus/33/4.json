@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yimɓe ɓen nanii ⟨את⟩ konngol ngol bonngol ngol, ɓe muynii; hay gooto ɓoornaani mbaadi mum he mum.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol bonngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bonngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ɓe muynii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ɓoornaani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "mbaadi mum"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "he mum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:10.013753492Z",
+  "model": "glm-5.3"
+}

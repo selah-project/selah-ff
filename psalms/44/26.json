@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Fii nde wonduurde amen lewɓii haa e mbuɗe; ɓalndu amen ɗaɓɓi hoore mun e leydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii nde"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "lewɓii"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "haa e mbuɗe"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "wonduurde amen"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ɗaɓɓi hoore mun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ɓalndu amen"
+    }
+  ],
+  "timestamp": "2026-09-15T06:04:41.833696130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Doole laamɗo on ñaawoore yiɗi; aɗa tagii laaɓal; ñaawoore e ceɗungal a waɗi e Yaawqoop.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Doole"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "tagii"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "laaɓal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "e ceɗungal"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "e Yaawqoop"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:21.829742051Z",
+  "model": "glm-5.3"
+}

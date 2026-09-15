@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Naomi ƴetti ⟨את⟩ cukalel ngel, o fewni ngo e ɓoggu mun, o laati aññaaɗo mun.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cukalel ngel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "cukalel ngel"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "o fewni ngo"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "e ɓoggu mun"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(mun)"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "aññaaɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:41.944106077Z",
+  "model": "glm-5.3"
+}

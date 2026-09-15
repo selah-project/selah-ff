@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Laamɓe leydi ndin darorii jikku, tedduɓe ɓen kaworii duumde, fii Yaawe e fii Mashiah Makko on.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "darorii jikku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "e tedduɓe ɓen"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "kaworii"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "duumde"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah Makko on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:56.476325143Z",
+  "model": "glm-5.3"
+}

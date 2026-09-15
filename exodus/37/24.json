@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "E kikkar kaŋŋe laaɓnde o waɗi ⟨את⟩ mayre, e ⟨את⟩ kuuje mayre fuu.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kaŋŋe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "laaɓnde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mayre (menoraa on)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuuje mayre fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "kuuje mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:47.185439992Z",
+  "model": "glm-5.3"
+}

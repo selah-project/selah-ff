@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kono mbaawa walla be'e ɓe ngaawi walla ɓe ŋakki, ko ballal muñal waɗir ⟨את⟩ ɗum; kono fii ballal jaɓaaka.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "mbaawa"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "be'e"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ɓe ngaawi"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ɓe ŋakki"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ballal muñal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mbaawa walla be'e ɓe ngaawi walla ɓe ŋakki"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "fii ballal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jaɓaaka"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "jaɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:53.817592248Z",
+  "model": "glm-5.3"
+}

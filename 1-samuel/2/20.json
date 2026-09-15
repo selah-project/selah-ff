@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Eli barrinii ⟨את⟩ Elkanaa e ⟨את⟩ debbo makko, o wi'i: Yaawe wuurnane ɓiɗɗe iwde e debbo ngoo, e mbaydi ndi o ɓoorni Yaawe. Ɓe njahi to nokku maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "barrinii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanaa"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "debbo makko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo makko"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "wuurnane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ɓiɗɗe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iwde e"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e mbaydi"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "ndi o ɓoorni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ɓoorni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "Ɓe njahi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "to nokku maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:44.606901360Z",
+  "model": "glm-5.3"
+}

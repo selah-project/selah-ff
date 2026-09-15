@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ko honɗam, Yaawe, a darii e woɗɗo? A suuɗii hoore maa e sahaaji caɗeele?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ko honɗam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "a darii"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "e woɗɗo"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "a suuɗii"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "e sahaaji"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "caɗeele"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:12.209201159Z",
+  "model": "glm-5.3"
+}

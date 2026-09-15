@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Kanko a na rutta, a na nano daande Yaawe, a na waɗa ⟨את⟩ yamɗe makko fuu ɗe mi noddirta maa hannde.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kanko a"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "na rutta"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "a na nano"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a na waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yamɗe makko fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "yamɗe makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "noddirta maa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:06.763055404Z",
+  "model": "glm-5.3"
+}

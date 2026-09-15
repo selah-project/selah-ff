@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Min ndewet ko aduna e ndimmu maa; e nder innde Eloohim amen min ɗawla bayru — Yaawe, yo o timmin ɗaɓɓitooji maa ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "min ndewet ko aduna"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "e nder ndimmu maa"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "min ɗawla bayru"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yo o timmin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "ɗaɓɓitooji maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:26.771676071Z",
+  "model": "glm-5.3"
+}

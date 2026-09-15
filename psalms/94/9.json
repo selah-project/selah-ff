@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Oo faɗɗotooɗo noppi, hara o nanataa? Oo sifotooɗo gite, hara o yi'ataa?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Oo faɗɗotooɗo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "noppi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hara"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "o nanataa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Oo sifotooɗo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gite"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hara"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "o yi'ataa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:19.779570318Z",
+  "model": "glm-5.3"
+}

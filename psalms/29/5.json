@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Wolde Yaawe taƴata arsiji; kadi Yaawe taƴinii ⟨את⟩ arsiji Lebanun.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "wolde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "taƴata"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arsiji"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "kadi taƴinii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arsiji Lebanun"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "arsiji"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanun"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:22.580896327Z",
+  "model": "glm-5.3"
+}

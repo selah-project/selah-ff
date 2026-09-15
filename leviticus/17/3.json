@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Neɗɗo kala e nder galle Israa'iil, mo weltoto bawa walla mbeɗa walla be'i e nder kaampa, walla mo weltoto ɗum yaasi kaampa ngan,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e nder galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "weltoto"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "mbeɗa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "עז",
+      "gloss": "be'i"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "e nder kaampa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "weltoto ɗum"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kaampa ngan"
+    }
+  ],
+  "timestamp": "2026-09-15T05:50:10.724531742Z",
+  "model": "glm-5.3"
+}

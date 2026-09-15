@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i mo: \"Ko konnguɗi ɗin fof ɗan miɗo wi'a, miɗo waɗa.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "miɗo wi'a"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "miɗo waɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:49.030467246Z",
+  "model": "glm-5.3"
+}

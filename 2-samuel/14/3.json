@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Aru e laamɗo on, haalan mo konngol ngol.' Ndeen Yoo'aab waɗi ⟨את⟩ konngi ɗin e munnde makko.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "aru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoo'aab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "e munnde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:03.350594790Z",
+  "model": "glm-5.3"
+}

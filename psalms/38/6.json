@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Taƴe am mbawii, ɗe mbonii, sabu juuɗe jamiraaɗe am.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "mbawii"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ɗe mbonii"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "taƴe am"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "juuɗe jamiraaɗe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:20.008860314Z",
+  "model": "glm-5.3"
+}

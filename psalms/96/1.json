@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Wimmit-yee ñaamo Yaawe, wimo hesɗinamo; wimmit-yee ñaamo Yaawe, leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "wimmit-yee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ñaamo Yaawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wimo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesɗinamo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "wimmit-yee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ñaamo Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:01.474215874Z",
+  "model": "glm-5.3"
+}

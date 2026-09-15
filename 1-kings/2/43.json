@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E ko waɗi a reñaani ⟨את⟩ ñaawondiral Yaawe e ⟨את⟩ neldaari ndi mi neldi e maa?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "e ko waɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "–"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "a reñaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawondiral Yaawe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ñaawondiral"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neldaari ndi"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "neldaari ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi neldi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:38.370256269Z",
+  "model": "glm-5.3"
+}

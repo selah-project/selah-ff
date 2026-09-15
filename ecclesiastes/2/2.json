@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Fii bi'iddu mi wi'i: «Wahru»; fii weltaare: «Ko ngolɗum waɗata?»",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "fii bi'iddu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "wahru"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "fii weltaare"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ngolɗum"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗata"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:09.382995239Z",
+  "model": "glm-5.3"
+}

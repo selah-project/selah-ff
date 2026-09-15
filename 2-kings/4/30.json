@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Debbo suka on — innde mum ko yumma — wi'i: Yaawe waɗata, e ngoore maa waɗata, mi yaltataa ma. O ummii, o yahi ɓaawo makko.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "חי",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "e ... waɗata"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ngoore maa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi yaltataa ma"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ɓaawo makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:08:19.347242782Z",
+  "model": "glm-5.3"
+}

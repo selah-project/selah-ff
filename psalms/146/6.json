@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 146,
+  "translation": "⟨O⟩ waɗo kammuuli ⟨ɗiń⟩ e leydi ⟨ndiń⟩, ⟨את⟩ maayo ⟨ngo⟩ e ⟨את⟩ fuu ko woni e maɓɓe; O reeni goongu haa duumii.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "waɗo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu ko woni e maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "O reeni"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goongu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:07.986516180Z",
+  "model": "glm-5.3"
+}

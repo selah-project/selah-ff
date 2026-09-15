@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 92,
+  "translation": "Ɓe neddinaama nder suudu Yaawe; nder ceene Eloohim amen ɓe mawnay.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ɓe neddinaama"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "nder suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "nder ceene"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ɓe mawnay"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:27.338784755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i: “Laawol heɓata min ƴellude?” O wi'i: “Laawol jeereende Edom.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אי",
+      "gloss": "heebude"
+    },
+    {
+      "surface": "זה",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "min ƴellude"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:09.211629014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Mi, mi ko kanko woni ñaawuɗo on; ko hombo a woni, a kulɗo neɗɗo maayɗo, e ɓiɗɗo aadamu no huɗo rokke?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "ñaawuɗo on"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko hombo"
+    },
+    {
+      "surface": "את",
+      "gloss": "a"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "a kulɗo"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "maayɗo"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "e ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadamu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "no huɗo"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "rokke"
+    }
+  ],
+  "timestamp": "2026-09-14T07:59:02.172211557Z",
+  "model": "glm-5.3"
+}

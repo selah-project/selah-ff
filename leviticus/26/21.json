@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Si on yahi e am e kerii, wanaa jaɓde nande am, mi ɓeydan on mbaroowo jeenayi, no bakkaatuuji mon nii.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "on yahi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "kerii"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "jaɓde"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "mi ɓeydan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mbaroowo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeenayi"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "no bakkaatuuji mon nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:55.585720438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Sarwaaɗo on yi'ay ⟨את⟩ boofoo ngoo, o naɗay ⟨את⟩ boofoo ngoo ñalawma jeeɗiɗi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "yi'ay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Sarwaaɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boofoo ngoo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "boofoo ngoo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "o naɗay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boofoo ngoo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "boofoo ngoo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalawma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:02.759408441Z",
+  "model": "glm-5.3"
+}

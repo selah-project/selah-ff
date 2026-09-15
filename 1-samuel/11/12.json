@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yimɓe ɓen wi'i Shemu'el: \"Ko hommbo wi'uno wata Sha'uul laama min? Ndokku min worɓe ɓen, min waran ɓe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... (ka)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wi'uno"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "laama"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min ... wata"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "min waran ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:11.406238253Z",
+  "model": "glm-5.3"
+}

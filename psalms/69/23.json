@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 69,
+  "translation": "Yo taabal maɓɓe, hadi maɓɓe, wonu ɓoggu; yo yo bunandu wonu ɓe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "yo ... wonu"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "taabal maɓɓe"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "hadi maɓɓe"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "ɓoggu"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "yo yo bunandu"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lonngere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:03.508416556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Maayo ngal mawnay baaliiji, ɓe ƴelloto, ɓe naata e suudu maa, e nder suudu lelnge maa, e dow lelnge maa, e nder suudu maccuɓe maa, e dow yimɓe maa, e nder pworuuji maa, e nder pallooji maa.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "mawnay"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "maayo ngal"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "baaliiji"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "ɓe ƴelloto"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ɓe naata"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "e suudu maa"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "e nder suudu lelnge maa"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "suudu lelnge maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "lelnge maa"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "e nder suudu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "maccuɓe maa"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "e dow yimɓe maa"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "e nder pworuuji maa"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "e nder pallooji maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:47.899235455Z",
+  "model": "glm-5.3"
+}

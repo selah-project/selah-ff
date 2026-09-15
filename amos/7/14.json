@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Amos jaabii, o wi'i Amasaya: mi wonaajo annabi, mi wonaajo ɓiy annabi; ko bayyee jam ko mi woni, e moyyinoowo ɓiɗɗe leɗɗe shikmoore.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amasaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaajo ... wonaajo"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wonaajo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "annabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "bayyee jam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi woni"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "e moyyinoowo"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "ɓiɗɗe leɗɗe shikmoore"
+    }
+  ],
+  "timestamp": "2026-09-14T09:03:30.369696941Z",
+  "model": "glm-5.3"
+}

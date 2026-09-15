@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 117,
+  "translation": "Hillu ⟨את⟩ Yaawe, leƴƴi ɗin fof; mawninu mo, yimɓe ɗin fof.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hillu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mawninu mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "yimɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:46.538768712Z",
+  "model": "glm-5.3"
+}

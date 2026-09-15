@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Ndamri mun barka mi barkinta, miskineeɓe mun mi yogoyta leemre.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ndamri mun"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barka"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mi barkinta"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "miskineeɓe mun"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "mi yogoyta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leemre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:07.213439651Z",
+  "model": "glm-5.3"
+}

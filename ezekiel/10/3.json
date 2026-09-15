@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Kerubiim ɗin darii kaŋŋe ñaamo wuro ngo, nde gorko on naati, dokkol ngol heewi ⟨את⟩ faanderre nderndere nden.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "kerubiim ɗin"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "darii"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "kaŋŋe ñaamo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "nde o naati"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "dokkol ngol"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "heewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faanderre nderndere nden"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "faanderre nden"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "nderndere nden"
+    }
+  ],
+  "timestamp": "2026-09-14T08:38:38.393737536Z",
+  "model": "glm-5.3"
+}

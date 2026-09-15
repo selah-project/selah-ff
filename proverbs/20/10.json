@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Hayre e hayre, eefaa e eefaa, ɗiɗo ɓen dennga ko ɓe ñiŋteende.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "hayre"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "e hayre"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eefaa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "e eefaa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ñiŋteende"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dennga"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗiɗo ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T19:25:31.234563740Z",
+  "model": "glm-5.3"
+}

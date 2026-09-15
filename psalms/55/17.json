@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Kanko min, maa Eloohim mi noddoto; Yaawe hisnay mi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Kanko min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddoto"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "hisnay mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.993066576Z",
+  "model": "glm-5.3"
+}

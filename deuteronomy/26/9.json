@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "O naatni min e ndee nokku, o rokki min ⟨את⟩ leydi ndin — leydi ɓuuɓndi kosam e asal.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "o naatni min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku on"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ɓuuɓndi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kosam"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e asal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:20.442741124Z",
+  "model": "glm-5.3"
+}

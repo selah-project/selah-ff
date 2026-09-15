@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɗɓe Aharonen awrooɓe ɓen ɓe lelnay ⟨את⟩ piɗpiɗi ɗii, ⟨את⟩ hoore nden e ⟨את⟩ dormidu on dow leɗɗe ɗe dow yiite nden woni dow saare nden.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ɓe lelnay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "awrooɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piɗpiɗi ɗii"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "piɗpiɗi ɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore nden"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hoore nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "dormidu on"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "dormidu on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "leɗɗe ɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe dow"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "האש",
+      "gloss": "yiite nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woni dow"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "saare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:23.123255242Z",
+  "model": "glm-5.3"
+}

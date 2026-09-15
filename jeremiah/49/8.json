@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 49:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Ndogee, wattittee, naaton les ngam hoɗde, yimɓe hoɗɓe to Dedan; sabu musiiba Esav mi addanii e dow makko, saa'i njillu am e makko.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Ndogee"
+    },
+    {
+      "surface": "הפנו",
+      "gloss": "wattittee"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "naaton les"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngam hoðde"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yimɓe hoɗɓe"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "איד",
+      "gloss": "musiiba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "mi addanii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "saa'i"
+    },
+    {
+      "surface": "פקדתיו",
+      "gloss": "njillu am e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T08:30:57.867466145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Sabu ɗum puye ⟨taarii⟩ ma, e kulol jaŋngol ⟨hawtiti⟩ ma.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "taarii ma"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "puye"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "hawtiti ma"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "jaŋngol"
+    }
+  ],
+  "timestamp": "2026-09-14T10:12:56.604625507Z",
+  "model": "glm-5.3"
+}

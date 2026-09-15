@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Wata ƴettu ⟨את⟩ e makko ribo ñamaande wanaa ɓeyngol; hannnde maa kul Eloohim maa; maa miñi maa wuuru e maa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribo ñamaande"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "e ɓeyngol"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "hannnde maa kul"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "maa o wuuru"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:36.890273850Z",
+  "model": "glm-5.3"
+}

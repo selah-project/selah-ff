@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Abishalomu e yimɓe fuu, worɓe Israa'iila, ɓe ari Yerushalayim, kono Akitoofel e makko ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Abishalomu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e yimɓe fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ɓe ari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "kono Akitoofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨e makko⟩",
+      "marks": "Akitoofel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:38.526942514Z",
+  "model": "glm-5.3"
+}

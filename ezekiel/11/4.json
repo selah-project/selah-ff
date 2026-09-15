@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Sabu ɗuum, waaju e maɓɓe, waaju, ɓiɗɗo aadam.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗuum"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "waaju"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "waaju"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    }
+  ],
+  "timestamp": "2026-09-14T08:38:10.750565775Z",
+  "model": "glm-5.3"
+}

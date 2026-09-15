@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Yettunde woodanii ɓe jooɗuɓe nder suudu maa; ɓe ɓeydanta yettinnde maa duuɓi duuɓi. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "yettunde woodanii"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ɓe jooɗuɓe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nder suudu maa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "duuɓi duuɓi"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ɓe yettinta maa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.289166780Z",
+  "model": "glm-5.3"
+}

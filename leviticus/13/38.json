@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Si gorko walla debbo ina hebi e nder ɗerewal mum en ko yeru be-harot, be-harot daneeje.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ina hebi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "e nder ɗerewal"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "mum en"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "be-harot"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "be-harot"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "daneeje"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:18.338973885Z",
+  "model": "glm-5.3"
+}

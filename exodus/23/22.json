@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kono so a nanii no feewi daande makko, maaɗa waɗa fuu ko mi wi'ata, miin mi waɗay ƴaañotooɗo wañiiɓe maa, mi tuubay tuubooɓe maa ⟨את⟩ wañiiɓe maa e ⟨את⟩ tuubooɓe maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "maaɗa wađa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi wi'ata"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "mi wađay wañiiɓe maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañiiɓe maa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "wañiiɓe maa"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "mi tuubay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuubooɓe maa"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tuubooɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:42.947535477Z",
+  "model": "glm-5.3"
+}

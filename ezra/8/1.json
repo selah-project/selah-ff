@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɗee ko kanne hooreeji baabiraaɓe maɓɓe, e minndol iwdi maɓɓe; ɓe ngoni ɓe ummiɓe e am e laamu Artachshashta laamɗo on, ummoriiɗo e Baabilon.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee ko kanne"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "e minndol iwdi maɓɓe"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ɓe ummiɓe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "e laumu"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshashta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ummoriiɗo e Baabilon"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:25.207395907Z",
+  "model": "glm-5.3"
+}

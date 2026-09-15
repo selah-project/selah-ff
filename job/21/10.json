@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Naaŋe mun boŋata, bonnataa; nagge mun jibinta, woppataa.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "naaŋe mun"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "boŋata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "bonnataa"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "jibinta"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "nagge mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "woppataa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:13:05.923569418Z",
+  "model": "glm-5.3"
+}

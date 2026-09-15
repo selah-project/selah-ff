@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Nadde am fii Yaawe mi yoɓoy, ɗoo yeeso yimɓe mun fuu.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nadde am"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "mi yoɓoy"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:24.097086254Z",
+  "model": "glm-5.3"
+}

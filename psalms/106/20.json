@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Ko ɓe lomtini ⟨את⟩ teddarde maɓɓe e mbaadi na'i wujjoowo puɗe.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ɓe lomtini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teddarde maɓɓe"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "teddarde maɓɓe"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "e mbaadi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "na'i"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wujjoowo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "puđe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:09.830389500Z",
+  "model": "glm-5.3"
+}

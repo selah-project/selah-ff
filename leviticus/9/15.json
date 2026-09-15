@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "O ɓadti ⟨את⟩ dokkal ngal yimɓe ɓen, o ƴetti ⟨את⟩ pucci-mbawaaji ñaawoore nden wonande yimɓe ɓen, o wara ɗum, o waɗan ɗum ñaawoore no adinooɗo nii.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "o ɓadti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal ngal"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dokkal ngal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci-mbawaaji ñaawoore nden"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pucci-mbawaaji"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ñaawoore nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "wonande yimɓe ɓen"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "o wara ɗum"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "o waɗan ɗum ñaawoore"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "no adinooɗo nii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:50.711952002Z",
+  "model": "glm-5.3"
+}

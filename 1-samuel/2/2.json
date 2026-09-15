@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Alaa seniido waɗo Yaawe, tawa alaa ko wonaa donge maa, kadi alaa jarɗo waɗo Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "seniido"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "waɗo Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ko wonaa donge maa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kadi alaa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "jarɗo"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "waɗo Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:47.761648254Z",
+  "model": "glm-5.3"
+}

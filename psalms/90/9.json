@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 90,
+  "translation": "Fii noon balɗe amen ɗen fof mbayditii e muural maa; men timminini duuɓi amen ɗen no heege-niiya nii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii noon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "balɗe amen ɗen"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "mbayditii"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "e muural maa"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "men timminini"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "duuɓi amen ɗen"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "heege-niiya"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:15.593660917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Alaa nanndu e maa heddo Eloohim, Adonaay, alaa kadi golle nannduɗe e golle maa.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nanndu e maa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "heddo Eloohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa kadi"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "nannduɗe e golle maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:24.938366771Z",
+  "model": "glm-5.3"
+}

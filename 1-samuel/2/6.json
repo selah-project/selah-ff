@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe waɗata maayde, waɗata wuurde; o jippina Seol, o ɓenna.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "waɗata maayde"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "waɗata wuurde"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "o jippina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "o ɓenna"
+    }
+  ],
+  "timestamp": "2026-09-14T06:35:20.009496223Z",
+  "model": "glm-5.3"
+}

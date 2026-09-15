@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓiyum, tora am wata a yeyru, e ɗaɓɓe am ɓe ngadda ƴettu ɓernde maa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiyum"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "tora am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "a yeyru"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e ɗaɓɓe am"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ɓe ngadda ƴettu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:29.288400668Z",
+  "model": "glm-5.3"
+}

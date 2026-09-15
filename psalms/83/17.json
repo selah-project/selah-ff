@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 83,
+  "translation": "Pinndin wurooje maɓɓe e nguuña, ɓe njiyloto innde maa, Yaawe.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Pinndin"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "wurooje maɓɓe"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "nguuña"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ɓe njiyloto"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:48.125963269Z",
+  "model": "glm-5.3"
+}

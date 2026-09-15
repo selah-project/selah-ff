@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "So a dowaani-dow seɗɗo maa ñamaande huunde, wata naatu e suudu makko ngam yoñaade kabaale mum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "So"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "dowaani-dow"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "seɗɗo maa"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ñamaande"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "naatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ngam yoñaade"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "kabaale mum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:38.408716890Z",
+  "model": "glm-5.3"
+}

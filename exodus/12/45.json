@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Duumiido e golloowo nanaaɗo ɓe ñamaa e mum.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "duumiido"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "golloowo nanaaɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe ñamaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñamaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e mum"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:46.480906648Z",
+  "model": "glm-5.3"
+}

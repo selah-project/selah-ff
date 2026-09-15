@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Laamɗo on wi'i mo: \"Ko ɗo o woni?\" Siibaa wi'i laamɗo on: \"Ndiy, o woni ko e suudu Maakiir, ɓiy Ammiyeel, e Loy-devar.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ko ɗo o woni?"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Siibaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ndiy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Maakiir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiyeel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "e Loy-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "devar"
+    }
+  ],
+  "timestamp": "2026-09-15T05:39:50.359586841Z",
+  "model": "glm-5.3"
+}

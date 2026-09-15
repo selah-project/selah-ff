@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "O hebbini ⟨את⟩ mo ruuhu Eloohim — e ñaawoore, e faamaroore, e ganndal, e nder kala golle.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "hebbini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "e faamaroore"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "e ganndal"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e nder kala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "golle"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:18.138278073Z",
+  "model": "glm-5.3"
+}

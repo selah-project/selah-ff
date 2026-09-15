@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Wata mbaɗaa maa keerol peccangol, mbaadi kala wonnde kammuuli ɗin dow, walla wonnde leydi ndin les, walla wonnde ndiyam ɗam les leydi ndin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "keerol peccangol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "mbaadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "walla wonnde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "walla wonnde"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:04.821714868Z",
+  "model": "glm-5.3"
+}

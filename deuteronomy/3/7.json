@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono jawdi ndi fuu e jawle gure ɗen, min njippii ɗum en minen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kono... fuu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "jawdi ndi"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "e jawle"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gure ɗen"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "min njippii"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "minen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:56.863363345Z",
+  "model": "glm-5.3"
+}

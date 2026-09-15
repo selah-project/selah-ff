@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Fii ɓe ruttinya ⟨את⟩ ɓiɗɗo maaɗa caggal Am, ɓe renda Eloohim goɗɗi; henndu Yaawe ƴeewoyta on, o momtata on jaawngol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "ɓe ruttinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo maaɗa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maaɗa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "caggal Am"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ɓe renda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ƴeewoyta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "henndu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "o momtata on"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "jaawngol"
+    }
+  ],
+  "timestamp": "2026-09-15T05:41:54.707974807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ƴɓo, Yaawe, e tikkere maa; ƴellito hoore maa e rage ƴaañooɓe am; e ummito fii am e ñaawoore nde wirunooɗaa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Ƴɓo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "e tikkere maa"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ƴellito hoore maa"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "e rage"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ƴaañooɓe am"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "e ummito"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nde wirunooɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:21.642512301Z",
+  "model": "glm-5.3"
+}

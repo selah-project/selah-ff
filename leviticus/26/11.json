@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi indan hoɗorde am nden nder hakkunde mon, e nder fenaare am ɓeydataa ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi indan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "hoɗorde am nden"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "nder hakkunde mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ɗen naafe am ɓeydataa"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ɓeydataa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fenaare am"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ mon",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:18.436416239Z",
+  "model": "glm-5.3"
+}

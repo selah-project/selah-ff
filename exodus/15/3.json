@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Yaawe ⟨ko⟩ gorko mbatri, Yaawe innde mun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mbatri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:40.060792226Z",
+  "model": "glm-5.3"
+}

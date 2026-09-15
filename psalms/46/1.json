@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Fii yoowo on, fii ɓiɓɓe Korach, dow alamot, nyaamo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fii yoowo on"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nyaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:52.285472Z",
+  "model": "glm-5.3"
+}

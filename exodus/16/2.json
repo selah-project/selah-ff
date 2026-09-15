@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kala renndo ɓiɓɓe Israa'iila wulli e Musa e Haaruuna e jeereende nden.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "wulli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haaruuna"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:58.238400509Z",
+  "model": "glm-5.3"
+}

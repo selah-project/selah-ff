@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "⟨את⟩ Hol o woondi heen, mo o faamnini mo, mo o janngini laawol ñaawoore, mo o janngini mo ganndal, e laawol faamru mo o hollini mo?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hol (mo)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "woondi heen"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "o faamnini mo"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "o janngini mo"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "o janngini mo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "faamru"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "o hollini mo"
+    }
+  ],
+  "timestamp": "2026-09-15T09:10:03.481701255Z",
+  "model": "glm-5.3"
+}

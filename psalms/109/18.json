@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "O ƴoƴrittii hissere no wuddiri mo nii, nde naati no ndiyam ngaŋki e nder ɓalndu makko, no nebam nii e nder ƴi'e makko.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "o ƴoƴrittii"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "hissere"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "no wuddiri mo nii"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "nde naati"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "e nder ɓalndu makko"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "no nebam nii"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "e nder ƴi'e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:19.443270141Z",
+  "model": "glm-5.3"
+}

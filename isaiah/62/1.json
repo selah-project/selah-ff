@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Fii Tsiiyon mi moyvintaako, e fii Yerushalayim mi muumaako, haa ndimaagu ⟨mun⟩ yaltu no lewru nii, e kisnal ⟨mun⟩ no tiiɗndi yeeytortee.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "mi moyvintaako"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "e fii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "mi muumaako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "no lewru nii"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ndimaagu mun"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "e kisnal mun"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "no tiiɗndi"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yeeytortee"
+    }
+  ],
+  "timestamp": "2026-09-14T08:02:37.373485476Z",
+  "model": "glm-5.3"
+}

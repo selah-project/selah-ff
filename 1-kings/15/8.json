@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Aviyam raworii e baabiraaɓe mun ɓen, ɓe mbburnii mo ⟨את⟩ e saare Dawid; ɓiyum Asa laamorii e nokku makko.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "raworii"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun ɓen"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ɓe mbburnii mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laamorii"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "e nokku makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:20.275775938Z",
+  "model": "glm-5.3"
+}

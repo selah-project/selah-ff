@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ɓe wi'i to Muusaa: “A kaalan e min, min nanata; wata Eloohim kaalan e min, wanaa min maaya.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kaalan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "min nanata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kaalan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "min maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:22.531221917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim men waɗi mo yeeso men, men fiyi ⟨את⟩ mo e ⟨את⟩ ɓiɓɓe mun ɓen e ⟨את⟩ yimɓe mun fuu ɓen.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "waɗi mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim men"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "yeeso men"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "men fiyi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɓɓe mun ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe mun fuu ɓen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "yimɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:05.179301434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yimɓe ɓen njalti e ladde nden ngam hawrude e Israa'iil, konu ngun waɗi ko e nder duɗe Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "njalti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Yimɓe ɓen"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "e ladde nden"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ngam hawrude e"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waɗi ko"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "konu ngun"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "e nder duɗe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T12:02:34.338068206Z",
+  "model": "glm-5.3"
+}

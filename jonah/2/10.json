@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kono min, e daande yettoode, mi sadaylata maa; ko mi nadri, mi yoottata; dañgol ngol ko e Yaawe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "yettoode"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "mi sadaylata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "mi nadri"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "mi yoottata"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "dañgol ngol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ko e Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:04:46.195404681Z",
+  "model": "glm-5.3"
+}

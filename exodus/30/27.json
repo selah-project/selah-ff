@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "e ⟨את⟩ taabal ngal e ⟨את⟩ kala kuutorɗe maggal, e ⟨את⟩ leggal-lampu ngal e ⟨את⟩ kuutorɗe maggal, e ⟨את⟩ sarwaaɗe uuroora nden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "taabal ngal"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala kuutorɗe maggal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leggal-lampu ngal"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "leggal-lampu ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe maggal"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "kuutorɗe maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sarwaaɗe uuroora nden"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sarwaaɗe"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "uuroora nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.901309956Z",
+  "model": "glm-5.3"
+}

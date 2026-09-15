@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Duwuɓi sappo e ɗiɗi ɓe gollinii ⟨את⟩ Kedarlaomer, kono duwuɓi sappo e tato ɓe mballitii.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duwuɓi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ɓe gollinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kono sappo e tato"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duwuɓi"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "ɓe mballitii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:42.100000524Z",
+  "model": "glm-5.3"
+}

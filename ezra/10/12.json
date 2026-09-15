@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ndeen kawral ngal fuu jaabii, wi'i bee daande mawnde: «Non, no konngu ma unfii hiiri min, ko minen poti waɗde.»",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kawral ngal"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "קול",
+      "gloss": "bee daande"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Non"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "no konngu ma unfii"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hiiri min"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "poti waɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:44:26.433961909Z",
+  "model": "glm-5.3"
+}

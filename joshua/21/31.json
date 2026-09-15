@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Helkat ⟨את⟩ e ⟨את⟩ careeli mun, e ⟨את⟩ Rehob e careeli mun — gure nay.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Helkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "careeli mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "e careeli mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "careeli mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "e careeli mun"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "gure"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:36.135503454Z",
+  "model": "glm-5.3"
+}

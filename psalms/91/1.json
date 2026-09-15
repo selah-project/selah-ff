@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Jooɗiiɗo e ɓeddi Eel Elyon, e ɓuuɓri Shadday o ɗaɓɓay hoɗde.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Jooɗiiɗo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "e ɓeddi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eel Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "o ɗaɓɓay hoɗde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:10.967955918Z",
+  "model": "glm-5.3"
+}

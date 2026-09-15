@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Kuje pelle ɗen ko kaalis e njeebi, ko golle juuɗe yimɓe.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "kuje"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e njeebi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:24.293697925Z",
+  "model": "glm-5.3"
+}

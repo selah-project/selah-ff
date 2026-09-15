@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 131,
+  "translation": "Yimre ƴeggore, jeyi Daawuuda. Yaawe, ɓernde am ɓurtinaani, gite am ɓoorinaani, kadi mi yahaali e ko ɓuri mawnude, wanaa e ko ɓuri haawnaade am.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴeggore"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "jeyi Daawuuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ɓurtinaani"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ɓoorinaani"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "mi yahaali"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "e ko ɓuri mawnude"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "e ko ɓuri haawnaade"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:52.268343890Z",
+  "model": "glm-5.3"
+}

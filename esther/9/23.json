@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yahuudiyankooɓe ɓen jaɓi ⟨את⟩ ɗuum ɓe fuɗɗori waɗde, e ⟨את⟩ ɗuum Mordekay winndi e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "ɓe jaɓi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahuudiyankooɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗuum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ɓe fuɗɗori"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗuum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "winndi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:32:22.142996198Z",
+  "model": "glm-5.3"
+}

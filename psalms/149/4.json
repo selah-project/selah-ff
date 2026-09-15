@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 149,
+  "translation": "Sabu Yaawe welti ⁠e yimɓe mun; o cinndini ko cuuɗiiɓe teemedere ⁠e Kisal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "welti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "⁠e yimɓe mun"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "o cinndini"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ko cuuɗiiɓe teemedere"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "⁠e Kisal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:59.793683858Z",
+  "model": "glm-5.3"
+}

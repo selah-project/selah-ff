@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kadi gorko on Mooshe dewɗo no feewi, ko ɓuri neɗɗo fuu ⟨ɗi⟩ ngoondiiki dow baade leydi ndin.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Kadi gorko on"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mooshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "dewɗo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ko ɓuri ... fuu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "baade"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:43:22.234081928Z",
+  "model": "glm-5.3"
+}

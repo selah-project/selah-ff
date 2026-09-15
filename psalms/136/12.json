@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "E junngo wowndu e baɗɗo jaajɗo, ko hesed mun duimata haa duumi.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wowndu"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "e baɗɗo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "jaajɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun duimata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:30.086065929Z",
+  "model": "glm-5.3"
+}

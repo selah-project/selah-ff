@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nanoɗen konngol Yaawe, ɓiɓɓe Israyiil; sabu Yaawe ina jogii ñaawoore mawnunde e hoɗɓe ɓee leydi; sabu wanaa goonga, wanaa hesed, wanaa anndal Eloohim e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nanoɗen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ñaawoore mawnunde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "anndal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:58.162175341Z",
+  "model": "glm-5.3"
+}

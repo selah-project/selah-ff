@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "⟨את⟩ Moshe noddi Yisraa'iil fuu, o wi'i ɓe: Jetto, Yisraa'iil, ⟨את⟩ kuudorde ɗen e ⟨את⟩ ñaawooje ɗen ɗe mi haalana e noppi mon jonnde ndee; janngon ɗum, reewon ɗum ngam waɗde ɗum.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Jetto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuudorde ɗen"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kuudorde ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñaawooje ɗen"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawooje ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalana"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "e noppi mon"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jonnde ndee"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "janngon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "ɗum (kuudorde e ñaawooje ɗen)"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "reewon"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "ngam waɗde ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T11:46:46.898588968Z",
+  "model": "glm-5.3"
+}

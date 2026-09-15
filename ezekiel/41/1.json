@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "O naatnii mi e wuro manngu ngol, o ɓeydi ⟨את⟩ dawirɗe ɗen — ceɗe jeegom layol goo, e ceɗe jeegom layol ɓaalawol goo — ko ɗum layol asida ndin.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "o naatnii mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "wuro manngu ngol"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "o ɓeydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawirɗe ɗen"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "dawirɗe ɗen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ceɗe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "layol"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "goo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e jeegom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ceɗe"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "layol"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ɓaalawol goo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "layol"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "asida ndin"
+    }
+  ],
+  "timestamp": "2026-09-15T06:02:50.902695414Z",
+  "model": "glm-5.3"
+}

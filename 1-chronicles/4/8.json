@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kos jibini ⟨את⟩ Anub e ⟨את⟩ Sobeba, e leƴƴi Asharhel ɓiy Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kos"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Sobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Sobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Asharhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:48.869566557Z",
+  "model": "glm-5.3"
+}

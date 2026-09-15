@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Maskiil laamuɗo Daawuuda, tuma o woni e nder llamaare, pellet duwaawre.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskiil (jannginirgel)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "laamuɗo Daawuuda"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "tuma o woni"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "e nder llamaare"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pellet duwaawre"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:14.012570515Z",
+  "model": "glm-5.3"
+}

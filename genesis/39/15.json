@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 39:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Nde o nanii dum mi ɓamtii daande am mi vaani, o acci koltu makko ngon sara am, o dogi o yalti yaasi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "כשמעו",
+      "gloss": "o nanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dum"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "mi ɓamtii"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "mi vaani"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "o acci"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "koltu makko ngon"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "sara am"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "yaasi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:59.667214712Z",
+  "model": "glm-5.3"
+}

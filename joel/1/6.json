@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Sabu leñol unnoyii e leydi am, ngol baawɗo, teeddinaa ngol; ñaawe mun ko ñaawe gaynaako, caggal retri gaynaako rewde ko mun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "unnoyii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "leydi am"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "ngol baawɗo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limre"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ñaawe mun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ñaawe"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "gaynaako"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "retri"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "gaynaako rewde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ko mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:31.194401637Z",
+  "model": "glm-5.3"
+}

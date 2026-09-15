@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 1:33",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "On yoowuɗo yeeso mon e laawol ngol, ngam ƴeewtude on nokku fii ñiiɓorde mon, e yiite jemma ngam hollude on laawol ngol ɗo mbaɗdata yahde e mum, e duule ñalormannde.",
+  "tokens": [
+    {
+      "surface": "ההלך",
+      "gloss": "on yoowuɗo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol ngol"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ngam ƴeewtude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "לחנתכם",
+      "gloss": "fii ñiiɓorde mon"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "לראתכם",
+      "gloss": "ngam hollude on"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mbaɗdata yahde"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mum"
+    },
+    {
+      "surface": "ובענן",
+      "gloss": "e duule"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalormannde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:03.333690543Z",
+  "model": "glm-5.3"
+}

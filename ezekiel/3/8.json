@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ƴeewto, Mi waɗii ⟨את⟩ yeru maa ɗum tiiɗɗum haŋkadi ƴeeru maɓɓe, e ⟨את⟩ hoore maa ɗum tiiɗɗum haŋkadi hoore maɓɓe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ƴeewto"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Mi waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeru maa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeru maa"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "tiiɗɗum"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "haŋkadi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ƴeeru maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoore maa"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "hoore maa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tiiɗɗum"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "haŋkadi"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "hoore maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:34:40.625244927Z",
+  "model": "glm-5.3"
+}

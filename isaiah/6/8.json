@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen mi nani ⟨את⟩ daande Adonaay wiyu: ⟨את⟩ hombo mi nulata? e hombo yahay fii minen? Ndeen mi wi'i: ɗoo mi, nulaam.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "mi nani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wiyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hombo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hombo"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mi nulata"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e hombo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yahay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fii minen"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "nulaam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:39.779541825Z",
+  "model": "glm-5.3"
+}

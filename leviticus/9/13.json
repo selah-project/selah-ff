@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe nanndini ⟨את⟩ njuɓɓu ndun e makko, feccitte maggal, e ⟨את⟩ hoore nden, o ƴetti wisde ɗum e daande nden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "njuɓɓu ndun"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "njuɓɓu ndun"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "ɓe nanndini"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "feccitte maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoore nden"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hoore nden"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "o ƴetti wisde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "daande nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:50.711477914Z",
+  "model": "glm-5.3"
+}

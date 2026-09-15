@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "A ndiyri ɗum, Yaawe; wata a suuɗu; Adonaay, wata a woɗɗu e am.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "A ndiyri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "a suuɗu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "a woɗɗu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:42.356201928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ñalɗi mun fewñu, gardagol mun heew yeeso woɗɗo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "fewñu"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ñalɗi mun"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ko famɗi"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "gardagol mun"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "heew"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yeeso woɗɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:48.849516947Z",
+  "model": "glm-5.3"
+}

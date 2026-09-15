@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yaawe wi'i Moshe: “Yaha to yimɓe ɗin, waɗ-ɓe laaɓtuɓe hannde e jaŋngo, ɓe loo comci maɓɓe ɗin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "waɗ-ɓe laaɓtuɓe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "e jaŋngo"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ɓe loo"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "comci maɓɓe ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:05.597009023Z",
+  "model": "glm-5.3"
+}

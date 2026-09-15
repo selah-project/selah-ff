@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 137,
+  "translation": "Ɗattu ⟨e⟩ ɗemngal am e mbaɗal haande am, so mi teemtaaki maa, so mi ƴellitaaki ⟨את⟩ Yerushalayim dow timmu weltaare am.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ɗattu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ɗemngal am"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "e mbaɗal haande am"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗaani"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "mi teemtaaki maa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wađaani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi ƴellitaaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "timmu"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "weltaare am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:50.397509177Z",
+  "model": "glm-5.3"
+}

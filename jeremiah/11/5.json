@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Famɗu mooftude ⟨את⟩ aaye nden ɗum wi'i ɓe iwdi mon, fii hokkude ɓe leydi ɓuungundi ñaamre e asal lummbi, no ñalawma hannde ndun; mi jaabii, mi wi'i: Aamiin, Yaawe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "famɗu"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "mooftude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aaye nden"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "aaye nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "mi wi'i ɓe iwdi mon"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ɓe iwdi mon"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii hokkude"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ɓuungundi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñaamre"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e asal lummbi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde ndun"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "mi jaabii"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:10:04.970116276Z",
+  "model": "glm-5.3"
+}

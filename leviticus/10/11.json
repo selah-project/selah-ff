@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "e jannginde ⟨את⟩ ɓiɓɓe Israa'iila ⟨את⟩ fuu sarwiiji ɗi Yaawe wowli ɓe e juuɗe Muusaa.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "e jannginde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu sarwiiji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarwiiji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:26.540257778Z",
+  "model": "glm-5.3"
+}

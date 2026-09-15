@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Daawuda wonnoo ɗun e nder mustardere, taskere Filistiin'en wonnoo ɗun e Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "e nder mustardere"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "e taskere"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiin'en"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ɗun"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechem"
+    }
+  ],
+  "timestamp": "2026-09-14T10:56:49.606211052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Ɗee ɗoo ko iwdi Esav, baaba Edom, e nder duɗe Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee ɗoo"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "iwdi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e nder duɗe"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:51.437605760Z",
+  "model": "glm-5.3"
+}

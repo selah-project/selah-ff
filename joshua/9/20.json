@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɗum men waɗata ɓe: men wuurnitay ⟨את⟩ ɓe, sebon tampere wonataa e amen sabu jaweeri nde men waɗi ɓe.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "men waɗata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "men wuurnitay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sebon ... wonataa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonataa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "tampere"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "jaweeri nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "men waɗi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:13:37.592538166Z",
+  "model": "glm-5.3"
+}

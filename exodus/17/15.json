@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Moshe mahi alluujey, o inniri innde mun Yaawe-Nissii.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alluujey"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o inniri"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:51.049027525Z",
+  "model": "glm-5.3"
+}

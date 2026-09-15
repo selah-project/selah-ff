@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 101,
+  "translation": "Ƴiite-nder ɓoggirte ina yalta e am; bonɗo cuuɗiiɗo mi anndaa.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ƴiite-nder ɓoggirte"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ɓoggirte"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ina yalta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonɗo cuuɗiiɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mi anndaa"
+    }
+  ],
+  "timestamp": "2026-09-15T07:50:59.240971735Z",
+  "model": "glm-5.3"
+}

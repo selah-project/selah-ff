@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "No haay e ko mi nana hollu ⟨את⟩ maa — ⟨את⟩ mbaadii migdaandi ndin e ⟨את⟩ mbaadii kuutorɗe mun ɗen fuu — nɗon ɗum noon mbaɗee.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "no haay e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "nana hollu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaadii migdaandi ndin"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mbaadii"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "migdaandi ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mbaadii kuutorɗe mun ɗen fuu"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mbaadii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu ɗen"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe mun ɗen"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ɗum noon"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:18.379859313Z",
+  "model": "glm-5.3"
+}

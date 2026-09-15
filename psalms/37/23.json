@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Iwdi Yaawe ko yaaje neɗɗo; ɗi ommbiraa, laawol makko kadi O jaɓii.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "iwdi Yaawe"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "yaaje"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ommbiraa"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "laawol makko"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "O jaɓii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:14.046479670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Nde o waɗunoo, subaka ɓaawo mum, Pelishtim ngari ngam wujjude ⟨את⟩ colli mbaraaɗi ɓen, ɓe tawii ⟨את⟩ Sha'uul e ⟨את⟩ ɓiɓɓe mun tato yaniɓe dow tulde Gilbo'a.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde o waɗunoo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "subaka ɓaawo mum"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ngam wujjude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "colli mbaraaɗi ɓen"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "colli mbaraaɗi ɓen"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ɓe tawii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'uul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun tato"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "yaniɓe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "dow tulde"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilbo'a"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:24.683560034Z",
+  "model": "glm-5.3"
+}

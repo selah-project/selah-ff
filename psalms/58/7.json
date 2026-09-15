@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 58,
+  "translation": "Eloohim, werngu ñaamirɗe maɓɓe nder mun; ñaamirɗe caggirɗe gaynaakooji jeeyngu, momtu ɗum, Yaawe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "werngu"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ñaamirɗe maɓɓe"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "nder mun"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ñaamirɗe caggirɗe"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "gaynaakooji jeeyngu"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "momtu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:40.263115675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ndeeɗo nanooy-welnu konngol am, ɗum laatoto ⟨ko⟩ tinndinore nden mon.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "nanooy-welnu"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "deeɗu"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "konngol am"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ɗum laatoto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "tinndinore nden mon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:53:39.421009150Z",
+  "model": "glm-5.3"
+}

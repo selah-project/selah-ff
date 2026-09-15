@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɗɗo Farao wi'i mo: «Yah.» Suka debbo o yahi, o waajii ⟨את⟩ yumma suka o.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "yah"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "suka debbo o"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o waajii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yumma suka o"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yumma"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "suka o"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:17.487065766Z",
+  "model": "glm-5.3"
+}

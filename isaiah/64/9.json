@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Citte maa ceniiɗe ɗen laati ⟨jeere⟩, Siiyon laati ⟨jeere⟩, Yerushalayim woni ⟨harɓere⟩.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "citte"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "maa ceniiɗe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ɗi laati"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeere"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jeere"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "laati"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "harɓere"
+    }
+  ],
+  "timestamp": "2026-09-14T08:03:52.155505734Z",
+  "model": "glm-5.3"
+}

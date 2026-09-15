@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yi'o, Sha'ul arii caggal nagge ɗen diga ladde nden; Sha'ul wi'i: ko woni e yimɓe ɓen, wonde ɓe cujjii? Ɓe dañtinii mo ⟨את⟩ konnguɗi worɓe Yabees ɗen.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Yi'o"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nagge ɗen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "diga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "e yimɓe ɓen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ɓe cujjii"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "Ɓe dañtinii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi worɓe Yabees ɗen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabees"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:55.553455661Z",
+  "model": "glm-5.3"
+}

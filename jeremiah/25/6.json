@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Wata on yah caggal Eloohim goɗɗi fii gollude ɓe e sujjande ɓe; wata on merɗu ⟨את⟩ lam e golle juuɗe mon, mi meeɗanaa on bonnde.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "on yah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "fii gollude ɓe"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "e sujjande"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "on merɗu"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ lam",
+      "marks": "lam"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "juuɗe mon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi meeđanaa"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "on bonnde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:30.405923318Z",
+  "model": "glm-5.3"
+}

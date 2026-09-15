@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Neɗɗo on wi'i: «Debbo ɗo heddinɗaa e am, kanko non o rokki mi lekki ngol, mi ñaami ɗum.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Neɗɗo on"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Debbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "heddinɗaa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko non"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "o rokki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mi ñaami ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:27.597471634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "A jogitinii tikkere maa ndin fuu, a ruttinii e muusiral indo maa.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "a jogitinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "tikkere maa ndin"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "a ruttinii"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "muusiral"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "indo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:47.316552843Z",
+  "model": "glm-5.3"
+}

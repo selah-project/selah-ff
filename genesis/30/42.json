@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Kono ɓe ceɗaaɗe ɗen ɓe ngalaa palorol, o waɗanaa ɗen ɓe ceɗaaɗe ɗen; ɓe ceɗaaɗe ɗen ngonti Lanban, ɓe ngalaa palorol ɗen ngonti Yaakob.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Kono ɓe ceɗaaɗe ɗen ɓe ngalaa palorol"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ɓe ngalaa palorol ɗin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waalaa"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "o waɗanaa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ngonti"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ɓe ceɗaaɗe ɗen"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lanban"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ɓe ngalaa palorol ɗen"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:50.419774655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mi hoɗay e nder ɓiɓɓe Israayiil, mi woppataa ⟨את⟩ yimɓe am Israayiil.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "mi hoɗay"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi woppataa"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "woppataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:12:42.798420586Z",
+  "model": "glm-5.3"
+}

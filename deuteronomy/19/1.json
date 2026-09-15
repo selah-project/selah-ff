@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Si Yaawe Eloohim maa momti ⟨את⟩ leƴƴi ɗin ɗi Yaawe Eloohim maa nelda maa ⟨את⟩ leydi maɓɓe, a ruttana ɓe, a jooɗo e gure maɓɓe e e nder cuuɗi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Si"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "momti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi ɗin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nelda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "a ruttana ɓe"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "a jooɗo"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "e gure maɓɓe"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "e e nder cuuɗi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:00:31.211752673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɗum nokku, si on nanii mbaradiike daande am, on reeni ⟨את⟩ kiisan am, on laoray min jawleendi ɓurndi yimɓe fuu, fii ko minen woni jeyoowo leydi ndin fuu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ɗum nokku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mbaradiike"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiisan am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kiisan am"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "on laoray"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "jawleendi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ɓurndi fuu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minen woni jeyoowo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:26.399419759Z",
+  "model": "glm-5.3"
+}

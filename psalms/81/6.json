@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Seedee e Yoosefa o waɗi ɗum, e yaltugol makko dow leydi Misrayim: haala mi anndaa, mi nano.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "seedee"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "e Yoosefa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "e yaltugol makko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "haala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mi nano"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:16.479714067Z",
+  "model": "glm-5.3"
+}

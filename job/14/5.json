@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Si duuɓi mun ɗin ñaamaama, limoore lebbi mun ɗin woni ko ⟨את⟩ e maaɗa; a sappi keerol mun, o waawataa ɓesa ɗum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ñaamaama"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "duuɓi mun ɗin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limoore"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "lebbi mun ɗin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maaɗa",
+      "marks": "limoore lebbi mun ɗin"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "keerol mun"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "a sappi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o waawataa"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ɓesa ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:10:22.591326167Z",
+  "model": "glm-5.3"
+}

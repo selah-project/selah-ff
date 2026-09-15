@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ndeeñu ⟨את⟩ konngol ngol Yaawe wi'i fii mon, saare Israa'iil.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ndeeñu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:10:12.339320844Z",
+  "model": "glm-5.3"
+}

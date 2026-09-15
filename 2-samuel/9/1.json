@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Dawiidi wi'i: “Hara ena woodi goo heddata e saare Sa'ul, mbele miɗo waɗa e makko hesed fii Yonatan?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawiidi"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "hara"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ena woodi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "heddata"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "heddata"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sa'ul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mbele miɗo waɗa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "fii"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:56.775652128Z",
+  "model": "glm-5.3"
+}

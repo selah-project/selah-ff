@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Mi anndi, Yaawe, wonde ñaawoore maa ɗen ko ndimaaku, kadi e goongɗinal aɗ muññi lam.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mi anndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ndimaaku"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ñaawoore maa ɗen"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "e goongɗinal"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "aɗ muññi lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:25.841234211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Abram ko duuɓi joweetati e jeegom noddirtee Haajarum di'i ⟨את⟩ Ismaa'iil wonande Abram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "joweetati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "e jeegom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "noddirtee Haajarum di'i"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haajarum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ismaa'iil"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ismaa'iil"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "wonande Abram"
+    }
+  ],
+  "timestamp": "2026-09-14T04:37:23.101494359Z",
+  "model": "glm-5.3"
+}

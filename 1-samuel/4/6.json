@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Filistiinaaji ɗen nani ⟨את⟩ daande wullitaare nden, ɓe wi'i: hol daande wullitaare mawnde ndee kaampu Hebreeji ɗen? ɓe anndi wonnde sanɗe Yaawe nden naatii e kaampu on.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nani"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinaaji ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande wullitaare nden"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "wullitaare nden"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "wullitaare"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kaampu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreeji ɗen"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ɓe anndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "naatii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaampu on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:19.906643273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E gorko seedotooɗo, ɓiɗɗo debbo mun si o majjiti hoore mum e ñaawoore jiŋŋere, ⟨את⟩ baaba mum o ko o sellinta; e ñuuɓol hiir o yiye-ñuuɓinee.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "e ɓiɗɗo debbo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko seedotooɗo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "seedotooɗo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "o majjiti hoore mum"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "e ñaawoore jiŋŋere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mun"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "היא",
+      "gloss": "o ko"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "o sellinta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e ñuuɓol"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "o yiye-ñuuɓinee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:42.747388374Z",
+  "model": "glm-5.3"
+}

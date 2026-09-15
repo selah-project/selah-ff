@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mawɓe wuro ngal naynata ⟨את⟩ gorko on, ɓe saggina ⟨את⟩ mo.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ɓe naynata"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorko on"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ɓe saggina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:20.282945930Z",
+  "model": "glm-5.3"
+}

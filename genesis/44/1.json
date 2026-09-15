@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "O yamri ⟨את⟩ on mo woni dow suudu mun, wiyude: Suuɗu ⟨את⟩ dayre worɓe ɓen ñaamdu, no ɓe mbaawirta yawtude, e waɗu kaalis kala neɗɗo e haayre dayre mun.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yamri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on mo woni dow suudu mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "suuɗu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dayre"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "dayre"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaamdu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "ɓe mbaawirta"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "yawtude"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "e waɗu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "e haayre"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "dayre mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:16.274449894Z",
+  "model": "glm-5.3"
+}

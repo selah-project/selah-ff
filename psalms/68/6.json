@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 68,
+  "translation": "Baaba waasaaɓe ñaawoowo fulaaɓe ko Eloohim, kaŋŋe nder hoɗorde wal'a makko.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Baaba"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "waasaaɓe"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "fulaaɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "kaŋŋe nder hoɗorde"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wal'a makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:42:42.220722292Z",
+  "model": "glm-5.3"
+}

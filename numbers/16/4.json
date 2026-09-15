@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Musa nanii, o yani e wonde yeeso mun.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "o yani"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:41:54.042826438Z",
+  "model": "glm-5.3"
+}

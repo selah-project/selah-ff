@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Nano, ɓiɗɗo debbo, e ƴeewo, e tuubnu ngaadi maa; haa foofo yimɓe maa e suudu baaba maa.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "e ƴeewo"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "e tuubnu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ngaadi maa"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "haa foofo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:31.697134232Z",
+  "model": "glm-5.3"
+}

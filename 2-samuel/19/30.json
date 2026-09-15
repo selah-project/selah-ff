@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Laamđo on wi'i mo: 'Ko fii hona a haalata kadi ko wuuri-ɗa? Mi wi'i: kaa e Siiba peccitoy ⟨את⟩ pucci layri ndin.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii hona"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "a haalata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ko wuuri-ɗa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "e Siiba"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "peccitoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci layri ndin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pucci layri ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:05:16.005903899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Shenorde wattata, shenorde Yaakuuba, faade e Eel Gabbar.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "shenorde"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wattata"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "shenorde"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakuuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Gabbar"
+    }
+  ],
+  "timestamp": "2026-09-14T07:44:40.046328960Z",
+  "model": "glm-5.3"
+}

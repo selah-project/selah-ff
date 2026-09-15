@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yaawe feeñii e Suleymaan jamma, o wi'i mo: mi nanii ⟨את⟩ du'aawu maaɗa, mi suɓii nokkuure nden fii am, nde wonata suudu sadaka.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "feeñii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suleymaan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jamma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'aawu maaɗa"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "du'aawu maaɗa"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "mi suɓii"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nokkuure"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wonata suudu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadaka"
+    }
+  ],
+  "timestamp": "2026-09-14T11:12:02.661608490Z",
+  "model": "glm-5.3"
+}

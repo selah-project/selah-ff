@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O ɓenniti laawol fii yitere mun; o daaƴaani e maayde nguurndam maɓɓe, o dancinii nguura maɓɓe fii ñawewol ngol.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "ɓenniti"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "fii yitere mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "daaƴaani"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "e maayde"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nguurndam maɓɓe"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "nguura maɓɓe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "fii ñawewol ngol"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "dancinii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:59.635820224Z",
+  "model": "glm-5.3"
+}

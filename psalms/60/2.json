@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "E saanga o wallitii haɓaade ⟨את⟩ Aram-Nahaarayim e ⟨את⟩ Aram-Tsoowa, Yowaab arti, o fiyi ⟨את⟩ Edom e ndefte Melah — laabi ɗii sappo e ɗiɗi ujunere.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "e saanga o wallitii haɓaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Nahaarayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Nahaarayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Aram-Tsoowa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoowa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o arti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "e ndefte"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Melah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujunere"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:28.311494797Z",
+  "model": "glm-5.3"
+}

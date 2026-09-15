@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Sabu ko kanko woni Eloohim amen, minen en ngoni yimɓe ɓe o woŋga e colo junngo mun; hande, so ɗon nana daande mun,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ɓe o woŋga"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "e colo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hande"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ɗon nana"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:14.335362154Z",
+  "model": "glm-5.3"
+}

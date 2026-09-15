@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Saawuuli neldi ⟨את⟩ nulaaɓe ɓen ngam yiyde ⟨את⟩ Daawuuda, o wi'i: ƴellit-en ⟨את⟩ ɗum e leeso ngol faade am, fii warngoo ɗum.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saawuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nulaaɓe ɓen"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "nulaaɓe ɓen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yiyde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ƴellit-en"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "e leeso ngol"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "faade am"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "fii warngoo ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:04.396080598Z",
+  "model": "glm-5.3"
+}

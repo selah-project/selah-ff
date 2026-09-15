@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Banndiraawo makko ɓen njahi ngam woppude ⟨את⟩ gumɗi baaba maɓɓe ɗin to Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "njahi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraawo makko ɓen"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ngam woppude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gumɗi baaba maɓɓe ɗin"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "gumɗi ɗin"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baaba maɓɓe"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "to Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:47.294025211Z",
+  "model": "glm-5.3"
+}

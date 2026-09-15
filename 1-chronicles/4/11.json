@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kelub, mawni Shuuha, dañi ⟨את⟩ Mehiir; kanko woni baaba Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mawni"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shuuha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehiir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mehiir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:36.960918745Z",
+  "model": "glm-5.3"
+}

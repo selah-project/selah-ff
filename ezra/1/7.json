@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kadi laamɗo on Koresh yaltini ⟨את⟩ kuutorɗe ɗen ɗe suudu Yaawe, ɗe Nebukadnesar yaltini e Yerushalayim, o waɗiri ɗum e suudu Eloohim makko.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kadi laamɗo on"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorɗe ɗen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe ɗen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yaltini"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "o waɗiri ɗum"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Eloohim makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:59:12.860874766Z",
+  "model": "glm-5.3"
+}

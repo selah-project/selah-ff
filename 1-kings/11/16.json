@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "(Fii lebbi jeegom Yooab e Israa'iil fuu ngondi ɗon, haa momtonoo worɓe fuu to Edom.)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fii"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "lebbi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngondi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yooab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "momtonoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "to Edom"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:58.503037191Z",
+  "model": "glm-5.3"
+}

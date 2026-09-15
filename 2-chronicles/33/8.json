@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 33:8",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "E mi ɓeydataa ittude ⟨את⟩ koyngal Israai'iila e dow leydi ndi mi dariini fii baabiraaɓe mon; wonde tan si ɓe reennoo waɗde ⟨את⟩ fuu ɗo mi amarii ɓe — fii Tora ndee fuu, e sariyaaji ɗin e ñaawoore ɗin e junngo Muusaa.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "E ...taa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ɓeydataa"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ittude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koyngal Israai'iila"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israai'iila"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "העמדתי",
+      "gloss": "mi dariini"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "fii baabiraaɓe mon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "wonde tan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ɓe reennoo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗo mi amarii ɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "mi amarii ɓe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii ... fuu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora ndee"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "e sariyaaji ɗin"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "e ñaawoore ɗin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:28:05.684497564Z",
+  "model": "glm-5.3"
+}

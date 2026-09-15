@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Yaawe nanngi ⟨את⟩ daande konnguɗi mon ɗo mon haalana mi; Yaawe wi'i mi: mi nanngii ⟨את⟩ daande konnguɗi yimɓe ɓee ɓe haalani maa; ɓe moƴƴinii fuu ɓe haali.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "konnguɗi mon"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "ɗo mon haalana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nanngii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɓee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ɓe moƴƴinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "haali"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:41.840124932Z",
+  "model": "glm-5.3"
+}

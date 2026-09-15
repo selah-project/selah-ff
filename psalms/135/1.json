@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Yetto-yee Yaah, yetto-yee ⟨את⟩ innde Yaawe, yetto-yee, maccuɓe Yaawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yetto-yee"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yetto-yee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde Yaawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yetto-yee"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:40.813528672Z",
+  "model": "glm-5.3"
+}

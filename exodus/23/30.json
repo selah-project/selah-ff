@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Seeɗa seeɗa mi ruttitortoo ɓe gila yeeso maa, haa a heewu, a ronoo ⟨את⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Seeɗa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "mi ruttitortoo ɓe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gila yeeso maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "a heewu"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "a ronoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:42.328059077Z",
+  "model": "glm-5.3"
+}

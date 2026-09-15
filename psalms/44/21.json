@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Si min mballitii innde Eloohim amen, walla min yaajinii palme juuɗe amen feewde e Eel gadɗo:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "min mballitii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "min yaajinii"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "palme juuɗe amen"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "feewde e Eel"
+    },
+    {
+      "surface": "זר",
+      "gloss": "gadɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:53.796661594Z",
+  "model": "glm-5.3"
+}

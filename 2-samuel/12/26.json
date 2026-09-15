@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Yoowaab wartii Rammba wuro ɓiɓɓe Ammon, o nanngi ⟨את⟩ wuro nguro laamɗo on.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "o wartii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowaab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "e Rammba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "o nanngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro nguro"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "nguro laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:49.207474994Z",
+  "model": "glm-5.3"
+}

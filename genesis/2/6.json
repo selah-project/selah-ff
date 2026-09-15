@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Duubawal ƴetti ummoraade e leydi ndin, ngernaa ⟨את⟩ ƴi'e denooje fuu e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "duubawal"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ƴetti ummoraade"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ngernaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e denooje fuu e leydi ndin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ƴi'e denooje"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:34.002716961Z",
+  "model": "glm-5.3"
+}

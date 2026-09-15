@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Wata laata gooŋɗinɗo e gite maaɗa; hulu ⟨את⟩ Yaawe, e dartu e bonɗo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "laata"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "gooŋɗinɗo"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e gite maaɗa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "e dartu"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "e bonɗo"
+    }
+  ],
+  "timestamp": "2026-09-15T07:06:51.109858558Z",
+  "model": "glm-5.3"
+}

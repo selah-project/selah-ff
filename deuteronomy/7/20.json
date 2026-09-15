@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kadi Yaawe Eloohim maa nelday ⟨את⟩ ƴiwoore ndee nder maɓɓe, haa ɗumni ɓe keddii ɓen e suuɗiiɓe ɓe dinga maa mbaɗa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiwoore ndee"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ƴiwoore ndee"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "nelday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nder maɓɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ɗaɓa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ɗumni ɓe keddii ɓen"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "e suuɗiiɓe ɓe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "dinga maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:07.465570052Z",
+  "model": "glm-5.3"
+}

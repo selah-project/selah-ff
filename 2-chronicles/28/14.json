@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ndeen worɓe hisruɓe ɓen njogi ⟨את⟩ jawleeyaɓe ɓen e ⟨את⟩ ñawketee ngam yeeso ardiiɓe ɓen e kala renndo ngoo.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "njogi"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "worɓe hisruɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawleeyaɓe ɓen"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "jawleeyaɓe ɓen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñawketee"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "ñawketee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ardiiɓe ɓen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "renndo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:23:15.668395329Z",
+  "model": "glm-5.3"
+}

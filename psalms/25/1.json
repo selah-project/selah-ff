@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Fii Daawuda. E maa, Yaawe, wirniimi yo hoore-am wirnaa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fii Daawuda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "E maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hoore-am"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "wirniimi yo wirnaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:38.183597787Z",
+  "model": "glm-5.3"
+}

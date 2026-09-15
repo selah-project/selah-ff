@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Mo wooɗi ⟨neefu⟩ amen e nguurdam, wanaa yamminco cellal coyɗe amen.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Mo wooɗi"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "⟨neefu⟩ amen"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "e nguurdam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yamminco"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "cellal"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "coyɗe amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:28.987693350Z",
+  "model": "glm-5.3"
+}

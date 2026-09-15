@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Yi waaway haalde gese-gese Yaawe ɗen? Yi waaway seedtinude ⟨laaɓta⟩ teemdine mun ɗen fuu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "yi (yi waaway)"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "haalde"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "gese-gese"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "seedtinude \/ waaway waajde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "teemdine mun"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:01.992615327Z",
+  "model": "glm-5.3"
+}

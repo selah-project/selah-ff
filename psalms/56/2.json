@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Yuurtu am, Eloohim, gongo neɗɗo ina ñaam-mi wuro; ñalawma fuu o haree, o ɗaŋña am.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "yuurtu am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gongo"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ina ñaam-mi wuro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "o haree"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "o ɗaŋña am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:58.096717695Z",
+  "model": "glm-5.3"
+}

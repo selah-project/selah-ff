@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe nelday e maa ⟨את⟩ duume nden ⟨את⟩ jiha nden e ⟨את⟩ ñiŋo nden, e kala jogorɗe junngo maa nde mbaɗata, haa a halkaa, haa a bonna yaawa, sabu ndeenyaaji bonɗi golle maa ɗe ndartini Min.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nelday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duume nden"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "duume nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiha nden"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "jiha nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñiŋo nden"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ñiŋo nden"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "jogorɗe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "a halkaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "a bonna"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yaawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ndeenyaaji bonɗi"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "golle maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ndartini Min"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:58.532629627Z",
+  "model": "glm-5.3"
+}

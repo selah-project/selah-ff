@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "No hoore mun tan saakta kammuuli ɗin, o nandata dow toowe maayo ngoo.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "saakta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "no hoore mun tan"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "o nandata"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "toowe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:26.262606765Z",
+  "model": "glm-5.3"
+}

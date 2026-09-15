@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ko on gollortoo ⟨את⟩ Yaawe Eloohim mon, O barooka ⟨את⟩ nguuru maa nduru e ⟨את⟩ ndiyam maa; mi ñiftay ñawu e nder mon.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ko on gollortoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "O barooka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguuru maa nduru"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "nguuru maa nduru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ndiyam maa"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ndiyam maa"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "mi ñiftay"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ñawu"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "e nder mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:12.806684666Z",
+  "model": "glm-5.3"
+}

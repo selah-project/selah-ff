@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Tefilaare Dawuudi. Nan, Yaawe, cuɗol; dewnu ƴeeɓde am; heɗu tefilaare am — wona e lebbe fenaande.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tefilaare"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Nan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cuɗol"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "dewnu"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ƴeeɓde am"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "heɗu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "tefilaare am"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "wona"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lebbe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.589815686Z",
+  "model": "glm-5.3"
+}

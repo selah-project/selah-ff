@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Maa gasa waɗde taabal leɗɗe acaasi: kuɓe ɗiɗi juutal mun, e kuɓal eruɓɓe mun, e kuɓal e feccere tooweende mun.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "maa gasa waɗde"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "taabal"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acaasi"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kuɓe ɗiɗi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "juutal mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e kuɓal"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "eruɓɓe mun"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e kuɓal"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccere"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tooweende mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:05.232287937Z",
+  "model": "glm-5.3"
+}

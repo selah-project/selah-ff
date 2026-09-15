@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Neɗɗo bonɗo on ko cuusol wonande ñaawooɓe, kono laawol feewu ngol ko cuusol wonande bonɗo on.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "cuusol"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ñaawooɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "kono cuusol"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "feewu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T12:51:31.791970002Z",
+  "model": "glm-5.3"
+}

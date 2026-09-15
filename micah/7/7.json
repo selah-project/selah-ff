@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 7:7",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono min, mi yenanaa e Yaawe, mi ƴettirii Eloohim dartirii am; Eloohim am na nanoyam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אצפה",
+      "gloss": "mi yenanaa"
+    },
+    {
+      "surface": "אוחילה",
+      "gloss": "mi ƴettirii"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "dartirii am"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "nanoyam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:14.075630381Z",
+  "model": "glm-5.3"
+}

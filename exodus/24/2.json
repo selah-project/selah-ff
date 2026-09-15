@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kadi Mosheh tan ko o ɓadotoo Yaawe; ɓe ngonataa ɓadude, kadi ɓiɓɓe leydi ɗin mbaɗataa ƴuttude e makko.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "kadi ɓadotoo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ko o tan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ɓadataa"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "kadi ɓiɓɓe leydi ɗin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ƴulnataa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:04.793139600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Aruwo foddude ɓeydotaako; neɗɗo waawaani hokkude Eloohim kaaso mun.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "aruwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓeydotaako"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "foddude"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "foddotaako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hokkude"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "kaaso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:06.038389778Z",
+  "model": "glm-5.3"
+}

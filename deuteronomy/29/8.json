@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Reeninee ⟨את⟩ konngi jaaɓondiral ngal, waɗee ⟨את⟩ɗi, fii nde mbaawɗu moƴƴinde ⟨את⟩ kala ko mbaɗata.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Reeninee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi jaaɓondiral ngal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "jaaɓondiral"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "waɗee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ɗi",
+      "marks": "ɗi — konngi ɗin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii nde"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "mbaawɗu moƴƴinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala ko mbaɗata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "mbaɗata"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:26.930763482Z",
+  "model": "glm-5.3"
+}

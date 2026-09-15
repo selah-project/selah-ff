@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 118,
+  "translation": "Sembe am e yimre am ko Yaah; o ⟨laati⟩ ballal am.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "sembe am"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "e yimre am"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ballal (njaalu)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:21.887213331Z",
+  "model": "glm-5.3"
+}

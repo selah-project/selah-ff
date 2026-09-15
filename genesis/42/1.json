@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yaakob yi'i ko kaadu ⟨jeyi⟩ e Misrayim, Yaakob wi'i ɓiɓɓe mun: “Ko fii mbidda yi'ondira?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨jeyi⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kaadu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "yi'ondira"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:03.097696623Z",
+  "model": "glm-5.3"
+}

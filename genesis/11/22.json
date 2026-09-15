@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Serug wuuri duuɓi cappanɗe tati, o jibini ⟨את⟩ Naahor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "cappanɗe tati"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naahor"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:27.603282748Z",
+  "model": "glm-5.3"
+}

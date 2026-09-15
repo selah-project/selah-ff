@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Kono ⟨את⟩ ƴiye ndiwri nawdi ndin, e ⟨את⟩ goddol mun e ⟨את⟩ misa mun, a yiitinta e yiite, yaasi ley kampaañ; ko junuub woni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kono ⟨את⟩",
+      "marks": "ƴiye ndiwri nawdi ndin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ƴiye"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ndiwri nawdi ndin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "goddol mun"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "goddol mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "misa mun"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "misa mun"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "a yiitinta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ley kampaañ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "junuub"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ... woni"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:09.434431019Z",
+  "model": "glm-5.3"
+}

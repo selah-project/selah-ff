@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Kuɗo o woɗɗitii faade les immorde e toowgu ceniiɗo mun; Yaawe, immorde e kammuuli, faade e leydi, o yi'ii ɗum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuɗo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "o woɗɗitii faade les"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "immorde e toowgu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ceniiɗo mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "immorde e kammuuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "o yi'ii ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:56.612813878Z",
+  "model": "glm-5.3"
+}

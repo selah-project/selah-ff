@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Israa'iila naatnini ⟨את⟩ junngo mun ngoo ñaamo, o waɗi ɗum dow ⟨את⟩ hoore Efrayim — kono kanko o woni ɗoon suka — e ⟨את⟩ junngo mun ngoo nano dow hoore Menashe; o feewni juuɗe mun e anniya, chunki Menashe woni ɓiɗɗo gadano.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naatnini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junngo mun ñaamo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "junngo mun ñaamo"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "o waɗi ɗum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kono kanko o"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "suka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "junngo mun nano"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "junngo mun nano"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "o feewni e anniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe mun"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "juuɗe mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ɓiɗɗo gadano"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:40.511515662Z",
+  "model": "glm-5.3"
+}

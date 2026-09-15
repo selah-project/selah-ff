@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Woni ɓe wi'i: e derewu amen min njaɓay; lewlewu amen ena ⟨את⟩ e min: hommbo woni Adonaay amen?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "woni ɓe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "e derewu amen"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "min njaɓay"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "lewlewu amen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "lewlewu amen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:39.892667313Z",
+  "model": "glm-5.3"
+}

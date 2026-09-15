@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mi anndi ma e ceene, e leydi yooro ɓuuɓndi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "anndi ma"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ceene"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "yooro ɓuuɓndi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:46.570464077Z",
+  "model": "glm-5.3"
+}

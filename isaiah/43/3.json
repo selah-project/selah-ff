@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Mawni ko min Yaawe, Eloohim maaɗa, Senoowo Yisraa'iil, Wattoo maa; mi rokki Misrayim cukkorde maa, Kush e Sewaa nokku maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mawni ko min"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Senoowo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Wattoo maa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "cukkorde maa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "e Sewaa"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nokku maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:06.241405198Z",
+  "model": "glm-5.3"
+}

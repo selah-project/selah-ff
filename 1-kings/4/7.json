@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kadi Shelomo ina mari laamuɓe sappo e ɗiɗi dow Israyiil fuu; ɓe wursinoo ⟨את⟩ laamɗo on e ⟨את⟩ suudu makko; lewru wootu e hitaande nde woni dow gooto e maɓɓe fii wursugol.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Kadi Shelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "laamuɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyiil"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ɓe wursinoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu makko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "fii wursugol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:26.517305731Z",
+  "model": "glm-5.3"
+}

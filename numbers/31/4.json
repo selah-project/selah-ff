@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Junee gooto fii leeso kala, junee gooto fii leeso kala — lese Israa'iil fuu — neldon ɓe konu nguu.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "junee"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fii leeso"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "junee"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fii leeso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "lese"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "neldon"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "konu nguu"
+    }
+  ],
+  "timestamp": "2026-09-14T11:45:40.565476069Z",
+  "model": "glm-5.3"
+}

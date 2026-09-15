@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mosheh ɓadtinani ⟨את⟩ Aharoon e ⟨את⟩ ɓiɓɓe mun, o lavaa ⟨את⟩ ɓe e ndiyam.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɓadtinani"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "o lavaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-15T07:06:53.592394671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Yuusufu yoɓi ngam wirnude ⟨את⟩ baaba mum; ɓe yoɓi e makko ⟨את⟩ kala jeyaaɓe Paroh, mawɓe galle mum, e kala mawɓe leydi Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yoɓi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufu"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ngam wirnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mum"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe yoɓi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e makko ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "jeyaaɓe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:02.075008569Z",
+  "model": "glm-5.3"
+}

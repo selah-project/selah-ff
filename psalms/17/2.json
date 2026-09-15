@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ƴeeso maa ñaawoore am yaltu; gite maa ɗe ngala laaɓal.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Ƴeeso maa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawoore am"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ngala"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "laaɓal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.590359209Z",
+  "model": "glm-5.3"
+}

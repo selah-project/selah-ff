@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓiɓɓe Amonun ɓe ndiwi ⟨את⟩ Yardiisen ngam haɓde kadi e Yahuuda, e Bunyamit e e nder galle Efrajim, Israa'iil hebbi cembal mawngal.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ɓe ndiwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardiisen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardiisen"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "e Bunyamit"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "e nder galle"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "hebbi cembal"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mawngal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:26:53.439385762Z",
+  "model": "glm-5.3"
+}

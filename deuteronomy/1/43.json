@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Mi haalani on on nan'aali; kono on muñanii ⟨את⟩ haala Yaawe, on mawninii hoore, on ƴellitii tulde nden.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Mi haalani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono on nan'aali"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "on nan'aali"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "on muñanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "on mawninii hoore"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "on ƴellitii"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "tulde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:27.524227520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Mordekay winnditii mo ⟨את⟩ fuu ko heewi heen, e ⟨את⟩ tolno kaalis on Haman wi'i yo wawee e nder njaraandi laamđo on, e Yahuudiyankooɓe, ngam majjinde ɓe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "winnditii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ko heewi heen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "heewi heen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tolno kaalis on"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "tolno"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Haman wi'i"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "yo wawee"
+    },
+    {
+      "surface": "על",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "njaraandi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "e Yahuudiyankooɓe"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ngam majjinde ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:19.345092437Z",
+  "model": "glm-5.3"
+}

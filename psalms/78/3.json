@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ko minen nanndi ɗum en en anndi ɗum en, kañum ɓe baabiraaɓe amen kabrina minen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "minen nanndi"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "en anndi ɗum en"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ɓe baabiraaɓe amen"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kabrina"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "minen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:55.798649542Z",
+  "model": "glm-5.3"
+}

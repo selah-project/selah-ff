@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Moonje maa ɓuri waɗde mi ganndo ɓuri ayɓe am; wonnde ɗi duumotoo e am.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "ɓuri ayɓe am"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "waɗde mi ganndo"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "moonje maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "duumotoo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:56.888136686Z",
+  "model": "glm-5.3"
+}

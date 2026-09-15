@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Nafata ko e ƴiiƴam am, tawa mi yejjito e ɓuuɓri ndin? E maa a woya, pamarre? Kadi a bayyina goonga maa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nafata ko"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gdiiɗal"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "e ƴiiƴam am"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "tawa mi yejjito"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ɓuuɓri ndin"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "a woya"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pamarre"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "a bayyina"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "goonga maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:23.705545611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Kono min, koyɗe am ɗen famɗi tan ɗoftaama; laabi am ɗen hono ɓuuɓniraa nooru.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono min"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "famɗi tan"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ɗoftaama"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "koyɗe am ɗen"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hono nooru"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ɓuuɓniraa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "laabi am ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:26.891978930Z",
+  "model": "glm-5.3"
+}

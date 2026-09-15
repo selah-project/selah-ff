@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 85,
+  "translation": "Hollu min Yaawe hesed maa, hisre maa ndokku min.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Hollu min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "hisre maa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:33.384389535Z",
+  "model": "glm-5.3"
+}

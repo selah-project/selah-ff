@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Wirnunde ɓe laataake fii on; ɓiɗɓe mum en ñaamotaako, e ⟨את⟩ ɓalli maayɗi mum en wirnetee on.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "wirnunde"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "laataake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ɓiɗɓe mum en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamotaako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓalli maayɗi mum en"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ɓalli maayɗi mum en"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "wirnetee on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:12.561745974Z",
+  "model": "glm-5.3"
+}

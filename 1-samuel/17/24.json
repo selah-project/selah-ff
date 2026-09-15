@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kala gorko Israa'iil, nde ɓe yi'i ⟨את⟩ on gorko on, ɓe dogi e yeeso makko, ɓe huli no feewi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "nde ɓe yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on gorko on"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "on gorko on"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ɓe dogi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "e yeeso makko"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ɓe huli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:57:56.461156613Z",
+  "model": "glm-5.3"
+}

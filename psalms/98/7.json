@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Yo maayo ngoo ɓuumto, e ko heewi e mun; aduna on, e hoɗɓe ɓe e mun.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "yo ... ɓuumto"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "e ko heewi e mun"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduna on"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e hoɗɓe ɓe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:45.690331902Z",
+  "model": "glm-5.3"
+}

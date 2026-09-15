@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Laamɗo on wi'i Amasa: noddu am ⟨את⟩ worɓe Yahuuda nder balɗe tati, kono aɗaɗa jooɗo ɗoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "noddu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe Yahuuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono aɗa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "jooɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:23.099790208Z",
+  "model": "glm-5.3"
+}

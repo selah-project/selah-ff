@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 27:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono ⟨ɛ⟨את⟩ he⟩, ⟨את⟩ leƴƴi ɗin e laamuuji ɗi mbaɗataa golle mum en — ɗi takkataa ⟨את⟩ Nebukadnesar laamɗo Babilon — e ɗi ndartintaa ⟨את⟩ daande mum en e jolŋe laamɗo Babilon, e juuɗe leyƴiri e heedu e mboro mi yerndata leñol ngol, konngol Yaawe; haa mi timmin ⟨את⟩ ɓe e junngo makko.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kono ⟨ɛhe⟩"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "e laamuuji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mbaɗataa"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "golle mum en"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Nebukadnesar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nebukadnesar laamɗo Babilon"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɗi ndartintaa daande mum en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ndartintaa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dartinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande mum en"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "daande mum en"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "e jolŋe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e juuɗe leyƴiri"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "e heedu"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "e mboro"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "mi yerndata"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "leñol ngol"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תמי",
+      "gloss": "mi timmin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo makko"
+    }
+  ],
+  "timestamp": "2026-09-15T07:05:35.055072803Z",
+  "model": "glm-5.3"
+}

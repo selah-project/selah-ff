@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mi wirnaama no ndiyam nii, ƴi'e am fuu seerndaa; ɓernde am laati no culol, tarii nder nder am.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam nii"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "mi wirnaama"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "seerndaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ƴi'e am"
+    },
+    {
+      "surface": "היה",
+      "gloss": "laati"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "no culol nii"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "tarii"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "nder*am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:22.269559986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde woniri e ñalɗi Axashwerosh — ko kanko woni Axashwerosh, laamɗo on laamortooɗo Hodu haa Kush, laamortooɗo ⟨dow⟩ teemedere e dowi e jeeɗiɗi e ɗiɗi diiwanuuje —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde woniri"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e ñalɗi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko woni"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashwerosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi e ɗiɗi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dowi e"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "teemedere e"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "diiwanuuje"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:20.926336711Z",
+  "model": "glm-5.3"
+}

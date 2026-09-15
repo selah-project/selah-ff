@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sabu ɗum mii ñaawo maa e yimɓe ɗin, Yaawe, e innde maa mi yimoytoo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mii ñaawo maa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e yimɓe ɗin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "e innde maa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mi yimoytoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:37.253827906Z",
+  "model": "glm-5.3"
+}

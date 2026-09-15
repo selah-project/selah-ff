@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ɓe cuddorii nebam maɓɓe, hunre maɓɓe feewi e mawnente.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "nebam maɓɓe"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ɓe cuddorii"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "hunre maɓɓe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "feewi"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "e mawnente"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:04.319934306Z",
+  "model": "glm-5.3"
+}

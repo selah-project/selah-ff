@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "So hoɗii o wuurata haa ñaawningol, wanaa o yi'ata lluure.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "o wuurata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "so hoɗii"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "haa ñaawningol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi'ata"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "lluure"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:05.947463192Z",
+  "model": "glm-5.3"
+}

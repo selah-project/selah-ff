@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Duuɓi Aadam ɓaawo dañde ⟨את⟩ Shet duuɓi teemedeeje jeegom laati, o dañi ɓiɓɓe worɓe e ɓiɓɓe rewɓe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "laati"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dañde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "teemedeeje"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o dañi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ɓiɓɓe worɓe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "e ɓiɓɓe rewɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:15.543153354Z",
+  "model": "glm-5.3"
+}

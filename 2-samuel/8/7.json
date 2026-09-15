@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Daviid ƴetti ⟨את⟩ daneeji kaŋe ɗi ngoni e maccuɓe Hadadezer, o addi ɗi Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daviid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daneeji kaŋe"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "daneeji"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "o addi ɗi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:00.313377774Z",
+  "model": "glm-5.3"
+}

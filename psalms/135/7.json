@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "O ƴellitinta duume ummoraade woɗɗun leydi ndin, o waɗanta mildiiji fii toɓo, o yaltinanta henndu e nder defte mun.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "o ƴellitinta"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "duume"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ummoraade woɗɗun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mildiiji"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "fii toɓo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗanta"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "o yaltinanta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henndu"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "e nder defte mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:47.273904661Z",
+  "model": "glm-5.3"
+}

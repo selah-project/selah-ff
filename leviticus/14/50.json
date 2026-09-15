@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "O wara ⟨את⟩ pere ngol gootol e nder defde pale, dow ndiyam kuural.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "o wara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pere ngol gootol"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "pere ngol"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "gootol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "defde"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "pale"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kuural"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:24.509047369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "O neldi konngol makko o feewni ɓe, o daɗnini ɓe e bonnuki mun.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "o feewni ɓe"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "o daɗnini ɓe"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "e bonnuki mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:16.716580511Z",
+  "model": "glm-5.3"
+}

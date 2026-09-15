@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "⟨את⟩ lewru ndun e koode ɗen ngam laamu jemma ngan, ko hesed mun duimata haa duumi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewru ndun"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "lewru ndun"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e koode ɗen"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ngam laamu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jemma ngan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun duimata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:30.085578976Z",
+  "model": "glm-5.3"
+}

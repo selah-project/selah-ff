@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moshe haali nder nanooje kala kongol Israa'iila ⟨את⟩ konngi jimre nden, haa timmini ɗum.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "nder nanooje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kongol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "jimre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "timmini ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:53.125149112Z",
+  "model": "glm-5.3"
+}

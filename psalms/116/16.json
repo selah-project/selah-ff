@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Yo Yaawe, wonde mi ko jeyaaɗo maa — mi ko jeyaaɗo maa, ɓiy taƴaaɗo maa; a udditii paggondiral am.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "taƴaaɗo maa"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "a udditii"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "paggondiral am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:24.097415388Z",
+  "model": "glm-5.3"
+}

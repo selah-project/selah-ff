@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Sabu ɓe ngoni yimɓe maa e ndonaandi maa, ɗi mbaɗɗitunoo Misrayim, e nder pubre njamndi ndin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "e ndonaandi maa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "mbaɗɗitunoo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "כור",
+      "gloss": "pubre"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "njamndi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:14:40.458685840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "baaba suka debbo o e yumma mum mbaɗa ɓe njaltina ⟨את⟩ celal suka debbo to mawɓe wuro ngoo e nder damal,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka debbo o"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "e yumma mum"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ɓe njaltina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celal suka debbo"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "celal"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka debbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "e nder damal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:07.996021400Z",
+  "model": "glm-5.3"
+}

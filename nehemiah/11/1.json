@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 11:1",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Sarwiiɓe yimɓe ɓen njooɗi e Yerushalayim; ko fecceni e yimɓe ɓen ɓe folli kaaƴe-gorii ngam addude gooto e nder sappo njooñaade e Yerushalayim, wuro lasɗe ngol, e jeenay kese ngoɗɗo e caeaji.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "njooɗi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarwiiɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "e ko fecceni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "ɓe folli"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "kaaƴe-gorii"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngam addude"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "sappo ɓen"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "njooñaade"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "lasɗe"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "e jeenay"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "kese"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "e caeaji"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:57.583665834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mi wi'i kadi: ñeeñɗam ɓuri doole; kono ñeeñɗam miskiino on ina lelnaa, konngi makko ngalaa naneteede.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "mi wi'i kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "moƴƴi \/ ɓuri"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñeeñɗam"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "doole"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "kono ñeeñɗam"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "miskiino on"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "ina lelnaa"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "kadi konngi makko"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ngalaa"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "naneteede"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:34.762924274Z",
+  "model": "glm-5.3"
+}

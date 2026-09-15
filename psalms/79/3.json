@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Ɓe ƴiikkii ƴiiƴam-ma no ndiyam nii sara Yerushalayim, woodaa kuutooɗo.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Ɓe ƴiikkii"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ƴiiƴam-ma"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "no ndiyam nii"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "woodaa"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "kuutooɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:36.580961433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "O naati kadi e Raahel, o moŋŋi kadi ⟨את⟩ Raahel ɓuri Lea; o gollii e makko kayri duuɓi jeeɗiɗi goɗɗi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raahel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "o moŋŋi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raahel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ɓuri Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "o gollii"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kayri"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "goɗɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:02.012288323Z",
+  "model": "glm-5.3"
+}

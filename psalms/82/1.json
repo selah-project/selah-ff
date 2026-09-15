@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 82,
+  "translation": "Mizmor fii Asaaf. Eloohim darii e nder batte Eel, hakkunde laamɓe ɗen o ñaawa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "fii Asaaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "darii"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "e nder batte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "laamɓe ɗen"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o ñaawa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:27.594652865Z",
+  "model": "glm-5.3"
+}

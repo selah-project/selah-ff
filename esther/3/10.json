@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo on ittii ⟨את⟩ ɓoggol-seedantaagal mun e junngo mun, o rokki ngol Haman ɓiy Hamdata Agagiiɗo, gaño Yahuudiyankooɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "o ittii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓoggol-seedantaagal mun"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ɓoggol-seedantaagal mun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "o rokki ngol"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagiiɗo"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "gaño"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahuudiyankooɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:30:15.366426777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yaawe haalani Muusaa, wiyi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:37.808732049Z",
+  "model": "glm-5.3"
+}

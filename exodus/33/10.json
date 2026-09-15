@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yimɓe ɓen fof ndaari ⟨את⟩ dokkol ɗuuɗri nden ngol darori to damal kaadagol ngol, yimɓe ɓen fof ummii, kala neɗɗo sujjii to damal kaadagol mun.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ndaari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkol ɗuuɗri nden"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "dokkol"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ɗuuɗri nden"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngol darori"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "to damal"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kaadagol ngol"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ummii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "sujjii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "to damal"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kaadagol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:08.944299846Z",
+  "model": "glm-5.3"
+}

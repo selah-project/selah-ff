@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kono ɓe ɗaɓɓaani e baasi galle Yarob'am, ɗi o waɗnoo Yisraai'il ⟨את⟩ waasde; ɓe naatnoo e mayre; kadi Ashera nduu darii ko e Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ɓe ɗaɓɓaani"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "e baasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarob'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "o waɗnoo ... waasde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraai'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraai'il"
+    },
+    {
+      "surface": "בה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ɓe naatnoo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera nduu"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "darii ko"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "e Shomron"
+    }
+  ],
+  "timestamp": "2026-09-14T07:34:24.950291154Z",
+  "model": "glm-5.3"
+}

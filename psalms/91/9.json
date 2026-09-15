@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Kono a, Yaawe, ko ⟨wonii⟩ nokku cuuɗol am; Elyon — mbaɗ-ɗaa ngalle maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nokku cuuɗol am"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "mbaɗ-ɗaa"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ngalle maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:23.625702055Z",
+  "model": "glm-5.3"
+}

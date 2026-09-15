@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Ñalnde mi kulmi, mi ŋakkirtoo e maa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mi kulmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mi ŋakkirtoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:58.096997493Z",
+  "model": "glm-5.3"
+}

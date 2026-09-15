@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "No Yaawe Yamiri ⟨את⟩ Musa nii, ko non ɓe ngollu ɗum ɓiɓɓe debbo Tselofad ɗen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "No ... nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe ngollu ɗum"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ɓiɓɓe debbo"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofad"
+    }
+  ],
+  "timestamp": "2026-09-14T11:45:32.388975809Z",
+  "model": "glm-5.3"
+}

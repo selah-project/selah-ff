@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Ɓe diwti ⟨את⟩ Yirmiyaahu e ɗaɗi, ɓe ƴellitii ⟨את⟩ mo e ɓuuɓri ndin; Yirmiyaahu jooɗii e yenayre gardoyre ndin.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "ɓe diwti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmiyaahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "e ɗaɗi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe ƴellitii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Yirmiyaahu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ɓuuɓri ndin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "e yenayre"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "gardoyre ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T08:26:06.746852326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Iwde ɗon ɓe njahi to Gudgoda, iwde Gudgoda to Yotbata, leydi ɓulli ndiyam.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "iwde ɗon"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "to Gudgoda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "iwde"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgoda"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "to Yotbata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:54.735275874Z",
+  "model": "glm-5.3"
+}

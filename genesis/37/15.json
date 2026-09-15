@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Gorko gooto heɓi mo, tawa o jiiɓii laawol e ladde; gorko on naamnii mo wiyde: ko njiɗ-ɗaa?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "heɓi mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko gooto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "o jiiɓii laawol"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "naamnii mo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "njiɗ-ɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:20.849952860Z",
+  "model": "glm-5.3"
+}

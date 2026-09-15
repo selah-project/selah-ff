@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Si Paroh wowii on: «Waddan moofet on», a wiyan Aharon: «Naatu ⟨את⟩ paldeeja maa, wuddu ɗum yeeso Paroh — mawnira tanini.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wowii"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "woni"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "waddan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "moofet"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a wiyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קח",
+      "gloss": "naatu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paldeeja maa"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "paldeeja maa"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "wuddu ɗum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mawnira"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "tanini"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:31.586620927Z",
+  "model": "glm-5.3"
+}

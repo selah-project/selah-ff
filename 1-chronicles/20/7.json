@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "O ƴeeŋtii ⟨את⟩ Israayiil, Yehonatan ɓiy Shimaa miñi Dawuuda fiyi mo.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "o ƴeeŋtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "fiyi mo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimaa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:01:09.619379328Z",
+  "model": "glm-5.3"
+}

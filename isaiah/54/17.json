@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 54,
+  "translation": "Kala kuutorgal tagaangal dow ma, dum yahraa; kala ɗemngal ummotoongal ⟨את⟩ e ma fii ñaawoore, a ñaawa ngal bono. Ɗum ndonaandi maccuɓe Yaawe woni, peewaare maɓɓe kadi ko ⟨את⟩ jeyi am — bayaanal Yaawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorgal"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "tagaangal"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow ma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "yahraa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ɗemngal"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ummotoongal"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e ma",
+      "marks": "ɗemngal ummotoongal"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fii ñaawoore"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "a ñaawa ngal bono"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ndonaandi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "e peewaare maɓɓe"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ jeyi am",
+      "marks": "peewaare maɓɓe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bayaanal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:58:43.222836959Z",
+  "model": "glm-5.3"
+}

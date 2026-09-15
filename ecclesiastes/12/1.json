@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Woto a jitto Tagoo ma ⟨את⟩ e nder balɗe suka maa, hade balɗe ɓeynguu ngalaayude, e hade duuɓi ɗin araade ɿ a mbi'a «alaa e min ɓural e majji»",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "woto a jitto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tagoo maa"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "Tagoo maa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e nder balɗe"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "sukaa maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "araayude"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ɓeynguu ɗen"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "e hade arde"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɿ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "a mbi'a"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e min"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e majji"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ɓural"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:56.153845853Z",
+  "model": "glm-5.3"
+}

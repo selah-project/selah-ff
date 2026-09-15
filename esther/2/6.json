@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mo doganirtee e Yerushalayim e ɓen doganirnooɓe ɗen, ɓe doganirnoo e Yekonja laamɗo Yahuuda, ɓe Nebukadneeser laamɗo Baabel doganiri.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "doganirtee"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "e Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ɓen doganirnooɓe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "doganirnoo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "doganiri"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadneeser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:19.525135713Z",
+  "model": "glm-5.3"
+}

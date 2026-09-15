@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ɗee ko e koyɗe, ɗee ko e pucci; kono minen e nder innde Yaawe Eloohim amen minen siftotoo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "e koyɗe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "e ɗee"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "e pucci"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kono minen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "minen siftotoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:26.773341588Z",
+  "model": "glm-5.3"
+}

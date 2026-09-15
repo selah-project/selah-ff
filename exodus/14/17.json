@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Kanko e mi, ɗoo, mi ɗuuɗinoyay ⟨את⟩ ɓernde Misrayim, ɓe ardira ɓe; mi teddinay e Pinehaa e konngu nguu fuf, katti mun e pucci mun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kanko e mi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mi ɗuuɗinoyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe ardira"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ɓe (caggal ɓe)"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "mi teddinay"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "e Pinehaa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e fuf"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "konngu nguu mun"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "katti mun"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "e pucci mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:21.649878618Z",
+  "model": "glm-5.3"
+}

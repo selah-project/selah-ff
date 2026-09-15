@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓe ndacci ⟨את⟩ Yaawe, ɓe gollinoo Baal e Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ɓe ndacci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ɓe gollinoo"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "e Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:04.751341432Z",
+  "model": "glm-5.3"
+}

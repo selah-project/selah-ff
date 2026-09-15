@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "A ƴiiɓunii pelle ɗen, a halkii lamɗamɗo on; innde maɓɓe a momtii haa abada e duumi.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "a ƴiiɓunii"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "pelle ɗen"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "a halkii"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lamɗamɗo on"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "innde maɓɓe"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "a momtii"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:25.211470634Z",
+  "model": "glm-5.3"
+}

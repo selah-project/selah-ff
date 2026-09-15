@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Gollu-ɗon ⟨את⟩ Yaawe e kulol, wondiro-ɗon e ƴeerol.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "gollu-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "e kulol"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "wondiro-ɗon"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "e ƴeerol"
+    }
+  ],
+  "timestamp": "2026-09-14T12:38:53.320565970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "ngannda nji'u ⟨את⟩ du'aaji maɓɓe ɗin e ⟨את⟩ ñaawoore maɓɓe nden nder kammuuli ɗin, maa ñaawo haala maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "nji'u"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nder"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du'aaji maɓɓe ɗin"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "du'aaji maɓɓe ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore maɓɓe nden"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ñaawoore maɓɓe nden"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ñaawo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "haala maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:09:25.377393126Z",
+  "model": "glm-5.3"
+}

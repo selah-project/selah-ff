@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Ɗoo woni dartagol am duuɓi-duuɓi fuu: ɗoo mi ɗooftoto, sabu mi yiɗii ɗum.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ɗoo woni"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "dartagol am"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "duuɓi fuu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mi ɗooftoto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "mi yiɗii ɗum"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:21.398667477Z",
+  "model": "glm-5.3"
+}

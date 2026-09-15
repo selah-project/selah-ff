@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Esav wi'i: “Aado, mi ngarta maayaade; ko honde noon ndee darnde ɓiɗɗo-aranoore waɗata min?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "aado"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ngarta"
+    },
+    {
+      "surface": "למות",
+      "gloss": "maayaade"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ko honde noon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "darnde ɓiɗɗo-aranoore"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:26.201142122Z",
+  "model": "glm-5.3"
+}

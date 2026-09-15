@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ Hiwiijo on, e ⟨את⟩ Arkiijo on, e ⟨את⟩ Siiniijo on;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Hiwiijo on"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwiijo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Arkiijo on"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkiijo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Siiniijo on"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Siiniijo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.941589327Z",
+  "model": "glm-5.3"
+}

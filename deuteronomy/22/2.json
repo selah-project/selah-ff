@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Si bandiraawo maa wonaa ɓadiiɗo maa, a anndaaka mo, mooftu ⟨את⟩ ɗum nder suudu maa; ko woni e maa haa bandiraawo maa ɗaɓɓi ɗum, nartinaa ɗum mo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ɓadiiɗo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bandiraawo maa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a anndaaka"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "mooftu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ɓural"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɗaɓɓi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bandiraawo maa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nartinaa ɗum mo"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "nartinaa ɗum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:28.774258116Z",
+  "model": "glm-5.3"
+}

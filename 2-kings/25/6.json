@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ɓe nanii ⟨את⟩ laamɗo on, ɓe ƴelliti ⟨את⟩ mo to laamɗo Babilon, to Riblata, ɓe wi'i ⟨את⟩ mo ñaawoore.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ɓe nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe ƴelliti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "to Riblata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:39.285086926Z",
+  "model": "glm-5.3"
+}

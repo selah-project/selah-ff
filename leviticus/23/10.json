@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kaaldu e ɓiɓɓe Israa'iila, wi'u ɓe: si naatiiɗon e leydi ndi mi neddata on, maa ɓe pentu pentugol mun, ndeen maa addanon ⟨את⟩ omeruuji jahruɗum e pentugol mon ⟨את⟩, ɗum addanee awsiyo on.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kaaldu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "naatiiɗon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "neddata"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "maa ɓe pentu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pentugol mun"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "pentugol mun"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "maa addanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer jahruɗum e pentugol mon"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer (tippel)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jahruɗum e"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "pentugol mon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɗum addanee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "awsiyo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:52.501591747Z",
+  "model": "glm-5.3"
+}

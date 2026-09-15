@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Haal e ɓiɓɓe Israayiil, wi'u ɓe: ko ɗoon paldaale Yaawe, ɗi njiɗ-ɗaa wi'ite ⟨את⟩ ɗum ko pelle paaye — ɗee woni paldaale am.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'u ɓe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "paldaale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "njiɗ-ɗaa wi'ite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (pelle paaye)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "paaye"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "הם",
+      "gloss": "woni"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "paldaale am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:29:20.581931998Z",
+  "model": "glm-5.3"
+}

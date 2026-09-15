@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O yaltini kam e weeyo yaajuɗo, o hisni lam, sabu o faamni moƴƴere e am.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "o yaltini kam"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "e weeyo yaajuɗo"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "o hisni kam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o faamni moƴƴere"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:29.100873004Z",
+  "model": "glm-5.3"
+}

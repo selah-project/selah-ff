@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "E ko o waɗi fii mon e kaasii, haa nde ndaarii to bannge ngol, fii yottugo haa ⟨to⟩ nokkuure nden nde reŋii ngol.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "e ko o waɗi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e kaasii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "nde ndaarii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa yottugo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokkuure nden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde reŋii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:17.701115145Z",
+  "model": "glm-5.3"
+}

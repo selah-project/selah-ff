@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O arti to miirɓe makko ɗen, o wi'i: “Ɓiɗɗo ngoo woodaani; e mi, ko ɗo mi yahata?”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o arti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miirɓe makko ɗen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ɓiɗɗo ngoo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "e mi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yahata"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:29.414880089Z",
+  "model": "glm-5.3"
+}

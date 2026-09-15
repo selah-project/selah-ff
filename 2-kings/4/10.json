@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ma mbaɗu min to'ol toowol famarngol e dow mahol, min mbiddo mo ɗoo leeso, e paltoor, e jooɗorde, e menoraa; waɗataa, o umaadu e amen, o naata ton.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "ma mbaɗu min"
+    },
+    {
+      "surface": "נא",
+      "gloss": "to"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "to'ol toowol"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "e dow mahol"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "famarngol"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "min mbiddo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "leeso"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "e paltoor"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "e jooɗorde"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "e menoraa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "o umaadu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "o naata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ton"
+    }
+  ],
+  "timestamp": "2026-09-14T07:27:26.616323206Z",
+  "model": "glm-5.3"
+}

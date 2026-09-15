@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O warii ɗiire maɓɓe e fewndu, e dungu maɓɓe e daneeje-yooro.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "O warii"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "e fewndu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ɗiire maɓɓe"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "e dungu maɓɓe"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "e daneeje-yooro"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:26.659346253Z",
+  "model": "glm-5.3"
+}

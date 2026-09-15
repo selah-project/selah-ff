@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 127,
+  "translation": "Sofo woni fii on — ɓe ummorooɓe ko adii, ɓe ɗaɓɓitooɓe jooɗaade, ɓe ñaamooɓe ñaamdu caɗtuɗu; ndeen O hokkata giɗo Mun lelnaande.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sofo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ɓe ummorooɓe ko adii"
+    },
+    {
+      "surface": "קום",
+      "gloss": "uumagol"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ɓe ɗaɓɓitooɓe"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "jooɗaade"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ɓe ñaamooɓe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamdu"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "caɗtuɗu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "O hokkata"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "giðo Mun"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "lelnaande"
+    }
+  ],
+  "timestamp": "2026-09-15T09:13:22.949987429Z",
+  "model": "glm-5.3"
+}

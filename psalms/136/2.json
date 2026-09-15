@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Yettoyee Eloohim ɗin, Awlaaji Eloohim ɗin, sabu hesed mun duumoto haa abada.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yettoyee"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim ɗin, Awlaaji"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim ɗin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:44.268735059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɓɓe makko worɓe njahi, ɓe waɗi kewu ñamriri e nder suudu kala e ñalnde makko; ɓe neldi, ɓe noddi miñiraaɓe rewɓe maɓɓe tato ngam ñaamde e yarde e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "njaɣi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko worɓe"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ɓe waɗi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "kewu ñamriri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e nder suudu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ñalnde makko"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ɓe noddi"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "miñiraaɓe rewɓe maɓɓe"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngam ñaamde"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "e yarde"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:31.106350850Z",
+  "model": "glm-5.3"
+}

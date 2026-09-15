@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Ballal am ummotoo ko e Yaawe, tagoowo kammuuli ɗin e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ballal am"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ummotoo ko e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagoowo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:39.742123116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 32:26",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O yi'i o ɓurtataa mo, o memi kaaldude yarûre makko ndu; kaaldude yarûre Jaakob wumii tuma o abbunoo e makko.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": " dow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "o ɓurtataa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "o memi"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kaaldude"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "yarûre makko"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "wumii"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kaaldude"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yarûre"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בהאבקו",
+      "gloss": "tuma o abbunoo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:55.842751995Z",
+  "model": "glm-5.3"
+}

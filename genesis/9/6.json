@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Mo ƴulɓina ƴiiƴam aadanɗo, e juume aadanɗo ƴiiƴam mun ƴulɓinetee; sabu e nder natal Eloohim o tagi ⟨את⟩ aadanɗo on.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ƴulɓina"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɗo on"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "e juume aadanɗo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ƴulɓinetee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "e nder natal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadanɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadanɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:55.787524592Z",
+  "model": "glm-5.3"
+}

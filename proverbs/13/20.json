@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Yahde ⟨e⟩ ⟨את⟩ ñaawooɓe, a ñaawaa; kono wondirde e wumɓe bonaa.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Yahde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawooɓe"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ñaawooɓe"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "a ñaawaa"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kono wondirde e"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wumɓe"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bonaa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:50.840511759Z",
+  "model": "glm-5.3"
+}

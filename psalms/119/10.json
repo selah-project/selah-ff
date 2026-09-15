@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E ɓernde am fuu mi ɗaawi ma; wata a majjina am e jamirooje maa.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "mi ɗaawi ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "a majjina am"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "e jamirooje maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.612360132Z",
+  "model": "glm-5.3"
+}

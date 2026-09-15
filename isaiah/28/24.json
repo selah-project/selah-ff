@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Mooftuɗo on moofta ñalawma fuu ngam reende? O uddita e o yerlitta leydi makko ⟨ndin⟩?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "moofta"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "mooftuɗo on"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uddita"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "yerlitta"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "leydi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:46.321658465Z",
+  "model": "glm-5.3"
+}

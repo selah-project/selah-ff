@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yimɓe ɓen ndarni ⟨את⟩ kampaañ konu fow, wonɗo e woyla wuro ngo, e ⟨את⟩ cakkitorɗe mun hirnaange wuro ngo; Yahuushuwa yahi jemma nden e nder falnde nden.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ndarni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaañ konu fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampaañ konu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wonɗo"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "e woyla"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "cakkitorɗe mun"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "cakkitorɗe mun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "hirnaange"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuushuwa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "falnde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:13:49.209611547Z",
+  "model": "glm-5.3"
+}

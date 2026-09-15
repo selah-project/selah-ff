@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Laamɗo Israa'el wi'i Eliisaa, tawi o yi'ii ⟨את⟩ ɓe: “Baaba am, hari mi ƴaaña ɓe? hari mi ƴaaña ɓe?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisaa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "tawi o yi'ii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "mi ƴaaña"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "mi ƴaaña"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:54.398291382Z",
+  "model": "glm-5.3"
+}

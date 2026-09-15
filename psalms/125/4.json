@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 125,
+  "translation": "Waŋŋu moƴƴu, Yaawe, ken gaaƴaaɓe ɓen e ken laaɓtuɓe nder ɓernde mun.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Waŋŋu moƴƴu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ken gaaƴaaɓe ɓen"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "e ken laaɓtuɓe"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "nder ɓernde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:46.601432130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe ñaamii, Ɓe suɓɓii yeeso makko — fii endeeji leydi ndin ɗin fuu; ɓulluɓe e presentuuji ɗin kaŋŋe kala dañii — hakkilanteeɓe ngam neɗɗo mo waawataa wuurde hoore mun.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Ñaamii"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "Ɓe suɓɓii yeeso makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "endeeji leydi ndin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "hakkilanteeɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ɓulluɓe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "e presentuuji ɗin kaŋŋe"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ngam neɗɗo mo waawataa wuurde hoore mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawataa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wuurde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:52.233655992Z",
+  "model": "glm-5.3"
+}

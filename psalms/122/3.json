@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 122,
+  "translation": "Yerushalayim, mahraaɗo no wuro hawrirtengo hoore mum faamde-yogu.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "mahraaɗo"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "no wuro"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "hawrirtengo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hoore mum"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "faamde-yogu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:07.013468579Z",
+  "model": "glm-5.3"
+}

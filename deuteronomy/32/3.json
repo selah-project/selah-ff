@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Fii innde Yaawe nden miɗo woɗi; ɗonon on, wiɗdite wonɗe mawnere Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "miɗo woɗi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ɗonon on"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "wonɗe mawnere"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:28.381860685Z",
+  "model": "glm-5.3"
+}

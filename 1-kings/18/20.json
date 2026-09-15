@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Achaab nulu e nder sukaaɓe Israa'iil fof, o moofti ⟨את⟩ annabiiɓe ɓen to tulde Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nulu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder... fof"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "o moofti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabiiɓe ɓen"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabiiɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:17.703826718Z",
+  "model": "glm-5.3"
+}

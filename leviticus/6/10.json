@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ɓoytetee wanaa ɓiɗo; peeki mun mi ñiŋii ⟨את⟩ ƴulluɗi am; ko kaɗɗum kaɗɗe woni, no nafre woniri nii, e no tooɗre woniri nii.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ɓoytetee"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ɓiɗo"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "peeki mun"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi ñiŋii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ƴulluɗi am"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ƴulluɗi am"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kaɗɗum"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kaɗɗe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "no nafre woniri nii"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "e no tooɗre woniri nii"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:27.304193343Z",
+  "model": "glm-5.3"
+}

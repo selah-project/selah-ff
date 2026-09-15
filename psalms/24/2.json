@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ko kanko woni on, tagi ɗum e dow maaje ɗen, o fooɗni ɗum e dow looɗi ɗin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko woni on"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "maaje ɗen"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "fooɗni ɗum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "looɗi ɗin"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "darni ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:42.469525513Z",
+  "model": "glm-5.3"
+}

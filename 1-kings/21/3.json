@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Nabot wi'i e Ahabaab: “Ɓe ewnaa Yaawe — wanaa min ndokka maa ⟨את⟩ jawdi baabiraaɓe am.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabaab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ɓe ewnaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ndokkagol am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jawdi baabiraaɓe am"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "jawdi"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "baabiraaɓe am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:25:22.671540947Z",
+  "model": "glm-5.3"
+}

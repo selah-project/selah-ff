@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "Wata a juggina ɓernde am faade e konngol bonngol, waasde waɗde golle e bonannde, e yimɓe ⟨את⟩ gollooɓe musiiba; kadi wata mi ñaam cuuraaɗi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תט",
+      "gloss": "a juggina"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "faade e konngol"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonngol"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "waasde waɗde golle"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "e bonannde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe gollooɓe musiiba"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "gollooɓe"
+    },
+    {
+      "surface": "און",
+      "gloss": "musiiba"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "kadi wata"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "mi ñaam"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "cuuraaɗi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:04.614498800Z",
+  "model": "glm-5.3"
+}

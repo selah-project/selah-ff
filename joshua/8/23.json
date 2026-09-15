@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓe nangii ⟨את⟩ laamɗo Ay on wuurɗo, ɓe addi ⟨את⟩ mo to Yihuushuwa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo Ay on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "ɓe nangii"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuurɗo"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ɓe addi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yihuushuwa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:14:41.885602646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Nelduɗo ɓulli e nder leyđe ɓutte; hakkunde pelle ɗe woro.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Nelduɗo"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "e nder leyđe ɓutte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ɗe woro"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:57.353431248Z",
+  "model": "glm-5.3"
+}

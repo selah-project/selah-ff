@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yimɓe Am ɓen — ƴeɗƴoore ɓen ko sukaaɓe, rewɓe laamaandi he; yimɓe Am ɓen — ɓe bandiraaku maa ɗon ngaddira maa majjere, laawol menngaaji maa ɗen ɓe milli.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Yimɓe Am ɓen"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ƴeɗƴoore ɓen"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "ko sukaaɓe"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "laamaandi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "he"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe Am ɓen"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "ɓe bandiraaku maa ɗon"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ngaddira maa majjere"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "menngaaji maa ɗen"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "ɓe milli"
+    }
+  ],
+  "timestamp": "2026-09-14T12:11:40.025814544Z",
+  "model": "glm-5.3"
+}

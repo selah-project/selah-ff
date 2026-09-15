@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kadi si ɗiɗo njooɗi, ɓe ngalaa nguleedi; kono gooto e no heɓirta nguleendi?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "njooɗi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ɓe ngalaa nguleedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "kono gooto"
+    },
+    {
+      "surface": "איך",
+      "gloss": "e no"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "heɓirta nguleendi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:21.027874206Z",
+  "model": "glm-5.3"
+}

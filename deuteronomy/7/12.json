@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 7:12",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɗum waɗata, sabu nanndon ⟨את⟩ ñaawoore ɗinngu ɗin, reenson ɗi e waɗdon ⟨את⟩ ɗi, Yaawe Eloohim maa reenanyon-maa ⟨את⟩ ɓeyngol ngol e ⟨את⟩ hesed ngu o fodaniino baabiraaɓe maa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ɗum waɗata"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "nanndon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawoore ɗinngu ɗin"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ñaawoore ɗinngu ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "reenson"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "waɗdon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "reenanyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeyngol ngol"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ɓeyngol ngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hesed ngu"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed ngu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "o fodaniino"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "baabiraaɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:17.434183293Z",
+  "model": "glm-5.3"
+}

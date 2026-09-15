@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Noawa waɗi ko Yaawe yamiri mo fof.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noawa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "yamiri mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:11.835605165Z",
+  "model": "glm-5.3"
+}

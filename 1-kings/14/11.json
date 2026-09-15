@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Maayɗo fii Yarobeam e wuro — kuyngi ɗin ñamata mo; maayɗo e ladde — colli kammuuli ñamata mo; sabu Yaawe haali ɗum.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "maayɗo"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "fii Yarobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñamata"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "kuyngi ɗin"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "e maayɗo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñamata"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "colli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:42.742371288Z",
+  "model": "glm-5.3"
+}

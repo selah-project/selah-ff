@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Fii yoowo on — dow Yonath-elem-rehokim — Dawid, miktam, tuma Filistiinaaji nanngi ⟨את⟩ mo e Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonath"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinaaji"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "e Gat"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:58.096477015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Ngol mbinndetee fii jibinannde wonnde caggal ɗum, e yimɓe sosoyɗi ɓe yettotoo Yaah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "mbinndetee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "fii jibinannde"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wonnde caggal ɗum"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e yimɓe"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "sosoyɗi"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "yettotoo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yaah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:56.612689695Z",
+  "model": "glm-5.3"
+}

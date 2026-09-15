@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Caggal ɗuum Iyyoob udditi ⟨את⟩ hannde mun, o wujjini ⟨את⟩ ñalawma mun.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "udditi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hannde mun"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hannde mun"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "o wujjini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalawma mun"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ñalawma mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:05.046694711Z",
+  "model": "glm-5.3"
+}

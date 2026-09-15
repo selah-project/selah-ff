@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓiɗɗo am, wata yaha e laawol ⟨את⟩ majji; haɗu koyɗere maa e laawol maɓɓe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɗɗo am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "majji (ɓe)"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "haɗu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "koyɗere maa"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "e laawol maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:47:29.247818842Z",
+  "model": "glm-5.3"
+}

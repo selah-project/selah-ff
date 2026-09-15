@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 94,
+  "translation": "Si ballal Yaawe woodanaanoo ⟨mi⟩, haray e fatayru ⟨ndeen⟩ neefsaa am hoɗnoo e deeƴre.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "si ... woodanaanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ballal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mi⟩"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "e fatayru"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "hoɗnoo"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "e deeƴre"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefsaa am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:21.125853821Z",
+  "model": "glm-5.3"
+}

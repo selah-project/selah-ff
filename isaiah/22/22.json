@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Mi ɓiddoy keyirdu ɓesngu Daawuda dow Ɛrgo makko; o uddita, walaa udduɗo; o uddu, walaa udditoowo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ɓiddoy"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "keyirdu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɓesngu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "Ɛrgo makko"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "o uddita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "udduɗo"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "o uddu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "udditoowo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:47.105296408Z",
+  "model": "glm-5.3"
+}

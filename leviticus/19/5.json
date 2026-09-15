@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Si on wattata sadak jam fii Yaawe, no on jaɓirta nii on wattan ɗum.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "on wattata"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadak"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "no on jaɓirta"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "on wattan ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:33.861698325Z",
+  "model": "glm-5.3"
+}

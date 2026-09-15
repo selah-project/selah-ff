@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Baaji warngo ko ɗemngal mum en; fenaande ɗum wowli; e nder mun o wowli ⟨את⟩ jam e sehil mum, kono e nder ɓernde mum o fuɗɗorii bommbo.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "baaji"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "warngo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ɗemngal mum en"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "e nder mun"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jam"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mum"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o wowli"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "kono e nder ɓernde mum"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "o fuɗɗorii"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "bommbo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:09:34.978220801Z",
+  "model": "glm-5.3"
+}

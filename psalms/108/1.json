@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Yimre, Mizmor, fii Dawuuda.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Dawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:01.565026431Z",
+  "model": "glm-5.3"
+}

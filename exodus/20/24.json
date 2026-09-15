@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Mizbeach leydi mbaɗaa fii am, e dow maggu mbattaa ⟨את⟩ olaaji mon ɗen e ⟨את⟩ selamot mon ɗen, ⟨את⟩ be'i mon e ⟨את⟩ nagge mon; e nokku kala ɗo mi waɗirta ⟨את⟩ innde am anndeede, mi aray to maa, mi mbarke maa.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeach"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mbaɗaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "mbattaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow maggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olaaji mon ɗen"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "olaaji mon ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "selamot mon ɗen"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "selamot mon ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "be'i mon"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "be'i mon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nagge mon"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "nagge mon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "mi waɗirta anndeede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde am"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mi aray"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "mi mbarke maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:13.047243826Z",
+  "model": "glm-5.3"
+}

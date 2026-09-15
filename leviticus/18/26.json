@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "On reenu ⟨את⟩ kuule Am e ⟨את⟩ ñaawirɗe Am, wata on waɗu goote e ɗee bonndeeji ɗee — ɓiɗɗo leydi ndin kadi yaajo hoɗoowo ɗo mpiindi mon.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "on reenu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuule Am"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kuule Am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ñaawirɗe Am"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñaawirɗe Am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on waɗu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "goote e"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "bonndeeji ɗee"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ɓiɗɗo leydi ndin"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "kadi yaajo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hoɗoowo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ɗo mpiindi mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:52.166203807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "⟨את⟩ Orev kala, e nguruudu mun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orev kala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "e nguruudu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:19:55.170764488Z",
+  "model": "glm-5.3"
+}

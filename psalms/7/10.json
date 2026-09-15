@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Temmitin, non, bonnde bonɓe ɓen; toɗɗin moƴƴu oo; Eloohim nuunɗuɗo on ƴeewtirta ɓerɗe e ƴiƴri.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "temmitin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "non"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonnde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bonɓe ɓen"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "toɗɗin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moƴƴu oo"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ƴeewtirta"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ɓerɗe"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "e ƴiƴri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nuunɗuɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:00.003941094Z",
+  "model": "glm-5.3"
+}

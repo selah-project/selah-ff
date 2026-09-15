@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe ndokki junngo mun fii yaltinde debbo mum en, ɓe woni bommɓe, ɓe ndokki peewu balloŋ ngam bommunaal mun.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "fii yaltinde"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "debbo mum en"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "ɓe woni bommɓe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "peewu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "balloŋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "bommunaal mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:44:09.893051367Z",
+  "model": "glm-5.3"
+}

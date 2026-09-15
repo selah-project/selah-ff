@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "E maaɗa, Yaawe, mi hebbiima ⟨wata⟩ mi ruumu haa ⟨duumi⟩; e nunɗu maaɗa hisnu mi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "E maaɗa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi hebbiima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "mi ruumu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "e nunɗu maaɗa"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "hisnu mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:16.381345914Z",
+  "model": "glm-5.3"
+}

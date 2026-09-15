@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ndiyam ɗin gasii e nder butelaaru nden, o docki ⟨את⟩ suka o les gooto e huɗo ɗii.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "butelaaru nden"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "o docki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka o"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "suka o"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "huɗo ɗii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:26.413542621Z",
+  "model": "glm-5.3"
+}

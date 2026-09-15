@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O umminii seedanteeje e Yaaqob, o waɗii tora e Yisra'el, ɗum o yamiri ⟨את⟩ baabiraaɓe amen, ngam ɓe anndinir ɓiɓɓe mum en.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o umminii"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "seedanteeje"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "e Yaaqob"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "e tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe amen"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "baabiraaɓe amen"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ngam ɓe anndinir ɓe"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fii ɓiɓɓe mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:02.004943505Z",
+  "model": "glm-5.3"
+}

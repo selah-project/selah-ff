@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Fii yoowo on, e kuutorɗe dirde, e jeetatiire, mizmoor fii Daawuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowo on"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "e kuutorɗe dirde"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "jeetatiire"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:25.397125807Z",
+  "model": "glm-5.3"
+}

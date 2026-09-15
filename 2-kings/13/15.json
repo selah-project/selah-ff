@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Eliisa'a wi'i mo: Heɓu teŋe e feesu; o heɓi to makko teŋe e feesu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisa'a"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Heɓu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "teŋe"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "e feesu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o heɓi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "teŋe"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "e feesu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:56.147671195Z",
+  "model": "glm-5.3"
+}

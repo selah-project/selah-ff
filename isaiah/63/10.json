@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "Kono ɓe muurti, ɓe mettini ⟨את⟩ Ruuhu laamu makko; o waylitima wonti ayɓe maɓɓe, kanko hoore makko o haɓi e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kono ɓe"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "muurti"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "mettini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ruuhu laamu makko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "o waylitima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wonti"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "ayɓe maɓɓe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko hoore makko"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "haɓi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:45.530845472Z",
+  "model": "glm-5.3"
+}

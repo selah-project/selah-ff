@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 21:33",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Citte leyɗen Gershoniyankooɓe ɗen fuu, ngam nguddi mun, ko cite sappo e tati e harikeeji mun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "citte"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "leyɗen Gershoniyankooɓe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngam nguddi mun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo e"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "cite"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "e harikeeji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:49.494057132Z",
+  "model": "glm-5.3"
+}

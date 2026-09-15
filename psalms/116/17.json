@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "E maaɗa mi ɓeydata jabbugol jabbere yettoore, e nder innde Yaawe mi noddata.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "E maaɗa"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "mi ɓeydata jabbugol"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "jabbere"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "yettore"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "e nder innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.745437469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 39:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "e ⟨את⟩ ɗiɗi ɗii cuɓe caɗe ɗiɗi ɗen ɓe mbelli dow ɗiɗo ɗii mishbetsot ɗen, ɓe mbelli ɗen dow koti efod on, to yeeso mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiɗi ɗii cuɓe caɗe ɗen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "cuɓe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "caɗe ɗen"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ɓe mbelli"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "mishbetsot ɗen"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ɓe mbelli ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "koti"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ka taƴre yeeso"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:32.706438855Z",
+  "model": "glm-5.3"
+}

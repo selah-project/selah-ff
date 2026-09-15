@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Kadi nagge bonannde maa waɗaa ñalnde kala fii kafaruuji ɗin, maa laaɓtina fii altaare on, e kafara maa waɗa e makko, maa ɓornita ⟨את⟩ ɗum fii senaande mum.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "kadi nagge"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maa waɗaa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ñalnde kala"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kafaruuji ɗin"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "maa laaɓtina"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaare on"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "e kafara maa waɗa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "maa ɓornita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (altaare on)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "fii senaande mum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:09:47.766035009Z",
+  "model": "glm-5.3"
+}

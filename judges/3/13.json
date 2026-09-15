@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O moofti e makko ⟨את⟩ ɓiɓɓe Ammon e Amalek, o yahi o fiyi ⟨את⟩ Yisraayel, ɓe njoghi ⟨את⟩ wuro tamaraaji ɗin.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "o moofti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "e Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraayel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "ɓe njoghi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "tamaraaji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T06:25:25.179211443Z",
+  "model": "glm-5.3"
+}

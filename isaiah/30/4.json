@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Gila laamɓe mun ɓen ngonnoo ko e Tso'an, nulaaɗo mun ɓen keɓii yottude Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gila"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngonnoo ko"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "e Tso'an"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "laamɓe mun ɓen"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "nulaaɗo mun ɓen"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "keɓii yottude"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:56.573238143Z",
+  "model": "glm-5.3"
+}

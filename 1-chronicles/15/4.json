@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Dawuidi mooɓini ⟨את⟩ ɓiɓɓe Aarona e ⟨את⟩ Lewiyi'en ɗen.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "mooɓini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawuidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Aarona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Lewiyi'en ɗen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewiyi'en ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:21.909449053Z",
+  "model": "glm-5.3"
+}

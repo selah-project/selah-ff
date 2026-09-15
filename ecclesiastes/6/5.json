@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Kadi naange o yiyraani, o anndaani; ɗum ina jogorii deeƴre ɓurndi ⟨ɗum⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yiyraani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e alaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndaani"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "deeƴre"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "e ɗum"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ɓurndi ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:29.427741612Z",
+  "model": "glm-5.3"
+}

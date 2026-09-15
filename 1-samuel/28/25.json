@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "O addani ɗum yeeso Shaul e yeeso maccuɓe makko, ɓe ñaami; ɓe ummii, ɓe njahi jamma ngo.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "o addani ɗum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe makko"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ɓe ñaami"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummii"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "jamma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:12.710375438Z",
+  "model": "glm-5.3"
+}

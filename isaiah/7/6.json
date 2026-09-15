@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "“Min njahata dow Yahuuda, min mɓottinta ɗum, min mbikkita ɗum faa min, min toɗɗata laamɗo nder nder mum, ⟨את⟩ ɓiɗɗo Tabeel.”",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "Min njahata dow"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "min mɓottinta ɗum"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "min mbikkita ɗum faa min"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "faa min"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "min toɗɗata laamɗo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "nder nder mum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo Tabeel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tabeel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:14.554150437Z",
+  "model": "glm-5.3"
+}

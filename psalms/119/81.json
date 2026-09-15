@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Nafsi am gasii fii ndeenidaande maa; fii konngol maa ngol mi felliti woyaade.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "gasii"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "fii ndeenidaande maa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi am"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "fii konngol maa ngol"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "mi felliti woyaade"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:35.819975173Z",
+  "model": "glm-5.3"
+}

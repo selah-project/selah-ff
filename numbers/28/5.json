@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "e cemre goode iffah uuroo ngam sadak, jillaaɗe e nebam katit, cogorɗe hin nden.",
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "e cemre goode"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "iffah nden"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "uuroo"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ngam sadak"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "jillaaɗe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "e nebam"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "katit"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "cogorɗe"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hin nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:14.264358020Z",
+  "model": "glm-5.3"
+}

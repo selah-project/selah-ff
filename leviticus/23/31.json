@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Gollal wata on waɗa; ko huɓɓere duumiinde fii duuɓi mon, e nokkuuje mon fof.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "gollal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on waɗa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "huɓɓere"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiinde"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fii duuɓi mon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fof"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "nokkuuje mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:48.229351251Z",
+  "model": "glm-5.3"
+}

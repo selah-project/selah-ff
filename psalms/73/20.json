@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 73,
+  "translation": "Ndi Yoŋgol furruɗam, non Adonaay, so a ummiima, ndi ƴeewirtoray mbatannde maɓɓe nden noFiltered naa.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Ndi yoŋgol"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "furruɗam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "so a ummiima"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "mbatannde maɓɓe nden"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ndi ƴeewirtoray"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:30.902138728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Reennoon amriiji am, mbaaddon ɗi ⟨את⟩; miin mi Yaawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "reennoon"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amriiji am"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mbaaddon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi (amriiji am)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "mi Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:31.183405665Z",
+  "model": "glm-5.3"
+}

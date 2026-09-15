@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Si ɓiɗɗo maaɗa naamnota maaɗa duuɓi garooji, wii: ko woni seedeeji ɗin, e sarɗiiji ɗin, e ñaawoore ɗen, ɗi Yaawe Eloohim amen faandiri ⟨את⟩ on ɗen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "naamnota maaɗa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maaɗa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "duuɓi garooji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "seedeeji ɗin"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "e sarɗiiji ɗin"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "e ñaawoore ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "faandiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:42.011581032Z",
+  "model": "glm-5.3"
+}

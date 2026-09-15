@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe udditunoo ⟨את⟩ noppi Shammuweel, ñalnde wootere hade Shawul arde, wiyude:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "udditunoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noppi Shammuweel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "noppi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shammuweel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hade"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "arde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:28.673233400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Laawol am e lelngol am a ƴeewtii ɓuuɓɓinirli; laawol am fof a heewi anndude.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "e lelngol am"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "a ƴeewtii ɓuuɓɓinirli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…fof"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "a heewi anndude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:19.850204717Z",
+  "model": "glm-5.3"
+}

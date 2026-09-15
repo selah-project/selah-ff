@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe waɗi ⟨את⟩ konngol ngol ñalawre janngo, dumun fuu nagge naɓɓe Misrayim maayi; kono e nagge naɓɓe ɓiɓɓe Israayiil hay gooto maayaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ñalawre janngo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dumun fuu"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "nagge naɓɓe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "kono e nagge naɓɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay gooto"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:41.490795648Z",
+  "model": "glm-5.3"
+}

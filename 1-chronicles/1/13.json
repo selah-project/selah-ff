@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kenaan rni Siidoon ɓiɗɗo mum mawɗo on ⟨את⟩ e ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "rni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siidoon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Siidoon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ɓiɗɗo mum mawɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:00.036984147Z",
+  "model": "glm-5.3"
+}

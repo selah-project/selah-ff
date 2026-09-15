@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Yahro, haalan Firawna laamɗo Misra, nde o yaltin ⟨את⟩ ɓiɓɓe Israa'iil e leydi makko.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Yahro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(fii)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firawna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o yaltin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "e leydi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:52.878057847Z",
+  "model": "glm-5.3"
+}

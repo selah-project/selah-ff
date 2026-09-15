@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "A woɗɗinii annduɓe am ɗoo e am; a waɗii mi ko ɓe ɗooyi e maɓɓe; ko mi daaƴiiɗo, mi ƴetta yaltude.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "a woɗɗinii"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "annduɓe am"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "a waɗii mi"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ko ɓe ɗooyi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ko mi daaƴiiɗo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ƴetta yaltude"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:32.357263010Z",
+  "model": "glm-5.3"
+}

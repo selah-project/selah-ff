@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yahuwshu'a toodi ⟨את⟩ leydi ndin fuu: tonngol ngol e ⟨את⟩ Fuɗnaange fuu e ⟨את⟩ leydi Gosan fuu e ⟨את⟩ ɓural ngal e ⟨את⟩ Araba ndun e ⟨את⟩ tonngol Israa'iila e ɓural maggal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "toodi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwshu'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tonngol ngol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Fuɗnaange fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Fuɗnaange nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi Gosan fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Gosan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓural ngal"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "ɓural ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Araba ndun"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba ndun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "tonngol Israa'iila"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tonngol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "e ɓural maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:17:32.955167110Z",
+  "model": "glm-5.3"
+}

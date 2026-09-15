@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Moƴƴere woodanii ɓen hisooɓe ñaawoore, golloowo pinal e sahaa kala.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "moƴƴere woodanii"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ɓen hisooɓe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "golloowo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "pinal"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e sahaa kala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sahaa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:44:55.009439563Z",
+  "model": "glm-5.3"
+}

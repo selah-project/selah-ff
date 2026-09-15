@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Hommo anndaa e nder ɗeen fuu, wonde juuɗe Yaawe tagii ɗum ⟨ɗum⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hommo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗeen fuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יד",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tagii"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:06.680617704Z",
+  "model": "glm-5.3"
+}

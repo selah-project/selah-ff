@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sabu murtugol ko ñaawoore koñol, tooñannge e terafiim ko nuunɗol. Tawa ko a woppitii ⟨את⟩ konngol Yaawe, o woppitii maam wonde laamɗo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "koñol"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "murtugol"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "tooñannge"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafiim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "nuunɗol"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Tawa"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "a woppitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "o woppitii maam"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "wonde laamɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:35.344930385Z",
+  "model": "glm-5.3"
+}

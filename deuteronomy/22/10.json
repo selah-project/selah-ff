@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Wataa lolirta e nagge e xoraa wondude.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wataa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lolirta"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "e nagge"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "e xoraa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "wondude"
+    }
+  ],
+  "timestamp": "2026-09-14T05:59:41.101420532Z",
+  "model": "glm-5.3"
+}

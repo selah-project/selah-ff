@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Jaakob wirnii ⟨את⟩ ɓernde Labaan-Arammiyanke on, tawa o ɓeydaani anndinde mo wonde o dogi omo doga.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "wirnii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde Labaan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labaan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Arammiyanke on"
+    },
+    {
+      "surface": "על",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ɓeydaani"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "anndinde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ooma"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:34.775962258Z",
+  "model": "glm-5.3"
+}

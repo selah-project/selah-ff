@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Shemuël wi'i to Shaul: dartu, maa mi haalan ma ⟨את⟩ ko Yaawe haalani mi jemma ɗoo. O wi'i mo: haalan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "dartu"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "maa mi haalan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe haalani mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "jemma ɗoo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haalan"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:32.134210628Z",
+  "model": "glm-5.3"
+}

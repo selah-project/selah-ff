@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe yaltini ⟨את⟩ pilliɗi suudu Baal ɓen, ɓe ɓuurniti ɗi.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ɓe yaltini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilliɗi suudu Baal ɓen"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "pilliɗi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ɓe ɓuurniti ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:19.737050672Z",
+  "model": "glm-5.3"
+}

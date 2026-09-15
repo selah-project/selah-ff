@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 70,
+  "translation": "Kono kam mi ko ŋakkaaɗo e woŋŋaaɗo: Eloohim, hurja e am; ko aan ballaado am e daɗnuko am; Yaawe, wata leeltu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kono kam mi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkaaɗo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e woŋŋaaɗo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hurja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ballaado am"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e daɗnuko am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "leeltu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:56.148402054Z",
+  "model": "glm-5.3"
+}

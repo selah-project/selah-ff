@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yuwnaatan jaabii ⟨את⟩ Sawul baaba mum, o wi'i mo: Ko honnde warata mo? Ko honnde o waɗi?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yuwnaatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sawul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sawul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honnde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "warata mo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honnde"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:05.525261890Z",
+  "model": "glm-5.3"
+}

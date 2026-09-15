@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Kala neɗɗo ƴellitotooɗo dokkal kaalis e njamndi boɗeeri, ɓe ndaddini ⟨את⟩ dokkal Yaawe; e kala gan tawaama ⟨את⟩ e makko leɗɗe acasia fii kala golle sarwije nden, ɓe ndaddini ɗe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ƴellitotooɗo"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "e njamndi boɗeeri"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ɓe ndaddini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal Yaawe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gan"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acasía"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii kala"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sarwije nden"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ɓe ndaddini"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:44.917762363Z",
+  "model": "glm-5.3"
+}

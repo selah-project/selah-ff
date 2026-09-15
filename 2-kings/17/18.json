@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Yaawe murɗii no feewi e Yisraa’el, o itti ɓe e yeeso mun; woodaani hay gooto accaafo, wanaa lamnde Yahuuda tan ko mun wooti",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "murɗii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Yisraa’el"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "o itti ɓe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "woodaani accaafo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "wanaa... tan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lamnde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ko mun wooti"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:56.410155356Z",
+  "model": "glm-5.3"
+}

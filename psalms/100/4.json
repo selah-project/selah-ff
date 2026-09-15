@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 100,
+  "translation": "Naatoy dame makko e yettoode, baaji makko e yettinnde; yettin mo, barkin innde makko.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Naatoy"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "dame makko"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "e yettoode"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "baaji makko"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "e yettinnde"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "yettin mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:19.097570119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Sha'uul nanii daande Yehonatan, Sha'uul hoolnii: 'So tawii Yaawe wuuri, o warateefo.'",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "hoolnii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so tawii"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o warateefo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:56.952455059Z",
+  "model": "glm-5.3"
+}

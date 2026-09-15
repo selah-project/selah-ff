@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 99,
+  "translation": "Mawninee Yaawe Eloohim amen, mballitinee e laare koyɗe mun — selluɗo ko Kanko.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Mawninee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "e mballitinee"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "e laare"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe mun"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "selluɗo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko Kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:30.512049413Z",
+  "model": "glm-5.3"
+}

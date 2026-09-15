@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Kammi mi wontii mocci e maɓɓe; ɓe ndaari mi, ɓe dogniti hoore maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kammi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wontii"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "mocci"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ɓe ndaari mi"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ɓe dogniti"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hoore maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:16.477654434Z",
+  "model": "glm-5.3"
+}

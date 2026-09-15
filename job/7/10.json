@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wanaa ruttotoo tawo to suudu mun, wanaa nokku mun anndotoo mo tawo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ruttotoo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "to suudu mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "anndotoo mo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "nokku mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:07:18.804565542Z",
+  "model": "glm-5.3"
+}

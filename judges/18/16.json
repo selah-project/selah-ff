@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 18:16",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "e worɓe jeegom teemedde ɓe ƴoƴɓinooɓe kaɓirɗe maɓɓe konu, dariiɓe e ɓuuɓol dame ndee — ɗi ko iwdi ɓiɓɓe Dan.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "e jeegom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "חגורים",
+      "gloss": "ƴoƴɓinooɓe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kaɓirɗe"
+    },
+    {
+      "surface": "מלחמתם",
+      "gloss": "maɓɓe konu"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "dariiɓe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "e ɓuuɓol"
+    },
+    {
+      "surface": "השער",
+      "gloss": "dame ndee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "iwdi ɓiɓɓe"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-14T06:33:34.809495809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Waɗtaa ⟨את⟩ taabal ngal yaasi paandaale nden, e ⟨את⟩ layngol nge haŋkadi taabal ngal, dow cakaange teental ngal ka nano; taabal ngal waɗɗaa dow cakaange ka worgo.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "waɗtaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taabal ngal"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "yaasi"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "paandaale nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "layngol nge"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "layngol nge"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "haŋkadi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "cakaange"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "teental ngal"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ka nano"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "taabal ngal"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "waɗɗaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "cakaange"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ka worgo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:47.433959654Z",
+  "model": "glm-5.3"
+}

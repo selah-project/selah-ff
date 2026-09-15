@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kono hay e ɗo waktuiji ɗin, yeewtere Yaawe: mi waɗata ⟨את⟩ on waasde timmude.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kono hay"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e ɗo waktuiji"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "yeewtere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waasde"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "timmude"
+    }
+  ],
+  "timestamp": "2026-09-14T08:08:21.461854941Z",
+  "model": "glm-5.3"
+}

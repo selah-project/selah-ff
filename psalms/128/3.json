@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 128,
+  "translation": "Debbo maa no hona geɗel payto e nder ŋore wuro maa; ɓiɓɓe maa rewɓe no hona cuɓɗi zaytuun taarondirɞ tauwrde maa.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "debbo maa"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "no hona geɗel"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "payto"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "e nder ŋore"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wuro maa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe maa rewɓe"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "no hona cuɓɗi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaytuun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taarondirɞ"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tauwrde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:14.758042118Z",
+  "model": "glm-5.3"
+}

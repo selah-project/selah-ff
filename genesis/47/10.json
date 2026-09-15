@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Jaakob bariki ⟨את⟩ Pirore, o yalti yeeso Pirore.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bariki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pirore"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pirore"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "o yalti"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pirore"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:42.334266593Z",
+  "model": "glm-5.3"
+}

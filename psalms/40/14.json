@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Yurto, Yaawe, fii hisnude am; Yaawe, jaajo fii ballal am.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Yurto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "fii hisnude am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "fii ballal am"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "jaajo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:46.262627538Z",
+  "model": "glm-5.3"
+}

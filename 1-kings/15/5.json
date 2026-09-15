@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sabu Dawid waɗii ⟨את⟩ moƴƴere nden e yi'ire Yaawe, o dartaano e konngol fuu fii Yaawe fooɗiri kon ko ɓuri heewde e balɗe nguurndam mun, si wanaa e ñiɗwi Uriya Hittiyankaajo on.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moƴƴere nden"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "moƴƴere nden"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e yi'ire"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o dartaano"
+    },
+    {
+      "surface": "סר",
+      "gloss": "darti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e konngol fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fii"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Yaawe fooɗiri kon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ko ɓuri heewde"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "e balɗe"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "nguurndam mun"
+    },
+    {
+      "surface": "רק",
+      "gloss": "si wanaa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "e ñiɗwi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittiyankaajo on"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:20.269635237Z",
+  "model": "glm-5.3"
+}

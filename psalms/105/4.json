@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Ɗaɓɓit-ee Yaawe e doole makko, ƴeewit-ee hoodere makko sahaa fof.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ɗaɓɓit-ee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "e doole makko"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ƴeewit-ee"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hoodere makko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sahaa fof"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:42.873933650Z",
+  "model": "glm-5.3"
+}

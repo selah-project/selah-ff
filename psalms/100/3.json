@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 100,
+  "translation": "Anndee wonde Yaawe kanko ⟨woni⟩ Eloohim; kanko o tagi min, min min tagaani min ɓe hoore min; ko min leñol makko, ko min beʼi ngaynaare makko.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Anndee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko ⟨woni⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "tagi min"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "min min tagaani min"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "leñol makko"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ko min beʼi"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ngaynaare makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:19.097416027Z",
+  "model": "glm-5.3"
+}

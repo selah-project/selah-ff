@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "Wanndortooɗo annoore no wanni comci; dđittooɗo kammuuli no wanni ŋorol.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Wanndortooɗo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoore"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "no wanni comci"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "dđittooɗo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "no wanni ŋorol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:52.597326299Z",
+  "model": "glm-5.3"
+}

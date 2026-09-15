@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Fii jawru maa waɗi candannde saŋa o ɗuuɗunoo to Geshur e Aram, o wi'i: si Yaawe artirii-mi yeeso to Yeruusalem, mi gollotoo Yaawe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "candannde"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jawru maa"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "o ɗuuɗunoo"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "to Geshur"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "e Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "artirtiri"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "artirii-mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeruusalem"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "mi gollotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:49.773321599Z",
+  "model": "glm-5.3"
+}

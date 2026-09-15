@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Kaɓirɗe am senaaɗe ƴikkiiɗaali, e ⟨את⟩ Sabbatuuji am ngełaaliɗaa.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "kaɓirɗe am senaaɗe"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ƴikkiiɗaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabbatuuji am"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabbatuuji am"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ngełaaliɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:43:21.842200006Z",
+  "model": "glm-5.3"
+}

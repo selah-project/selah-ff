@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Wata ɓernde maa defo e laawol makko, wata majju e piyouje makko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "defo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "laawol makko"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ɓernde maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "majju"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "piyouje makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:37.185457648Z",
+  "model": "glm-5.3"
+}

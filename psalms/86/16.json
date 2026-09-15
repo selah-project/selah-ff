@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 86,
+  "translation": "Wartu faade am, yurmin am; hokku doole maa jeyaaɗo maa, hisnu ɓiy taƴaaɗo maa.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wartu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "faade am"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "yurmin am"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "doole maa"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "taƴaaɗo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:40.109441450Z",
+  "model": "glm-5.3"
+}

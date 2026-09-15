@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O mahi ⟨את⟩ Beth-Choron toowɗo on e ⟨את⟩ Beth-Choron lesɗo on, gure moomɗe, kaaje, dame e paake.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beth-Choron toowɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "toowɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Beth-Choron lesɗo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "lesɗo on"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "gure"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "moomɗe"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "kaaje"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dame"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "e paake"
+    }
+  ],
+  "timestamp": "2026-09-14T11:14:06.878141029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɓalli am ɗii ƴoƴƴini e kulol maa, e ñaawoore maa kadi mi hoŋkii.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ƴoƴƴini"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "e kulol maa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ɓalli am"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "e ñaawoore maa kadi"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mi hoŋkii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:48.141939194Z",
+  "model": "glm-5.3"
+}

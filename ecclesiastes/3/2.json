@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Sa'a fii jibinde, e sa'a fii maayde; sa'a fii leemude, e sa'a fii bewnude leemaaɗum.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "fii jibinde"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e sa'a"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fii maayde"
+    },
+    {
+      "surface": "עת",
+      "gloss": "sa'a"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "fii leemude"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "e sa'a"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "fii bewnude"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "leemaaɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:43.830984567Z",
+  "model": "glm-5.3"
+}

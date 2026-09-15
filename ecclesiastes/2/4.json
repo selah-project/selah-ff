@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi mawnini golle am; mi mahi lam cuuɗi; mi planti lam jabi.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "mi mawnini"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle am"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mi mahi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "mi planti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "jabi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:09.383425690Z",
+  "model": "glm-5.3"
+}

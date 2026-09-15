@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Fir'awna mbi'a dow ɓiɓɓe Israa'iil: ɗi majjii e nder leydi ndi, jeere nden uddii dow maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dow ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "uddii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeere nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:22.843728508Z",
+  "model": "glm-5.3"
+}

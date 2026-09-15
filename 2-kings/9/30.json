@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yehu naati Yizreel, Izebel nanii, o waɗi puɗo e gite makko, o moƴƴini ⟨את⟩ hoore makko, o yiyloori e henndoore nden.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "puɗo"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "e gite makko"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "o moƴƴini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore makko"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "o yiyloori"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "e"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "henndoore nden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:29:48.566057821Z",
+  "model": "glm-5.3"
+}

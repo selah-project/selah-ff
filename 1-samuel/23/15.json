@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Dawili yi'i wonde Shaa'uul yaltiino ngam ɗaɓɓude ⟨את⟩ nguurndam mun; Dawili wonnoo ko e jeereende Ziif, to Horde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltiino"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'uul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ngam ɗaɓɓude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam mun"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nguurndam mun"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawili"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e jeereende"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "to Horde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:08.839123703Z",
+  "model": "glm-5.3"
+}

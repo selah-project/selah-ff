@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nde ⟨ɗuum⟩ waɗi haa ɗoo e haa ɗoo, kammuuli ɗin niɓɓitii duume e henndu, nden waɗi toɓo mawngo; Ahab yoori, o yahi Yizre'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde ⟨ɗuum⟩ waɗi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e haa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "niɓɓitii"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "duume"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "e henndu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "toɓo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngo"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "yoori"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:12.539386873Z",
+  "model": "glm-5.3"
+}

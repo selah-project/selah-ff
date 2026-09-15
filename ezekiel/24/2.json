@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓiɗɗo aadam, winndu maa ⟨את⟩ innde ñalnde nden, ⟨את⟩ ñalnde heere nden: laamɗo Babiliuna fellini hoore mun e Yerushalayim e ñalnde heere nden.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "winndu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde ñalnde nden"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalnde heere nden"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "heere"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "fellini hoore mun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babiliuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "e ñalnde heere"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    }
+  ],
+  "timestamp": "2026-09-14T08:44:10.042274570Z",
+  "model": "glm-5.3"
+}

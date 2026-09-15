@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Min jogii ⟨את⟩ deftere ndeyngol nden — ⟨את⟩ nde sealnaaka, nde waɗi ko laaw e kuutoraaɓe, e ⟨את⟩ nde udditaaka.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "min jogii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deftere ndeyngol nden"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ndeyngol nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nde sealnaaka"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "nde sealnaaka"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "laaw"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "e kuutoraaɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nde udditaaka"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "nde udditaaka"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:06.820604421Z",
+  "model": "glm-5.3"
+}

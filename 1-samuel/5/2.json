@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Pelisetiyankooɓe ɓee njamɓi ⟨את⟩ sannde Eloohim ɗen, ɓe naatni ⟨את⟩ nden nder suudu Dagon, ɓe darini ⟨את⟩ nden sara Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓee njamɓi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisetiyankooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sannde Eloohim ɗen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sannde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ɓe naatni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nden",
+      "marks": "nder suudu Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ɓe darini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nden",
+      "marks": "sara Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sara"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:38.071314588Z",
+  "model": "glm-5.3"
+}

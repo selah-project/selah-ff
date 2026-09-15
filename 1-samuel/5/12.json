@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Worɓe ɓen ɓe maayaako, ɓe fiyaa dockeri; wullaare wuro ngoo ƴellii haa kammuuli.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Worɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maayaako"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maayi"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ɓe fiyaa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "dockeri"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ƴellii"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "wullaare"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:11.802650861Z",
+  "model": "glm-5.3"
+}

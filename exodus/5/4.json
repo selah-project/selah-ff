@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Laamɗo Misra wi'i ɓe: \"Ko honɗun, Moosaa e Aaronaa, ɗum, ko njoyo-ɗon ⟨את⟩ yimɓe ɗon e golle maɓɓe? Yahon to junngo mon ɗin!\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko honɗun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moosaa"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aaronaa"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "njoyo-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɗon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɗon"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "e golle maɓɓe"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "to junngo mon ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:27.356877469Z",
+  "model": "glm-5.3"
+}

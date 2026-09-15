@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ndeen mawɓe maaɗa e ñaawooɓe maaɗa njalto, ɓe ƴeewtoto hakke gure ɗe taariiɗe waraaɗo on.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "njalto"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "mawɓe maaɗa"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "e ñaawooɓe maaɗa"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ɓe ƴeewtoto hakke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fotde e"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gure"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "taariiɗe"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "waraaɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:01:14.513598198Z",
+  "model": "glm-5.3"
+}

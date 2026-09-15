@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi ⟨את⟩ mbedda ɓurngol ngol leɗɗe shitim; ammaaji jeegom ⟨ngoddi⟩ toothol mun, e ammaaji jeegom yaajngol mun — layaaji-nayaaje; tati ko ammaaji tooweendi mun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbedda ɓurngol ngol"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mbedda ɓurngol"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ɓurngol"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "toothol mun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "e jeegom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajngol mun"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "layaaji-nayaaje"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "e tati"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammaaji"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tooweendi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:24.482234298Z",
+  "model": "glm-5.3"
+}

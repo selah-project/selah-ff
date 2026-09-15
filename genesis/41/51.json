@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Yoosef inniri ⟨את⟩ innde ɓiɗɗo mawɗo on Menashshe, sabu Eloohim yejjitinii ⟨את⟩ golle am fuu e ⟨את⟩ galle baaba am fuu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "inniri"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ɓiɗɗo mawɗo on"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "yejjitinii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "golle am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:38.639771836Z",
+  "model": "glm-5.3"
+}

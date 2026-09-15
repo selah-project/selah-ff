@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ndeen ɓe ɓoornii kulol ⟨את⟩ Yaawe, ɓe mbaɗi e hoore maɓɓe, e kaɓirgol maɓɓe, almuudoowo bamot ; ɓe ngonnoo waɗde maɓɓe golle e nder cuuɗi bamot ɗin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe ngonnoo"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ɓoornii kulol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e hoore maɓɓe"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "e kaɓirgol maɓɓe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "almuudoowo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamot"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe ngonnoo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "waɗde golle"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e nder cuuɗi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamot ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:45.819671395Z",
+  "model": "glm-5.3"
+}

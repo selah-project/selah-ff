@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Jabtu kesil no muna mun waɗirta, wata o won hoŋŋo e nder gite mun.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Jabtu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kesil"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "no muna mun waɗirta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o won"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hoŋŋo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e nder gite mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:03:30.816747744Z",
+  "model": "glm-5.3"
+}

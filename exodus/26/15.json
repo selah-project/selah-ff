@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Waɗan ⟨את⟩ ɓalɗe ɗen fii Miskaan on: leɗɗe shittim ena darii.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓalɗe ɗen"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ɓalɗe ɗen"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fii Miskaan on"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ena darii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:54.595654655Z",
+  "model": "glm-5.3"
+}

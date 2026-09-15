@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ndeen no woodani ɓe nder neldam maɓɓe: Beer-Sheba, e Sheba, e Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndeen woodani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "nder neldam maɓɓe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "e Sheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "e Molada"
+    }
+  ],
+  "timestamp": "2026-09-14T06:18:48.456729932Z",
+  "model": "glm-5.3"
+}

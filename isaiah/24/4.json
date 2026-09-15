@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Leydi ndin sunii, ndi ɓuuɓii; aduna on mettii, o ɓuuɓii; ɓe mettii — toowɓe yimɓe leydi ndin ɓen.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "sunii"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ɓuuɓii"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "mettii"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ɓuuɓii"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "aduna on"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ɓe mettii"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "toowɓe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:25.774176450Z",
+  "model": "glm-5.3"
+}

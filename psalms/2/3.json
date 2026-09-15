@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Min taccu ⟨את⟩ deƴƴe Makko ɗen, min ruppina e Makko misete Makko ɗen.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Min taccu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deƴƴe Makko ɗen"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "deƴƴe Makko ɗen"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "min ruppina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e Makko"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "misete Makko ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:56.476922030Z",
+  "model": "glm-5.3"
+}

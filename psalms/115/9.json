@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Yisraa'iil, hoolo e Yaawe; kanko ko ⟨o⟩ woni ballal maɓɓe e ngoŋŋo maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hoolo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ballal maɓɓe"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "e ngoŋŋo maɓɓe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko ko ⟨o⟩ woni"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.785262533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Yaawe ɓeydirta dow mon, dow mon e dow ɓiɗɓe mon.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ɓeydirta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dow mon"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dow mon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ɓiɗɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:56.651611581Z",
+  "model": "glm-5.3"
+}

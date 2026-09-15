@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Nano, Yaawe, daande am, mi noddata; ñaawu yurmeende am, jaaba mi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ñaawu yurmeende am"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "jaaba mi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:03.539816484Z",
+  "model": "glm-5.3"
+}

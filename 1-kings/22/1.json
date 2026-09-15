@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓe ngonii duuɓi tati, alaa hare hakkunde Aram e hakkunde Israa'il.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ngonii"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "hare"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'il"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:23.047294926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Selah wuuri duuɓi noogas e sappo, o jibini ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "duuɓi noogas e sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:46.316090413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe yettinoy ⟨את⟩ gañɓe maa ɓe ummotoo e maa, ɓe ƴettaa yeeso maa; laawol wootere ɓe njaltata e maa, e laawje jeeɗi ɓe dogata yeeso maa.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "yettinoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gañɓe maa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "gañɓe maa"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "ɓe ummotoo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "ɓe ƴettaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ɓe njaltata"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "e jeeɗi"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "laawje"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "ɓe dogata"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:00.375103169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Kono ɓe ɗaminiiɓe Yaawe ɗon, ɓe waylu doole mun ɗen, ɓe ɗaɓɓu banange hono ƴiwoore; ɓe doggo, ɓe mujjataa; ɓe yaha, ɓe murmutaa.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "ɓe ɗaminiiɓe ɗon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "ɓe waylu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "doole mun ɗen"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ɓe ɗaɓɓu banange"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "banange"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "hono ƴiwoore"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ɓe doggo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe mujjataa"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "mujjata"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ɓe yaha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe murmutaa"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "murmutaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:00.727803098Z",
+  "model": "glm-5.3"
+}

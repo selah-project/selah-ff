@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kala neldaangu rowrowngu e nnamdu, e ka nguru, ko ngam ɓiɓɓe Aharon ɗiin fof ⟨nih⟩; gooto no banndiraaɓe mun nih.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "neldaangu"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "rowrowngu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "e nnamdu"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "e ka nguru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngam fof"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nih"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "no banndiraaɓe mun nih"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:31.966885001Z",
+  "model": "glm-5.3"
+}

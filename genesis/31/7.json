@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Baaba mon fooɗii am, o waylitii ⟨את⟩ njoɓdi am laabi sappo; kono Eloohim yamiraaki mo bone waɗde e am.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Baaba mon"
+    },
+    {
+      "surface": "התל",
+      "gloss": "fooɗii"
+    },
+    {
+      "surface": "בי",
+      "gloss": "am"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "o waylitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njoבdi am"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "njoɓdi am"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "laabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono ... ɗaɓɓaani"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "yamiraaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "bone waɗde"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:09.711012486Z",
+  "model": "glm-5.3"
+}

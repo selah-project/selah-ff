@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 129,
+  "translation": "Yimre ƴɑmre ɗen. No ɓuri heewde ɓe ɗaŋɗii min gila e cukaagu am; yo Israa'iil wi'u ɗoon:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Yimre"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ƴɑmre ɗen"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "No ɓuri heewde"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ɓe ɗaŋɗii min"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gila e cukaagu am"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "yo ... wi'u"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:10.263178427Z",
+  "model": "glm-5.3"
+}

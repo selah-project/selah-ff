@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "e ⟨את⟩ Chiilen e ⟨את⟩ koorɗe mum, ⟨את⟩ Debir e ⟨את⟩ koorɗe mum;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Chiilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Chiilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "koorɗe mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "koorɗe mum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "koorɗe mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "koorɗe mum"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:32.860947038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kadi laamɗo on Daawuda nano ⟨את⟩ ɗeen konnguuli ɗii fof, kadi tikkere mawnde heewi e makko.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "kadi laamɗo on"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗeen konnguuli ɗii fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguuli ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗeen"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "tikkere heewi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:18.344052956Z",
+  "model": "glm-5.3"
+}

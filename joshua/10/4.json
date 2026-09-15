@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "“Yottoɗo e am, wallu min, mbar en ⟨את⟩ Gibon, sabu o waðii nanondiral e ⟨את⟩ Yehoshuwa e ⟨את⟩ ɓiɓɓe Israa'iil.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Yottoɗo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "wallu min"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mbar en"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "waðii nanondiral"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:24.393849404Z",
+  "model": "glm-5.3"
+}

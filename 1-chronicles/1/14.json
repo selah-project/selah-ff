@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "e ⟨את⟩ Yebuusaajo on, e ⟨את⟩ Amoraajo on, e ⟨את⟩ Girgasaajo on;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yebuusaajo on"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebuusaajo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Amoraajo on"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoraajo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Girgasaajo on"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgasaajo on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.941401930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Aru to Bet-El, ɓeydu bonannde; to Gilgal ɓeydu bonannde; ɗottu subaka mande mon, tatale ñalɗi yoɓɓe mon.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "ɓeydu bonannde"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "to Gilgal"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "ɓeydu"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ɗottu"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "mande mon"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tatale"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "yoɓɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:30.496494301Z",
+  "model": "glm-5.3"
+}

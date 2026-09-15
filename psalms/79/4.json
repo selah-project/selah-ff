@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Min ngoniirtaa keefeenti fii koɗdiiɓe amen, jeƴre e kelgol fii wonfirooɓe amen.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "ngoniirtaa"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "keefeenti"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "fii koɗdiiɓe amen"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "jeƴre"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "e kelgol"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "fii wonfirooɓe amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:36.581293924Z",
+  "model": "glm-5.3"
+}

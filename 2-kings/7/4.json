@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "So min wi'i min naata nguruuro ndee, kooñal on ko e nder nguruuro ndee, min maaya toon; e so min jooɗii ɗoo, min maaya. Jooni noon yahu, en nawo e wuro konu Aram; so ɓe wuurzini min, min nguura; e so ɓe warra min, min maaya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "min wi'i"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "min naata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nguruuro ndee"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "kooñal on"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e nder nguruuro"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "min maaya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "toon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e so"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "min jooɗii"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "min maaya"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Jooni noon"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahu"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "en nawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "wuro konu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "ɓe wuurzini min"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "min nguura"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e so"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ɓe warra min"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "min maaya"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:25.025101598Z",
+  "model": "glm-5.3"
+}

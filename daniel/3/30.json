@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen laamɗo on ɓamtii Shadrak, Meyzak e Abed-Negoo e diiwaan Babilon.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Ndeen"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ɓamtii"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrak"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meyzak"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "e"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Negoo"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "e diiwaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-14T13:00:01.841562456Z",
+  "model": "glm-5.3"
+}

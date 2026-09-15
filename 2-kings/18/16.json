@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E nder sahaa ngoo Chizkiya taƴii ⟨את⟩ dame suudu mawndu Yaawe e ⟨את⟩ palorooje ɗe Chizkiya laamɗo Yahuda waɗiri njeebi, o rokki ɗe laamɗo Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "e nder sahaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "taƴii"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dame suudu mawndu Yaawe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dame"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu mawndu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palorooje ɗe Chizkiya waɗiri njeebi"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "palorooje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "waɗiri njeebi"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "o rokki ɗe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:10.849390317Z",
+  "model": "glm-5.3"
+}

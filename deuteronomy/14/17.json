@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "e kaat on, e ⟨את⟩ rahama on, e ⟨את⟩ shalak on.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "e kaat on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "rahama on"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "rahama on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "shalak on"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalak on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:58:02.880051797Z",
+  "model": "glm-5.3"
+}

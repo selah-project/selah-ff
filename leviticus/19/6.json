@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ñalnde wattugol mun en ɗum ñaametee, e nder ñalnde ɓaawo nden; ko heddii haa ñalnde tataɓere, e yiite yeeyetee.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "wattugol mun en ɗum"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaametee"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "e nder ñalnde ɓaawo nden"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tataɓere"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yeeyetee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:33.862095080Z",
+  "model": "glm-5.3"
+}

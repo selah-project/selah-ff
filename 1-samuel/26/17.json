@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Shaul anndi ⟨את⟩ daawol Dawuudi, o wi'i: “Ana ɗum daawol maa, ɓiyum am Dawuudi?” Dawuudi wi'i: “Daawol am, Adonaay am, laamɗo on.”",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daawol Dawuudi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daawol"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "daawol maa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiyum am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daawol am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:29.199615217Z",
+  "model": "glm-5.3"
+}

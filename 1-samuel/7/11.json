@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Worɓe Israa'iil njalti Mitzpa, ɓe ndewi ⟨את⟩ Pilistiinaaji ɗin, ɓe mbari ɓe haa les Beethkar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ɓe njalti"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ɓe ndewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilistiinaaji ɗin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistiinaaji ɗin"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ɓe mbari ɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beeth"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kar"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:36.587540884Z",
+  "model": "glm-5.3"
+}

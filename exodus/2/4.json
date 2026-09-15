@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaayar mum darii woɗɗude, ngam anndude ko waɗetee mo.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "yaayar mum"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "woɗɗude"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wađetee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:51.705219561Z",
+  "model": "glm-5.3"
+}

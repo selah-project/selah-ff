@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "A waɗay min ñaawoore-wallitere e leƴƴi ɗin, e loowgol hoore e yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "a wađay min"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ñaawoore-wallitere"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "e leƴƴi ɗin"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "loowgol"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:15.473487984Z",
+  "model": "glm-5.3"
+}

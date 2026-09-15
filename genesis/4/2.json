@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "O ɓeydi jibinde ⟨את⟩ miñi mun ⟨את⟩ Hebel; Hebel laatii baloowo be'i, Kayin laatii golloowo leydi.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "o ɓeydi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "jibinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñi mun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñi mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laatii"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baloowo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "be'i"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "laatii"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "golloowo"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "leydi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:59.843257837Z",
+  "model": "glm-5.3"
+}

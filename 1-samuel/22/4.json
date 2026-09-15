@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O addi ɓe yeeso ⟨את⟩ laamɗo Moab, ɓe ngoni e makko duuɓi fuu Dawuudi wonnoo e nokku hisnunde.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "o addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso laamɗo Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe ngoni"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "e nokku hisnunde"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:27.527307328Z",
+  "model": "glm-5.3"
+}

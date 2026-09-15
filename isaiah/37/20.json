@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "non hannde, Yaawe Eloohim amen, hisnu min e junngo makko ngoo, ɓe anndir laamuudiiji leydi ndi fuu wonnde Aan, Yaawe, Aan tan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "non hannde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "hisnu min"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "e junngo makko ngoo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ɓe anndir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamuudiiji"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Aan tan"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:15.032645138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɗen ɓe Yaawe Sabaoth barkiini ɓe, wi'i: \"Barkiini yimɓe am Misrayim, e golle juuɗe am Ashur, e ndonaandi am Israa'iil.\"",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ɗen ɓe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barkiini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barkiini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe am"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "e ndonaandi am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:45:27.434817851Z",
+  "model": "glm-5.3"
+}

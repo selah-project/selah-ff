@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O winndi ɗoon e dow canƴe ɗen ⟨את⟩ nanndinde Tora Moshe, hono no o winndiri yeeso ɓiɓɓe Yisraayel nii.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "o winndi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "canƴe ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanndinde Tora Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "nanndinde"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "o winndiri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    }
+  ],
+  "timestamp": "2026-09-14T06:15:05.168750125Z",
+  "model": "glm-5.3"
+}

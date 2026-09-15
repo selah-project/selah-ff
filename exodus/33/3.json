@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Feewa e leydi wuurtu kossam e asal; sabu mi ƴellowaa e nder mon, sabu on yimɓe daande sattunde; si wanaa mi yeeyna on e laawol.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "feewa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "wuurtu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kossam"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e asal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi ƴellowa"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "e nder mon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sattu"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "daande"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on"
+    },
+    {
+      "surface": "פן",
+      "gloss": "si wanaa"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mi yeeyna on"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:10.013583486Z",
+  "model": "glm-5.3"
+}

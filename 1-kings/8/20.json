@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Yaawe fulfini ⟨את⟩ konngol makko ngol o wi'unoo; miimɓi lomtiiɓe Dawuud baabaam, mi jooɗii e jullude Israa'iil, hono no Yaawe wi'iri nii; mi mahi suudu ndun fii innde Yaawe, Eloohim Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "fulfini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol makko"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "konngol makko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'unoo"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "miimɓi lomtiiɓe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lomtiiɓe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baabaam"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "mi joođii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jullude"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'iri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "mi mahi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "fii innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:37.776024580Z",
+  "model": "glm-5.3"
+}

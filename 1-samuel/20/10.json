@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ndeen Daawuda wi'i e Yonatanan: ‘Hol mo tinndinay mi? walla hol no baaba maa jaabata maa e mbaadi tiiɗndi?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndeen Daawuda wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hol mo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "tinndinay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hol no"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "jaabata maa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "e mbaadi tiiɗndi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:51.890853485Z",
+  "model": "glm-5.3"
+}

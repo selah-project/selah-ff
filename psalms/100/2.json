@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 100,
+  "translation": "Gollok ⟨את⟩ Yaawe e mbeldi; naatoy e yeeso makko e yimoode.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Gollok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "e mbeldi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "naatoy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "e yeeso makko"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "e yimoode"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:19.097275973Z",
+  "model": "glm-5.3"
+}

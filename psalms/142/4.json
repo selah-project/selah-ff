@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 142,
+  "translation": "Tuma ruuhu am ina ŋakki e hoore am, kono a anndi laawol am; e laawol ngol mi yahata, ɓe cuuɗnii oraade am.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "tuma ... ina ŋakki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e hoore am"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "laawol am"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "mi yahata"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ɓe cuuðnii"
+    },
+    {
+      "surface": "פח",
+      "gloss": "oraade"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:14.013238172Z",
+  "model": "glm-5.3"
+}

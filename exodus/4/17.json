@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nde ⟨את⟩ ɗiɗirde ndee ƴoƴo e junngo maa, waawirtaɗum waɗde e mayre ⟨את⟩ maandeeji ɗin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiɗirde ndee"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ɗiɗirde ndee"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ƴoƴo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waawirtaɗum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maandeeji ɗin"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "maandeeji ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:23.945626166Z",
+  "model": "glm-5.3"
+}

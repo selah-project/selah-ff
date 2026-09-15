@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ummito, sabu konngol ⟨ngol⟩ dow maa woni, minen minen e maa; waɗtu semmbe, waɗ ɗum.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ummito"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ⟨ngol⟩"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "waɗtu semmbe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "waɗ ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:44:45.947746534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon e ⟨את⟩ duɗe mun, ⟨את⟩ Ya'azer e ⟨את⟩ duɗe mun — nguruuji nay fuu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duɗe mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duɗe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'azer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'azer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duɗe mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duɗe mun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nguruuji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:50.274259494Z",
+  "model": "glm-5.3"
+}

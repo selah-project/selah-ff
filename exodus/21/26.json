@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kadi si gorko fiyi ⟨את⟩ gital maccuɗo mun walla ⟨את⟩ gital maccinaaje mun, o halki ɗum, ko dimo o yaltina mo boddere gital mun.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "kadi si"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gital maccuɗo mun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gital"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maccuɗo mun"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gital maccinaaje mun"
+    },
+    {
+      "surface": "עין",
+      "gloss": "gital"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "maccinaaje mun"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "o halki ɗum"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "ko dimo"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "o yaltina mo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boddere"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "gital mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:21.310246982Z",
+  "model": "glm-5.3"
+}

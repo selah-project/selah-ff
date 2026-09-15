@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mi jotinii ma laamɗo e nder yunnere Am, mi ƴettii mo e nder kulhulle Am.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Mi jotinii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "e nder yunnere Am"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mi ƴettii"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "e nder kulhulle Am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:12.428561651Z",
+  "model": "glm-5.3"
+}

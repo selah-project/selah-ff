@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Yaawe reeni bewɓe meeɗuɓe; mi feeñii, o hisnii mi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "reeni"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "bewɓe meeɗuɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "mi feeñii"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "kadi mi"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "o hisnii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:45:13.339354266Z",
+  "model": "glm-5.3"
+}

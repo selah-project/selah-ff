@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Heɓu ñeeŋaare, heɓu faamru; wata wanwit, wata devu e piye daande am.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "heɓu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ñeeŋaare"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "heɓu"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "faamru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wanwit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e wata"
+    },
+    {
+      "surface": "תט",
+      "gloss": "devu"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "e piye"
+    },
+    {
+      "surface": "פי",
+      "gloss": "daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:53:13.131659978Z",
+  "model": "glm-5.3"
+}

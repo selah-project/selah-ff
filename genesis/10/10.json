@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Fuɗɗoode laamu mun wonnoo ⟨ko⟩ Baabel, Erek, Akad e Kalne, e nder leydi Shinaar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "o wonnoo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "fuɗɗoode"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "laamu mun"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "e Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "e Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "e Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinaar"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:37.853598182Z",
+  "model": "glm-5.3"
+}

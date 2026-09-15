@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 106,
+  "translation": "Leydi ndi udditii, ndi ñaami Datanan; kadi ndi suuɗii dow renndo Abiiram ngoo.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "udditii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Leydi ndi"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "kadi ndi ñaami"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datanan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "kadi ndi suuɗii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abiiram"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:09.829866747Z",
+  "model": "glm-5.3"
+}

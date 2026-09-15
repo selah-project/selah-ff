@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kadi Daawuuda accaani ⟨את⟩ kaaba nden to makko, to wuro Daawuuda, kono o waylitiri ɗum to suudu Oobed-Edom Gitiyanke on.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kadi ... accaani"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "accaani"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaaba nden"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "kaaba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "o waylitiri ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oobed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitiyanke on"
+    }
+  ],
+  "timestamp": "2026-09-14T10:58:09.192855339Z",
+  "model": "glm-5.3"
+}

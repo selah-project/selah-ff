@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Eloohim haali e laaɓal mun; mi weltoto, mi feccoto Shekem, e ɓoggol Sukkot mi ɓetoto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "e laaɓal mun"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "mi weltoto"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "mi feccoto"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "e ɓoggol"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "mi ɓetoto"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:09.822619743Z",
+  "model": "glm-5.3"
+}

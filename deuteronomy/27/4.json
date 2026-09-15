@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kadi tuma yawtaade ⟨את⟩ mon ⟨את⟩ Yarden, ɗonndarnu ⟨את⟩ dame ɗee ɗe mi wi'ata ⟨את⟩ on hannde, e tulde Ebal, ɗaawan ɗe e beysaadirel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kadi ... wonata"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "tuma yawtaade mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "ɗonndarnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dame ɗee"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "dame"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "wi'ata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ɗaawan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɗe"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "e beysaadirel"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:54.079318556Z",
+  "model": "glm-5.3"
+}

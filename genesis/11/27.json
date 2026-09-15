@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ɗee ko toledot Terah: Terah jibini ⟨את⟩ Avram, ⟨את⟩ Nahor e ⟨את⟩ Haran; Haran kadi jibini ⟨את⟩ Loot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ko toledot"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "Haran kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Loot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loot"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:43.353328879Z",
+  "model": "glm-5.3"
+}

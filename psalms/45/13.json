@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "E ɓiɗɗo debbo Tsor, e dokkal, alɗuɓe leñol ngol njangorii yeeso maa.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "e ɓiɗɗo debbo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "e dokkal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "njangorii"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "alɗuɓe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "leñol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:28.189736378Z",
+  "model": "glm-5.3"
+}

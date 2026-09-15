@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Momtu keddinngal e ɓernde maa, ittu bone e ɓerel maa; wonde sukaaɓe e ɓural ko hevel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "momtu"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "keddinngal"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "e ɓernde maa"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ittu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "e ɓerel maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-14T10:29:37.203090203Z",
+  "model": "glm-5.3"
+}

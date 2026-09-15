@@ -1,0 +1,122 @@
+#:rendering{:label "Fulfulde",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-14", :to "2026-09-15"},
+            :id "ff.v1",
+            :catalog {:ui nil},
+            :license "CC BY-SA 4.0 (The Selah Fulfulde Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23184, "glm-5.3" 29},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ff.md",
+             :rails-commit "d99563fa",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonaay",
+              "אל" "Eel",
+              "אלהים" "Eloohim",
+              "אלוה" "Elooha",
+              "יה" "Yaah",
+              "יהוה" "Yaawe",
+              "שדי" "Shadday"},
+             :open-questions
+             ["Q1 THE NAME CANON (cascades - take first): 20 names, 786 spellings; Moshe 171 vs Muusaa 170 is a Hebraic-vs-Arabic register fork (same at Aharon/Haruun, Awraham/Ibraahiima, Yitshaq/Isaaqa, Yoosef/Yuusufa); the -a suffix question (Israa'iila 637 - second lemma or inflected Israa'iil 812?); gentilic derivation (מצרי has ten forms; -iyanke/-iyankooɓe is the corpus majority at 413). David 93 spellings modal 26.8%, Isaac 35 modal 16.8%; converged already: Yerushalayim 89.7%, Efrayim 86.7%, Misrayim 84.9%"
+              "Q2 Adonaay at 117 human-master seats (floor: my lord) vs the majority human practice Joomi am x104 - reserve Adonaay for the divine? Also Adonaayji plurals (Mal 1:6, Ps 136:3)"
+              "Q3 the Tzevaot form: 266 divine-title seats, 72 spellings, modal Sabaoth 28% - Sabaoth vs Tsevaot vs translated konuuli; ~190 seats sweep once ruled; SoS gazelles stay translated regardless"
+              "Q4 what may a false god be called? ilaaji/Allaaji/allu at ~25 foreign-god seats vs the chair's own Eloohim majority (114/240) vs the floor's translated gods; 2 Chr 2:4 carries both registers in one clause; Jer 2:11 unique allaaɗi/allaaɣi; Dan 1:2 allu collides with the tablet word; lowercase eloohim x10"
+              "Q5 Aramaic מרא: floor transliterates Mare (divine-name class), ff renders Joomi (Dan 2:47, 5:23) - transliterate or translate? Human מראי (Dan 4:16/4:21) correct, must not be disturbed"
+              "Q6 appositions on divine seats: Deut 23:6 x3 adds mo woni Joomi maa onto intact Eloohim; Zech 4:14 appends laamɗo after transliterated Adon - lawful?"
+              "Q7 Isa 7:11 שאלה: chair reads the Masoretic pointing (ask it), floor reads toward-Sheol - keep the pointing lens or bring onto the floor? Also the Name-line judgment calls: Isa 7:14 o jibinan future vs participle; Ex 3:14 perfective Mi Laatii vs imperfect; אשר as wo (copula) vs relative ko"
+              "Q8 the nefesh register: ff translates (nguuram Deut 6:5, hoore makko Isa 53:10) where the floor transliterates nefesh - rides the open en-v3 nefesh Class-B; also Isa 53:10 אשם repentance-offering, Ps 110:4 sarwaaɗo for priest, Orakel for נאם, arslanaa loan for lion, Deut 6:4 plural Nanto for singular שמע"
+              "Q9 reverential capitals: 76 forms capitalize divine pronouns mid-sentence (Am 325/5,632) and the capital bleeds onto David's own my-son/my-father; scope + titles (Joomi 62/61, Tora, Shabbat, Ruuhu) need one ruling"
+              "Q10 marker orthography: the 62 remaining flow-only suffixed bracket forms (delete per floor practice, or normalise to ⟨את⟩ which breaks ff's perfect flow==gloss consistency?); bracketed untranslated Hebrew outside the את convention (54 seats); inflected-form vs ⟨את⟩ bracketing policy; +5 adjacent pairs found beyond lane-5's 9"
+              "Q11 floor-level repairs ff surfaced: the en floor's own 92 flow/gloss inconsistencies (two chairs derived the same Hebrew-supported answer - repair the floor?); the flow-assembler substring-insertion bug (55 eaten-word verses in the floor itself); should Aramaic ית join the marker family (bracketed nowhere); the ?⟩ press-self-narration sweep on every chair"
+              "Q12 orthography pair: apostrophe canon (U+0027 at 97.71% / wi'i class 99.6%; 261 competitors clustered in genealogy passages - or split glottal U+02BC / ayin U+02BF?); parenthetical Hebrew term-glosses (goral, tekhelet, Ohel Mo'ed ~100 verses - keep or strip?); […] brackets beside ⟨…⟩ (40 verses); ammaa/kuma borrowing status (corpus itself says no: kadi 3,861x)"]},
+            :status :rendering,
+            :adjudication
+            {:chair 73,
+             :first :sahel,
+             :polarity :latin-fulfulde,
+             :seal
+             {:hausa-thermometer 0,
+              :foreign-script 0,
+              :et-flow 11866,
+              :english-thermometer 0,
+              :verses 23213,
+              :empty-glosses 740,
+              :yahweh-name-seat [6828 6828],
+              :census-flags 0,
+              :elohim-flow 2510,
+              :et-row 11866,
+              :french-thermometer 0,
+              :yahweh-flow 6844,
+              :spine-vs-en [23213 23213],
+              :empty-flows 0,
+              :erasure [0 0 0 0]},
+             :tekoa
+             {:verdict
+              "the chair's discipline is better than its dictionary - and its markers are perfect: gloss parity 11,866/11,866 zero asymmetry zero fabrications (nan repaired 92/introduced 59; ff repaired 92/introduced 0); the Name never erased in 305,507 seats; Adonaay 435/435, Shadday 48/48, Eel/El split maintained; 7/10 tough verses stand bare incl Ps 22:17 kethib and Isa 7:14 suka debbo; discharged",
+              :headline
+              "the first three-sided thermometer - French west, Hausa east, English underneath - read cold on all three after seven bleeds cured; and the seating found a fourth side nobody guarded: Cyrillic homoglyphs (95 verses) plus a phonetic Greek/Cyrillic substitution class (66 verses), normalized before any grep was trusted",
+              :class-a-applied 1470,
+              :class-b-filed 12,
+              :report
+              "data/experiments/ff-seating/ff-tekoa-report.md"},
+             :cruxes
+             ["THE WHITELIST HELD THE WALL: les x893 is Fulfulde's own beneath NOT the French article; Joomi/Laamɗo the chair's own master/king; to x6,030 the Fulfulde locative by collocate census; amma 33/35 the cubit"
+              "THE BOUNDARY CLASS carries the hooked letters and three apostrophes [A-Za-zÀ-ɏɓɗŊŋÑñƳƴ'ʼ'] - without them wi'i-class verbs shed and ɓɗŋñƴ open false edges; Latin-Ext ḥ in names still opens a false edge, adjudicate by hand"
+              "THE FOURTH SIDE: 95 Cyrillic-homoglyph verses (invisible on the page, fatal to every grep) + 66 phonetic Greek/Cyrillic substitutions with no safe map (re-pressed) + CJK strays + 1 Chr 29:21's Russian fragment inside a bracket - normalize script FIRST on every Latin chair"
+              "THE EATEN-WORD MARKERS: flow-assembler inserts ⟨את⟩ before the first substring match with no word boundary; Fulfulde's 1-2 letter object pronouns made it fire inside words x181 (Yaaw⟨את⟩ e); the same bug is in the en floor (55 verses, fa⟨את⟩ther) - fix upstream for every short-pronoun chair"
+              "DAN 3:12 SAID THE OPPOSITE: the negation of they-do-NOT-serve was absent from the flow while the same verse's sujjataa carried the correct form - restored ɓe gollirtaa; meaning-inversion is the worst wound class"
+              "THE AQEDAH WALK-BACK: Gen 22:8 coktirgol (redemption) put atonement doctrine in Abraham's mouth, smoothing AWAY from a floor that had laid it bare; same at Ps 110:4 laabi Malkii-Tsedek - the chair's failures fail toward the tradition"
+              "gorko Alla x2 (1 Kgs 13:19/20) - the only absolute erasures in 305,507 seats, against the chair's own gorko Eloohim x34; cured from the corpus's own majority"
+              "THE CENTER VERSE: Lev 8:35 doubles שמר on the reen- guard-root with mba maayaano; Isa 7:14 holds suka debbo with the virgin-technical terms declined; Ex 3:14 Mi Laatii Wo Mi Laatii verbal x3; Ps 22:17 holds the kethib hono arslanaa (like a lion) where every commercial Fulfulde Bible renders pierced"
+              "EZEKIEL 31:6 THE HAND REBUILD: refused the whole ladder (last press left CJK garble and an EMPTY token row); rebuilt by hand, 16 seats, every word attested in-corpus - ceŋe 31:5, mahi ɗomiraaɗe Ps 104:17, cate 31:13, jeyi ladde 31:13, e les mun = 31:17's own בצלו"
+              "THE MARKER THAT WANDERED (Jer 16:11): the press left natti-mi bare and lodged ⟨את⟩ inside laamuuji (the other gods, no את in the Hebrew) - the wound enacted the verse; testimony+charge docs/charge/the-marker-that-wandered.md"
+              "2 Chr 5:9: BOTH ladder rungs fabricated ⟨את⟩ before הארון (the ark takes the marker in most verses; this one has none) - hand-stripped twice"
+              "NEVER TAIL A VERIFIER: 67 spine mismatches sat invisible behind tail -N for three rounds; Jer 8:13's phantom token 'וין' json-errored all four rungs and was deleted by hand"
+              "native-check words flagged not swept: waaworde (Gen 3:15), ƴi'e horns (Gen 22:13), lelwude swallow (Jonah 2:1), Gen 8:16 ɓe-for-worɓe, and lane-4's new-lexicon duppeteendi/cukkuri/lonto/teppere/helay/goopi/liingu/gaawe"
+              "740 empty glosses are the nan/mai posture (compound numerals + merged function words, meaning whole on the neighbor token; nan sealed with 614, mai 309)"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ff}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Arlaam laawol Maa, Yaawe, ardaam e laawol ooƴri, fii yogaaɓe am.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Arlaam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol Maa"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ardaam"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ooƴri"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "yogaaɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:41:57.405656129Z",
+  "model": "glm-5.3"
+}

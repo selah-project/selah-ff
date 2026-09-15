@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yonatan ɓeydiima huuɓɓinde ⟨את⟩ Daawuwa e nduygol mun ⟨את⟩ mo, sabo e nduygol neefu mun o moññi mo.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ɓeydiima"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "huuɓɓinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuwa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "e nduygol mun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Daawuwa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "nduygol"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "neefu mun"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "o moññi mo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:53.952258362Z",
+  "model": "glm-5.3"
+}

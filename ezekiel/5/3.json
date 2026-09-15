@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "E jogit ton seeɗa, e nder limgol; e ñawno ⟨את⟩ ɗe e diidu maa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "e jogit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "e nder limgol"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "e ñawno"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗe (coppu seeɗa)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "e diidu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:36:26.490064064Z",
+  "model": "glm-5.3"
+}

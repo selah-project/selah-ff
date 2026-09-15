@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yaawe neldi e makko ⟨את⟩ konuuli Kasdim e ⟨את⟩ konuuli Aram e ⟨את⟩ konuuli Moab e ⟨את⟩ konuuli ɓiɓɓe Ammon; o neldi ɓe e Yahuuda ngam halkirde mum, hono konngol Yaawe ngol o haali e junngo maccuɓe makko annabaaɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konuuli Kasdim"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "konuuli Aram"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "konuuli Moab"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "konuuli ɓiɓɓe Ammon"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "konuuli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "o neldi ɓe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "ngam halkirde mum"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "hono konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe makko"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:23.917659678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Hiram yalti Tsor ngam yillaade ⟨את⟩ gure ɗen Shelomoo yoofi mo; ɗe laaɓaano e gite makko.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yillaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gure ɗen"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "gure ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yoofi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "laaɓaano"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "laaɓaano"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:04.876582012Z",
+  "model": "glm-5.3"
+}

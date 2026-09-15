@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Nde yimɓe ɗen kawri, e laamuuji ɗin, fii gollude ⟨את⟩ Yaawe;",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "nde ... kawri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "renndu"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "e laamuuji ɗin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "fii gollude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:37.525270884Z",
+  "model": "glm-5.3"
+}

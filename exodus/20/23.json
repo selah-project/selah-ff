@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Wata on waɗu e am ⟨את⟩ eloohim kaalis, wanaa eloohim njamndi; wata on waɗu ɗi fii mon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "on waɗu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "e am ⟨את⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "eloohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "wanaa eloohim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njamndi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "on waɗu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:13.047059421Z",
+  "model": "glm-5.3"
+}

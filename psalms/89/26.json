@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Kadi mi safoto juuɗe makko e maayo, e juumungo makko e maayooje.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Kadi mi safoto"
+    },
+    {
+      "surface": "בים",
+      "gloss": "e maayo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "juuɗe makko"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "e juumungo makko e"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "maayooje"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:03.741397986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Fii gardinooɗo on. Mizmor Dawuud. Eloohim yettoore am, wata a muumɗo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii gardinooɗo on"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawuud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "yettoore am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "a muumɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:33.708893796Z",
+  "model": "glm-5.3"
+}

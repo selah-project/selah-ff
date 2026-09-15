@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yimɓe ɗen yahiɓe e nder niɓɓere nden, ɓe yi'i annoore mawnde; hoɗɓe e leydi ɗooɓre-mayde, annoore muuniiɗum dow maɓɓe.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Yimɓe ɗen"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yahiɓe"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "e nder niɓɓere nden"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoore"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ɗooɓre-mayde"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoore"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "muuniiɗum"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:42:57.738403664Z",
+  "model": "glm-5.3"
+}

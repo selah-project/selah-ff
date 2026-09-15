@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Jaakob wi'i: Eloohim baaba am Awbraahim, e Eloohim baaba am Jitshaak, Yaawe wi'ɗo am: Artir e leydi maa, e jibinannde maa, mi moƴƴintira maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awbraahim"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "e Eloohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "wi'ɗo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "artir"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "leydi maa"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "e jibinannde maa"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "mi moƴƴintira"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:22.282555851Z",
+  "model": "glm-5.3"
+}

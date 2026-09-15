@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "Gite maa njiyi ɓalli am ɗi ɓe ngonaa ɗoftaade; e deftere maa ɗen fuu winndaama, ñalɗi ɗi mbeltaaɗen - wanaa gooto e maɓɓe tawa o woodaani.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ɓalli am ɗi ɓe ngonaa ɗoftaade"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "njiyi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "gite maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "deftere maa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ɗen fuu"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "winndaama"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "mbeltaaɗen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:55.381220429Z",
+  "model": "glm-5.3"
+}

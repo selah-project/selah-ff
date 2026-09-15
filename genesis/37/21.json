@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Re'uuben naɗinii ɗum, o hisni mo e juuɗe maɓɓe, o wi'i: «Wata min mbaro ⟨mo⟩ ngulla.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "naɗinii"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uuben"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "o hisni mo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "e juuɗe maɓɓe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "min mbaro"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ngulla"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:00.228290073Z",
+  "model": "glm-5.3"
+}

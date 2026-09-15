@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E ⟨את⟩ on, ena wooda neɗɗo e kala leñol, neɗɗo wonduro hoore gallu baabiraaɓe mun ko kanko.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "e ⟨את⟩ on"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ena wooda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "gallu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:19.730606662Z",
+  "model": "glm-5.3"
+}

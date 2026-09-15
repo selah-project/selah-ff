@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Koohon on ndaarata ⟨את⟩ ɓanndu wuurndu ndun, o ñaw-ñawina mo; ɓanndu wuurndu ndun ena ñaw-ñaw; ko sara'at woni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ndaarata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Koohon on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓanndu wuurndu ndun"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wuurndu ndun"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "o ñaw-ñawina mo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "החי",
+      "gloss": "wuurndu ndun"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ena ñaw-ñaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "sara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ... woni"
+    }
+  ],
+  "timestamp": "2026-09-14T05:22:11.106624946Z",
+  "model": "glm-5.3"
+}

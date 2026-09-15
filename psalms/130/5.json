@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Mi sabbi Yaawe, neffe am sabbii, e konngol makko mi suddii.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Mi sabbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "sabbii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neffe am"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "e konngol makko"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "mi suddii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:20.965037371Z",
+  "model": "glm-5.3"
+}

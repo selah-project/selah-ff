@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "O aray, o ɓooynay ⟨את⟩ leydi Misrayim: ɗi ñaawaande maayde, maayde; ɗi ñaawaande jeyaaɓe, jeyaaɓe; ɗi ñaawaande kaafaahu, kaafaahu.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "o aray"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "o ɓooynay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Misrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ñaawaande maayde"
+    },
+    {
+      "surface": "למות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɗi"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ñaawaande jeyaaɓe"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "jeyaaɓe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɗi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ñaawaande kaafaahu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kaafaahu"
+    }
+  ],
+  "timestamp": "2026-09-15T05:46:59.789912486Z",
+  "model": "glm-5.3"
+}

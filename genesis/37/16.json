@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "O wi'i: ⟨את⟩ miñiɓe am ɗen ko mi njiɗ-ɗaa; haalan-mi ɓooya ɗo ɓe ngadboo ɗen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñiɓe am ɗen"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "miñiɓe am ɗen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "njiɗ-ɗaa"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɓooya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ngadboo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:20.850088617Z",
+  "model": "glm-5.3"
+}

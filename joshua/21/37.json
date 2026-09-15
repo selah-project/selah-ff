@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemot e ⟨את⟩ duɗe mun, e ⟨את⟩ Meypa'at e ⟨את⟩ duɗe mun — nguruuji nay.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duɗe mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duɗe mun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Meypa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meypa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duɗe mun"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "duɗe mun"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "nguruuji"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:50.273878678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "“Mooɓee ɓamtaare am, ɗi taƴi wondiral am dow ɓalndu.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Mooɓee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ɓamtaare am (fii am)"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "gooŋɗinɓe am"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ɗi taƴi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "wondiral am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dow"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ɓalndu (zebbah)"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:29.087922990Z",
+  "model": "glm-5.3"
+}

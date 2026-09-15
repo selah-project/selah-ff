@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yaawe haali e Muusaa, wi'ande:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'aande"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:25.561981709Z",
+  "model": "glm-5.3"
+}

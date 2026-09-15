@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 74,
+  "translation": "Gaɗoɓe maa ɗii ɗiiri no duuniiri e nder kawral maa; ɓe tensinii maande maɓɓe no maande nii.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ɗiiri"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "gaɗoɓe maa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "kawral maa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ɓe tensinii"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "maande maɓɓe"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "no maande nii"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:44.020178318Z",
+  "model": "glm-5.3"
+}

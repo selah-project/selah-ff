@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Leƴƴi ɗin yeday A, Eloohim; leƴƴi ɗin fuu ɓe yeday A.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "leƴƴi ɗin yeday A"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ɓe yeday A"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "leƴɗi ɗin fuu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "fuu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:10.617167743Z",
+  "model": "glm-5.3"
+}

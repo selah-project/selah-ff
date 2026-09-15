@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Jooɗorde nden tammitinaa e hesed, ñaawoowo naamnoowo ñaawoore e jaajotooɗo ñaawɗum oo jooɗii e mayre e goonga, e nder lewru Daawuuda.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "tammitinaa"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "e hesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jooɗorde nden"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e nder lewru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "naamnoowo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "jaajotooɗo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:46:54.125085849Z",
+  "model": "glm-5.3"
+}

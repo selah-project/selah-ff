@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laatii, samnde aada Adonaay leydi ndin fof wonata yeeso mon, ko nde yaaja e Yarden.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Laatii"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "samnde"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "aada"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yaaja"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yeeso mon"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "e Yarden"
+    }
+  ],
+  "timestamp": "2026-09-14T06:10:36.740388361Z",
+  "model": "glm-5.3"
+}

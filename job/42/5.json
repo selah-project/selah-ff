@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "E nanngude ñaamoode mi nanii ma, kono hannde gitorde am yi'ii ma.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "e nanngude"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ñaamoode"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "mi nanii ma"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kono hannde"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gitorde am"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "yi'ii ma"
+    }
+  ],
+  "timestamp": "2026-09-14T10:21:20.747920502Z",
+  "model": "glm-5.3"
+}

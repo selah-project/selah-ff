@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Sabu konngol Yaawe ko ngo araŋke; kala golle mun ko e goongɗinal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ko ngo araŋke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "golle mun"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ko e goongɗinal"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:59.686291934Z",
+  "model": "glm-5.3"
+}

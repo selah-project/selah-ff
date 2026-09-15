@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Fii ⟨את⟩ leydi ndin fuu ɗo a yi'ata, to maa min moyndata ⟨ɗum⟩, e to zinndaa maa, haa duumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'ata"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "min moyndata"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "e to zinndaa maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:17.972513734Z",
+  "model": "glm-5.3"
+}

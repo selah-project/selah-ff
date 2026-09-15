@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Mi waɗa ⟨את⟩ wuro ngoo ngenndiindi e hersa; kala bonɗo faamorii ɗum yeeyta e hersa sabu musibbaaji mum fuu.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "mi waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro ngoo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ngenndiindi"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "e hersa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bonɗo faamorii"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "yeeyta"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "e hersa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "musibbaaji mum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:51.554910676Z",
+  "model": "glm-5.3"
+}

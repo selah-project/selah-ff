@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Mbara ce'e mun ɗen dow ñaayi nay pawe mum ɗen; ka mun ɗen ka ce'e mun ɗen ka ari; woppu ⟨את⟩ ɗum njamndi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mbara"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ce'e mun ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nay"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "pawe mum ɗen"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mun ɗen"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ka ... ari"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ce'e mun ɗen"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "woppu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:35:38.675940546Z",
+  "model": "glm-5.3"
+}

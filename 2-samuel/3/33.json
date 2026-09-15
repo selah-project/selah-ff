@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Laamɗo on winndi sunaare fii Awner, o wi'i: “E no fewju fewjirta nii, Awner fewjata?”",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "winndi sunaare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "no … fewjirta nii"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fewju"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "fewjata"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:59.535331874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Kadi gorko jaaɓɗo am, mo mi hoolnori e makko, mo nguuri e nguuram am, mawnini takkoore mum e am.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "jaaɓɗo am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "mi hoolnori"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mo nguuri"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "e nguuram am"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "mawnini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "takkoore mum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:26.759538387Z",
+  "model": "glm-5.3"
+}

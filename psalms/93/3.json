@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 93,
+  "translation": "Iloowo ɗen ɗaɓɓitii, Yaawe; iloowo ɗen ɗaɓɓitii daande mun; iloowo ɗen ɗaɓɓitii ɓulli ɗin.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ɗaɓɓitii"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "iloowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ɗaɓɓitii"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "iloowo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "daande mun"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ɗaɓɓitii"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "iloowo"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ɓulli ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:21.281967159Z",
+  "model": "glm-5.3"
+}

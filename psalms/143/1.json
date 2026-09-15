@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Mizmor ⟨fii⟩ Daawuda. Yaawe, nanu duwaawu am, hebbinino ñoore maa fii muñal am; e goonguwaaka maa jaabam, e laaɓal ñaawoore maa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨fii⟩ Daawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duwaawu am"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hebbinino ñoore maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "muñal am"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "e goonguwaaka maa"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaabam"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "e laaɓal ñaawoore maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:47:38.625966624Z",
+  "model": "glm-5.3"
+}

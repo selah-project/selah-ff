@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Sabu ɗuum mi ñaawii kuule maaɗa fuu ngoonga; laawol fenaande fuu mi bonɗi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "kuule maaɗa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "mi ñaawii ngoonga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi bonɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:40.585456184Z",
+  "model": "glm-5.3"
+}

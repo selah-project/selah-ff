@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndeen waɗi, tawa mi, kam mi Daniyel, yi'ii ⟨את⟩ njiyaandi ndin, mi ɗaɓɓiti faamugol; ɗoo tawa gooto ina darii am yeeso no yeru gorko nii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndeen waɗi"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "tawa mi yi'ii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kam mi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njiyaandi ndin"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "njiyaandi ndin"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "mi ɗaɓɓiti"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "faamugol"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ɗoo tawa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ina darii"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "am yeeso"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "no yeru"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gorko nii"
+    }
+  ],
+  "timestamp": "2026-09-14T10:38:04.700470445Z",
+  "model": "glm-5.3"
+}

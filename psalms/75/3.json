@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 75,
+  "translation": "So mi heɓi wakkati laɓɓuɗo, kanko mi, mi ñaawa feewde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "mi heɓi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wakkati laɓɓuɗo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "feewde"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mi ñaawa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:38.103643344Z",
+  "model": "glm-5.3"
+}

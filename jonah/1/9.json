@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wi'i ɓe: Eberiyanke mi; Yaawe, Eloohim kammuuli ɗin, mi hulirta ⟨את⟩ — mo tagi ⟨את⟩ maayo ngoo e ⟨את⟩ leydi heende ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Eberiyanke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hulirta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maayo ngoo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leydi heende ndin"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "leydi heende ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:34:22.784139174Z",
+  "model": "glm-5.3"
+}

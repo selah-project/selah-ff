@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 96,
+  "translation": "Yeeso Yaawe, sabu o arii, sabu o arii ngam ñaawde leydi ndin; o ñaawata dingiral ngal e ñaawoore laaɓnde, e yimɓe ɓen e goongɗingol makko.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o arii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o arii"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ngam ñaawde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o ñaawata"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dingiral ngal"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "e ñaawoore laaɓunde"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "e yimɓe ɓen"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "e goongɗingol makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:49.635578917Z",
+  "model": "glm-5.3"
+}

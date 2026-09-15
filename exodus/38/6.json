@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "O waɗi ⟨את⟩ kuutorgal nayihen ɗen e leɗɗe shittim, o feewni ⟨את⟩ ɗi njamndi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorgal nayihen ɗen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "kuutorgal nayihen ɗen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "o feewni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗi",
+      "marks": "ɗi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:13:20.157447299Z",
+  "model": "glm-5.3"
+}

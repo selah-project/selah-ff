@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "On ndaɗɗinii ⟨את⟩ naziraaɓe ɗen wuyne, on ɗaɓɓitii annabaaɓe ɓen wiyde: wata on nana annabi.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "on ndaɗɗinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naziraaɓe ɗen"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "naziraaɓe ɗen"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wuyne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɓen"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "on ɗaɓɓitii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "on nana annabi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:03.033148121Z",
+  "model": "glm-5.3"
+}

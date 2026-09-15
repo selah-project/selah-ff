@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Mi goongɗinii, ɗum waɗi mi haalii: mi heñaama no feewi.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "mi goongɗinii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ɗum waɗi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mi haalii"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "mi heñaama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.462386439Z",
+  "model": "glm-5.3"
+}

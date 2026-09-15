@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Sabu ɗum ɓe laya hono no duumi subaka nii, e no duuɗi subaka asii yaltu nii, hono no mbuuwa rorsee e layngu nii, e hono no uuɓol ummora e henorde nii.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗum"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ɓe laya"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "hono no duumi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "e no duuɗi"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "subaka asii"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yaltu"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "hono no mbuuwa"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "rorsee"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "e layngu"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "e hono no uuɓol"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "ummora e henorde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:00:14.948745851Z",
+  "model": "glm-5.3"
+}

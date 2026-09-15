@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Mizmoor Asaaf. Eloohim, leƴƴi ɗin naati e nges-ma, ɓe lanḍini ⟨את⟩ suudu sakiraaku-ma, ɓe waɗi ⟨את⟩ Yerushalayim heddude kaaƴe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "naati"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "e nges-ma"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ɓe lanḍini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu sakiraaku-ma"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sakiraaku-ma"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ɓe waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "heddude kaaƴe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:36.579804340Z",
+  "model": "glm-5.3"
+}

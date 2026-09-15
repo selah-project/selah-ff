@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe hebbini ɗum jeruuji nayi kaaƴe: jergol ngol — jiwo boɗejo, jiwo cowru, jiwo haayeejo — ko ngol woni jergol ngol aranngol.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ɓe hebbini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nayi"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "jeruuji"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "טור",
+      "gloss": "jergol"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "jiwo boɗejo"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "jiwo cowru"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "jiwo haayeejo"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "jergol ngol"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ngol aranngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:12.746072776Z",
+  "model": "glm-5.3"
+}

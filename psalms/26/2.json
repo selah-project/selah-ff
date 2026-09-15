@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ƴeewtu ⟨min⟩, Yaawe, ƴeewno ⟨min⟩; purifir kelliiji am e ɓernde am.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "ƴeewtu min"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ƴeewno min"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "purifir"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "kelliiji am"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "e ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:11.730649088Z",
+  "model": "glm-5.3"
+}

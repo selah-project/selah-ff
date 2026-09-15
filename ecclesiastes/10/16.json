@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yaa, mette maa, leydi, so laamɗo maaɗe ko suka, tedduɓe maaɗe ñaameta subaka!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Yaa, mette"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "so laamɗo maaɗe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "suka"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "tedduɓe maaɗe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ñaameta"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:49.983448208Z",
+  "model": "glm-5.3"
+}

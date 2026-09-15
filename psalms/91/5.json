@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "A colpataa kulol jemma, nanngol faŋa nawru ñalorde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "colpataa"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nanngol faŋa"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "nawru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalorde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:07.130128255Z",
+  "model": "glm-5.3"
+}

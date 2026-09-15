@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Israayel, subba Yaawe, sababu e Yaawe ⟨won⟩ hesed, e makko ko fedde heewnde.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "subba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(fii)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ko fedde heewnde"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "fedde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:20.965402997Z",
+  "model": "glm-5.3"
+}

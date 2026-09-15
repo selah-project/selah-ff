@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 64,
+  "translation": "Ɓe mburdiri mo yo o liɓu, junnge mun enni woɗɗa e maɓɓe; kala yi'owo ɓe waggit hoore.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "Ɓe mburdiri mo yo o liɓu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "enni woɗɗa e maɓɓe"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "junnge mun"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "waggit hoore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'owo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:27.465570346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E ⟨את⟩ Xolon e ⟨את⟩ pallaađe mayre, e ⟨את⟩ Debir e ⟨את⟩ pallaađe mayre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Xolon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Xolon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaađe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaađe mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pallaađe mayre"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pallaađe mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T06:20:10.331811845Z",
+  "model": "glm-5.3"
+}

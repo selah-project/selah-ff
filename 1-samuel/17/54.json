@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Dawuudi toodi ⟨את⟩ hoore Palistiina on, o addi ndi Yerushalayim, ⟨את⟩ kuutorɗe makko o waɗi nder cidda makko.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "toodi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawuudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore Palistiina on"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Palistiina on"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "o addi ndi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuutorɗe makko"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe makko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "nder cidda makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:55.696861606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Nde yani non, wonde tuma worɓe konu nguu fof njejjitii maayde ka cukaago yimɓe ɓee,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde yani non"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wonde tuma"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "njejjitii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "konu nguu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ka cukaago"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:09.484218675Z",
+  "model": "glm-5.3"
+}

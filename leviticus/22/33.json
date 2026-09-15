@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Yaltuɗo ⟨את⟩ on e leydi Misrayim, ngam wonde fii on Eloohim; miin ko mi Yaawe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Yaltuɗo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ngam wonde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii on"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:31.073908981Z",
+  "model": "glm-5.3"
+}

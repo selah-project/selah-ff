@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "Eloohim, laawol maa ngol ko ⟨e⟩ semteende; hommbo ko Eel mawɗo no Eloohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "e semteende"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "laawol maa ngol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "no Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.335509613Z",
+  "model": "glm-5.3"
+}

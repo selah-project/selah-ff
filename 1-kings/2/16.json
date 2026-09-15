@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "E hannde, ɗaɓɓitannde gooto tan mi ɗaɓɓi e ⟨את⟩ maa: wata a wartir ⟨את⟩ am ŋernde. O wi'i to mo: “Haaldet.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "e hannde"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ɗaɓɓitannde"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "gooto tan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mi ɗaɓɓi"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "e ⟨את⟩ maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "a wartir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "am ŋernde"
+    },
+    {
+      "surface": "פני",
+      "gloss": "am ŋernde"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to mo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaldet"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:37.154823854Z",
+  "model": "glm-5.3"
+}

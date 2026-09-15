@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Wata o yamru koyngal maa lorroyde; wata reenoowo maa nelotoo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yamru"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "lorroyde"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "koyngal maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "nelotoo"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "reenoowo maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:39.742299001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓiɓɓe Yisraayel gollitii ⟨את⟩ Eglon laamɗo Moab duuɓi sappo e jeetati.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "gollitii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraayel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "jeetati"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:25:25.179549976Z",
+  "model": "glm-5.3"
+}

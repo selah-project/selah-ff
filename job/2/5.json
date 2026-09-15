@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kono neltu junngo maa, a ndonkina ƴiye makko e ɓanndu makko — so wonaa e yeeso maa o du'oyataa maa.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Kono"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neltu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "a ndonkina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ƴiye makko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ɓanndu makko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "o du'oyataa maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:06:27.496342912Z",
+  "model": "glm-5.3"
+}

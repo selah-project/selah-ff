@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Debbo gooto oo wi'i: Tana, Adonaay am, min e ndee debbo men ngondi e suudu wootere, mi jibini ɓiɗɗo e makko e nder suudu ndun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ngondi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "jibini"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e nder suudu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:44.400761402Z",
+  "model": "glm-5.3"
+}

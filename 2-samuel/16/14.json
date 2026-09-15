@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Laamɗo on e yimɓe fuu ɓe ngonnoo e makko ⟨את⟩ ɓe ari ɓe duuɓi, o fooftorii hoore mun ɗoo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ɓe ari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e yimɓe fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe ngonnoo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨e makko⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ɓe duuɓi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "o fooftorii hoore mun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:38.525801444Z",
+  "model": "glm-5.3"
+}

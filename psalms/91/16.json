@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 91,
+  "translation": "Duɗal balɗe mballira mo—mi hebbinira mo duɗal balɗe, mi holliray mo ndimaagu am.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "duɗal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "mi hebbinira mo"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "mi holliray mo"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "e ndimaagu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:39:48.910345485Z",
+  "model": "glm-5.3"
+}

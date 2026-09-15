@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Mi ndokkoy on yurmeende, o yurmo ⟨את⟩ on, o artir ⟨את⟩ on e leydi mon ndin.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "mi ndokkoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "o yurmo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "o artir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "leydi mon ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T08:28:32.116528136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Ko nii Yaawe wi'i: reenu ñaawoore, e waɗu nuunɗal, sabu cellal Am ina ɓadii aroyde, e nuunɗal Am ina ɓadii feeñoyde.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "reenu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "e waɗu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "nuunɗal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ina ɓadii"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "cellal Am"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "aroyde"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "e nuunɗal Am"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "feeñoyde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:36.198501897Z",
+  "model": "glm-5.3"
+}

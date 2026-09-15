@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "O ummii, o yahi, Yonatanan kadi ari wuro ngoo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "o ummii"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:44.714362613Z",
+  "model": "glm-5.3"
+}

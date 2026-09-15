@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Moshe ƴetti hoore mun faya dow tulde nden, duwol ngol suddii ⟨את⟩ tulde nden.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ƴetti hoore mun faya dow"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faya dow"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "suddii"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "duwol ngol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulde nden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:34.166126049Z",
+  "model": "glm-5.3"
+}

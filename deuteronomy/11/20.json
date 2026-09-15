@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Ndeka winndira ɗi e ɗawƴe damal suudu maa e dame maa.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "a winndira"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ɗawƴe damal"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "suudu maa"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "e dame maa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:57:20.403007944Z",
+  "model": "glm-5.3"
+}

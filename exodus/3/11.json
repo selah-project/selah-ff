@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Musaa wi'i to Eloohim: Ko mi hommbo, wano mi yaha to Fir'awna, wano mi yaltin ⟨את⟩ ɓiɓɓe Yisraa'el e Misrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko mi homme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wano"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "e wano"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "mi yaltin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Yisraa'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:13.854215804Z",
+  "model": "glm-5.3"
+}

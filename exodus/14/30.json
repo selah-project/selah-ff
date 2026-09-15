@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yaawe daɗnuni ñalnde nden ⟨את⟩ Israa'iila e juuɗe Misrayim, Israa'iila yi'i ⟨את⟩ Misrayim — mawɗo heen fof — e daande maayo ndin",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "daɗnuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "daande"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:36.898687352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Watta ñaamre maa dow koyngal maa, Baawɗo; nder teddungal maa e nder bijaŋke maa.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "watta ñaamre"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ñaamre maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Baawɗo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "teddungal maa"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "e bijaŋke maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:02.318422256Z",
+  "model": "glm-5.3"
+}

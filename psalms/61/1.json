@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 61,
+  "translation": "Fii yoowoowo, e munndoojiiji — defre Daawuuda.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yoowoowo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "munndoojiiji"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "defre Daawuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:53.953237879Z",
+  "model": "glm-5.3"
+}

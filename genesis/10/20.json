@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɗee'en ɓiɓɓe Ham ngoni, e renndaaji maɓɓe, e ɗemɗe maɓɓe, e leydiiji maɓɓe, e leƴƴi maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee'en"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e renndaaji maɓɓe"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "e ɗemɗe maɓɓe"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "e leydiiji maɓɓe"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "e leƴƴi maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:34.935085094Z",
+  "model": "glm-5.3"
+}

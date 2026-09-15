@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnah e ⟨את⟩ hariiki maggal, ⟨את⟩ Nahalal e ⟨את⟩ hariiki maggal — cite nayi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnah"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hariiki maggal"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hariiki maggal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hariiki maggal"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hariiki maggal"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "cite"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nayi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:49.494558134Z",
+  "model": "glm-5.3"
+}

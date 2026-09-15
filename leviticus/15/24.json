@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Si gorko yanaa no feewi e makko ⟨את⟩, nidda makko wona e dow makko, o lanða balɗe jeeɗiɗe, kala leergol ngol o yanaa e dow mum ngal lanða.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yanaa no feewi"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yanaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "makko (debbo ngol)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "wona"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "nidda makko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow makko"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "o lanða"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balðe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "leergol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "o yanaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow mum"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ngal lanða"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:20.102406958Z",
+  "model": "glm-5.3"
+}

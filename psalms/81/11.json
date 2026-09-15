@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 81,
+  "translation": "Min ko mi Yaawe Eloohim maaɗa, balluɗo maa ummoraade leydi Misrayim; uddit haande maa no waawi, mi heewnanta ɗum.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "min ko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maaɗa"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "balluɗo maa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ummoraade leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "uddit no waawi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "haande maa"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "mi heewnanta ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:37.045269042Z",
+  "model": "glm-5.3"
+}

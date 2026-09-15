@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Ɗum ⟨wonii⟩ nachaare am e nder caɗeele am; sabu wowlere maa nartinanmi wuurde.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nachaare am"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "e nder caɗeele am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "wowlere maa"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "nartinanmi wuurde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.220533211Z",
+  "model": "glm-5.3"
+}

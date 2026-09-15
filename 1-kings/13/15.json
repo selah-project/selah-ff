@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "O wi'i mo: «Yah ⟨את⟩ e am to suudu, ñaam ñameendi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e mo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am",
+      "marks": "e am (e am) — jokkere e am"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "to suudu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ñaam"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameendi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:06.171570528Z",
+  "model": "glm-5.3"
+}

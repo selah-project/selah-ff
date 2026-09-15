@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kohen on yi'ay ɓaawo nde ⟨את⟩ ngaddungal ngal loytaama; e tawde ngaddungal ngal waylaaki ⟨את⟩ njaŋge mun, e ngaddungal ngal tarasaaki — ko ngal ɗaɓɓundo; e nder yiite ɓe coko ɗum; ko ɓuuɓri woni e wattinde mun walla e yeeso mun.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "yi'ay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen on"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "loytaama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngaddungal ngal"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ngaddungal ngal"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e tawde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "waylaaki"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ngaddungal ngal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njaŋge mun"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "njaŋge mun"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "e ngaddungal ngal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "tarasaaki"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ɗaɓɓundo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ngal"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e nder yiite"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "ɓe coko ɗum"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko nde"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "e wattinde mun"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "e yeeso mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:24:21.666749777Z",
+  "model": "glm-5.3"
+}

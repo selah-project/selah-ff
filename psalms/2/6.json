@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Kono min, mi sakkii laamɗo am dow Tsiyon, duusu sellaande am.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kono min"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "mi sakkii"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo am"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "duusu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sellaande am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:40.697662988Z",
+  "model": "glm-5.3"
+}

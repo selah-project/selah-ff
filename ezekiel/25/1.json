@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Nde konngol Yaawe arii e am, ngam wiyde:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde ... arii"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngam wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:45:12.194698313Z",
+  "model": "glm-5.3"
+}

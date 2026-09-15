@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Tuma yi'otoo-mi kammuuli maa, golle ñaaje maa, lewru e paandaali ɗe a foondiri —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "tuma"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "yi'otoo-mi"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "kammuuli maa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "golle"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ñaaje maa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "e paandaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "a foondiri"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:16.881674722Z",
+  "model": "glm-5.3"
+}

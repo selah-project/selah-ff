@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 108,
+  "translation": "Mowab ko ɓuuɓri lavol am; e dow Edom mi ɓullay podre am; e dow Pilisti mi udditoy colo.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Mowab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "lavol am"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mi ɓullay"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "podre am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pilisti"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "mi udditoy colo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:49.102995409Z",
+  "model": "glm-5.3"
+}

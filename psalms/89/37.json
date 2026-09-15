@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Mudda makko wadata haa duumi, e jooɗorde makko no naange nii ⟨e⟩ yeeso Am.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "mudda makko"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa duumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wadata"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "e jooɗorde makko"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "no naange nii"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "yeeso Am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:34.627970291Z",
+  "model": "glm-5.3"
+}

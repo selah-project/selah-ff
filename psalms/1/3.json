@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O laatoto no lekki niisnaandi e daande ɓulli ndiyam, ɓiɓɓe mun ñoƴƴata e saatu mun, uppere mun walaa yooro, kala ko o gollata ɗum yaltina moƴƴere.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "o laatoto"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "no lekki"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "niisnaandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ɓulli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ñoƴƴata"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "e saatu mun"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "uppere mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "yooro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "o gollata"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "yaltina moƴƴere"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:33.057018239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "A laamlinii mo e golle juuɗe maa ɗen; fof a lenii les koyɗe mun.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "a laamlinii mo"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "juuɗe maa ɗen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "a lenii"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "koyɗe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:57.402411179Z",
+  "model": "glm-5.3"
+}

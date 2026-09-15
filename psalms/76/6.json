@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "Ñaññaama ɓe ɓernde ɓurnde mawnude; ɗaanii ɗaande maɓɓe; e worɓe doole fuu ɓe ƴeewtaali juuɗe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ñaññaama"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ɓurɓe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde ɓurnde mawnude"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "ɗaanii"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ɗaande maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ... ɓe wanaa"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ƴeewtaali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "juuɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:08.839340469Z",
+  "model": "glm-5.3"
+}

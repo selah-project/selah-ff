@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Noaaci waɗi no kala ɗum Eloohim ⟨את⟩ yamiri Noaaci; ko noon kadi o waɗi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaaci"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no kala ɗum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Noaaci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko noon kadi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:33:31.916294541Z",
+  "model": "glm-5.3"
+}

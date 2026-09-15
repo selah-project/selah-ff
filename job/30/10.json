@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɓe mburmi mi, ɓe dawii e am, ɓe haɗiraani tuubde e yeeso am.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Ɓe mburmi mi"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ɓe dawii"
+    },
+    {
+      "surface": "מני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "e yeeso am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ɓe haɗiraani"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tuubde"
+    }
+  ],
+  "timestamp": "2026-09-14T10:15:46.528487886Z",
+  "model": "glm-5.3"
+}

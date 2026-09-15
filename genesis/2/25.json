@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓe ɗimmɗin ɗiɗo ɓee enoraaɗi, neɗɗo on e debbo makko on, ɓe potaali hare.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe ɗimmɗin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ɗiɗo ɓee"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "enoraaɗi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo makko on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe potaali"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "hare"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:13.784658292Z",
+  "model": "glm-5.3"
+}

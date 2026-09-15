@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Wi'u ɓe banne mon ɗen “Ammii”, e ɓe banne rewɓe mon ɗen “Rewumaah”.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ɓe banne mon ɗen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammii"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "e ɓe banne rewɓe mon ɗen"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rewumaah"
+    }
+  ],
+  "timestamp": "2026-09-14T12:33:44.995350121Z",
+  "model": "glm-5.3"
+}

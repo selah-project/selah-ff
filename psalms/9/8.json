@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Kono Yaawe jooɗii haa abada; o teeŋtinii joođorde mun fii ñaawoore.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "kono Yaawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "joođii"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "o teeŋtinii"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "fii ñaawoore"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "joođorde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:25.212936581Z",
+  "model": "glm-5.3"
+}

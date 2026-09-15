@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Si mi yojjanii wondiiɗo am bonannde, maa mi yani ƴaañoowo am ko laaɓtaani,—",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "mi yojjanii"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "wondiiɗo am"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "e mi yani"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ƴaañoowo am"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ko laaɓtaani"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:21.641746073Z",
+  "model": "glm-5.3"
+}

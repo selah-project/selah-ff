@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ko waɗi a yejjitii min duumo? Ko waɗi a acci min ngal duuɓi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "duumo"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "a yejjitii min"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "a acci min"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:25:54.955882824Z",
+  "model": "glm-5.3"
+}

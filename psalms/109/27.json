@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Ɓe annday wonnde ngol junngo maa ⟨ngol⟩; kanko a, Yaawe, maa waɗi nde.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ɓe annday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junngo maa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ngol⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanko a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "maa waɗi nde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:16.478024549Z",
+  "model": "glm-5.3"
+}

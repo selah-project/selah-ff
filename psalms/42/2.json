@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Hono ce'erewal ngee ɗon ɗaɓɓa ɓalli ɗi ndiyam, hono nafsi am ɗon ɗaɓɓa fii maa, Eloohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "hono ce'erewal ngee"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ɗon ɗaɓɓa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ɓalli ɗi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hono"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsi am"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ɗon ɗaɓɓa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:33.390578285Z",
+  "model": "glm-5.3"
+}

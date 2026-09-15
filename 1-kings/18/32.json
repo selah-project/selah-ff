@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "O mahi e ⟨את⟩ kaaƴe ɗen jejnirdu, e innde Yaawe; o waɗi keerol-ɓuuɓngal no waawi heɓde wuddu seaah ɗiɗi, taarirophe jejnirdu ndin.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "O mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaaƴe ɗen"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kaaƴe ɗen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "jejnirdu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "keerol-ɓuuɓngal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "no waawi heɓde"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "seaah ɗiɗi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wuddu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taarirophe"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "jejnirdu ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:06:10.538016062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 141,
+  "translation": "No non no baɗotooɗo taƴirta e ƴiiɓirta leydi ndin, ko non ƴiƴe amen ɓennitte to daande Seol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "no non"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "baɗotooɗo taƴoowo"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ƴiiɓoowo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi ndin"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "ɓennitte"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ƴiƴe amen"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "to daande"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:41.735504869Z",
+  "model": "glm-5.3"
+}

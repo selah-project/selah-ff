@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "To ɓe lijjirta ⟨את⟩ qorban olah on, to ɓe lijjirta ⟨את⟩ asham on; e ⟨את⟩ ƴiiƴam mun ɓe fewjanta e dow altaar on taawaade.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "To"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ɓe lijjirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorban olah on"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "qorban olah on"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ɓe lijjirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham on"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiiƴam mun"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ƴiiƴam mun"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ɓe fewjanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaar on"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "taawaade"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:34.777380284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ɓe mballa ⟨את⟩ berɗo goɗɗo subaka, kadi ɓe mballa ⟨את⟩ berɗo ɗiɗaɓo ñalnde kala hakkunde jamma e hannde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berɗo goɗɗo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "berɗo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "goɗɗo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ɓe mballa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "berɗo ɗiɗaɓo"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "berɗo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ɓe mballa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "jamma e hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:46.836848313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Muntende baaba maa on e muntende yumma maa on, a ɓoytortaa ɗum; ko noon yumma maa on ⟨woni⟩, a ɓoytortaa muntende makko.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "muntende"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa on"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "e muntende"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ɓoytortaa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa on"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko noon ⟨woni⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ɓoytortaa"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ɓoytortaa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "muntende makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:14.910217058Z",
+  "model": "glm-5.3"
+}

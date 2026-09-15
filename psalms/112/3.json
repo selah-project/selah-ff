@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 112,
+  "translation": "Njogu e ngalu ngoni e suudu makko; pelletta makko darii haa duumi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "njogu"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "e ngalu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "e suudu makko"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "e pelletta makko"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "darii"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "haa duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:11.833267059Z",
+  "model": "glm-5.3"
+}

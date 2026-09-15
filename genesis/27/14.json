@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "O yahi, o ƴabbi, o wari ⟨ɗum⟩ e yumma mun; yumma mun waɗi ñamri ɓurndi muunaade, hono baaba mun yiɗi ndi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴabbi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o wari"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "e yumma mun"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "yumma mun"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ñamri ɓurndi muunaade"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:20.096519567Z",
+  "model": "glm-5.3"
+}

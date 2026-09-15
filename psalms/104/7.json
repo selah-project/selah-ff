@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "E tuubaande maa ɗi dogi; e daande wirnitoore maa ɗiɗɗo yii'aali.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "E"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "tuubaande maa"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ɗi dogi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "E"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "wirnitoore maa"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ɗiɗɗo yii'aali"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:24.415338441Z",
+  "model": "glm-5.3"
+}

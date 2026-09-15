@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E nder balɗe nayaɓere ɗee, ƴettiɗan suddo ɓanndu mun.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "E nder balɗe"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nayaɓere ɗee"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ƴettiɗan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ɓanndu"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "suddo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:12.176084733Z",
+  "model": "glm-5.3"
+}

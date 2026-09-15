@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ɓe nanaali, kono alaa hisnuɗo; ɓe ummi Yaawe, kono o jaabaani ɓe.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "ɓe nanaali"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kono alaa"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "hisnuɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɓe ummi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono o jaabaani"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:20.412979981Z",
+  "model": "glm-5.3"
+}

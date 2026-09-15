@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Poɗe maaɗe ko layri e njamdi, e no ñalɗi maaɗde nii, sembe maaɗa nii.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "layri"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "e njamdi"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "poɗe maaɗe"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "e no ñalɗi maaɗde nii"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "sembe maaɗa nii"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:03.476434834Z",
+  "model": "glm-5.3"
+}

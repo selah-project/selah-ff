@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 40:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Muusa dariinii ⟨את⟩ hoɗorde nden, o waɗini ⟨את⟩ plooppitte mayre, o toyi ⟨את⟩ calɗi mayre, o waɗini ⟨את⟩ paalorɗe mayre, o dariinii ⟨את⟩ piliye mayre.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dariinii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoɗorde nden"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hoðorde nden"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plooppitte mayre"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "plooppitte mayre"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o toyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calɗi mayre"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "calɗi mayre"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paalorɗe mayre"
+    },
+    {
+      "surface": "בריחיו",
+      "gloss": "paalorɗe mayre"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "o dariinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piliye mayre"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "piliye mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:20.943454883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O naati e Shomeron, o fii ⟨את⟩ fuu ɓe heddiiɓe ɓe Ahav e Shomeron, haa o momti ɓe, no konngol Yaawe ngol wi'unoo, ngu o wi'i e Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o naati e"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɓe heddiiɓe ɓe Ahav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ɓe heddiiɓe"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ɓe Ahav"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "e Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "o momti ɓe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "no konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol wi'unoo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:25.984443176Z",
+  "model": "glm-5.3"
+}

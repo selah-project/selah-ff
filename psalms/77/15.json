@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 77,
+  "translation": "A ko Eel baɗoowo ciftorɗe; a hollitii e yimɓe ɗen doole maa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Eel on"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "baɗoowo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ciftorɗe"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "a hollitii"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "e yimɓe ɗen"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "doole maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:03.336646597Z",
+  "model": "glm-5.3"
+}

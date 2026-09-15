@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Leydi ndin rokki ɓeydugol maggal; Eloohim, Eloohim amen, barkee min.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "rokki"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ɓeydugol maggal"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "barkee min"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:21.544388847Z",
+  "model": "glm-5.3"
+}

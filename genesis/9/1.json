@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Eloohim barkini ⟨את⟩ Nooja e ⟨את⟩ ɓiɓɓe mun, o wi'i ɓe: Fewnee, ɗuuɗee, hebnee ⟨את⟩ leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "barkini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nooja"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nooja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "fewnee"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ɗuuɗee"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hebnee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:15.268429788Z",
+  "model": "glm-5.3"
+}

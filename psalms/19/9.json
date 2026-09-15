@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Pikuuje Yaawe ɗen ko laaɓtuɗe, detturooje ɓernde; laamu Yaawe on ko laaɓngol, lelnirlol gite.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "pikuuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "laaɓtuɗe"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "detturooje"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "laaɓngol"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "lelnirlol"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "gite"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:10.377432752Z",
+  "model": "glm-5.3"
+}

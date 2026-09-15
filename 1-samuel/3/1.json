@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ndeen suka bi'eteeɗo Shemuël ina gollira ⟨את⟩ Yaawe ɓenni Eeli, konngol Yaawe ngol woniino teeŋtungol e nder ñalɗi ɗin — jiytol ɓuuɓngol woodaani.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "ndeen suka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ina gollira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ɓenni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "e konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woniino"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "teeŋtungol"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e nder ñalɗi"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "jiytol"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ɓuuɓngol"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:48.089683693Z",
+  "model": "glm-5.3"
+}

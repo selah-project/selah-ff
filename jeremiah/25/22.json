@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "e ⟨את⟩ laamɗo fuu Tsor, e ⟨את⟩ laamɗo fuu Tsidon, e ⟨את⟩ laamɓe duunde nden wondunde njooka maayo ngoo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laamɗo fuu Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laamɗo fuu Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "laamɓe duunde nden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "האי",
+      "gloss": "duunde nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wondunde"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "njooka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:09.488181781Z",
+  "model": "glm-5.3"
+}

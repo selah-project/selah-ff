@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Mosheh ƴetti ⟨את⟩ laylaytol ngol e yeeso Yaawe, no O saɗiri mo nii.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laylaytol ngol"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "laylaytol ngol"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "e yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "O saɗiri mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:43:48.781863656Z",
+  "model": "glm-5.3"
+}

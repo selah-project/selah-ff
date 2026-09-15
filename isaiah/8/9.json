@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 8:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Muultee, yimɓe, ñottiree; naneetu fuu, on wonduɓe woɗɗuɓe leydi ndin; ƴoggoree junngo mon, ñottiree; ƴoggoree junngo mon, ñottiree.",
+  "tokens": [
+    {
+      "surface": "רעו",
+      "gloss": "muultee"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ñottiree"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "naneetu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מרחקי",
+      "gloss": "wonduɓe woɗɗuɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ƴoggoree junngo mon"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ñottiree"
+    },
+    {
+      "surface": "התאזרו",
+      "gloss": "ƴoggoree junngo mon"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ñottiree"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:49.366187628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "Ɓe mbaɗi hakkunde maɓɓe maandeeji makko ɗin, e cemmbe e leydi Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Ɓe mbaɗi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hakkunde maɓɓe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "[elided: fillaawo]"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "maandeeji makko ɗin"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "e cemmbe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:39.937562461Z",
+  "model": "glm-5.3"
+}

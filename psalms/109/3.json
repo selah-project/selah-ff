@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Konngi njeenaaje taarii mi, ɓe njani e am alaa sabaabu.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "njeenaaje"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "taarii mi"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ɓe njani e am"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "alaa sabaabu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:33.709319700Z",
+  "model": "glm-5.3"
+}

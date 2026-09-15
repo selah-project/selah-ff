@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Gollaade hesed maa ⟨woni⟩ ñoŋko gite am, e goonga maa min yahdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gollaade"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñoŋko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "min yahdi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "e goonga maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:11.731111312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "O ari to baaba mum, o wi'i: “Baaba am.” O wi'i: “Ɗoo mi; ko hommbo on, ɓiɗɗo am?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ɗoo mi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:41.004264729Z",
+  "model": "glm-5.3"
+}

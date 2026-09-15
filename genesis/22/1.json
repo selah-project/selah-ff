@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɗum waɗii ɓaawo konngi ɗin, Eloohim jarribii ⟨את⟩ Awraham, o wi'i mo: “Awraham!” O wi'i: “Miɗoɗaƴoogii.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ɗum waɗii"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗin"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "jarribii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Miɗoɗaƴoogii"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:02.111424697Z",
+  "model": "glm-5.3"
+}

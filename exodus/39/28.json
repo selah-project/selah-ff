@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "E ⟨את⟩ gaasooral ngal ñaawɗe-dooku, e ⟨את⟩ paineeje gaasi ɗen ñaawɗe-dooku, e ⟨את⟩ sokkooji dooku ɗen, ñaawɗe-dooku ruttoraaɗo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "gaasooral ngal"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "gaasooral ngal"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ñaawɗe-dooku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paineeje gaasi ɗen"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "paineeje"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "gaasi ɗen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ñaawɗe-dooku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "sokkooji dooku ɗen"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "sokkooji"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "dooku"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ñaawɗe-dooku"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ruttoraaɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:26.537111248Z",
+  "model": "glm-5.3"
+}

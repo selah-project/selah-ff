@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Eloohim noddi annoore nden ñalawu, e niɓe o noddi jemma; wonti kikiiɗe, wonti subaka — ñalawu gooto.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "annoore nden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawu"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "e niɓe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalawu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:15.660912044Z",
+  "model": "glm-5.3"
+}

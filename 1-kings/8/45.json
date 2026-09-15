@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nan-ɗaa ka kammuuli ɗin ⟨את⟩ duwaawal maɓɓe e ⟨את⟩ ɓamtaare maɓɓe, ñeew-ɗaa ñaawoore maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "nan-ɗaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duwaawal maɓɓe"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "duwaawal maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓamtaare maɓɓe"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ɓamtaare maɓɓe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ñeew-ɗaa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ñaawoore maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:05:57.862008435Z",
+  "model": "glm-5.3"
+}

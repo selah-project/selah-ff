@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Jegtino, Yaawe, yawre maa e hesed maa; sabu gila duumi ⟨ɗi⟩ ngoni.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Jegtino"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "yawre maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "e hesed maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gila duumi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:16.958003861Z",
+  "model": "glm-5.3"
+}

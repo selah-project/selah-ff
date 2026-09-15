@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɗe mbaɗa ɗum korban jiɓɗe-arane fii Yaawe ⟨את⟩ ɗe; kono ɗe ƴellataa e nadirdu ndin fii misa nijooja.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jiɓɗe-arane"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ɗe mbaɗa naatde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jiɓɗe-arane ɗe (korban on)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kono e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nadirdu ndin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ɗe ƴello"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "fii misa"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nijooja"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:16.656744023Z",
+  "model": "glm-5.3"
+}

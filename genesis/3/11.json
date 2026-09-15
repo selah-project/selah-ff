@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i: «Hommo wi'ii maa wonde ⟨a⟩ wuurii-ɗaa? Holtuma ɗa ñaami e nder lekki ngol minammi-maa wata ɗa ñaame ɗum?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hommo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "wi'ii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "wuurii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "-ɗaa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Holtuma ɗa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "e nder lekki ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "minammi-maa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ɗa ñaame"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": ""
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ñaami"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:27.596899064Z",
+  "model": "glm-5.3"
+}

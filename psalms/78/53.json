@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "O ardori ɓe e kisal, ɓe hulaani; kono ngol maayo cuddii ⟨את⟩ baawɓe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "O ardori ɓe"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "e kisal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "hulaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baawɓe maɓɓe"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "baawɓe maɓɓe"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "cuddii"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ngol maayo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:35:33.880106336Z",
+  "model": "glm-5.3"
+}

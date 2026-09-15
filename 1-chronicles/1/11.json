@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Misrayim dañi ⟨את⟩ Ludim ɗen, e ⟨את⟩ Anamim ɗen, e ⟨את⟩ Lehabim ɗen, e ⟨את⟩ Naftuhim ɗen.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludim ɗen"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludim ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Anamim ɗen"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamim ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Lehabim ɗen"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabim ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Naftuhim ɗen"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhim ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.315765979Z",
+  "model": "glm-5.3"
+}

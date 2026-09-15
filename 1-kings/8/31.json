@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "⟨את⟩ ɗum gorko saakata e woɗɗo mun, e waɗata on wonnde e hoore mun ngam muñɗinɗo mun waɗde wonnde, on wonnde ari yeeso jaŋre maa, e suudu ndee.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum gorko saakata e woɗɗo mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "saakata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "e woɗɗo mun"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "on wonnde"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "ngam muñɗinɗo mun waɗde wonnde"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "on wonnde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "jaŋre maa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:58.593274394Z",
+  "model": "glm-5.3"
+}

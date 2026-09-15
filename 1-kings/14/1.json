@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "E ndeen wakkati Abiya, ɓiy Yarobeam, muñɗo.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "wakkati"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "muñɗo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:19:55.403671970Z",
+  "model": "glm-5.3"
+}

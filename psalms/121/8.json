@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 121,
+  "translation": "Yaawe reenay yaltugol-maa e naatgol-maa, gila nde jooni haa duumi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "reenay"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "yaltugol-maa"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "e naatgol-maa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gila nde jooni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:42.184085277Z",
+  "model": "glm-5.3"
+}

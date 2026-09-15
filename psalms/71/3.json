@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Wonan mi ⟨tummbe⟩ ciiɗru hoɗorde, ɗo mi naata duumi; aamiraa ngam hisnude am, sabu ko a ⟨tummbe⟩ ciiɗru am e mbaadi reennde am.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Wonan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ciiɗru"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "hoɗorde"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ɗo mi naata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "aamiraa"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ngam hisnude am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ciiɗru am"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mbaadi reennde am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ko a"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:53.311154736Z",
+  "model": "glm-5.3"
+}

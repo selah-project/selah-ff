@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Min ndokka on ⟨את⟩ ɓiɗɓe rewɓe amen, e ⟨את⟩ ɓiɗɓe rewɓe mon min ƴetta; min ngomdina e ⟨את⟩ mon, min wonta yimɓe wootere.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Min ndokka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɓe rewɓe amen"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ɓiɗɓe rewɓe amen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɓe rewɓe mon"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ɓiɗɓe rewɓe mon"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "min ƴetta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ngam amen"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "min ngomdina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "e ⟨את⟩ mon"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "min wonta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:03.052241938Z",
+  "model": "glm-5.3"
+}

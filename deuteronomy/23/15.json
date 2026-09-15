@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 23:15",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Sabu Yaawe Eloohim maa e yahaade hakkunde kaampa maa, fii daɗndude maa, e neldude ayɓɓe maa yeeso maa; kaampa maa laatoto senndo, wata o yi'u e maa ŋakkende huunde, o rutto caggal maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "e yahaade"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "מחנך",
+      "gloss": "kaampa maa"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "fii daɗndude maa"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "e neldude"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ayɓɓe maa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "laatoto"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "kaampa maa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "senndo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o yi'u"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ŋakkende"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "o rutto"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "caggal maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:02:40.498980303Z",
+  "model": "glm-5.3"
+}

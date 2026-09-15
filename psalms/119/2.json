@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "No mburdi woniri ɓe reeniɓe seedagoriiji Makku, ɓe ƴeewtotooɓe Mo e ɓernde fuu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "No mburdi woniri"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ɓe reeniɓe"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "seedagoriiji Makku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e ... fuu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "ɓe ƴeewtotooɓe Mo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:57.887547890Z",
+  "model": "glm-5.3"
+}

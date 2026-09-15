@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ñaamoowo ɗum tooñande mun mooƴotoo, sabu o lesɗini ⟨את⟩ senaande Yaawe; neɗɗo ngoo wodditetee e yimɓe mun.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ñaamoowo ɗum"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "tooñande mun"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mooƴotoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senaande Yaawe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "senaande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "o lesɗini"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "wodditetee"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "neɗɗo ngoo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngoo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "e yimɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:33.862524368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Nedd-ɗaa ɓe kulɓiniiɓe maa ɗooftol, ngam ɗum toowee sabu goonga. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "nedd-ɗaa"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ɓe kulɓiniiɓe maa"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ɗooftol"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ngam toowee"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "goonga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:09.820010709Z",
+  "model": "glm-5.3"
+}

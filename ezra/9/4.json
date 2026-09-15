@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 9:4",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe moofti faade am kala naamnaado e konngi Eloohim Israayiil, sabu baasal ngol majjooɓe ɓen ngoni; kanko mi, mi jooɗii mi ɓurtii haa tiinɗinaaki haa mbaɗa jamma.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "faade am"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "Ɓe moofti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "naamnaado"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "baasal ngol"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "majjooɓe ɓen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mi jooɗii"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "mi ɓurtii haa tiinɗinaaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "למנחת",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T10:45:24.541498419Z",
+  "model": "glm-5.3"
+}

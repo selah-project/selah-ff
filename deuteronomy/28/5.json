@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Baruki seppo maa e lootorde maa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "baruki"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "seppo maa"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "e lootorde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:05:00.374737016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Aaronaa cuurii ⟨את⟩ junnde mun dow ndiyam Misraayim; cuutirli ɗen ngari dow, ɓe cujjini ⟨את⟩ leydi Misraayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "cuurii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaronaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde mun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junnde mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ngari dow"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "cuutirli ɗen"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ɓe cujjini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Misraayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:38.829236138Z",
+  "model": "glm-5.3"
+}

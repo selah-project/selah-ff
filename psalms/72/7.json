@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 72,
+  "translation": "E nder balɗe makko ñaawoowo welto, e ɓural jam haa lewru wonaa.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "welto"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "e nder balɗe makko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "wonaa"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "lewru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:33:11.056975428Z",
+  "model": "glm-5.3"
+}

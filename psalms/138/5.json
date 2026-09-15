@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Ɓe yenay e laawɗe Yaawe, sabu teddungal Yaawe ko mawngal.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ɓe yenay"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "e laawɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawngal"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:10.221625857Z",
+  "model": "glm-5.3"
+}

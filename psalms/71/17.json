@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 71,
+  "translation": "Eloohim, a jannginii mi gila e sukaaɓe am, haa hannde mi welay kuddi maa ɗin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "a jannginii mi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gila e sukaaɓe am"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hanaa haa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mi welay"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kuddi maa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:32:45.911877001Z",
+  "model": "glm-5.3"
+}

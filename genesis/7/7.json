@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Noawa naati, e ɓiɓɓe mun, e debbo mun, e rewɓe ɓiɓɓe mun ⟨את⟩ e makko, e nder laana ndin, fii ndiyam ilam nden.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noawa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "e debbo mun"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "e rewɓe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko",
+      "marks": "Noawa e yimɓe mako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "laana ndin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fii"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ilam nden"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:11.836055632Z",
+  "model": "glm-5.3"
+}

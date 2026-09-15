@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 29:13",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Non hannde, Eloohim amen, min ñaamooji min neldu ma yettoore, min yettina innde mawninde maa nde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Non hannde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "מודים",
+      "gloss": "ñaamooji-yettoore"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ומהללים",
+      "gloss": "min yettina"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "mawninde maa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:07:02.519996282Z",
+  "model": "glm-5.3"
+}

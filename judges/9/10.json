@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ndeen lekki ɗin wi'i lekki te'ena on: Aru, a laamu min.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "lekki ɗin"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "lekki te'ena on"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "את",
+      "gloss": "a"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T06:27:19.029084084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe wi'i mo: ko ⟨את⟩ e maa dingal min mballitoo, e yimɓe maa.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ e maa dingal",
+      "marks": "min mballitoo"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "min mballitoo"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "e yimɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:29.941190133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Yaaquba nanii sikke Sikem ɓornii ⟨את⟩ Dina ɓiyum muñɗo; ɓiyum en ɓen ngonnoo ⟨את⟩ e mande mum en ka ladde. Yaaquba muumɗini haa ɓe artunoo.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sikke"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ɓornii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɓiyum muñɗo"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ɓiyum en ɓen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngonnoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mande mum en"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ka ladde"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "muumɗini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaaquba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ɓe artunoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:55.639537552Z",
+  "model": "glm-5.3"
+}

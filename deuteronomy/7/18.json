@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "A huruya ɓe; ko a javtoto, a javtoto ⟨את⟩ ko Yaawe Eloohim maa waɗi to Par'o e to Misrayim fuu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a huruya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ko a javtoto"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "a javtoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Yaawe Eloohim maa waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "to Par'o"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e to fuu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:56:07.465182684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Lebanon ŋorri wonaano heewde fii ƴulde, neɗɗaali leydi ndin e mun wonaano heewde fii kurban ƴulɗo.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Lebanon ŋorri"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wonaano"
+    },
+    {
+      "surface": "די",
+      "gloss": "heewde"
+    },
+    {
+      "surface": "בער",
+      "gloss": "fii ƴulde"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "neɗɗaali leydi ndin e mun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wonaano"
+    },
+    {
+      "surface": "די",
+      "gloss": "heewde"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "fii kurban ƴulɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T07:54:24.604051898Z",
+  "model": "glm-5.3"
+}

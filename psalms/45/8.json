@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Njiɗ-ɗaa ñaawoore, njiy-ɗaa bonannde; sabu ɗum Eloohim, Eloohim maa, muuli maa nebam weltaare ɓuri sehilaaɓe maa.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "njiɗ-ɗaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "njiy-ɗaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "muuli maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nebam"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "weltaare"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ɓuri sehilaaɓe maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:58.538263673Z",
+  "model": "glm-5.3"
+}

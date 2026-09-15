@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Neldon mootu laamɗo ⟨leydi ndin⟩, iwde e Selaa e jeereende, fayde e tulde ɓiɗɗo Siyon.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Neldon"
+    },
+    {
+      "surface": "כר",
+      "gloss": "mootu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Selaa"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "jeereende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde e"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:47:00.590920133Z",
+  "model": "glm-5.3"
+}

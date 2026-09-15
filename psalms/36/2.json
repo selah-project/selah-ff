@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Jaŋngol pueno ngol mbi'i nder ɓernde am, wii koruɗo on: ⟨alaa⟩ kulol Eloohim yeeso gite mun.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "jaŋngol"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pueno"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "fii koruɗo on"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nder"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨alaa⟩"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "gite mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:14.826487151Z",
+  "model": "glm-5.3"
+}

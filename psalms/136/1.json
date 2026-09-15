@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 136,
+  "translation": "Yettoyee Yaawe, sabu o moƴƴi, sabu hesed mun duumoto haa abada.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yettoyee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o moƴƴi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:44.268533264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Mi tinndina ⟨את⟩ ɗimmu ⟨את⟩ doole mon, Mi waɗa ⟨את⟩ kammuuli mon waŋŋe njamɗi, e leydi mon waŋŋe njamndi mboɗeeri.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Mi tinndina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗimmu doole mon"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ɗimmu"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "doole mon"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "Mi waɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kammuuli mon"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "kammuuli mon"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "waŋŋe njamɗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leydi mon"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "leydi mon"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "waŋŋe njamndi mboɗeeri"
+    }
+  ],
+  "timestamp": "2026-09-14T11:41:22.473865811Z",
+  "model": "glm-5.3"
+}

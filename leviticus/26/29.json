@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Ko onon ɓe njiɗ-nduu fooday ƴi'e ɓiɓɓe mon worɓe, e ƴi'e ɓiɗɗo mon rewɓe onon fooday.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ko onon fooday"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ɓiɓɓe mon worɓe"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "e ƴi'e"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ɓiɗɗo mon rewɓe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "onon fooday"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:12.414667985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Hay si ɓe mawninni ⟨את⟩ ɓiɗɗo maɓɓe, mi hebbinana ɓe yimɓe; kono kadi, yeeye-maɓɓe tawa mi durnii e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "ɓe mawninni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo maɓɓe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɓiɗɗo maɓɓe"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "mi hebbinana ɓe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "yeeye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "tawa mi durnii"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:49.388162357Z",
+  "model": "glm-5.3"
+}

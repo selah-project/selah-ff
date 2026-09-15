@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yaawe, linteki am e cemberu am e hisnoowo am; Eel am, hayre am, mi suuɗi e makko; koolaaɗo am, e wutte woppere am, torlaare am.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "linteki am"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "e cemberu am"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "e hisnoowo am"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eel am"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "hayre am"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mi suuɗi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "koolaaɗo am"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "e wutte"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "woppere am"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "torlaare am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:28.567391008Z",
+  "model": "glm-5.3"
+}

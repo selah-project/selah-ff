@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ndeen waɗan kaas njamraki e palloorde mun nden njamraki, fii laaɓugol; nden waɗan ⟨את⟩ ɗum hakkunde tedde kawre nden e jaɓɓere nden, nden waɗan ton ndiyam.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "kaas"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamraki"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "palloorde mun nden"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamraki"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "fii laaɓugol"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "nden waɗan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "kaas njamraki o"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tedde"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawre"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "jaɓɓere nden"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "nden waɗan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T11:36:59.718155836Z",
+  "model": "glm-5.3"
+}

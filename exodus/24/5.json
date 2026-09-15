@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O neldi ⟨את⟩ suukaaɓe ɓiɓɓe Israa'iila, ɓe ndokki sadakkees ƴettesɗi, ɓe ñaawi sadakkeeji jaaɓondirɗi feewde Yaawe — duuyeeji.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suukaaɓe ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "suukaaɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe ndokki ƴetteende"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sadakkees ƴettesɗi"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ɓe ñaawi"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sadakkeeji"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "jaaɓondirɗi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "feewde Yaawe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "duuyeeji"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:52.735520289Z",
+  "model": "glm-5.3"
+}

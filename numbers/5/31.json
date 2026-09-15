@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Gorko on laaatoo e baasal, debbo oon nanngotoo ⟨את⟩ baasal makko.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "laaatoo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Gorko on"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "e baasal"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "debbo oon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oon"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nanngotoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baasal makko"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "baasal makko"
+    }
+  ],
+  "timestamp": "2026-09-14T05:35:37.604733618Z",
+  "model": "glm-5.3"
+}

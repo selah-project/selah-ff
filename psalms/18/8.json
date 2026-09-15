@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ndeen leydi ndii kerɗi e kelte, munisone pelle ɗe ngaddi kelte, ɗe kerɗi, sabo kulol booyi e makko.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "kerɗi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "e kelte"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndii"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "munisone pelle ɗe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pelle"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ngaddi kelte"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ɗe kerɗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kulol booyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:52.603892797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-chronicles 6:56",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Fii ɓiɓɓe Geresom, jeynge galle feccere leñol Manasse: ⟨את⟩ Golan e nder Basan e ⟨את⟩ diiwe mum, e ⟨את⟩ Asherot e ⟨את⟩ diiwe mum",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Geresom"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "jeynge galle"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "feccere"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Golan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "e nder Basan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "diiwe mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "diiwe mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Asherot"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Asherot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "diiwe mum"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "diiwe mum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:31.881974756Z",
+  "model": "glm-5.3"
+}

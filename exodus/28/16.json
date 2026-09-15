@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Cariiɗo ⟨o⟩ wonay labbisɗo; ñaajre juu ko njuuteeri mun, ñaajre juu kadi ko yaajde mun.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "cariiɗo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonay"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "labbisɗo"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ñaajre juu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njuuteeri mun"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ñaajre juu kadi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "yaajde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:35.203025097Z",
+  "model": "glm-5.3"
+}

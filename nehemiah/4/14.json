@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 4:14",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "E nokku ɗo nji'otoɗon ⟨את⟩ odo bagge ɓennge ngen, to ɗoon mooɓiton to amen; Eloohim amen fii haɓde fii amen.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "e nokku ɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nji'otoɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odo bagge ɓennge ngen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "odo"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "bagge ɓennge ngen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "to ɗoon"
+    },
+    {
+      "surface": "תקבצו",
+      "gloss": "mooɓiton"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "to amen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "fii haɓde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fii amen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:46:23.954180017Z",
+  "model": "glm-5.3"
+}

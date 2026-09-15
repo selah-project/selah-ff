@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Jaakob jooɗii e leydi yillitooɗe baaba mun, e leydi Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "yillitooɗe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:07.841974813Z",
+  "model": "glm-5.3"
+}

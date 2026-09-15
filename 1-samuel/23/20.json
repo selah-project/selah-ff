@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Non hannde, laamɗo, e ko ɓuri heewde e yi'annde maa, aro a ƴotto; minen ko amen waddude mo e junngo laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Non hannde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "e ko ɓuri heewde"
+    },
+    {
+      "surface": "אות",
+      "gloss": "yi'annde"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ngam ƴottoode"
+    },
+    {
+      "surface": "רד",
+      "gloss": "aro a ƴotto"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "minen ko amen"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "waddude mo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:26.507698683Z",
+  "model": "glm-5.3"
+}

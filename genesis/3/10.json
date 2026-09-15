@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "O wi'i: «⟨את⟩ Ɗaƴi maa ngam mi nano e nder wuro ngoo, mi huli, mi wuurii-mi; mi suuɗi-mi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ɗaƴi maa (daande maa)"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "Ɗaƴi maa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "mi nano"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "e nder wuro ngoo"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "mi huli"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עירם",
+      "gloss": "wuurii-mi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "mi suuɣi-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:27.596316785Z",
+  "model": "glm-5.3"
+}

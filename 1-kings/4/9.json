@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ben-Deker, to Makaas, to Shaalabim, e to Beet-Semes, e Elon-Beet-Chanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "to Makaas"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "e to Shaalabim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "e to Beet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semes"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "e Elon-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chanan"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:03.637652402Z",
+  "model": "glm-5.3"
+}

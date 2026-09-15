@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "⟨את⟩ Ɓe ƴellitti ⟨את⟩ ŋore Yaawe e ⟨את⟩ teental kawral ngal e ⟨את⟩ kuutorɗe ceniiɗe ɗe ngonnoo e teental ngal fuu; ɓe ƴellitti ɗe — teddinɓe ɓen e Lewiiyankooɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Ɓe ƴellitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ŋore Yaawe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ŋore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "teental kawral ngal"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kuutorɗe ceniiɗe ɗe teental ngal fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ceniiɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e teental ngal"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe ƴellitti ɗe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "kuutorɗe ɗen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "teddinɓe ɓen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "e Lewiiyankooɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:02.437603972Z",
+  "model": "glm-5.3"
+}

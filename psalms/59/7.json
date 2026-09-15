@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Ɓe ruttoo e jamma, ɓe ƴowoo no bamɗi nii, ɓe diwoo taƴirde saare nden.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Ɓe ruttoo"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "e jamma"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ɓe ƴowoo"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "no bamɗi nii"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ɓe diwoo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "saare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:30.129650883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "O yottoo e duuɓi baabiraaɓe mun; haa duumi ɓe nji'aali annoore.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "o yottoo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e"
+    },
+    {
+      "surface": "דור",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe nji'aali"
+    },
+    {
+      "surface": "אור",
+      "gloss": "annoore"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:26.722502162Z",
+  "model": "glm-5.3"
+}

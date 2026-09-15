@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Yaawe immorde e kammuuli yi'ii ɓiɓɓe yimɓe men, ngam yi'de si tawii woni faamɗo, ɗaɓɓoowo ⟨את⟩ Eloohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "immorde e kammuuli"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "yi'ii (wurtuɗo yi'lude)"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe men"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'de"
+    },
+    {
+      "surface": "היש",
+      "gloss": "si tawii woni"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "faamɗo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ɗaɓɓoowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:46.902281791Z",
+  "model": "glm-5.3"
+}

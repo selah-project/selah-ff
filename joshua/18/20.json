@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yarden on ko keerol ⟨את⟩ mun to fuɗnaange. Ɗum ko ndonu ɓiɓɓe Benyamin, e keeri mum en nguudinooje, e leƴƴi mum en.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Yarden on"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "ko keerol"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mun"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "fuɗnaange"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ko ndonu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "e keeri mum en"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nguudinooje"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "e leƴƴi mum en"
+    }
+  ],
+  "timestamp": "2026-09-14T06:18:35.028387849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ko nii Yehu momti ⟨את⟩ Baal e Israyel.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "o momti"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "e Israyel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:19.737393203Z",
+  "model": "glm-5.3"
+}

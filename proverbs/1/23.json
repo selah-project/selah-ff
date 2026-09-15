@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Artu to ɓurtirde am; loot! Mi ɓuuɓnay on ruuhu am, mi anndinay konnguɗi am ⟨את⟩ mon.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "artu"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "to ɓurtirde am"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "loot"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "mi ɓuuɓnay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "mi anndinay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi am"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:09.924709580Z",
+  "model": "glm-5.3"
+}

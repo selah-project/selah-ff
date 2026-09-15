@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Moshe wi'i: miɗo tuusa jooni, ngam mi yi'a ⟨את⟩ ndee jiyte mawnde, ko honno huɗo ngol wujjataa e yiite?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "miɗo tuusa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngam mi yi'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndee jiyte"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ndee jiyte"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wujjataa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "wujjataa e yiite"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "huɗo ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:39.898617646Z",
+  "model": "glm-5.3"
+}

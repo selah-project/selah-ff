@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mo yiɗi janngingol yiɗi ganndal, kono mo ɗaɓɓi ayme woni himɗo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "mo yiɗi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "janngingol"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kono mo ɗaɓɓi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ayme"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wonii himɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:56:40.983589522Z",
+  "model": "glm-5.3"
+}

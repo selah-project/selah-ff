@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 132,
+  "translation": "Yaawe fi'i Dewdu e goonga; o woppataa ɗum: 'e ñaameteeɗe reedu maa mi waɗata jooɗorde fii maa.'",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "fi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dewdu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "e goonga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woppataa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "o woppataa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "e ñaameteeɗe"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "reeu maa"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:57.996384420Z",
+  "model": "glm-5.3"
+}

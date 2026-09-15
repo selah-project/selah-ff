@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "E dosari maa mi heɓi faamuyannde; sabu ɗuum mi woppinii kala laawol fenaande.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "e dosari maa"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mi heɓi faamuyannde"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "mi woppinii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "laawol"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:19.203897814Z",
+  "model": "glm-5.3"
+}

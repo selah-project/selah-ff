@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Mo waajirta bolle maa e moƴƴere, sukaare maa hesɗitina hono no njiiru waɗirta nii.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Mo waajirta"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "e moƴƴere"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "bolle maa"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "hesɗitina"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "hono no njiiru waɗirta nii"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "sukaare maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:43.719547769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim mooftii ⟨את⟩ aadamaajo on, toɓo ummoraade e leydi ndin, o ƴetti henngu e nder ɓernde makko — henngu nguurndam — aadamaajo on laati ndiyam nguurkam.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "mooftii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aadamaajo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaajo on"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "toɓo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "o ƴetti henngu"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "e nder ɓernde makko"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "henngu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laati"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadamaajo on"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ndiyam nguurkam"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nguurkam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:31:34.003007490Z",
+  "model": "glm-5.3"
+}

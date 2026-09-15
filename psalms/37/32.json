@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Bonɗo on ina ƴeewtoo ⟨ndimaagu on⟩ feewde e ñaawoowo on, omo njiylota no o warata.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ina ƴeewtoo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "feewde e ñaawoowo on"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "omo njiylota"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "no o warata"
+    }
+  ],
+  "timestamp": "2026-09-14T12:39:55.224909980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Nde Eel Elyon inniri leƴƴi ɗen ngalu makko, o seerndi ɓiɓɓe Aadama, o faami keeri yimɓe ɗen e limoore ɓiɓɓe Yisraa'el.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "nde ... inniri ngalu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eel Elyon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗen"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "o seerndi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadama"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "o faami"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "keeri"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "e limoore"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'el"
+    }
+  ],
+  "timestamp": "2026-09-14T06:07:42.140233326Z",
+  "model": "glm-5.3"
+}

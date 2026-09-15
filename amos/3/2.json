@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko ⟨את⟩ on tan njiɗ-mi e nder leƴƴi leydi ndin fof; sabu ɗum mi yi'ay dow mon ⟨את⟩ bone mon fof.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "njiɗ-mi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder ... fof"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "mi yi'ay"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dow mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bone mon fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "bone mon"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:32.392961179Z",
+  "model": "glm-5.3"
+}

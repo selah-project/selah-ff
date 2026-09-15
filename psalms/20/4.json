@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yo o anndu dokkal maa fuu, e wowla maa yo o jaɓotor ɗum. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "yo o anndu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "dokkal maa"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "e wowla maa"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "yo o jaɓotor ɗum"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:03.750187544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Layngol woni konngol maa e koyɗe am, e lewru e laawol am.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "layngol"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "e koyɗe am"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "konngol maa"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "e lewru"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "e laawol am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:46:11.305526210Z",
+  "model": "glm-5.3"
+}

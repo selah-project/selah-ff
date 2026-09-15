@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "E ⟨את⟩ yimɓe Hiwi, e ⟨את⟩ yimɓe Arki, e ⟨את⟩ yimɓe Sini,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "yimɓe Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "yimɓe Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "yimɓe Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "yimɓe Sini"
+    }
+  ],
+  "timestamp": "2026-09-14T04:35:34.934243678Z",
+  "model": "glm-5.3"
+}

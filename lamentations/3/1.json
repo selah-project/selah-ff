@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Miin, mi woni gorko on yi'i muñal e ɓuuɓri junnde makko nden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "עני",
+      "gloss": "muñal"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "e ɓuuɓri"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "junnde makko nden"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:27.845215031Z",
+  "model": "glm-5.3"
+}

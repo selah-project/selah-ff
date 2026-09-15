@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Mi wi'i: mi ƴettay on ⟨את⟩ e nder caɗeele Misrayim, towde leydi Kanaanaŋke e Hittiinaŋke e Amoriinaŋke e Perizziinaŋke e Hiwiinaŋke e Yebusiinaŋke, towde leydi wooroortuɗe ñaametere e asal.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mi ƴettay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "e nder caɗeele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "towde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanaŋke"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "e Hittiinaŋke"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "e Amoriinaŋke"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "e Perizziinaŋke"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "e Hiwiinaŋke"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "e Yebusiinaŋke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "towde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "wooroortuɗe"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñaametere"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "e asal"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:07.372907106Z",
+  "model": "glm-5.3"
+}

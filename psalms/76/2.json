@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "E Yahuuda Eloohim anndiraama; innde mun mawnii e Israa'iil.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "anndiraama"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "E Yahuuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnii"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:22.410026931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Michtam Daawuda. Reen min, Eel, mbeɗa mi ɗaɓɓii hoɗorde e maa.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Michtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuda"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Reen min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbeɗa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "mi ɗaɓɓii hoɗorde"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:11.992706130Z",
+  "model": "glm-5.3"
+}

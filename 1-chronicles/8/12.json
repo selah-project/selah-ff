@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ɓiɓɓe Elpaʻal: ʻEber e Misam e Shamed; kanko hoore makko o mahi ⟨את⟩ Ono e ⟨את⟩ Lod e ɓiɗɓe rewɓe mayre ɗen.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaʻal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ʻEber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "e Misam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "e Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko hoore makko"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "e ɓiɓɓe rewɓe mayre ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:03.153197582Z",
+  "model": "glm-5.3"
+}

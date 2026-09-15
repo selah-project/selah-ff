@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓernde Paroh tiiɗtinii, o neldaali ⟨את⟩ ɓiɓɓe Israa'iila — no Yaawe haaliri e juuɗe Mosheh nih.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "tiiɗtinii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no...nih"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haaliri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:55.099479871Z",
+  "model": "glm-5.3"
+}

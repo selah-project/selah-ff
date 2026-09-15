@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 79,
+  "translation": "Wallu min, Eloohim gidagol amen, ngam darorde teddingol innde maa nden; hisnu min, suturo dow bakkaatuuji amen, ngam innde maa nden.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Wallu min"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "gidagol amen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "darorde"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddingol"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa nden"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "hisnu min"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "suturo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "bakkaatuuji amen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:36:06.810702808Z",
+  "model": "glm-5.3"
+}

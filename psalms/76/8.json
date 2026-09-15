@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 76,
+  "translation": "On, ko On ⟨en⟩ lateeri kulɓiniɗo; kadi hol ⟨mo⟩ waawi daraade to yeeso maa gila nde jaŋngere maa ummii?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "On"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "lateeri kulɓiniɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "On"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kadi hol"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "waawi daraade"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "to yeeso maa"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "gila nde"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "jaŋngere maa"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:44.842130806Z",
+  "model": "glm-5.3"
+}

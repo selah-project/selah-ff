@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Kadi ⟨את⟩ gite Tsidkiyahu o ɓooyii; o ɓoggini mo e pecce njamndi, ngam addude ⟨את⟩ mo Babel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "kadi ⟨את⟩",
+      "marks": "gite Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "o ɓooyii"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "o ɓoggini mo"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "e pecce njamndi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ngam addude"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-14T08:25:06.851802420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Ɓiɓɓe makko ɓe gollanay mo; ɓe limanay ko Adonaay waɗi ɗum, feewde e yyanaango ngoo.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Ɓiɓɓe makko"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ɓe gollanay mo"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ɓe limanay"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ko Adonaay waɗi ɗum"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "feewde e yyanaango ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:20:52.234506495Z",
+  "model": "glm-5.3"
+}

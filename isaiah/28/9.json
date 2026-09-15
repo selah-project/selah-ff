@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "⟨את⟩ hommbo O jannginta ganndal, e ⟨את⟩ hommbo O faamninta jaŋtaande? Ɓiɗɓe seŋtuɓe e nder ɗiiƴam, ƴettuɓe e nder ɓerɗe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hommbo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "O jannginta"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ganndal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hommbo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "O faamninta"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "jaŋtaande"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "seŋtuɓe"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "e nder ɗiiƴam"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ƴettuɓe"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "e nder ɓerɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:46.918260104Z",
+  "model": "glm-5.3"
+}

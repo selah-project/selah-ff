@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Eloohim ⟨ko⟩ ñaawoowo nuunɗuɗo, Eel ko ɓurtuɗo e majjere mum ñaawoore ñalnde kala.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ñaawoowo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nuunđuđo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ko ɓurtuɗo e majjere mum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde kala"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:00.004616705Z",
+  "model": "glm-5.3"
+}

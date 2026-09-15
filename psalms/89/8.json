@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "Eel, ko ɓuri wel-maɗde e nder suudu sirri laaɓtuɓe mawɓe, ko ɓuri kulɗeede e dow fuu ɗiɗɓe taariiɓe mo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ko ɓuri wel-maɗde"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "e nder suudu sirri"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "laaɓtuɓe"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ko ɓuri kulɗeede"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ɗiɗɓe taariiɓe mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:45.819048559Z",
+  "model": "glm-5.3"
+}

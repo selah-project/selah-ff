@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "O hokki mo ⟨את⟩ Bilha maccuɗo mum ngam wonde debbo, Yaakob naati e makko.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "o hokki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "maccuɗo mum"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngam wonde debbo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "naati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:34.078714060Z",
+  "model": "glm-5.3"
+}

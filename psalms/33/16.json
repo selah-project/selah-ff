@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Laamɗo dañaaka hebbinde konnguuri mawndi; gorko doole ndimaaka e ɓural sembe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "dañaaka"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konnguuri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gorko doole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ndimaaka"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "e ɓural"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sembe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:36.352184477Z",
+  "model": "glm-5.3"
+}

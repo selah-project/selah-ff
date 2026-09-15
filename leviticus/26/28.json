@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "mi yahay e mon e hayre keri, mi lelnay ⟨את⟩ on, Min kadi, jeeɗi laawol fii bakkaatuuji mon.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mi yahay"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e mon"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "e hayre"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "keri"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "mi lelnay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "on"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Min"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeeɗi laawol"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "bakkaatuuji mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:04.927747613Z",
+  "model": "glm-5.3"
+}

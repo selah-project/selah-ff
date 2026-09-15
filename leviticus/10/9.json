@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Waini e sekara wanaa njaram — a e ɓiɓɓe maa ⟨את⟩ e maa — tuma nde naatoton e Ohel Mo'ed, wanaa a maayoo: ko kuugal duumiɗum fii duuɓi-mon duumi ɗin.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "waini"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "e sekara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "njaram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "e ɓiɓɓe maa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "e maa"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "tuma nde naatoton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Mo'ed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "a maayoo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kuugal"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumiɗum"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fii duuɓi-mon duumi ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:38.500102332Z",
+  "model": "glm-5.3"
+}

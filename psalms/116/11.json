@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 116,
+  "translation": "Mi wi'i, e daawal am: aadam fof ko fenaande.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "e daawal am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fod"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ko fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:58.462498148Z",
+  "model": "glm-5.3"
+}

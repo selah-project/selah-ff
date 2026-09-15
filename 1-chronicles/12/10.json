@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ezer ko gadano, Obadja ko ɗiɗaɓo, Eliyaab ko tataaɗo.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "gadano"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadja"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓo"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyaab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "tataaɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:56:32.980565772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 19:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Kadi reennu jeyaaɗo maa e juumɗe werlaaɗe; wata ɗe laamu am; ndeen mi timmini, mi laaɓa e baylugol mawngol.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "מזדים",
+      "gloss": "juumɗe werlaaɗe"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "reennu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "mi timmini"
+    },
+    {
+      "surface": "ונקיתי",
+      "gloss": "mi laaɓa"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "e baylugol"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:43.751056271Z",
+  "model": "glm-5.3"
+}

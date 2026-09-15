@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E nder leñol Gad ɗen ⟨את⟩ Raamot e Gil'aad e ⟨את⟩ paastruuji maggal, e ⟨את⟩ Maḥanayim e ⟨את⟩ paastruuji maggal.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "e nder leñol"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "e Gil'aad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paastruuji maggal"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "paastruuji maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Maḥanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maḥanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "paastruuji maggal"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "paastruuji maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T10:54:54.150606657Z",
+  "model": "glm-5.3"
+}

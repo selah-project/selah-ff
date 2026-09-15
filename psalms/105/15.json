@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 105,
+  "translation": "“Wata on mem mashiihuuji am, wata on bonnu annabaaɓe am.”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "on mem"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "mashiihuuji am"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "e annabaaɓe am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "on bonnu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:42:28.005589578Z",
+  "model": "glm-5.3"
+}

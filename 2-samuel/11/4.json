@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Daawuibi neldi nelaaɓe, o ɓeydi heen hoore mum ƴetti mo; o ari e makko, o lelii e makko; tawa o wonii ko e laaɓgol mum caggal bonannde mum; o arti e galle mum.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuibi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "nelaaɓe"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ƴetti mo"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o lelii"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "tawa o"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "e laaɓgol mum"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "caggal bonannde mum"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "o arti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "galle mum"
+    }
+  ],
+  "timestamp": "2026-09-14T07:00:52.217095496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Gooto, ƴeew, ɓe cuuɗii fii neƴƴannde am; ɓe kawri e am ko woɓɓe caltuɓe; wanaa allaagu am, wanaa kadi bakkatuuji am, Yaawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ɓe cuuɗii"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "fii neƴƴannde am"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ɓe kawri"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ko woɓɓe caltuɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "allaagu am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa kadi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bakkatuuji am"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:52.568612579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nanoowoɗo, kel konngol Yaawe, ardiiɓe Sodom; nduɗɗito tora Eloohim amen, yimɓe Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Nanoowoɗo, kel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "ardiiɓe"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nduɗɗito"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:24.634318517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 95,
+  "translation": "Wata ɗon ɓuurnoo ɓernde mon no to Meriiba, no ñalawma Massa on nder jeereende nden.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Wata"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ɗon ɓuurnoo"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓernde mon"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "no to Meriiba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "no ñalawma"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder jeereende nden"
+    }
+  ],
+  "timestamp": "2026-09-14T09:40:14.335539862Z",
+  "model": "glm-5.3"
+}

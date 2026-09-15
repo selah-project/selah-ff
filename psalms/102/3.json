@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Wata suuɗu yeeso maa e am, ñalnde caɗe am; juggito nano maa feewde am, ñalnde mi noddata, yaaja jaab am.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "suuɗu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "צר",
+      "gloss": "caɗe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "juggito"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "feewde am"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "nano maa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mi noddata"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "yaaja"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaab am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:25.447452679Z",
+  "model": "glm-5.3"
+}

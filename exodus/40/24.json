@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O waɗii ⟨את⟩ menora ɗoo e nder caret mooɓondirde ndee, ina hewti lewru nduu, e toɓɓere miskan on fombina.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "e nder caret"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mooɓondirde"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ina hewti"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lewru nduu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "toɓɓere"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miskan on"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "fombina"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:09.196245062Z",
+  "model": "glm-5.3"
+}

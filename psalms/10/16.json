@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yaawe ⟨ko⟩ laamɗo duumi e duuɓi ɗin fuu; leƴƴi ɗen majjii e leydi mun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e duuɓi ɗin fuu"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "majjii"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗen"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "e leydi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:01.899952641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde wonii ñalnde jeetatiire nden, Musaay ina noddi Aaruna e ɓiɓɓe mun e mawɓe Israa'iila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde wonii"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "jeetatiire nden"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ina noddi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Musaay"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aaruna"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "e mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:55.160897585Z",
+  "model": "glm-5.3"
+}

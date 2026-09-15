@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Sabu Yaawe yi'i ⟨את⟩ mutteeri Israa'iila nde tigi, ina muusa no feewi; alaa haɗaaɗo, alaa accaaɗo, alaa balloowo Israa'iila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutteeri"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mutteeri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ina muusa no feewi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nde tigi"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "haɗaaɗo"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "accaaɗo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "balloowo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T12:09:24.091649946Z",
+  "model": "glm-5.3"
+}

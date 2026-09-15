@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kala renndo Israa'iila en waɗata ⟨את⟩ ɗum.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila en"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "waɗata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (Peesa on)"
+    }
+  ],
+  "timestamp": "2026-09-15T07:02:17.429572718Z",
+  "model": "glm-5.3"
+}

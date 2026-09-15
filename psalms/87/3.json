@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 87,
+  "translation": "Ko teddinɗe ⟨en⟩ wolaa e maa, wuro Eloohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "teddinɗe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wolaa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:05.832923449Z",
+  "model": "glm-5.3"
+}

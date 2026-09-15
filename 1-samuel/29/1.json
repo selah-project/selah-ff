@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Pelishtiyankooɓe ɓee moofti ⟨את⟩ kampaañuuji maɓɓe fuu to Afek, Israa'iil ene hoŋoo to welo ngoo, ngol woni to Yizre'el.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ɓee moofti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyankooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaañuuji maɓɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampaañuuji maɓɓe"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "to Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ene hoŋoo"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "to welo ngoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol woni"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "to Yizre'el"
+    }
+  ],
+  "timestamp": "2026-09-14T12:00:16.314437932Z",
+  "model": "glm-5.3"
+}

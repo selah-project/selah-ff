@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "Ko fii holla Yaawe ruttii neefu am? Ndiindi maa suḍii haŋkadi min?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ko fii holla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ruttii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neefu am"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "suḍii"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Ndiindi maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "haŋkadi min"
+    }
+  ],
+  "timestamp": "2026-09-14T09:37:51.259094587Z",
+  "model": "glm-5.3"
+}

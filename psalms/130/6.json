@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Neffe am ⟨to⟩ Adonaay, ɓuri reenuɓe subaka — reenuɓe subaka.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Neffe am"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨to⟩ Adonaay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ɓuri reenuɓe"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "reenuɓe"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:20.965247412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ardiiɓe Fir'awna ɓe ƴeewi ⟨את⟩ mo, ɓe yetti ⟨את⟩ mo to Fir'awna; debbo on ɓeeƴaa to suudu Fir'awna.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe ƴeewi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (debbo on)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ardiiɓe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ɓe yetti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (debbo on)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ɓeeƴaa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'awna"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:13.909609594Z",
+  "model": "glm-5.3"
+}

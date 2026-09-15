@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Wi'ee moƴƴo wonii e ñaawoowo on, sabu ɓe ñaamata ɓeyngu golle maɓɓe ɗen.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Wi'ee"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ñaawoowo on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moƴƴo wonii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ɓeyngu"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "golle maɓɓe ɗen"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñaamata"
+    }
+  ],
+  "timestamp": "2026-09-14T18:55:56.917849927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "E bonannde malla ɓe dogay? E ndeeƴere, yannin yimɓe ɗin, Eloohim yo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "און",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ɓe dogay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "באף",
+      "gloss": "e ndeeƴere"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗin"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "yannin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:41.565474071Z",
+  "model": "glm-5.3"
+}

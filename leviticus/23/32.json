@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Shabbat sikkitere ko ⟨kan⟩ on; on muñɗinay ⟨את⟩ nefesiji mon; e jeenayyal ñalawma lewru nduu, e kikiiɗe, gila kikiiɗe haa kikiiɗe on wattu Shabbat mon.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sikkitere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ⟨kan⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "on muñɗinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefesiji mon"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefesiji mon"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "e jeenayyal"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ñalawma lewru nduu"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "e kikiiɗe"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "gila kikiiɗe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kikiiɗe"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "on wattu"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabbat mon"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:48.229523682Z",
+  "model": "glm-5.3"
+}

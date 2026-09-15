@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 89,
+  "translation": "so ɼ lumpii sarɗiiji Am, e jamirooje Am ɼ reenaa;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "so"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "sarɗiiji Am"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ɓe bonninta"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e jamirooje Am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ɓe reena"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:18.634768627Z",
+  "model": "glm-5.3"
+}

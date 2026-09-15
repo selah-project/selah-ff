@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 130,
+  "translation": "Kanko o yoobritay ⟨את⟩ Israayel e bakkaatuuji makko fof.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Kanko o"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "yoobritay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e ... fof"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "bakkaatuuji makko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:48:20.965546187Z",
+  "model": "glm-5.3"
+}

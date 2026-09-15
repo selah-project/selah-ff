@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Daawuuda yahi mawnude, o hebbi balɗe, o waɗi ɓiyum Shelomoo laamuɗo dow Israayiil ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yihi mawnude"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "o hebbi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "o waɗi laamuɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:03:44.576734817Z",
+  "model": "glm-5.3"
+}

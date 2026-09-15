@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "E ɓiɗɗo debbo mun Sheera: o mahi ⟨את⟩ Bet-Horon lesɗo on e ⟨את⟩ toowɗo on e ⟨את⟩ Uzzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "E ɓiɗɗo debbo mun"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horon lesɗo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "lesɗo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "toowɗo on"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "toowɗo on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ e",
+      "marks": "Uzzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-14T10:55:41.196569359Z",
+  "model": "glm-5.3"
+}

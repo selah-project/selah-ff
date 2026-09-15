@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Mulatto ruuhu waɗooɓe muuɗum haali ⟨את⟩ fiyo mun e Yuusufa, o wi'i mo: \"E fiyo am, e ɗoo, geɗel muurirka ina darii yeeso am.\"",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mulatto"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ruuhu waɗooɓe muuɗum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiyo mun"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "fiyo mun"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "e Yuusufa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "e fiyo am"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ɗoo"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "geɗel muurirka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:50.249761800Z",
+  "model": "glm-5.3"
+}

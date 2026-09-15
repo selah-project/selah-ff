@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wattu on, on tawu deeñal, debbo e saare gorko mun; o ɓikkun ɓe, ɓe ƴetti daande maɓɓe, ɓe kaaki.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "wattu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "on tawu"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "deeñal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saare"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "gorko mun"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "o ɓikkun"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "ɓe ƴetti"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "daande maɓɓe"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "ɓe kaaki"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:29.940976235Z",
+  "model": "glm-5.3"
+}

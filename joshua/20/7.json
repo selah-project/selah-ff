@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ɓe laaɓtini ⟨את⟩ Kedes e Galil, e wattu Naftali, e ⟨את⟩ Sekem e wattu Efrayim, e ⟨את⟩ Kiryat-Arba, ko woni Hebron, e wattu Yuuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "laaɓtini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedes"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedes"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "e Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e wattu"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e wattu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e wattu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T11:51:59.531098485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe wi'i: \"Ƴeew, ko nokku ⟨את⟩ am woni, maa darta dow ɗooƴre nden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am",
+      "marks": "nokku ɗo Yaawe darii"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "maa darta"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ɗooƴre nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:31.839514612Z",
+  "model": "glm-5.3"
+}

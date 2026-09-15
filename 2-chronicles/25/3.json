@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Nde laamu ngun heddinaama tabbitinde e makko, o wari ⟨את⟩ jeyaaɓe makko ɓen ɓe mbari ⟨את⟩ laamɗo on, baaba mum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "jabannuɗum waɗi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "tabbitinii"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "laamu ngun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "o wari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeyaaɓe makko ɓen"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ɓe mbari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mum"
+    }
+  ],
+  "timestamp": "2026-09-14T13:07:37.429991618Z",
+  "model": "glm-5.3"
+}

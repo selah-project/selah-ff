@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kadi Shelomoh mahi ⟨את⟩ galle mun duuɓi sappo e tati, o timmini ⟨את⟩ galle mun fof.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "galle mun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tati"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "o timmini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle mun fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "galle mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:13:27.498952507Z",
+  "model": "glm-5.3"
+}

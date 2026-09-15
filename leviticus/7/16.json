@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono si dabaaji korbaan mun ko kiita walla peewnugol-moŋŋo, ñalnde o naatnita ⟨את⟩ daba mun ɗen ñamee; ñalnde ɓaawo ɗum kadi, ko heddii e mun ñamee.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kiita"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "peewnugol-moŋŋo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "dabaaji"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbaan mun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "o naatnita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daba mun"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "daba mun"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ɗen ñamee"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ñalnde ɓaawo ɗum kadi"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ko heddii"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e mun"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñamee"
+    }
+  ],
+  "timestamp": "2026-09-14T05:18:06.308755272Z",
+  "model": "glm-5.3"
+}

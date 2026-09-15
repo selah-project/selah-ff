@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Si ko mbodde o woni o addi ⟨את⟩ qorbaŋke mun, o adda ⟨את⟩ ɗum yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "mbodde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "o addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qorbaŋke mun"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qorbaŋke mun"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "o adda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:22.348450679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "Avimelek jammini ⟨את⟩ yimɓe ɓee fuu, wondude: \"Omo yani e oo gorko walla e debbo mun — maayde maayte.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "jammini"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓee fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wondude:"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "omo yani e"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "oo gorko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "walla e debbo mun"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maayde"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "maayte"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:00.725672157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Keteeje mun ɗen ⟨ko⟩ kaalis e nguruu, golle juuɗe yimɓe.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "keteeje mun ɗen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "e nguruu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yimɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:44.944054469Z",
+  "model": "glm-5.3"
+}

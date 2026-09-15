@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Avshalom neldi arooɓe e nder cuuɗi leƴƴi Israyil fuu, wiyude: tawa njiɗon ⟨את⟩ daande kankooje on, mbi'en: Avshalom laamiima to Hebron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "arooɓe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "tawa njiɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daande kankooje on"
+    },
+    {
+      "surface": "קול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "kankooje on"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mbi'en"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamiima"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "to Hebron"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:30.063268036Z",
+  "model": "glm-5.3"
+}

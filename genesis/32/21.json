@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 32:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ndeen ɓe mbi'a kadi: Ɗoo, jeyaaɗo maa Yaakob ina caggal amen. Kono o wi'i: Mi lelna face makko ɗon e dokkal ngal yahi yeeso am, ɓaawo ɗum mi yi'ay face makko; ena waawi o ɓettay face am.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ndeen ɓe mbi'a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "ina caggal amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אכפרה",
+      "gloss": "mi lelna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "face makko"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "e dokkal"
+    },
+    {
+      "surface": "ההלכת",
+      "gloss": "ngal yahi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mi yi'ay"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "face makko"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ena waawi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "o ɓettay"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:17.438184845Z",
+  "model": "glm-5.3"
+}

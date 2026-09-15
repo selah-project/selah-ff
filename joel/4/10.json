@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kaltinee kuutorɗe mon ɗen waɗe ballooji, e piteeje mon ɗen waɗde warngooji; mo haaju wiyata: miyo gollo.",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "Kaltinee"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "kuutorɗe mon ɗen"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "waɗe ballooji"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "e piteeje mon ɗen"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "waɗde warngooji"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "mo haaju"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wiyata"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gollo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miyo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:01:00.319427159Z",
+  "model": "glm-5.3"
+}

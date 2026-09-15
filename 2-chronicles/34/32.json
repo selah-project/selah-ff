@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "O dariinii ⟨את⟩ ɓe tawaandi ɓen fuu e Yerushalayim e Benyamin; ɓe nguuriɓe Yerushalayim ɓen ngollaali no ndenki Eloohim, Eloohim baabiraaɓe maɓɓe ɗin nihiri.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "dariinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe tawaandi ɓen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ɓe tawaandi ɓen"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "e Benyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ngollaali"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ɓe nguuriɓe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "no ndenki nihiri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "baabiraaɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:29:34.917397350Z",
+  "model": "glm-5.3"
+}

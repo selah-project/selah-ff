@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Min mi jeyaa e giðo am, kanko ñiaw mun kadi ko e am woni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "e giðo am"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "kanko e am"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ñiaw mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:22:33.605055841Z",
+  "model": "glm-5.3"
+}

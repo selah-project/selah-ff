@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Nde alimaaɓe ɓen njalti e nder santaane nden, duƴol ngol weddi ⟨את⟩ suudu Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "njalti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "alimaaɓe ɓen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santaane nden"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "duƴol ngol"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "weddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yaawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:10.556972915Z",
+  "model": "glm-5.3"
+}

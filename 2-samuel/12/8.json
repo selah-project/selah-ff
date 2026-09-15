@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mi rokku ma ⟨את⟩ suudu joomi maa e ⟨את⟩ rewɓe joomi maa nder ɓernde maa, mi rokku ma ⟨את⟩ suudu Israa'iil e Yuuda; so ɗuum famɗi, mi ɓeydoy ma ɗoo e ɗoo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mi rokku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu joomi maa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "joomi maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe joomi maa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "joomi maa"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "nder ɓernde maa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mi rokku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Israa'iil e Yuuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yuuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "so"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "famɗi"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "mi ɓeydoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "e ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:59:10.033915121Z",
+  "model": "glm-5.3"
+}

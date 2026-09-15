@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Kadi laamɗo on tamƴay belɗu maa, sabu kanko ko Adonaay maa; sujju mo.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Kadi tamƴay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "belɗu maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko ko"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adonaay maa"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "sujju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:43:31.697352749Z",
+  "model": "glm-5.3"
+}

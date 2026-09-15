@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 15:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O yaltini ⟨את⟩ mo waasde ŋorol, o wi'i: “Nano, wooɗo kammuuli ɗin, limo koconguɗi ɗin, si mbaawɗaa limde ⟨את⟩ ɓe.” O wi'i mo: “Ko nyyu cale maa wonoy.”",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "o yaltini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "waasde ŋorol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "nano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "wooɗo kammuuli ɗin"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "limo"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "koconguɗi ɗin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mbaawɗaa"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "limde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "koconguɗi ɗin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nyyu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wonoy"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "cale maa"
+    }
+  ],
+  "timestamp": "2026-09-14T04:36:51.888801558Z",
+  "model": "glm-5.3"
+}

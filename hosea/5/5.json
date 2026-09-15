@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Kadi ko jaabugol jaawal Israayiil o woni e hoore mun; Israayiil e Efrayim maa ɓe tuuboo e bakkaatuuji maɓɓe; Yahuuda kadi tuubaama e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ko jaabugol"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "jaawal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiil"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "e hoore mun"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israayiil"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "e Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "maa ɓe tuuboo"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "e bakkaatuuji maɓɓe"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "tuubaama"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "e maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:43.176755847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yaawe Sabaoth — ⟨את⟩ mo senaanndinon; kanko ko kulol mon, kanko ko tinol mon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Yaawe)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "senaanndinon"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "kulol mon"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "tinol mon"
+    }
+  ],
+  "timestamp": "2026-09-14T07:41:37.449608013Z",
+  "model": "glm-5.3"
+}

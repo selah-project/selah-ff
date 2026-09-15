@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe bonniti ⟨את⟩ pilla Baal, ɓe bonniti ⟨את⟩ suudu Baal, ɓe waɗiti ɗum nokku ɓuuɓnugol haa hannde.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Ɓe bonniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilla Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "pilla"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ɓe bonniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ɓe waɗiti ɗum"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "nokku ɓuuɓnugol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:19.737236466Z",
+  "model": "glm-5.3"
+}

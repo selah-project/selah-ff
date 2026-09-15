@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "ceŋondiral e njulaagu yahiɓe- njulaagu ɓee e njulaagu wujjooɓe- rokkooɓe ɓee, e kala laamɓe jillondirɓe ɓee e cukku laamɓe leydi ndii.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "ceŋondiral e"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "yahiɓe-njulaagu ɓee"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "e njulaagu"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "wujjooɓe-rokkooɓe ɓee"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jillondirɓe ɓee"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "e cukku laamɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:16:00.154635273Z",
+  "model": "glm-5.3"
+}

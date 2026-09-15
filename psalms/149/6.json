@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 149,
+  "translation": "Ɓe mawninta Eel e daande mun, e haafa ɗiɗo-faaɗo e junngo mun.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "mawninta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "e daande mun"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "e haafa"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ɗiɗo-faaɗo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e junngo mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:52:01.574900997Z",
+  "model": "glm-5.3"
+}

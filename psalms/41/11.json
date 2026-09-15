@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Kono A, Yaawe, hoɗnir am yurmeende, ummin am, ngam mi yoɓa ɓe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kono A"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hoɗnir am yurmeende"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "ummin am"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "mi yoɓa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:26.759691957Z",
+  "model": "glm-5.3"
+}

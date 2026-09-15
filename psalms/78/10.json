@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 78,
+  "translation": "Ɓe reennaani Ahdu Eloohim, e nder laawol Makko ɓe sali yahde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "reennaani"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ɓe reenni"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Ahdu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "e nder laawol Makko"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ɓe sali"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yahde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:34:47.398238363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Kamɓe ɓe ñemmi ɓe yani, kono minen min ummiimi, min darii duumii.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Kamɓe"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ɓe ñemmi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ɓe yani"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kono minen"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "min ummiimi"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "min darii duumii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:34.368164042Z",
+  "model": "glm-5.3"
+}

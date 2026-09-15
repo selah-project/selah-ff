@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Mawno mi hawri on ummiorgo leydi Misra, e suudu jeyaaɓe ɓen mi laatinii on; mi neldi yeeso maa ⟨את⟩ Muusaa, Haaruun e Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mawno"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "mi hawri on ummiorgo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "jeyaaɓe ɓen"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "mi laatinii on"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "mi neldi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Haaruun"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "e Miryam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:08:31.341826262Z",
+  "model": "glm-5.3"
+}

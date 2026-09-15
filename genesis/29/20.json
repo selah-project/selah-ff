@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Yaakob gollanii duuɓi jeegom e go'o fii Raael; ɗi teskimaaka e gite makko no balɗ ɗooɗɗe, sabu yiɗde mun ⟨את⟩ makko.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "gollanii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "fii Raael"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "jeegom e go'o"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɗi teskimaaka"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "e gite makko"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "no balɗ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ɗooɗɗe"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sabu yiɗde mun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "makko (Raael)"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:31.874134778Z",
+  "model": "glm-5.3"
+}

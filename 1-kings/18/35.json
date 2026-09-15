@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Ndiyam ɗam ɗooni sara jaɓɓe on, kadi ⟨את⟩ ɓuuɓol ngol o heewni ndiyam.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ɗonni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗam"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sara"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "jaɓɓe on"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓol ngol"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ɓuuɓol ngol"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o heewni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:22:55.655137325Z",
+  "model": "glm-5.3"
+}

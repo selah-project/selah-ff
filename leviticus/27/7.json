@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono si tawa ⟨o⟩ ⟨woni⟩ ɓiɗɗo duuɓi cappanɗe jeegom e toowɗe ɗum, si ⟨o⟩ ⟨woni⟩ gorɗo, ndeen ƴeewte maa nden wona sekel sappo e jowi, debbo on sekeluuji sappo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si tawa"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "cappanɗe jeegom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "e toowɗe ɗum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gorɗo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ndeen ... wona"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ƴeewte maa nden"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "sappo e"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "jowi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sekel"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sekeluuji"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:35.091521114Z",
+  "model": "glm-5.3"
+}

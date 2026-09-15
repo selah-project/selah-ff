@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O wuroore, o ɗooƴaaɗo; ñaawoore mun e teddungal mun ina ummoo e makko mun.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "wuroore"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "o ɗooƴaaðo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "e makko mun"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ñaawoore mun"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "e teddungal mun"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ina ummoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:09:34.642897759Z",
+  "model": "glm-5.3"
+}

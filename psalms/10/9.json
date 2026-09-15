@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wirnii e suuɗre, no lewru e ɗallu mun nguu, o wirnii ngam nanngude ŋakkaaɗo on; o nanngi ŋakkaaɗo on, tuma nde o ƴettata mo e rese mun.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "o wirnii"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "e suuɗre"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "no lewru nii"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "e ɗallu mun"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "o wirnii"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "ngam nanngude"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkaaɗo on"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "o nanngi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ŋakkaaɗo on"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "e ƴettugol mun"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "e rese mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:17:51.396111499Z",
+  "model": "glm-5.3"
+}

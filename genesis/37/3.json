@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Israaiila yiɗi ⟨את⟩ Yuusufa ɓuri ɓiɓɓe mun fuu, sabu ko ɓiy mawni gorko o woni fii mun; o feewni mun wuddere palliwaale.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Israaiila"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yiɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuusufa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yuusufa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ɓuri fuu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mawni gorko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o woni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fii mun"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "o feewni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "palliwaale"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:07.842740358Z",
+  "model": "glm-5.3"
+}

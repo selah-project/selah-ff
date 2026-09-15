@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Wata kadi a ƴeldo dow mbeda am e teendiraaji, fii wata nuɗɗude maa ɓennu dow mayre.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wata kadi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "a ƴeldo"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "e teendiraaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mbeda am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fii wata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ɓennu"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "nuɗɗude maa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:51.496037334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Ndaare, aayawre nde anndaa, maa nodda ⟨aayawre⟩, e aayawre nde anndaaki ma, ɗen maa dogo faade e ma, sabu Yaawe Eloohim maa, e Oorɗo Israya'el, sabu o paali maa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ndaare"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "aayawre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "maa nodda ⟨aayawre⟩"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "e aayawre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "anndaaki ma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "faade e ma"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ɗen maa dogo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "e Oorɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israya'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "o paali maa"
+    }
+  ],
+  "timestamp": "2026-09-14T18:56:02.838336137Z",
+  "model": "glm-5.3"
+}

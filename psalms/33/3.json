@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yimmitoree mo yimre hesere; moƴƴiniree piɗde e daande mawnde wurooru.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Yimmitoree"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yimre"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hesere"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "moƴƴiniree"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "piɗde"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "e daande mawnde wurooru"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:59.685804611Z",
+  "model": "glm-5.3"
+}

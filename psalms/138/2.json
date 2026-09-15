@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Mi sujjota fii suudu laamu maa seniinde ndun, mmi yettinta ⟨את⟩ innde maa sabu hesed maa e goonga maa; sabu maa ɓurtinii konngol maa nder fuu innde maa.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Mi sujjota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fii"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu laamu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "maa seniinde ndun"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "mmi yettinta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde maa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e sabu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "goonga maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "maa ɓurtinii"
+    },
+    {
+      "surface": "על",
+      "gloss": "nder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "konngol maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:29.745031667Z",
+  "model": "glm-5.3"
+}

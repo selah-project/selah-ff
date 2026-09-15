@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 98,
+  "translation": "Yaawe hollitii daɗndugal makko ngol; o udditii gooŋɗinikal makko ngol yeeso gilaaji ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "hollitii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "daɗndugal makko ngol"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "gilaaji ɗin"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "o udditii"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "gooŋɗinikal makko ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:08.236624107Z",
+  "model": "glm-5.3"
+}

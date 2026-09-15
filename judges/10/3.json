@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Caggal makko darii Yaa'iir Giladiyanke, o ñaawi ⟨את⟩ Israa'iil duuɓi noogas e ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "darii"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "caggal makko"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaa'iir"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladiyanke"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "o ñaawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "noogas"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:48.554178137Z",
+  "model": "glm-5.3"
+}

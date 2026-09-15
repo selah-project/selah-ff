@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "fii min nanngude ⟨את⟩ ɓiy leydi Israayiila e nder ɓernde maɓɓe, ɓe woɗɗitii am e giluluuli maɓɓe, maɓɓe fuu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fii min"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "nanngude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiy leydi Israayiila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ɓiy leydi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israayiila"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "e nder ɓernde maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "woɗɗitii"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "e giluluuli maɓɓe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "maɓɓe fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T08:40:26.835673978Z",
+  "model": "glm-5.3"
+}

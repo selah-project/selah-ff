@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Sukaaɓe mi wonnoo, mawniiɗo kadi mi wonti, kono mi yi'aayi neɗɗo ñaawɗo wacciingo, walla inne mum ina ɗaɓɓa ñameende.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "mi wonnoo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "mawniiɗo mi wonti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono... aayi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'aayi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "neɗɗo ñaawɗo"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "wacciingo"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "walla inne mum"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ina ɗaɓɓa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:06.833441025Z",
+  "model": "glm-5.3"
+}

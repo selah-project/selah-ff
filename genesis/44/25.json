@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Kadi baaba amen wi'i: “Artu, sooru min ñaametere seeɗa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kadi wi'i"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "baaba amen"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "artu"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sooru"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaametere"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:17.599091311Z",
+  "model": "glm-5.3"
+}

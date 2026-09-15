@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Kaalis mun o rotaako e ɓeydol njoɓdi, o jooɗortaako dosi ngam ñaawde laatiiɗo on; waɗoowo ɗee ɗoo, duwaay duwaako haa abada.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "kaalis mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rotaa"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "e ɓeydol njoɓdi"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "e dosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngam ñaawde"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "laatiiɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jooɗortoo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗoowo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee ɗoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "duwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "haa abada"
+    }
+  ],
+  "timestamp": "2026-09-14T12:37:51.128291900Z",
+  "model": "glm-5.3"
+}

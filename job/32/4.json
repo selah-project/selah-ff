@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Eliyahu kadi suunii ⟨את⟩ Iyyoob e konngi, sabu ɓe ɓuri mo mawnude e duuɓi.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Eliyahu kadi"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "suunii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyyoob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyyoob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "e konngi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɓuri mo"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "e duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:16:46.575441811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe jaɓaali wasiyaaje am; ɓe fuu cujkii ɗaɓɓitiral am.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ɓe jaɓaali"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "jaɓaali"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "wasiyaaje am"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ɓe cujkii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "ɗaɓɓitiral am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:04.982209295Z",
+  "model": "glm-5.3"
+}

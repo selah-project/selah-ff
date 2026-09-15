@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kush dañi ⟨את⟩ Nimrod; kanko woni fuɗɗiiɗo wonude doole e nder leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dañi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "החל",
+      "gloss": "fuɗɗiiɗo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "wonude"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "doole"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T10:52:26.315641635Z",
+  "model": "glm-5.3"
+}

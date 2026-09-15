@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 56,
+  "translation": "Ñalnde fuu ɓe pirii konngi am; kala peeje maɓɓe ko fii bonannde ⟨e am⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde fuu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi am"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ɓe pirii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "peeje maɓɓe"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "fii bonannde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:28:41.565174996Z",
+  "model": "glm-5.3"
+}

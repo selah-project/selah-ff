@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Pooɓe Senaah ɗen mahi ⟨את⟩ damal liɗe ɗen; kamɓe ɓe danndini ɗum, ɓe dariini dame mun, popeje mun e laawe mun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "damal liɗe ɗen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "damal"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "liɗe ɗen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mahi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pooɓe"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Senaah ɗen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ɓe danndini ɗum"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ɓe dariini"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "dame mun"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "popeje mun"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "laawe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T10:47:22.867995694Z",
+  "model": "glm-5.3"
+}

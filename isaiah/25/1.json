@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Yaawe, Eloohim am ko a; mii mawninirtaa ma, mii yettirta innde maa, sabo a waɗii ɗum nandinuɗum; cunci iwɗe e woɗɗude, goongɗinal, e goonga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "mii mawninirtaa ma"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "mii yettirta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "a waɗii"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "nandinuɗum"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "cunci"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "iwɗe e woɗɗude"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "goongɗinal"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "goonga"
+    }
+  ],
+  "timestamp": "2026-09-14T07:49:02.539375659Z",
+  "model": "glm-5.3"
+}

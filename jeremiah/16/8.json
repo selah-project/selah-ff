@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "E suudu ñaamdu mawningol kadi wata naatirtaa ngam jooɗaade ɓe ⟨את⟩, ngam ñaameede e ngam yarde.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ñaamdu mawningol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "naatirtaa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ngam jooɗaade"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "ɓe ⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngam ñaameede"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "e ngam yarde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:11:29.818303660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Leydi mun hebbii kadi naafooje; golle junɗe mun ene sujja, ko ɗum banɗe mun tagi.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "hebbii"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "leydi mun"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "naafooje"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "junɗe mun"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ene sujja"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tagi"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "banɗe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:53.943827114Z",
+  "model": "glm-5.3"
+}

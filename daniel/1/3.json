@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Laamɗo on wi'i Ashpenaz, ardo tummbi makko, ngaddude e nder ɓiɓɓe Israa'iil e e zurriyee laamu ngun e nder partamiiɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "e o wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "Ashpenaz"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ardo"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "tummbi makko"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngaddude"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e nder ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "e e zurriyee"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "laamu ngun"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "partamiiɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T10:33:18.314315141Z",
+  "model": "glm-5.3"
+}

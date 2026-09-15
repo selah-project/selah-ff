@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe ƴellitii ⟨את⟩ gaññooɓe Retson dow makko, e ⟨את⟩ ayɓiɓe makko o hawrini ɓe.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ƴellitii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaññooɓe Retson"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "gaññooɓe"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retson"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dow makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ayɓiɓe makko"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ayɓiɓe makko"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "o hawrini ɓe"
+    }
+  ],
+  "timestamp": "2026-09-15T07:50:22.301175691Z",
+  "model": "glm-5.3"
+}

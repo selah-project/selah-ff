@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "O yi'i ⟨את⟩ Amalek, o ƴetti potal makko, o wi'i: Amalek ko arannde leƴƴi ɗin, kono gasrus makko ko halkere duumiinde.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "potal makko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "arannde"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "gasrus makko"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "duumiinde"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "halkere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:45:44.485557387Z",
+  "model": "glm-5.3"
+}

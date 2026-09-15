@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 67,
+  "translation": "Yimɓe ɗen yetto Maa, Eloohim; yimɓe ɗen fuu yetto Maa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "yetto Maa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "yetto Maa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "yimɓe ɗen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "fuu ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:21.542784939Z",
+  "model": "glm-5.3"
+}

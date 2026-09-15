@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Misrayim enen torlaama, ɓe naatii ɓaawo maɓɓe — pucci Paroh fuu, kollirte makko e pucci-warɓe makko — haa e nder maayo ngoo.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "enen torlaama"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe naatii"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ɓaawo maɓɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "pucci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kollirte makko"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "e pucci-warɓe makko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הים",
+      "gloss": "maayo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:55.574684485Z",
+  "model": "glm-5.3"
+}

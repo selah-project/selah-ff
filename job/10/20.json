@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Wonnaa ko seeɗa ñalɗi am? Yo o dartu o accu mi, mi weltin seeɗa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wonnaa ko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi am"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "yo o dartu"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "o accu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "mi weltin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:46.183747513Z",
+  "model": "glm-5.3"
+}

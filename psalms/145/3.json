@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 145,
+  "translation": "Yaawe ko Mawnuɗo, yettinteeɗo no feewi, kadi mawnugol makko waawaa limteede.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ko Mawnuɗo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "yettinteeɗo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "kadi mawnugol makko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "limteede"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:55.070570211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Nde a ari ton, ƴeewto ton Yehu ɓiɗɗo Yehoshafat ɓiɗɗo Nimshi; aroya mo e hakkunde miñiraaɓe makko ɓen, naatna ⟨את⟩ mo suudu nder suudu.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "nde a ari"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ƴeewto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "a aroya"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe makko"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "naatna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "nder suudu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:30:03.569689506Z",
+  "model": "glm-5.3"
+}

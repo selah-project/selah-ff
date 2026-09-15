@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Mo laaɓtinaaɗo, tawi omo jogii gollo, ɓuri mo teddinɗo hoore mun, mo ŋakkuna ñaamdu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "laaɓtinaaɗo"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "tawi omo jogii gollo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "mo teddinɗo hoore mun"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "mo ŋakkuna"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamdu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:55:46.698989519Z",
+  "model": "glm-5.3"
+}

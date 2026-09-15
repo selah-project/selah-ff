@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Laamɗo on artii, o ari haa Yarduuden; Yahuuda kadi ari Gilgala ngam yahde faade e laamɗo on, ngamaddude addude ⟨את⟩ laamɗo on wa'ɗde ⟨את⟩ Yarduuden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "artii"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduuden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yahuuda kadi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ngam yahde"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ngamaddude addude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarduuden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarduuden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:05:23.530331133Z",
+  "model": "glm-5.3"
+}

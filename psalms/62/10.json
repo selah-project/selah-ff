@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 62,
+  "translation": "Hay ko meere tan woni e ɓiɓɓe aadam; fenaande woni e ɓiɓɓe worɓe; e palate so ɗaaƴtaa, kamɓe ƴaɓɓoo, e meere woni gootel ɓuri meere famɗude.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Hay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "meere tan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "fenaande"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "e palate"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ƴaɓɓoode"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "e meere woni"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "gootel\/rennduɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:31:01.457743200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Lekki ɗin ɗo binndata ko winndi e maɓɓe, laatore e junngo maa ngoo, yeeso gite maɓɓe.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "laatore"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "Lekki ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "binndata"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ko winndi e maɓɓe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa ngoo"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "yeeso gite maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:51:04.141097181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 49,
+  "translation": "Kadi ɓiɓɓe aadam, kadi ɓiɓɓe gorko; hundeo — alɗuɗo e ŋakkuyɗo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hundeo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "alɗuɗo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "e ŋakkuyɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:27:53.008266797Z",
+  "model": "glm-5.3"
+}

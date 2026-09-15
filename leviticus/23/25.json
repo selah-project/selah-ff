@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kala golle sarwinoore walaa mbaɗton; ɗen ɓadtinon sadaka yiite to Yaawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "golle"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "sarwinoore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "mbaɗton"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "ɗen ɓadtinon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sadaka yiite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:29.066794424Z",
+  "model": "glm-5.3"
+}

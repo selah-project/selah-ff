@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Si mi noddi mo o jaabii mi, kadi mi goongɗinaa wonde o nano daande am.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "mi noddi"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "o jaabii mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "mi goongɗinaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "o nano"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "daande am"
+    }
+  ],
+  "timestamp": "2026-09-14T10:08:28.448043245Z",
+  "model": "glm-5.3"
+}

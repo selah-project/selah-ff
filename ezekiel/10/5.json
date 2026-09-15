@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 10:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Daande baali kerub'en ɗen nanaa haa ñaawirdu yaajere nden, no daande Eel Shadday nii tuma o wolli.",
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "Daande"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "baali"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerub'en ɗen"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nanaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ñaawirdu nden"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "yaajere nden"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "no daande nii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "tuma o wolli"
+    }
+  ],
+  "timestamp": "2026-09-14T08:37:27.243659254Z",
+  "model": "glm-5.3"
+}

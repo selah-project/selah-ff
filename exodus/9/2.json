@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Sabu tawa a yedda dewinirde ɓe, a jokki hoftude ɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu tawa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "dewinirde ɓe"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "a jokki"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "hoftude"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:18.051066892Z",
+  "model": "glm-5.3"
+}

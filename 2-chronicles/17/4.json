@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "sabu o ɗaɓɓii Eloohim baaba mun, o yahiima e nder laylaytagol makko, wanaa no waɗooje Israa'iil nii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "o ɗaɓɓii"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "e nder laylaytagol makko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "o yahiima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "no waɗooje ... nii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:15:08.248051770Z",
+  "model": "glm-5.3"
+}

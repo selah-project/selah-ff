@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "On jooɗiiɗo e kammuuli ɗen mo'oyi; Adonaay je'oya ɓe.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "On jooɗiiɗo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "e kammuuli ɗen"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "mo'oyi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "je'oya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:56.478854549Z",
+  "model": "glm-5.3"
+}

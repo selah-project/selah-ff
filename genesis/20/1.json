@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Abrahamama yahi toon, o fayi faade leydi Negev, o jooɗii hakkunde Kadesh e hakkunde Shur, o hoɗnoo e Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "o fayi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "toon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamama"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "faade leydi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o jooɗii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkunde"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "o hoɗnoo"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "e Gerar"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:21.846954966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Yettunde woodanii neɗɗo mo sembe mun woni e maa; laawolji ɓadti nder ɓernde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "yettunde woodanii"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "sembe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "laawolji"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "nder ɓernde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.289399896Z",
+  "model": "glm-5.3"
+}

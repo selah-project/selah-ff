@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ko nayo mi wartii, mi feewii e ɗee ñalnde ɗen waɗde moƴƴere e ⟨את⟩ Yerushalayim e e ⟨את⟩ galle Yuuda: wata on kul.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ko nayo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mi wartii"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "mi feewii"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e đee ñalnde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "đen"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "wađde moƴƴere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "galle Yuuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "on kul"
+    }
+  ],
+  "timestamp": "2026-09-14T09:13:37.440370416Z",
+  "model": "glm-5.3"
+}

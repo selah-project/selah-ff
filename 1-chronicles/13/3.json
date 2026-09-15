@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Min addire ⟨את⟩ sanne Eloohim men faade e amen; sabu min ɗaɓɓaani ɗum e ñalɗi Sha'uwl.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "min addire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanne Eloohim men"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanne"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim men"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "faade e amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "min ɗaɓɓaani ɗum"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "e ñalɗi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uwl"
+    }
+  ],
+  "timestamp": "2026-09-14T10:59:30.307422904Z",
+  "model": "glm-5.3"
+}

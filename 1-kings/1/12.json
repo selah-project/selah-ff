@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nden wonii, aru, miŋ wasiyu maa, tono, wasiyaande, ngam wallitde ⟨את⟩ nguurndam maa e ⟨את⟩ nguurndam ɓiɗɗo maa Selomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Nden wonii"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "aru"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "miŋ wasiyu maa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tono"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "wasiyaande"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ngam wallitde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam maa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguurndam maa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nguurndam ɓiɗɗo maa Selomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nguurndam"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ɓiɗɗo maa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:04:41.716681039Z",
+  "model": "glm-5.3"
+}

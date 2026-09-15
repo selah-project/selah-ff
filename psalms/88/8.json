@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 88,
+  "translation": "E am darniima daande maa, e kala mbuuɗi maa a muusni mi. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "darniima"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "daande maa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mbuuɗi maa"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "a muusni mi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:15.542285512Z",
+  "model": "glm-5.3"
+}

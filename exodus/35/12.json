@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "⟨את⟩ sanne nden e ⟨את⟩ loope mun, ⟨את⟩ sarɗiire waasirgel nden e ⟨את⟩ parda paltoore nden.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanne nden"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanne nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "loope mun"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "loope mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarɗiire waasirgel nden"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sarɗiire waasirgel nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "parda paltoore nden"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "paltoore nden"
+    }
+  ],
+  "timestamp": "2026-09-14T05:10:36.314477033Z",
+  "model": "glm-5.3"
+}

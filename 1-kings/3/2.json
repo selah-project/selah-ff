@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Tan yimɓe ɓen ndarna sadak e bamaji, sabu walaa galle mahaa fii Innde Yaawe haa ñalawe ɗen.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ɓe ndarna sadak"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "e bamaji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "mahaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "fii Innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ñalawe"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:11:24.344734898Z",
+  "model": "glm-5.3"
+}

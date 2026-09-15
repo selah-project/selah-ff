@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Mosheh winndi ⟨את⟩ konngi Yaawe ɗin fow; o ummii subaka, o mahi arabu les tulde nden, e junngoje ɗee sappo e ɗiɗi fii ñaawirɗe sappo e ɗiɗi leƴƴi Yuusraelen.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "winndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Yaawe ɗin fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "o ummii subaka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "arabu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tulde nden"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "junngoje"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "fii sappo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "e ɗiɗi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yuusraelen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:05:04.793869302Z",
+  "model": "glm-5.3"
+}

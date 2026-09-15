@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 66,
+  "translation": "Aruɗee, naneede, ƴaaɓooɓe Eloohim fuu, mi winnditana on ko o waɗi ngam neffu am.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "aruɗee"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "naneede"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "e ... mi winnditana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ƴaaɓooɓe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko ... ngam"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "neffu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:30:56.029338044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 32:33",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Sabu ɗum ɓiɓɓe Israa'iil ɓe ñaamataa giɗol ɗol wirnii ɗol woni e ɓalal kawral ngal, haa ñalawma hannde ngal, sabu o memi ɓalal kawral Ya'aqub e giɗol ɗol wirnii ɗol ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ñaamataa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giɗol ɗol wirnii"
+    },
+    {
+      "surface": "גיד",
+      "gloss": "giɗol"
+    },
+    {
+      "surface": "הנשה",
+      "gloss": "ɗol wirnii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗol woni"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ɓalal"
+    },
+    {
+      "surface": "הירך",
+      "gloss": "kawral ngal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde ngal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "o memi"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "e ɓalal"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqub"
+    },
+    {
+      "surface": "בגיד",
+      "gloss": "e giɗol"
+    },
+    {
+      "surface": "הנשה",
+      "gloss": "ɗol wirnii ɗol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:44:42.715417318Z",
+  "model": "glm-5.3"
+}

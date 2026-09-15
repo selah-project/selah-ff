@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "O rempi, o danyi ɓiɗɗo gorko, o wi'i: \"Eloohim mooƴii ⟨את⟩ hoyre am.\"",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "o rempi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o danyi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "mooƴii"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoyre am"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hoyre am"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:54.938755680Z",
+  "model": "glm-5.3"
+}

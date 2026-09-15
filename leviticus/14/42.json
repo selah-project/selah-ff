@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓe njogit koode goɗɗe, ɓe ndarni ɗe les koode ɗen; o jogit ɓoroyre woɗnde, o daddilit ⟨את⟩ suudu ndun.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ɓe njogit"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "koode"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "goɗɗe"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ɓe ndarni ɗe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "feere"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "koode ɗen"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "e ɓoroyre"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "woɗnde"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o jogit"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "o daddilit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ndun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "suudu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:23:35.985839245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 107,
+  "translation": "Wumbuɓɓe sabu laawol muurtuki mun, e sabu bonɗi mun ɓe muñi.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "wumbuɓɓe"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "sabu laawol"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "muurtuki mun"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "e sabu bonɗi mun"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ɓe muñi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:43:16.716083949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Hollu hesed maa keeringol, hisnu ɓe suuɗi e maa e junngo maa ñaamo, ummitooɓe ɓe.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "hollu keeringol"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "hisnu"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ɓe suuɗi e maa"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "ummitooɓe ɓe"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "e junngo maa ñaamo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:48.876543539Z",
+  "model": "glm-5.3"
+}

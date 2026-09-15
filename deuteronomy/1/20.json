@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Mi wi'i on: on arii haa tulde Amor en, nde Yaawe Eloohim amen hokkata min.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "on arii"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tulde"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amor en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hokkata"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T05:53:24.333485101Z",
+  "model": "glm-5.3"
+}

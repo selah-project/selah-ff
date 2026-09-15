@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Debbo ɗo gorko wonnira ⟨את⟩ mo liiɗu zinnde, ɓe lanoɓe ɗiɗo e ndiyam, ɓe ngonana heewa haa jamma.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Debbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "wonnira"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (debbo on)"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "liiɗu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zinnde"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ɓe lanoɓe ɗiɗo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ɓe ngonana heewa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "jamma"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:58.960468135Z",
+  "model": "glm-5.3"
+}

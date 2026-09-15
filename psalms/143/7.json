@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 143,
+  "translation": "Yaawu, jaabu mi, jawe Yaawe; ruuhu am ina gasa; wata a suuɗu wajah maa am; wanaa mi nanndi e ɓen naatuɓe e ɓuuɓnorgo ngoo.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "yaawu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaabu mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "jawe Yaawe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ina gasa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "a suuɗu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wajah maa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "am"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "wanaa mi nanndi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ɓen naatuɓe e"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ɓuuɓnorgo ngoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:46.163892692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yi'i, ɓiɓɓe Kehat ɗin ndaarii, ɓe nawata ɗaɓɓirdu ndun, ɓe ngartina ⟨את⟩ sundu uddirdu ndun haa ɓe ari.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ɓe ndaarii"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ɓiɓɓe Kehat ɗin"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ɓe nawata"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ɗaɓɓirdu ndun"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ɓe ngartira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sundu uddirdu ndun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sundu uddirdu ndun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ɓe ari"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:35.111820289Z",
+  "model": "glm-5.3"
+}

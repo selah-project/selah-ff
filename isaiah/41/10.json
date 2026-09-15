@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 41,
+  "translation": "Wata a kul, sabu miɗo woni e maa; wata a yiylo, sabu mi ko Eloohim maa; mi semtinii-maa, kadi mi wallii-maa, kadi mi deentinii-maa e junngo ñaamo laaɓal am.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a kul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "a yiylo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "mi semtinii-maa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "mi wallii-maa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "mi deentinii-maa"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "e junngo ñaamo"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "laaɓal am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:55:04.416579130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ko e lewru wumru, e ɗemngal goɗngal, O haalanɗa yimɓe ɓee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "e lewru wumru"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "e ɗemngal"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "goɗngal"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "O haalanɗa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɓee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:48:46.918730114Z",
+  "model": "glm-5.3"
+}

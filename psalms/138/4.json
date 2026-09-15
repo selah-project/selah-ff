@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 138,
+  "translation": "Ƴeewnta maa, Yaawe, laamɓe leydi ndin fuu; sabu ɓe nanii konngi hunre maa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ƴeewnta maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ɓe nanii"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "hunre maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:50:29.745309831Z",
+  "model": "glm-5.3"
+}

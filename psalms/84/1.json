@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 84,
+  "translation": "Fii yo'oowo on, dow laawol Gittit — fii ɓiɓɓe Korach — mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fii yo'oowo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "laawol Gittit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-14T09:38:40.727216468Z",
+  "model": "glm-5.3"
+}

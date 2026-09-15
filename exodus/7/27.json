@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono so a muñii na woori, nde ymin — min mbaray ⟨את⟩ keeri maa den fuu e baaliiji.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono so"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "muñii na woori"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "woori accude"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nde ymin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "min"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mbaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keeri maa den fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "keeri maa den"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "e baaliiji"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:47.899050730Z",
+  "model": "glm-5.3"
+}

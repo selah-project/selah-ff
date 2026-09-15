@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "E muuyal ngal yeeso makko donguuli makko njahii, emboore e kulorol yiite.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "E muuyal ngal"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "yeeso makko"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "donguuli makko"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "njahii"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "emboore"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "e kulorol"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:57.519918455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Gite am mbaɗii ɓuuɓde e tikkere; ɗe ɓooyii sabu gaññeeɓe am fuu.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "mbaɗii ɓuuɓde"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "e tikkere"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ɗe ɓooyii"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sabu ... fuu"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "gaññeeɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:26.913279765Z",
+  "model": "glm-5.3"
+}

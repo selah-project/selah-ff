@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Hakkilinal ko ngal moƴƴi no ndonaandi nii, kadi ngal ko faayida wonande ɓe yi'otooɓe naange nden.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hakkilinal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no ... nii"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ndonaandi"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "faayida"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "wonande ɓe yi'otooɓe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange nden"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:41.505715778Z",
+  "model": "glm-5.3"
+}

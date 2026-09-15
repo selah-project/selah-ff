@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Aharon e ɓiɓɓe mun mbooysay ɗum, ⟨את⟩ juuɗe maɓɓe e ⟨את⟩ koyɗe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "mbooysay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "e ɓiɓɓe mun"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe maɓɓe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "juuɗe maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "koyɗe maɓɓe"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "koyɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:37.314963062Z",
+  "model": "glm-5.3"
+}

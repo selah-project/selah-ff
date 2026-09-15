@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "Kono ayɓe am ina nguurdu, ɓe ɓeydii semmbe; ɓe njiɗɗo min e fenaande ɓe keewii.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "kono ayɓe am"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ina nguurdu"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ɓe ɓeydii semmbe"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ɓe keewii"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ɓe njiɗɗo min"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "e fenaande"
+    }
+  ],
+  "timestamp": "2026-09-14T09:25:39.503291180Z",
+  "model": "glm-5.3"
+}

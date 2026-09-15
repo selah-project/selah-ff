@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Achiimaa'as kadi feeñini ⟨את⟩ Azarjaah, Azarjaah kadi feeñini ⟨את⟩ Yooxanan;",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Achiimaa'as kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "feeñini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjaah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjaah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarjaah kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "feeñini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yooxanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yooxanan"
+    }
+  ],
+  "timestamp": "2026-09-14T10:53:58.408949512Z",
+  "model": "glm-5.3"
+}

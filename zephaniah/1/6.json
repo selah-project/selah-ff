@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "E ⟨את⟩ ɓe ruttooɓe ɓaawo Yaawe, e ɓe ɗaɓɓaani ⟨את⟩ Yaawe, ɓe ɗañaali mo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe ruttooɓe"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ɓe ruttooɓe"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ɓe ɗaɓɓaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "ɓe ɗañaali mo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:12.076996Z",
+  "model": "glm-5.3"
+}

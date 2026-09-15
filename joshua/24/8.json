@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Mi addi ⟨את⟩ on to leydi Emorinaaɓe hoɗɓe daande maayo Yarden, ɓe ndefti ⟨את⟩ on; min ndokki ɓe e junuute ⟨את⟩ mon, on keñi ⟨את⟩ leydi maɓɓe, min momti ɓe yeeso mon.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "mi addi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorinaaɓe"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "daande maayo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ɓe ndefti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "min ndokki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "e junuute mon"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "on keñi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi maɓɓe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "leydi maɓɓe"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "min momti ɓe"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yeeso mon"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:32.420512944Z",
+  "model": "glm-5.3"
+}

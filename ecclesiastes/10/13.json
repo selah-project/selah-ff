@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Fuɗɗoode konngi daande makko ko ahu; kadi jeeyngere daande makko ⟨ko⟩ weltaaru bonndu.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "fuɗɗoode"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ahu"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "kadi jeeyngere"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "daande makko"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "weltaaru"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonndu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:27:49.982855680Z",
+  "model": "glm-5.3"
+}

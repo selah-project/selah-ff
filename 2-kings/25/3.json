@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "E ñalnde njeenaayo lewru ndun, heedu nguu tiiɗi e ngordi ndun, kono ⟨alaa⟩ ñameende woodi fii yimɓe leydi ndin.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "e ñalnde njeenaayo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lewru ndun"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "tiiɗi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "heedu nguu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e ngordi ndun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono alaa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fii yimɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T07:40:29.150222078Z",
+  "model": "glm-5.3"
+}

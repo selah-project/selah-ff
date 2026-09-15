@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Gite am ɗi mbalkiti fii cellal maa e fii konngol puku maa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "gite am"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ɗi mbalkiti"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "fii cellal maa"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "e fii konngol"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "puku maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:11.161307518Z",
+  "model": "glm-5.3"
+}

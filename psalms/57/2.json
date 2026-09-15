@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 57,
+  "translation": "Yurmino am, Eloohim, yurmino am; sabu e maaɗa nguurndam am hoolii, e nder julle jaaƴe maaɗa mi hooloto, haa musibbaaji ɗen njahata.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "yurmino am"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "yurmino am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "hoolii"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "e nder julle"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "jaaƴe maaɗa"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mi hooloto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "njahata"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "musibbaaji ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:37.311231531Z",
+  "model": "glm-5.3"
+}

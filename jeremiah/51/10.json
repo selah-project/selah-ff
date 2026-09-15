@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Yaawe addii yaltinde ⟨את⟩ gootuŋku amen; njottu, min winnditoo e Siyon ⟨את⟩ golle Yaawe Eloohim amen.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "addii yaltinde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gootuŋku amen"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "gootuŋku amen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "njottu"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "min winnditoo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "e Siyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "golle"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:40.586028797Z",
+  "model": "glm-5.3"
+}

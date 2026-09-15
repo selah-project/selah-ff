@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Muusaa ñeñi ⟨את⟩ juɗe mun dow kammuuli ɗin, nde woni niɓɓere ɓuuɓnde e leydi Misrayim fuu, balɗe tati.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ñeñi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muusaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juđe mun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "juđe mun"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nde woni"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "niɓɓere"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ɓuuɓnde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e…fuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balđe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:59.294347746Z",
+  "model": "glm-5.3"
+}

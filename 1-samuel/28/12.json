@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Debbo on yi'i ⟨את⟩ Shemuwel, o ceci daande mawnde; debbo on wi'i Shaa'ool, wiyde: Ko fii aɗa fena mi? Kono aɗa ko Shaa'ool!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuwel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuwel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "o ceci"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Shaa'ool"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ool"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko fii"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "aɗa fena mi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono aɗa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaa'ool"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:17.692583155Z",
+  "model": "glm-5.3"
+}

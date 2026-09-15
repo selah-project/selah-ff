@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko wakkati wonii fii onon onon hoɗde e cuuɗi mon paɗaaɗi, tion suudu nduu ena heddii e enngu?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "ko wakkati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onon"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hoɗde"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "e cuuɗi mon"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "paɗaaɗi"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "tion suudu nduu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ena enngu"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:16.682690434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kadi ɓiɗɗo jeyaaɗo debbo jiyaaɗo on — ⟨את⟩ — mbaray min mo leñol, sabu ko o prisca maa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo jeyaaɗo debbo jiyaaɗo on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "jeyaaɗo debbo jiyaaɗo on"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "mbaray min mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "prisca maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    }
+  ],
+  "timestamp": "2026-09-14T04:40:26.413027596Z",
+  "model": "glm-5.3"
+}

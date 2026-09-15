@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ko waɗi paabi ɓenni mi? Ko honno paaɗe nden, nden min ɲamoo?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Ko waɗi"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "paabi ɓenni mi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "paabi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ko honno"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "paaɗe nden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nden"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "min ɲamoo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:05:39.412578459Z",
+  "model": "glm-5.3"
+}

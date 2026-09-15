@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Wi'uɗo baaba mum e yumma mum: mi yi'aali mo; ɓe mawni mun ⟨את⟩ mi anndaa; e ɓiɗɗo mun ⟨את⟩ mi anndaali; sabu ɓe ndeeni konngol maa, e kuudol maa ɓe ndeenay.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "wi'uɗo"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "baaba mum"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "e yumma mum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "mi yi'aali mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe mawni mun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ɓe mawni mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mi anndaali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ɓe ndeeni"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "konngol maa"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "e kuudol maa"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ɓe ndeenay"
+    }
+  ],
+  "timestamp": "2026-09-14T06:06:52.933047228Z",
+  "model": "glm-5.3"
+}

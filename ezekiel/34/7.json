@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Sabu fii ɗum, warɓe ɓee, nanee konngol Yaawe ngol ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu fii ɗum"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "warɓe ɓee"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nanee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-15T09:08:58.710541301Z",
+  "model": "glm-5.3"
+}

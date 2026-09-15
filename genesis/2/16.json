@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yaawe Eloohim tamyini neɗɗo on wiyude: “E lekki kala e jarne ngene ñaam, aɗa ñaamata.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "tamyini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "jarne ngene"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaam"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "aɗa ñaamata"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:17.587411449Z",
+  "model": "glm-5.3"
+}

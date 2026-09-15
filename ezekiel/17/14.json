@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "fii laamu nguu laataake leslesru, wanaa tuude hoore mun, reftude ⟨את⟩ kiita mun fii darde.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "fii laataade"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "leslesru"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "tuude hoore"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "reftude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiita mun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kiita mun"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "fii darde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:41:12.828753678Z",
+  "model": "glm-5.3"
+}

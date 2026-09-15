@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɓe njahi ngam naatde Misrayim, e ɓe naamnaaki ⟨e⟩ hoore-am; ngam heɓde guurnde e nder guurnde Par'oh, e ngam suuɗde e nder jeyngol Misrayim.",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ngam naatde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "e hoore-am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe naamnaaki"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "naamde"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "ngam heɓde guurnde"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "e nder guurnde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par'oh"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "e ngam suuɗde"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "e nder jeyngol"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-15T09:10:06.091387959Z",
+  "model": "glm-5.3"
+}

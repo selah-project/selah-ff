@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 110,
+  "translation": "Yimɓe maa ko dokkal jaɓɓorgal e ñalnde doole maa, e mbaawkaaji cellal; huɗo reedu subaka, dewal cukaagu maa ko fii maa.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "dokkal jaɓɓorgal"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "doole maa"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "e mbaawkaaji"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "cellal"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "huɗo reedu"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii maa"
+    },
+    {
+      "surface": "טל",
+      "gloss": "dewal"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "cukaagu maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:45.859247712Z",
+  "model": "glm-5.3"
+}

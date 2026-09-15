@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Waɗan ⟨את⟩ paɗe ɗen leɗɗe aasiya; ñëlir-ɗaa ⟨את⟩ ɗi njamɗam, maa ummitine heen ⟨את⟩ leeso ngal.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paɗe ɗen"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "paɗe ɗen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "aasiya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ñëlir-ɗaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɗi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "njamɗam"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "maa ummitine"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leeso ngal"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "leeso ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T05:06:08.039213262Z",
+  "model": "glm-5.3"
+}

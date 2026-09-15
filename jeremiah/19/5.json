@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Ɓe mahi ⟨את⟩ diiɗe Baal ngam ɓurnde ⟨את⟩ ɓiɓɓe maɓɓe e yiite, cognuɗi Baal — ɗum mi yamiraani, mi haalaani, ɗium naataani e ɓernde am.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ɓe mahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diiɗe"
+    },
+    {
+      "surface": "במות",
+      "gloss": "diiɗe"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "ngam ɓurnde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "cognuɗi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi yamiraani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mi haalaani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi wanaa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "naataani"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ɓernde am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:14:51.554117515Z",
+  "model": "glm-5.3"
+}

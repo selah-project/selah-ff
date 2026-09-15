@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɓe meeɗu ɓe tuuye ɓe njiyli nguurndam am; ɓe rutto caggal ɓe suure ɓe peewnitori bonannde am.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ɓe meeɗu"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ɓe tuuye"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ɓe njiyli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ɓe rutto"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ɓe suure"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ɓe peewnitori"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bonannde am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:20.857346869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Nde balɗe sappo duuɗi, Yaawe fiyi ⟨את⟩ Nabal, o maayi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T11:59:03.966938449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Golloraaɓe Shaawul ɗen mbi'i mo: Ɗoo, tawo ruuhu Eloohim bonndu n tinndina ma.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mbi'i"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Golloraaɓe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaawul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bonndu"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "tinndina ma"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:25.532240795Z",
+  "model": "glm-5.3"
+}

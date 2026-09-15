@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "A dottay ⟨añalnde⟩ ñalnde, kadi nabiyaa dottay maa jemma; mmi mbonay yumma maa.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "a dottay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "dottay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabiyaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "maa e"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "e mmi mbonay"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:34.934558045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Nimidgu debbo e ɓiɗɗo mun debbo, a nida hay; ⟨את⟩ ɓiɗɗo ɓiɗɗo mun gorko e ⟨את⟩ ɓiɗɗo ɓiɗɗo mun debbo a ƴetta hay, fii nidaade nimidgu mun; ko ɓe ƴiiɓe ɓeddi mun; wonii bonnuuri.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nimidgu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "e ɓiɗɗo mun debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a nida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɗɗo ɓiɗɗo mun gorko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ɓiɗɗo mun gorko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɗɗo ɓiɗɗo mun debbo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "ɓiɗɗo mun debbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hay"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a ƴetta"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "fii nidaade"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "nimidgu mun"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ƴiiɓe ɓeddi mun"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ko ɓe"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bonnuuri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wonii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:26:06.899564261Z",
+  "model": "glm-5.3"
+}

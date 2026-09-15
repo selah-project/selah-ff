@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 119,
+  "translation": "Rimɗe maa ɗen aru am, nde mi wuuro; bana Tora maa woni weltaare am.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "aru am"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rimɗe maa ɗen"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "nde mi wuuro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora maa"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "weltaare am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:47:22.088583114Z",
+  "model": "glm-5.3"
+}

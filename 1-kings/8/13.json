@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Mahde mahi-mi galle, zevel maa, nokku jooɗaare maa duumiide.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "mahde"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mahi-mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zevel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nokku jooɗaare"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "jooɗaare maa"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "duumiide"
+    }
+  ],
+  "timestamp": "2026-09-14T07:15:37.262059588Z",
+  "model": "glm-5.3"
+}

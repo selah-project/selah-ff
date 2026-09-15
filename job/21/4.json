@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Mi wi'ata ko, haala am ko ⟨fii⟩ neɗɗo? walla ko fii hono ruuhu am wanaa juuta?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "Mi wi'ata ko"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "⟨fii⟩ neɗɗo"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "haala am"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "walla"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko fii hono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "juuta"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    }
+  ],
+  "timestamp": "2026-09-14T12:53:19.831154931Z",
+  "model": "glm-5.3"
+}

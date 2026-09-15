@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Doyo ngal-haala, yo ɓe tuuroo e ɓe kuloy ruuhuam maayde; ɓe ɗaɓɓa ngam momtude nde, yo ɓe rutto ɓaawo, yo ɓe tuuroo ɓeɗɗoɓe bone am.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "yo ɓe tuuroo"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "e ɓe kuloy ruuhu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ngal-haala"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ɓe ɗaɓɓa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ruuhuam maayde"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "ngam momtude nde"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "yo ɓe rutto"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "yo ɓe tuuroo (yuɓɓitorde)"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ɓeɗɗoɓe"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bone am"
+    }
+  ],
+  "timestamp": "2026-09-15T07:51:09.898858759Z",
+  "model": "glm-5.3"
+}

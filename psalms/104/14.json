@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 104,
+  "translation": "O waɗa yaltude huɗo fii na'i ɗen, e puɗe fii golle aadan, ngam yaltinde ñamre ummoraade leydi ndin.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "O waɗa yaltude"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "huɗo"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "fii na'i ɗen"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "e puɗe"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "fii golle"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "aadan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngam yaltinde"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñamre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:47.015370147Z",
+  "model": "glm-5.3"
+}

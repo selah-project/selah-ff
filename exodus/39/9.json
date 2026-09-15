@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Wuru nayjeyngal ⟨woni⟩; ɗi mbaɗi ⟨את⟩ ƴi'e nden ɗiɗi-leytaaɗe; gerat ⟨e⟩ njuuteendi mun, e gerat ⟨e⟩ faamu mun, ɗiɗi-leytaande.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "wuru nayjeyngal"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woni"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ɗiɗi-leytaaɗe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɗi mbaɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e nden"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ƴi'e nden"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "gerat"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "njuuteendi mun"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "e gerat"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "faamu mun"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ɗiɗi-leytaande"
+    }
+  ],
+  "timestamp": "2026-09-15T05:42:31.650854794Z",
+  "model": "glm-5.3"
+}

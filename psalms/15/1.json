@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Mizmor fii Daawuda. Yaawe, hommbo hoŋkata e teddere maa? Hommbo jooɗata e dewal senaande maa?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "fii Daawuda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "hoŋkata"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "e teddere maa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "jooɗata"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e dewal"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "senaande maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:19:17.833983810Z",
+  "model": "glm-5.3"
+}

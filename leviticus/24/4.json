@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "E dow menora laaɓnde nden o yewin ⟨את⟩ laylayoji ɗin, yeeso Yaawe, duumii.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "E dow"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora nden"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "laaɓnde"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "o yewin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laylayoji ɗin"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "laylayoji ɗin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "duumii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:00.483142511Z",
+  "model": "glm-5.3"
+}

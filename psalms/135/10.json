@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Oo fiyi leƴƴi keewɗi, o wara laamɓe ɓurɓe doole.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "oo fiyi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗi"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "o wara"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ɓurɓe doole"
+    }
+  ],
+  "timestamp": "2026-09-14T12:46:04.157749932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O faccini ⟨את⟩ suudu toowndu Penuwel, o wari ⟨את⟩ worɓe dewo ngol.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu toowndu"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "suudu toowndu"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuwel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "faccini"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "o wari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe dewo ngol"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dewo ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T06:28:02.186928149Z",
+  "model": "glm-5.3"
+}

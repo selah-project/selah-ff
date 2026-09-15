@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Yaawe laataake towru wonande canduɓe ɓen, towru wonande jamaaji jekkituɗi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "laataake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "towru"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "wonande canduɓe ɓen"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "towru"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "wonande jamaaji"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "jekkituɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:43.736683163Z",
+  "model": "glm-5.3"
+}

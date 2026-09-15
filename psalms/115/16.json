@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 115,
+  "translation": "Kammuuli ɗin — kammuuli — ko Yaawe jeyi ⟨en⟩; leydi ndin ⟨o⟩ rokkii ɓi Aadama.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ko Yaawe jeyi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "rokkii"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ɓi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Aadama"
+    }
+  ],
+  "timestamp": "2026-09-14T09:44:56.651836932Z",
+  "model": "glm-5.3"
+}

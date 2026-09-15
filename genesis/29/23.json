@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Nde jamma-ecfalki woɗɗii, o (Laban) ƴetti ⟨את⟩ Lea ɓiɗɗo debbo makko, o naatni ⟨את⟩ mo faade e makko (Jaakob); o naati e makko (Lea).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde ... woɗɗii"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ecfalki"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea ɓiɗɗo debbo makko"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ɓiɗɗo debbo makko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naatni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "faade e makko (Jaakob)"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e makko (Lea)"
+    }
+  ],
+  "timestamp": "2026-09-14T04:42:52.959407930Z",
+  "model": "glm-5.3"
+}

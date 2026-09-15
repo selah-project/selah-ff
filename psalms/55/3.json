@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 55,
+  "translation": "Noppiɲo lam, jaabam lam; mi yoorii e haala am, mi mooyii.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Noppiɲo lam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "jaabam lam"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "mi yoorii"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "e haala am"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "mi mooyii"
+    }
+  ],
+  "timestamp": "2026-09-14T09:29:53.951048967Z",
+  "model": "glm-5.3"
+}

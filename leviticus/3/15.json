@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "E ⟨את⟩ ƴiye ɗiɗi ɗen, e ⟨את⟩ duume woolde woni dow majje, dow catarraaji ɗin, e ⟨את⟩ ɓuuɓri ndi dow heedu ndu — dow ƴiye ɗen o itta ɗum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ƴiye ɗiɗi ɗen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ƴiye ɗen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "duume nden"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "duume nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woolde"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "dow majje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woolde"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "catarraaji ɗin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓuuɓri ndi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ɓuuɓri ndi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "heedu ndu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ƴiye ɗen"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "o itta ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T05:16:28.625013096Z",
+  "model": "glm-5.3"
+}

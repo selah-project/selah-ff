@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Ummoraade e leñol Reuven: ⟨את⟩ Betser e ⟨את⟩ hariiki maggal, ⟨את⟩ Yahatsah e ⟨את⟩ hariiki maggal.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ummoraade e leñol"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hariiki maggal"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hariiki maggal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Yahatsah"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hariiki maggal"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "hariiki maggal"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:49.494717266Z",
+  "model": "glm-5.3"
+}

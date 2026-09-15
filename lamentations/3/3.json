@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono e min tan o wartirta, o waylitirta junngo makko fuu ñalawma nguu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kono"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e min"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o wartirta"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "o waylitirta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "junngo makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma nguu"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:36.737450871Z",
+  "model": "glm-5.3"
+}

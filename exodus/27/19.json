@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Fuu kuutorɗe suudu dewal ndun, e fuu golle mayre, e kuute mayre fuu, e kuute nder heddii, ko njamndi mboɗeeri.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kuutorɗe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "suudu dewal ndun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "golle mayre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kuute mayre fuu"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "kuute mayre"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kuute"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kuute"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "heddii nder"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "njamndi mboɗeeri"
+    }
+  ],
+  "timestamp": "2026-09-15T05:40:38.516407589Z",
+  "model": "glm-5.3"
+}

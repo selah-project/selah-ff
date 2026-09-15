@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Eloohim am, e nder am wonate-am ɓennii; sabu ɗum mi siftortoo ma, e leydi Yarden, e Hermoniimaaji, e tulde Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e nder am"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wonate-am"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ɓennii"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "mi siftortoo ma"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "e Hermoniimaaji"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-14T09:26:13.820968374Z",
+  "model": "glm-5.3"
+}

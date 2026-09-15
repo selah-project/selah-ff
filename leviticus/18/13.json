@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Munndu yahru yumma maa wata a feñnina; ngam ko o yerewal yumma maa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "munndu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "yahru"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "a feñnina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngam"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "yerewal"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko o"
+    }
+  ],
+  "timestamp": "2026-09-14T05:25:34.714372441Z",
+  "model": "glm-5.3"
+}

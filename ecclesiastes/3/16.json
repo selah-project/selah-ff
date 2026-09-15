@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kadi ɓeydaani heen mi yi'i les naange: nokku ñaawoore, ɗo ko bonndu; nokku peewal, ɗo kadi ko bonndu.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "kadi ɓeydaani heen"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yi'i"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "naange"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ñaawoore"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ko bonndu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "peewal"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ko bonndu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:26:38.780297321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Yaawe ko doole fii maɓɓe, kanko ko o hoore daɗndeeje Mashiah mun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "doole"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fii maɓɓe"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "e hoore"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "daɗndeeje"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah makko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T09:22:05.732275174Z",
+  "model": "glm-5.3"
+}

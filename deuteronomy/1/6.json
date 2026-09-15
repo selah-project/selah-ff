@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe Eloohim amen haali e amen to Choreb, wiyude: Ɗuuɗii on jooɗaade e nder ngolol tulde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Eloohim amen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "e amen"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "to Choreb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ɗuuɗii"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "jooɗaade"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e nder ngolol tulde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:52:47.395390416Z",
+  "model": "glm-5.3"
+}

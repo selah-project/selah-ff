@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 139,
+  "translation": "To mi yahata e Ruuhu maa? E to mi dogata e yeeso maa?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mi yahata"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "e Ruuhu maa"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "e to"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "e yeeso maa"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "mi dogata"
+    }
+  ],
+  "timestamp": "2026-09-14T09:49:52.331958766Z",
+  "model": "glm-5.3"
+}

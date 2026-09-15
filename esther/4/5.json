@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ester noddi Hataach, gooto e sarisaaji laamɗo on, ɗi o dariini yeeso mun; o tammbitii mo fii Mordekay, ngam anndude ko woni ɗum, e ko fii ɗum.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hataach"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "e sarisaaji"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "o dariini"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "o tammbitii mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "woni ɗum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e ko fii"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:31:19.344575786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Kono a neldaali to leñol ɓurngol ŋakkirde ɗemngal, wanaa ɓurngol teddude lesdi — a neldaama to suudu Yisraa'iil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עם",
+      "gloss": "leñol"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ɓurngol ŋakkirde"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ɗemngal"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "wanaa ɓurngol teddude"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lesdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "neldaama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:34:40.618523251Z",
+  "model": "glm-5.3"
+}

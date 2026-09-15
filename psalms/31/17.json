@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Yurmino hormaaji maa ɗin e maccuɗo maa; hisnu lam e nder hesed maa.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "yurmino"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hormaaji maa ɗin"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "maccuɗo maa"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hisnu lam"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "e nder hesed maa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:21:50.379768967Z",
+  "model": "glm-5.3"
+}

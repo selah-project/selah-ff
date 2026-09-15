@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Yosuufu soodi ⟨את⟩ leydi Misrayim fuu fii Farawo, sabu Misrayimnaaɓe njeeyti kala neɗɗo ladde makko, sabu heege ngun ɓuri maɓɓe heewde; leydi ndin laati jeyi Farawo.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "soodi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuufu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi Misrayim fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "fii Farawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "njeeyti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayimnaaɓe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ladde makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ɓuri heewde"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "heege"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "laati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "jeyi Farawo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:54:03.232577656Z",
+  "model": "glm-5.3"
+}

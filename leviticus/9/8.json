@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ndeeen Aaharon ɓadii altareende nden, o sajjanii ⟨את⟩ muddu ofrirde-bakkaat on ko woni mun.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ɓadii"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareende nden"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "o sajjanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muddu ofrirde-bakkaat on"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "muddu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofrirde-bakkaat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "woni mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:42.333436006Z",
+  "model": "glm-5.3"
+}

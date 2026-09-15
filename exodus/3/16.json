@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Yahdu, mooftu ⟨את⟩ mawɓe Israa'iila, a wi'ana ɓe: “Yaawe, Eloohim baabiraaɓe mon, feeñii am — Eloohim Ibraahiima, Is'haaqa e Ya'quub — wu'u: Yillitde mi yillitii ⟨את⟩ on, e mi yi'ii ⟨את⟩ ko waɗaa on e Misra.”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "yahdu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mooftu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawɓe Israa'iila"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a wi'ana"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "baabiraaɓe mon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "feeñii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Ibraahiima"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Is'haaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Ya'quub"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wu'u"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yillitde"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "mi yillitii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ko waɗaa on e Misra"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ko waɗaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misra"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:28.619219799Z",
+  "model": "glm-5.3"
+}

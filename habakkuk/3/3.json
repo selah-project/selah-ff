@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Elooha arii ummoraade Teman, Sellte kanum ummoraade tulde Paran. Selah. Teddungal makko weɗɗinii kammuuli ɗin, yettoode makko hebbi leydi ndin.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Elooha"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "ummoraade Teman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "Sellte kanum"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ummoraade tulde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "weɗɗinii"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "teddungal makko"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "yettoode makko"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hebbi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T09:09:42.133731032Z",
+  "model": "glm-5.3"
+}

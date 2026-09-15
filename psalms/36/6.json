@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Yaawe, hesed maa ⟨woni⟩ e kammuuli; goongɗitol maa haa duule ɗen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "e kammuuli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed maa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "goongɗitol maa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "duule ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:17.171633841Z",
+  "model": "glm-5.3"
+}

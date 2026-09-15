@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nde mi noddu, jaabam, Eloohim mo peewal am; e caɗe aadinmitin-maa no feewi, yolloor-mi, e nano duwaawu am.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "nde mi noddu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "jaabam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mo peewal am"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e caɗe"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "aadinmitin-maa no feewi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "yolloor-mi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "e nano"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duwaawu am"
+    }
+  ],
+  "timestamp": "2026-09-14T09:16:42.903339882Z",
+  "model": "glm-5.3"
+}

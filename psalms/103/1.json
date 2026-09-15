@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 103,
+  "translation": "Jeyaaɗo Dawuudi. Blesi, yo wellu am, ⟨את⟩ Yaawe, e nder fuu nderre am blesi ⟨את⟩ innde laaɓnde mun.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Jeyaaɗo Dawuudi"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "blesi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "wellu am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "nderre am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde laaɓnde mun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "laaɓnde mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:49.106405188Z",
+  "model": "glm-5.3"
+}

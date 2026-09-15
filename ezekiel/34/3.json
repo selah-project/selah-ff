@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "⟨את⟩ nebam ñaamuɗon, ⟨את⟩ wutturu ɗooruɗon, welliɗe ɗen waruɗon, kono dummba ndin ñaamirtoɗon-a'a.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebam"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nebam"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ñaamuɗon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "wutturu"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "wutturu"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "ɗooruɗon"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "welliɗe ɗen"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "waruɗon"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dummba ndin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-a'a"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ñaamirtoɗon"
+    }
+  ],
+  "timestamp": "2026-09-14T08:49:10.205294357Z",
+  "model": "glm-5.3"
+}

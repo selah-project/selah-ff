@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe salamay ma, ɓe ndokkoy ma nooneji ɗiɗi mbuuɗu; a heɓoy ɗum e junnde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ɓe salamay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "salam"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ɓe ndokkoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nooneji mbuuɗu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a heɓoy ɗum"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "e junnde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:42:01.617019963Z",
+  "model": "glm-5.3"
+}

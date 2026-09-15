@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Konoña bonɗo on fijirtoo yiɗe ɓernde mun, adduɗo ɓural barkeetee hoore mun; o geno Yaawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Konoña"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "fijirtoo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bonɗo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "yiɗe"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "o"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "adduɗo ɓural"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barkeetee hoore mun"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "o geno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:18:12.210478317Z",
+  "model": "glm-5.3"
+}
