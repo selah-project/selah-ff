@@ -65,7 +65,7 @@
               "Q10 marker orthography: the 62 remaining flow-only suffixed bracket forms (delete per floor practice, or normalise to ⟨את⟩ which breaks ff's perfect flow==gloss consistency?); bracketed untranslated Hebrew outside the את convention (54 seats); inflected-form vs ⟨את⟩ bracketing policy; +5 adjacent pairs found beyond lane-5's 9"
               "Q11 floor-level repairs ff surfaced: the en floor's own 92 flow/gloss inconsistencies (two chairs derived the same Hebrew-supported answer - repair the floor?); the flow-assembler substring-insertion bug (55 eaten-word verses in the floor itself); should Aramaic ית join the marker family (bracketed nowhere); the ?⟩ press-self-narration sweep on every chair"
               "Q12 orthography pair: apostrophe canon (U+0027 at 97.71% / wi'i class 99.6%; 261 competitors clustered in genealogy passages - or split glottal U+02BC / ayin U+02BF?); parenthetical Hebrew term-glosses (goral, tekhelet, Ohel Mo'ed ~100 verses - keep or strip?); […] brackets beside ⟨…⟩ (40 verses); ammaa/kuma borrowing status (corpus itself says no: kadi 3,861x)"]},
-            :status :rendering,
+            :status :live,
             :adjudication
             {:chair 73,
              :first :sahel,
@@ -113,10 +113,10 @@
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-ff",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "88a7d360",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :ff}
