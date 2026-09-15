@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":28,"ref":"exodus 38:28","book":"exodus","lang":"ff","chapter":38,"translation":"E ⟨את⟩ ujunere nden e jeegom teemedde jeeɗiɗo e jeeɗiɗo e jeeñay [jeyngal] o waɗi kukooke wonande pilinɗe ɗen, o ŋessi hooreeji mun, o ƴoggini ⟨את⟩ ɗe.","tokens":[{"surface":"ואת","gloss":"e ⟨את⟩","marks":"ujunere nden"},{"surface":"האלף","gloss":"ujunere nden"},{"surface":"ושבע","gloss":"jeeɗiɗo"},{"surface":"המאות","gloss":"teemedde"},{"surface":"וחמשה","gloss":"jeeɗiɗo"},{"surface":"ושבעים","gloss":"jeeñay"},{"surface":"עשה","gloss":"o waɗi"},{"surface":"ווים","gloss":"kukooke"},{"surface":"לעמודים","gloss":"wonande pilinɗe ɗen"},{"surface":"וצפה","gloss":"o ŋessi"},{"surface":"ראשיהם","gloss":"hooreeji mun"},{"surface":"וחשק","gloss":"o ƴoggini"},{"surface":"אתם","gloss":"⟨את⟩ ɗe","marks":"pilinɗe ɗen"}],"timestamp":"2026-09-14T05:14:36.401425836Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 38,
+  "translation": "E ⟨את⟩ ujunere nden e jeegom teemedde jeeɗiɗo e jeeɗiɗo e jeeñay ⟨jeyngal⟩ o waɗi kukooke wonande pilinɗe ɗen, o ŋessi hooreeji mun, o ƴoggini ⟨את⟩ ɗe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ujunere nden"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ujunere nden"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "jeeɗiɗo"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "teemedde"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "jeeɗiɗo"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "jeeñay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "kukooke"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "wonande pilinɗe ɗen"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "o ŋessi"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "hooreeji mun"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "o ƴoggini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗe",
+      "marks": "pilinɗe ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:36.401425836Z",
+  "model": "glm-5.3"
+}

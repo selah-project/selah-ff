@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "exodus 39:7", "book": "exodus", "lang": "ff", "chapter": 39, "translation": "O waɗi ⟨את⟩ ɗen e tuugaade epood on — jawe jaabtore fii ɓiɓɓe Israa'iil — no Yaawe yumraade ⟨את⟩ Musa nii.", "tokens": [{"surface": "וישם", "gloss": "O waɗi"}, {"surface": "אתם", "gloss": "⟨את⟩ ɗen", "marks": "jawe ɗen"}, {"surface": "על", "gloss": "e"}, {"surface": "כתפת", "gloss": "tuugaade"}, {"surface": "האפד", "gloss": "epood on"}, {"surface": "אבני", "gloss": "jawe"}, {"surface": "זכרון", "gloss": "jaabtore"}, {"surface": "לבני", "gloss": "fii ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "כאשר", "gloss": "no ... nii"}, {"surface": "צוה", "gloss": "yumraade"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Musa"}, {"surface": "משה", "gloss": "Musa"}], "timestamp": "2026-09-14T05:14:59.546262014Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "O waɗi ⟨את⟩ ɗen e tuugaade epood on — jawe jaabtore fii ɓiɓɓe Israa'iil — no Yaawe yumraade ⟨את⟩ Moshe nii.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "O waɗi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗen",
+      "marks": "jawe ɗen"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "tuugaade"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "epood on"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "jawe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "jaabtore"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fii ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yumraade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:14:59.546262014Z",
+  "model": "glm-5.3"
+}

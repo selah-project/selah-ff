@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"job 13:7","book":"job","lang":"ff","chapter":13,"translation":"Fii Eel ka on kaala tooñannde, e fii Makko on kaala puccu?","tokens":[{"surface":"הלאל","gloss":"fii Eel ka"},{"surface":"תדברו","gloss":"on kaala"},{"surface":"עולה","gloss":"tooñannde"},{"surface":"ולו","gloss":"e fii Makko"},{"surface":"תדברו","gloss":"on kaala"},{"surface":"רמיה","gloss":"puccu"}],"timestamp":"2026-09-14T10:09:38.134538772Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 13:7",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Fii Eel ka on kaala tooñannde, e fii makko on kaala puccu?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "fii Eel ka"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "on kaala"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tooñannde"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "e fii makko"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "on kaala"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "puccu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:38.134538772Z",
+  "model": "glm-5.3"
+}

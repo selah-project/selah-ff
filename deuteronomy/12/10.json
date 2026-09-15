@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":10,"ref":"deuteronomy 12:10","book":"deuteronomy","lang":"ff","chapter":12,"translation":"Nde ɗe pawori ⟨את⟩ Yardena, ɗe ñiiway e nder leydi ndi Yaawe Eloohim monen dabbinata ⟨את⟩ on, O heddinay on laaɓal e dow baññi mon fuu ɗiɗo taari, ɗe ñiiway e kisal.","tokens":[{"surface":"ועברתם","gloss":"ɗe pawori"},{"surface":"את","gloss":"⟨את⟩","marks":"Yardena"},{"surface":"הירדן","gloss":"Yardena"},{"surface":"וישבתם","gloss":"ɗe ñiiway"},{"surface":"בארץ","gloss":"e nder leydi"},{"surface":"אשר","gloss":"ndi"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אלהיכם","gloss":"Eloohim monen"},{"surface":"מנחיל","gloss":"dabbinata"},{"surface":"אתכם","gloss":"⟨את⟩ on","marks":"dabbinata-on e hoddu"},{"surface":"והניח","gloss":"O heddinay"},{"surface":"לכם","gloss":"on"},{"surface":"מכל","gloss":"e dow fuu"},{"surface":"איביכם","gloss":"baññi monen"},{"surface":"מסביב","gloss":"ɗiɗo taari"},{"surface":"וישבתם","gloss":"ɗe ñiiway"},{"surface":"בטח","gloss":"e kisal"}],"timestamp":"2026-09-15T09:11:48.160070035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Nde ɗe pawori ⟨את⟩ Yardena, ɗe ñiiway e nder leydi ndi Yaawe Eloohim monen dabbinata ⟨את⟩ on, o heddinay on laaɓal e dow baññi mon fuu ɗiɗo taari, ɗe ñiiway e kisal.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "ɗe pawori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardena"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardena"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ɗe ñiiway"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim monen"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "dabbinata"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "dabbinata-on e hoddu"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "o heddinay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e dow fuu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "baññi monen"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ɗiɗo taari"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ɗe ñiiway"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e kisal"
+    }
+  ],
+  "timestamp": "2026-09-15T09:11:48.160070035Z",
+  "model": "glm-5.3"
+}

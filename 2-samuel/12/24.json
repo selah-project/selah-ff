@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "2-samuel 12:24", "book": "2-samuel", "lang": "ff", "chapter": 12, "translation": "Dawuudi nagginii ⟨את⟩ Bat-Sheba debbo mun, o naati e makko, o lelii e makko; o huyni ɓiɗɗo gorko, o wi'irii ⟨את⟩ innde mun Shelomoo; kadi Yaawe mo yi'i.", "tokens": [{"surface": "וינחם", "gloss": "nagginii"}, {"surface": "דוד", "gloss": "Dawuudi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Bat-Sheba"}, {"surface": "בת", "gloss": "Bat-"}, {"surface": "שבע", "gloss": "Sheba"}, {"surface": "אשתו", "gloss": "debbo mun"}, {"surface": "ויבא", "gloss": "o naati"}, {"surface": "אליה", "gloss": "e makko"}, {"surface": "וישכב", "gloss": "o lelii"}, {"surface": "עמה", "gloss": "e makko"}, {"surface": "ותלד", "gloss": "o huyni"}, {"surface": "בן", "gloss": "ɓiɗɗo gorko"}, {"surface": "ויקרא", "gloss": "o wi'irii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "innde mun"}, {"surface": "שמו", "gloss": "innde mun"}, {"surface": "שלמה", "gloss": "Shelomoo"}, {"surface": "ויהוה", "gloss": "Yaawe"}, {"surface": "אהבו", "gloss": "mo yi'i"}], "timestamp": "2026-09-15T09:09:22.210403943Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 12:24",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Daawuudi nagginii ⟨את⟩ Bat-Sheba debbo mun, o naati e makko, o lelii e makko; o huyni ɓiɗɗo gorko, o wi'irii ⟨את⟩ innde mun Shelomoh; kadi Yaawe mo yi'i.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nagginii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bat-Sheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o naati"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o lelii"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o huyni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo gorko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o wi'irii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde mun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "mo yi'i"
+    }
+  ],
+  "timestamp": "2026-09-15T09:09:22.210403943Z",
+  "model": "glm-5.3"
+}

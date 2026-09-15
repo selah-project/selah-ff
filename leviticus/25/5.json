@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":5,"ref":"leviticus 25:5","book":"leviticus","lang":"ff","chapter":25,"translation":"⟨את⟩ ɓeyagol kaddol maa ndaɗɗitaake, e ⟨את⟩ inabeee ñaawiraa-maa mooftaaƴe; ko hitaande ɗaminol woni fii leydi ndin.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"ɓeyagol kaddol maa"},{"surface":"ספיח","gloss":"ɓeyagol"},{"surface":"קצירך","gloss":"kaddol maa"},{"surface":"לא","gloss":"alaa"},{"surface":"תקצור","gloss":"ndaɗɗitaake"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"inabeee ñaawiraa-maa"},{"surface":"ענבי","gloss":"inabeee"},{"surface":"נזירך","gloss":"ñaawiraa-maa"},{"surface":"לא","gloss":"alaa"},{"surface":"תבצר","gloss":"mooftaaƴe"},{"surface":"שנת","gloss":"hitaande"},{"surface":"שבתון","gloss":"ɗaminol"},{"surface":"יהיה","gloss":"ko ... woni"},{"surface":"לארץ","gloss":"fii leydi ndin"}],"timestamp":"2026-09-14T05:30:27.004277736Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "⟨את⟩ ɓeyagol kaddol maa ndaɗɗitaake, e ⟨את⟩ inabeee ñaawiraa-maa mooftaaƴe; ko hitaande ɗaminol woni fii leydi ndin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓeyagol kaddol maa"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ɓeyagol"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "kaddol maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ndaɗɗitaake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "inabeee ñaawiraa-maa"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "inabeee"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ñaawiraa-maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "mooftaaƴe"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ɗaminol"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ko... woni"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fii leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:30:27.004277736Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,127 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "2-chronicles 22:6", "book": "2-chronicles", "lang": "ff", "chapter": 22, "translation": "O artii fii sellaade to Yizre'el, sabu gaañgol ɗi ɓe liidi mo to Ramah e dow makko konu ⟨e⟩ ⟨את⟩ Haza'el laamɗo Aram; Azaryaahu ɓiy Yehoram laamɗo Yehuda yahi les fii yi'ide ⟨את⟩ Yehoram ɓiy Ahab to Yizre'el, sabu ko o rafi.", "tokens": [{"surface": "וישב", "gloss": "o artii"}, {"surface": "להתרפא", "gloss": "fii sellaade"}, {"surface": "ביזרעאל", "gloss": "to Yizre'el"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "המכים", "gloss": "ɓe ɗi liidunooɓe"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "הכהו", "gloss": "liidi mo"}, {"surface": "ברמה", "gloss": "to Ramah"}, {"surface": "בהלחמו", "gloss": "e konu mun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Haza'el"}, {"surface": "חזהאל", "gloss": "Haza'el"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "ועזריהו", "gloss": "kadi Azaryaahu"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "יהורם", "gloss": "Yehoram"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yehuda"}, {"surface": "ירד", "gloss": "yahi les"}, {"surface": "לראות", "gloss": "fii yi'ide"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yehoram"}, {"surface": "יהורם", "gloss": "Yehoram"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "אחאב", "gloss": "Ahab"}, {"surface": "ביזרעאל", "gloss": "to Yizre'el"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "חלה", "gloss": "o rafi"}, {"surface": "הוא", "gloss": "ko kanko"}], "timestamp": "2026-09-14T11:21:01.498641057Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 22:6",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "O artii fii sellaade to Yizre'el, sabu gaañgol ɗi ɓe liidi mo to Ramah e dow makko konu ⟨e⟩ ⟨את⟩ Haza'el laamɗo Aram; Azaryaahu ɓiy Yehoram laamɗo Yahuuda yahi les fii yi'ide ⟨את⟩ Yehoram ɓiy Ahab to Yizre'el, sabu ko o rafi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "o artii"
+    },
+    {
+      "surface": "להתרפא",
+      "gloss": "fii sellaade"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "to Yizre'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ɓe ɗi liidunooɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "liidi mo"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "to Ramah"
+    },
+    {
+      "surface": "בהלחמו",
+      "gloss": "e konu mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haza'el"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Haza'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "kadi Azaryaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yahi les"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "fii yi'ide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "to Yizre'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "o rafi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:21:01.498641057Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,104 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "jeremiah 39:5", "book": "jeremiah", "lang": "ff", "chapter": 39, "translation": "Konu Kasdim ɗen noon ndaarii caggal maɓɓe, ɓe heɓi ⟨את⟩ Tsidkiyahu e daande maayo Yerixo woolndo; ɓe nanngi ⟨את⟩ mo, ⟨את⟩ ɓe njippini mo to Nevukadretsar, laamɗo Babel, to Rivla, e leydi Hamat; o haali e makko ñaawoore.", "tokens": [{"surface": "וירדפו", "gloss": "ndaarii caggal maɓɓe"}, {"surface": "חיל", "gloss": "konu"}, {"surface": "כשדים", "gloss": "Kasdim ɗen"}, {"surface": "אחריהם", "gloss": "caggal maɓɓe"}, {"surface": "וישגו", "gloss": "ɓe heɓi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Tsidkiyahu"}, {"surface": "צדקיהו", "gloss": "Tsidkiyahu"}, {"surface": "בערבות", "gloss": "e daande maayo woolndo"}, {"surface": "ירחו", "gloss": "Yerixo"}, {"surface": "ויקחו", "gloss": "ɓe nanngi"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "ויעלהו", "gloss": "ɓe njippini mo"}, {"surface": "אל", "gloss": "to"}, {"surface": "נבוכדראצר", "gloss": "Nevukadretsar"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "בבל", "gloss": "Babel"}, {"surface": "רבלתה", "gloss": "Rivla"}, {"surface": "בארץ", "gloss": "e leydi"}, {"surface": "חמת", "gloss": "Hamat"}, {"surface": "וידבר", "gloss": "o haali"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "e makko"}, {"surface": "משפטים", "gloss": "ñaawoore"}], "timestamp": "2026-09-14T08:25:06.851345626Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 39:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Konu Kasdim ɗen noon ndaarii caggal maɓɓe, ɓe heɓi ⟨את⟩ Tsidkiyahu e daande maayo Yerixo woolndo; ɓe nanngi ⟨את⟩ mo, ⟨את⟩ ɓe njippini mo to Nevukadretsar, laamɗo Baabel, to Rivla, e leydi Hamat; o haali e makko ñaawoore.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ndaarii caggal maɓɓe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim ɗen"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "caggal maɓɓe"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ɓe heɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "e daande maayo woolndo"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe nanngi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "ɓe njippini mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o haali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "ñaawoore"
+    }
+  ],
+  "timestamp": "2026-09-14T08:25:06.851345626Z",
+  "model": "glm-5.3"
+}

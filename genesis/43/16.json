@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "genesis 43:16", "book": "genesis", "lang": "ff", "chapter": 43, "translation": "Yosef yi'i ⟨את⟩ ɓe e ⟨את⟩ Binjamin, o wi'i mo laamɗo suudu makko: 'Naatnu ⟨את⟩ worɓe ɓen suudu, ƴetta nagge, waɗa hebooje; fii e ⟨את⟩ am ɓe ɗaana maa ñaame worɓe ɓen caggal kemma.'", "tokens": [{"surface": "וירא", "gloss": "o yi'i"}, {"surface": "יוסף", "gloss": "Yosef"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Binjamin"}, {"surface": "בנימין", "gloss": "Binjamin"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "לאשר", "gloss": "mo"}, {"surface": "על", "gloss": "laamɗo"}, {"surface": "ביתו", "gloss": "suudu makko"}, {"surface": "הבא", "gloss": "naatnu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "worɓe ɓen"}, {"surface": "האנשים", "gloss": "worɓe ɓen"}, {"surface": "הביתה", "gloss": "suudu"}, {"surface": "וטבח", "gloss": "ƴetta nagge"}, {"surface": "טבח", "gloss": "nagge (regarde)"}, {"surface": "והכן", "gloss": "waɗa hebooje"}, {"surface": "כי", "gloss": "fii"}, {"surface": "אתי", "gloss": "e ⟨את⟩ am"}, {"surface": "יאכלו", "gloss": "ɓe ɗaama ñaame"}, {"surface": "האנשים", "gloss": "worɓe ɓen"}, {"surface": "בצהרים", "gloss": "caggal kemma"}], "timestamp": "2026-09-14T04:51:59.518578455Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Yoseef yi'i ⟨את⟩ ɓe e ⟨את⟩ Binjamin, o wi'i mo laamɗo suudu makko: 'Naatnu ⟨את⟩ worɓe ɓen suudu, ƴetta nagge, waɗa hebooje; fii e ⟨את⟩ am ɓe ɗaana maa ñaame worɓe ɓen caggal kemma.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu makko"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "naatnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe ɓen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "ƴetta nagge"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "nagge (regarde)"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "waɗa hebooje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "e ⟨את⟩ am"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ɓe ɗaama ñaame"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "caggal kemma"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:59.518578455Z",
+  "model": "glm-5.3"
+}

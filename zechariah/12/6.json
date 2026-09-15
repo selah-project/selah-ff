@@ -1,1 +1,119 @@
-{"tier":"glm-5.2","verse":6,"ref":"zechariah 12:6","book":"zechariah","lang":"ff","chapter":12,"translation":"E ñalnde nden mi waɗay ⟨את⟩ ardiiɓe Yuuda no ɓulli yiite nii e nder leɗɗe, no felto yiite nii e nder puɗe; ɓe nyamay ñaamo e nano ⟨את⟩ yimɓe fof wondurooɓe ɓen; Yerushalayim hoɗoytan leso hoore mun, e Yerushalayim.","tokens":[{"surface":"ביום","gloss":"E ñalnde"},{"surface":"ההוא","gloss":"nden"},{"surface":"אשים","gloss":"mi waɗay"},{"surface":"את","gloss":"⟨את⟩","marks":"ardiiɓe Yuuda"},{"surface":"אלפי","gloss":"ardiiɓe"},{"surface":"יהודה","gloss":"Yuuda"},{"surface":"ככיור","gloss":"no ɓulli nii"},{"surface":"אש","gloss":"yiite"},{"surface":"בעצים","gloss":"e nder leɗɗe"},{"surface":"וכלפיד","gloss":"no felto nii"},{"surface":"אש","gloss":"yiite"},{"surface":"בעמיר","gloss":"e nder puɗe"},{"surface":"ואכלו","gloss":"ɓe nyamay"},{"surface":"על","gloss":"e"},{"surface":"ימין","gloss":"ñaamo"},{"surface":"ועל","gloss":"e"},{"surface":"שמאול","gloss":"nano"},{"surface":"את","gloss":"⟨את⟩","marks":"yimɓe fof wondurooɓe ɓen"},{"surface":"כל","gloss":"yimɓe fof"},{"surface":"העמים","gloss":"wondurooɓe ɓen"},{"surface":"סביב","gloss":"wondurooɓe"},{"surface":"וישבה","gloss":"hoɗoytan"},{"surface":"ירושלם","gloss":"Yerushalayim"},{"surface":"עוד","gloss":"tan"},{"surface":"תחתיה","gloss":"leso hoore mun"},{"surface":"בירושלם","gloss":"e Yerushalayim"}],"timestamp":"2026-09-14T09:15:05.964758980Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 12:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E ñalnde nden mi waɗay ⟨את⟩ ardiiɓe Yahuuda no ɓulli yiite nii e nder leɗɗe, no felto yiite nii e nder puɗe; ɓe nyamay ñaamo e nano ⟨את⟩ yimɓe fof wondurooɓe ɓen; Yerushalayim hoɗoytan leso hoore mun, e Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "E ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "mi waɗay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ardiiɓe Yuuda"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ardiiɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ככיור",
+      "gloss": "no ɓulli nii"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "בעצים",
+      "gloss": "e nder leɗɗe"
+    },
+    {
+      "surface": "וכלפיד",
+      "gloss": "no felto nii"
+    },
+    {
+      "surface": "אש",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "בעמיר",
+      "gloss": "e nder puɗe"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ɓe nyamay"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "nano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe fof wondurooɓe ɓen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yimɓe fof"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "wondurooɓe ɓen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wondurooɓe"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "hoɗoytan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tan"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "leso hoore mun"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "e Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:05.964758980Z",
+  "model": "glm-5.3"
+}

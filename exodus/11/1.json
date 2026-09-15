@@ -1,1 +1,105 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "exodus 11:1", "book": "exodus", "lang": "ff", "chapter": 11, "translation": "Yaawe wi'i Mosse: naafe mbedda gooto mi hebtnay e Pir'a e e dow Misrayim; ɓaawo ɗum o nelday ⟨את⟩ on ⟨mo⟩ ɗoo; tuma o neldi ⟨את⟩ on, ko timmuɗum num o ruttay on ɗoo.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אל", "gloss": "e"}, {"surface": "משה", "gloss": "Mosse"}, {"surface": "עוד", "gloss": "naafe"}, {"surface": "נגע", "gloss": "mbedda"}, {"surface": "אחד", "gloss": "gooto"}, {"surface": "אביא", "gloss": "mi hebtnay"}, {"surface": "על", "gloss": "e dow"}, {"surface": "פרעה", "gloss": "Pir'a"}, {"surface": "ועל", "gloss": "e e dow"}, {"surface": "מצרים", "gloss": "Misrayim"}, {"surface": "אחרי", "gloss": "ɓaawo"}, {"surface": "כן", "gloss": "ɗum"}, {"surface": "ישלח", "gloss": "o nelday"}, {"surface": "אתכם", "gloss": "⟨את⟩ on"}, {"surface": "מזה", "gloss": "ɗoo"}, {"surface": "כשלחו", "gloss": "tuma o neldi"}, {"surface": "כלה", "gloss": "timmuɗum"}, {"surface": "גרש", "gloss": "ruttude"}, {"surface": "יגרש", "gloss": "o ruttay"}, {"surface": "אתכם", "gloss": "⟨את⟩ on"}, {"surface": "מזה", "gloss": "ɗoo"}], "timestamp": "2026-09-14T04:59:21.114566174Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe wi'i Moshe: naafe mbedda gooto mi hebtnay e Paroh e e dow Misrayim; ɓaawo ɗum o nelday ⟨את⟩ on ⟨mo⟩ ɗoo; tuma o neldi ⟨את⟩ on, ko timmuɗum num o ruttay on ɗoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naafe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mbedda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mi hebtnay"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e e dow"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "o nelday"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "tuma o neldi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "timmuɗum"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ruttude"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "o ruttay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:21.114566174Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":9,"ref":"isaiah 63:9","book":"isaiah","lang":"ff","chapter":63,"translation":"E nder caɗe maɓɓe fuu alaa ƴaañoowo, e Nulaaɗo hoore makko dañi ɓe; e giɗo makko e yurmeende makko kanko o feudani ɓe; o ƴetti ɓe, o downi ɓe ñalɗi fuu jamanuuji ɓennuɗi.","tokens":[{"surface":"בכל","gloss":"e nder ... fuu"},{"surface":"צרתם","gloss":"caɗe maɓɓe"},{"surface":"לא","gloss":"alaa"},{"surface":"צר","gloss":"ƴaañoowo"},{"surface":"ומלאך","gloss":"e Nulaaɗo"},{"surface":"פניו","gloss":"hoore makko"},{"surface":"הושיעם","gloss":"dañi ɓe"},{"surface":"באהבתו","gloss":"e giɗo makko"},{"surface":"ובחמלתו","gloss":"e yurmeende makko"},{"surface":"הוא","gloss":"kanko o"},{"surface":"גאלם","gloss":"feudani ɓe"},{"surface":"וינטלם","gloss":"o ƴetti ɓe"},{"surface":"וינשאם","gloss":"o downi ɓe"},{"surface":"כל","gloss":"fuu"},{"surface":"ימי","gloss":"ñalɗi"},{"surface":"עולם","gloss":"jamanuuji ɓennuɗi"}],"timestamp":"2026-09-14T08:01:45.530510758Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 63,
+  "translation": "E nder caɗe maɓɓe fuu alaa ƴaañoowo, e Nulaaɗo hoore makko dañi ɓe; e giɗo makko e yurmeende makko kanko o feudani ɓe; o ƴetti ɓe, o downi ɓe ñalɗi fuu jamanuuji ɓennuɗi.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "e nder... fuu"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "caɗe maɓɓe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ƴaañoowo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "e Nulaaɗo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hoore makko"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "dañi ɓe"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "e giɗo makko"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "e yurmeende makko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "feudani ɓe"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "o ƴetti ɓe"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "o downi ɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jamanuuji ɓennuɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:01:45.530510758Z",
+  "model": "glm-5.3"
+}

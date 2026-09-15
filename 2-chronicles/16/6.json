@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "2-chronicles 16:6", "book": "2-chronicles", "lang": "ff", "chapter": 16, "translation": "Asaa laamɗo on nangi ɓiɓɓe Yuuda ⟨את⟩ fuu, ɓe ngaddi ⟨את⟩ leyɗe Rama ɗen e ⟨את⟩ leggel mayre ngel Baasaa mahunoo, o mahi heen ⟨את⟩ Geɓaa e ⟨את⟩ Mitspa.", "tokens": [{"surface": "ואסא", "gloss": "Asaa"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "לקח", "gloss": "nangi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Yuuda fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "וישאו", "gloss": "ɓe ngaddi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leyɗe Rama ɗen"}, {"surface": "אבני", "gloss": "leyɗe"}, {"surface": "הרמה", "gloss": "Rama"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "leggel mayre"}, {"surface": "עציה", "gloss": "leggel mayre"}, {"surface": "אשר", "gloss": "ngel"}, {"surface": "בנה", "gloss": "mahunoo"}, {"surface": "בעשא", "gloss": "Baasaa"}, {"surface": "ויבן", "gloss": "o mahi"}, {"surface": "בהם", "gloss": "heen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Geɓaa"}, {"surface": "גבע", "gloss": "Geɓaa"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "Mitspa"}, {"surface": "המצפה", "gloss": "Mitspa"}], "timestamp": "2026-09-14T11:16:43.238816213Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Asaa laamɗo on nangi ɓiɓɓe Yahuuda ⟨את⟩ fuu, ɓe ngaddi ⟨את⟩ leyɗe Rama ɗen e ⟨את⟩ leggel mayre ngel Baasaa mahunoo, o mahi heen ⟨את⟩ Geɓaa e ⟨את⟩ Mitspa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Asaa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Yuuda fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ɓe ngaddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyɗe Rama ɗen"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "leyɗe"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "leggel mayre"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "leggel mayre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mahunoo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasaa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geɓaa"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geɓaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Mitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:16:43.238816213Z",
+  "model": "glm-5.3"
+}

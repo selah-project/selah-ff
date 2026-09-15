@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "numbers 8:10", "book": "numbers", "lang": "ff", "chapter": 8, "translation": "Aɗa nayn ⟨את⟩ Laawi'en yeeso Yaawe, sukaaɓe Israayel ndorna juuɗe maɓɓe dow ⟨את⟩ Laawi'en.", "tokens": [{"surface": "והקרבת", "gloss": "aɗa nayn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Laawi'en"}, {"surface": "הלוים", "gloss": "Laawi'en"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "וסמכו", "gloss": "ndorna"}, {"surface": "בני", "gloss": "sukaaɓe"}, {"surface": "ישראל", "gloss": "Israayel"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "juuɗe maɓɓe"}, {"surface": "ידיהם", "gloss": "juuɗe maɓɓe"}, {"surface": "על", "gloss": "dow"}, {"surface": "הלוים", "gloss": "Laawi'en"}], "timestamp": "2026-09-14T05:37:30.656807743Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Aɗa nayn ⟨את⟩ Laawi'en yeeso Yaawe, sukaaɓe Israa'iil ndorna juuɗe maɓɓe dow ⟨את⟩ Laawi'en.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "aɗa nayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laawi'en"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawi'en"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ndorna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuɗe maɓɓe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "juuɗe maɓɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawi'en"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:30.656807743Z",
+  "model": "glm-5.3"
+}

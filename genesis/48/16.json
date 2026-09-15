@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "genesis 48:16", "book": "genesis", "lang": "ff", "chapter": 48, "translation": "“— malaa'ika on daaƴtuɗo ⟨את⟩ lam ⟨את⟩ e kala bone, baru sukaaɓe ɓen; innde am waɗetee e maɓɓe, e innde banndiraaɓe am Awraahaam e Ishaa'a; ɓe ɓeydu mawnude e keewal nder leydi ndin.”", "tokens": [{"surface": "המלאך", "gloss": "malaa'ika on"}, {"surface": "הגאל", "gloss": "daaƴtuɗo"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "lam"}, {"surface": "מכל", "gloss": "e kala"}, {"surface": "רע", "gloss": "bone"}, {"surface": "יברך", "gloss": "baru"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sukaaɓe ɓen"}, {"surface": "הנערים", "gloss": "sukaaɓe ɓen"}, {"surface": "ויקרא", "gloss": "waɗetee"}, {"surface": "בהם", "gloss": "e maɓɓe"}, {"surface": "שמי", "gloss": "innde am"}, {"surface": "ושם", "gloss": "e innde"}, {"surface": "אבתי", "gloss": "banndiraaɓe am"}, {"surface": "אברהם", "gloss": "Awraahaam"}, {"surface": "ויצחק", "gloss": "e Ishaa'a"}, {"surface": "וידגו", "gloss": "ɓe ɓeydu mawnude"}, {"surface": "לרב", "gloss": "e keewal"}, {"surface": "בקרב", "gloss": "nder"}, {"surface": "הארץ", "gloss": "leydi ndin"}], "timestamp": "2026-09-14T04:53:40.512089534Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "“— malaa'ika on daaƴtuɗo ⟨את⟩ lam ⟨את⟩ e kala bone, baru sukaaɓe ɓen; innde am waɗetee e maɓɓe, e innde banndiraaɓe am Awraham e Yitshaq; ɓe ɓeydu mawnude e keewal nder leydi ndin.”",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "malaa'ika on"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "daaƴtuɗo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "lam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bone"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "baru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukaaɓe ɓen"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "sukaaɓe ɓen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waɗetee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "innde am"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "e innde"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "banndiraaɓe am"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "e Yitshaq"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "ɓe ɓeydu mawnude"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "e keewal"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:40.512089534Z",
+  "model": "glm-5.3"
+}

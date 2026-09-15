@@ -1,1 +1,109 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "ezekiel 17:16", "book": "ezekiel", "lang": "ff", "chapter": 17, "translation": "Wuurɗo mi, wonata konngol Adonaay Yaawe: si wonaa e nokku laamđo wađoowo ⟨את⟩ mo laamu ñalnde — ⟨את⟩ mo wortini ⟨את⟩ onondu mun, mo fasintii ⟨את⟩ kiita mun — e makko, nder Babil o maayay.", "tokens": [{"surface": "חי", "gloss": "Wuurđo"}, {"surface": "אני", "gloss": "mi"}, {"surface": "נאם", "gloss": "konngol"}, {"surface": "אדני", "gloss": "Adonaay"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אם", "gloss": "si"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "במקום", "gloss": "e nokku"}, {"surface": "המלך", "gloss": "laamđo"}, {"surface": "הממליך", "gloss": "wađoowo laamu"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "בזה", "gloss": "wortini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "onondu mun"}, {"surface": "אלתו", "gloss": "onondu mun"}, {"surface": "ואשר", "gloss": "e mo"}, {"surface": "הפר", "gloss": "fasintii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kiita mun"}, {"surface": "בריתו", "gloss": "kiita mun"}, {"surface": "אתו", "gloss": "⟨את⟩ e makko", "marks": "e makko"}, {"surface": "בתוך", "gloss": "nder"}, {"surface": "בבל", "gloss": "Babil"}, {"surface": "ימות", "gloss": "o maayay"}], "timestamp": "2026-09-14T08:41:12.832734741Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Wuurɗo mi, wonata konngol Adonaay Yaawe: si wonaa e nokku laamđo wađoowo ⟨את⟩ mo laamu ñalnde — ⟨את⟩ mo wortini ⟨את⟩ onondu mun, mo fasintii ⟨את⟩ kiita mun — e makko, nder Baabel o maayay.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Wuurđo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "e nokku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "wađoowo laamu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "wortini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onondu mun"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "onondu mun"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e mo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "fasintii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiita mun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kiita mun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko",
+      "marks": "e makko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "nder"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o maayay"
+    }
+  ],
+  "timestamp": "2026-09-14T08:41:12.832734741Z",
+  "model": "glm-5.3"
+}

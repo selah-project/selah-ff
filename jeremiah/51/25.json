@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "jeremiah 51:25", "book": "jeremiah", "lang": "ff", "chapter": 51, "translation": "Ƴeew, mi ngari e maa, o duyere bonnunde, ko Yaawe wi'i, o bonniri ⟨את⟩ leydi ndin ⟨את⟩ fuu; mi ɓennitay junu am dow maa, mi loowtay maa e dow kaaƴe ɗen, mbarayta maa duyere yiiteende.", "tokens": [{"surface": "הנני", "gloss": "Ƴeew, mi ngari"}, {"surface": "אליך", "gloss": "e maa"}, {"surface": "הר", "gloss": "o duyere"}, {"surface": "המשחית", "gloss": "bonnunde"}, {"surface": "נאם", "gloss": "ko ... wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "המשחית", "gloss": "bonniri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leydi ndin fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "ונטיתי", "gloss": "mi ɓennitay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "juno am"}, {"surface": "ידי", "gloss": "juno am"}, {"surface": "עליך", "gloss": "dow maa"}, {"surface": "וגלגלתיך", "gloss": "mi loowtay maa"}, {"surface": "מן", "gloss": "e dow"}, {"surface": "הסלעים", "gloss": "kaaƴe ɗen"}, {"surface": "ונתתיך", "gloss": "mbarayta maa"}, {"surface": "להר", "gloss": "duyere"}, {"surface": "שרפה", "gloss": "yiiteende"}], "timestamp": "2026-09-14T08:32:23.423136510Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 51:25",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Ƴeew, mi ngari e maa, o duyere bonnunde, ko Yaawe wi'i, o bonniri ⟨את⟩ leydi ndin ⟨את⟩ fuu; mi ɓennitay junu am dow maa, mi loowtay maa e dow kaaƴe ɗen, mbarayta maa duyere yiiteende.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ƴeew, mi ngari"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "o duyere"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "bonnunde"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ko... wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "bonniri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "mi ɓennitay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juno am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "juno am"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dow maa"
+    },
+    {
+      "surface": "וגלגלתיך",
+      "gloss": "mi loowtay maa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "kaaƴe ɗen"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "mbarayta maa"
+    },
+    {
+      "surface": "להר",
+      "gloss": "duyere"
+    },
+    {
+      "surface": "שרפה",
+      "gloss": "yiiteende"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:23.423136510Z",
+  "model": "glm-5.3"
+}

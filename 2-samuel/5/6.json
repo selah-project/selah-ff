@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":6,"ref":"2-samuel 5:6","book":"2-samuel","lang":"ff","chapter":5,"translation":"Laamɗo on e worɓe makko yahri Yerushalaayim, to Yebusiyankooɓe hoɗɓe e leydi ndin; ɓe wi'i Daawuda wi'ude: “A naataa ɗoo, so a ittaani wumɓe ɗin e pixe ɗin,” wi'ude: “Daawuda naataa ɗoo.”","tokens":[{"surface":"וילך","gloss":"yahri"},{"surface":"המלך","gloss":"Laamɗo on"},{"surface":"ואנשיו","surface_note":"","gloss":"e worɓe makko"},{"surface":"ירושלם","gloss":"Yerushalaayim"},{"surface":"אל","gloss":"to"},{"surface":"היבסי","gloss":"Yebusiyankooɓe ɗin"},{"surface":"יושב","gloss":"hoɗɓe"},{"surface":"הארץ","gloss":"leydi ndin"},{"surface":"ויאמר","gloss":"ɓe wi'i"},{"surface":"לדוד","gloss":"to Daawuda"},{"surface":"לאמר","gloss":"wi'ude"},{"surface":"לא","gloss":"wanaa"},{"surface":"תבוא","gloss":"a naataa"},{"surface":"הנה","gloss":"ɗoo"},{"surface":"כי","gloss":"so"},{"surface":"אם","gloss":""},{"surface":"הסירך","gloss":"a ittaani…ɗin"},{"surface":"העורים","gloss":"wumɓe ɗin"},{"surface":"והפסחים","gloss":"e pixe ɗin"},{"surface":"לאמר","gloss":"wi'ude"},{"surface":"לא","gloss":"wanaa"},{"surface":"יבוא","gloss":"o naataa"},{"surface":"דוד","gloss":"Daawuda"},{"surface":"הנה","gloss":"ɗoo"}],"timestamp":"2026-09-14T06:57:13.256787843Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 5:6",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Laamɗo on e worɓe makko yahri Yerushalaayim, to Yebusiyankooɓe hoɗɓe e leydi ndin; ɓe wi'i Daawuuda wi'ude: “A naataa ɗoo, so a ittaani wumɓe ɗin e pixe ɗin,” wi'ude: “Daawuuda naataa ɗoo.”",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "ואנשיו",
+      "surface_note": "",
+      "gloss": "e worɓe makko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "היבסי",
+      "gloss": "Yebusiyankooɓe ɗin"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "hoɗɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "to Daawuuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "a naataa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "so"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הסירך",
+      "gloss": "a ittaani…ɗin"
+    },
+    {
+      "surface": "העורים",
+      "gloss": "wumɓe ɗin"
+    },
+    {
+      "surface": "והפסחים",
+      "gloss": "e pixe ɗin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o naataa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:57:13.256787843Z",
+  "model": "glm-5.3"
+}

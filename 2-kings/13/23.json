@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "2-kings 13:23", "book": "2-kings", "lang": "ff", "chapter": 13, "translation": "Yaawe yetti ⟨את⟩ ɓe, o yurmi ɓe, o ƴeewti maɓɓe, fii ahdi mun ⟨את⟩ Ibraahiima, Isaaqa e Yaakuuba; o salii halkude maɓɓe, o salii riddude maɓɓe ummoraade e yeeso mun haa hannde.", "tokens": [{"surface": "ויחן", "gloss": "Yaawe yetti ɓe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe"}, {"surface": "וירחמם", "gloss": "o yurmi ɓe"}, {"surface": "ויפן", "gloss": "o ƴeewti"}, {"surface": "אליהם", "gloss": "maɓɓe"}, {"surface": "למען", "gloss": "fii"}, {"surface": "בריתו", "gloss": "ahdi mun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Ibraahiima"}, {"surface": "אברהם", "gloss": "Ibraahiima"}, {"surface": "יצחק", "gloss": "Isaaqa"}, {"surface": "ויעקב", "gloss": "e Yaakuuba"}, {"surface": "ולא", "gloss": "o salii"}, {"surface": "אבה", "gloss": "o salii"}, {"surface": "השחיתם", "gloss": "halkude maɓɓe"}, {"surface": "ולא", "gloss": "o salii"}, {"surface": "השליכם", "gloss": "riddude maɓɓe"}, {"surface": "מעל", "gloss": "ummoraade e"}, {"surface": "פניו", "gloss": "yeeso mun"}, {"surface": "עד", "gloss": "haa"}, {"surface": "עתה", "gloss": "hannde"}], "timestamp": "2026-09-14T07:33:21.060179534Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Yaawe yetti ⟨את⟩ ɓe, o yurmi ɓe, o ƴeewti maɓɓe, fii ahdi mun ⟨את⟩ Awraham, Yitshaq e Ya'aqob; o salii halkude maɓɓe, o salii riddude maɓɓe ummoraade e yeeso mun haa hannde.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "Yaawe yetti ɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "o yurmi ɓe"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "o ƴeewti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdi mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ibraahiima"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "e Ya'aqob"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o salii"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "o salii"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "halkude maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o salii"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "riddude maɓɓe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ummoraade e"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hannde"
+    }
+  ],
+  "timestamp": "2026-09-14T07:33:21.060179534Z",
+  "model": "glm-5.3"
+}

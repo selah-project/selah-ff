@@ -1,1 +1,160 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "isaiah 39:2", "book": "isaiah", "lang": "ff", "chapter": 39, "translation": "Chizkiyahu welnii e maɓɓe, o hollu ɓe ⟨את⟩ suudu ngalu makko: ⟨את⟩ kaalis e ⟨את⟩ njeeɗi e ⟨את⟩ uurooji e ⟨את⟩ nebam moƴƴam e ⟨את⟩ suudu kuutorɗe makko fuu e ⟨את⟩ ko fuu tawaama e kaasuuji makko; huunde woodaani nde Chizkiyahu horaani ɓe — hay woto e suudu makko, hay woto e laamu makko fuu.", "tokens": [{"surface": "וישמח", "gloss": "Chizkiyahu welnii"}, {"surface": "עליהם", "gloss": "e maɓɓe"}, {"surface": "חזקיהו", "gloss": "Chizkiyahu"}, {"surface": "ויראם", "gloss": "o hollu ɓe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "suudu ngalu makko"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "נכתה", "gloss": "ngalu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kaalis"}, {"surface": "הכסף", "gloss": "kaalis"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "njeeɗi"}, {"surface": "הזהב", "gloss": "njeeɗi"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "uurooji"}, {"surface": "הבשמים", "gloss": "uurooji"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "nebam moƴƴam"}, {"surface": "השמן", "gloss": "nebam"}, {"surface": "הטוב", "gloss": "moƴƴam"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "suudu kuutorɗe makko fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "כליו", "gloss": "kuutorɗe makko"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "ko fuu tawaama e kaasuuji makko"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "נמצא", "gloss": "tawaama"}, {"surface": "באצרתיו", "gloss": "e kaasuuji makko"}, {"surface": "לא", "gloss": "woodaani"}, {"surface": "היה", "gloss": "woodaani"}, {"surface": "דבר", "gloss": "huunde"}, {"surface": "אשר", "gloss": "nde"}, {"surface": "לא", "gloss": "woto"}, {"surface": "הראם", "gloss": "o horaani ɓe"}, {"surface": "חזקיהו", "gloss": "Chizkiyahu"}, {"surface": "בביתו", "gloss": "e suudu makko"}, {"surface": "ובכל", "gloss": "e ... fuu"}, {"surface": "ממשלתו", "gloss": "laamu makko"}], "timestamp": "2026-09-14T07:53:33.029583128Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 39:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Chizkiyahu welnii e maɓɓe, o hollu ɓe ⟨את⟩ suudu ngalu makko: ⟨את⟩ kaalis e ⟨את⟩ njeeɗi e ⟨את⟩ uurooji e ⟨את⟩ nebam moƴƴam e ⟨את⟩ suudu kuutorɗe makko fuu e ⟨את⟩ ko fuu tawaama e kaasuuji makko; huunde woodaani nde Chizkiyahu horaani ɓe — hay woto e suudu makko, hay woto e laamu makko fuu.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Chizkiyahu welnii"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "o hollu ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu ngalu makko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ngalu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaalis"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "njeeɗi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "njeeɗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "uurooji"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "uurooji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nebam moƴƴam"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nebam"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "moƴƴam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "suudu kuutorɗe makko fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kuutorɗe makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ko fuu tawaama e kaasuuji makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tawaama"
+    },
+    {
+      "surface": "באצרתיו",
+      "gloss": "e kaasuuji makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "woto"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "o horaani ɓe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "e suudu makko"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "laamu makko"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:33.029583128Z",
+  "model": "glm-5.3"
+}

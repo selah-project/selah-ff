@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":13,"ref":"exodus 13:13","book":"exodus","lang":"ff","chapter":13,"translation":"Kala puɗɗuɗo reedu geloore fayyirta e be'i; kono si a fayyitaani , taƴaa borla mun; kala buuruɗo aadama e nder ɓiɓɓe maa fayyirta .","tokens":[{"surface":"וכל","gloss":"kala"},{"surface":"פטר","gloss":"puɗɗuɗo reedu"},{"surface":"חמר","gloss":"geloore"},{"surface":"תפדה","gloss":"fayyirta"},{"surface":"בשה","gloss":"e be'i"},{"surface":"ואם","gloss":"kono si"},{"surface":"לא","gloss":"wannee"},{"surface":"תפדה","gloss":"fayyitaani"},{"surface":"וערפתו","gloss":"taƴ borla mun"},{"surface":"וכל","gloss":"kala"},{"surface":"בכור","gloss":"buuruɗo"},{"surface":"אדם","gloss":"aadama"},{"surface":"בבניך","gloss":"e nder ɓiɓɓe maa"},{"surface":"תפדה","gloss":"fayyirta"}],"timestamp":"2026-09-14T05:01:28.915037379Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 13:13",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Kala puɗɗuɗo reedu geloore fayyirta e be'i; kono si a fayyitaani, taƴaa borla mun; kala buuruɗo aadama e nder ɓiɓɓe maa fayyirta.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "puɗɗuɗo reedu"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "geloore"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "fayyirta"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "e be'i"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wannee"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "fayyitaani"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "taƴ borla mun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "buuruɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadama"
+    },
+    {
+      "surface": "בבניך",
+      "gloss": "e nder ɓiɓɓe maa"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "fayyirta"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:28.915037379Z",
+  "model": "glm-5.3"
+}

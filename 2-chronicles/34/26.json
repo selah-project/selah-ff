@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "2-chronicles 34:26", "book": "2-chronicles", "lang": "ff", "chapter": 34, "translation": "To laamɗo Yuuda, mo neldi ⟨את⟩ on fii ɗaɓɓude e Yaawe, ko non wotton mo: Hono Yaawe, Eloohim Israa'iil, wi'i: Ɗi konnguɗi ɗe nannguɗaa —", "tokens": [{"surface": "ואל", "gloss": "To"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "השלח", "gloss": "mo neldi"}, {"surface": "אתכם", "gloss": "⟨את⟩ on"}, {"surface": "לדרוש", "gloss": "fii ɗaɓɓude"}, {"surface": "ביהוה", "gloss": "e Yaawe"}, {"surface": "כה", "gloss": "non"}, {"surface": "תאמרו", "gloss": "wotton"}, {"surface": "אליו", "gloss": "mo"}, {"surface": "כה", "gloss": "Hono"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "הדברים", "gloss": "konnguɗi"}, {"surface": "אשר", "gloss": "ɗe"}, {"surface": "שמעת", "gloss": "nannguɗaa"}], "timestamp": "2026-09-14T11:30:43.988590562Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 34:26",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "To laamɗo Yahuuda, mo neldi ⟨את⟩ on fii ɗaɓɓude e Yaawe, ko non wotton mo: Hono Yaawe, Eloohim Israa'iil, wi'i: Ɗi konnguɗi ɗe nannguɗaa —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "To"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "mo neldi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "fii ɗaɓɓude"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "non"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "wotton"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Hono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nannguɗaa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:30:43.988590562Z",
+  "model": "glm-5.3"
+}

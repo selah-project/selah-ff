@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 38, "ref": "leviticus 7:38", "book": "leviticus", "lang": "ff", "chapter": 7, "translation": "Ɗum Yaawe ewni ⟨את⟩ Moosaa e tulde Sinaay, ñalnde o ewni ⟨את⟩ ɓiɓɓe Israa'iil ɓe njottina ⟨את⟩ korbaan maɓɓe Yaawe, e ladde Sinaay.", "tokens": [{"surface": "אשר", "gloss": "Ɗum"}, {"surface": "צוה", "gloss": "ewni"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moosaa"}, {"surface": "משה", "gloss": "Moosaa"}, {"surface": "בהר", "gloss": "e tulde"}, {"surface": "סיני", "gloss": "Sinaay"}, {"surface": "ביום", "gloss": "ñalnde"}, {"surface": "צותו", "gloss": "o ewni"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Israa'iil"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "להקריב", "gloss": "ɓe njottina"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "korbaan maɓɓe"}, {"surface": "קרבניהם", "gloss": "korbaan maɓɓe"}, {"surface": "ליהוה", "gloss": "Yaawe"}, {"surface": "במדבר", "gloss": "e ladde"}, {"surface": "סיני", "gloss": "Sinaay"}], "timestamp": "2026-09-14T05:17:00.966413727Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ɗum Yaawe ewni ⟨את⟩ Moshe e tulde Sinaay, ñalnde o ewni ⟨את⟩ ɓiɓɓe Israa'iil ɓe njottina ⟨את⟩ korbaan maɓɓe Yaawe, e ladde Sinaay.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ɗum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ewni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moosaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "e tulde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "o ewni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "ɓe njottina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbaan maɓɓe"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "korbaan maɓɓe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e ladde"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaay"
+    }
+  ],
+  "timestamp": "2026-09-14T05:17:00.966413727Z",
+  "model": "glm-5.3"
+}

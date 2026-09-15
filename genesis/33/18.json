@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "genesis 33:18", "book": "genesis", "lang": "ff", "chapter": 33, "translation": "Yaakuuba arii e laaɓal to saare Sjekem, nden woni e leydi Kenaana, tuma o woɗɗunoo Paddan-Aram; o teelti hoore mun ⟨את⟩ yeeso yeeso saare nden.", "tokens": [{"surface": "ויבא", "gloss": "o arii"}, {"surface": "יעקב", "gloss": "Yaakuuba"}, {"surface": "שלם", "gloss": "e laaɓal"}, {"surface": "עיר", "gloss": "saare"}, {"surface": "שכם", "gloss": "Sjekem"}, {"surface": "אשר", "gloss": "nden woni"}, {"surface": "בארץ", "gloss": "e leydi"}, {"surface": "כנען", "gloss": "Kenaana"}, {"surface": "בבאו", "gloss": "tuma o woɗɗunoo"}, {"surface": "מפדן", "gloss": "Paddan"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "ויחן", "gloss": "o teelti hoore mun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yeeso saare nden"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "העיר", "gloss": "saare nden"}], "timestamp": "2026-09-14T04:46:34.142461355Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ya'aqob arii e laaɓal to saare Sjekem, nden woni e leydi Kenaana, tuma o woɗɗunoo Paddan-Aram; o teelti hoore mun ⟨את⟩ yeeso yeeso saare nden.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o arii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "e laaɓal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "saare"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjekem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nden woni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "tuma o woɗɗunoo"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "o teelti hoore mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso saare nden"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "saare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:34.142461355Z",
+  "model": "glm-5.3"
+}

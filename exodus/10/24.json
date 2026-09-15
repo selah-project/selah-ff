@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "exodus 10:24", "book": "exodus", "lang": "ff", "chapter": 10, "translation": "Fir'awna noddi Muusaa, o wi'i: “Yahon, hoddon ⟨את⟩ Yaawe; tana dulli mon en e nagge mon en ɗon heddoo, sukaaje mon en kadi yahata e monon.”", "tokens": [{"surface": "ויקרא", "gloss": "noddi"}, {"surface": "פרעה", "gloss": "Fir'awna"}, {"surface": "אל", "gloss": "e"}, {"surface": "משה", "gloss": "Muusaa"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "לכו", "gloss": "yahon"}, {"surface": "עבדו", "gloss": "hoddon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "רק", "gloss": "tana"}, {"surface": "צאנכם", "gloss": "dulli mon en"}, {"surface": "ובקרכם", "gloss": "e nagge mon en"}, {"surface": "יצג", "gloss": "đon heddoo"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "טפכם", "gloss": "sukaaje mon en"}, {"surface": "ילך", "gloss": "yahata"}, {"surface": "עמכם", "gloss": "e monon"}], "timestamp": "2026-09-14T04:58:59.294789318Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Paroh noddi Moshe, o wi'i: “Yahon, hoddon ⟨את⟩ Yaawe; tana dulli mon en e nagge mon en ɗon heddoo, sukaaje mon en kadi yahata e monon.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hoddon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tana"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "dulli mon en"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "e nagge mon en"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "đon heddoo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "sukaaje mon en"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "e monon"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:59.294789318Z",
+  "model": "glm-5.3"
+}

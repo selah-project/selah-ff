@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 41, "ref": "1-kings 1:41", "book": "1-kings", "lang": "ff", "chapter": 1, "translation": "Adoniyahu e nodduɓe fuu ɓe ngonnoo e ⟨את⟩ makko njaɓii, tawi ɓe gasminii ñaamde; Yowaab njaɓii oode ⟨את⟩ shofar on, o wi'i: “Ko honɗum oode saare ndee wowlude?”", "tokens": [{"surface": "וישמע", "gloss": "njaɓii"}, {"surface": "אדניהו", "gloss": "Adoniyahu"}, {"surface": "וכל", "gloss": "e ... fuu"}, {"surface": "הקראים", "gloss": "nodduɓe"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "אתו", "gloss": "⟨את⟩ makko"}, {"surface": "והם", "gloss": "tawi ɓe"}, {"surface": "כלו", "gloss": "gasminii"}, {"surface": "לאכל", "gloss": "ñaamde"}, {"surface": "וישמע", "gloss": "njaɓii"}, {"surface": "יואב", "gloss": "Yowaab"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "oode shofar on"}, {"surface": "קול", "gloss": "oode"}, {"surface": "השופר", "gloss": "shofar on"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "מדוע", "gloss": "ko honɗum"}, {"surface": "קול", "gloss": "oode"}, {"surface": "הקריה", "gloss": "saare ndee"}, {"surface": "הומה", "gloss": "wowlude"}], "timestamp": "2026-09-14T07:09:48.121768937Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Adoniyahu e nodduɓe fuu ɓe ngonnoo e ⟨את⟩ makko njaɓii, tawi ɓe gasminii ñaamde; Yowaab njaɓii oode ⟨את⟩ shofar on, o wi'i: “Ko honɗum oode saare ndee wowlude?”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "njaɓii"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "nodduɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ makko"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tawi ɓe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gasminii"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ñaamde"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "njaɓii"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowaab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oode shofar on"
+    },
+    {
+      "surface": "קול",
+      "gloss": "oode"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar on"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko honɗum"
+    },
+    {
+      "surface": "קול",
+      "gloss": "oode"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "saare ndee"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "wowlude"
+    }
+  ],
+  "timestamp": "2026-09-14T07:09:48.121768937Z",
+  "model": "glm-5.3"
+}

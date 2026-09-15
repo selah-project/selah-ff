@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "2-kings 25:28", "book": "2-kings", "lang": "ff", "chapter": 25, "translation": "O haalani ⟨את⟩ mo ⟨את⟩ konnguɗi moƴƴi, o waɗii jooɗorde mun dow jooɗorde laamɓe ɓe ngoni ⟨את⟩ makko to Babel.", "tokens": [{"surface": "וידבר", "gloss": "O haalani"}, {"surface": "אתו", "gloss": "mo ⟨את⟩"}, {"surface": "טבות", "gloss": "konnguɗi moƴƴi"}, {"surface": "ויתן", "gloss": "o waɗii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "joođorde mun"}, {"surface": "כסאו", "gloss": "jooɗorde mun"}, {"surface": "מעל", "gloss": "dow"}, {"surface": "כסא", "gloss": "jooɗorde"}, {"surface": "המלכים", "gloss": "laamɓe ɓen"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "אתו", "gloss": "⟨את⟩ makko"}, {"surface": "בבבל", "gloss": "to Babel"}], "timestamp": "2026-09-14T07:39:40.940691205Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "O haalani ⟨את⟩ mo ⟨את⟩ konnguɗi moƴƴi, o waɗii jooɗorde mun dow jooɗorde laamɓe ɓe ngoni ⟨את⟩ makko to Baabel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "O haalani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "mo ⟨את⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "konnguɗi moƴƴi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joođorde mun"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jooɗorde mun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "laamɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ makko"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "to Baabel"
+    }
+  ],
+  "timestamp": "2026-09-14T07:39:40.940691205Z",
+  "model": "glm-5.3"
+}

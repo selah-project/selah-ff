@@ -1,1 +1,39 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 147:16","book":"psalms","lang":"ff","chapter":147,"translation":"Ko kanko jognintoo ñeeñal no wooliri nii, duume no ƴool nii o ŋoŋŋinta .","tokens":[{"surface":"הנתן","gloss":"ko kanko jognintoo"},{"surface":"שלג","gloss":"ñeeñal","marks":"ñeeñal no wooliri nii"},{"surface":"כצמר","gloss":"no wooliri nii"},{"surface":"כפור","gloss":"duume","marks":"duume no ƴool nii"},{"surface":"כאפר","gloss":"no ƴool nii"},{"surface":"יפזר","gloss":"o ŋoŋŋinta"}],"timestamp":"2026-09-14T09:51:31.637440551Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 147,
+  "translation": "Ko kanko jognintoo ñeeñal no wooliri nii, duume no ƴool nii o ŋoŋŋinta.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ko kanko jognintoo"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ñeeñal",
+      "marks": "ñeeñal no wooliri nii"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "no wooliri nii"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "duume",
+      "marks": "duume no ƴool nii"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "no ƴool nii"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "o ŋoŋŋinta"
+    }
+  ],
+  "timestamp": "2026-09-14T09:51:31.637440551Z",
+  "model": "glm-5.3"
+}

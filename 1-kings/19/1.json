@@ -1,1 +1,80 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-kings 19:1","book":"1-kings","lang":"ff","chapter":19,"translation":"Achab haali Izebel ⟨את⟩ fuu ɗe Eliya waɗi, e ⟨את⟩ fuu ɗe o wari ⟨את⟩ annabaaɓe ɗin fuu e kaafaahu.","tokens":[{"surface":"ויגד","gloss":"haali"},{"surface":"אחאב","gloss":"Achab"},{"surface":"לאיזבל","gloss":"Izebel"},{"surface":"את","gloss":"⟨את⟩","marks":"fuu ɗe Eliya waɗi"},{"surface":"כל","gloss":"fuu"},{"surface":"אשר","gloss":"ɗe"},{"surface":"עשה","gloss":"waɗi"},{"surface":"אליהו","gloss":"Eliya"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"fuu ɗe o wari"},{"surface":"כל","gloss":"fuu"},{"surface":"אשר","gloss":"ɗe"},{"surface":"הרג","gloss":"wari"},{"surface":"את","gloss":"⟨את⟩","marks":"annaɓe ɗin fuu"},{"surface":"כל","gloss":"fuu"},{"surface":"הנביאים","gloss":"annabaaɓe ɗin"},{"surface":"בחרב","gloss":"e kaafaahu"}],"timestamp":"2026-09-14T07:24:06.554343434Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Achab haali Izebel ⟨את⟩ fuu ɗe Eliyahu waɗi, e ⟨את⟩ fuu ɗe o wari ⟨את⟩ annabaaɓe ɗin fuu e kaafaahu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "haali"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu ɗe Eliya waɗi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "fuu ɗe o wari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annaɓe ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "annabaaɓe ɗin"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "e kaafaahu"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:06.554343434Z",
+  "model": "glm-5.3"
+}

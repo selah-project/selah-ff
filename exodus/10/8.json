@@ -1,1 +1,84 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "exodus 10:8", "book": "exodus", "lang": "ff", "chapter": 10, "translation": "Par'o artirii ⟨את⟩ Musa ⟨את⟩ e ⟨את⟩ Haaruun to makko; o wi'i ɓe: 'Njiime, gollon Yaawe Eloohim mon.' Ko hommboo e hommboo yahayɓe ɓen?", "tokens": [{"surface": "ויושב", "gloss": "artirii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Musa"}, {"surface": "משה", "gloss": "Musa"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "Haaruun"}, {"surface": "אהרן", "gloss": "Haaruun"}, {"surface": "אל", "gloss": "to"}, {"surface": "פרעה", "gloss": "Par'o"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אלהם", "gloss": "ɓe"}, {"surface": "לכו", "gloss": "njiime"}, {"surface": "עבדו", "gloss": "gollon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe Eloohim mon"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהיכם", "gloss": "Eloohim mon"}, {"surface": "מי", "gloss": "hommbee"}, {"surface": "ומי", "gloss": "e hommbee"}, {"surface": "ההלכים", "gloss": "yahayɓe ɓen"}], "timestamp": "2026-09-14T04:59:05.219051748Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Paroh artirii ⟨את⟩ Moshe ⟨את⟩ e ⟨את⟩ Aharon to makko; o wi'i ɓe: 'Njiime, gollon Yaawe Eloohim mon.' Ko hommboo e hommboo yahayɓe ɓen?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "artirii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Musa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Haaruun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "njiime"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gollon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim mon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloohim mon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hommbee"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "e hommbee"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yahayɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:05.219051748Z",
+  "model": "glm-5.3"
+}

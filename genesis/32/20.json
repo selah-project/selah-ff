@@ -1,1 +1,101 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "genesis 32:20", "book": "genesis", "lang": "ff", "chapter": 32, "translation": "O tammini kadi ⟨את⟩ ɗiɗaɓo on, kadi ⟨את⟩ tataɓo on, kadi ⟨את⟩ yolɓe ⟨את⟩ fuu ɓe njahi caggan koddooje ɗen, wi'ude: ko noon konngol ngol kaɗdataon e Esav so on hawri ⟨אתו⟩ mo.", "tokens": [{"surface": "ויצו", "gloss": "o tammini"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗiɗaɓo on"}, {"surface": "השני", "gloss": "ɗiɗaɓo on"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "tataɓo on"}, {"surface": "השלישי", "gloss": "tataɓo on"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yolɓe fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ההלכים", "gloss": "yolɓe ɓee"}, {"surface": "אחרי", "gloss": "caggan"}, {"surface": "העדרים", "gloss": "koddooje ɗen"}, {"surface": "לאמר", "gloss": "wi'ude"}, {"surface": "כדבר", "gloss": "noo konngol"}, {"surface": "הזה", "gloss": "ngol"}, {"surface": "תדברון", "gloss": "kaɗdataon"}, {"surface": "אל", "gloss": "e"}, {"surface": "עשו", "gloss": "Esav"}, {"surface": "במצאכם", "gloss": "so on hawri"}, {"surface": "אתו", "gloss": "⟨את⟩ mo", "marks": "mo"}], "timestamp": "2026-09-14T04:46:37.884629753Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "O tammini kadi ⟨את⟩ ɗiɗaɓo on, kadi ⟨את⟩ tataɓo on, kadi ⟨את⟩ yolɓe ⟨את⟩ fuu ɓe njahi caggan koddooje ɗen, wi'ude: ko noon konngol ngol kaɗdataon e Esav so on hawri mo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "o tammini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiɗaɓo on"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ɗiɗaɓo on"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tataɓo on"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "tataɓo on"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yolɓe fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yolɓe ɓee"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggan"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "koddooje ɗen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "noo konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kaɗdataon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "so on hawri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:37.884629753Z",
+  "model": "glm-5.3"
+}

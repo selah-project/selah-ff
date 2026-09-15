@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "exodus 2:20", "book": "exodus", "lang": "ff", "chapter": 2, "translation": "O wi'i to ɓiɓɓe makko rewɓe: \"O woni ko ɓuri? Ko waɗi ndee, daneeɗo on acci ⟨את⟩ gorko on? Noddon mo, o ñame ñaamdu.\"", "tokens": [{"surface": "ויאמר", "gloss": "O wi'i"}, {"surface": "אל", "gloss": "to"}, {"surface": "בנתיו", "gloss": "ɓiɓɓe makko rewɓe"}, {"surface": "ואיו", "gloss": "O woni ko ɓuri"}, {"surface": "למה", "gloss": "ko waɗi"}, {"surface": "זה", "gloss": "ndee"}, {"surface": "עזבתן", "gloss": "acci"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "gorko on"}, {"surface": "האיש", "gloss": "gorko on"}, {"surface": "קראן", "gloss": "Noddon mo"}, {"surface": "לו", "gloss": "mo"}, {"surface": "ויאכל", "gloss": "o ñame"}, {"surface": "לחם", "gloss": "ñaamdu"}], "timestamp": "2026-09-14T04:55:21.872112950Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i to ɓiɓɓe makko rewɓe: \"o woni ko ɓuri? Ko waɗi ndee, daneeɗo on acci ⟨את⟩ gorko on? Noddon mo, o ñame ñaamdu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ɓiɓɓe makko rewɓe"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "O woni ko ɓuri"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "acci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gorko on"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "gorko on"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Noddon mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "o ñame"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñaamdu"
+    }
+  ],
+  "timestamp": "2026-09-14T04:55:21.872112950Z",
+  "model": "glm-5.3"
+}

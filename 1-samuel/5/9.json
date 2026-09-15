@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "1-samuel 5:9", "book": "1-samuel", "lang": "ff", "chapter": 5, "translation": "Nde ɓe mbaylini ⟨אתו⟩, juuɗe Yaawe ⟨את⟩ arii e wuro ngo — muusnde mawnde no feewi — o fiyi ⟨את⟩ worɓe wuro ngo, tokoso haa mawɗo, dockeri ɓuri e maɓɓe.", "tokens": [{"surface": "ויהי", "gloss": "Nde"}, {"surface": "אחרי", "gloss": "ɓaawo nde"}, {"surface": "הסבו", "gloss": "ɓe mbaylini"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "ɗum (sanduku Eloohim)"}, {"surface": "ותהי", "gloss": "arii"}, {"surface": "יד", "gloss": "juuɗe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "בעיר", "gloss": "e wuro"}, {"surface": "מהומה", "gloss": "muusnde"}, {"surface": "גדולה", "gloss": "mawnde"}, {"surface": "מאד", "gloss": "no feewi"}, {"surface": "ויך", "gloss": "o fiyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "worɓe wuro ngo"}, {"surface": "אנשי", "gloss": "worɓe"}, {"surface": "העיר", "gloss": "wuro ngo"}, {"surface": "מקטן", "gloss": "tokoso"}, {"surface": "ועד", "gloss": "haa"}, {"surface": "גדול", "gloss": "mawɗo"}, {"surface": "וישתרו", "gloss": "ɓuri"}, {"surface": "להם", "gloss": "e maɓɓe"}, {"surface": "עפלים", "gloss": "dockeri"}], "timestamp": "2026-09-14T06:39:11.801893028Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Nde ɓe mbaylini, juuɗe Yaawe ⟨את⟩ arii e wuro ngo — muusnde mawnde no feewi — o fiyi ⟨את⟩ worɓe wuro ngo, tokoso haa mawɗo, dockeri ɓuri e maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo nde"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "ɓe mbaylini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum (sanduku Eloohim)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "arii"
+    },
+    {
+      "surface": "יד",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e wuro"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "muusnde"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe wuro ngo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngo"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "tokoso"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "dockeri"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:11.801893028Z",
+  "model": "glm-5.3"
+}

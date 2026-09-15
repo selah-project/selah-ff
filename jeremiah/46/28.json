@@ -1,1 +1,122 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "jeremiah 46:28", "book": "jeremiah", "lang": "ff", "chapter": 46, "translation": "A, maccuɗo am Yaawqoob, wata a rento, wi'i Yaawe; ko mi ⟨e ⟨את⟩ maa⟩; ko mi waɗata halkere e nder leƴƴi ɗin fuu, ɗo mi durnii maa ɗoon; kono e ⟨את⟩ maa mi waɗataa halkere; mi jaggintoo maa e ñaawoore, kono mi accataa ɗum laaɓtinaa e maa fof.", "tokens": [{"surface": "אתה", "gloss": "A"}, {"surface": "אל", "gloss": "wata"}, {"surface": "תירא", "gloss": "a rento"}, {"surface": "עבדי", "gloss": "maccuɗo am"}, {"surface": "יעקב", "gloss": "Yaawqoob"}, {"surface": "נאם", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "כי", "gloss": "ko"}, {"surface": "אתך", "gloss": "⟨את⟩ maa"}, {"surface": "אני", "gloss": "mi"}, {"surface": "כי", "gloss": "ko"}, {"surface": "אעשה", "gloss": "mi waɗata"}, {"surface": "כלה", "gloss": "halkere"}, {"surface": "בכל", "gloss": "e nder fuu"}, {"surface": "הגוים", "gloss": "leƴƴi ɗin"}, {"surface": "אשר", "gloss": "ɗo"}, {"surface": "הדחתיך", "gloss": "mi durnii maa"}, {"surface": "שמה", "gloss": "ɗoon"}, {"surface": "ואתך", "gloss": "e ⟨את⟩ maa", "marks": "maa"}, {"surface": "לא", "gloss": "waɗataa"}, {"surface": "אעשה", "gloss": "mi waɗata"}, {"surface": "כלה", "gloss": "halkere"}, {"surface": "ויסרתיך", "gloss": "mi jaggintoo maa"}, {"surface": "למשפט", "gloss": "e ñaawoore"}, {"surface": "ונקה", "gloss": "mi accataa ɗum laaɓtinaa"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "אנקך", "gloss": "e maa fof"}], "timestamp": "2026-09-14T08:28:27.221354465Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 46:28",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "A, maccuɗo am Ya'aqob, wata a rento, wi'i Yaawe; ko mi ⟨e ⟨את⟩ maa⟩; ko mi waɗata halkere e nder leƴƴi ɗin fuu, ɗo mi durnii maa ɗoon; kono e ⟨את⟩ maa mi waɗataa halkere; mi jaggintoo maa e ñaawoore, kono mi accataa ɗum laaɓtinaa e maa fof.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "A"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a rento"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɗo am"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "halkere"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder fuu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "הדחתיך",
+      "gloss": "mi durnii maa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ɗoon"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "e ⟨את⟩ maa",
+      "marks": "maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waɗataa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "halkere"
+    },
+    {
+      "surface": "ויסרתיך",
+      "gloss": "mi jaggintoo maa"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "e ñaawoore"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "mi accataa ɗum laaɓtinaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אנקך",
+      "gloss": "e maa fof"
+    }
+  ],
+  "timestamp": "2026-09-14T08:28:27.221354465Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"job 10:9","book":"job","lang":"ff","chapter":10,"translation":"Joftin, mi du'aani A, wonde no huɗo nii A tagi-mi , kono e ɓuuɓri A ruttay-mi.","tokens":[{"surface":"זכר","gloss":"Joftin"},{"surface":"נא","gloss":"mi du'aani A"},{"surface":"כי","gloss":"wonde"},{"surface":"כחמר","gloss":"no huɗo nii"},{"surface":"עשיתני","gloss":"A tagi-mi"},{"surface":"ואל","gloss":"kono e"},{"surface":"עפר","gloss":"ɓuuɓri"},{"surface":"תשיבני","gloss":"A ruttay-mi"}],"timestamp":"2026-09-14T10:09:14.277590845Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Joftin, mi du'aani A, wonde no huɗo nii A tagi-mi, kono e ɓuuɓri A ruttay-mi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Joftin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi du'aani A"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "no huɗo nii"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "A tagi-mi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kono e"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "A ruttay-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T10:09:14.277590845Z",
+  "model": "glm-5.3"
+}

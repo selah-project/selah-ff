@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 29:15","book":"genesis","lang":"ff","chapter":29,"translation":"Laaban wi'i Yaakuuba: hara sabu a ko mi baaba-banndiraawo, a gollanii mi e njoɓdi? Haalan mi ko njooɓdi maa ndin.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"לבן","gloss":"Laaban"},{"surface":"ליעקב","gloss":"Yaakuuba"},{"surface":"הכי","gloss":"hara sabu"},{"surface":"אחי","gloss":"mi baaba-banndiraawo"},{"surface":"אתה","gloss":"a ko"},{"surface":"ועבדתני","gloss":"a gollanii mi"},{"surface":"חנם","gloss":"e njoɓdi"},{"surface":"הגידה","gloss":"Haalan"},{"surface":"לי","gloss":"mi"},{"surface":"מה","gloss":"ko"},{"surface":"משכרתך","gloss":"njooɓdi maa ndin"}],"timestamp":"2026-09-14T04:43:42.114186337Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Laaban wi'i Ya'aqob: hara sabu a ko mi baaba-banndiraawo, a gollanii mi e njoɓdi? Haalan mi ko njooɓdi maa ndin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laaban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "hara sabu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mi baaba-banndiraawo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a ko"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "a gollanii mi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "e njoɓdi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Haalan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "njooɓdi maa ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:42.114186337Z",
+  "model": "glm-5.3"
+}

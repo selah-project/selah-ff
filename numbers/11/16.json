@@ -1,1 +1,114 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "numbers 11:16", "book": "numbers", "lang": "ff", "chapter": 11, "translation": "Yaawe wi'i Moosaa: Mooftu am haaje cappoɗe jeytaaɓe mawɓe Israya'il, ɗi anndaa wonde ko ɓe mawɓe yimɓe ⟨את⟩ ɓen e araŋkooɓe maɓɓe, ƴettu ɓen haa e Teental Naatirgal ngal, ɓe dari ton e maaɗa.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אל", "gloss": "e"}, {"surface": "משה", "gloss": "Moosaa"}, {"surface": "אספה", "gloss": "mooftu"}, {"surface": "לי", "gloss": "am"}, {"surface": "שבעים", "gloss": "cappoɗe"}, {"surface": "איש", "gloss": "haaje"}, {"surface": "מזקני", "gloss": "jeytaaɓe mawɓe"}, {"surface": "ישראל", "gloss": "Israya'il"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "ידעת", "gloss": "anndaa"}, {"surface": "כי", "gloss": "wonde"}, {"surface": "הם", "gloss": "ko ɓe"}, {"surface": "זקני", "gloss": "mawɓe"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "ושטריו", "gloss": "e araŋkooɓe maɓɓe"}, {"surface": "ולקחת", "gloss": "ƴettu"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓen", "marks": "ɓen"}, {"surface": "אל", "gloss": "haa e"}, {"surface": "אהל", "gloss": "Teental"}, {"surface": "מועד", "gloss": "Naatirgal ngal"}, {"surface": "והתיצבו", "gloss": "ɓe dari"}, {"surface": "שם", "gloss": "ton"}, {"surface": "עמך", "gloss": "e maaɗa"}], "timestamp": "2026-09-14T05:40:00.519970561Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 11:16",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Yaawe wi'i Moshe: Mooftu am haaje cappoɗe jeytaaɓe mawɓe Israa'iil, ɗi anndaa wonde ko ɓe mawɓe yimɓe ⟨את⟩ ɓen e araŋkooɓe maɓɓe, ƴettu ɓen haa e Teental Naatirgal ngal, ɓe dari ton e maaɗa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "mooftu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "cappoɗe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "haaje"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "jeytaaɓe mawɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ko ɓe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ושטריו",
+      "gloss": "e araŋkooɓe maɓɓe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓen",
+      "marks": "ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Teental"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Naatirgal ngal"
+    },
+    {
+      "surface": "והתיצבו",
+      "gloss": "ɓe dari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:40:00.519970561Z",
+  "model": "glm-5.3"
+}

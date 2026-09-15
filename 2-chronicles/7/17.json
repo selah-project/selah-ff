@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"2-chronicles 7:17","book":"2-chronicles","lang":"ff","chapter":7,"translation":"Kono a, si a yahii yeeso am no Dawuuda baaba maa yahiri, e waɗde ko kala ko Mi jamminii maa, e sariyaaji am e ñaawoore am a re'u,","tokens":[{"surface":"ואתה","gloss":"Kono a"},{"surface":"אם","gloss":"si"},{"surface":"תלך","gloss":"a yahii"},{"surface":"לפני","gloss":"yeeso"},{"surface":"כאשר","gloss":"no"},{"surface":"הלך","gloss":"yahiri"},{"surface":"דויד","gloss":"Dawuuda"},{"surface":"אביך","gloss":"baaba maa"},{"surface":"ולעשות","gloss":"e waɗde"},{"surface":"ככל","gloss":"ko kala"},{"surface":"אשר","gloss":"ko"},{"surface":"צויתיך","gloss":"Mi jamminii maa"},{"surface":"וחקי","gloss":"e sariyaaji am"},{"surface":"ומשפטי","gloss":"e ñaawoore am"},{"surface":"תשמור","gloss":"a re'u"}],"timestamp":"2026-09-14T13:08:04.116446680Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 7:17",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kono a, si a yahii yeeso am no Daawuuda baaba maa yahiri, e waɗde ko kala ko mi jamminii maa, e sariyaaji am e ñaawoore am a re'u,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kono a"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "a yahii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahiri"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "e waɗde"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ko kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "mi jamminii maa"
+    },
+    {
+      "surface": "וחקי",
+      "gloss": "e sariyaaji am"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "e ñaawoore am"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "a re'u"
+    }
+  ],
+  "timestamp": "2026-09-14T13:08:04.116446680Z",
+  "model": "glm-5.3"
+}

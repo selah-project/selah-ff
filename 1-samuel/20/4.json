@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-samuel 20:4","book":"1-samuel","lang":"ff","chapter":20,"translation":"Yonatan wi'i Dawudi: ko ɓernde maa wi'i, mi mahaata-ɗum fii maa.","tokens":[{"surface":"ויאמר","gloss":"o-wi'i"},{"surface":"יהונתן","gloss":"Yonatan"},{"surface":"אל","gloss":"e"},{"surface":"דוד","gloss":"Dawidi"},{"surface":"מה","gloss":"ko"},{"surface":"תאמר","gloss":"ɓernde-maa-wi'i"},{"surface":"נפשך","gloss":"ɓernde-maa"},{"surface":"ואעשה","gloss":"mahaata-mi"},{"surface":"לך","gloss":"fii-maa"}],"timestamp":"2026-09-14T06:48:14.294222547Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Yonatan wi'i Daawuudi: ko ɓernde maa wi'i, mi mahaata-ɗum fii maa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o-wi'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ɓernde-maa-wi'i"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ɓernde-maa"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mahaata-mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fii-maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:14.294222547Z",
+  "model": "glm-5.3"
+}

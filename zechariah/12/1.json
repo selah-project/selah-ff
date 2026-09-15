@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":1,"ref":"zechariah 12:1","book":"zechariah","lang":"ff","chapter":12,"translation":"Masaajo konngol Yaawe fii Yisraa'el. Jaaynugol Yaawe: moɗdinotooɗo kammuuli ɗin, e waɗotooɗo fonndaasihu leydi ndin, e tagotooɗo ruuhu neɗɗo nder nder mun.","tokens":[{"surface":"משא","gloss":"Masaajo"},{"surface":"דבר","gloss":"konngol"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"על","gloss":"fii"},{"surface":"ישראל","gloss":"Yisraa'el"},{"surface":"נאם","gloss":"Jaaynugol"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"נטה","gloss":"moɗdinotooɗo"},{"surface":"שמים","gloss":"kammuuli ɗin"},{"surface":"ויסד","gloss":"e waɗotooɗo fonndaasihu"},{"surface":"ארץ","gloss":"leydi ndin"},{"surface":"ויצר","gloss":"e tagotooɗo"},{"surface":"רוח","gloss":"ruuhu"},{"surface":"אדם","gloss":"neɗɗo"},{"surface":"בקרבו","gloss":"nder nder mun"}],"timestamp":"2026-09-14T09:14:48.161501474Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Masaajo konngol Yaawe fii Israa'iil. Jaaynugol Yaawe: moɗdinotooɗo kammuuli ɗin, e waɗotooɗo fonndaasihu leydi ndin, e tagotooɗo ruuhu neɗɗo nder nder mun.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masaajo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Jaaynugol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "moɗdinotooɗo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli ɗin"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "e waɗotooɗo fonndaasihu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "e tagotooɗo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nder nder mun"
+    }
+  ],
+  "timestamp": "2026-09-14T09:14:48.161501474Z",
+  "model": "glm-5.3"
+}

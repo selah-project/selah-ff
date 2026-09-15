@@ -1,1 +1,47 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "deuteronomy 6:13", "book": "deuteronomy", "lang": "ff", "chapter": 6, "translation": "⟨את⟩ Yaawe Eloohim maa on hulu; ⟨את⟩ kanko ⟨אתו⟩ on golla; e innde makko on onƴƴa.", "tokens": [{"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe Eloohim maa"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהיך", "gloss": "Eloohim maa"}, {"surface": "תירא", "gloss": "on hulu"}, {"surface": "ואתו", "gloss": "kanko ⟨את⟩ mo", "marks": "on golla (kanko Yaawe)"}, {"surface": "תעבד", "gloss": "on golla"}, {"surface": "ובשמו", "gloss": "e innde makko"}, {"surface": "תשבע", "gloss": "on onƴƴa"}], "timestamp": "2026-09-14T11:48:43.535083291Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yaawe Eloohim maa on hulu; ⟨את⟩ kanko on golla; e innde makko on onƴƴa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe Eloohim maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "on hulu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "kanko ⟨את⟩ mo",
+      "marks": "on golla (kanko Yaawe)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "on golla"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "e innde makko"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "on onƴƴa"
+    }
+  ],
+  "timestamp": "2026-09-14T11:48:43.535083291Z",
+  "model": "glm-5.3"
+}

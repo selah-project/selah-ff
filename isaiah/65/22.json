@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":22,"ref":"isaiah 65:22","book":"isaiah","lang":"ff","chapter":65,"translation":"Alaa ɓe mahata, gooɗɗo jooɗota; alaa ɓe piddata, gooɗɗo ñaamata; kono no duuɓi lekki ngol nii, ko duuɓi yimɓe Am; e golle juuɗe maɓɓe cuɓaaɓe Am ɓe kuutortoo.","tokens":[{"surface":"לא","gloss":"alaa"},{"surface":"יבנו","gloss":"ɓe mahata"},{"surface":"ואחר","gloss":"gooɗɗo"},{"surface":"ישב","gloss":"jooɗota"},{"surface":"לא","gloss":"alaa"},{"surface":"יטעו","gloss":"ɓe piddata"},{"surface":"ואחר","gloss":"gooɗɗo"},{"surface":"יאכל","gloss":"ñaamata"},{"surface":"כי","gloss":"kono"},{"surface":"כימי","gloss":"no duuɓi"},{"surface":"העץ","gloss":"lekki ngol"},{"surface":"ימי","gloss":"duuɓi"},{"surface":"עמי","gloss":"yimɓe Am"},{"surface":"ומעשה","gloss":"e golle"},{"surface":"ידיהם","gloss":"juuɗe maɓɓe"},{"surface":"יבלו","gloss":"ɓe kuutortoo"},{"surface":"בחירי","gloss":"cuɓaaɓe Am"}],"timestamp":"2026-09-14T08:04:02.460995359Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 65:22",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 65,
+  "translation": "Alaa ɓe mahata, gooɗɗo jooɗota; alaa ɓe piddata, gooɗɗo ñaamata; kono no duuɓi lekki ngol nii, ko duuɓi yimɓe am; e golle juuɗe maɓɓe cuɓaaɓe am ɓe kuutortoo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יבנו",
+      "gloss": "ɓe mahata"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "gooɗɗo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "jooɗota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "יטעו",
+      "gloss": "ɓe piddata"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "gooɗɗo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "no duuɓi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "lekki ngol"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "e golle"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "juuɗe maɓɓe"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ɓe kuutortoo"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "cuɓaaɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T08:04:02.460995359Z",
+  "model": "glm-5.3"
+}

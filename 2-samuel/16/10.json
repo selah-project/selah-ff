@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "2-samuel 16:10", "book": "2-samuel", "lang": "ff", "chapter": 16, "translation": "Laamɗo on wi'i: ko min e on woni geɗal, ɓiɓɓe Tseruuyah? Sabo o ñaawetee, kadi sabo Yaawe wi'i mo: ñaawa ⟨את⟩ Daviid. Hol noon mbi'a: ko waɗi nde waɗɗunɗaa non?", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "מה", "gloss": "ko"}, {"surface": "לי", "gloss": "min"}, {"surface": "ולכם", "gloss": "e on"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "צריה", "gloss": "Tseruuyah"}, {"surface": "כי", "gloss": "sabo"}, {"surface": "יקלל", "gloss": "o ñaawetee"}, {"surface": "וכי", "gloss": "kadi sabo"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "לו", "gloss": "mo"}, {"surface": "קלל", "gloss": "ñaawa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Daviid"}, {"surface": "דוד", "gloss": "Daviid"}, {"surface": "ומי", "gloss": "hol"}, {"surface": "יאמר", "gloss": "mbi'a"}, {"surface": "מדוע", "gloss": "ko waɗi"}, {"surface": "עשיתה", "gloss": "waɗɗunɗaa"}, {"surface": "כן", "gloss": "non"}], "timestamp": "2026-09-14T07:02:19.714314931Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Laamɗo on wi'i: ko min e on woni geɗal, ɓiɓɓe Tseruuyah? Sabo o ñaawetee, kadi sabo Yaawe wi'i mo: ñaawa ⟨את⟩ Daawuud. Hol noon mbi'a: ko waɗi nde waɗɗunɗaa non?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "e on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruuyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "o ñaawetee"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kadi sabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ñaawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daviid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko waɗi"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "waɗɗunɗaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:19.714314931Z",
+  "model": "glm-5.3"
+}

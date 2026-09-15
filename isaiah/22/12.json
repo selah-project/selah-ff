@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":12,"ref":"isaiah 22:12","book":"isaiah","lang":"ff","chapter":22,"translation":"Nde Adonaay Yaawe, Seba'oot, noddi e ñalnde nden fii cujjugol e sunaare e junngol werngo e ɓoggol bommbo.","tokens":[{"surface":"ויקרא","gloss":"Noddi"},{"surface":"אדני","gloss":"Adonaay"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"צבאות","gloss":"Seba'oot"},{"surface":"ביום","gloss":"e ñalnde"},{"surface":"ההוא","gloss":"nden"},{"surface":"לבכי","gloss":"fii cujjugol"},{"surface":"ולמספד","gloss":"e sunaare"},{"surface":"ולקרחה","gloss":"e junngol werngo"},{"surface":"ולחגר","gloss":"e ɓoggol"},{"surface":"שק","gloss":"bommbo"}],"timestamp":"2026-09-14T12:13:00.916297309Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Nde Adonaay Yaawe, Tsevaot, noddi e ñalnde nden fii cujjugol e sunaare e junngol werngo e ɓoggol bommbo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Noddi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "fii cujjugol"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "e sunaare"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "e junngol werngo"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "e ɓoggol"
+    },
+    {
+      "surface": "שק",
+      "gloss": "bommbo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:13:00.916297309Z",
+  "model": "glm-5.3"
+}

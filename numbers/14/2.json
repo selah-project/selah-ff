@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 14:2","book":"numbers","lang":"ff","chapter":14,"translation":"Ɓiɓɓe Israayiila fof ɓe wasitii dow Moshe e dow Aharon, yimɓe ɗon ɓen fof ɓe wi'i ɓe: E on min maayi nder leydi Misra walla nder wowla nde, e on min maayi.","tokens":[{"surface":"וילנו","gloss":"ɓe wasitii"},{"surface":"על","gloss":"dow"},{"surface":"משה","gloss":"Moshe"},{"surface":"ועל","gloss":"e dow"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"כל","gloss":"fot"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"ישראל","gloss":"Israayiila"},{"surface":"ויאמרו","gloss":"ɓe wi'i"},{"surface":"אלהם","gloss":"ɓe"},{"surface":"כל","gloss":"fot"},{"surface":"העדה","gloss":"yimɓe ɗon ɓen"},{"surface":"לו","gloss":"e on"},{"surface":"מתנו","gloss":"min maayi"},{"surface":"בארץ","gloss":"nder leydi"},{"surface":"מצרים","gloss":"Misra"},{"surface":"או","gloss":"walla"},{"surface":"במדבר","gloss":"nder wowla"},{"surface":"הזה","gloss":"nde"},{"surface":"לו","gloss":"e on"},{"surface":"מתנו","gloss":"min maayi"}],"timestamp":"2026-09-14T05:39:47.351956708Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 14:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Ɓiɓɓe Israa'iila fof ɓe wasitii dow Moshe e dow Aharon, yimɓe ɗon ɓen fof ɓe wi'i ɓe: E on min maayi nder leydi Misra walla nder wowla nde, e on min maayi.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ɓe wasitii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fot"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "yimɓe ɗon ɓen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e on"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "min maayi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "nder leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misra"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nder wowla"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e on"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "min maayi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:47.351956708Z",
+  "model": "glm-5.3"
+}

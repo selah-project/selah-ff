@@ -1,1 +1,64 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "genesis 12:20", "book": "genesis", "lang": "ff", "chapter": 12, "translation": "Ndeen Par'oh yamiri worɓe fii makko; ɓe neldi mo — ⟨את⟩ debbo makko e ⟨את⟩ ko woni ⟨את⟩ fof e makko.", "tokens": [{"surface": "ויצו", "gloss": "yamiri"}, {"surface": "עליו", "gloss": "fii makko"}, {"surface": "פרעה", "gloss": "Par'oh"}, {"surface": "אנשים", "gloss": "worɓe"}, {"surface": "וישלחו", "gloss": "ɓe neldi"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "debbo makko"}, {"surface": "אשתו", "gloss": "debbo makko"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ko woni fof"}, {"surface": "כל", "gloss": "fof"}, {"surface": "אשר", "gloss": "ko woni"}, {"surface": "לו", "gloss": "e makko"}], "timestamp": "2026-09-14T11:32:20.156218920Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ndeen Paroh yamiri worɓe fii makko; ɓe neldi mo — ⟨את⟩ debbo makko e ⟨את⟩ ko woni ⟨את⟩ fof e makko.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fii makko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "debbo makko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ko woni fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T11:32:20.156218920Z",
+  "model": "glm-5.3"
+}

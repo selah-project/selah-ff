@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":14,"ref":"genesis 50:14","book":"genesis","lang":"ff","chapter":50,"translation":"Yuusufa artii Misrayim, kanko e miñiɓe mun, e fuu ɓe njahɓe e makko ⟨את⟩ fii mudnude baaba mun ⟨את⟩, ɓaawo nde o mudni baaba mun ⟨את⟩.","tokens":[{"surface":"וישב","gloss":"artii"},{"surface":"יוסף","gloss":"Yuusufa"},{"surface":"מצרימה","gloss":"Misrayim"},{"surface":"הוא","gloss":"kanko"},{"surface":"ואחיו","gloss":"e miñiɓe mun"},{"surface":"וכל","gloss":"e fuu"},{"surface":"העלים","gloss":"ɓe njahɓe/ƴelluɓe"},{"surface":"אתו","gloss":"e makko ⟨את⟩"},{"surface":"לקבר","gloss":"fii mudnude"},{"surface":"את","gloss":"⟨את⟩","marks":"baaba mun"},{"surface":"אביו","gloss":"baaba mun"},{"surface":"אחרי","gloss":"ɓaawo"},{"surface":"קברו","gloss":"o mudni"},{"surface":"את","gloss":"⟨את⟩","marks":"baaba mun"},{"surface":"אביו","gloss":"baaba mun"}],"timestamp":"2026-09-14T11:33:30.417954598Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Yoseef artii Misrayim, kanko e miñiɓe mun, e fuu ɓe njahɓe e makko ⟨את⟩ fii mudnude baaba mun ⟨את⟩, ɓaawo nde o mudni baaba mun ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "artii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "e miñiɓe mun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "ɓe njahɓe/ƴelluɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e makko ⟨את⟩"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "fii mudnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "o mudni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:30.417954598Z",
+  "model": "glm-5.3"
+}

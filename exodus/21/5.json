@@ -1,1 +1,72 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "exodus 21:5", "book": "exodus", "lang": "ff", "chapter": 21, "translation": "Kono si maccuɗo on wi'i wi'ata: Mi njiɗi ⟨את⟩ Adonaay am, ⟨את⟩ rewde am e ⟨את⟩ ɓiɓɓe am; mi yaltataa dimma.", "tokens": [{"surface": "ואם", "gloss": "kono si"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יאמר", "gloss": "wi'ata"}, {"surface": "העבד", "gloss": "maccuɗo on"}, {"surface": "אהבתי", "gloss": "mi njiɗi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Adonaay am"}, {"surface": "אדני", "gloss": "Adonaay am"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "rewde am"}, {"surface": "אשתי", "gloss": "rewde am"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "ɓiɓɓe am"}, {"surface": "בני", "gloss": "ɓiɓɓe am"}, {"surface": "לא", "gloss": "Walaa"}, {"surface": "אצא", "gloss": "mi yalta"}, {"surface": "חפשי", "gloss": "dimma"}], "timestamp": "2026-09-14T05:04:52.214720636Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono si maccuɗo on wi'i wi'ata: Mi njiɗi ⟨את⟩ Joomi am, ⟨את⟩ rewde am e ⟨את⟩ ɓiɓɓe am; mi yaltataa dimma.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "wi'ata"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "maccuɗo on"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mi njiɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonaay am"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewde am"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "rewde am"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓiɓɓe am"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Walaa"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "mi yalta"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "dimma"
+    }
+  ],
+  "timestamp": "2026-09-14T05:04:52.214720636Z",
+  "model": "glm-5.3"
+}

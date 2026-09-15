@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "zechariah 11:6", "book": "zechariah", "lang": "ff", "chapter": 11, "translation": "Fii mi yurrataa ɓuuɓɓe leydi ndin, jaɓata Yaawe ; e ndaare, ko mi nana ⟨את⟩ neɗɗo on, kala e junngo sehil mum, e junngo laamɗo mum ; ɓe mbaraa ⟨את⟩ leydi ndin, mi ñaawataa ɗum e juuɗe maɓɓe.", "tokens": [{"surface": "כי", "gloss": "fii"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "אחמול", "gloss": "mi yurrata"}, {"surface": "עוד", "gloss": "ɓuri"}, {"surface": "על", "gloss": "e"}, {"surface": "ישבי", "gloss": "ɓuuɓɓe"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "נאם", "gloss": "jaɓata"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "והנה", "gloss": "e ndaare"}, {"surface": "אנכי", "gloss": "ko mi"}, {"surface": "ממציא", "gloss": "nana"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "neɗɗo on"}, {"surface": "האדם", "gloss": "neɗɗo on"}, {"surface": "איש", "gloss": "kala"}, {"surface": "ביד", "gloss": "e junngo"}, {"surface": "רעהו", "gloss": "sehil mum"}, {"surface": "וביד", "gloss": "e junngo"}, {"surface": "מלכו", "gloss": "laamɗo mum"}, {"surface": "וכתתו", "gloss": "ɓe mbaraa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leydi ndin"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "ולא", "gloss": "wanaa"}, {"surface": "אציל", "gloss": "mi ñaawata ɗum"}, {"surface": "מידם", "gloss": "e juuɗe maɓɓe"}], "timestamp": "2026-09-14T09:15:14.153346067Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 11:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Fii mi yurrataa ɓuuɓɓe leydi ndin, jaɓata Yaawe; e ndaare, ko mi nana ⟨את⟩ neɗɗo on, kala e junngo sehil mum, e junngo laamɗo mum; ɓe mbaraa ⟨את⟩ leydi ndin, mi ñaawataa ɗum e juuɗe maɓɓe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אחמול",
+      "gloss": "mi yurrata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɓuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ɓuuɓɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jaɓata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e ndaare"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko mi"
+    },
+    {
+      "surface": "ממציא",
+      "gloss": "nana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neɗɗo on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mum"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "laamɗo mum"
+    },
+    {
+      "surface": "וכתתו",
+      "gloss": "ɓe mbaraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "אציל",
+      "gloss": "mi ñaawata ɗum"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "e juuɗe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T09:15:14.153346067Z",
+  "model": "glm-5.3"
+}

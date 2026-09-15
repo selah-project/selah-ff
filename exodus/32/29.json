@@ -1,1 +1,69 @@
-{"tier":"glm-5.3","verse":29,"ref":"exodus 32:29","book":"exodus","lang":"ff","chapter":32,"translation":"Muusaa wi'i: \"Millooron junnde mon ɗen hannde fii Yaawe, gooto e mon e ɓiy mun e miñiiko mun, ngam Yaawe hokkore on himmude hannde.\"","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"משה","gloss":"Muusaa"},{"surface":"מלאו","gloss":"Millooron"},{"surface":"ידכם","gloss":"junnde mon ɗen"},{"surface":"היום","gloss":"hannde"},{"surface":"ליהוה","gloss":"fii Yaawe"},{"surface":"כי","gloss":"gooto e mon"},{"surface":"איש","gloss":"gooto"},{"surface":"בבנו","gloss":"e ɓiy mun"},{"surface":"ובאחיו","gloss":"e miñiiko mun"},{"surface":"ולתת","gloss":"ngam hokkore"},{"surface":"עליכם","gloss":"on"},{"surface":"היום","gloss":"hannde"},{"surface":"ברכה","gloss":"himmude"}],"timestamp":"2026-09-15T06:05:32.012507363Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.3",
+  "verse": 29,
+  "ref": "exodus 32:29",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Moshe wi'i: \"Millooron junnde mon ɗen hannde fii Yaawe, gooto e mon e ɓiy mun e miñiiko mun, ngam Yaawe hokkore on himmude hannde.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "Millooron"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "junnde mon ɗen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gooto e mon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "בבנו",
+      "gloss": "e ɓiy mun"
+    },
+    {
+      "surface": "ובאחיו",
+      "gloss": "e miñiiko mun"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ngam hokkore"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "himmude"
+    }
+  ],
+  "timestamp": "2026-09-15T06:05:32.012507363Z",
+  "model": "glm-5.3"
+}

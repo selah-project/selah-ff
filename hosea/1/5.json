@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "hosea 1:5", "book": "hosea", "lang": "ff", "chapter": 1, "translation": "Nde waɗata, e ñalnde nden, mi coynay ⟨את⟩ kaasgol Yisraa'el nder ndeen Yizreel.", "tokens": [{"surface": "והיה", "gloss": "nde waɗata"}, {"surface": "ביום", "gloss": "e ñalnde"}, {"surface": "ההוא", "gloss": "nden"}, {"surface": "ושברתי", "gloss": "mi coynay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kaasgol Yisraa'el"}, {"surface": "קשת", "gloss": "kaasgol"}, {"surface": "ישראל", "gloss": "Yisraa'el"}, {"surface": "בעמק", "gloss": "nder ndeen"}, {"surface": "יזרעאל", "gloss": "Yizreel"}], "timestamp": "2026-09-14T08:57:50.100691872Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Nde waɗata, e ñalnde nden, mi coynay ⟨את⟩ kaasgol Israa'iil nder ndeen Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "nde waɗata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "e ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "mi coynay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaasgol Yisraa'el"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kaasgol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "nder ndeen"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:50.100691872Z",
+  "model": "glm-5.3"
+}

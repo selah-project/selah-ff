@@ -1,1 +1,123 @@
-{"tier": "glm-5.2", "verse": 12, "ref": "exodus 33:12", "book": "exodus", "lang": "ff", "chapter": 33, "translation": "Musa wi'i Yaawe: “Yi'u, a wi'ii am ummin ⟨את⟩ yimɓe ɓen, kono a anndinaani ⟨את⟩ hol ñaawoowo maa neldu e am; a wi'ii kadi: mi anndi ma innde, maa a heɓi yurmeende e gite am.”", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "משה", "gloss": "Musa"}, {"surface": "אל", "gloss": "e"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ראה", "gloss": "Yi'u"}, {"surface": "אתה", "gloss": "a"}, {"surface": "אמר", "gloss": "wi'ii"}, {"surface": "אלי", "gloss": "am"}, {"surface": "העל", "gloss": "ummin"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yimɓe ɓen"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "הזה", "gloss": "ɗen"}, {"surface": "ואתה", "gloss": "kono a"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "הודעתני", "gloss": "anndinaani"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hol ñaawoowo maa neldu e am"}, {"surface": "אשר", "gloss": "hol"}, {"surface": "תשלח", "gloss": "neldata"}, {"surface": "עמי", "gloss": "e am"}, {"surface": "ואתה", "gloss": "a"}, {"surface": "אמרת", "gloss": "wi'ii"}, {"surface": "ידעתיך", "gloss": "mi anndi ma"}, {"surface": "בשם", "gloss": "innde"}, {"surface": "וגם", "gloss": "maa"}, {"surface": "מצאת", "gloss": "a heɓi"}, {"surface": "חן", "gloss": "yurmeende"}, {"surface": "בעיני", "gloss": "e gite am"}], "timestamp": "2026-09-14T05:12:08.944747612Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Moshe wi'i Yaawe: “Yi'u, a wi'ii am ummin ⟨את⟩ yimɓe ɓen, kono a anndinaani ⟨את⟩ hol ñaawoowo maa neldu e am; a wi'ii kadi: mi anndi ma innde, maa a heɓi yurmeende e gite am.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Yi'u"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'ii"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "העל",
+      "gloss": "ummin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "anndinaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hol ñaawoowo maa neldu e am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hol"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "neldata"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wi'ii"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "mi anndi ma"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "a heɓi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:08.944747612Z",
+  "model": "glm-5.3"
+}

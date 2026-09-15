@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "2-chronicles 33:16", "book": "2-chronicles", "lang": "ff", "chapter": 33, "translation": "O fewniti ⟨את⟩ mazbeah ⟨את⟩ Yaawe, o saakti e mayre sarje ɗe jam e yettoode, o wi'i Yahuuda ɗum gollu Yaawe, Eloohim Israa’iil.", "tokens": [{"surface": "ויכן", "gloss": "o fewniti"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mazbeah Yaawe"}, {"surface": "מזבח", "gloss": "mazbeah"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ויזבח", "gloss": "o saakti"}, {"surface": "עליו", "gloss": "e mayre"}, {"surface": "זבחי", "gloss": "sarje"}, {"surface": "שלמים", "gloss": "ɗe jam"}, {"surface": "ותודה", "gloss": "e yettoode"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "ליהודה", "gloss": "Yahuuda"}, {"surface": "לעבוד", "gloss": "ɗum gollu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israa’iil"}], "timestamp": "2026-09-14T11:27:07.756629307Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O fewniti ⟨את⟩ mazbeah ⟨את⟩ Yaawe, o saakti e mayre sarje ɗe jam e yettoode, o wi'i Yahuuda ɗum gollu Yaawe, Eloohim Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "o fewniti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mazbeah Yaawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbeah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "o saakti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sarje"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ɗe jam"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "e yettoode"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "ɗum gollu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:27:07.756629307Z",
+  "model": "glm-5.3"
+}

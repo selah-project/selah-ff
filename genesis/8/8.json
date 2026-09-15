@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "genesis 8:8", "book": "genesis", "lang": "ff", "chapter": 8, "translation": "O ummitinii ⟨את⟩ ƴiyre nden ⟨את⟩ ummoriiɗo e makko, ngam yi'ude so tawii ndiyam ɗen ɗooʼii e dow bannge leydi kanne ndin.", "tokens": [{"surface": "וישלח", "gloss": "O ummitinii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ƴiyre nden"}, {"surface": "היונה", "gloss": "ƴiyre nden"}, {"surface": "מאתו", "gloss": "ummoriiɗo e ⟨את⟩ makko"}, {"surface": "לראות", "gloss": "ngam yi'ude"}, {"surface": "הקלו", "gloss": "ɗooʼii"}, {"surface": "המים", "gloss": "ndiyam ɗen"}, {"surface": "מעל", "gloss": "e dow"}, {"surface": "פני", "gloss": "bannge"}, {"surface": "האדמה", "gloss": "leydi kanne ndin"}], "timestamp": "2026-09-14T04:34:19.466179511Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O ummitinii ⟨את⟩ ƴiyre nden ⟨את⟩ ummoriiɗo e makko, ngam yi'ude so tawii ndiyam ɗen ɗoo'ii e dow bannge leydi kanne ndin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "O ummitinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiyre nden"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ƴiyre nden"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ummoriiɗo e ⟨את⟩ makko"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngam yi'ude"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ɗoo'ii"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bannge"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi kanne ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:34:19.466179511Z",
+  "model": "glm-5.3"
+}

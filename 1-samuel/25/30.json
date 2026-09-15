@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "1-samuel 25:30", "book": "1-samuel", "lang": "ff", "chapter": 25, "translation": "Ko nden waɗata, si Yaawe waɗanii joomi am ko yaahu e ko o wiyi fof ⟨את⟩ moƴƴere nden fii maaɗa, o toɗɗanii maaɗa wonde ardinooɗo dow Yisraayel,", "tokens": [{"surface": "והיה", "gloss": "ko nden waɗata"}, {"surface": "כי", "gloss": "si"}, {"surface": "יעשה", "gloss": "waɗanii"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "לאדני", "gloss": "joomi am"}, {"surface": "ככל", "gloss": "ko yaahu e"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "דבר", "gloss": "o wiyi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "moƴƴere nden"}, {"surface": "הטובה", "gloss": "moƴƴere nden"}, {"surface": "עליך", "gloss": "fii maaɗa"}, {"surface": "וצוך", "gloss": "o toɗɗanii maaɗa"}, {"surface": "לנגיד", "gloss": "ardinooɗo"}, {"surface": "על", "gloss": "dow"}, {"surface": "ישראל", "gloss": "Yisraayel"}], "timestamp": "2026-09-14T06:51:42.688958017Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 25:30",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ko nden waɗata, si Yaawe waɗanii joomi am ko yaahu e ko o wiyi fof ⟨את⟩ moƴƴere nden fii maaɗa, o toɗɗanii maaɗa wonde ardinooɗo dow Israa'iil,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ko nden waɗata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗanii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "joomi am"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ko yaahu e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moƴƴere nden"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "moƴƴere nden"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fii maaɗa"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "o toɗɗanii maaɗa"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "ardinooɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:42.688958017Z",
+  "model": "glm-5.3"
+}

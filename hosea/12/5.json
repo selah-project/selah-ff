@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":5,"ref":"hosea 12:5","book":"hosea","lang":"ff","chapter":12,"translation":"O jarribaade e malaa'ika on o heɓi mo; o woyi, o torii Mo; to Bet-El omo tari Mo, ɗon kadi o wolwata e amen.","tokens":[{"surface":"וישר","gloss":"o jarribaade"},{"surface":"אל","gloss":"e"},{"surface":"מלאך","gloss":"malaa'ika on"},{"surface":"ויכל","gloss":"o heɓi mo"},{"surface":"בכה","gloss":"o woyi"},{"surface":"ויתחנן","gloss":"o torii"},{"surface":"לו","gloss":"Mo"},{"surface":"בית","gloss":"Bet-"},{"surface":"אל","gloss":"-El"},{"surface":"ימצאנו","gloss":"omo tari Mo"},{"surface":"ושם","gloss":"ɗon kadi"},{"surface":"ידבר","gloss":"o wolwata"},{"surface":"עמנו","gloss":"e amen"}],"timestamp":"2026-09-14T12:32:02.754144836Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "O jarribaade e malaa'ika on o heɓi mo; o woyi, o torii mo; to Bet-El omo tari mo, ɗon kadi o wolwata e amen.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "o jarribaade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaa'ika on"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "o heɓi mo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "o woyi"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "o torii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "omo tari mo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ɗon kadi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o wolwata"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "e amen"
+    }
+  ],
+  "timestamp": "2026-09-14T12:32:02.754144836Z",
+  "model": "glm-5.3"
+}

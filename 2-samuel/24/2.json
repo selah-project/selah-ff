@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "2-samuel 24:2", "book": "2-samuel", "lang": "ff", "chapter": 24, "translation": "Laamɗo on wi'i Yoowab, mawɗo konu ngun wonɗo e makko: illo jaaɓɓa e kala leƴƴi Yisraa'iil, Dan haa e Beer-Sheba, ɓe limtu ⟨את⟩ yimɓe ɓen, mi anndu ⟨את⟩ limoore ⟨את⟩ yimɓe ɓen.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "המלך", "gloss": "Laamɗo on"}, {"surface": "אל", "gloss": "e"}, {"surface": "יואב", "gloss": "Yoowab"}, {"surface": "שר", "gloss": "mawɗo"}, {"surface": "החיל", "gloss": "konu"}, {"surface": "אשר", "gloss": "ñoño"}, {"surface": "אתו", "gloss": "e ⟨את⟩ makko"}, {"surface": "שוט", "gloss": "illo"}, {"surface": "נא", "gloss": "jaaɓɓa"}, {"surface": "בכל", "gloss": "e kala"}, {"surface": "שבטי", "gloss": "leƴƴi"}, {"surface": "ישראל", "gloss": "Yisraa'iil"}, {"surface": "מדן", "gloss": "Dan"}, {"surface": "ועד", "gloss": "haa e"}, {"surface": "באר", "gloss": "Beer"}, {"surface": "שבע", "gloss": "Sheba"}, {"surface": "ופקדו", "gloss": "ɓe limtu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yimɓe ɓen"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "וידעתי", "gloss": "mi anndu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "limoore yimɓe ɓen"}, {"surface": "מספר", "gloss": "limoore"}, {"surface": "העם", "gloss": "yimɓe ɓen"}], "timestamp": "2026-09-14T07:08:17.706140190Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Laamɗo on wi'i Yoowab, mawɗo konu ngun wonɗo e makko: illo jaaɓɓa e kala leƴƴi Israa'iil, Dan haa e Beer-Sheba, ɓe limtu ⟨את⟩ yimɓe ɓen, mi anndu ⟨את⟩ limoore ⟨את⟩ yimɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Laamɗo on"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoowab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "konu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ñoño"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "e ⟨את⟩ makko"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "illo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jaaɓɓa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "ɓe limtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "mi anndu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limoore yimɓe ɓen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "limoore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T07:08:17.706140190Z",
+  "model": "glm-5.3"
+}

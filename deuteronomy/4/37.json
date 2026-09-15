@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 37, "ref": "deuteronomy 4:37", "book": "deuteronomy", "lang": "ff", "chapter": 4, "translation": "Kadi sabu O muñi ⟨את⟩ baabiraaɓe maa, o suɓi zera maɓɓe ɓaawo maɓɓe, o yaltini maa e yeeso mun, e semteere mun mawnde, ummoraade Misrayim.", "tokens": [{"surface": "ותחת", "gloss": "Kadi sabu"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "אהב", "gloss": "O muñi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "baabiraaɓe maa"}, {"surface": "אבתיך", "gloss": "baabiraaɓe maa"}, {"surface": "ויבחר", "gloss": "o suɓi"}, {"surface": "בזרעו", "gloss": "zera mun"}, {"surface": "אחריו", "gloss": "ɓaawo maɓɓe"}, {"surface": "ויוצאך", "gloss": "o yaltini maa"}, {"surface": "בפניו", "gloss": "e yeeso mun"}, {"surface": "בכחו", "gloss": "e semteere mun"}, {"surface": "הגדל", "gloss": "mawnde"}, {"surface": "ממצרים", "gloss": "ummoraade Misrayim"}], "timestamp": "2026-09-14T05:54:39.463173113Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Kadi sabu o muñi ⟨את⟩ baabiraaɓe maa, o suɓi zera maɓɓe ɓaawo maɓɓe, o yaltini maa e yeeso mun, e semteere mun mawnde, ummoraade Misrayim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "Kadi sabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o muñi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe maa"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "baabiraaɓe maa"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "o suɓi"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "zera mun"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ɓaawo maɓɓe"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "o yaltini maa"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "e yeeso mun"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "e semteere mun"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "mawnde"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ummoraade Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:39.463173113Z",
+  "model": "glm-5.3"
+}

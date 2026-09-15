@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "genesis 34:30", "book": "genesis", "lang": "ff", "chapter": 34, "translation": "Yaakuubu wi'i ɓe Shim'on e Lewi: on mettinii mi, ⟨את⟩ waɗde mi ɓooyii hoore am e hoɗɓe leydi ndin, e Kenaananaaɓe e Perizaaji; kono ko minen yimɓe seeɗa; si ɓe mooftii e am ɓe ɓornii lam; min min riddetee, mi e ɓiygirde am.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יעקב", "gloss": "Yaakuubu"}, {"surface": "אל", "gloss": "ɓe"}, {"surface": "שמעון", "gloss": "Shim'on"}, {"surface": "ואל", "gloss": "e"}, {"surface": "לוי", "gloss": "Lewi"}, {"surface": "עכרתם", "gloss": "on mettinii"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "mi"}, {"surface": "להבאישני", "gloss": "waɗde mi ɓooyii hoore am"}, {"surface": "בישב", "gloss": "e hoɗɓe"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "בכנעני", "gloss": "e Kenaananaaɓe"}, {"surface": "ובפרזי", "gloss": "e Perizaaji"}, {"surface": "ואני", "gloss": "kono ko minen"}, {"surface": "מתי", "gloss": "yimɓe"}, {"surface": "מספר", "gloss": "seeɗa"}, {"surface": "ונאספו", "gloss": "ɓe mooftii"}, {"surface": "עלי", "gloss": "e am"}, {"surface": "והכוני", "gloss": "ɓe ɓornii lam"}, {"surface": "ונשמדתי", "gloss": "min min riddetee"}, {"surface": "אני", "gloss": "mi"}, {"surface": "וביתי", "gloss": "e ɓiygirde am"}], "timestamp": "2026-09-14T04:47:27.600269808Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 34:30",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Ya'aqob wi'i ɓe Shim'on e Lewi: on mettinii mi, ⟨את⟩ waɗde mi ɓooyii hoore am e hoɗɓe leydi ndin, e Kenaananaaɓe e Perizaaji; kono ko minen yimɓe seeɗa; si ɓe mooftii e am ɓe ɓornii lam; min min riddetee, mi e ɓiygirde am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "עכרתם",
+      "gloss": "on mettinii"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mi"
+    },
+    {
+      "surface": "להבאישני",
+      "gloss": "waɗde mi ɓooyii hoore am"
+    },
+    {
+      "surface": "בישב",
+      "gloss": "e hoɗɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "e Kenaananaaɓe"
+    },
+    {
+      "surface": "ובפרזי",
+      "gloss": "e Perizaaji"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono ko minen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ɓe mooftii"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "והכוני",
+      "gloss": "ɓe ɓornii lam"
+    },
+    {
+      "surface": "ונשמדתי",
+      "gloss": "min min riddetee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וביתי",
+      "gloss": "e ɓiygirde am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:27.600269808Z",
+  "model": "glm-5.3"
+}

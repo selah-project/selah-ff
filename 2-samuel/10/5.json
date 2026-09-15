@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-samuel 10:5","book":"2-samuel","lang":"ff","chapter":10,"translation":"Ɓe kabbi Daawuda, o neldi yimɓe ngam hawrude e maɓɓe, sabo worɓe ɓen ngoni ko e tuuba no feewi; laamɗo on wi'i: “Darton to Yeriiko haa puɗe mon mawnoy, ndeen arton.”","tokens":[{"surface":"ויגדו","gloss":"Ɓe kabbi"},{"surface":"לדוד","gloss":"Daawuda"},{"surface":"וישלח","gloss":"o neldi"},{"surface":"לקראתם","gloss":"ngam hawrude e maɓɓe"},{"surface":"כי","gloss":"sabo"},{"surface":"היו","gloss":"ngoni"},{"surface":"האנשים","gloss":"worɓe ɓen"},{"surface":"נכלמים","gloss":"e tuuba"},{"surface":"מאד","gloss":"no feewi"},{"surface":"ויאמר","gloss":"o wi'i"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"שבו","gloss":"Darton"},{"surface":"בירחו","gloss":"to Yeriiko"},{"surface":"עד","gloss":"haa"},{"surface":"יצמח","gloss":"mawnoy"},{"surface":"זקנכם","gloss":"puɗe mon"},{"surface":"ושבתם","gloss":"ndeen arton"}],"timestamp":"2026-09-14T06:58:14.226255031Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe kabbi Daawuuda, o neldi yimɓe ngam hawrude e maɓɓe, sabo worɓe ɓen ngoni ko e tuuba no feewi; laamɗo on wi'i: “Darton to Yeriiko haa puɗe mon mawnoy, ndeen arton.”",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Ɓe kabbi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ngam hawrude e maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "e tuuba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Darton"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "to Yeriiko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "mawnoy"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "puɗe mon"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ndeen arton"
+    }
+  ],
+  "timestamp": "2026-09-14T06:58:14.226255031Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "genesis 21:3", "book": "genesis", "lang": "ff", "chapter": 21, "translation": "Awraham innditiri ⟨את⟩ innde ɓiɗɗo mun danyaaɗo mun on, ɗo Sara danyi mo, Isaaqa.", "tokens": [{"surface": "ויקרא", "gloss": "innditiri"}, {"surface": "אברהם", "gloss": "Awraham"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "innde"}, {"surface": "שם", "gloss": "innde"}, {"surface": "בנו", "gloss": "ɓiɗɗo mun"}, {"surface": "הנולד", "gloss": "danyaaɗo"}, {"surface": "לו", "gloss": "mun"}, {"surface": "אשר", "gloss": "ɗo"}, {"surface": "ילדה", "gloss": "danyi"}, {"surface": "לו", "gloss": "mo"}, {"surface": "שרה", "gloss": "Sara"}, {"surface": "יצחק", "gloss": "Isaaqa"}], "timestamp": "2026-09-14T04:39:57.400343369Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Awraham innditiri ⟨את⟩ innde ɓiɗɗo mun danyaaɗo mun on, ɗo Sara danyi mo, Yitshaq.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "innditiri"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "danyaaɗo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "danyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:57.400343369Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,93 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "jeremiah 23:16", "book": "jeremiah", "lang": "ff", "chapter": 23, "translation": "Ko nii Yaawe sabaa'ot wi'i: Wata ⟨את⟩ on nanoo konngi annabiiɓe ɓe annabiyananiri on; ɓe meereyay on. Ko ƴeewndo ɓernde mun ɓe kaalata, wanaa e daande Yaawe.", "tokens": [{"surface": "כה", "gloss": "ko nii"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "sabaa'ot"}, {"surface": "אל", "gloss": "wata"}, {"surface": "תשמעו", "gloss": "on nanoo"}, {"surface": "על", "gloss": "konngi"}, {"surface": "דברי", "gloss": "konngi"}, {"surface": "הנבאים", "gloss": "annabiyyɓe"}, {"surface": "הנבאים", "gloss": "ɓe annabiyananori"}, {"surface": "לכם", "gloss": "on"}, {"surface": "מהבלים", "gloss": "ɓe meereyay"}, {"surface": "המה", "gloss": "ɓe"}, {"surface": "אתכם", "gloss": "on ⟨את⟩"}, {"surface": "חזון", "gloss": "ƴeewndo"}, {"surface": "לבם", "gloss": "ɓernde mun"}, {"surface": "ידברו", "gloss": "ɓe kaalata"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "מפי", "gloss": "e daande"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T08:16:14.827839229Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 23:16",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ko nii Yaawe Tsevaot wi'i: Wata ⟨את⟩ on nanoo konngi annabiiɓe ɓe annabiyananiri on; ɓe meereyay on. Ko ƴeewndo ɓernde mun ɓe kaalata, wanaa e daande Yaawe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "on nanoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "annabiyyɓe"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ɓe annabiyananori"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מהבלים",
+      "gloss": "ɓe meereyay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "on ⟨את⟩"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ƴeewndo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ɓe kaalata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "e daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:16:14.827839229Z",
+  "model": "glm-5.3"
+}

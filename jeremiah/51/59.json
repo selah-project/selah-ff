@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 59, "ref": "jeremiah 51:59", "book": "jeremiah", "lang": "ff", "chapter": 51, "translation": "Konngol ngol Yirmeya annabi on dowri to ⟨את⟩ Seraya ɓiy Neraya, ɓiy Mahseya, nde o yahnoo ⟨את⟩ ⟨e⟩ Tsidkiyahu laamɗo Yahuuda to Babilon, e hitaande nayaɓere laamu makko; Seraya kadi ko ardiniiɗo dartinde.", "tokens": [{"surface": "הדבר", "gloss": "Konngol ngol"}, {"surface": "אשר", "gloss": ""}, {"surface": "צוה", "gloss": "dowri to"}, {"surface": "ירמיהו", "gloss": "Yirmeya"}, {"surface": "הנביא", "gloss": "annabi on"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Seraya"}, {"surface": "שריה", "gloss": "Seraya"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "נריה", "gloss": "Neraya"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "מחסיה", "gloss": "Mahseya"}, {"surface": "בלכתו", "gloss": "nde o yahnoo"}, {"surface": "את", "gloss": "⟨את⟩ ⟨e⟩", "marks": "Tsidkiyahu"}, {"surface": "צדקיהו", "gloss": "Tsidkiyahu"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yahuuda"}, {"surface": "בבל", "gloss": "to Babilon"}, {"surface": "בשנת", "gloss": "e hitaande"}, {"surface": "הרבעית", "gloss": "nayaɓere"}, {"surface": "למלכו", "gloss": "laamu makko"}, {"surface": "ושריה", "gloss": "Seraya kadi"}, {"surface": "שר", "gloss": "ko ardiniiɗo"}, {"surface": "מנוחה", "gloss": "dartinde"}], "timestamp": "2026-09-14T08:33:02.437114037Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "jeremiah 51:59",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Konngol ngol Yirmeya annabi on dowri to ⟨את⟩ Seraya ɓiy Neraya, ɓiy Mahseya, nde o yahnoo ⟨את⟩ ⟨e⟩ Tsidkiyahu laamɗo Yahuuda to Baabel, e hitaande nayaɓere laamu makko; Seraya kadi ko ardiniiɗo dartinde.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Konngol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dowri to"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "annabi on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neraya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "מחסיה",
+      "gloss": "Mahseya"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "nde o yahnoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨e⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "to Baabel"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "nayaɓere"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "laamu makko"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Seraya kadi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ko ardiniiɗo"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "dartinde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:02.437114037Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "2-chronicles 18:25", "book": "2-chronicles", "lang": "ff", "chapter": 18, "translation": "Laamɗo Israya'l wi'i: “Njogit ⟨את⟩ Miikaayahu, ngartitin mo to Amon mawɗo nguurdam ndam e to Yoo'aš ɓiɗɗo laamɗo on.”", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "ישראל", "gloss": "Israya'l"}, {"surface": "קחו", "gloss": "njogit"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Miikaayahu"}, {"surface": "מיכיהו", "gloss": "Miikaayahu"}, {"surface": "והשיבהו", "gloss": "ngartitin mo"}, {"surface": "אל", "gloss": "to"}, {"surface": "אמון", "gloss": "Amon"}, {"surface": "שר", "gloss": "mawɗo"}, {"surface": "העיר", "gloss": "nguurdam ndam"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "יואש", "gloss": "Yoo'aš"}, {"surface": "בן", "gloss": "ɓiɗɗo"}, {"surface": "המלך", "gloss": "laamɗo on"}], "timestamp": "2026-09-14T11:16:49.236464824Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Laamɗo Israa'iil wi'i: “Njogit ⟨את⟩ Miikaayahu, ngartitin mo to Amon mawɗo nguurdam ndam e to Yoo'aš ɓiɗɗo laamɗo on.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "njogit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miikaayahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Miikaayahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ngartitin mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nguurdam ndam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoo'aš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T11:16:49.236464824Z",
+  "model": "glm-5.3"
+}

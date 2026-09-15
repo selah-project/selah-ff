@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-samuel 23:2","book":"1-samuel","lang":"ff","chapter":23,"translation":"Daawuwa naamndii Yaawe, o wi'i: Njogaa mi yaha, mi nafoo Pelishtinaaɓe ɓee? Yaawe jaabii Daawuwa, o wi'i: Yaha, ñaamu Pelishtinaaɓe ɓee, danndu ⟨את⟩ Keela.","tokens":[{"surface":"וישאל","gloss":"naamndii"},{"surface":"דוד","gloss":"Daawuwa"},{"surface":"ביהוה","gloss":"Yaawe"},{"surface":"לאמר","gloss":"o wi'i"},{"surface":"האלך","gloss":"njogaa mi yaha"},{"surface":"והכיתי","gloss":"mi nafoo"},{"surface":"בפלשתים","gloss":"Pelishtinaaɓe"},{"surface":"האלה","gloss":"ɓee"},{"surface":"ויאמר","gloss":"o wi'i"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אל","gloss":"jaabii"},{"surface":"דוד","gloss":"Daawuwa"},{"surface":"לך","gloss":"yaha"},{"surface":"והכית","gloss":"ñaamu"},{"surface":"בפלשתים","gloss":"Pelishtinaaɓe ɓee"},{"surface":"והושעת","gloss":"danndu"},{"surface":"את","gloss":"⟨את⟩","marks":"Keela"},{"surface":"קעילה","gloss":"Keela"}],"timestamp":"2026-09-14T06:49:36.447741902Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Daawuud naamndii Yaawe, o wi'i: Njogaa mi yaha, mi nafoo Pelishtinaaɓe ɓee? Yaawe jaabii Daawuud, o wi'i: Yaha, ñaamu Pelishtinaaɓe ɓee, danndu ⟨את⟩ Keela.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "naamndii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "njogaa mi yaha"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mi nafoo"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelishtinaaɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɓee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jaabii"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ñaamu"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelishtinaaɓe ɓee"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "danndu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Keela"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keela"
+    }
+  ],
+  "timestamp": "2026-09-14T06:49:36.447741902Z",
+  "model": "glm-5.3"
+}

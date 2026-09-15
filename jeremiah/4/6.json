@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":6,"ref":"jeremiah 4:6","book":"jeremiah","lang":"ff","chapter":4,"translation":"Toɗɗoree maandorde faade Siyon, dawlitee, woto ɗaron; ko mbona mi arsata ummoraade woyla, e morbone mawɗo.","tokens":[{"surface":"שאו","gloss":"Toɗɗoree"},{"surface":"נס","gloss":"maandorde"},{"surface":"ציונה","gloss":"faade Siyon"},{"surface":"העיזו","gloss":"dawlitee"},{"surface":"אל","gloss":"woto"},{"surface":"תעמדו","gloss":"ɗaron"},{"surface":"כי","gloss":"ko"},{"surface":"רעה","gloss":"mbona"},{"surface":"אנכי","gloss":"mi"},{"surface":"מביא","gloss":"arsata"},{"surface":"מצפון","gloss":"ummoraade woyla"},{"surface":"ושבר","gloss":"e morbone"},{"surface":"גדול","gloss":"mawɗo"}],"timestamp":"2026-09-14T12:19:13.351220762Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Toɗɗoree maandorde faade Tsiyon, dawlitee, woto ɗaron; ko mbona mi arsata ummoraade woyla, e morbone mawɗo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Toɗɗoree"
+    },
+    {
+      "surface": "נס",
+      "gloss": "maandorde"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "faade Siyon"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "dawlitee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "woto"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ɗaron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mbona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "arsata"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ummoraade woyla"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "e morbone"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mawɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T12:19:13.351220762Z",
+  "model": "glm-5.3"
+}

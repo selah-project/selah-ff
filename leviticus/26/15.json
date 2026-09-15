@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "leviticus 26:15", "book": "leviticus", "lang": "ff", "chapter": 26, "translation": "e si ndeñiɗaa ⟨את⟩ min dinooki am, e si horii ⟨את⟩ min ñaawoore am nguurndam mon, fii waaɗde ⟨את⟩ jam’uuji am fof — fii momtude min jokkereeri am;", "tokens": [{"surface": "ואם", "gloss": "e si"}, {"surface": "בחקתי", "gloss": "min dinooki"}, {"surface": "תמאסו", "gloss": "ondeñii"}, {"surface": "ואם", "gloss": "e si"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "min ñaawoore"}, {"surface": "משפטי", "gloss": "min ñaawoore"}, {"surface": "תגעל", "gloss": "horii"}, {"surface": "נפשכם", "gloss": "nguurndam mon"}, {"surface": "לבלתי", "gloss": "fii waaɗde"}, {"surface": "עשות", "gloss": "waɗde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "jam’uuji am fof"}, {"surface": "כל", "gloss": "fof"}, {"surface": "מצותי", "gloss": "jam’uuji am"}, {"surface": "להפרכם", "gloss": "fii momtude mon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "min jokkereeri"}, {"surface": "בריתי", "gloss": "min jokkereeri"}], "timestamp": "2026-09-14T05:31:43.184192101Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 26,
+  "translation": "e si ndeñiɗaa ⟨את⟩ min dinooki am, e si horii ⟨את⟩ min ñaawoore am nguurndam mon, fii waaɗde ⟨את⟩ jam'uuji am fof — fii momtude min jokkereeri am;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "min dinooki"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "ondeñii"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "e si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min ñaawoore"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "min ñaawoore"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "horii"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nguurndam mon"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fii waaɗde"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jam'uuji am fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "jam'uuji am"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "fii momtude mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min jokkereeri"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "min jokkereeri"
+    }
+  ],
+  "timestamp": "2026-09-14T05:31:43.184192101Z",
+  "model": "glm-5.3"
+}

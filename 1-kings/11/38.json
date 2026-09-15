@@ -1,1 +1,143 @@
-{"tier": "glm-5.2", "verse": 38, "ref": "1-kings 11:38", "book": "1-kings", "lang": "ff", "chapter": 11, "translation": "Nden ⟨wonii⟩: si a nanii ⟨את⟩ fuu ko mi ɗaɓɓata e maaɗa, a yahii e laawol am, a waɗii ko moƴƴi e ƴeere am, ngam reende sariyaaji am e amaruuji am, no Daawuuda maccuɗo am waɗiri nii, mi laatotaako e maaɗa, mi mahataako maaɗa suudu duumiinde no mi mahiri Daawuuda nii, mi ɗokkataako maaɗa ⟨את⟩ Israa'iil.", "tokens": [{"surface": "והיה", "gloss": "Nden ⟨wonii⟩"}, {"surface": "אם", "gloss": "si"}, {"surface": "תשמע", "gloss": "a nanii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "אצוך", "gloss": "mi ɗaɓɓata e maaɗa"}, {"surface": "והלכת", "gloss": "a yahii"}, {"surface": "בדרכי", "gloss": "e laawol am"}, {"surface": "ועשית", "gloss": "a waɗii"}, {"surface": "הישר", "gloss": "ko moƴƴi"}, {"surface": "בעיני", "gloss": "e ƴeere am"}, {"surface": "לשמור", "gloss": "ngam reende"}, {"surface": "חקותי", "gloss": "sariyaaji am"}, {"surface": "ומצותי", "gloss": "e amaruuji am"}, {"surface": "כאשר", "gloss": "no ... waɗiri nii"}, {"surface": "עשה", "gloss": "waɗiri"}, {"surface": "דוד", "gloss": "Daawuuda"}, {"surface": "עבדי", "gloss": "maccuɗo am"}, {"surface": "והייתי", "gloss": "mi laatotaako"}, {"surface": "עמך", "gloss": "e maaɗa"}, {"surface": "ובניתי", "gloss": "mi mahataako"}, {"surface": "לך", "gloss": "maaɗa"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "נאמן", "gloss": "duumiinde"}, {"surface": "כאשר", "gloss": "no ... mahiri nii"}, {"surface": "בניתי", "gloss": "mi mahiri"}, {"surface": "לדוד", "gloss": "Daawuuda"}, {"surface": "ונתתי", "gloss": "mi ɗokkataako"}, {"surface": "לך", "gloss": "maaɗa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'iil"}, {"surface": "ישראל", "gloss": "Israa'iil"}], "timestamp": "2026-09-14T07:17:36.238498026Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 11:38",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Nden ⟨wonii⟩: si a nanii ⟨את⟩ fuu ko mi ɗaɓɓata e maaɗa, a yahii e laawol am, a waɗii ko moƴƴi e ƴeere am, ngam reende sariyaaji am e amaruuji am, no Daawuuda maccuɗo am waɗiri nii, mi laatotaako e maaɗa, mi mahataako maaɗa suudu duumiinde no mi mahiri Daawuuda nii, mi ɗokkataako maaɗa ⟨את⟩ Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Nden ⟨wonii⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "a nanii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mi ɗaɓɓata e maaɗa"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "a yahii"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "e laawol am"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a waɗii"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e ƴeere am"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "sariyaaji am"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "e amaruuji am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... waɗiri nii"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗiri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɗo am"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "mi laatotaako"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mi mahataako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maaɗa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "duumiinde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... mahiri nii"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "mi mahiri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi ɗokkataako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maaɗa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:17:36.238498026Z",
+  "model": "glm-5.3"
+}

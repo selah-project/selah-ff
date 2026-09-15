@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "judges 1:20", "book": "judges", "lang": "ff", "chapter": 1, "translation": "Ɓe ndokki Kaleeb ⟨את⟩ Hebrron, hono no Muusaa wi'unoo dhuunde; o yolnii ton ɓiɓɓe Anak ⟨את⟩ tato.", "tokens": [{"surface": "ויתנו", "gloss": "Ɓe ndokki"}, {"surface": "לכלב", "gloss": "Kaleeb"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hebrron"}, {"surface": "חברון", "gloss": "Hebrron"}, {"surface": "כאשר", "gloss": "hono no"}, {"surface": "דבר", "gloss": "wi'unoo"}, {"surface": "משה", "gloss": "Muusaa"}, {"surface": "ויורש", "gloss": "o yolnii"}, {"surface": "משם", "gloss": "ton"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Anak tato"}, {"surface": "שלשה", "gloss": "tato"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "הענק", "gloss": "Anak"}], "timestamp": "2026-09-14T06:22:59.840684792Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ɓe ndokki Kaleeb ⟨את⟩ Hebrron, hono no Moshe wi'unoo dhuunde; o yolnii ton ɓiɓɓe Anak ⟨את⟩ tato.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ɓe ndokki"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wi'unoo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "o yolnii"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Anak tato"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:59.840684792Z",
+  "model": "glm-5.3"
+}

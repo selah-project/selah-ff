@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 14:1","book":"1-samuel","lang":"ff","chapter":14,"translation":"Woni noon ñalande wootere, Yonatan ɓiy Shaawuuli wi'i suke nafoo kaɓirɗe mun: “Aru, min ngartu yahde haa Posto Pilistiina'en ɗin ngoni ko ɓuri woɗɗude ɗoo.” Kono baaba mun o habraani ɗum.","tokens":[{"surface":"ויהי","gloss":"Woni noon"},{"surface":"היום","gloss":"ñalande wootere"},{"surface":"ויאמר","gloss":"wi'i"},{"surface":"יונתן","gloss":"Yonatan"},{"surface":"בן","gloss":"ɓiy"},{"surface":"שאול","gloss":"Shaawuuli"},{"surface":"אל","gloss":"to"},{"surface":"הנער","gloss":"suke"},{"surface":"נשא","gloss":"nafoo"},{"surface":"כליו","gloss":"kaɓirɗe mun"},{"surface":"לכה","gloss":"Aru"},{"surface":"ונעברה","gloss":"min ngartu yahde"},{"surface":"אל","gloss":"haa"},{"surface":"מצב","gloss":"Posto"},{"surface":"פלשתים","gloss":"Pilistiina'en ɗin"},{"surface":"אשר","gloss":"ngoni"},{"surface":"מעבר","gloss":"ko ɓuri woɗɗude"},{"surface":"הלז","gloss":"ɗoo"},{"surface":"ולאביו","gloss":"Kono baaba mun o"},{"surface":"לא","gloss":"habraani"},{"surface":"הגיד","gloss":"ɗum"}],"timestamp":"2026-09-14T06:43:13.507981324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 14:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Woni noon ñalande wootere, Yonatan ɓiy Sha'uuli wi'i suke nafoo kaɓirɗe mun: “Aru, min ngartu yahde haa Posto Pilistiina'en ɗin ngoni ko ɓuri woɗɗude ɗoo.” Kono baaba mun o habraani ɗum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Woni noon"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalande wootere"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nafoo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kaɓirɗe mun"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Aru"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "min ngartu yahde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haa"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "Posto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistiina'en ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ko ɓuri woɗɗude"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "Kono baaba mun o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "habraani"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T06:43:13.507981324Z",
+  "model": "glm-5.3"
+}

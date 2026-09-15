@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":19,"ref":"daniel 10:19","book":"daniel","lang":"ff","chapter":10,"translation":"O wi'i: “Wata a cuɗo, gorko cuɗaaɗo; jam wooda maa; semtu, e semtu kadi!” Nde o haalirnoo lam, mi semtini, mi wi'i: “Adonaay, haalu, sabu a semtinii lam.”","tokens":[{"surface":"ויאמר","gloss":"o wi'i"},{"surface":"אל","gloss":"wata"},{"surface":"תירא","gloss":"a cuɗo"},{"surface":"איש","gloss":"gorko"},{"surface":"חמדות","gloss":"cuɗaaɗo"},{"surface":"שלום","gloss":"jam"},{"surface":"לך","gloss":"e maa"},{"surface":"חזק","gloss":"semtu"},{"surface":"וחזק","gloss":"e semtu kadi"},{"surface":"ובדברו","gloss":"nde o haalirnoo"},{"surface":"עמי","gloss":"lam"},{"surface":"התחזקתי","gloss":"mi semtini"},{"surface":"ואמרה","gloss":"mi wi'i"},{"surface":"ידבר","gloss":"haalu"},{"surface":"אדני","gloss":"Adonaay"},{"surface":"כי","gloss":"sabu"},{"surface":"חזקתני","gloss":"a semtinii lam"}],"timestamp":"2026-09-14T10:40:23.209660918Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 10:19",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i: “Wata a cuɗo, gorko cuɗaaɗo; jam wooda maa; semtu, e semtu kadi!” Nde o haalirnoo lam, mi semtini, mi wi'i: “Joomi am, haalu, sabu a semtinii lam.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "a cuɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "cuɗaaɗo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "semtu"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "e semtu kadi"
+    },
+    {
+      "surface": "ובדברו",
+      "gloss": "nde o haalirnoo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lam"
+    },
+    {
+      "surface": "התחזקתי",
+      "gloss": "mi semtini"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "haalu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "חזקתני",
+      "gloss": "a semtinii lam"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:23.209660918Z",
+  "model": "glm-5.3"
+}

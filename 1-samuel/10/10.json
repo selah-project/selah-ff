@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 10:10","book":"1-samuel","lang":"ff","chapter":10,"translation":"Ɓe arii ɗon to Gibʿa, ɗoo — yimɓe anbinɓe fedde ngam seedaade mo; Ruuhu Eloohim yi'i e dow mun, o anbini hakkunde maɓɓe.","tokens":[{"surface":"ויבאו","gloss":"Ɓe arii"},{"surface":"שם","gloss":"ɗon"},{"surface":"הגבעתה","gloss":"to Gibʿa"},{"surface":"והנה","gloss":"ɗoo"},{"surface":"חבל","gloss":"fedde"},{"surface":"נבאים","gloss":"anbinɓe"},{"surface":"לקראתו","gloss":"ngam seedaade mo"},{"surface":"ותצלח","gloss":"yi'i"},{"surface":"עליו","gloss":"e dow mun"},{"surface":"רוח","gloss":"Ruuhu"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"ויתנבא","gloss":"o anbini"},{"surface":"בתוכם","gloss":"hakkunde maɓɓe"}],"timestamp":"2026-09-14T11:55:49.043736496Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ɓe arii ɗon to Gib'a, ɗoo — yimɓe anbinɓe fedde ngam seedaade mo; Ruuhu Eloohim yi'i e dow mun, o anbini hakkunde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ɓe arii"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "to Gib'a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "fedde"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "anbinɓe"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ngam seedaade mo"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "yi'i"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e dow mun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruuhu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "o anbini"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "hakkunde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:55:49.043736496Z",
+  "model": "glm-5.3"
+}

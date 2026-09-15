@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "2-kings 21:11", "book": "2-kings", "lang": "ff", "chapter": 21, "translation": "Sabu Menashshee laamɗo ⟨את⟩ Yuudaahu waɗii ɗee ɓalli bonɗe; o bonnii ko ɓuri ko Amor'en ɗin mbaɗi ko adii mun, o warnee Yuudaahu kadi e sirriji mun.", "tokens": [{"surface": "יען", "gloss": "Sabu"}, {"surface": "אשר", "gloss": "(ñiwo)"}, {"surface": "עשה", "gloss": "waɗii"}, {"surface": "מנשה", "gloss": "Menashshee"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yuudaahu"}, {"surface": "התעבות", "gloss": "ɓalli bonɗe"}, {"surface": "האלה", "gloss": "ɗee"}, {"surface": "הרע", "gloss": "o bonnii"}, {"surface": "מכל", "gloss": "ko ɓuri"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "עשו", "gloss": "mbaɗi"}, {"surface": "האמרי", "gloss": "Amor'en ɗin"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "לפניו", "gloss": "ko adii mun"}, {"surface": "ויחטא", "gloss": "o warnee"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yuudaahu"}, {"surface": "יהודה", "gloss": "Yuudaahu"}, {"surface": "בגלוליו", "gloss": "e sirriji mun"}], "timestamp": "2026-09-14T07:36:57.330371543Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Sabu Menashshee laamɗo ⟨את⟩ Yahuuda waɗii ɗee ɓalli bonɗe; o bonnii ko ɓuri ko Amor'en ɗin mbaɗi ko adii mun, o warnee Yahuuda kadi e sirriji mun.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ñiwo)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗii"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshee"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "ɓalli bonɗe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "o bonnii"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ko ɓuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amor'en ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ko adii mun"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "o warnee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuudaahu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "e sirriji mun"
+    }
+  ],
+  "timestamp": "2026-09-14T07:36:57.330371543Z",
+  "model": "glm-5.3"
+}

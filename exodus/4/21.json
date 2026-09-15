@@ -1,1 +1,111 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "exodus 4:21", "book": "exodus", "lang": "ff", "chapter": 4, "translation": "Yaawe wi'i to Moshe: “Nde aɗa yahaa ngartoo Misrayim, ndaro — mbaɗa yeeso Parʿo ɗoo karallaaje ɗen fuu ɗe mi waɗi e junngo maa; kono min, mi maha ⟨את⟩ ɓernde makko ndee, o yeddataa yaltinde ⟨את⟩ leñol ngol.”", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אל", "gloss": "to"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "בלכתך", "gloss": "nde aɗa yahaa"}, {"surface": "לשוב", "gloss": "ngartoo"}, {"surface": "מצרימה", "gloss": "Misrayim"}, {"surface": "ראה", "gloss": "ndaro"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "המפתים", "gloss": "karallaaje ɗen"}, {"surface": "אשר", "gloss": "ɗe"}, {"surface": "שמתי", "gloss": "mi waɗi"}, {"surface": "בידך", "gloss": "e junngo maa"}, {"surface": "ועשיתם", "gloss": "mbaɗa"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "פרעה", "gloss": "Parʿo"}, {"surface": "ואני", "gloss": "kono min"}, {"surface": "אחזק", "gloss": "mi maha ɓuuɓri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓernde makko"}, {"surface": "לבו", "gloss": "ɓernde makko"}, {"surface": "ולא", "gloss": "wanaa"}, {"surface": "ישלח", "gloss": "yaltina"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leñol ngol"}, {"surface": "העם", "gloss": "leñol ngol"}], "timestamp": "2026-09-14T04:56:27.256961808Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Yaawe wi'i to Moshe: “Nde aɗa yahaa ngartoo Misrayim, ndaro — mbaɗa yeeso Paroh ɗoo karallaaje ɗen fuu ɗe mi waɗi e junngo maa; kono min, mi maha ⟨את⟩ ɓernde makko ndee, o yeddataa yaltinde ⟨את⟩ leñol ngol.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "nde aɗa yahaa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ngartoo"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndaro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "karallaaje ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mi waɗi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "e junngo maa"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mbaɗa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kono min"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "mi maha ɓuuɓri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde makko"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yaltina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leñol ngol"
+    },
+    {
+      "surface": "העם",
+      "gloss": "leñol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:27.256961808Z",
+  "model": "glm-5.3"
+}

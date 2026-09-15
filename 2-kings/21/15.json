@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-kings 21:15", "book": "2-kings", "lang": "ff", "chapter": 21, "translation": "Sabu ɓe mbaɗi ⟨את⟩ bone ɗen e gite ⟨את⟩ Am, ɓe ɓeydi muusɗinam e poomde, gila ñalnde baabiraaɓe maɓɓe yalti e Misrayim haa e ñalnde ndee.", "tokens": [{"surface": "יען", "gloss": "Sabu"}, {"surface": "אשר", "gloss": "—"}, {"surface": "עשו", "gloss": "ɓe mbaɗi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bone ɗen"}, {"surface": "הרע", "gloss": "bone ɗen"}, {"surface": "בעיני", "gloss": "e gite Am"}, {"surface": "ויהיו", "gloss": "ɓe laati"}, {"surface": "מכעסים", "gloss": "ɓe ɓeydi muusɗinam"}, {"surface": "אתי", "gloss": "⟨את⟩ Am", "marks": "Am"}, {"surface": "מן", "gloss": "gila"}, {"surface": "היום", "gloss": "ñalnde"}, {"surface": "אשר", "gloss": "nde"}, {"surface": "יצאו", "gloss": "yalti"}, {"surface": "אבותם", "gloss": "baabiraaɓe maɓɓe"}, {"surface": "ממצרים", "gloss": "e Misrayim"}, {"surface": "ועד", "gloss": "haa"}, {"surface": "היום", "gloss": "ñalnde"}, {"surface": "הזה", "gloss": "ndee"}], "timestamp": "2026-09-14T07:37:58.577706364Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 21:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Sabu ɓe mbaɗi ⟨את⟩ bone ɗen e gite ⟨את⟩ am, ɓe ɓeydi muusɗinam e poomde, gila ñalnde baabiraaɓe maɓɓe yalti e Misrayim haa e ñalnde ndee.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bone ɗen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bone ɗen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɓe laati"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ɓe ɓeydi muusɗinam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ am",
+      "marks": "Am"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gila"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndee"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:58.577706364Z",
+  "model": "glm-5.3"
+}

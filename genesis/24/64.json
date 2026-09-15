@@ -1,1 +1,55 @@
-{"tier": "glm-5.2", "verse": 64, "ref": "genesis 24:64", "book": "genesis", "lang": "ff", "chapter": 24, "translation": "Rivkah ɓenni ⟨את⟩ jiyte mum, o yi'i ⟨את⟩ Yitschaq, o yanii les e naji on.", "tokens": [{"surface": "ותשא", "gloss": "o ɓenni"}, {"surface": "רבקה", "gloss": "Rivkah"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "jiyte mum"}, {"surface": "עיניה", "gloss": "jiyte mun"}, {"surface": "ותרא", "gloss": "o yi'i"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yitschaq"}, {"surface": "יצחק", "gloss": "Yitschaq"}, {"surface": "ותפל", "gloss": "o yanii"}, {"surface": "מעל", "gloss": "les e"}, {"surface": "הגמל", "gloss": "naji on"}], "timestamp": "2026-09-14T04:41:41.627384868Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Rivkah ɓenni ⟨את⟩ jiyte mum, o yi'i ⟨את⟩ Yitshaq, o yanii les e naji on.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "o ɓenni"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiyte mum"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "jiyte mun"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschaq"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "o yanii"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "les e"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "naji on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:41.627384868Z",
+  "model": "glm-5.3"
+}

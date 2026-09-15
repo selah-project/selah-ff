@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "exodus 33:17", "book": "exodus", "lang": "ff", "chapter": 33, "translation": "Yaawe wi'i Moosaa: «Ɗum nɗaaruɗaa kadi, ⟨את⟩ konngol ngol ɗaalanirɗaa, mbaɗay ɗum; fii a heɓii yurmeende e gite Am, e Mi anndi ma e innde.»", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אל", "gloss": "e"}, {"surface": "משה", "gloss": "Moosaa"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngol ngol"}, {"surface": "הדבר", "gloss": "konngol ngol"}, {"surface": "הזה", "gloss": "ɗum"}, {"surface": "אשר", "gloss": "ngol ɗaalanirɗaa"}, {"surface": "דברת", "gloss": "ɗaalanirɗaa"}, {"surface": "אעשה", "gloss": "mbaɗay"}, {"surface": "כי", "gloss": "fii"}, {"surface": "מצאת", "gloss": "a heɓii"}, {"surface": "חן", "gloss": "yurmeende"}, {"surface": "בעיני", "gloss": "e gite Am"}, {"surface": "ואדעך", "gloss": "e Mi anndi ma"}, {"surface": "בשם", "gloss": "e innde"}], "timestamp": "2026-09-14T05:12:05.439591337Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Yaawe wi'i Moshe: «Ɗum nɗaaruɗaa kadi, ⟨את⟩ konngol ngol ɗaalanirɗaa, mbaɗay ɗum; fii a heɓii yurmeende e gite am, e mi anndi ma e innde.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol ɗaalanirɗaa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ɗaalanirɗaa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mbaɗay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "a heɓii"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "e mi anndi ma"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "e innde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:05.439591337Z",
+  "model": "glm-5.3"
+}

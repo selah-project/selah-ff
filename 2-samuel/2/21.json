@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-samuel 2:21","book":"2-samuel","lang":"ff","chapter":2,"translation":"Abner wi'i mo: Waɗtu maa e ñaamo maa walla e nano maa, nanngu maa gooto e sukaaɓe ɓen, jeytu maa ⟨את⟩ wuddu mun. Kono Asahel jaɓaani ruttude yi'nde mum e makko.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"לו","gloss":"mo"},{"surface":"אבנר","gloss":"Abner"},{"surface":"נטה","gloss":"Waɗtu"},{"surface":"לך","gloss":"maa"},{"surface":"על","gloss":"e"},{"surface":"ימינך","gloss":"ñaamo maa"},{"surface":"או","gloss":"walla"},{"surface":"על","gloss":"e"},{"surface":"שמאלך","gloss":"nano maa"},{"surface":"ואחז","gloss":"e nanngu"},{"surface":"לך","gloss":"maa"},{"surface":"אחד","gloss":"gooto"},{"surface":"מהנערים","gloss":"e sukaaɓe ɓen"},{"surface":"וקח","gloss":"e jeytu"},{"surface":"לך","gloss":"maa"},{"surface":"את","gloss":"⟨את⟩","marks":"wuddu mun"},{"surface":"חלצתו","gloss":"wuddu mun"},{"surface":"ולא","gloss":"kono ... jaɓaani"},{"surface":"אבה","gloss":"jaɓaani"},{"surface":"עשהאל","gloss":"Asahel"},{"surface":"לסור","gloss":"ruttude"},{"surface":"מאחריו","gloss":"yi'nde mum e makko"}],"timestamp":"2026-09-14T06:54:25.297406073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 2:21",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Abner wi'i mo: Waɗtu maa e ñaamo maa walla e nano maa, nanngu maa gooto e sukaaɓe ɓen, jeytu maa ⟨את⟩ wuddu mun. Kono Asahel jaɓaani ruttude yi'nde mum e makko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Waɗtu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ñaamo maa"
+    },
+    {
+      "surface": "או",
+      "gloss": "walla"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "שמאלך",
+      "gloss": "nano maa"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "e nanngu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "e sukaaɓe ɓen"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "e jeytu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddu mun"
+    },
+    {
+      "surface": "חלצתו",
+      "gloss": "wuddu mun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono... jaɓaani"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "jaɓaani"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ruttude"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "yi'nde mum e makko"
+    }
+  ],
+  "timestamp": "2026-09-14T06:54:25.297406073Z",
+  "model": "glm-5.3"
+}

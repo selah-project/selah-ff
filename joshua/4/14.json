@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "joshua 4:14", "book": "joshua", "lang": "ff", "chapter": 4, "translation": "Ñalnde nden Yaawe mawninii ⟨את⟩ Yahuushuaa e gite Israa'iil fuu; ɓe ɗooñii ⟨את⟩ mo, no ɓe ɗooñiri ⟨את⟩ Muusaa nii, balɗe nguurndam mun fuu.", "tokens": [{"surface": "ביום", "gloss": "ñalnde"}, {"surface": "ההוא", "gloss": "nden"}, {"surface": "גדל", "gloss": "mawninii"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yahuushuaa"}, {"surface": "יהושע", "gloss": "Yahuushuaa"}, {"surface": "בעיני", "gloss": "e gite"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "ויראו", "gloss": "ɓe ɗooñii"}, {"surface": "אתו", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "כאשר", "gloss": "no ... nii"}, {"surface": "יראו", "gloss": "ɓe ɗooñiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Muusaa"}, {"surface": "משה", "gloss": "Muusaa"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ימי", "gloss": "balɗe"}, {"surface": "חייו", "gloss": "nguurndam mun"}], "timestamp": "2026-09-14T06:09:51.753328480Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ñalnde nden Yaawe mawninii ⟨את⟩ Yahuushuaa e gite Israa'iil fuu; ɓe ɗooñii ⟨את⟩ mo, no ɓe ɗooñiri ⟨את⟩ Moshe nii, balɗe nguurndam mun fuu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "mawninii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuushuaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuushuaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe ɗooñii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ɓe ɗooñiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "nguurndam mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:09:51.753328480Z",
+  "model": "glm-5.3"
+}

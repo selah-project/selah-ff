@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "ezekiel 2:4", "book": "ezekiel", "lang": "ff", "chapter": 2, "translation": "Ɓiɓɓe ɓen ko ɓe yeeso tiiɗun e ɓernde tiiɗune; min ngulloto ⟨אתך⟩ to ⟨את⟩ maɓɓe, a haalan maɓɓe: ko non Adonaay Yaawe wi'i.", "tokens": [{"surface": "והבנים", "gloss": "Ɓiɓɓe ɓen"}, {"surface": "קשי", "gloss": "tiiɗun"}, {"surface": "פנים", "gloss": "yeeso"}, {"surface": "וחזקי", "gloss": "e tiiɗune"}, {"surface": "לב", "gloss": "ɓernde"}, {"surface": "אני", "gloss": "min"}, {"surface": "שולח", "gloss": "ngulloto"}, {"surface": "אותך", "gloss": "⟨את⟩ ma", "marks": "min (ko nulanaa)"}, {"surface": "אליהם", "gloss": "to maɓɓe"}, {"surface": "ואמרת", "gloss": "a haalan"}, {"surface": "אליהם", "gloss": "maɓɓe"}, {"surface": "כה", "gloss": "ko non"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "אדני", "gloss": "Adonaay"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T08:33:49.496989253Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe ɓen ko ɓe yeeso tiiɗun e ɓernde tiiɗune; min ngulloto to ⟨את⟩ maɓɓe, a haalan maɓɓe: ko non Adonaay Yaawe wi'i.",
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "Ɓiɓɓe ɓen"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "tiiɗun"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "e tiiɗune"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "ngulloto"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ma",
+      "marks": "min (ko nulanaa)"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "to maɓɓe"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a haalan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:49.496989253Z",
+  "model": "glm-5.3"
+}

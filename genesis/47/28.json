@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 47:28","book":"genesis","lang":"ff","chapter":47,"translation":"Yaakuuba wuuri e leydi Misrayim duuɓi sappo e jeeɗiɗi; ñalɗi Yaakuuba, duuɓi nguurndam mun, duuɓi njeeɗiɗi e cappanɗe nayi e teemedere duuɓi.","tokens":[{"surface":"ויחי","gloss":"wuuri"},{"surface":"יעקב","gloss":"Yaakuuba"},{"surface":"בארץ","gloss":"e leydi"},{"surface":"מצרים","gloss":"Misrayim"},{"surface":"שבע","gloss":"sappo e jeeɗiɗi (jeeɗiɗi)"},{"surface":"עשרה","gloss":"sappo e jeeɗiɗi (sappo)"},{"surface":"שנה","gloss":"duuɓi"},{"surface":"ויהי","gloss":"ngoni"},{"surface":"ימי","gloss":"ñalɗi"},{"surface":"יעקב","gloss":"Yaakuuba"},{"surface":"שני","gloss":"duuɓi"},{"surface":"חייו","gloss":"nguurndam mun"},{"surface":"שבע","gloss":"njeeɗiɗi"},{"surface":"שנים","gloss":"duuɓi"},{"surface":"וארבעים","gloss":"e cappanɗe nayi"},{"surface":"ומאת","gloss":"e teemedere"},{"surface":"שנה","gloss":"duuɓi"}],"timestamp":"2026-09-14T04:52:40.345262704Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 47:28",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 47,
+  "translation": "Ya'aqob wuuri e leydi Misrayim duuɓi sappo e jeeɗiɗi; ñalɗi Ya'aqob, duuɓi nguurndam mun, duuɓi njeeɗiɗi e cappanɗe nayi e teemedere duuɓi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "wuuri"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sappo e jeeɗiɗi (jeeɗiɗi)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo e jeeɗiɗi (sappo)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ngoni"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ñalɗi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "nguurndam mun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "njeeɗiɗi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "e cappanɗe nayi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "e teemedere"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:40.345262704Z",
+  "model": "glm-5.3"
+}

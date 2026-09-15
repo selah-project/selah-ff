@@ -1,1 +1,124 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "2-samuel 24:10", "book": "2-samuel", "lang": "ff", "chapter": 24, "translation": "Ɓernde Daawuda fiyi mo ⟨את⟩ caggal nde o limtii ⟨את⟩ ɓesngu nguu; Daawuda wi'i e Yaawe: Mi bonnii no feewi e ɗum mi waɣi; on jooni, Yaawe, en torii ittu ⟨את⟩ bonannde surbaaba maa, wonde mi waɗii maafoore no feewi.", "tokens": [{"surface": "ויך", "gloss": "fiyi"}, {"surface": "לב", "gloss": "ɓernde"}, {"surface": "דוד", "gloss": "Daawuda"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "אחרי", "gloss": "caggal"}, {"surface": "כן", "gloss": "ɗum"}, {"surface": "ספר", "gloss": "limtii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓesngu nguu"}, {"surface": "העם", "gloss": "ɓesngu nguu"}, {"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "דוד", "gloss": "Daawuda"}, {"surface": "אל", "gloss": "e"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "חטאתי", "gloss": "mi bonnii"}, {"surface": "מאד", "gloss": "no feewi"}, {"surface": "אשר", "gloss": "ɗum"}, {"surface": "עשיתי", "gloss": "mi waɣi"}, {"surface": "ועתה", "gloss": "on jooni"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "העבר", "gloss": "ittu"}, {"surface": "נא", "gloss": "en torii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bonannde"}, {"surface": "עון", "gloss": "bonannde"}, {"surface": "עבדך", "gloss": "surbaaba maa"}, {"surface": "כי", "gloss": "wonde"}, {"surface": "נסכלתי", "gloss": "mi waɗii maafoore"}, {"surface": "מאד", "gloss": "no feewi"}], "timestamp": "2026-09-14T07:08:12.428471124Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ɓernde Daawuuda fiyi mo ⟨את⟩ caggal nde o limtii ⟨את⟩ ɓesngu nguu; Daawuuda wi'i e Yaawe: Mi bonnii no feewi e ɗum mi waɣi; on jooni, Yaawe, en torii ittu ⟨את⟩ bonannde surbaaba maa, wonde mi waɗii maafoore no feewi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "limtii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓesngu nguu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓesngu nguu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mi bonnii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɣi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "on jooni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ittu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "en torii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "surbaaba maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "mi waɗii maafoore"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "no feewi"
+    }
+  ],
+  "timestamp": "2026-09-14T07:08:12.428471124Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":38,"ref":"exodus 40:38","book":"exodus","lang":"ff","chapter":40,"translation":"Fii duule Yaawe nden wonnoo ko dow Moowo-diiso ngoo ñalnde kala, e yiite wonnoo ko nder mun jemma, yimɓe galle Israayiil fuu ina ndiyi, e laawle mun ɗen fuu.","tokens":[{"surface":"כי","gloss":"fii"},{"surface":"ענן","gloss":"duule"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"על","gloss":"dow"},{"surface":"המשכן","gloss":"Moowo-diiso ngoo"},{"surface":"יומם","gloss":"ñalnde kala"},{"surface":"ואש","gloss":"e yiite"},{"surface":"תהיה","gloss":"wonnoo ko"},{"surface":"לילה","gloss":"jemma"},{"surface":"בו","gloss":"nder mun"},{"surface":"לעיני","gloss":"ina ndiyi"},{"surface":"כל","gloss":"fuu"},{"surface":"בית","gloss":"galle"},{"surface":"ישראל","gloss":"Israayiil"},{"surface":"בכל","gloss":"e ... fuu"},{"surface":"מסעיהם","gloss":"raawle mun ɗen"}],"timestamp":"2026-09-14T05:15:08.317819547Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 40:38",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Fii duule Yaawe nden wonnoo ko dow Moowo-diiso ngoo ñalnde kala, e yiite wonnoo ko nder mun jemma, yimɓe galle Israa'iil fuu ina ndiyi, e laawle mun ɗen fuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "duule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Moowo-diiso ngoo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ñalnde kala"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonnoo ko"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jemma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nder mun"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ina ndiyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "raawle mun ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T05:15:08.317819547Z",
+  "model": "glm-5.3"
+}

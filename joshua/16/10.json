@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":10,"ref":"joshua 16:10","book":"joshua","lang":"ff","chapter":16,"translation":"Kono ɓe purtiraani ⟨את⟩ Kanaanaana on hoɗɗoɗo e Gezer; Kanaanaana on hoɗii e nder Ephrajim haa ñalnde hannde nden, o laati gollooɗo-yoɓoore.","tokens":[{"surface":"ולא","gloss":"Kono ... -aani"},{"surface":"הורישו","gloss":"ɓe purtiraani"},{"surface":"את","gloss":"⟨את⟩","marks":"Kanaanaana on"},{"surface":"הכנעני","gloss":"Kanaanaana on"},{"surface":"היושב","gloss":"hoɗɗoɗo"},{"surface":"בגזר","gloss":"e Gezer"},{"surface":"וישב","gloss":"o hoɗii"},{"surface":"הכנעני","gloss":"Kanaanaana on"},{"surface":"בקרב","gloss":"e nder"},{"surface":"אפרים","gloss":"Ephrajim"},{"surface":"עד","gloss":"haa"},{"surface":"היום","gloss":"ñalnde"},{"surface":"הזה","gloss":"hannde nden"},{"surface":"ויהי","gloss":"o laati"},{"surface":"למס","gloss":"gollooɗo-yoɓoore"},{"surface":"עבד","gloss":"golle"}],"timestamp":"2026-09-14T06:18:07.335691124Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kono ɓe purtiraani ⟨את⟩ Kanaanaana on hoɗɗoɗo e Gezer; Kanaanaana on hoɗii e nder Ephrajim haa ñalnde hannde nden, o laati gollooɗo-yoɓoore.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kono... -aani"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ɓe purtiraani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanaana on"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanaana on"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "hoɗɗoɗo"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "e Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o hoɗii"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanaana on"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hannde nden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "למס",
+      "gloss": "gollooɗo-yoɓoore"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "golle"
+    }
+  ],
+  "timestamp": "2026-09-14T06:18:07.335691124Z",
+  "model": "glm-5.3"
+}

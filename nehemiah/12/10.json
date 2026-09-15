@@ -1,1 +1,60 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "nehemiah 12:10", "book": "nehemiah", "lang": "ff", "chapter": 12, "translation": "Kadi Yeshuʼa daemoni ⟨את⟩ Yoyakim, Yoyakim kadi daemoni ⟨את⟩ Elyashib, Elyashib kadi daemoni ⟨את⟩ Yoyada.", "tokens": [{"surface": "וישוע", "gloss": "Kadi Yeshuʼa"}, {"surface": "הוליד", "gloss": "daemoni"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yoyakim"}, {"surface": "יויקים", "gloss": "Yoyakim"}, {"surface": "ויויקים", "gloss": "Yoyakim kadi"}, {"surface": "הוליד", "gloss": "daemoni"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Elyashib"}, {"surface": "אלישיב", "gloss": "Elyashib"}, {"surface": "ואלישיב", "gloss": "Elyashib kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yoyada"}, {"surface": "יוידע", "gloss": "Yoyada"}], "timestamp": "2026-09-14T10:50:19.246080451Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Kadi Yeshu'a daemoni ⟨את⟩ Yoyakim, Yoyakim kadi daemoni ⟨את⟩ Elyashib, Elyashib kadi daemoni ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Kadi Yeshu'a"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "daemoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "Yoyakim kadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "daemoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "Elyashib kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:19.246080451Z",
+  "model": "glm-5.3"
+}

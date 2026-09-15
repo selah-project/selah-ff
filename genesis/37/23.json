@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "genesis 37:23", "book": "genesis", "lang": "ff", "chapter": 37, "translation": "Nde ⟨את⟩ Yusuufa arii e banndiraaɓe mum ɓen, ɓe accitii Yusuufa ⟨את⟩ wuddere mun, ⟨את⟩ wuddere wutte ɓuuɓɗe nden nde woni e makko.", "tokens": [{"surface": "ויהי", "gloss": "Nde ... (si jooni)"}, {"surface": "כאשר", "gloss": "so"}, {"surface": "בא", "gloss": "arii"}, {"surface": "יוסף", "gloss": "Yusuufa"}, {"surface": "אל", "gloss": "e (ɓe duuɗi)"}, {"surface": "אחיו", "gloss": "banndiraaɓe mum ɓen"}, {"surface": "ויפשיטו", "gloss": "ɓe accitii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yusuufa"}, {"surface": "יוסף", "gloss": "Yusuufa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wuddere mun"}, {"surface": "כתנתו", "gloss": "wuddere mun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wuddere wutte ɓuuɓɗe nden"}, {"surface": "כתנת", "gloss": "wuddere"}, {"surface": "הפסים", "gloss": "wutte ɓuuɓɗe nden"}, {"surface": "אשר", "gloss": "nde"}, {"surface": "עליו", "gloss": "woni e makko"}], "timestamp": "2026-09-15T05:44:14.853955164Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Nde ⟨את⟩ Yoseef arii e banndiraaɓe mum ɓen, ɓe accitii Yoseef ⟨את⟩ wuddere mun, ⟨את⟩ wuddere wutte ɓuuɓɗe nden nde woni e makko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde... (si jooni)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "so"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e (ɓe duuɗi)"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraaɓe mum ɓen"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ɓe accitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuufa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere mun"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "wuddere mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddere wutte ɓuuɓɗe nden"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "wuddere"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "wutte ɓuuɓɗe nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "woni e makko"
+    }
+  ],
+  "timestamp": "2026-09-15T05:44:14.853955164Z",
+  "model": "glm-5.3"
+}

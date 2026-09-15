@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "exodus 25:2", "book": "exodus", "lang": "ff", "chapter": 25, "translation": "Haal ⟨את⟩ e ɓiɓɓe Israa'iila, ɓe njogito-am teruma, ⟨e את⟩ neɗɗo kala ɓernde mun eldata; on njogito ⟨את⟩ teruma-am.", "tokens": [{"surface": "דבר", "gloss": "Haal"}, {"surface": "אל", "gloss": "e"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "ויקחו", "gloss": "ɓe njogoto"}, {"surface": "לי", "gloss": "-am"}, {"surface": "תרומה", "gloss": "teruma"}, {"surface": "מאת", "gloss": "e ⟨את⟩", "marks": "neɗɗo kala"}, {"surface": "כל", "gloss": "kala"}, {"surface": "איש", "gloss": "neɗɗo"}, {"surface": "אשר", "gloss": "←"}, {"surface": "ידבנו", "gloss": "eldata"}, {"surface": "לבו", "gloss": "ɓernde mun"}, {"surface": "תקחו", "gloss": "on njogoto"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "teruma-am"}, {"surface": "תרומתי", "gloss": "teruma-am"}], "timestamp": "2026-09-14T05:07:22.257557602Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Haal ⟨את⟩ e ɓiɓɓe Israa'iila, ɓe njogito-am teruma, e neɗɗo kala ɓernde mun eldata; on njogito ⟨את⟩ teruma-am.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Haal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe njogoto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-am"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "e ⟨את⟩",
+      "marks": "neɗɗo kala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "←"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "eldata"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "on njogoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma-am"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "teruma-am"
+    }
+  ],
+  "timestamp": "2026-09-14T05:07:22.257557602Z",
+  "model": "glm-5.3"
+}

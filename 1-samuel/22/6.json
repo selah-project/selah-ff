@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-samuel 22:6","book":"1-samuel","lang":"ff","chapter":22,"translation":"Saawula nanii fii Daawuudi anndaama e worɓe ɓe ⟨את⟩ mo; kono Saawula jooɗii e Gib'a reludi aasere on e Ramaa, nayel mun e junngo mun, maccuɓe mun fuu ɗii darii reludi mun.","tokens":[{"surface":"וישמע","gloss":"nanii"},{"surface":"שאול","gloss":"Saawula"},{"surface":"כי","gloss":"fii"},{"surface":"נודע","gloss":"anndaama"},{"surface":"דוד","gloss":"Daawuudi"},{"surface":"ואנשים","gloss":"e worɓe"},{"surface":"אשר","gloss":"ɓe"},{"surface":"אתו","gloss":"⟨את⟩","marks":"mo"},{"surface":"ושאול","gloss":"kono Saawula"},{"surface":"יושב","gloss":"jooɗii"},{"surface":"בגבעה","gloss":"e Gib'a"},{"surface":"תחת","gloss":"reludi"},{"surface":"האשל","gloss":"aasere on"},{"surface":"ברמה","gloss":"e Ramaa"},{"surface":"וחניתו","gloss":"nayel mun"},{"surface":"בידו","gloss":"e junngo mun"},{"surface":"וכל","gloss":"fuu"},{"surface":"עבדיו","gloss":"maccuɓe mun"},{"surface":"נצבים","gloss":"ɗii darii"},{"surface":"עליו","gloss":"reludi mun"}],"timestamp":"2026-09-14T06:50:57.800423410Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 22:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Sha'uul nanii fii Daawuudi anndaama e worɓe ɓe ⟨את⟩ mo; kono Sha'uul jooɗii e Gib'a reludi aasere on e Ramaa, nayel mun e junngo mun, maccuɓe mun fuu ɗii darii reludi mun.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanii"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "anndaama"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "e worɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "kono Sha'uul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "jooɗii"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "e Gib'a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "reludi"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "aasere on"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "e Ramaa"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "nayel mun"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "e junngo mun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe mun"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ɗii darii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "reludi mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:57.800423410Z",
+  "model": "glm-5.3"
+}

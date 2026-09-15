@@ -1,1 +1,97 @@
-{"tier": "glm-5.2", "verse": 31, "ref": "2-samuel 3:31", "book": "2-samuel", "lang": "ff", "chapter": 3, "translation": "Dawuud wi'i Yowab e yimɓe fuu ɗiɗo ⟨את⟩ wondi e makko: morɗitee comci mon, ɓoornitee comci mette, rewetee yeeso Abner. Laamɗo Dawuud yahi caggal laana wirniiɗo.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "דוד", "gloss": "Dawuud"}, {"surface": "אל", "gloss": "ɗum"}, {"surface": "יואב", "gloss": "Yowab"}, {"surface": "ואל", "gloss": "e"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "העם", "gloss": "yimɓe"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "אתו", "gloss": "wondi ⟨את⟩ e makko"}, {"surface": "קרעו", "gloss": "morɗitee"}, {"surface": "בגדיכם", "gloss": "comci mon"}, {"surface": "וחגרו", "gloss": "ɓoornitee"}, {"surface": "שקים", "gloss": "comci mette"}, {"surface": "וספדו", "gloss": "rewetee"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "אבנר", "gloss": "Abner"}, {"surface": "והמלך", "gloss": "Laamɗo"}, {"surface": "דוד", "gloss": "Dawuud"}, {"surface": "הלך", "gloss": "yahi"}, {"surface": "אחרי", "gloss": "caggal"}, {"surface": "המטה", "gloss": "laana wirniiɗo"}], "timestamp": "2026-09-14T06:55:39.070666440Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 3:31",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Daawuud wi'i Yowab e yimɓe fuu ɗiɗo ⟨את⟩ wondi e makko: morɗitee comci mon, ɓoornitee comci mette, rewetee yeeso Abner. Laamɗo Daawuud yahi caggal laana wirniiɗo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "wondi ⟨את⟩ e makko"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "morɗitee"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "comci mon"
+    },
+    {
+      "surface": "וחגרו",
+      "gloss": "ɓoornitee"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "comci mette"
+    },
+    {
+      "surface": "וספדו",
+      "gloss": "rewetee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "Laamɗo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "laana wirniiɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:39.070666440Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "jeremiah 52:32", "book": "jeremiah", "lang": "ff", "chapter": 52, "translation": "O haalani ⟨את⟩ mo ko ⟨את⟩ moƴƴi, o waɗi ⟨את⟩ jooɗorde makko dow jooɗorde laamɓe ɓe ngoni ⟨e את makko⟩ e Babilon.", "tokens": [{"surface": "וידבר", "gloss": "O haalani"}, {"surface": "אתו", "gloss": "⟨את⟩ mo"}, {"surface": "טבות", "gloss": "ko moƴƴi"}, {"surface": "ויתן", "gloss": "o waɗi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "jooɗorde makko"}, {"surface": "כסאו", "gloss": "jooðorde makko"}, {"surface": "ממעל", "gloss": "dow"}, {"surface": "לכסא", "gloss": "jooɗorde"}, {"surface": "מלכים", "gloss": "laamɓe"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "אתו", "gloss": "⟨את⟩ makko"}, {"surface": "בבבל", "gloss": "e Babilon"}], "timestamp": "2026-09-14T08:33:35.618779586Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 52,
+  "translation": "O haalani ⟨את⟩ mo ko ⟨את⟩ moƴƴi, o waɗi ⟨את⟩ jooɗorde makko dow jooɗorde laamɓe ɓe ngoni e makko e Baabel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "O haalani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jooɗorde makko"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jooðorde makko"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "jooɗorde"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ makko"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "e Baabel"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:35.618779586Z",
+  "model": "glm-5.3"
+}

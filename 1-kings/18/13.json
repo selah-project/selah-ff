@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "1-kings 18:13", "book": "1-kings", "lang": "ff", "chapter": 18, "translation": "Haray anndaama-ɗum tam e Adonaay am ⟨את⟩ ko mbaɗ-mi, tuma nde Izebel wari ⟨את⟩ annabiiɓe Yaawe, e mi suuɗiima e annabiiɓe Yaawe worɓe teemedere — cappanɗe joy, cappanɗe joy e worɓe — e nder wolwa, mi ñammini ɓe ñameende e ndiyam?", "tokens": [{"surface": "הלא", "gloss": "haray ... tam"}, {"surface": "הגד", "gloss": "anndaama-ɗum"}, {"surface": "לאדני", "gloss": "e Adonaay am"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ko mbaɗ-mi"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "עשיתי", "gloss": "mbaɗ-mi"}, {"surface": "בהרג", "gloss": "tuma nde ... wari"}, {"surface": "איזבל", "gloss": "Izebel"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "annabiiɓe Yaawe"}, {"surface": "נביאי", "gloss": "annabiiɓe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ואחבא", "gloss": "e mi suuɗiima"}, {"surface": "מנביאי", "gloss": "e annabiiɓe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "מאה", "gloss": "teemedere"}, {"surface": "איש", "gloss": "worɓe"}, {"surface": "חמשים", "gloss": "cappanɗe joy"}, {"surface": "חמשים", "gloss": "cappanɗe joy"}, {"surface": "איש", "gloss": "e worɓe"}, {"surface": "במערה", "gloss": "e nder wolwa"}, {"surface": "ואכלכלם", "gloss": "mi ñammini ɓe"}, {"surface": "לחם", "gloss": "ñameende"}, {"surface": "ומים", "gloss": "e ndiyam"}], "timestamp": "2026-09-14T07:23:09.312010502Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Haray anndaama-ɗum tam e Joomi am ⟨את⟩ ko mbaɗ-mi, tuma nde Izebel wari ⟨את⟩ annabiiɓe Yaawe, e mi suuɗiima e annabiiɓe Yaawe worɓe teemedere — cappanɗe joy, cappanɗe joy e worɓe — e nder wolwa, mi ñammini ɓe ñameende e ndiyam?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "haray... tam"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "anndaama-ɗum"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "e Joomi am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko mbaɗ-mi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mbaɗ-mi"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "tuma nde... wari"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annabiiɓe Yaawe"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "annabiiɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "e mi suuɗiima"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "e annabiiɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cappanɗe joy"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cappanɗe joy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "e worɓe"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "e nder wolwa"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "mi ñammini ɓe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "e ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T07:23:09.312010502Z",
+  "model": "glm-5.3"
+}

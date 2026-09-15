@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "exodus 29:5", "book": "exodus", "lang": "ff", "chapter": 29, "translation": "A ƴetta ⟨את⟩ comci ɗin, a ɓoornora ⟨את⟩ Aarun ⟨את⟩ kanseere nden, e ⟨את⟩ wutte efood Oo, e ⟨את⟩ efood Oo, e ⟨את⟩ kebbe Oo; a fuddo mo e caɓol egod Oo.", "tokens": [{"surface": "ולקחת", "gloss": "a ƴetta"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "comci ɗin"}, {"surface": "הבגדים", "gloss": "comci ɗin"}, {"surface": "והלבשת", "gloss": "a ɓoornora"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Aarun"}, {"surface": "אהרן", "gloss": "Aarun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kanseere nden"}, {"surface": "הכתנת", "gloss": "kanseere nden"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "wutte efood Oo"}, {"surface": "מעיל", "gloss": "wutte"}, {"surface": "האפד", "gloss": "efood Oo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "efood Oo"}, {"surface": "האפד", "gloss": "efood Oo"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "kebbe Oo"}, {"surface": "החשן", "gloss": "kebbe Oo"}, {"surface": "ואפדת", "gloss": "a fuddo"}, {"surface": "לו", "gloss": "mo"}, {"surface": "בחשב", "gloss": "e caɓol"}, {"surface": "האפד", "gloss": "efood Oo"}], "timestamp": "2026-09-14T05:08:45.657836950Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "A ƴetta ⟨את⟩ comci ɗin, a ɓoornora ⟨את⟩ Aharon ⟨את⟩ kanseere nden, e ⟨את⟩ wutte efood Oo, e ⟨את⟩ efood Oo, e ⟨את⟩ kebbe Oo; a fuddo mo e caɓol egod Oo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a ƴetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "comci ɗin"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "comci ɗin"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "a ɓoornora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aarun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanseere nden"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kanseere nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wutte efood Oo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "wutte"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood Oo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "efood Oo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood Oo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kebbe Oo"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kebbe Oo"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "a fuddo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "e caɓol"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efood Oo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:08:45.657836950Z",
+  "model": "glm-5.3"
+}

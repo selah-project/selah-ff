@@ -1,1 +1,68 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "jeremiah 7:15", "book": "jeremiah", "lang": "ff", "chapter": 7, "translation": "Mi mbara ⟨את⟩ ondinoo ⟨את⟩ on am, min ⟨אתכם⟩ ummiade yeeso am, no mi wujjiri ɓiɓɓe mon ɗin fof nii, ⟨את⟩ wuddu Efrayim fof.", "tokens": [{"surface": "והשלכתי", "gloss": "mi mbara ondinoo"}, {"surface": "אתכם", "gloss": "⟨את⟩ on", "marks": "on (ƴiƴe mbaraaɗe)"}, {"surface": "מעל", "gloss": "ummiade"}, {"surface": "פני", "gloss": "yeeso am"}, {"surface": "כאשר", "gloss": "no... nii"}, {"surface": "השלכתי", "gloss": "mi wujjiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe mon ɗin fof"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "אחיכם", "gloss": "ɓiɓɓe mon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wuddu Efrayim fof"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "זרע", "gloss": "wuddu"}, {"surface": "אפרים", "gloss": "Efrayim"}], "timestamp": "2026-09-15T05:47:07.163483752Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Mi mbara ⟨את⟩ ondinoo ⟨את⟩ on am, min ummiade yeeso am, no mi wujjiri ɓiɓɓe mon ɗin fof nii, ⟨את⟩ wuddu Efrayim fof.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "mi mbara ondinoo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on (ƴiƴe mbaraaɗe)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ummiade"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "mi wujjiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mon ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ɓiɓɓe mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuddu Efrayim fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wuddu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-15T05:47:07.163483752Z",
+  "model": "glm-5.3"
+}

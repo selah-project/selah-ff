@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 69, "ref": "deuteronomy 28:69", "book": "deuteronomy", "lang": "ff", "chapter": 28, "translation": "Ɗee ko konuɗi ⟨את⟩ ɓeynondiral ngal Yaawe yamiri ⟨את⟩ Muusaa waɗde ⟨את⟩ ɓiɓɓe Israa'iil e leydi Moab, si wanaa ɓeynondiral ngal o waɗunoo ⟨את ɓe⟩ to Horeb.", "tokens": [{"surface": "אלה", "gloss": "Ɗee"}, {"surface": "דברי", "gloss": "konuɗi"}, {"surface": "הברית", "gloss": "ɓeynondiral ngal"}, {"surface": "אשר", "gloss": "ɗum"}, {"surface": "צוה", "gloss": "yamiri"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Muusaa"}, {"surface": "משה", "gloss": "Muusaa"}, {"surface": "לכרת", "gloss": "waɗde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Israa'iil"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "בארץ", "gloss": "e leydi"}, {"surface": "מואב", "gloss": "Moab"}, {"surface": "מלבד", "gloss": "si wanaa"}, {"surface": "הברית", "gloss": "ɓeynondiral ngal"}, {"surface": "אשר", "gloss": "ɗum"}, {"surface": "כרת", "gloss": "waɗunoo"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe"}, {"surface": "בחרב", "gloss": "to Horeb"}], "timestamp": "2026-09-14T06:03:43.808291774Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "deuteronomy 28:69",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ɗee ko konuɗi ⟨את⟩ ɓeynondiral ngal Yaawe yamiri ⟨את⟩ Moshe waɗde ⟨את⟩ ɓiɓɓe Israa'iil e leydi Moab, si wanaa ɓeynondiral ngal o waɗunoo ɓe to Horeb.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konuɗi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ɓeynondiral ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "si wanaa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ɓeynondiral ngal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "waɗunoo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "to Horeb"
+    }
+  ],
+  "timestamp": "2026-09-14T06:03:43.808291774Z",
+  "model": "glm-5.3"
+}

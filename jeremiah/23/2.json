@@ -1,1 +1,125 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "jeremiah 23:2", "book": "jeremiah", "lang": "ff", "chapter": 23, "translation": "Sabu ɗuum, ko nii Yaawe, Eloohim Israayiila, wi'i dow remooɓe ɓen ɓe remooɓe ⟨את⟩ yimɓe am: ko onon ƴellittoni ⟨את⟩ marɗe am, nduŋtoni ɓe, te waɗaani ɓe njillu; ⟨את⟩ ƴeewto — mi njilloto dow mon ⟨את⟩ bonannde golle mon, jaŋtaande Yaawe.", "tokens": [{"surface": "לכן", "gloss": "Sabu ɗuum"}, {"surface": "כה", "gloss": "ko nii"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israayiila"}, {"surface": "על", "gloss": "dow"}, {"surface": "הרעים", "gloss": "remooɓe ɓen"}, {"surface": "הרעים", "gloss": "ɓe remooɓe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yimɓe am"}, {"surface": "עמי", "gloss": "yimɓe am"}, {"surface": "אתם", "gloss": "onon"}, {"surface": "הפצתם", "gloss": "ƴellittoni"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "marɗe am"}, {"surface": "צאני", "gloss": "marɗe am"}, {"surface": "ותדחום", "gloss": "nduŋtoni ɓe"}, {"surface": "ולא", "gloss": "te waɗaani"}, {"surface": "פקדתם", "gloss": "ɓe njillu"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "הנני", "gloss": "ƴeewto"}, {"surface": "פקד", "gloss": "mi njilloto"}, {"surface": "עליכם", "gloss": "dow mon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "bonannde golle mon"}, {"surface": "רע", "gloss": "bonannde"}, {"surface": "מעלליכם", "gloss": "golle mon"}, {"surface": "נאם", "gloss": "jaŋtaande"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T08:15:25.434182420Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 23:2",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Sabu ɗuum, ko nii Yaawe, Eloohim Israa'iila, wi'i dow remooɓe ɓen ɓe remooɓe ⟨את⟩ yimɓe am: ko onon ƴellittoni ⟨את⟩ marɗe am, nduŋtoni ɓe, te waɗaani ɓe njillu; ⟨את⟩ ƴeewto — mi njilloto dow mon ⟨את⟩ bonannde golle mon, jaŋtaande Yaawe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗuum"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "remooɓe ɓen"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ɓe remooɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "onon"
+    },
+    {
+      "surface": "הפצתם",
+      "gloss": "ƴellittoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marɗe am"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "marɗe am"
+    },
+    {
+      "surface": "ותדחום",
+      "gloss": "nduŋtoni ɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te waɗaani"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ɓe njillu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeewto"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mi njilloto"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "dow mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonannde golle mon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "golle mon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jaŋtaande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:15:25.434182420Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "jeremiah 44:11", "book": "jeremiah", "lang": "ff", "chapter": 44, "translation": "Sabu ɗum noon Yaawe Sabaa'ot, Eloohim Yisraa'iil, wi'a: Ana, mi waɗata yeeso am luurndude mon ngam bonnde, e ngam momtude Yahuuda ⟨את⟩ fof.", "tokens": [{"surface": "לכן", "gloss": "Sabu ɗum"}, {"surface": "כה", "gloss": "noon"}, {"surface": "אמר", "gloss": "wi'a"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "Sabaa'ot"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisraa'iil"}, {"surface": "הנני", "gloss": "Ana"}, {"surface": "שם", "gloss": "mi waɗata"}, {"surface": "פני", "gloss": "yeeso am"}, {"surface": "בכם", "gloss": "luurndude mon"}, {"surface": "לרעה", "gloss": "ngam bonnde"}, {"surface": "ולהכרית", "gloss": "e ngam momtude"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yahuuda fof"}, {"surface": "כל", "gloss": "fof"}, {"surface": "יהודה", "gloss": "Yahuuda"}], "timestamp": "2026-09-14T08:27:47.840451617Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 44:11",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Sabu ɗum noon Yaawe Tsevaot, Eloohim Israa'iil, wi'a: Ana, mi waɗata yeeso am luurndude mon ngam bonnde, e ngam momtude Yahuuda ⟨את⟩ fof.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗum"
+    },
+    {
+      "surface": "כה",
+      "gloss": "noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso am"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "luurndude mon"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ngam bonnde"
+    },
+    {
+      "surface": "ולהכרית",
+      "gloss": "e ngam momtude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuuda fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T08:27:47.840451617Z",
+  "model": "glm-5.3"
+}

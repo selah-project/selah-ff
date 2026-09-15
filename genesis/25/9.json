@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "genesis 25:9", "book": "genesis", "lang": "ff", "chapter": 25, "translation": "⟨את⟩ Yitschak e Yishmael ɓiɗɓe mun ngabbini mo ⟨אתו⟩ to calal Makpela, to ladde Efrown ɓiy Tsochar Hittiyanke, ka woni ñaawo-yeeso Mamre.", "tokens": [{"surface": "ויקברו", "gloss": "ngabbini"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo (Yitschak e Yishmael ngabbini mo)"}, {"surface": "יצחק", "gloss": "Yitschak"}, {"surface": "וישמעאל", "gloss": "e Yishmael"}, {"surface": "בניו", "gloss": "ɓiɗɓe mun"}, {"surface": "אל", "gloss": "to"}, {"surface": "מערת", "gloss": "calal"}, {"surface": "המכפלה", "gloss": "Makpela"}, {"surface": "אל", "gloss": "to"}, {"surface": "שדה", "gloss": "ladde"}, {"surface": "עפרן", "gloss": "Efrown"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "צחר", "gloss": "Tsochar"}, {"surface": "החתי", "gloss": "Hittiyanke"}, {"surface": "אשר", "gloss": "ka"}, {"surface": "על", "gloss": "to dow"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "ממרא", "gloss": "Mamre"}], "timestamp": "2026-09-14T04:41:54.554079033Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 25:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "⟨את⟩ Yitshaq e Yishmael ɓiɗɓe mun ngabbini mo to calal Makpela, to ladde Efrown ɓiy Tsochar Hittiyanke, ka woni ñaawo-yeeso Mamre.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ngabbini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yitschak e Yishmael ngabbini mo)"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "e Yishmael"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɗɓe mun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "calal"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Makpela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "Efrown"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsochar"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittiyanke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "to dow"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:54.554079033Z",
+  "model": "glm-5.3"
+}

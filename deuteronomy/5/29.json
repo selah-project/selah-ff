@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "deuteronomy 5:29", "book": "deuteronomy", "lang": "ff", "chapter": 5, "translation": "Hommo mayu rokku ⟨wonna⟩ ɓernde maɓɓe ndee e maɓɓe, ngam ɗooƴde Am ⟨את⟩ e ndewde ⟨את⟩ min mi'inaji Am ɗin fuu, ñalawuaji ɗin fuu, fii moƴƴitinde e maɓɓe e ɓiɓɓe maɓɓe haa hay duumii.", "tokens": [{"surface": "מי", "gloss": "hommo mayu"}, {"surface": "יתן", "gloss": "rokku"}, {"surface": "והיה", "gloss": "⟨wonna⟩"}, {"surface": "לבבם", "gloss": "ɓernde maɓɓe"}, {"surface": "זה", "gloss": "ndee"}, {"surface": "להם", "gloss": "e maɓɓe"}, {"surface": "ליראה", "gloss": "ngam ɗooƴde"}, {"surface": "אתי", "gloss": "⟨את⟩", "marks": "ngam ɗooƴde Am"}, {"surface": "ולשמר", "gloss": "e ndewde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "min mi'inaji Am ɗin fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "מצותי", "gloss": "min mi'inaji Am ɗin"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הימים", "gloss": "ñalawuaji ɗin"}, {"surface": "למען", "gloss": "fii"}, {"surface": "ייטב", "gloss": "moƴƴitinde"}, {"surface": "להם", "gloss": "e maɓɓe"}, {"surface": "ולבניהם", "gloss": "e ɓiɓɓe maɓɓe"}, {"surface": "לעלם", "gloss": "haa hay duumii"}], "timestamp": "2026-09-14T05:54:26.300383185Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 5:29",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Hommo mayu rokku ⟨wonna⟩ ɓernde maɓɓe ndee e maɓɓe, ngam ɗooƴde am ⟨את⟩ e ndewde ⟨את⟩ min mi'inaji am ɗin fuu, ñalawuaji ɗin fuu, fii moƴƴitinde e maɓɓe e ɓiɓɓe maɓɓe haa hay duumii.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hommo mayu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "rokku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨wonna⟩"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ɓernde maɓɓe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ndee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ngam ɗooƴde"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngam ɗooƴde Am"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "e ndewde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "min mi'inaji Am ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "min mi'inaji am ɗin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ñalawuaji ɗin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "moƴƴitinde"
+    },
+    {
+      "surface": "להם",
+      "gloss": "e maɓɓe"
+    },
+    {
+      "surface": "ולבניהם",
+      "gloss": "e ɓiɓɓe maɓɓe"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "haa hay duumii"
+    }
+  ],
+  "timestamp": "2026-09-14T05:54:26.300383185Z",
+  "model": "glm-5.3"
+}

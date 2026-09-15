@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":19,"ref":"exodus 5:19","book":"exodus","lang":"ff","chapter":5,"translation":"Ardotooɓe ɓiɓɓe Israayiil ɓee njiyi ⟨את⟩ hoore maɓɓe e bone, tawi wi'etee: wata on usturo e biibri mon — haala ñalande e ñalande mun.","tokens":[{"surface":"ויראו","gloss":"njiyi"},{"surface":"שטרי","gloss":"ardotooɓe"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"ישראל","gloss":"Israayiil"},{"surface":"אתם","gloss":"⟨את⟩","marks":"hoore maɓɓe"},{"surface":"ברע","gloss":"e bone"},{"surface":"לאמר","gloss":"tawi wi'etee"},{"surface":"לא","gloss":"wata"},{"surface":"תגרעו","gloss":"on usturo"},{"surface":"מלבניכם","gloss":"e biibri mon"},{"surface":"דבר","gloss":"haala"},{"surface":"יום","gloss":"ñalande"},{"surface":"ביומו","gloss":"e ñalande mun"}],"timestamp":"2026-09-14T04:57:15.948685465Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ardotooɓe ɓiɓɓe Israa'iil ɓee njiyi ⟨את⟩ hoore maɓɓe e bone, tawi wi'etee: wata on usturo e biibri mon — haala ñalande e ñalande mun.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "njiyi"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ardotooɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hoore maɓɓe"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tawi wi'etee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "on usturo"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "e biibri mon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalande"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "e ñalande mun"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:15.948685465Z",
+  "model": "glm-5.3"
+}

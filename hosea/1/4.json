@@ -1,1 +1,94 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "hosea 1:4", "book": "hosea", "lang": "ff", "chapter": 1, "translation": "Yaawe wi'i to mo: 'Inndo mo Yizreel, fii ko seeɗa tan, mi yoɓtay ⟨את⟩ ƴiiƴam Yizreel dow suudu Yeehu, mi ustiray laamu suudu Israayiil.'", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אליו", "gloss": "to mo"}, {"surface": "קרא", "gloss": "Inndo"}, {"surface": "שמו", "gloss": "mo"}, {"surface": "יזרעאל", "gloss": "Yizreel"}, {"surface": "כי", "gloss": "fii"}, {"surface": "עוד", "gloss": "ko"}, {"surface": "מעט", "gloss": "seeɗa tan"}, {"surface": "ופקדתי", "gloss": "mi yoɓtay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ƴiiƴam Yizreel"}, {"surface": "דמי", "gloss": "ƴiiƴam"}, {"surface": "יזרעאל", "gloss": "Yizreel"}, {"surface": "על", "gloss": "dow"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "יהוא", "gloss": "Yeehu"}, {"surface": "והשבתי", "gloss": "mi ustiray"}, {"surface": "ממלכות", "gloss": "laamu"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "ישראל", "gloss": "Israayiil"}], "timestamp": "2026-09-14T08:58:07.081283413Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Yaawe wi'i to mo: 'Inndo mo Yizreel, fii ko seeɗa tan, mi yoɓtay ⟨את⟩ ƴiiƴam Yizreel dow suudu Yeehu, mi ustiray laamu suudu Israa'iil.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "to mo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Inndo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "seeɗa tan"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "mi yoɓtay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yeehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "mi ustiray"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T08:58:07.081283413Z",
+  "model": "glm-5.3"
+}

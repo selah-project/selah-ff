@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "1-samuel 30:11", "book": "1-samuel", "lang": "ff", "chapter": 30, "translation": "Ɓe tawii gorko Misrayim e nder ladde, ɓe ndañi ⟨e makko⟩ ngam ƴellitde to Dawidi; ɓe ndokki ⟨את⟩ mo nguura, o ñaami, ɓe ndarni mo ndiyam.", "tokens": [{"surface": "וימצאו", "gloss": "ɓe tawii"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "מצרי", "gloss": "Misrayim"}, {"surface": "בשדה", "gloss": "e nder ladde"}, {"surface": "ויקחו", "gloss": "ɓe ndañi"}, {"surface": "אתו", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "אל", "gloss": "ngam ƴellitde to"}, {"surface": "דוד", "gloss": "Dawidi"}, {"surface": "ויתנו", "gloss": "ɓe ndokki"}, {"surface": "לו", "gloss": "mo"}, {"surface": "לחם", "gloss": "nguura"}, {"surface": "ויאכל", "gloss": "o ñaami"}, {"surface": "וישקהו", "gloss": "ɓe ndarni mo"}, {"surface": "מים", "gloss": "ndiyam"}], "timestamp": "2026-09-14T06:52:25.419675413Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɓe tawii gorko Misrayim e nder ladde, ɓe ndañi ⟨e makko⟩ ngam ƴellitde to Daawuudi; ɓe ndokki ⟨את⟩ mo nguura, o ñaami, ɓe ndarni mo ndiyam.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ɓe tawii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "e nder ladde"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe ndañi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngam ƴellitde to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe ndokki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nguura"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "o ñaami"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ɓe ndarni mo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:25.419675413Z",
+  "model": "glm-5.3"
+}

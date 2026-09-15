@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 33:8","book":"psalms","lang":"ff","chapter":33,"translation":"Fulu leydi ndin ñaawa Yaawe; fulu wonduɓe tevel ɗen ɗooftoo Mo.","tokens":[{"surface":"ייראו","gloss":"ñaawa"},{"surface":"מיהוה","gloss":"Yaawe"},{"surface":"כל","gloss":"Fulu"},{"surface":"הארץ","gloss":"leydi ndin"},{"surface":"ממנו","gloss":"Mo"},{"surface":"יגורו","gloss":"ɗooftoo"},{"surface":"כל","gloss":"fulu"},{"surface":"ישבי","gloss":"wonduɓe"},{"surface":"תבל","gloss":"tevel ɗen"}],"timestamp":"2026-09-14T09:23:11.201690946Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Fulu leydi ndin ñaawa Yaawe; fulu wonduɓe tevel ɗen ɗooftoo mo.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ñaawa"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Fulu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ɗooftoo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fulu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wonduɓe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevel ɗen"
+    }
+  ],
+  "timestamp": "2026-09-14T09:23:11.201690946Z",
+  "model": "glm-5.3"
+}

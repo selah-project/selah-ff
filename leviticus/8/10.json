@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":10,"ref":"leviticus 8:10","book":"leviticus","lang":"ff","chapter":8,"translation":"Musaamayru yahi Muusaa, o nayi ⟨את⟩ diiɗam menteendi nden, o mentii ⟨את⟩ soddaaku on e ⟨את⟩ ko woni fuu e muuɗum, o laaɓtinii ɗum ⟨את⟩.","tokens":[{"surface":"ויקח","gloss":"yahi Muusaa"},{"surface":"משה","gloss":"Muusaa"},{"surface":"את","gloss":"⟨את⟩","marks":"diiɗam menteendi nden"},{"surface":"שמן","gloss":"diiɗam"},{"surface":"המשחה","gloss":"menteendi nden"},{"surface":"וימשח","gloss":"o mentii"},{"surface":"את","gloss":"⟨את⟩","marks":"soddaaku on"},{"surface":"המשכן","gloss":"soddaaku on"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"ko woni fuu e muuɗum"},{"surface":"כל","gloss":"fuu"},{"surface":"אשר","gloss":"ko"},{"surface":"בו","gloss":"e muuðum"},{"surface":"ויקדש","gloss":"o laaɓtinii"},{"surface":"אתם","gloss":"⟨את⟩ ɗum","marks":"soddaaku on e ko woni e muuɗum"}],"timestamp":"2026-09-15T05:49:52.810766489Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Musaamayru yahi Moshe, o nayi ⟨את⟩ diiɗam menteendi nden, o mentii ⟨את⟩ soddaaku on e ⟨את⟩ ko woni fuu e muuɗum, o laaɓtinii ɗum ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yahi Muusaa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diiɗam menteendi nden"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diiɗam"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "menteendi nden"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "o mentii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soddaaku on"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "soddaaku on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ko woni fuu e muuɗum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "e muuðum"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "o laaɓtinii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗum",
+      "marks": "soddaaku on e ko woni e muuɗum"
+    }
+  ],
+  "timestamp": "2026-09-15T05:49:52.810766489Z",
+  "model": "glm-5.3"
+}

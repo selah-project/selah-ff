@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "1-samuel 2:29", "book": "1-samuel", "lang": "ff", "chapter": 2, "translation": "Ko aya ɗon ruuyata e aybinde am e dokkal am, ngol mi yamri to jooɗorde am, ɗuum on teddinidi ⟨את⟩ ɓiɓɓe mon ɓuri min, ngam ɓamtaade mon e arandeere dokkal Yisraael fowu, ngam yimɓe am?", "tokens": [{"surface": "למה", "gloss": "ko aya"}, {"surface": "תבעטו", "gloss": "ɗon ruuyata"}, {"surface": "בזבחי", "gloss": "e aybinde am"}, {"surface": "ובמנחתי", "gloss": "e dokkal am"}, {"surface": "אשר", "gloss": "ngol"}, {"surface": "צויתי", "gloss": "mi yamri"}, {"surface": "מעון", "gloss": "to jooɗorde am"}, {"surface": "ותכבד", "gloss": "ɗuum on teddinidi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe mon"}, {"surface": "בניך", "gloss": "ɓiɓɓe mon"}, {"surface": "ממני", "gloss": "ɓuri min"}, {"surface": "להבריאכם", "gloss": "ngam ɓamtaade mon"}, {"surface": "מראשית", "gloss": "e arandeere"}, {"surface": "כל", "gloss": "fowu"}, {"surface": "מנחת", "gloss": "dokkal"}, {"surface": "ישראל", "gloss": "Yisraael"}, {"surface": "לעמי", "gloss": "ngam yimɓe am"}], "timestamp": "2026-09-14T06:36:23.117503718Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 2:29",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko aya ɗon ruuyata e aybinde am e dokkal am, ngol mi yamri to jooɗorde am, ɗuum on teddinidi ⟨את⟩ ɓiɓɓe mon ɓuri min, ngam ɓamtaade mon e arandeere dokkal Israa'iil fowu, ngam yimɓe am?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ko aya"
+    },
+    {
+      "surface": "תבעטו",
+      "gloss": "ɗon ruuyata"
+    },
+    {
+      "surface": "בזבחי",
+      "gloss": "e aybinde am"
+    },
+    {
+      "surface": "ובמנחתי",
+      "gloss": "e dokkal am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi yamri"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "to jooɗorde am"
+    },
+    {
+      "surface": "ותכבד",
+      "gloss": "ɗuum on teddinidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mon"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ɓiɓɓe mon"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ɓuri min"
+    },
+    {
+      "surface": "להבריאכם",
+      "gloss": "ngam ɓamtaade mon"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "e arandeere"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fowu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "dokkal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ngam yimɓe am"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:23.117503718Z",
+  "model": "glm-5.3"
+}

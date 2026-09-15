@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "deuteronomy 31:1", "book": "deuteronomy", "lang": "ff", "chapter": 31, "translation": "Mosheh yahi, o wi'i ⟨את⟩ konngi ɗii fuu to Israa'iil fof.", "tokens": [{"surface": "וילך", "gloss": "yahi"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "וידבר", "gloss": "o wi'i"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngi ɗii"}, {"surface": "הדברים", "gloss": "konngi ɗii"}, {"surface": "האלה", "gloss": "ɗii"}, {"surface": "אל", "gloss": "to"}, {"surface": "כל", "gloss": "fof"}, {"surface": "ישראל", "gloss": "Israa'iil"}], "timestamp": "2026-09-14T06:08:49.687440078Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moshe yahi, o wi'i ⟨את⟩ konngi ɗii fuu to Israa'iil fof.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗii"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:49.687440078Z",
+  "model": "glm-5.3"
+}

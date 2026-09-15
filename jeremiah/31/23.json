@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 23, "ref": "jeremiah 31:23", "book": "jeremiah", "lang": "ff", "chapter": 31, "translation": "Ko ɗum Yaawe Sevaot, Eloohim Yisraa'iil, wi'i: ɓe mbi'ay ⟨את⟩ konngol ngol e nder leydi Yahuudah e caeɗe mum, si mi ruttitii ⟨את⟩ doomu maɓɓe: Yaawe barke maaɗa, hoðorde ñaafru, duudu sennde.", "tokens": [{"surface": "כה", "gloss": "ko ɗum"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "Sevaot"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisraa'iil"}, {"surface": "עוד", "gloss": "goongi"}, {"surface": "יאמרו", "gloss": "ɓe mbi'ay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngol ngol"}, {"surface": "הדבר", "gloss": "konngol"}, {"surface": "הזה", "gloss": "ngol"}, {"surface": "בארץ", "gloss": "e nder leydi"}, {"surface": "יהודה", "gloss": "Yahuudah"}, {"surface": "ובעריו", "gloss": "e caeðe mum"}, {"surface": "בשובי", "gloss": "si mi ruttitii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "doomu maɓɓe"}, {"surface": "שבותם", "gloss": "doomu maɓɓe"}, {"surface": "יברכך", "gloss": "barke maaða"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "נוה", "gloss": "hoðorde"}, {"surface": "צדק", "gloss": "ñaafru"}, {"surface": "הר", "gloss": "duudu"}, {"surface": "הקדש", "gloss": "sennde"}], "timestamp": "2026-09-14T12:21:31.303770478Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 31:23",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Ko ɗum Yaawe Tsevaot, Eloohim Israa'iil, wi'i: ɓe mbi'ay ⟨את⟩ konngol ngol e nder leydi Yahuuda e caeɗe mum, si mi ruttitii ⟨את⟩ doomu maɓɓe: Yaawe barke maaɗa, hoðorde ñaafru, duudu sennde.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko ɗum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "goongi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ɓe mbi'ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e nder leydi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ובעריו",
+      "gloss": "e caeðe mum"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "si mi ruttitii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doomu maɓɓe"
+    },
+    {
+      "surface": "שבותם",
+      "gloss": "doomu maɓɓe"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "barke maaða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "hoðorde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ñaafru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "duudu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sennde"
+    }
+  ],
+  "timestamp": "2026-09-14T12:21:31.303770478Z",
+  "model": "glm-5.3"
+}

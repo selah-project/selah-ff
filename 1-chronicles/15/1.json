@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-chronicles 15:1","book":"1-chronicles","lang":"ff","chapter":15,"translation":"O waɗi makko cuuɗi e nder wuro Daawuda, o heertini nokku fii sanduki Eloohim, o waɗi majjere mum tent.","tokens":[{"surface":"ויעש","gloss":"o waɣi"},{"surface":"לו","gloss":"makko"},{"surface":"בתים","gloss":"cuuɗi"},{"surface":"בעיר","gloss":"e nder wuro"},{"surface":"דויד","gloss":"Daawuda"},{"surface":"ויכן","gloss":"o heertini"},{"surface":"מקום","gloss":"nokku"},{"surface":"לארון","gloss":"fii sanduki"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"ויט","gloss":"o waɗi majjere"},{"surface":"לו","gloss":"mun"},{"surface":"אהל","gloss":"tent"}],"timestamp":"2026-09-14T18:53:39.509130392Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 15:1",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "O waɗi makko cuuɗi e nder wuro Daawuuda, o heertini nokku fii sanduki Eloohim, o waɗi majjere mum tent.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "o waɣi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "cuuɗi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "e nder wuro"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "o heertini"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nokku"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "fii sanduki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "o waɗi majjere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    }
+  ],
+  "timestamp": "2026-09-14T18:53:39.509130392Z",
+  "model": "glm-5.3"
+}

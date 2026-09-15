@@ -1,1 +1,125 @@
-{"tier":"glm-5.2","verse":9,"ref":"zephaniah 2:9","book":"zephaniah","lang":"ff","chapter":2,"translation":"Ɗum waɗi, no mi nguurata, nde Yaawe Sabaoth, Eloohim Yisrael, wi'i: tawii Moab laataay no Sedom, ɓiɓɓe Ammon no Amora — nokku ƴiye ƴaaƴɗe, e kuura melge, e wernaare haa duumi; ko haɓɓii e yimɓe am ɓe ƴeewtata ɗum en, ko heddi e gentu am ruttotata ɗum en.","tokens":[{"surface":"לכן","gloss":"Ɗum waɗi"},{"surface":"חי","gloss":"no mi nguurata"},{"surface":"אני","gloss":"mi"},{"surface":"נאם","gloss":"wi'i"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"צבאות","gloss":"Sabaoth"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"כי","gloss":"tawii"},{"surface":"מואב","gloss":"Moab"},{"surface":"כסדם","gloss":"no Sedom"},{"surface":"תהיה","gloss":"laataay"},{"surface":"ובני","gloss":"e ɓiɓɓe"},{"surface":"עמון","gloss":"Ammon"},{"surface":"כעמרה","gloss":"no Amora"},{"surface":"ממשק","gloss":"nokku ƴiye ƴaaƴɗe"},{"surface":"חרול","gloss":"ƴiye ƴaaƴɗe"},{"surface":"ומכרה","gloss":"e kuura"},{"surface":"מלח","gloss":"melge"},{"surface":"ושממה","gloss":"e wernaare"},{"surface":"עד","gloss":"haa"},{"surface":"עולם","gloss":"duumi"},{"surface":"שארית","gloss":"ko haɓɓii e"},{"surface":"עמי","gloss":"yimɓe am"},{"surface":"יבזום","gloss":"ɓe ƴeewtata"},{"surface":"ויתר","gloss":"ko heddi e"},{"surface":"גוי","gloss":"gentu am"},{"surface":"ינחלום","gloss":"ruttotata"}],"timestamp":"2026-09-14T12:35:25.534906691Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 2:9",
+  "book": "zephaniah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɗum waɗi, no mi nguurata, nde Yaawe Tsevaot, Eloohim Israa'iil, wi'i: tawii Moab laataay no Sedom, ɓiɓɓe Ammon no Amora — nokku ƴiye ƴaaƴɗe, e kuura melge, e wernaare haa duumi; ko haɓɓii e yimɓe am ɓe ƴeewtata ɗum en, ko heddi e gentu am ruttotata ɗum en.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ɗum waɗi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "no mi nguurata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawii"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "no Sedom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "כעמרה",
+      "gloss": "no Amora"
+    },
+    {
+      "surface": "ממשק",
+      "gloss": "nokku ƴiye ƴaaƴɗe"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "ƴiye ƴaaƴɗe"
+    },
+    {
+      "surface": "ומכרה",
+      "gloss": "e kuura"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "melge"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "e wernaare"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ko haɓɓii e"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe am"
+    },
+    {
+      "surface": "יבזום",
+      "gloss": "ɓe ƴeewtata"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ko heddi e"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "gentu am"
+    },
+    {
+      "surface": "ינחלום",
+      "gloss": "ruttotata"
+    }
+  ],
+  "timestamp": "2026-09-14T12:35:25.534906691Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,115 @@
-{"tier": "glm-5.2", "verse": 26, "ref": "numbers 13:26", "book": "numbers", "lang": "ff", "chapter": 13, "translation": "Ɓe njahi, ⟨את⟩ ɓe njottii to Mose, e to Aharon, e to renndo fow sukaaɓe Israa'iila, to ladde Paran, to Kades; ɓe ngaddanii ɓe jaabannde, e ⟨את⟩ renndo ngoo fow, ɓe hollunoo ɓe ⟨את⟩ ɓiɓɓe leydi ndin.", "tokens": [{"surface": "וילכו", "gloss": "ɓe njahi"}, {"surface": "ויבאו", "gloss": "ɓe njottii"}, {"surface": "אל", "gloss": "to"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "כל", "gloss": "fow"}, {"surface": "עדת", "gloss": "renndo"}, {"surface": "בני", "gloss": "sukaaɓe"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "אל", "gloss": "to"}, {"surface": "מדבר", "gloss": "ladde"}, {"surface": "פארן", "gloss": "Paran"}, {"surface": "קדשה", "gloss": "Kades"}, {"surface": "וישיבו", "gloss": "ɓe ngaddanii"}, {"surface": "אותם", "gloss": "⟨את⟩ ɓe"}, {"surface": "דבר", "gloss": "jaabannde"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "renndo ngoo fow"}, {"surface": "כל", "gloss": "fow"}, {"surface": "העדה", "gloss": "renndo ngoo"}, {"surface": "ויראום", "gloss": "ɓe hollunoo ɓe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe leydi ndin"}, {"surface": "פרי", "gloss": "ɓiɓɓe"}, {"surface": "הארץ", "gloss": "leydi ndin"}], "timestamp": "2026-09-14T05:39:30.946038345Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 13:26",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ɓe njahi, ⟨את⟩ ɓe njottii to Moshe, e to Aharon, e to renndo fow sukaaɓe Israa'iila, to ladde Paran, to Kades; ɓe ngaddanii ɓe jaabannde, e ⟨את⟩ renndo ngoo fow, ɓe hollunoo ɓe ⟨את⟩ ɓiɓɓe leydi ndin.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe njottii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ladde"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kades"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "ɓe ngaddanii"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jaabannde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "renndo ngoo fow"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fow"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "renndo ngoo"
+    },
+    {
+      "surface": "ויראום",
+      "gloss": "ɓe hollunoo ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe leydi ndin"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T05:39:30.946038345Z",
+  "model": "glm-5.3"
+}

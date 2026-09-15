@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"genesis 33:17","book":"genesis","lang":"ff","chapter":33,"translation":"Yaakuuba yahi Sokot, o mahi hoore mun suudu, waawi noon o waɗi comci fii ngaddi mun; sabu ɗum o waɗi innde nokku on Sokot.","tokens":[{"surface":"ויעקב","gloss":"Yaakuuba"},{"surface":"נסע","gloss":"yahi"},{"surface":"סכתה","gloss":"Sokot"},{"surface":"ויבן","gloss":"o mahi"},{"surface":"לו","gloss":"hoore mun"},{"surface":"בית","gloss":"suudu"},{"surface":"ולמקנהו","gloss":"fii ngaddi mun"},{"surface":"עשה","gloss":"o waɗi"},{"surface":"סכת","gloss":"comci"},{"surface":"על","gloss":"sabu"},{"surface":"כן","gloss":"ɗum"},{"surface":"קרא","gloss":"o waɗi"},{"surface":"שם","gloss":"innde"},{"surface":"המקום","gloss":"nokku on"},{"surface":"סכות","gloss":"Sokot"}],"timestamp":"2026-09-14T04:46:34.142105856Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 33:17",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ya'aqob yahi Sokot, o mahi hoore mun suudu, waawi noon o waɗi comci fii ngaddi mun; sabu ɗum o waɗi innde nokku on Sokot.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Sokot"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "o mahi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ולמקנהו",
+      "gloss": "fii ngaddi mun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "comci"
+    },
+    {
+      "surface": "על",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nokku on"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sokot"
+    }
+  ],
+  "timestamp": "2026-09-14T04:46:34.142105856Z",
+  "model": "glm-5.3"
+}

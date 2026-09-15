@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":25,"ref":"1-samuel 18:25","book":"1-samuel","lang":"ff","chapter":18,"translation":"Shaul wi'i: “Ko nii wotton Daawuuda: laamɗo on walaa yiɗde e mahri, kono e teemedere ɗaari Pelistinayɓe, fii wartaade e baawɓi laamɗo on.” Kadi Shaul miijinoo fii yaltinde ⟨את⟩ Daawuuda e junnde Pelistinayɓe.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"שאול","gloss":"Shaul"},{"surface":"כה","gloss":"ko nii"},{"surface":"תאמרו","gloss":"wotton"},{"surface":"לדוד","gloss":"Daawuuda"},{"surface":"אין","gloss":"walaa"},{"surface":"חפץ","gloss":"yiɗde"},{"surface":"למלך","gloss":"laamɗo on"},{"surface":"במהר","gloss":"e mahri"},{"surface":"כי","gloss":"kono"},{"surface":"במאה","gloss":"e teemedere"},{"surface":"ערלות","gloss":"ɗaari"},{"surface":"פלשתים","gloss":"Pelistinayɓe"},{"surface":"להנקם","gloss":"fii wartaade"},{"surface":"באיבי","gloss":"e baawɓi"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"ושאול","gloss":"Shaul kadi"},{"surface":"חשב","gloss":"miijinoo"},{"surface":"להפיל","gloss":"fii yaltinde"},{"surface":"את","gloss":"⟨את⟩","marks":"Daawuuda"},{"surface":"דוד","gloss":"Daawuuda"},{"surface":"ביד","gloss":"e junnde"},{"surface":"פלשתים","gloss":"Pelistinayɓe"}],"timestamp":"2026-09-14T06:48:05.944915745Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 18:25",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sha'uul wi'i: “Ko nii wotton Daawuuda: laamɗo on walaa yiɗde e mahri, kono e teemedere ɗaari Pelistinayɓe, fii wartaade e baawɓi laamɗo on.” Kadi Sha'uul miijinoo fii yaltinde ⟨את⟩ Daawuuda e junnde Pelistinayɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "wotton"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "yiɗde"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "במהר",
+      "gloss": "e mahri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "e teemedere"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "ɗaari"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistinayɓe"
+    },
+    {
+      "surface": "להנקם",
+      "gloss": "fii wartaade"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "e baawɓi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sha'uul kadi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "miijinoo"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "fii yaltinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daawuuda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junnde"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistinayɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:48:05.944915745Z",
+  "model": "glm-5.3"
+}

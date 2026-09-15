@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "exodus 40:21", "book": "exodus", "lang": "ff", "chapter": 40, "translation": "O naatini ⟨את⟩ sandukku seedaare on nder suudu dewal; o waɗini ⟨את⟩ kebbe majjere nden, o dowlii dow ⟨את⟩ sandukku seedaare on; no Yaawe yumri Moose nihawri.", "tokens": [{"surface": "ויבא", "gloss": "o naatini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "sandukku seedaare on"}, {"surface": "הארן", "gloss": "sandukku"}, {"surface": "אל", "gloss": "nder"}, {"surface": "המשכן", "gloss": "suudu dewal"}, {"surface": "וישם", "gloss": "o waɗini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kebbe majjere nden"}, {"surface": "פרכת", "gloss": "kebbe"}, {"surface": "המסך", "gloss": "majjere"}, {"surface": "ויסך", "gloss": "o dowlii"}, {"surface": "על", "gloss": "dow"}, {"surface": "ארון", "gloss": "sandukku"}, {"surface": "העדות", "gloss": "seedaare"}, {"surface": "כאשר", "gloss": "no"}, {"surface": "צוה", "gloss": "yumri"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Moose"}, {"surface": "משה", "gloss": "Moose"}], "timestamp": "2026-09-14T11:38:33.933269213Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "O naatini ⟨את⟩ sandukku seedaare on nder suudu dewal; o waɗini ⟨את⟩ kebbe majjere nden, o dowlii dow ⟨את⟩ sandukku seedaare on; no Yaawe yumri Moshe nihawri.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "o naatini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandukku seedaare on"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandukku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nder"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "suudu dewal"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "o waɗini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebbe majjere nden"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kebbe"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "majjere"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "o dowlii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandukku"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "seedaare"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yumri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moose"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:38:33.933269213Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,112 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "numbers 5:21", "book": "numbers", "lang": "ff", "chapter": 5, "translation": "Ndeen sangaraajo on mawnina ⟨את⟩ debbo on e ñaawondiral lorri, sangaraajo on wi'i ⟨את⟩ debbo on: Yaawe hokku maa wonude lorri e ñaawondiral e nder yimɓe maa, nde Yaawe waɗata ⟨את⟩ mbaawka maa muunnde e ⟨את⟩ wommba maa ɓuuɓnde:", "tokens": [{"surface": "והשביע", "gloss": "mawnina"}, {"surface": "הכהן", "gloss": "sangaraajo on"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "debbo on"}, {"surface": "האשה", "gloss": "debbo on"}, {"surface": "בשבעת", "gloss": "e ñaawondiral"}, {"surface": "האלה", "gloss": "lorri"}, {"surface": "ואמר", "gloss": "wi'i"}, {"surface": "הכהן", "gloss": "sangaraajo on"}, {"surface": "לאשה", "gloss": "debbo on"}, {"surface": "יתן", "gloss": "hokku"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אותך", "gloss": "⟨את⟩ maa"}, {"surface": "לאלה", "gloss": "lorri"}, {"surface": "ולשבעה", "gloss": "e ñaawondiral"}, {"surface": "בתוך", "gloss": "e nder"}, {"surface": "עמך", "gloss": "yimɓe maa"}, {"surface": "בתת", "gloss": "nde ... waɗata"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "mbaawka maa"}, {"surface": "ירכך", "gloss": "mbaawka maa"}, {"surface": "נפלת", "gloss": "muunnde"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "wommba maa"}, {"surface": "בטנך", "gloss": "wommba maa"}, {"surface": "צבה", "gloss": "ɓuuɓnde"}], "timestamp": "2026-09-14T11:42:09.035750671Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 5:21",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Ndeen sangaraajo on mawnina ⟨את⟩ debbo on e ñaawondiral lorri, sangaraajo on wi'i ⟨את⟩ debbo on: Yaawe hokku maa wonude lorri e ñaawondiral e nder yimɓe maa, nde Yaawe waɗata ⟨את⟩ mbaawka maa muunnde e ⟨את⟩ wommba maa ɓuuɓnde:",
+  "tokens": [
+    {
+      "surface": "והשביע",
+      "gloss": "mawnina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sangaraajo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "debbo on"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "בשבעת",
+      "gloss": "e ñaawondiral"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lorri"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sangaraajo on"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hokku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ maa"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "lorri"
+    },
+    {
+      "surface": "ולשבעה",
+      "gloss": "e ñaawondiral"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yimɓe maa"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "nde... waɗata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbaawka maa"
+    },
+    {
+      "surface": "ירכך",
+      "gloss": "mbaawka maa"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "muunnde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "wommba maa"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wommba maa"
+    },
+    {
+      "surface": "צבה",
+      "gloss": "ɓuuɓnde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:42:09.035750671Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-samuel 20:9","book":"1-samuel","lang":"ff","chapter":20,"translation":"Ndeen Yonatanan wi'i: ‘Duu wooda maa! Mi-tuma-walla si mi anndii no feewi wonde bonru ndun timmii murtaama diga e baaba am ngam aroyde e maa, e min mi wi'anaa ⟨את⟩ ɗum e maa?'","tokens":[{"surface":"ויאמר","gloss":"Ndeen Yonatanan wi'i"},{"surface":"יהונתן","gloss":"Yonatanan"},{"surface":"חלילה","gloss":"Duu wooda"},{"surface":"לך","gloss":"maa"},{"surface":"כי","gloss":"si"},{"surface":"אם","gloss":"mi-tuma-walla"},{"surface":"ידע","gloss":"anndude"},{"surface":"אדע","gloss":"mi anndii"},{"surface":"כי","gloss":"wonde"},{"surface":"כלתה","gloss":"timmii"},{"surface":"הרעה","gloss":"bonru ndun"},{"surface":"מעם","gloss":"diga e"},{"surface":"אבי","gloss":"baaba am"},{"surface":"לבוא","gloss":"ngam aroyde"},{"surface":"עליך","gloss":"e maa"},{"surface":"ולא","gloss":"e mi ...-aa"},{"surface":"אתה","gloss":"⟨את⟩","marks":"ɗum"},{"surface":"אגיד","gloss":"wi'anaa"},{"surface":"לך","gloss":"e maa"}],"timestamp":"2026-09-14T06:46:51.890595650Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Ndeen Yonatanan wi'i: ‘Duu wooda maa! Mi-tuma-walla si mi anndii no feewi wonde bonru ndun timmii murtaama diga e baaba am ngam aroyde e maa, e min mi wi'anaa ⟨את⟩ ɗum e maa?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndeen Yonatanan wi'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Duu wooda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi-tuma-walla"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndude"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mi anndii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "timmii"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bonru ndun"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "diga e"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ngam aroyde"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e mi...-aa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "wi'anaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:51.890595650Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,106 @@
-{"tier":"glm-5.3","verse":9,"ref":"1-kings 1:9","book":"1-kings","lang":"ff","chapter":1,"translation":"Adonniyaahu waddi coktirgal wo'ɓe e muddaaji e duumi heewuɗi sara Jewi Zohelet, ko woni sara En-Rogel; o noddi ⟨את⟩ miñiraaɓe mun fuu, ɓiɓɓe laamɗo on, e worɓe Yuuda fuu, maccuɓe laamɗo on.","tokens":[{"surface":"ויזבח","gloss":"waddi coktirgal"},{"surface":"אדניהו","gloss":"Adonniyaahu"},{"surface":"צאן","gloss":"wo'ɓe"},{"surface":"ובקר","gloss":"e muddaaji"},{"surface":"ומריא","gloss":"e duumi heewuɗi"},{"surface":"עם","gloss":"sara"},{"surface":"אבן","gloss":"Jewi"},{"surface":"הזחלת","gloss":"Zohelet"},{"surface":"אשר","gloss":"ko woni"},{"surface":"אצל","gloss":"sara"},{"surface":"עין","gloss":"En-"},{"surface":"רגל","gloss":"Rogel"},{"surface":"ויקרא","gloss":"o noddi"},{"surface":"את","gloss":"⟨את⟩","marks":"miñiraaɓe mun fuu"},{"surface":"כל","gloss":"fuu"},{"surface":"אחיו","gloss":"miñiraaɓe mun"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"ולכל","gloss":"e fuu"},{"surface":"אנשי","gloss":"worɓe"},{"surface":"יהודה","gloss":"Yuuda"},{"surface":"עבדי","gloss":"maccuɓe"},{"surface":"המלך","gloss":"laamɗo on"}],"timestamp":"2026-09-15T06:36:40.521958760Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.3",
+  "verse": 9,
+  "ref": "1-kings 1:9",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Adonniyaahu waddi coktirgal wo'ɓe e muddaaji e duumi heewuɗi sara Jewi Zohelet, ko woni sara En-Rogel; o noddi ⟨את⟩ miñiraaɓe mun fuu, ɓiɓɓe laamɗo on, e worɓe Yahuuda fuu, maccuɓe laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "waddi coktirgal"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonniyaahu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wo'ɓe"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "e muddaaji"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "e duumi heewuɗi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sara"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Jewi"
+    },
+    {
+      "surface": "הזחלת",
+      "gloss": "Zohelet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sara"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "Rogel"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñiraaɓe mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiraaɓe mun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "maccuɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-15T06:36:40.521958760Z",
+  "model": "glm-5.3"
+}

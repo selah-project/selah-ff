@@ -1,1 +1,50 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "ezekiel 2:1", "book": "ezekiel", "lang": "ff", "chapter": 2, "translation": "O wi'i min: ɓiy neɗɗo, darii dow koyɗe ⟨את⟩ maa, e mi yeewitotoo ⟨אתך⟩.", "tokens": [{"surface": "ויאמר", "gloss": "O wi'i"}, {"surface": "אלי", "gloss": "min"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "אדם", "gloss": "neɗɗo"}, {"surface": "עמד", "gloss": "darii"}, {"surface": "על", "gloss": "dow"}, {"surface": "רגליך", "gloss": "koyɗe maa"}, {"surface": "ואדבר", "gloss": "mi yeewitotoo"}, {"surface": "אתך", "gloss": "⟨את⟩ ma", "marks": "min (ko haalanaa)"}], "timestamp": "2026-09-14T08:33:49.490356749Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i min: ɓiy neɗɗo, darii dow koyɗe ⟨את⟩ maa, e mi yeewitotoo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "koyɗe maa"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "mi yeewitotoo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ma",
+      "marks": "min (ko haalanaa)"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:49.490356749Z",
+  "model": "glm-5.3"
+}

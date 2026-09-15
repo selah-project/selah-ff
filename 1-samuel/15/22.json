@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-samuel 15:22","book":"1-samuel","lang":"ff","chapter":15,"translation":"Shammu'el wi'i: Eey, keɓagol Yaawe ɗon e pewje ɗee e saddeende ɗee, no nanngugol daande Yaawe nii? Ɗoo, nanngugol ɓuri saddeende teddini, heɗaade ɓuri dulru ɓaaƴɓe.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"שמואל","gloss":"Shammu'el"},{"surface":"החפץ","gloss":"keɓagol"},{"surface":"ליהוה","gloss":"Yaawe"},{"surface":"בעלות","gloss":"e pewje ɗee"},{"surface":"וזבחים","gloss":"e saddeende ɗee"},{"surface":"כשמע","gloss":"no nanngugol ... nii"},{"surface":"בקול","gloss":"daande"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"הנה","gloss":"Ɗoo"},{"surface":"שמע","gloss":"nanngugol"},{"surface":"מזבח","gloss":"saddeende"},{"surface":"טוב","gloss":"ɓuri ... teddini"},{"surface":"להקשיב","gloss":"heɗaade"},{"surface":"מחלב","gloss":"dulru"},{"surface":"אילים","gloss":"ɓaaƴɓe"}],"timestamp":"2026-09-14T06:44:35.344507817Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Shemu'eel wi'i: Eey, keɓagol Yaawe ɗon e pewje ɗee e saddeende ɗee, no nanngugol daande Yaawe nii? Ɗoo, nanngugol ɓuri saddeende teddini, heɗaade ɓuri dulru ɓaaƴɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "keɓagol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "e pewje ɗee"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "e saddeende ɗee"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "no nanngugol... nii"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "daande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ɗoo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nanngugol"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "saddeende"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ɓuri... teddini"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "heɗaade"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "dulru"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ɓaaƴɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:44:35.344507817Z",
+  "model": "glm-5.3"
+}

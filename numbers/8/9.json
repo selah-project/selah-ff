@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "numbers 8:9", "book": "numbers", "lang": "ff", "chapter": 8, "translation": "Ndeen aɗa nayn ⟨את⟩ Laawi'en yeeso ɗanngu kawral ngal, aɗa mooftu ⟨את⟩ kalmol renndo sukaaɓe Israayel.", "tokens": [{"surface": "והקרבת", "gloss": "aɗa nayn"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Laawi'en"}, {"surface": "הלוים", "gloss": "Laawi'en"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "אהל", "gloss": "ɗanngu"}, {"surface": "מועד", "gloss": "kawral"}, {"surface": "והקהלת", "gloss": "aɗa mooftu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kalmol renndo"}, {"surface": "כל", "gloss": "kalmol"}, {"surface": "עדת", "gloss": "renndo"}, {"surface": "בני", "gloss": "sukaaɓe"}, {"surface": "ישראל", "gloss": "Israayel"}], "timestamp": "2026-09-14T05:37:30.656565414Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "Ndeen aɗa nayn ⟨את⟩ Laawi'en yeeso ɗanngu kawral ngal, aɗa mooftu ⟨את⟩ kalmol renndo sukaaɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "aɗa nayn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Laawi'en"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Laawi'en"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ɗanngu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "aɗa mooftu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalmol renndo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kalmol"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sukaaɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:37:30.656565414Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-samuel 1:3","book":"1-samuel","lang":"ff","chapter":1,"translation":"Ndeen neɗɗo oo ina yawta ummoraade wuro makoo e balɗe keewɗe hitaande kala, ngam sujjaade e wadde sadak to Yaawe Sabaoth, to Silo. Ɓiɓɓe Elido ɗiɗo, Hofni e Finehas, ko ɓe jooɗii ɗoon, almuudaaji Yaawe.","tokens":[{"surface":"ועלה","gloss":"inna yawta"},{"surface":"האיש","gloss":"neɗɗo oo"},{"surface":"ההוא","gloss":"gol"},{"surface":"מעירו","gloss":"ummoraade wuro makoo"},{"surface":"מימים","gloss":"e balɗe"},{"surface":"ימימה","gloss":"hitaande kala"},{"surface":"להשתחות","gloss":"ngam sujjaade"},{"surface":"ולזבח","gloss":"e wadde sadak"},{"surface":"ליהוה","gloss":"to Yaawe"},{"surface":"צבאות","gloss":"Sabaoth"},{"surface":"בשלה","gloss":"to Silo"},{"surface":"ושם","gloss":"ɗiɗon"},{"surface":"שני","gloss":"ɗiɗo"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"עלי","gloss":"Eli"},{"surface":"חפני","gloss":"Hofni"},{"surface":"ופנחס","gloss":"e Finehas"},{"surface":"כהנים","gloss":"almuudaaji"},{"surface":"ליהוה","gloss":"Yaawe"}],"timestamp":"2026-09-14T06:36:16.925004223Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 1:3",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ndeen neɗɗo oo ina yawta ummoraade wuro makoo e balɗe keewɗe hitaande kala, ngam sujjaade e wadde sadak to Yaawe Tsevaot, to Silo. Ɓiɓɓe Elido ɗiɗo, Hofni e Finehas, ko ɓe jooɗii ɗoon, almuudaaji Yaawe.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "inna yawta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo oo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "gol"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "ummoraade wuro makoo"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "e balɗe"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "hitaande kala"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ngam sujjaade"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "e wadde sadak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "to Silo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ɗiɗon"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofni"
+    },
+    {
+      "surface": "ופנחס",
+      "gloss": "e Finehas"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "almuudaaji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:36:16.925004223Z",
+  "model": "glm-5.3"
+}

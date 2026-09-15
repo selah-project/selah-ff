@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":33,"ref":"2-chronicles 32:33","book":"2-chronicles","lang":"ff","chapter":32,"translation":"Yiizikiyaahuu laya e baabiraaɓe mun, ɓe nyiibi mo e dow ɓunndu yanaaji ɓiɓɓe Daawuda; teddungal ɓe mbaɗi mo e maayde makko — Yuuda fuu e hoɗɓe Yerushalaamu; ɓiyiiko Manasse laami ko woni lomto mun.","tokens":[{"surface":"וישכב","gloss":"laya"},{"surface":"יחזקיהו","gloss":"Yiizikiyaahuu"},{"surface":"עם","gloss":"e"},{"surface":"אבתיו","gloss":"baabiraaɓe mun"},{"surface":"ויקברהו","gloss":"ɓe nyiibi mo"},{"surface":"במעלה","gloss":"e dow ɓunndu"},{"surface":"קברי","gloss":"yanaaji"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"דויד","gloss":"Daawuda"},{"surface":"וכבוד","gloss":"teddungal"},{"surface":"עשו","gloss":"ɓe mbaɗi"},{"surface":"לו","gloss":"mo"},{"surface":"במותו","gloss":"e maayde makko"},{"surface":"כל","gloss":"fuu"},{"surface":"יהודה","gloss":"Yuuda"},{"surface":"וישבי","gloss":"e hoɗɓe"},{"surface":"ירושלם","gloss":"Yerushalaamu"},{"surface":"וימלך","gloss":"laami"},{"surface":"מנשה","gloss":"Manasse"},{"surface":"בנו","gloss":"ɓiyiiko"},{"surface":"תחתיו","gloss":"ko woni lomto mun"}],"timestamp":"2026-09-14T11:24:17.980136640Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 32:33",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Yiizikiyaahuu laya e baabiraaɓe mun, ɓe nyiibi mo e dow ɓunndu yanaaji ɓiɓɓe Daawuuda; teddungal ɓe mbaɗi mo e maayde makko — Yahuuda fuu e hoɗɓe Yerushalaamu; ɓiyiiko Manasse laami ko woni lomto mun.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "laya"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yiizikiyaahuu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baabiraaɓe mun"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ɓe nyiibi mo"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "e dow ɓunndu"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "yanaaji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "e maayde makko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "e hoɗɓe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaamu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "laami"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiyiiko"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ko woni lomto mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:24:17.980136640Z",
+  "model": "glm-5.3"
+}

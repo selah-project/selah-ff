@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-kings 15:7","book":"1-kings","lang":"ff","chapter":15,"translation":"Ko heddii kadi e konnguɗi Aviyam e ko o waɣi fof, ɗi winndaaka ɗi wonaa e deftere konnguɗi balɗe ɗen laamɓe Yuuda ɓen? Konu woodaniiino hakkude Aviyam e hakkude Yarov'am.","tokens":[{"surface":"ויתר","gloss":"ko heddii kadi"},{"surface":"דברי","gloss":"e konnguɗi"},{"surface":"אבים","gloss":"Aviyam"},{"surface":"וכל","gloss":"e ... fof"},{"surface":"אשר","gloss":"ko"},{"surface":"עשה","gloss":"o waɣi"},{"surface":"הלוא","gloss":"ɗi wonaa ɣi winndaaka ɗi"},{"surface":"הם","gloss":"ɗi"},{"surface":"כתובים","gloss":"winndaaka"},{"surface":"על","gloss":"e"},{"surface":"ספר","gloss":"deftere"},{"surface":"דברי","gloss":"konnguɗi"},{"surface":"הימים","gloss":"balɗe ɗen"},{"surface":"למלכי","gloss":"laamɓe"},{"surface":"יהודה","gloss":"Yuuda ɓen"},{"surface":"ומלחמה","gloss":"Konu"},{"surface":"היתה","gloss":"woodaniiino"},{"surface":"בין","gloss":"hakkude"},{"surface":"אבים","gloss":"Aviyam"},{"surface":"ובין","gloss":"e hakkude"},{"surface":"ירבעם","gloss":"Yarov'am"}],"timestamp":"2026-09-14T07:21:20.273804412Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 15:7",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ko heddii kadi e konnguɗi Aviyam e ko o waɣi fof, ɗi winndaaka ɗi wonaa e deftere konnguɗi balɗe ɗen laamɓe Yahuuda ɓen? Konu woodaniiino hakkude Aviyam e hakkude Yarov'am.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ko heddii kadi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "e konnguɗi"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e... fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o waɣi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ɗi wonaa ɣi winndaaka ɗi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "winndaaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "balɗe ɗen"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda ɓen"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "Konu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "woodaniiino"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkude"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e hakkude"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:20.273804412Z",
+  "model": "glm-5.3"
+}

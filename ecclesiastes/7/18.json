@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "ecclesiastes 7:18", "book": "ecclesiastes", "lang": "ff", "chapter": 7, "translation": "Ko moƴƴi a jogito ɗuum, e ɗuum kadi wata a accu ⟨את⟩ junnde maa ; sabu kuloyo Eloohim o yaltata ⟨את⟩ ɗiin ɗin fuu.", "tokens": [{"surface": "טוב", "gloss": "ko moƴƴi"}, {"surface": "אשר", "gloss": "—"}, {"surface": "תאחז", "gloss": "a jogito"}, {"surface": "בזה", "gloss": "ɗuum"}, {"surface": "וגם", "gloss": "e ɗuum kadi"}, {"surface": "מזה", "gloss": "ɗuum"}, {"surface": "אל", "gloss": "wata"}, {"surface": "תנח", "gloss": "a accu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "junnde maa"}, {"surface": "ידך", "gloss": "junnde maa"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "ירא", "gloss": "kuloyo"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "יצא", "gloss": "yaltata"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗiin ɗin fuu"}, {"surface": "כלם", "gloss": "ɗiin ɗin fuu"}], "timestamp": "2026-09-14T10:28:32.632685784Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Ko moƴƴi a jogito ɗuum, e ɗuum kadi wata a accu ⟨את⟩ junnde maa; sabu kuloyo Eloohim o yaltata ⟨את⟩ ɗiin ɗin fuu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ko moƴƴi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "a jogito"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "e ɗuum kadi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "a accu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde maa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junnde maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kuloyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yaltata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗiin ɗin fuu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ɗiin ɗin fuu"
+    }
+  ],
+  "timestamp": "2026-09-14T10:28:32.632685784Z",
+  "model": "glm-5.3"
+}

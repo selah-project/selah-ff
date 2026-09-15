@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "2-samuel 9:11", "book": "2-samuel", "lang": "ff", "chapter": 9, "translation": "Tsiba wi'i laamɗo on: no joomi am laamɗo on yamiri ⟨את⟩ maccuɗo mun non, maccuɗo maa waɗay; Mefiboshet ñaama e dow taabal am no gooto e ɓiɓɓe laamɗo on.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "ציבא", "gloss": "Tsiba"}, {"surface": "אל", "gloss": "→"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "ככל", "gloss": "no ... fof"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "יצוה", "gloss": "yamiri"}, {"surface": "אדני", "gloss": "joomi am"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "maccuɗo mun"}, {"surface": "עבדו", "gloss": "maccuɗo mun"}, {"surface": "כן", "gloss": "non"}, {"surface": "יעשה", "gloss": "waɗay"}, {"surface": "עבדך", "gloss": "maccuɗo maa"}, {"surface": "ומפיבשת", "gloss": "Mefiboshet"}, {"surface": "אכל", "gloss": "ñaama"}, {"surface": "על", "gloss": "e dow"}, {"surface": "שלחני", "gloss": "taabal am"}, {"surface": "כאחד", "gloss": "no gooto"}, {"surface": "מבני", "gloss": "e ɓiɓɓe"}, {"surface": "המלך", "gloss": "laamɗo on"}], "timestamp": "2026-09-14T06:56:45.599448247Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Tsiba wi'i laamɗo on: no joomi am laamɗo on yamiri ⟨את⟩ maccuɗo mun non, maccuɗo maa waɗay; Mefiboshet ñaama e dow taabal am no gooto e ɓiɓɓe laamɗo on.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no... fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "joomi am"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maccuɗo mun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "maccuɗo mun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "waɗay"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "maccuɗo maa"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "Mefiboshet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ñaama"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "taabal am"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "no gooto"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "e ɓiɓɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:56:45.599448247Z",
+  "model": "glm-5.3"
+}

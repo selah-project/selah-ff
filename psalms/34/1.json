@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "psalms 34:1", "book": "psalms", "lang": "ff", "chapter": 34, "translation": "Fedde Dawuudi, tuma nde o waylitinoo ⟨את⟩ hakkille mun yeeso Abimelek, o ruddii mo, o yahi.", "tokens": [{"surface": "לדוד", "gloss": "Fedde Dawuudi"}, {"surface": "בשנותו", "gloss": "tuma nde o waylitinoo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hakkille mun"}, {"surface": "טעמו", "gloss": "hakkille mun"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "אבימלך", "gloss": "Abimelek"}, {"surface": "ויגרשהו", "gloss": "o ruddii mo"}, {"surface": "וילך", "gloss": "o yahi"}], "timestamp": "2026-09-14T09:24:08.848451821Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 34,
+  "translation": "Fedde Daawuudi, tuma nde o waylitinoo ⟨את⟩ hakkille mun yeeso Abimelek, o ruddii mo, o yahi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fedde Daawuudi"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "tuma nde o waylitinoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakkille mun"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "hakkille mun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "o ruddii mo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "o yahi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:24:08.848451821Z",
+  "model": "glm-5.3"
+}

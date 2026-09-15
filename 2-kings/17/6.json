@@ -1,1 +1,96 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "2-kings 17:6", "book": "2-kings", "lang": "ff", "chapter": 17, "translation": "E duuɓi nayaɓo Hooshea, laamɗo Ashur nanngi ⟨את⟩ Shomeron, o hoɗi ⟨את⟩ Israa'il yaltude haa Ashura, o hoɗi ɓe ⟨את⟩ to Halah e to Habor, maayo Gozan, e caffeeji Maday.", "tokens": [{"surface": "בשנת", "gloss": "E duuɓi"}, {"surface": "התשיעית", "gloss": "nayaɓo"}, {"surface": "להושע", "gloss": "Hooshea"}, {"surface": "לכד", "gloss": "nanngi"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "אשור", "gloss": "Ashur"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Shomeron"}, {"surface": "שמרון", "gloss": "Shomeron"}, {"surface": "ויגל", "gloss": "o hoɗi yaltude"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'il"}, {"surface": "ישראל", "gloss": "Israa'il"}, {"surface": "אשורה", "gloss": "haa Ashura"}, {"surface": "וישב", "gloss": "o hoɗi ɓe"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "בחלח", "gloss": "to Halah"}, {"surface": "ובחבור", "gloss": "e to Habor"}, {"surface": "נהר", "gloss": "maayo"}, {"surface": "גוזן", "gloss": "Gozan"}, {"surface": "וערי", "gloss": "e caffeeji"}, {"surface": "מדי", "gloss": "Maday"}], "timestamp": "2026-09-14T07:35:03.591906564Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "E duuɓi nayaɓo Hooshea, laamɗo Ashur nanngi ⟨את⟩ Shomeron, o hoɗi ⟨את⟩ Israa'iil yaltude haa Ashura, o hoɗi ɓe ⟨את⟩ to Halah e to Habor, maayo Gozan, e caffeeji Maday.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "E duuɓi"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "nayaɓo"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hooshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nanngi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "o hoɗi yaltude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'il"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "haa Ashura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o hoɗi ɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "to Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "e to Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "e caffeeji"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Maday"
+    }
+  ],
+  "timestamp": "2026-09-14T07:35:03.591906564Z",
+  "model": "glm-5.3"
+}

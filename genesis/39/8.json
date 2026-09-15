@@ -1,1 +1,85 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "genesis 39:8", "book": "genesis", "lang": "ff", "chapter": 39, "translation": "Kono o salii, o wi'i fayde e debbo Adonaay mun: “Enee, Adonaay am anndinaa ⟨את⟩ e am ko woni e suudu, kono ko fuu ko o woodi o rokkii ɗum e junngo am.", "tokens": [{"surface": "וימאן", "gloss": "O salii"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אל", "gloss": "fayde e"}, {"surface": "אשת", "gloss": "debbo"}, {"surface": "אדניו", "gloss": "Adonaay mun"}, {"surface": "הן", "gloss": "Enee"}, {"surface": "אדני", "gloss": "Adonaay am"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "ידע", "gloss": "anndi"}, {"surface": "אתי", "gloss": "⟨את⟩ e am"}, {"surface": "מה", "gloss": "ko"}, {"surface": "בבית", "gloss": "e suudu"}, {"surface": "וכל", "gloss": "kono ko fuu"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "יש", "gloss": "woodi"}, {"surface": "לו", "gloss": "o"}, {"surface": "נתן", "gloss": "o rokkii"}, {"surface": "בידי", "gloss": "e junngo am"}], "timestamp": "2026-09-14T04:49:36.824417690Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Kono o salii, o wi'i fayde e debbo Joomi mun: “Enee, Joomi am anndinaa ⟨את⟩ e am ko woni e suudu, kono ko fuu ko o woodi o rokkii ɗum e junngo am.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "o salii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde e"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Joomi mun"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Enee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ e am"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kono ko fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o rokkii"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "e junngo am"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:36.824417690Z",
+  "model": "glm-5.3"
+}

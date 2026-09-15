@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "exodus 23:33", "book": "exodus", "lang": "ff", "chapter": 23, "translation": "Ɓe dungotaako e leydi maa, wanaa ɓe waɗa ma huunde bonnde ⟨את⟩ faade e Am, si a gollu ⟨את⟩ Eloohim maɓɓe, sabu ko ɓe njahra e ma moodere.", "tokens": [{"surface": "לא", "gloss": "wanaa"}, {"surface": "ישבו", "gloss": "ɓe dungotaako"}, {"surface": "בארצך", "gloss": "e leydi maa"}, {"surface": "פן", "gloss": "wanaa"}, {"surface": "יחטיאו", "gloss": "ɓe waɗa ma huunde bonnde"}, {"surface": "אתך", "gloss": "⟨את⟩", "marks": "ma"}, {"surface": "לי", "gloss": "faade e Am"}, {"surface": "כי", "gloss": "si"}, {"surface": "תעבד", "gloss": "a gollu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Eloohim maɓɓe"}, {"surface": "אלהיהם", "gloss": "Eloohim maɓɓe"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "יהיה", "gloss": "ko... njahra"}, {"surface": "לך", "gloss": "e ma"}, {"surface": "למוקש", "gloss": "moodere"}], "timestamp": "2026-09-14T05:03:43.331595936Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Ɓe dungotaako e leydi maa, wanaa ɓe waɗa ma huunde bonnde ⟨את⟩ faade e am, si a gollu ⟨את⟩ Eloohim maɓɓe, sabu ko ɓe njahra e ma moodere.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ɓe dungotaako"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "e leydi maa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ɓe waɗa ma huunde bonnde"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "faade e am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "a gollu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ko... njahra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e ma"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "moodere"
+    }
+  ],
+  "timestamp": "2026-09-14T05:03:43.331595936Z",
+  "model": "glm-5.3"
+}

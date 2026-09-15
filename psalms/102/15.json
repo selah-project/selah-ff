@@ -1,1 +1,47 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "psalms 102:15", "book": "psalms", "lang": "ff", "chapter": 102, "translation": "Nde ko jeyaaɓe-maa ɓe njiɗi ⟨את⟩ kosam Siyon, ɓe muñini ⟨את⟩ birmal mayre.", "tokens": [{"surface": "כי", "gloss": "nde ko"}, {"surface": "רצו", "gloss": "ɓe njiɗi"}, {"surface": "עבדיך", "gloss": "jeyaaɓe-maa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kosam Siyon"}, {"surface": "אבניה", "gloss": "kosam mayre"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "birmal mayre"}, {"surface": "עפרה", "gloss": "birmal mayre"}, {"surface": "יחננו", "gloss": "ɓe muñini"}], "timestamp": "2026-09-14T09:41:15.676478567Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 102,
+  "translation": "Nde ko jeyaaɓe-maa ɓe njiɗi ⟨את⟩ kosam Tsiyon, ɓe muñini ⟨את⟩ birmal mayre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nde ko"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ɓe njiɗi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jeyaaɓe-maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosam Siyon"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "kosam mayre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "birmal mayre"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "birmal mayre"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ɓe muñini"
+    }
+  ],
+  "timestamp": "2026-09-14T09:41:15.676478567Z",
+  "model": "glm-5.3"
+}

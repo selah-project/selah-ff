@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "1-chronicles 17:6", "book": "1-chronicles", "lang": "ff", "chapter": 17, "translation": "E ɗo kala mi yahi e nder Yisraa'iil fuu, ha konngol wi'i mi ⟨את⟩ e gooto e ñaawooɓe Yisraa'iil, ɗi mi amariri yo ɓe re'u ⟨את⟩ ɓamɗe am, wi'ude: Hara waajaali on mahiranaami suudu leɗɗe sedar?", "tokens": [{"surface": "בכל", "gloss": "e ɗo kala"}, {"surface": "אשר", "gloss": "—"}, {"surface": "התהלכתי", "gloss": "mi yahi"}, {"surface": "בכל", "gloss": "e nder"}, {"surface": "ישראל", "gloss": "Yisraa'iil fuu"}, {"surface": "הדבר", "gloss": "konngol"}, {"surface": "דברתי", "gloss": "wi'i mi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "gooto e ñaawooɓe Yisraa'iil"}, {"surface": "אחד", "gloss": "e gooto"}, {"surface": "שפטי", "gloss": "e ñaawooɓe"}, {"surface": "ישראל", "gloss": "Yisraa'iil"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "צויתי", "gloss": "mi amariri"}, {"surface": "לרעות", "gloss": "yo ɓe re'u"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓamɗe am"}, {"surface": "עמי", "gloss": "ɓamɗe am"}, {"surface": "לאמר", "gloss": "wi'ude"}, {"surface": "למה", "gloss": "haara waajaali"}, {"surface": "לא", "gloss": "alaa"}, {"surface": "בניתם", "gloss": "on mahiri"}, {"surface": "לי", "gloss": "–am"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "ארזים", "gloss": "leɗɗe sedar"}], "timestamp": "2026-09-14T11:02:13.285612422Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "E ɗo kala mi yahi e nder Israa'iil fuu, ha konngol wi'i mi ⟨את⟩ e gooto e ñaawooɓe Israa'iil, ɗi mi amariri yo ɓe re'u ⟨את⟩ ɓamɗe am, wi'ude: Hara waajaali on mahiranaami suudu leɗɗe sedar?",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "e ɗo kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "mi yahi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil fuu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "wi'i mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gooto e ñaawooɓe Yisraa'iil"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e gooto"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "e ñaawooɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi amariri"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "yo ɓe re'u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓamɗe am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ɓamɗe am"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "למה",
+      "gloss": "haara waajaali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "on mahiri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "–am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "leɗɗe sedar"
+    }
+  ],
+  "timestamp": "2026-09-14T11:02:13.285612422Z",
+  "model": "glm-5.3"
+}

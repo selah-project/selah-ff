@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "1-chronicles 21:8", "book": "1-chronicles", "lang": "ff", "chapter": 21, "translation": "Dawiida wiʼi kanngal Eloohim: Miµ senii ko ɓurti, honde no mi golli ⟨את⟩ ndeen huunde; wona jooni, hallin hookers ⟨את⟩ ɗimmu maa, lamɗo maa, mi bonnii ko ɓurti e seafood.", "tokens": [{"surface": "ויאמר", "gloss": "wiʼi"}, {"surface": "דויד", "gloss": "Dawiida"}, {"surface": "אל", "gloss": "kanngal"}, {"surface": "האלהים", "gloss": "Eloohim"}, {"surface": "חטאתי", "gloss": "Mi senii"}, {"surface": "מאד", "gloss": "ko ɓurti"}, {"surface": "אשר", "gloss": "honde no"}, {"surface": "עשיתי", "gloss": "mi golli"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ndeen huunde"}, {"surface": "הדבר", "gloss": "ndeen huunde"}, {"surface": "הזה", "gloss": "ndeen"}, {"surface": "ועתה", "gloss": "wona jooni"}, {"surface": "העבר", "gloss": "hallin (yaltin)"}, {"surface": "נא", "gloss": "mi duʼaata ɗum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗimmu maa"}, {"surface": "עוון", "gloss": "ɗimmu"}, {"surface": "עבדך", "gloss": "lamɗo maa"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "נסכלתי", "gloss": "mi bonnii/mi fermii"}, {"surface": "מאד", "gloss": "ko ɓurti"}], "timestamp": "2026-09-14T11:00:36.988973427Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Daawuuda wi'i kanngal Eloohim: Miµ senii ko ɓurti, honde no mi golli ⟨את⟩ ndeen huunde; wona jooni, hallin hookers ⟨את⟩ ɗimmu maa, lamɗo maa, mi bonnii ko ɓurti e seafood.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanngal"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Mi senii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ko ɓurti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "honde no"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi golli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeen huunde"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ndeen huunde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "wona jooni"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "hallin (yaltin)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi du'aata ɗum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗimmu maa"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "ɗimmu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "lamɗo maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "mi bonnii/mi fermii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ko ɓurti"
+    }
+  ],
+  "timestamp": "2026-09-14T11:00:36.988973427Z",
+  "model": "glm-5.3"
+}

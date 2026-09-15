@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "genesis 17:5", "book": "genesis", "lang": "ff", "chapter": 17, "translation": "Wanaa ɗoo e ɓaawo ɗuum ⟨את⟩ innde maa wiyetee Avram; kono innde maa laatata Avraham, mbaam baaba keewɗo leƴƴi mi waɗii ma.", "tokens": [{"surface": "ולא", "gloss": "wanaa"}, {"surface": "יקרא", "gloss": "wiyetee"}, {"surface": "עוד", "gloss": "ɗoo e ɓaawo ɗuum"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "innde maa"}, {"surface": "שמך", "gloss": "innde maa"}, {"surface": "אברם", "gloss": "Avram"}, {"surface": "והיה", "gloss": "kono laatata"}, {"surface": "שמך", "gloss": "innde maa"}, {"surface": "אברהם", "gloss": "Avraham"}, {"surface": "כי", "gloss": "mbaam"}, {"surface": "אב", "gloss": "baaba"}, {"surface": "המון", "gloss": "keewɗo"}, {"surface": "גוים", "gloss": "leƴƴi"}, {"surface": "נתתיך", "gloss": "mi waɗii ma"}], "timestamp": "2026-09-14T04:38:43.396435171Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Wanaa ɗoo e ɓaawo ɗuum ⟨את⟩ innde maa wiyetee Avram; kono innde maa laatata Awraham, mbaam baaba keewɗo leƴƴi mi waɗii ma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "wiyetee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ɗoo e ɓaawo ɗuum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde maa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kono laatata"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "innde maa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mbaam"
+    },
+    {
+      "surface": "אב",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "המון",
+      "gloss": "keewɗo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "mi waɗii ma"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:43.396435171Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":26,"ref":"2-chronicles 25:26","book":"2-chronicles","lang":"ff","chapter":25,"translation":"Ko heddii kala konngi Amatsjahu ɗin, ɗen gaduje e ɗen wattuɗe, laaɓaani, wanaa ɗen winndaaɗo e deftere laamɓe Yahuuda e Israai'il?","tokens":[{"surface":"ויתר","gloss":"ko heddii kala"},{"surface":"דברי","gloss":"konngi"},{"surface":"אמציהו","gloss":"Amatsjahu"},{"surface":"הראשנים","gloss":"ɗen gaduje"},{"surface":"והאחרונים","gloss":"e ɗen wattuɗe"},{"surface":"הלא","gloss":"laaɓaanni wanaa"},{"surface":"הנם","gloss":"ɗen"},{"surface":"כתובים","gloss":"winndaaɗo"},{"surface":"על","gloss":"e"},{"surface":"ספר","gloss":"deftere"},{"surface":"מלכי","gloss":"laamɓe"},{"surface":"יהודה","gloss":"Yahuuda"},{"surface":"וישראל","gloss":"e Israai'il"}],"timestamp":"2026-09-14T11:21:40.512149686Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 25:26",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ko heddii kala konngi Amatsjahu ɗin, ɗen gaduje e ɗen wattuɗe, laaɓaani, wanaa ɗen winndaaɗo e deftere laamɓe Yahuuda e Israa'iil?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ko heddii kala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjahu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ɗen gaduje"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "e ɗen wattuɗe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "laaɓaanni wanaa"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "winndaaɗo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "e Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T11:21:40.512149686Z",
+  "model": "glm-5.3"
+}

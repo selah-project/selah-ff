@@ -1,1 +1,118 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "isaiah 59:21", "book": "isaiah", "lang": "ff", "chapter": 59, "translation": "Kanko kam, ɗoo ko nanondiral Am e ɓe, ⟨את⟩ wii Yaawe: Ruuhu Am mo woni dow maaɗa, e konnguɗi Am ɗi mi waɗii e haala maaɗa, ɗi ummitoytaa e haala maaɗa, wanaa e haala zulde maaɗa, wanaa e haala zulde zulde maaɗa, wii Yaawe, gila hannde haa duumi.", "tokens": [{"surface": "ואני", "gloss": "Kanko kam"}, {"surface": "זאת", "gloss": "ɗoo"}, {"surface": "בריתי", "gloss": "nanondiral Am"}, {"surface": "אותם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "אמר", "gloss": "wii"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "רוחי", "gloss": "Ruuhu Am"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "עליך", "gloss": "wonii dow maaɗa"}, {"surface": "ודברי", "gloss": "e konnguɗi Am"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "שמתי", "gloss": "mi waɗii"}, {"surface": "בפיך", "gloss": "e haala maaɗa"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "ימושו", "gloss": "ummitoytaa"}, {"surface": "מפיך", "gloss": "e haala maaɗa"}, {"surface": "ומפי", "gloss": "wanaa e haala"}, {"surface": "זרעך", "gloss": "zulde maaɗa"}, {"surface": "ומפי", "gloss": "wanaa e haala"}, {"surface": "זרע", "gloss": "zulde"}, {"surface": "זרעך", "gloss": "zulde maa'da"}, {"surface": "אמר", "gloss": "wii"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "מעתה", "gloss": "gila hannde"}, {"surface": "ועד", "gloss": "haa"}, {"surface": "עולם", "gloss": "duumi"}], "timestamp": "2026-09-14T08:00:37.875099530Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 59:21",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 59,
+  "translation": "Kanko kam, ɗoo ko nanondiral am e ɓe, ⟨את⟩ wii Yaawe: Ruuhu am mo woni dow maaɗa, e konnguɗi am ɗi mi waɗii e haala maaɗa, ɗi ummitoytaa e haala maaɗa, wanaa e haala zulde maaɗa, wanaa e haala zulde zulde maaɗa, wii Yaawe, gila hannde haa duumi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kanko kam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "nanondiral am"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Ruuhu am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wonii dow maaɗa"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "e konnguɗi am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "mi waɗii"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "e haala maaɗa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "ummitoytaa"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "e haala maaɗa"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "wanaa e haala"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zulde maaɗa"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "wanaa e haala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zulde"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zulde maa'da"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gila hannde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "duumi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:00:37.875099530Z",
+  "model": "glm-5.3"
+}

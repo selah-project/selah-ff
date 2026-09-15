@@ -1,1 +1,93 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 45:1", "book": "genesis", "lang": "ff", "chapter": 45, "translation": "Yoosefa waawataa ɓadtude hoore mun yeeso ɓe fuu ɓe darii ɓurde mun; o noddi: Wittonu gorko kala e am. Gorko wattinaani ⟨את⟩ e makko tuma Yoosefa anndini hoore mun to banndiraabbe makko.", "tokens": [{"surface": "ולא", "gloss": "wanaa"}, {"surface": "יכל", "gloss": "waawataa"}, {"surface": "יוסף", "gloss": "Yoosefa"}, {"surface": "להתאפק", "gloss": "ɓadtude hoore mun"}, {"surface": "לכל", "gloss": "yeeso ɓe fuu"}, {"surface": "הנצבים", "gloss": "ɓe darii"}, {"surface": "עליו", "gloss": "ɓurde mun"}, {"surface": "ויקרא", "gloss": "o noddi"}, {"surface": "הוציאו", "gloss": "wittonu"}, {"surface": "כל", "gloss": "kala"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "מעלי", "gloss": "e am"}, {"surface": "ולא", "gloss": "wanaa"}, {"surface": "עמד", "gloss": "wattinaani"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "אתו", "gloss": "⟨את⟩ e makko"}, {"surface": "בהתודע", "gloss": "tuma anndini"}, {"surface": "יוסף", "gloss": "Yoosefa"}, {"surface": "אל", "gloss": "to"}, {"surface": "אחיו", "gloss": "banndiraabbe makko"}], "timestamp": "2026-09-14T04:53:20.887662829Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 45:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Yoseef waawataa ɓadtude hoore mun yeeso ɓe fuu ɓe darii ɓurde mun; o noddi: Wittonu gorko kala e am. Gorko wattinaani ⟨את⟩ e makko tuma Yoseef anndini hoore mun to banndiraabbe makko.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "waawataa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "להתאפק",
+      "gloss": "ɓadtude hoore mun"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yeeso ɓe fuu"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ɓurde mun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "wittonu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wattinaani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e makko"
+    },
+    {
+      "surface": "בהתודע",
+      "gloss": "tuma anndini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "banndiraabbe makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:20.887662829Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,132 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "1-chronicles 11:2", "book": "1-chronicles", "lang": "ff", "chapter": 11, "translation": "Kadi tawauno, kadi balɗe ɗoo tati ɓaawo, kadi tawa Saa'ul woni laamɗo, ko aan wonunoo baɗɗo yaltinde e naatnude ⟨את⟩ Israa'iil; Yaawe Eloohim maa wi'i maa: “Aan ayyorta leƴƴi am ⟨את⟩ Israa'iil, komaan woni ardoowo dow leƴƴi am ⟨את⟩ Israa'iil.”", "tokens": [{"surface": "גם", "gloss": "kadi"}, {"surface": "תמול", "gloss": "tawauno"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "שלשום", "gloss": "balɗe ɗoo tati ɓaawo"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "בהיות", "gloss": "tawa... woni"}, {"surface": "שאול", "gloss": "Saa'ul"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "אתה", "gloss": "aan"}, {"surface": "המוציא", "gloss": "baɗɗo yaltinde"}, {"surface": "והמביא", "gloss": "e naatnude"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'iil"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהיך", "gloss": "Eloohim maa"}, {"surface": "לך", "gloss": "maa"}, {"surface": "אתה", "gloss": "aan"}, {"surface": "תרעה", "gloss": "ayyorta"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leƴƴi am"}, {"surface": "עמי", "gloss": "leƴƴi am"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'iil"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "ואתה", "gloss": "komaan"}, {"surface": "תהיה", "gloss": "wonataa"}, {"surface": "נגיד", "gloss": "ardoowo"}, {"surface": "על", "gloss": "dow"}, {"surface": "עמי", "gloss": "leƴƴi am"}, {"surface": "ישראל", "gloss": "Israa'iil"}], "timestamp": "2026-09-14T10:57:22.918529517Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 11:2",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Kadi tawauno, kadi balɗe ɗoo tati ɓaawo, kadi tawa Sha'uul woni laamɗo, ko aan wonunoo baɗɗo yaltinde e naatnude ⟨את⟩ Israa'iil; Yaawe Eloohim maa wi'i maa: “Aan ayyorta leƴƴi am ⟨את⟩ Israa'iil, komaan woni ardoowo dow leƴƴi am ⟨את⟩ Israa'iil.”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "tawauno"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "balɗe ɗoo tati ɓaawo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "tawa... woni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "baɗɗo yaltinde"
+    },
+    {
+      "surface": "והמביא",
+      "gloss": "e naatnude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloohim maa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "ayyorta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leƴƴi am"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "leƴƴi am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "komaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wonataa"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ardoowo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "leƴƴi am"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T10:57:22.918529517Z",
+  "model": "glm-5.3"
+}

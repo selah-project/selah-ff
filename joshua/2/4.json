@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":4,"ref":"joshua 2:4","book":"joshua","lang":"ff","chapter":2,"translation":"Debbo on jogii ⟨את⟩ worɓe ɗiɗo ɓen, o suuɗii ɓe, o wi'i ko non: Ee, worɓe ɓen ngari am, kono mi anndaa ɗo ɓe iwdi.","tokens":[{"surface":"ותקח","gloss":"jogii"},{"surface":"האשה","gloss":"Debbo on"},{"surface":"את","gloss":"⟨את⟩","marks":"worɓe ɗiɗo ɓen"},{"surface":"שני","gloss":"ɗiɗo"},{"surface":"האנשים","gloss":"worɓe ɓen"},{"surface":"ותצפנו","gloss":"o suuɗii ɓe"},{"surface":"ותאמר","gloss":"o wi'i"},{"surface":"כן","gloss":"ko non"},{"surface":"באו","gloss":"ngari"},{"surface":"אלי","gloss":"am"},{"surface":"האנשים","gloss":"worɓe ɓen"},{"surface":"ולא","gloss":"kono ... a'a"},{"surface":"ידעתי","gloss":"mi anndaa"},{"surface":"מאין","gloss":"ɗo ɓe iwdi"},{"surface":"המה","gloss":"ɓe"}],"timestamp":"2026-09-14T06:11:43.042940544Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Debbo on jogii ⟨את⟩ worɓe ɗiɗo ɓen, o suuɗii ɓe, o wi'i ko non: Ee, worɓe ɓen ngari am, kono mi anndaa ɗo ɓe iwdi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "jogii"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Debbo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "worɓe ɗiɗo ɓen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "o suuɗii ɓe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ko non"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kono... a'a"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mi anndaa"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ɗo ɓe iwdi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:11:43.042940544Z",
+  "model": "glm-5.3"
+}

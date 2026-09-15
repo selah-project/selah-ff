@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "exodus 33:19", "book": "exodus", "lang": "ff", "chapter": 33, "translation": "O wi'i: «Min, miɗo yawta ⟨את⟩ moƴƴere Am fuu yeeso maa, mawloyay innde Yaawe nden yeeso maa; mballitay ⟨את⟩ on mo miɗo balla, e mi yurminay on mo miɗo yurmina.»", "tokens": [{"surface": "ויאמר", "gloss": "O wi'i"}, {"surface": "אני", "gloss": "Min"}, {"surface": "אעביר", "gloss": "miɗo yawta"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "טובי", "gloss": "moƴƴere Am"}, {"surface": "על", "gloss": ""}, {"surface": "פניך", "gloss": "yeeso maa"}, {"surface": "וקראתי", "gloss": "mawloyay"}, {"surface": "בשם", "gloss": "innde"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "לפניך", "gloss": "yeeso maa"}, {"surface": "וחנתי", "gloss": "mballitay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "on mo miɗo balla"}, {"surface": "אשר", "gloss": "on mo"}, {"surface": "אחן", "gloss": "miɗo balla"}, {"surface": "ורחמתי", "gloss": "e mi yurminay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "on mo miɗo yurmina"}, {"surface": "אשר", "gloss": "on mo"}, {"surface": "ארחם", "gloss": "miɗo yurmina"}], "timestamp": "2026-09-14T05:12:05.440040916Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "O wi'i: «Min, miɗo yawta ⟨את⟩ moƴƴere am fuu yeeso maa, mawloyay innde Yaawe nden yeeso maa; mballitay ⟨את⟩ on mo miɗo balla, e mi yurminay on mo miɗo yurmina.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Min"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "miɗo yawta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "moƴƴere am"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "mawloyay"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "mballitay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on mo miɗo balla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on mo"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "miɗo balla"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "e mi yurminay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "on mo miɗo yurmina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on mo"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "miɗo yurmina"
+    }
+  ],
+  "timestamp": "2026-09-14T05:12:05.440040916Z",
+  "model": "glm-5.3"
+}

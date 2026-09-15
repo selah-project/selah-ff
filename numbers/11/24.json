@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "numbers 11:24", "book": "numbers", "lang": "ff", "chapter": 11, "translation": "Musa yalti, o wewni yimɓe ɓen ⟨את⟩ konngi Yaawe ɗin; o moofti worɓe cappanɗe jeedje e sappo nder mawɓe yimɓe ɓen, o dariinii ⟨את⟩ ɓe saraaji teendu ndun.", "tokens": [{"surface": "ויצא", "gloss": "yalti"}, {"surface": "משה", "gloss": "Musa"}, {"surface": "וידבר", "gloss": "o wewni"}, {"surface": "אל", "gloss": "e"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngi Yaawe ɗin"}, {"surface": "דברי", "gloss": "konngi"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ויאסף", "gloss": "o moofti"}, {"surface": "שבעים", "gloss": "cappanɗe jeedje e sappo"}, {"surface": "איש", "gloss": "worɓe"}, {"surface": "מזקני", "gloss": "nder mawɓe"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "ויעמד", "gloss": "o dariinii"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe", "marks": "worɓe cappanɗe jeedje e sappo ɗen"}, {"surface": "סביבת", "gloss": "saraaji"}, {"surface": "האהל", "gloss": "teendu ndun"}], "timestamp": "2026-09-14T11:42:50.660510439Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 11,
+  "translation": "Moshe yalti, o wewni yimɓe ɓen ⟨את⟩ konngi Yaawe ɗin; o moofti worɓe cappanɗe jeedje e sappo nder mawɓe yimɓe ɓen, o dariinii ⟨את⟩ ɓe saraaji teendu ndun.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "o wewni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi Yaawe ɗin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "o moofti"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "cappanɗe jeedje e sappo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "nder mawɓe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "o dariinii"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "worɓe cappanɗe jeedje e sappo ɗen"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "saraaji"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teendu ndun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:42:50.660510439Z",
+  "model": "glm-5.3"
+}

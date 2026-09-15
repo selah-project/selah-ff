@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "2-samuel 15:30", "book": "2-samuel", "lang": "ff", "chapter": 15, "translation": "Dawuudi ina ƴelloo e ƴellorol oliije ɗen, ƴelloo e muusaa, hoore makko ko ndu ⟨את⟩ cuiiɗini, omo yaha juppaaɗo; yimɓe ɓee fof ɓe wonnoo e makko ɓe cuiiɗi hoore mun kala, ɓe ƴellii, ƴelloo e muusaa.", "tokens": [{"surface": "ודוד", "gloss": "Dawuudi"}, {"surface": "עלה", "gloss": "ƴelloo"}, {"surface": "במעלה", "gloss": "e ƴellorol"}, {"surface": "הזיתים", "gloss": "olije ɗen"}, {"surface": "עלה", "gloss": "ƴelloo"}, {"surface": "ובוכה", "gloss": "e muusaa"}, {"surface": "וראש", "gloss": "hoore"}, {"surface": "לו", "gloss": "makko"}, {"surface": "חפוי", "gloss": "cuiiɗini"}, {"surface": "והוא", "gloss": "kanko o"}, {"surface": "הלך", "gloss": "yaha"}, {"surface": "יחף", "gloss": "juppaaɗo"}, {"surface": "וכל", "gloss": "fuu"}, {"surface": "העם", "gloss": "yimɓe ɓee"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "e makko"}, {"surface": "חפו", "gloss": "cuii"}, {"surface": "איש", "gloss": "kala"}, {"surface": "ראשו", "gloss": "hoore mun"}, {"surface": "ועלו", "gloss": "ƴellii"}, {"surface": "עלה", "gloss": "ƴelloo"}, {"surface": "ובכה", "gloss": "e muusaa"}], "timestamp": "2026-09-14T07:02:25.020844938Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 15:30",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Daawuudi ina ƴelloo e ƴellorol oliije ɗen, ƴelloo e muusaa, hoore makko ko ndu ⟨את⟩ cuiiɗini, omo yaha juppaaɗo; yimɓe ɓee fof ɓe wonnoo e makko ɓe cuiiɗi hoore mun kala, ɓe ƴellii, ƴelloo e muusaa.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ƴelloo"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "e ƴellorol"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "olije ɗen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ƴelloo"
+    },
+    {
+      "surface": "ובוכה",
+      "gloss": "e muusaa"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "חפוי",
+      "gloss": "cuiiɗini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "יחף",
+      "gloss": "juppaaɗo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e makko"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "cuii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "ƴellii"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ƴelloo"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "e muusaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:02:25.020844938Z",
+  "model": "glm-5.3"
+}

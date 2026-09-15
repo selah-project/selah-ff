@@ -1,1 +1,49 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "exodus 7:6", "book": "exodus", "lang": "ff", "chapter": 7, "translation": "Musa e Haruuna mbaɗii no Yaawe ɓamdiri ⟨את⟩ ɓe nii; non ɓe ngollii.", "tokens": [{"surface": "ויעש", "gloss": "mbaɗi"}, {"surface": "משה", "gloss": "Musa"}, {"surface": "ואהרן", "gloss": "Haruuna"}, {"surface": "כאשר", "gloss": "no"}, {"surface": "צוה", "gloss": "ɓamdiri"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe"}, {"surface": "כן", "gloss": "non"}, {"surface": "עשו", "gloss": "ɓe ngollii"}], "timestamp": "2026-09-14T04:56:14.580523967Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Moshe e Aharon mbaɗii no Yaawe ɓamdiri ⟨את⟩ ɓe nii; non ɓe ngollii.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mbaɗi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ɓamdiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe ngollii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:56:14.580523967Z",
+  "model": "glm-5.3"
+}

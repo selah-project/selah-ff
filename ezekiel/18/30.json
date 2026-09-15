@@ -1,1 +1,90 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "ezekiel 18:30", "book": "ezekiel", "lang": "ff", "chapter": 18, "translation": "Sabu ɗum, kala neɗɗo e laawol mun kam, mbara ñaawir ⟨אתכם⟩, yaa ⟨את⟩ suudu Israa'iila — jeeytaare Adonaay Yaawe. Ruttiton, ruttiton e ɗuum e kala muuɗum ngon ɗi oon muuɗumon e mum; muuɗum ngo laataay mon ko roŋkina.", "tokens": [{"surface": "לכן", "gloss": "sabu ɗum"}, {"surface": "איש", "gloss": "kala neɗɗo"}, {"surface": "כדרכיו", "gloss": "e laawol mun kam"}, {"surface": "אשפט", "gloss": "mbara ñaawir"}, {"surface": "אתכם", "gloss": "⟨את⟩", "marks": "yaa suudu Israa'iila"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "נאם", "gloss": "jeeytaare"}, {"surface": "אדני", "gloss": "Adonaay"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "שובו", "gloss": "ruttiton"}, {"surface": "והשיבו", "gloss": "ruttiton"}, {"surface": "מכל", "gloss": "e kala"}, {"surface": "פשעיכם", "gloss": "muuɗum ngon"}, {"surface": "ולא", "gloss": "wanaa"}, {"surface": "יהיה", "gloss": "laataay"}, {"surface": "לכם", "gloss": "mon"}, {"surface": "למכשול", "gloss": "ko roŋkina"}, {"surface": "עון", "gloss": "muuɗum"}], "timestamp": "2026-09-14T08:42:11.145758600Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 18:30",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Sabu ɗum, kala neɗɗo e laawol mun kam, mbara ñaawir, yaa ⟨את⟩ suudu Israa'iila — jeeytaare Adonaay Yaawe. Ruttiton, ruttiton e ɗuum e kala muuɗum ngon ɗi oon muuɗumon e mum; muuɗum ngo laataay mon ko roŋkina.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "e laawol mun kam"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "mbara ñaawir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yaa suudu Israa'iila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "jeeytaare"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ruttiton"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "ruttiton"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "muuɗum ngon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "laataay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mon"
+    },
+    {
+      "surface": "למכשול",
+      "gloss": "ko roŋkina"
+    },
+    {
+      "surface": "עון",
+      "gloss": "muuɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:42:11.145758600Z",
+  "model": "glm-5.3"
+}

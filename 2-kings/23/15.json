@@ -1,1 +1,138 @@
-{"tier": "glm-5.2", "verse": 15, "ref": "2-kings 23:15", "book": "2-kings", "lang": "ff", "chapter": 23, "translation": "Kadi ⟨את⟩ njaareendi nden nde wonnoo to Bet-El, ⟨את⟩ ɓamɗel ngel Yarobeam ɓiy Nebat waɗi, mo mbakkini ⟨את⟩ Israayiil, ⟨את⟩ njaareendi nden e ⟨את⟩ ɓamɗel ngel o yoippi; o yiymi ɓamɗel ngel, o ñaawi haa mbuuru, o yiymi kadi Ashera nden.", "tokens": [{"surface": "וגם", "gloss": "Kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "njaareendi nden"}, {"surface": "המזבח", "gloss": "njaareendi nden"}, {"surface": "אשר", "gloss": "nde"}, {"surface": "בבית", "gloss": "to Bet"}, {"surface": "אל", "gloss": "El"}, {"surface": "הבמה", "gloss": "ɓamɗel ngel"}, {"surface": "אשר", "gloss": "ngel"}, {"surface": "עשה", "gloss": "waɗi"}, {"surface": "ירבעם", "gloss": "Yarobeam"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "נבט", "gloss": "Nebat"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "החטיא", "gloss": "mbakkini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israayiil"}, {"surface": "ישראל", "gloss": "Israayiil"}, {"surface": "גם", "gloss": "kadi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "njaareendi nden"}, {"surface": "המזבח", "gloss": "njaareendi nden"}, {"surface": "ההוא", "gloss": "nden"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɓamɗel ngel"}, {"surface": "הבמה", "gloss": "ɓamɗel ngel"}, {"surface": "נתץ", "gloss": "o yoippi"}, {"surface": "וישרף", "gloss": "o yiymi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓamדel ngel"}, {"surface": "הבמה", "gloss": "ɓamđel ngel"}, {"surface": "הדק", "gloss": "o ñaawi"}, {"surface": "לעפר", "gloss": "haa mbuuru"}, {"surface": "ושרף", "gloss": "o yiymi kadi"}, {"surface": "אשרה", "gloss": "Ashera nden"}], "timestamp": "2026-09-14T07:38:52.550011747Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 23:15",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "Kadi ⟨את⟩ njaareendi nden nde wonnoo to Bet-El, ⟨את⟩ ɓamɗel ngel Yarobeam ɓiy Nebat waɗi, mo mbakkini ⟨את⟩ Israa'iil, ⟨את⟩ njaareendi nden e ⟨את⟩ ɓamɗel ngel o yoippi; o yiymi ɓamɗel ngel, o ñaawi haa mbuuru, o yiymi kadi Ashera nden.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njaareendi nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "njaareendi nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "to Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ɓamɗel ngel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "mbakkini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njaareendi nden"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "njaareendi nden"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓamɗel ngel"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ɓamɗel ngel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "o yoippi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "o yiymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓamדel ngel"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ɓamđel ngel"
+    },
+    {
+      "surface": "הדק",
+      "gloss": "o ñaawi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "haa mbuuru"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "o yiymi kadi"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ashera nden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:52.550011747Z",
+  "model": "glm-5.3"
+}

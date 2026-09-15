@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "2-kings 21:8", "book": "2-kings", "lang": "ff", "chapter": 21, "translation": "Mi ⟨את⟩ ɓeydataa ɗum wootere fii muurnaande koyngal Israa'iil ummaade e leydi ndi mi rokki baabiraaɓe maɓɓe; tan so tawii ɓe reenti waɗde no ko fuu mi ɗiinii ɓe, e no Tora ndi fellindo am Moshe fellini ⟨אתם⟩.", "tokens": [{"surface": "ולא", "gloss": "e wonaa"}, {"surface": "אסיף", "gloss": "mi ɓeydataa"}, {"surface": "להניד", "gloss": "fii muurnaande"}, {"surface": "רגל", "gloss": "koyngal"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "מן", "gloss": "ummaade e"}, {"surface": "האדמה", "gloss": "leydi ndi"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "נתתי", "gloss": "mi rokki"}, {"surface": "לאבותם", "gloss": "baabiraaɓe maɓɓe"}, {"surface": "רק", "gloss": "tan"}, {"surface": "אם", "gloss": "so tawii"}, {"surface": "ישמרו", "gloss": "ɓe reenti"}, {"surface": "לעשות", "gloss": "waɗde"}, {"surface": "ככל", "gloss": "no ko fuu"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "צויתים", "gloss": "mi ɗiinii ɓe"}, {"surface": "ולכל", "gloss": "e no fuu"}, {"surface": "התורה", "gloss": "Tora ndi"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "צוה", "gloss": "fellini"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe", "marks": "ɓe"}, {"surface": "עבדי", "gloss": "fellindo am"}, {"surface": "משה", "gloss": "Moshe"}], "timestamp": "2026-09-14T07:37:50.069358550Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 21:8",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Mi ⟨את⟩ ɓeydataa ɗum wootere fii muurnaande koyngal Israa'iil ummaade e leydi ndi mi rokki baabiraaɓe maɓɓe; tan so tawii ɓe reenti waɗde no ko fuu mi ɗiinii ɓe, e no Tora ndi fellindo am Moshe fellini.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "e wonaa"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "mi ɓeydataa"
+    },
+    {
+      "surface": "להניד",
+      "gloss": "fii muurnaande"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koyngal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummaade e"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi rokki"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "so tawii"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ɓe reenti"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "no ko fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "mi ɗiinii ɓe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e no fuu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "fellini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "fellindo am"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T07:37:50.069358550Z",
+  "model": "glm-5.3"
+}

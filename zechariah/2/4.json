@@ -1,1 +1,144 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "zechariah 2:4", "book": "zechariah", "lang": "ff", "chapter": 2, "translation": "Mi wi'i: Ɗee ngarii ngam waɗde ko? O jaabii wi'i: Ɗee ko kese ɗe diŋŋinii ⟨את⟩ Yuuda, balɗe neɗɗo — ɓe meeɗaa ɓamtude hoore mun — ɗee ngarii ngam kulɓinnde ɓe, ngam yoorde ⟨את⟩ kese leƴƴi ɗin ɗe ɓamtii kes mum en fayde e leydi ⟨את⟩ Yuuda ngam diŋŋinde nde.", "tokens": [{"surface": "ואמר", "gloss": "mi wi'i"}, {"surface": "מה", "gloss": "ko"}, {"surface": "אלה", "gloss": "Ɗee"}, {"surface": "באים", "gloss": "ngarii"}, {"surface": "לעשות", "gloss": "ngam waɗde"}, {"surface": "ויאמר", "gloss": "o jaabii"}, {"surface": "לאמר", "gloss": "wi'i"}, {"surface": "אלה", "gloss": "Ɗee"}, {"surface": "הקרנות", "gloss": "kese"}, {"surface": "אשר", "gloss": "ɗe"}, {"surface": "זרו", "gloss": "diŋŋinii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yuuda"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "כפי", "gloss": "balɗe"}, {"surface": "איש", "gloss": "neɗɗo"}, {"surface": "לא", "gloss": "meeđaa"}, {"surface": "נשא", "gloss": "ɓamtude"}, {"surface": "ראשו", "gloss": "hoore mun"}, {"surface": "ויבאו", "gloss": "ngarii"}, {"surface": "אלה", "gloss": "ɗee"}, {"surface": "להחריד", "gloss": "ngam kulɓinnde"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "לידות", "gloss": "ngam yoorde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kese leƴƴi ɗin"}, {"surface": "קרנות", "gloss": "kese"}, {"surface": "הגוים", "gloss": "leƴƴi ɗin"}, {"surface": "הנשאים", "gloss": "ɗe ɓamtii"}, {"surface": "קרן", "gloss": "kes mum en"}, {"surface": "אל", "gloss": "fayde e"}, {"surface": "ארץ", "gloss": "leydi"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "לזרותה", "gloss": "ngam diŋŋinde nde"}], "timestamp": "2026-09-14T09:12:55.388400263Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 2:4",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Mi wi'i: Ɗee ngarii ngam waɗde ko? O jaabii wi'i: Ɗee ko kese ɗe diŋŋinii ⟨את⟩ Yahuuda, balɗe neɗɗo — ɓe meeɗaa ɓamtude hoore mun — ɗee ngarii ngam kulɓinnde ɓe, ngam yoorde ⟨את⟩ kese leƴƴi ɗin ɗe ɓamtii kes mum en fayde e leydi ⟨את⟩ Yahuuda ngam diŋŋinde nde.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mi wi'i"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o jaabii"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ɗee"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "kese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "diŋŋinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "meeđaa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ɓamtude"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hoore mun"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ngarii"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "להחריד",
+      "gloss": "ngam kulɓinnde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לידות",
+      "gloss": "ngam yoorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kese leƴƴi ɗin"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kese"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ɗe ɓamtii"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "kes mum en"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fayde e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לזרותה",
+      "gloss": "ngam diŋŋinde nde"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:55.388400263Z",
+  "model": "glm-5.3"
+}

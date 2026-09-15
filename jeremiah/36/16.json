@@ -1,1 +1,91 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "jeremiah 36:16", "book": "jeremiah", "lang": "ff", "chapter": 36, "translation": "Nde ɓe nani ⟨את⟩ konngi ɗin ⟨את⟩ fuu, ɓe kulii, kala neɗɗo e sehil mum; ɓe wi'i Baruk: “Min humpay-min humpay laamɗo konngi ɗin fuu ɗee.”", "tokens": [{"surface": "ויהי", "gloss": "nde ... nde"}, {"surface": "כשמעם", "gloss": "ɓe nani"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngi ɗin fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הדברים", "gloss": "konngi ɗin"}, {"surface": "פחדו", "gloss": "ɓe kulii"}, {"surface": "איש", "gloss": "kala neɗɗo"}, {"surface": "אל", "gloss": "e"}, {"surface": "רעהו", "gloss": "sehil mun"}, {"surface": "ויאמרו", "gloss": "ɓe wi'i"}, {"surface": "אל", "gloss": ""}, {"surface": "ברוך", "gloss": "Baruk"}, {"surface": "הגיד", "gloss": "min humpay"}, {"surface": "נגיד", "gloss": "humpay-min"}, {"surface": "למלך", "gloss": "laamɗo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngi ɗin fuu ɗee"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הדברים", "gloss": "konngi ɗin"}, {"surface": "האלה", "gloss": "ɗee"}], "timestamp": "2026-09-14T12:24:24.585040330Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 36:16",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Nde ɓe nani ⟨את⟩ konngi ɗin ⟨את⟩ fuu, ɓe kulii, kala neɗɗo e sehil mum; ɓe wi'i Baruk: “Min humpay-min humpay laamɗo konngi ɗin fuu ɗee.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde... nde"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ɓe nani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ɓe kulii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sehil mun"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "min humpay"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "humpay-min"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu ɗee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    }
+  ],
+  "timestamp": "2026-09-14T12:24:24.585040330Z",
+  "model": "glm-5.3"
+}

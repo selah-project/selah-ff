@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 28:2","book":"numbers","lang":"ff","chapter":28,"translation":"Ndoku ⟨את⟩ ɓiɓɓe Israa'iila, a wiyu ɓe: ⟨את⟩ njuɓɓudi am, ñamri am fii kulhol am, noo weltinngol am, ɓe dewiniray hiirde nden ngam hokkude Am e saare mun nde.","tokens":[{"surface":"צו","gloss":"Ndoku"},{"surface":"את","gloss":"⟨את⟩","marks":"ɓiɓɓe Israa'iila"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"ישראל","gloss":"Israa'iila"},{"surface":"ואמרת","gloss":"a wiyu"},{"surface":"אלהם","gloss":"ɓe"},{"surface":"את","gloss":"⟨את⟩","marks":"njuɓɓudi am"},{"surface":"קרבני","gloss":"njuɓɓudi am"},{"surface":"לחמי","gloss":"ñamri am"},{"surface":"לאשי","gloss":"fii kulhol am"},{"surface":"ריח","gloss":"noo"},{"surface":"ניחחי","gloss":"weltinngol am"},{"surface":"תשמרו","gloss":"ɓe dewiniray"},{"surface":"להקריב","gloss":"hiirde nden"},{"surface":"לי","gloss":"ngam hokkude Am"},{"surface":"במועדו","gloss":"e saare mun nde"}],"timestamp":"2026-09-14T05:47:46.836437446Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 28:2",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Ndoku ⟨את⟩ ɓiɓɓe Israa'iila, a wiyu ɓe: ⟨את⟩ njuɓɓudi am, ñamri am fii kulhol am, noo weltinngol am, ɓe dewiniray hiirde nden ngam hokkude am e saare mun nde.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Ndoku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a wiyu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "njuɓɓudi am"
+    },
+    {
+      "surface": "קרבני",
+      "gloss": "njuɓɓudi am"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ñamri am"
+    },
+    {
+      "surface": "לאשי",
+      "gloss": "fii kulhol am"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "noo"
+    },
+    {
+      "surface": "ניחחי",
+      "gloss": "weltinngol am"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ɓe dewiniray"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "hiirde nden"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngam hokkude am"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "e saare mun nde"
+    }
+  ],
+  "timestamp": "2026-09-14T05:47:46.836437446Z",
+  "model": "glm-5.3"
+}

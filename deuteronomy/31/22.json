@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "deuteronomy 31:22", "book": "deuteronomy", "lang": "ff", "chapter": 31, "translation": "Moshe winndi ⟨את⟩ ɗee jimɗi ñalnde he, o janngini ɗe ⟨את⟩ ɓiɓɓe Israayiila.", "tokens": [{"surface": "ויכתב", "gloss": "winndi"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗee jimɗi"}, {"surface": "השירה", "gloss": "ɗee jimɗi"}, {"surface": "הזאת", "gloss": "ɗee"}, {"surface": "ביום", "gloss": "ñalnde"}, {"surface": "ההוא", "gloss": "he"}, {"surface": "וילמדה", "gloss": "o janngini ɗe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Israayiila"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israayiila"}], "timestamp": "2026-09-14T06:08:28.500680694Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moshe winndi ⟨את⟩ ɗee jimɗi ñalnde he, o janngini ɗe ⟨את⟩ ɓiɓɓe Israa'iila.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "winndi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee jimɗi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ɗee jimɗi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "o janngini ɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israayiila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    }
+  ],
+  "timestamp": "2026-09-14T06:08:28.500680694Z",
+  "model": "glm-5.3"
+}

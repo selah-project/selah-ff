@@ -1,1 +1,92 @@
-{"tier": "glm-5.2", "verse": 25, "ref": "joshua 7:25", "book": "joshua", "lang": "ff", "chapter": 7, "translation": "Yahuwa wi'i: ko honno mbaaw-ɗaa muñɗe min? Yaawe muñ-ɗaa yawte maa ko ñalnde heeri. Yisraaël ⟨את⟩ fuu nayniri mo kaaƴe, ɓe ngaddi leydi ⟨את⟩ e yiite, ɓe neli ɗum ⟨את⟩ e kaaƴe.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהושע", "gloss": "Yahuwa"}, {"surface": "מה", "gloss": "ko honno"}, {"surface": "עכרתנו", "gloss": "muñɗaa min"}, {"surface": "יעכרך", "gloss": "muñ-ɗaa yawte maa"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ביום", "gloss": "ñalnde"}, {"surface": "הזה", "gloss": "heeri"}, {"surface": "וירגמו", "gloss": "nayniri"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo (Yakan)"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ישראל", "gloss": "Yisraaël"}, {"surface": "אבן", "gloss": "kaaƴe"}, {"surface": "וישרפו", "gloss": "ngaddi leydi e yiite"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe (Yakan e ko heewi e makko)"}, {"surface": "באש", "gloss": "e yiite"}, {"surface": "ויסקלו", "gloss": "neli"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "באבנים", "gloss": "e kaaƴe"}], "timestamp": "2026-09-15T07:06:22.290590875Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Yahuwa wi'i: ko honno mbaaw-ɗaa muñɗe min? Yaawe muñ-ɗaa yawte maa ko ñalnde heeri. Israa'iil ⟨את⟩ fuu nayniri mo kaaƴe, ɓe ngaddi leydi ⟨את⟩ e yiite, ɓe neli ɗum ⟨את⟩ e kaaƴe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahuwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko honno"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "muñɗaa min"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "muñ-ɗaa yawte maa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "heeri"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "nayniri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yakan)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kaaƴe"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ngaddi leydi e yiite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe (Yakan e ko heewi e makko)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "e yiite"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "neli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "e kaaƴe"
+    }
+  ],
+  "timestamp": "2026-09-15T07:06:22.290590875Z",
+  "model": "glm-5.3"
+}

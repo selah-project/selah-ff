@@ -1,1 +1,77 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "jeremiah 36:1", "book": "jeremiah", "lang": "ff", "chapter": 36, "translation": "E hitaande nayiire Yehoyakiim ɓiy Yoošiyyaahu laamɗo Yuuda, ngol konngol arii Yirmiyaahu ummoraade ⟨dewde e את⟩ ⟨את⟩ Yaawe, ⟨wiyde⟩:", "tokens": [{"surface": "ויהי", "gloss": "Ndeen ndeen"}, {"surface": "בשנה", "gloss": "e hitaande"}, {"surface": "הרביעת", "gloss": "nayiire"}, {"surface": "ליהויקים", "gloss": "Yehoyakiim"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "יאשיהו", "gloss": "Yoošiyyaahu"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "היה", "gloss": "arii"}, {"surface": "הדבר", "gloss": "ngol konngol"}, {"surface": "הזה", "gloss": "ngol"}, {"surface": "אל", "gloss": "e"}, {"surface": "ירמיהו", "gloss": "Yirmiyaahu"}, {"surface": "מאת", "gloss": "⟨את⟩"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "לאמר", "gloss": "wiyde"}], "timestamp": "2026-09-14T08:21:38.074950179Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 36:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "E hitaande nayiire Yehoyakiim ɓiy Yoošiyyaahu laamɗo Yahuuda, ngol konngol arii Yirmiyaahu ummoraade dewde e ⟨את⟩ Yaawe, ⟨wiyde⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ndeen ndeen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "nayiire"
+    },
+    {
+      "surface": "ליהויקים",
+      "gloss": "Yehoyakiim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoošiyyaahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "arii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ngol konngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmiyaahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:21:38.074950179Z",
+  "model": "glm-5.3"
+}

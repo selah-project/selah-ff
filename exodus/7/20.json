@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":20,"ref":"exodus 7:20","book":"exodus","lang":"ff","chapter":7,"translation":"Musa e Aarona ngollii non, no Yaawe yamiri nii; o fuɗɗiti palaare nde, o fiyi ⟨את⟩ ndiyam ɗe ngonnoo e maayo ngoo, tawi Yimɓe Fir'awn njiyata, gollorɗe makko ɓee kadi njiyata; ndiyam fuu ɗe ngonnoo e maayo ngoo wayliti ƴiiƴam.","tokens":[{"surface":"ויעשו","gloss":"ngollii"},{"surface":"כן","gloss":"non"},{"surface":"משה","gloss":"Musa"},{"surface":"ואהרן","gloss":"e Aarona"},{"surface":"כאשר","gloss":"no"},{"surface":"צוה","gloss":"yamiri"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"וירם","gloss":"fuɗɗiti"},{"surface":"במטה","gloss":"palaare nde"},{"surface":"ויך","gloss":"fiyi"},{"surface":"את","gloss":"⟨את⟩","marks":"ndiyam ɗe ngonnoo e maayo ngoo"},{"surface":"המים","gloss":"ndiyam ɗe"},{"surface":"אשר","gloss":"ɗe"},{"surface":"ביאר","gloss":"ngonnoo e maayo ngoo"},{"surface":"לעיני","gloss":"tawi njiyata"},{"surface":"פרעה","gloss":"Fir'awn"},{"surface":"ולעיני","gloss":"kadi njiyata"},{"surface":"עבדיו","gloss":"gollorɗe makko ɓee"},{"surface":"ויהפכו","gloss":"wayliti"},{"surface":"כל","gloss":"fuu"},{"surface":"המים","gloss":"ndiyam"},{"surface":"אשר","gloss":"ɗe"},{"surface":"ביאר","gloss":"ngonnoo e maayo ngoo"},{"surface":"לדם","gloss":"ƴiiƴam"}],"timestamp":"2026-09-14T04:57:38.685901983Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Moshe e Aharona ngollii non, no Yaawe yamiri nii; o fuɗɗiti palaare nde, o fiyi ⟨את⟩ ndiyam ɗe ngonnoo e maayo ngoo, tawi Yimɓe Paroh njiyata, gollorɗe makko ɓee kadi njiyata; ndiyam fuu ɗe ngonnoo e maayo ngoo wayliti ƴiiƴam.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ngollii"
+    },
+    {
+      "surface": "כן",
+      "gloss": "non"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "fuɗɗiti"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "palaare nde"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndiyam ɗe ngonnoo e maayo ngoo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ngonnoo e maayo ngoo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "tawi njiyata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "kadi njiyata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "gollorɗe makko ɓee"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "wayliti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ngonnoo e maayo ngoo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ƴiiƴam"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:38.685901983Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,103 @@
-{"tier":"glm-5.2","verse":25,"ref":"jeremiah 10:25","book":"jeremiah","lang":"ff","chapter":10,"translation":"Ƴubbu tikkere maa nden dow leƴƴi ɗin ɗi ɓe anndaali ma, e dow jibinanɗe ɗen ɗi ɓe noddiraaki e innde maa; sabu ɓe nguuti ⟨את⟩ Yaakob, ɓe nguuti mo, ɓe momti mo, e ⟨את⟩ hoɗorde makko ɓe ngaddi wooltoonde.","tokens":[{"surface":"שפך","gloss":"Ƴubbu"},{"surface":"חמתך","gloss":"tikkere maa nden"},{"surface":"על","gloss":"dow"},{"surface":"הגוים","gloss":"leƴƴi ɗin"},{"surface":"אשר","gloss":"ɗi"},{"surface":"לא","gloss":"wanaa"},{"surface":"ידעוך","gloss":"ɓe anndaali ma"},{"surface":"ועל","gloss":"e dow"},{"surface":"משפחות","gloss":"jibinanɗe ɗen"},{"surface":"אשר","gloss":"ɗi"},{"surface":"בשמך","gloss":"e innde maa"},{"surface":"לא","gloss":"ɓe noddiraaki"},{"surface":"קראו","gloss":"ɓe noddiraaki"},{"surface":"כי","gloss":"sabu"},{"surface":"אכלו","gloss":"ɓe nguuti"},{"surface":"את","gloss":"⟨את⟩","marks":"Yaakob"},{"surface":"יעקב","gloss":"Yaakob"},{"surface":"ואכלהו","gloss":"ɓe nguuti mo"},{"surface":"ויכלהו","gloss":"ɓe momti mo"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"hoɗorde makko"},{"surface":"נוהו","gloss":"hoɗorde makko"},{"surface":"השמו","gloss":"ɓe ngaddi wooltoonde"}],"timestamp":"2026-09-14T08:08:26.981288437Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Ƴubbu tikkere maa nden dow leƴƴi ɗin ɗi ɓe anndaali ma, e dow jibinanɗe ɗen ɗi ɓe noddiraaki e innde maa; sabu ɓe nguuti ⟨את⟩ Ya'aqob, ɓe nguuti mo, ɓe momti mo, e ⟨את⟩ hoɗorde makko ɓe ngaddi wooltoonde.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Ƴubbu"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tikkere maa nden"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "leƴƴi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ɓe anndaali ma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "jibinanɗe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "e innde maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ɓe noddiraaki"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ɓe noddiraaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ɓe nguuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "ɓe nguuti mo"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ɓe momti mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "hoɗorde makko"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "hoɗorde makko"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "ɓe ngaddi wooltoonde"
+    }
+  ],
+  "timestamp": "2026-09-14T08:08:26.981288437Z",
+  "model": "glm-5.3"
+}

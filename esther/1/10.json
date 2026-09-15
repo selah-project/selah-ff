@@ -1,1 +1,98 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "esther 1:10", "book": "esther", "lang": "ff", "chapter": 1, "translation": "Ñalnde jeeɗunde nden, tawi ɓernde laamɗo on welii e ndiyam, o wi'i — ⟨e⟩ Mehooman, Biista, Harwona, Bigta e Abagta, Seetar e Karkas — jeenay sarisiinɓe ɓe ngonnoo ko gollorde ⟨את⟩ yeeso laamɗo Ahhasweros.", "tokens": [{"surface": "ביום", "gloss": "ñalnde"}, {"surface": "השביעי", "gloss": "jeeɗunde nden"}, {"surface": "כטוב", "gloss": "tawi ... welii"}, {"surface": "לב", "gloss": "ɓernde"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "ביין", "gloss": "e ndiyam"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "למהומן", "gloss": "⟨e⟩ Mehooman"}, {"surface": "בזתא", "gloss": "Biista"}, {"surface": "חרבונא", "gloss": "Harwona"}, {"surface": "בגתא", "gloss": "Bigta"}, {"surface": "ואבגתא", "gloss": "e Abagta"}, {"surface": "זתר", "gloss": "Seetar"}, {"surface": "וכרכס", "gloss": "e Karkas"}, {"surface": "שבעת", "gloss": "jeenay"}, {"surface": "הסריסים", "gloss": "sariisinɓe"}, {"surface": "המשרתים", "gloss": "gonnoo ko gollorde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yeeso laamɗo Ahhasweros"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "המלך", "gloss": "laamɗo"}, {"surface": "אחשורוש", "gloss": "Ahhasweros"}], "timestamp": "2026-09-14T10:30:25.243827169Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ñalnde jeeɗunde nden, tawi ɓernde laamɗo on welii e ndiyam, o wi'i — ⟨e⟩ Mehooman, Biista, Harwona, Bigta e Abagta, Seetar e Karkas — jeenay sarisiinɓe ɓe ngonnoo ko gollorde ⟨את⟩ yeeso laamɗo Ahhasweros.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "jeeɗunde nden"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "tawi... welii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "e ndiyam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "⟨e⟩ Mehooman"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "Biista"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "Harwona"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "Bigta"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "e Abagta"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "Seetar"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "e Karkas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeenay"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sariisinɓe"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "gonnoo ko gollorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso laamɗo Ahhasweros"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahhasweros"
+    }
+  ],
+  "timestamp": "2026-09-14T10:30:25.243827169Z",
+  "model": "glm-5.3"
+}

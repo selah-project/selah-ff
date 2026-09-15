@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "ezekiel 16:33", "book": "ezekiel", "lang": "ff", "chapter": 16, "translation": "Fii annasaaji fuu ɓe ndokka ⟨את⟩ kadboore, kono a addi ⟨את⟩ kadboore maaɗa fii muññiɓe maaɗa fuu, a rimɗini ɓe ngam arde e maaɗa e laawol gootel fuu, e junuubu maaɗa ɗin.", "tokens": [{"surface": "לכל", "gloss": "fii ... fuu"}, {"surface": "זנות", "gloss": "annasaaji"}, {"surface": "יתנו", "gloss": "ɓe ndokka"}, {"surface": "נדה", "gloss": "kadboore"}, {"surface": "ואת", "gloss": "kono a"}, {"surface": "נתת", "gloss": "addi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kadboore maaɗa"}, {"surface": "נדניך", "gloss": "kadboore maaɗa"}, {"surface": "לכל", "gloss": "fii ... fuu"}, {"surface": "מאהביך", "gloss": "muññiɓe maaɗa"}, {"surface": "ותשחדי", "gloss": "a rimɗini"}, {"surface": "אותם", "gloss": "⟨את⟩ ɓe", "marks": "ɓe"}, {"surface": "לבוא", "gloss": "ngam arde"}, {"surface": "אליך", "gloss": "e maaɗa"}, {"surface": "מסביב", "gloss": "e laawol gootel fuu"}, {"surface": "בתזנותיך", "gloss": "e junuubu maaɗa ɗin"}], "timestamp": "2026-09-14T12:27:31.837388820Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 16:33",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Fii annasaaji fuu ɓe ndokka ⟨את⟩ kadboore, kono a addi ⟨את⟩ kadboore maaɗa fii muññiɓe maaɗa fuu, a rimɗini ɓe ngam arde e maaɗa e laawol gootel fuu, e junuubu maaɗa ɗin.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "fii... fuu"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "annasaaji"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ɓe ndokka"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "kadboore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kono a"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadboore maaɗa"
+    },
+    {
+      "surface": "נדניך",
+      "gloss": "kadboore maaɗa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii... fuu"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "muññiɓe maaɗa"
+    },
+    {
+      "surface": "ותשחדי",
+      "gloss": "a rimɗini"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ngam arde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "e laawol gootel fuu"
+    },
+    {
+      "surface": "בתזנותיך",
+      "gloss": "e junuubu maaɗa ɗin"
+    }
+  ],
+  "timestamp": "2026-09-14T12:27:31.837388820Z",
+  "model": "glm-5.3"
+}

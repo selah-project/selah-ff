@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-samuel 30:31","book":"1-samuel","lang":"ff","chapter":30,"translation":"E ɗi ɓe ngonnoo e Chebron, e ɗuuɗal nokkuuje ɗo Dawuɗa yahi-yimi, kanko e yimɓe makko ɓen.","tokens":[{"surface":"ולאשר","gloss":"e ɗi ɓe ngonnoo e"},{"surface":"בחברון","gloss":"Chebron"},{"surface":"ולכל","gloss":"e ɗuuɗal"},{"surface":"המקמות","gloss":"nokkuuje ɗo"},{"surface":"אשר","gloss":"ɗo"},{"surface":"התהלך","gloss":"yahi-yimi"},{"surface":"שם","gloss":"ɗon"},{"surface":"דוד","gloss":"Dawuɗa"},{"surface":"הוא","gloss":"kanko"},{"surface":"ואנשיו","gloss":"e yimɓe makko ɓen"}],"timestamp":"2026-09-14T06:51:18.110970838Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "E ɗi ɓe ngonnoo e Chebron, e ɗuuɗal nokkuuje ɗo Daawuud yahi-yimi, kanko e yimɓe makko ɓen.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "e ɗi ɓe ngonnoo e"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e ɗuuɗal"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "nokkuuje ɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "yahi-yimi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "e yimɓe makko ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:18.110970838Z",
+  "model": "glm-5.3"
+}

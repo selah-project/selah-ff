@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":10,"ref":"hosea 13:10","book":"hosea","lang":"ff","chapter":13,"translation":"Hol laamɗo maa woni jooni, yo o hisnu maa e nder gure maa ɗin fuu, e ñaawooɓe maa ɓe ɗaanii wi'uno'ɗaa: 'Joton am laamɗo e ardiiɓe'?","tokens":[{"surface":"אהי","gloss":"hol"},{"surface":"מלכך","gloss":"laamɗo maa"},{"surface":"אפוא","gloss":"jooni"},{"surface":"ויושיעך","gloss":"yo o hisnu maa"},{"surface":"בכל","gloss":"e nder ... ɗin fuu"},{"surface":"עריך","gloss":"gure maa"},{"surface":"ושפטיך","gloss":"e ñaawooɓe maa"},{"surface":"אשר","gloss":"ɓe"},{"surface":"אמרת","gloss":"wi'uno'ɗaa"},{"surface":"תנה","gloss":"joton"},{"surface":"לי","gloss":"am"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"ושרים","gloss":"e ardiiɓe"}],"timestamp":"2026-09-14T08:59:12.426994333Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Hol laamɗo maa woni jooni, yo o hisnu maa e nder gure maa ɗin fuu, e ñaawooɓe maa ɓe ɗaanii wi'uno'ɗaa: 'Joton am laamɗo e ardiiɓe'?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "laamɗo maa"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "jooni"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "yo o hisnu maa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nder... ɗin fuu"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "gure maa"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "e ñaawooɓe maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wi'uno'ɗaa"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "joton"
+    },
+    {
+      "surface": "לי",
+      "gloss": "am"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "e ardiiɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:12.426994333Z",
+  "model": "glm-5.3"
+}

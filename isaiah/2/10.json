@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 2:10","book":"isaiah","lang":"ff","chapter":2,"translation":"Naat e nder fuela, suuɗu e nder laysi, ngam laawde kulol Yaawe, e faamde ɓural mawnude Makko.","tokens":[{"surface":"בוא","gloss":"Naat"},{"surface":"בצור","gloss":"e nder fuela"},{"surface":"והטמן","gloss":"suuɗu"},{"surface":"בעפר","gloss":"e nder laysi"},{"surface":"מפני","gloss":"ngam laawde"},{"surface":"פחד","gloss":"kulol"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"ומהדר","gloss":"e faamde ɓural"},{"surface":"גאנו","gloss":"mawnude Makko"}],"timestamp":"2026-09-14T12:10:18.595384822Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Naat e nder fuela, suuɗu e nder laysi, ngam laawde kulol Yaawe, e faamde ɓural mawnude makko.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Naat"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "e nder fuela"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "suuɗu"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "e nder laysi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngam laawde"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kulol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "e faamde ɓural"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "mawnude makko"
+    }
+  ],
+  "timestamp": "2026-09-14T12:10:18.595384822Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "numbers 15:33", "book": "numbers", "lang": "ff", "chapter": 15, "translation": "Ɓe nawni ⟨את⟩ mo ⟨את⟩ ɓe tawuɓe mo mooftuɗo lekki, to Mose, e to Aharona, e to dewol ngol fuu.", "tokens": [{"surface": "ויקריבו", "gloss": "ɓe nawni"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "המצאים", "gloss": "ɓe tawuɓe"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "מקשש", "gloss": "mooftuɗo"}, {"surface": "עצים", "gloss": "lekki"}, {"surface": "אל", "gloss": "to"}, {"surface": "משה", "gloss": "Mose"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "אהרן", "gloss": "Aharona"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "העדה", "gloss": "dewol ngol"}], "timestamp": "2026-09-14T05:41:09.137767470Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Ɓe nawni ⟨את⟩ mo ⟨את⟩ ɓe tawuɓe mo mooftuɗo lekki, to Moshe, e to Aharona, e to dewol ngol fuu.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ɓe nawni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "ɓe tawuɓe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "mooftuɗo"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "lekki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "dewol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T05:41:09.137767470Z",
+  "model": "glm-5.3"
+}

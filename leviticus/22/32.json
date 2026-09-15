@@ -1,1 +1,62 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "leviticus 22:32", "book": "leviticus", "lang": "ff", "chapter": 22, "translation": "Wata on fena ⟨את⟩ innde sarɗiike am, fooƴetee mi e nder ɓiɓɓe Iisraai'iil; miin mi Yaawe, mooƴoowo on.", "tokens": [{"surface": "ולא", "gloss": "wata"}, {"surface": "תחללו", "gloss": "on fena"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "innde sarɗiike am"}, {"surface": "שם", "gloss": "innde"}, {"surface": "קדשי", "gloss": "sarɗiike am"}, {"surface": "ונקדשתי", "gloss": "fooƴetee mi"}, {"surface": "בתוך", "gloss": "e nder"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Iisraai'iil"}, {"surface": "אני", "gloss": "miin"}, {"surface": "יהוה", "gloss": "mi Yaawe"}, {"surface": "מקדשכם", "gloss": "mooƴoowo on"}], "timestamp": "2026-09-14T05:28:31.183598727Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Wata on fena ⟨את⟩ innde sarɗiike am, fooƴetee mi e nder ɓiɓɓe Israa'iil; miin mi Yaawe, mooƴoowo on.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "on fena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innde sarɗiike am"
+    },
+    {
+      "surface": "שם",
+      "gloss": "innde"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sarɗiike am"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "fooƴetee mi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "mi Yaawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "mooƴoowo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:28:31.183598727Z",
+  "model": "glm-5.3"
+}

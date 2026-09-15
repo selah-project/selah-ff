@@ -1,90 +1,90 @@
 {
- "tier": "glm-5.2",
- "verse": 15,
- "ref": "genesis 50:15",
- "book": "genesis",
- "lang": "ff",
- "chapter": 50,
- "translation": "Banndiraabbe Yuusufa ɓe yi'i wonde baaba maɓɓe maayii, ɓe wi'i: \"So tawii Yuusufa muuyanii min, o mballitoo min e ⟨את⟩ bone fuu nde min mbaɗunoo ⟨את⟩ mo.\"",
- "tokens": [
-  {
-   "surface": "ויראו",
-   "gloss": "ɓe yi'i"
-  },
-  {
-   "surface": "אחי",
-   "gloss": "banndiraabbe"
-  },
-  {
-   "surface": "יוסף",
-   "gloss": "Yuusufa"
-  },
-  {
-   "surface": "כי",
-   "gloss": "wonde"
-  },
-  {
-   "surface": "מת",
-   "gloss": "maayii"
-  },
-  {
-   "surface": "אביהם",
-   "gloss": "baaba maɓɓe"
-  },
-  {
-   "surface": "ויאמרו",
-   "gloss": "ɓe wi'i"
-  },
-  {
-   "surface": "לו",
-   "gloss": "so tawii"
-  },
-  {
-   "surface": "ישטמנו",
-   "gloss": "muuyanii min"
-  },
-  {
-   "surface": "יוסף",
-   "gloss": "Yuusufa"
-  },
-  {
-   "surface": "והשב",
-   "gloss": "o mballitoo"
-  },
-  {
-   "surface": "ישיב",
-   "gloss": "mballitoo"
-  },
-  {
-   "surface": "לנו",
-   "gloss": "min"
-  },
-  {
-   "surface": "את",
-   "gloss": "⟨את⟩",
-   "marks": "bone fuu"
-  },
-  {
-   "surface": "כל",
-   "gloss": "fuu"
-  },
-  {
-   "surface": "הרעה",
-   "gloss": "bone"
-  },
-  {
-   "surface": "אשר",
-   "gloss": "nde"
-  },
-  {
-   "surface": "גמלנו",
-   "gloss": "min mbaɗunoo"
-  },
-  {
-   "surface": "אתו",
-   "gloss": "⟨את⟩ mo"
-  }
- ],
- "timestamp": "2026-09-14T11:33:55.567278140Z",
- "model": "glm-5.3"
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 50,
+  "translation": "Banndiraabbe Yoseef ɓe yi'i wonde baaba maɓɓe maayii, ɓe wi'i: \"So tawii Yoseef muuyanii min, o mballitoo min e ⟨את⟩ bone fuu nde min mbaɗunoo ⟨את⟩ mo.\"",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ɓe yi'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "banndiraabbe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maayii"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baaba maɓɓe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "so tawii"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "muuyanii min"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "o mballitoo"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mballitoo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "min"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bone fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "bone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "min mbaɗunoo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-09-14T11:33:55.567278140Z",
+  "model": "glm-5.3"
 }

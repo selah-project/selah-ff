@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":22,"ref":"2-samuel 17:22","book":"2-samuel","lang":"ff","chapter":17,"translation":"Daawuma ummiima, o e yimɓe ɓen fuu ɗi ⟨את⟩ keɓata e makko, ɓe ndiƴii ⟨את⟩ Yardaanden; haa e lewru subaka, gooto walaa mo ŋakkaani, mo jaɓaani yi'de ⟨את⟩ Yardaanden.","tokens":[{"surface":"ויקם","gloss":"ummiima"},{"surface":"דוד","gloss":"Daawuda"},{"surface":"וכל","gloss":"o e fuu"},{"surface":"העם","gloss":"yimɓe ɓen"},{"surface":"אשר","gloss":"ɗi"},{"surface":"אתו","gloss":"⟨את⟩ keɓata e makko"},{"surface":"ויעברו","gloss":"ɓe ndiƴii"},{"surface":"את","gloss":"⟨את⟩","marks":"Yardaanden"},{"surface":"הירדן","gloss":"Yardaanden"},{"surface":"עד","gloss":"haa e"},{"surface":"אור","gloss":"lewru"},{"surface":"הבקר","gloss":"subaka"},{"surface":"עד","gloss":"haa"},{"surface":"אחד","gloss":"gooto"},{"surface":"לא","gloss":"walaa"},{"surface":"נעדר","gloss":"mo ŋakkaani"},{"surface":"אשר","gloss":"mo"},{"surface":"לא","gloss":"jaɓaani"},{"surface":"עבר","gloss":"yi'de"},{"surface":"את","gloss":"⟨את⟩","marks":"Yardaanden"},{"surface":"הירדן","gloss":"Yardaanden"}],"timestamp":"2026-09-14T07:03:01.878795619Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Daawuma ummiima, o e yimɓe ɓen fuu ɗi ⟨את⟩ keɓata e makko, ɓe ndiƴii ⟨את⟩ Yardaanden; haa e lewru subaka, gooto walaa mo ŋakkaani, mo jaɓaani yi'de ⟨את⟩ Yardaanden.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ummiima"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "o e fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ keɓata e makko"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ɓe ndiƴii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardaanden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaanden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lewru"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "subaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "mo ŋakkaani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jaɓaani"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yi'de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardaanden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardaanden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:03:01.878795619Z",
+  "model": "glm-5.3"
+}

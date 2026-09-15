@@ -1,1 +1,88 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 48:1", "book": "genesis", "lang": "ff", "chapter": 48, "translation": "Ndeen kewu laabi caggal konngi ɗii, gooto wi'i Yuusufa: \"ƴeew, baaba maa ina ñaw\". O ƴetti ɓiɓɓe makko ⟨את⟩ ɗiɗo ɗen ɓe jeyi e makko, ⟨את⟩ Menashe e ⟨את⟩ Efrayim.", "tokens": [{"surface": "ויהי", "gloss": "ndeen kewu laabi"}, {"surface": "אחרי", "gloss": "caggal"}, {"surface": "הדברים", "gloss": "konngi ɗii"}, {"surface": "האלה", "gloss": "ɗii"}, {"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "ליוסף", "gloss": "Yuusufa"}, {"surface": "הנה", "gloss": "ƴeew"}, {"surface": "אביך", "gloss": "baaba maa"}, {"surface": "חלה", "gloss": "ina ñaw"}, {"surface": "ויקח", "gloss": "o ƴetti"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe makko ɗiɗo ɗen"}, {"surface": "שני", "gloss": "ɗiɗo"}, {"surface": "בניו", "gloss": "ɓiɓɓe makko"}, {"surface": "עמו", "gloss": "ɓe jeyi e makko"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Menashe"}, {"surface": "מנשה", "gloss": "Menashe"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "Efrayim"}, {"surface": "אפרים", "gloss": "Efrayim"}], "timestamp": "2026-09-14T04:53:40.773636780Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 48,
+  "translation": "Ndeen kewu laabi caggal konngi ɗii, gooto wi'i Yoseef: \"ƴeew, baaba maa ina ñaw\". O ƴetti ɓiɓɓe makko ⟨את⟩ ɗiɗo ɗen ɓe jeyi e makko, ⟨את⟩ Menashe e ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ndeen kewu laabi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗii"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗii"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maa"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ina ñaw"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe makko ɗiɗo ɗen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe makko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ɓe jeyi e makko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:40.773636780Z",
+  "model": "glm-5.3"
+}

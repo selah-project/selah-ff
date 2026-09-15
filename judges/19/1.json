@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":1,"ref":"judges 19:1","book":"judges","lang":"ff","chapter":19,"translation":"Wonii e nder ñalawmaaji ɗen — laamɗo alaa e Israyail — wonii gorko Leywi, hoɗoowo e ceene palol Efrayim, o ƴetti debbo, pillees, ummoriiɗo Bet-Lehem Yahuuda.","tokens":[{"surface":"ויהי","gloss":"Wonii"},{"surface":"בימים","gloss":"e nder ñalawmaaji"},{"surface":"ההם","gloss":"ɗen"},{"surface":"ומלך","gloss":"laamɗo"},{"surface":"אין","gloss":"alaa"},{"surface":"בישראל","gloss":"e Israyail"},{"surface":"ויהי","gloss":"wonii"},{"surface":"איש","gloss":"gorko"},{"surface":"לוי","gloss":"Leywi"},{"surface":"גר","gloss":"hoɗoowo"},{"surface":"בירכתי","gloss":"e ceene"},{"surface":"הר","gloss":"palol"},{"surface":"אפרים","gloss":"Efrayim"},{"surface":"ויקח","gloss":"o ƴetti"},{"surface":"לו","gloss":"⟨o⟩"},{"surface":"אשה","gloss":"debbo"},{"surface":"פילגש","gloss":"pillees"},{"surface":"מבית","gloss":"ummoriiɗo"},{"surface":"לחם","gloss":"Bet-Lehem"},{"surface":"יהודה","gloss":"Yahuuda"}],"timestamp":"2026-09-14T06:34:21.552367497Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 19:1",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Wonii e nder ñalawmaaji ɗen — laamɗo alaa e Israa'iil — wonii gorko Leywi, hoɗoowo e ceene palol Efrayim, o ƴetti debbo, pillees, ummoriiɗo Bet-Lehem Yahuuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Wonii"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e nder ñalawmaaji"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wonii"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leywi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hoɗoowo"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "e ceene"
+    },
+    {
+      "surface": "הר",
+      "gloss": "palol"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "o ƴetti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "pillees"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ummoriiɗo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lehem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T06:34:21.552367497Z",
+  "model": "glm-5.3"
+}

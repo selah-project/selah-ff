@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 35:4", "book": "genesis", "lang": "ff", "chapter": 35, "translation": "Ɓe ndokki Yaakob ⟨את⟩ dii' laaɓtinaaɗi ɗin ⟨את⟩ fuu ɗi ngon'i e juuɗe maɓɓe e ⟨את⟩ pamaruuji ɗin ɗi ngon'i e noppi maɓɓe, Yaakob suufi ɗi les ɝiɗol ngol ngol wonnoo e Sekem.", "tokens": [{"surface": "ויתנו", "gloss": "Ɓe ndokki"}, {"surface": "אל", "gloss": "e"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "dii' laaɓtinaaɗi ɗin fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "אלהי", "gloss": "dii'"}, {"surface": "הנכר", "gloss": "laaɓtinaaɗi"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "בידם", "gloss": "e juuɗe maɓɓe"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "pamaruuji ɗin"}, {"surface": "הנזמים", "gloss": "pamaruuji ɗin"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "באזניהם", "gloss": "e noppi maɓɓe"}, {"surface": "ויטמן", "gloss": "suufi"}, {"surface": "אתם", "gloss": "⟨את⟩ ɗi"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "תחת", "gloss": "les"}, {"surface": "האלה", "gloss": "ɝiɗol ngol"}, {"surface": "אשר", "gloss": "ngol"}, {"surface": "עם", "gloss": "e"}, {"surface": "שכם", "gloss": "Sekem"}], "timestamp": "2026-09-14T04:47:50.747912469Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 35,
+  "translation": "Ɓe ndokki Ya'aqob ⟨את⟩ dii' laaɓtinaaɗi ɗin ⟨את⟩ fuu ɗi ngon'i e juuɗe maɓɓe e ⟨את⟩ pamaruuji ɗin ɗi ngon'i e noppi maɓɓe, Ya'aqob suufi ɗi les ɝiɗol ngol ngol wonnoo e Sekem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ɓe ndokki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dii' laaɓtinaaɗi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dii'"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "laaɓtinaaɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e juuɗe maɓɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "pamaruuji ɗin"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "pamaruuji ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "e noppi maɓɓe"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "suufi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɗi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "les"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɝiɗol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    }
+  ],
+  "timestamp": "2026-09-14T04:47:50.747912469Z",
+  "model": "glm-5.3"
+}

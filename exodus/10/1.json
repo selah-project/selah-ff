@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "exodus 10:1", "book": "exodus", "lang": "ff", "chapter": 10, "translation": "Yaawe wi'i Moshe: “Yah to Fir'awn, kono miimi mi ⟨את⟩ ɓernde makko e ⟨את⟩ ɓernde maccuɓe makko, fii min waɗa ɗii maandeeji am nder makko.”", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אל", "gloss": "to"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "בא", "gloss": "yah"}, {"surface": "אל", "gloss": "to"}, {"surface": "פרעה", "gloss": "Fir'awn"}, {"surface": "כי", "gloss": "kono"}, {"surface": "אני", "gloss": "mi"}, {"surface": "הכבדתי", "gloss": "miimi mi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓernde makko"}, {"surface": "לבו", "gloss": "ɓernde makko"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "ɓernde"}, {"surface": "לב", "gloss": "ɓernde"}, {"surface": "עבדיו", "gloss": "maccuɓe makko"}, {"surface": "למען", "gloss": "fii"}, {"surface": "שתי", "gloss": "min waɗa"}, {"surface": "אתתי", "gloss": "maandeeji am"}, {"surface": "אלה", "gloss": "ɗii"}, {"surface": "בקרבו", "gloss": "nder makko"}], "timestamp": "2026-09-14T04:59:20.799056502Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Yaawe wi'i Moshe: “Yah to Paroh, kono miimi mi ⟨את⟩ ɓernde makko e ⟨את⟩ ɓernde maccuɓe makko, fii min waɗa ɗii maandeeji am nder makko.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "miimi mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde makko"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde makko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓernde"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "maccuɓe makko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "min waɗa"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "maandeeji am"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ɗii"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "nder makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:59:20.799056502Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 30:16","book":"genesis","lang":"ff","chapter":30,"translation":"Yaakobu arii e ladde nden e kikiiɗe, Lea yalti ngam woppude mo, o wi'i: «Aranii am arowa, sabu yello mi yello maa duudaayi ɓiɗɗo am.» O hindii wondude e mo ndee jamma mbayri.","tokens":[{"surface":"ויבא","gloss":"arii"},{"surface":"יעקב","gloss":"Yaakobu"},{"surface":"מן","gloss":"e"},{"surface":"השדה","gloss":"ladde nden"},{"surface":"בערב","gloss":"e kikiiɗe"},{"surface":"ותצא","gloss":"yalti"},{"surface":"לאה","gloss":"Lea"},{"surface":"לקראתו","gloss":"ngam woppude mo"},{"surface":"ותאמר","gloss":"o wi'i"},{"surface":"אלי","gloss":"aranii am"},{"surface":"תבוא","gloss":"arowa"},{"surface":"כי","gloss":"sabu"},{"surface":"שכר","gloss":"yello"},{"surface":"שכרתיך","gloss":"mi yello maa"},{"surface":"בדודאי","gloss":"e duudaayi"},{"surface":"בני","gloss":"ɓiɗɗo am"},{"surface":"וישכב","gloss":"o hindii"},{"surface":"עמה","gloss":"wondude e mo"},{"surface":"בלילה","gloss":"ndee jamma"},{"surface":"הוא","gloss":"mbayri"}],"timestamp":"2026-09-14T11:34:00.396457596Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 30:16",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ya'aqob arii e ladde nden e kikiiɗe, Lea yalti ngam woppude mo, o wi'i: «Aranii am arowa, sabu yello mi yello maa duudaayi ɓiɗɗo am.» O hindii wondude e mo ndee jamma mbayri.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "e kikiiɗe"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ngam woppude mo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aranii am"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "arowa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "yello"
+    },
+    {
+      "surface": "שכרתיך",
+      "gloss": "mi yello maa"
+    },
+    {
+      "surface": "בדודאי",
+      "gloss": "e duudaayi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɗɗo am"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "o hindii"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "wondude e mo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ndee jamma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mbayri"
+    }
+  ],
+  "timestamp": "2026-09-14T11:34:00.396457596Z",
+  "model": "glm-5.3"
+}

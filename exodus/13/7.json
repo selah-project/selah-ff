@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "exodus 13:7", "book": "exodus", "lang": "ff", "chapter": 13, "translation": "Mburu alaa-lewru ñaametee balɗe ⟨את⟩ jeeɗiɗi ɗen; ɓuuɓri wootere himmataa e maaɗa, huunde lewru kadi himmataa e maaɗa e keeri maaɗa fuu.", "tokens": [{"surface": "מצות", "gloss": "Mburu alaa-lewru"}, {"surface": "יאכל", "gloss": "ñaametee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "balɗe jeeɗiɗi ɗen"}, {"surface": "שבעת", "gloss": "jeeɗiɗi"}, {"surface": "הימים", "gloss": "balɗe ɗen"}, {"surface": "ולא", "gloss": "himmataa"}, {"surface": "יראה", "gloss": "himmataa"}, {"surface": "לך", "gloss": "e maaɗa"}, {"surface": "חמץ", "gloss": "ɓuuɓri"}, {"surface": "ולא", "gloss": "kadi himmataa"}, {"surface": "יראה", "gloss": "himmataa"}, {"surface": "לך", "gloss": "e maaɗa"}, {"surface": "שאר", "gloss": "huunde lewru"}, {"surface": "בכל", "gloss": "e ... fuu"}, {"surface": "גבלך", "gloss": "keeri maaɗa"}], "timestamp": "2026-09-14T05:00:04.616841873Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Mburu alaa-lewru ñaametee balɗe ⟨את⟩ jeeɗiɗi ɗen; ɓuuɓri wootere himmataa e maaɗa, huunde lewru kadi himmataa e maaɗa e keeri maaɗa fuu.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mburu alaa-lewru"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaametee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balɗe jeeɗiɗi ɗen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "jeeɗiɗi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "balɗe ɗen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "himmataa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "himmataa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kadi himmataa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "himmataa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "huunde lewru"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "keeri maaɗa"
+    }
+  ],
+  "timestamp": "2026-09-14T05:00:04.616841873Z",
+  "model": "glm-5.3"
+}

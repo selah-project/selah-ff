@@ -1,1 +1,126 @@
-{"tier":"glm-5.2","verse":3,"ref":"judges 14:3","book":"judges","lang":"ff","chapter":14,"translation":"Baaba makko e yumma makko nden wi'i mo: foo debbo alaa e nder ɓiɗɓe rewɓe bandiraawo maa, walla e nder yimɓe amen fuu, wata aɗa yaha ngam heɓde debbo e Pelishtiyankooɓe ɓee wanaa sunniraaɓe ɓee? Shimshon wi'i baaba makko nden: ⟨את⟩ mo heɓan fii am, sabu mo moƴƴi e gite am.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"לו","gloss":"mo"},{"surface":"אביו","gloss":"baaba makko"},{"surface":"ואמו","gloss":"e yumma makko nden"},{"surface":"האין","gloss":"foo ... alaa"},{"surface":"בבנות","gloss":"e nder ɓiɗɓe rewɓe"},{"surface":"אחיך","gloss":"bandiraawo maa"},{"surface":"ובכל","gloss":"walla e nder ... fuu"},{"surface":"עמי","gloss":"yimɓe amen"},{"surface":"אשה","gloss":"debbo"},{"surface":"כי","gloss":"wata"},{"surface":"אתה","gloss":"aɗa"},{"surface":"הולך","gloss":"yaha"},{"surface":"לקחת","gloss":"ngam heɓde"},{"surface":"אשה","gloss":"debbo"},{"surface":"מפלשתים","gloss":"e Pelishtiyankooɓe ɓee"},{"surface":"הערלים","gloss":"wanaa sunniraaɓe ɓee"},{"surface":"ויאמר","gloss":"wi'i"},{"surface":"שמשון","gloss":"Shimshon"},{"surface":"אל","gloss":""},{"surface":"אביו","gloss":"baaba makko nden"},{"surface":"אותה","gloss":"⟨את⟩","marks":"mo"},{"surface":"קח","gloss":"heɓan"},{"surface":"לי","gloss":"fii am"},{"surface":"כי","gloss":"sabu"},{"surface":"היא","gloss":"mo"},{"surface":"ישרה","gloss":"moƴƴi"},{"surface":"בעיני","gloss":"e gite am"}],"timestamp":"2026-09-14T11:54:11.033733343Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 14:3",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 14,
+  "translation": "Baaba makko e yumma makko nden wi'i mo: foo debbo alaa e nder ɓiɗɓe rewɓe bandiraawo maa, walla e nder yimɓe amen fuu, wata aɗa yaha ngam heɓde debbo e Pelishtiyankooɓe ɓee wanaa sunniraaɓe ɓee? Shimshon wi'i baaba makko nden: ⟨את⟩ mo heɓan fii am, sabu mo moƴƴi e gite am.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba makko"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "e yumma makko nden"
+    },
+    {
+      "surface": "האין",
+      "gloss": "foo... alaa"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "e nder ɓiɗɓe rewɓe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bandiraawo maa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "walla e nder... fuu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yimɓe amen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ngam heɓde"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "e Pelishtiyankooɓe ɓee"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "wanaa sunniraaɓe ɓee"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba makko nden"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "heɓan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "moƴƴi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite am"
+    }
+  ],
+  "timestamp": "2026-09-14T11:54:11.033733343Z",
+  "model": "glm-5.3"
+}

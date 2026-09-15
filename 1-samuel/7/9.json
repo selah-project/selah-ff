@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-samuel 7:9","book":"1-samuel","lang":"ff","chapter":7,"translation":"Shemuwel ƴetti bille kossam wootere, o waɗi ɗum nafuyre timmunde to Yaawe; Shemuwel fuuɗi to Yaawe bana Israa'iil, e Yaawe jaabii mo.","tokens":[{"surface":"ויקח","gloss":"ƴetti"},{"surface":"שמואל","gloss":"Shemuwel"},{"surface":"טלה","gloss":"bille"},{"surface":"חלב","gloss":"kossam"},{"surface":"אחד","gloss":"wootere"},{"surface":"ויעלה","gloss":"o waɗi"},{"surface":"עולה","gloss":"nafuyre"},{"surface":"כליל","gloss":"timmunde"},{"surface":"ליהוה","gloss":"to Yaawe"},{"surface":"ויזעק","gloss":"fuuɗi"},{"surface":"שמואל","gloss":"Shemuwel"},{"surface":"אל","gloss":"to"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"בעד","gloss":"bana"},{"surface":"ישראל","gloss":"Israa'iil"},{"surface":"ויענהו","gloss":"jaabii mo"},{"surface":"יהוה","gloss":"Yaawe"}],"timestamp":"2026-09-14T06:38:36.587079591Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 7:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Shemu'eel ƴetti bille kossam wootere, o waɗi ɗum nafuyre timmunde to Yaawe; Shemu'eel fuuɗi to Yaawe bana Israa'iil, e Yaawe jaabii mo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "טלה",
+      "gloss": "bille"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "kossam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wootere"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nafuyre"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "timmunde"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "to Yaawe"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "fuuɗi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "jaabii mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:36.587079591Z",
+  "model": "glm-5.3"
+}

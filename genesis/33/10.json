@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":10,"ref":"genesis 33:10","book":"genesis","lang":"ff","chapter":33,"translation":"Ndeen Yaakob wi'i: “Hoto non, tawa mi heɓii yurmeende e gite maa, jaɓ dokkal am ngal e juuɗe am; sabu ɗum mi yiytii yeeso maa, no yiyirta yeeso Eloohim nii, nde maa jaɓ-mi.”","tokens":[{"surface":"ויאמר","gloss":"Ndeen … wi'i"},{"surface":"יעקב","gloss":"Yaakob"},{"surface":"אל","gloss":"hoto"},{"surface":"נא","gloss":"non"},{"surface":"אם","gloss":"tawa"},{"surface":"נא","gloss":"non"},{"surface":"מצאתי","gloss":"mi heɓii"},{"surface":"חן","gloss":"yurmeende"},{"surface":"בעיניך","gloss":"e gite maa"},{"surface":"ולקחת","gloss":"jaɓu"},{"surface":"מנחתי","gloss":"dokkal am ngal"},{"surface":"מידי","gloss":"e juuɗe am"},{"surface":"כי","gloss":"sabu"},{"surface":"על","gloss":"ɗi"},{"surface":"כן","gloss":"ɗum"},{"surface":"ראיתי","gloss":"mi yiytii"},{"surface":"פניך","gloss":"yeeso maa"},{"surface":"כראת","gloss":"no yiyirta … nii"},{"surface":"פני","gloss":"yeeso"},{"surface":"אלהים","gloss":"Eloohim"},{"surface":"ותרצני","gloss":"nde maa jaɓ-mi"}],"timestamp":"2026-09-14T04:45:59.572442378Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 33:10",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 33,
+  "translation": "Ndeen Ya'aqob wi'i: “Hoto non, tawa mi heɓii yurmeende e gite maa, jaɓ dokkal am ngal e juuɗe am; sabu ɗum mi yiytii yeeso maa, no yiyirta yeeso Eloohim nii, nde maa jaɓ-mi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ndeen … wi'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoto"
+    },
+    {
+      "surface": "נא",
+      "gloss": "non"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "non"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "mi heɓii"
+    },
+    {
+      "surface": "חן",
+      "gloss": "yurmeende"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "e gite maa"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "jaɓu"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "dokkal am ngal"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "e juuɗe am"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mi yiytii"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "no yiyirta … nii"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ותרצני",
+      "gloss": "nde maa jaɓ-mi"
+    }
+  ],
+  "timestamp": "2026-09-14T04:45:59.572442378Z",
+  "model": "glm-5.3"
+}

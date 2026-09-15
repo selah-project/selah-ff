@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":27,"ref":"nehemiah 12:27","book":"nehemiah","lang":"ff","chapter":12,"translation":"E dedde ndee walru Yerushalayim, ɓe njiilondiri ⟨את⟩ Leewiyankooɓe ɗen, e nder nokkuuje mun fuu, ngam addude ɓe Yerushalayim, ngam waɗde dedde e bajji, e duʼaji jaamuyeeji e yimre, kelmejeelu, neveluuji e kinnoraaji.","tokens":[{"surface":"ובחנכת","gloss":"e dedde ndee"},{"surface":"חומת","gloss":"walru"},{"surface":"ירושלם","gloss":"Yerushalayim"},{"surface":"בקשו","gloss":"ɓe njiilondiri"},{"surface":"את","gloss":"⟨את⟩","marks":"Leewiyankooɓe ɗen"},{"surface":"הלוים","gloss":"Leewiyankooɓe ɗen"},{"surface":"מכל","gloss":"e nder ... fuu"},{"surface":"מקומתם","gloss":"nokkuuje mun"},{"surface":"להביאם","gloss":"ngam addude ɓe"},{"surface":"לירושלם","gloss":"Yerushalayim"},{"surface":"לעשת","gloss":"ngam waɗde"},{"surface":"חנכה","gloss":"dedde"},{"surface":"ושמחה","gloss":"e bajji"},{"surface":"ובתודות","gloss":"e duʼaji jaamuyeeji"},{"surface":"ובשיר","gloss":"e yimre"},{"surface":"מצלתים","gloss":"kelmejeelu"},{"surface":"נבלים","gloss":"neveluuji"},{"surface":"ובכנרות","gloss":"e kinnoraaji"}],"timestamp":"2026-09-14T10:50:44.566546530Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 12:27",
+  "book": "nehemiah",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E dedde ndee walru Yerushalayim, ɓe njiilondiri ⟨את⟩ Leewiyankooɓe ɗen, e nder nokkuuje mun fuu, ngam addude ɓe Yerushalayim, ngam waɗde dedde e bajji, e du'aji jaamuyeeji e yimre, kelmejeelu, neveluuji e kinnoraaji.",
+  "tokens": [
+    {
+      "surface": "ובחנכת",
+      "gloss": "e dedde ndee"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "walru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ɓe njiilondiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leewiyankooɓe ɗen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leewiyankooɓe ɗen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder... fuu"
+    },
+    {
+      "surface": "מקומתם",
+      "gloss": "nokkuuje mun"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "ngam addude ɓe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "חנכה",
+      "gloss": "dedde"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "e bajji"
+    },
+    {
+      "surface": "ובתודות",
+      "gloss": "e du'aji jaamuyeeji"
+    },
+    {
+      "surface": "ובשיר",
+      "gloss": "e yimre"
+    },
+    {
+      "surface": "מצלתים",
+      "gloss": "kelmejeelu"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "neveluuji"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "e kinnoraaji"
+    }
+  ],
+  "timestamp": "2026-09-14T10:50:44.566546530Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,116 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "genesis 28:6", "book": "genesis", "lang": "ff", "chapter": 28, "translation": "Esaw yi'i si Isaak baranii ⟨את⟩ Jaakob, o neldi ⟨אתו⟩ Paddan-Aram ngam heɓde ⟨את⟩ mo debbo ton; tawa o barii ⟨אתו⟩ o jamminii ⟨את⟩ mo wi'ude: wata a ƴetta debbo e nder ɓiɗɗo debbo Kanaan ɓurɗo.", "tokens": [{"surface": "וירא", "gloss": "o yi'i"}, {"surface": "עשו", "gloss": "Esaw"}, {"surface": "כי", "gloss": "si"}, {"surface": "ברך", "gloss": "baranii"}, {"surface": "יצחק", "gloss": "Isaak"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Jaakob"}, {"surface": "יעקב", "gloss": "Jaakob"}, {"surface": "ושלח", "gloss": "o neldi"}, {"surface": "אתו", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "פדנה", "gloss": "Paddan"}, {"surface": "ארם", "gloss": "Aram"}, {"surface": "לקחת", "gloss": "ngam heɓde"}, {"surface": "לו", "gloss": "mo"}, {"surface": "משם", "gloss": "ton"}, {"surface": "אשה", "gloss": "debbo"}, {"surface": "בברכו", "gloss": "tawa o barii"}, {"surface": "אתו", "gloss": "⟨את⟩ mo", "marks": "mo"}, {"surface": "ויצו", "gloss": "o jamminii"}, {"surface": "עליו", "gloss": "mo"}, {"surface": "לאמר", "gloss": "wi'ude"}, {"surface": "לא", "gloss": "wata"}, {"surface": "תקח", "gloss": "a ƴetta"}, {"surface": "אשה", "gloss": "debbo"}, {"surface": "מבנות", "gloss": "e nder ɓiɗɗo debbo"}, {"surface": "כנען", "gloss": "Kanaan"}], "timestamp": "2026-09-14T04:43:10.767862152Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 28:6",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Esaw yi'i si Yitshaq baranii ⟨את⟩ Ya'aqob, o neldi Paddan-Aram ngam heɓde ⟨את⟩ mo debbo ton; tawa o barii o jamminii ⟨את⟩ mo wi'ude: wata a ƴetta debbo e nder ɓiɗɗo debbo Kanaan ɓurɗo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "baranii"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ngam heɓde"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ton"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "בברכו",
+      "gloss": "tawa o barii"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "o jamminii"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "a ƴetta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "e nder ɓiɗɗo debbo"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:10.767862152Z",
+  "model": "glm-5.3"
+}

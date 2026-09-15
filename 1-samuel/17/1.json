@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 17:1","book":"1-samuel","lang":"ff","chapter":17,"translation":"Pelishtinaaɓe ɓen moofti ⟨את⟩ kampaañuuji maɓɓe ngam haɓde, ɓe moofti Sokoo woniɗo to Yuuda, ɓe kampinii hakkunde Sokoo e Aseekaa, to Efes-Dammim.","tokens":[{"surface":"ויאספו","gloss":"ɓe moofti"},{"surface":"פלשתים","gloss":"Pelishtinaaɓe"},{"surface":"את","gloss":"⟨את⟩","marks":"kampaañuuji maɓɓe"},{"surface":"מחניהם","gloss":"kampaañuuji maɓɓe"},{"surface":"למלחמה","gloss":"ngam haɓde"},{"surface":"ויאספו","gloss":"ɓe moofti"},{"surface":"שכה","gloss":"Sokoo"},{"surface":"אשר","gloss":"woniɗo"},{"surface":"ליהודה","gloss":"to Yuuda"},{"surface":"ויחנו","gloss":"ɓe kampinii"},{"surface":"בין","gloss":"hakkunde"},{"surface":"שוכה","gloss":"Sokoo"},{"surface":"ובין","gloss":"e"},{"surface":"עזקה","gloss":"Aseekaa"},{"surface":"באפס","gloss":"to Efes"},{"surface":"דמים","gloss":"-Dammim"}],"timestamp":"2026-09-14T06:45:44.207498957Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Pelishtinaaɓe ɓen moofti ⟨את⟩ kampaañuuji maɓɓe ngam haɓde, ɓe moofti Sokoo woniɗo to Yahuuda, ɓe kampinii hakkunde Sokoo e Aseekaa, to Efes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe moofti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtinaaɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampaañuuji maɓɓe"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampaañuuji maɓɓe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ngam haɓde"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ɓe moofti"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woniɗo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "to Yahuuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ɓe kampinii"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hakkunde"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "e"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseekaa"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "to Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Dammim"
+    }
+  ],
+  "timestamp": "2026-09-14T06:45:44.207498957Z",
+  "model": "glm-5.3"
+}

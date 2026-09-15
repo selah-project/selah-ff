@@ -1,1 +1,133 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 21:17","book":"1-chronicles","lang":"ff","chapter":21,"translation":"Dawuuda wi'i to Eloohim: “Hara miidum miidum wi'i yo yimɓe ɓen limte? Kanko miidum mo bonnii, mo bonnii bon no feewi; ɗiɗoo katta ɗen — ko mbayɗi? Yaawe, Eloohim am, dimmo junndaade maa wonu e am e suudu baaba am, kono wanaa e yimɓe maa, wanaa hebonnde.”","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"דויד","gloss":"Dawuuda"},{"surface":"אל","gloss":"to"},{"surface":"האלהים","gloss":"Eloohim"},{"surface":"הלא","gloss":"hara"},{"surface":"אני","gloss":"miidum"},{"surface":"אמרתי","gloss":"miidum wi'i"},{"surface":"למנות","gloss":"limte"},{"surface":"בעם","gloss":"yimɓe ɓen"},{"surface":"ואני","gloss":"kanko miidum"},{"surface":"הוא","gloss":"mo"},{"surface":"אשר","gloss":"mo"},{"surface":"חטאתי","gloss":"bonnii"},{"surface":"והרע","gloss":"waɗi bon"},{"surface":"הרעותי","gloss":"bonnii no feewi"},{"surface":"ואלה","gloss":"ɗiɗoo"},{"surface":"הצאן","gloss":"katta ɗen"},{"surface":"מה","gloss":"ko"},{"surface":"עשו","gloss":"mbayɗi"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אלהי","gloss":"Eloohim am"},{"surface":"תהי","gloss":"wonu"},{"surface":"נא","gloss":"dimmo"},{"surface":"ידך","gloss":"junndaade maa"},{"surface":"בי","gloss":"e am"},{"surface":"ובבית","gloss":"e suudu"},{"surface":"אבי","gloss":"baaba am"},{"surface":"ובעמך","gloss":"e yimɓe maa"},{"surface":"לא","gloss":"wanaa"},{"surface":"למגפה","gloss":"hebonnde"}],"timestamp":"2026-09-15T07:49:34.852995041Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 21:17",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Daawuuda wi'i to Eloohim: “Hara miidum miidum wi'i yo yimɓe ɓen limte? Kanko miidum mo bonnii, mo bonnii bon no feewi; ɗiɗoo katta ɗen — ko mbayɗi? Yaawe, Eloohim am, dimmo junndaade maa wonu e am e suudu baaba am, kono wanaa e yimɓe maa, wanaa hebonnde.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miidum"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "miidum wi'i"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "limte"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanko miidum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bonnii"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "waɗi bon"
+    },
+    {
+      "surface": "הרעותי",
+      "gloss": "bonnii no feewi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ɗiɗoo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "katta ɗen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "mbayɗi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim am"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wonu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dimmo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "junndaade maa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba am"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "e yimɓe maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "למגפה",
+      "gloss": "hebonnde"
+    }
+  ],
+  "timestamp": "2026-09-15T07:49:34.852995041Z",
+  "model": "glm-5.3"
+}

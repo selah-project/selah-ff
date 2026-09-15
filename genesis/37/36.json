@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 36, "ref": "genesis 37:36", "book": "genesis", "lang": "ff", "chapter": 37, "translation": "Midyan en ñaami mo, ⟨את⟩ njippi Misraayim, to Putifaar, gorko laamu Farawo, hooreejo foodorɓe ɓen.", "tokens": [{"surface": "והמדנים", "gloss": "Midyan en"}, {"surface": "מכרו", "gloss": "ñaami mo"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo (Yusuufa)"}, {"surface": "אל", "gloss": "njippi"}, {"surface": "מצרים", "gloss": "Misraayim"}, {"surface": "לפוטיפר", "gloss": "to Putifaar"}, {"surface": "סריס", "gloss": "gorko laamu"}, {"surface": "פרעה", "gloss": "Farawo"}, {"surface": "שר", "gloss": "hooreejo"}, {"surface": "הטבחים", "gloss": "foodorɓe ɓen"}], "timestamp": "2026-09-14T04:48:29.313675739Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 37,
+  "translation": "Midyan en ñaami mo, ⟨את⟩ njippi Misraayim, to Putifaar, gorko laamu Paroh, hooreejo foodorɓe ɓen.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Midyan en"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ñaami mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yusuufa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "njippi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "to Putifaar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "gorko laamu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "foodorɓe ɓen"
+    }
+  ],
+  "timestamp": "2026-09-14T04:48:29.313675739Z",
+  "model": "glm-5.3"
+}

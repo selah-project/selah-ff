@@ -1,1 +1,75 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "genesis 17:14", "book": "genesis", "lang": "ff", "chapter": 17, "translation": "Worɗo pappo mo ⟨את⟩ ƴi'e pappo mun pawtataa, neɗɗo on paaynata e yimɓe mun; ⟨את⟩ jaaɓgol Am o moŋɗitii.", "tokens": [{"surface": "וערל", "gloss": "pappo"}, {"surface": "זכר", "gloss": "worɗo"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "לא", "gloss": "wala"}, {"surface": "ימול", "gloss": "pawtataa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ƴi'e pappo mun"}, {"surface": "בשר", "gloss": "ƴi'e"}, {"surface": "ערלתו", "gloss": "pappo mun"}, {"surface": "ונכרתה", "gloss": "paaynata"}, {"surface": "הנפש", "gloss": "neɗɗo"}, {"surface": "ההוא", "gloss": "on"}, {"surface": "מעמיה", "gloss": "e yimɓe mun"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "jaaɓgol Am"}, {"surface": "בריתי", "gloss": "jaaɓgol Am"}, {"surface": "הפר", "gloss": "moŋɗitii"}], "timestamp": "2026-09-14T04:38:48.634419909Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Worɗo pappo mo ⟨את⟩ ƴi'e pappo mun pawtataa, neɗɗo on paaynata e yimɓe mun; ⟨את⟩ jaaɓgol am o moŋɗitii.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "pappo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "worɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "pawtataa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e pappo mun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "pappo mun"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "paaynata"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "e yimɓe mun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaaɓgol Am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jaaɓgol am"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "moŋɗitii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:48.634419909Z",
+  "model": "glm-5.3"
+}

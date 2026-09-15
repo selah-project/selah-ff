@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 18:3","book":"isaiah","lang":"ff","chapter":18,"translation":"Yimɓe winndere nden fuu, e hoɗɓe leydi ndin — so maandorde toɗɗaama e doweeji ɗen, on nji'ay; e so koba woori, on nanay.","tokens":[{"surface":"כל","gloss":"fuu"},{"surface":"ישבי","gloss":"jooɗɓe"},{"surface":"תבל","gloss":"winndere"},{"surface":"ושכני","gloss":"e hoɗɓe"},{"surface":"ארץ","gloss":"leydi"},{"surface":"כנשא","gloss":"so ... toɗɗaama"},{"surface":"נס","gloss":"maandorde"},{"surface":"הרים","gloss":"doweeji"},{"surface":"תראו","gloss":"on nji'ay"},{"surface":"וכתקע","gloss":"e so ... woori"},{"surface":"שופר","gloss":"koba"},{"surface":"תשמעו","gloss":"on nanay"}],"timestamp":"2026-09-14T12:12:55.996757111Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Yimɓe winndere nden fuu, e hoɗɓe leydi ndin — so maandorde toɗɗaama e doweeji ɗen, on nji'ay; e so koba woori, on nanay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "jooɗɓe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "winndere"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "e hoɗɓe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "so... toɗɗaama"
+    },
+    {
+      "surface": "נס",
+      "gloss": "maandorde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "doweeji"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "on nji'ay"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "e so... woori"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "koba"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "on nanay"
+    }
+  ],
+  "timestamp": "2026-09-14T12:12:55.996757111Z",
+  "model": "glm-5.3"
+}

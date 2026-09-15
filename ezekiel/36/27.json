@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "ezekiel 36:27", "book": "ezekiel", "lang": "ff", "chapter": 36, "translation": "Mii ɗonkita ⟨את⟩ ruuhu Am nder nder mon, mii waɗan ⟨את⟩ honde ɗon yahde e sariyaaji Am, on reena ñaawooje Am on waɗa ɗe.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "ruuhu Am"}, {"surface": "רוחי", "gloss": "ruuhu Am"}, {"surface": "אתן", "gloss": "mii ɗonkita"}, {"surface": "בקרבכם", "gloss": "nder nder mon"}, {"surface": "ועשיתי", "gloss": "mii waɗan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗon yahde e sariyaaji Am"}, {"surface": "אשר", "gloss": "honde"}, {"surface": "בחקי", "gloss": "e sariyaaji Am"}, {"surface": "תלכו", "gloss": "ɗon yahde"}, {"surface": "ומשפטי", "gloss": "e ñaawooje Am"}, {"surface": "תשמרו", "gloss": "on reena"}, {"surface": "ועשיתם", "gloss": "on waɗa ɗe"}], "timestamp": "2026-09-14T12:30:23.690057001Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 36:27",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Mii ɗonkita ⟨את⟩ ruuhu am nder nder mon, mii waɗan ⟨את⟩ honde ɗon yahde e sariyaaji am, on reena ñaawooje am on waɗa ɗe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruuhu Am"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruuhu am"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mii ɗonkita"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "nder nder mon"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mii waɗan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗon yahde e sariyaaji Am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "honde"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "e sariyaaji am"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ɗon yahde"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "e ñaawooje am"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "on reena"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "on waɗa ɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:30:23.690057001Z",
+  "model": "glm-5.3"
+}

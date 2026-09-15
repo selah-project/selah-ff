@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":13,"ref":"joshua 17:13","book":"joshua","lang":"ff","chapter":17,"translation":"Nde ɓiɓe Yisraa'el ɓeydii doole, ɓe mbatti ⟨את⟩ Kanʼanaan en e njoɓdi-golle; kono momtugol, ɓe momtiraali ɓe.","tokens":[{"surface":"ויהי","gloss":"Nde"},{"surface":"כי","gloss":"si"},{"surface":"חזקו","gloss":"ɓeydii doole"},{"surface":"בני","gloss":"ɓiɓe"},{"surface":"ישראל","gloss":"Yisraa'el"},{"surface":"ויתנו","gloss":"ɓe mbatti"},{"surface":"את","gloss":"⟨את⟩","marks":"Kanʼanaan en"},{"surface":"הכנעני","gloss":"Kanʼanaan en"},{"surface":"למס","gloss":"e njoɓdi-golle"},{"surface":"והורש","gloss":"kono momtugol"},{"surface":"לא","gloss":"alaa"},{"surface":"הורישו","gloss":"ɓe momtiraali ɓe"}],"timestamp":"2026-09-14T06:19:31.034471221Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Nde ɓiɓe Israa'iil ɓeydii doole, ɓe mbatti ⟨את⟩ Kan'anaan en e njoɓdi-golle; kono momtugol, ɓe momtiraali ɓe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "si"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ɓeydii doole"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ɓe mbatti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kan'anaan en"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kan'anaan en"
+    },
+    {
+      "surface": "למס",
+      "gloss": "e njoɓdi-golle"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "kono momtugol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ɓe momtiraali ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:19:31.034471221Z",
+  "model": "glm-5.3"
+}

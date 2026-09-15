@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 25:26","book":"genesis","lang":"ff","chapter":25,"translation":"Caggal ɗum miñiiko mun njalti, junngo mun naa heɓata ɗiirgol Esav, ɓe nodditi innde mun Yaakob; Yitschaq ina wuuri duuɓi cappanɗe jeegom nde o jibini ɓe ⟨את⟩.","tokens":[{"surface":"ואחרי","gloss":"Caggal ɗum"},{"surface":"כן","gloss":""},{"surface":"יצא","gloss":"njalti"},{"surface":"אחיו","gloss":"miñiiko mun"},{"surface":"וידו","gloss":"junngo mun"},{"surface":"אחזת","gloss":"naa heɓata"},{"surface":"בעקב","gloss":"ɗiirgol"},{"surface":"עשו","gloss":"Esav"},{"surface":"ויקרא","gloss":"o nodditi"},{"surface":"שמו","gloss":"innde mun"},{"surface":"יעקב","gloss":"Yaakob"},{"surface":"ויצחק","gloss":"Yitschaq"},{"surface":"בן","gloss":"ina wuuri duuɓi"},{"surface":"ששים","gloss":"cappanɗe jeegom"},{"surface":"שנה","gloss":"duuɓi"},{"surface":"בלדת","gloss":"nde o jibini"},{"surface":"אתם","gloss":"⟨את⟩","marks":"ɓe"}],"timestamp":"2026-09-14T04:41:44.631954909Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 25:26",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Caggal ɗum miñiiko mun njalti, junngo mun naa heɓata ɗiirgol Esav, ɓe nodditi innde mun Ya'aqob; Yitshaq ina wuuri duuɓi cappanɗe jeegom nde o jibini ɓe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Caggal ɗum"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יצא",
+      "gloss": "njalti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "miñiiko mun"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "junngo mun"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "naa heɓata"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "ɗiirgol"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "o nodditi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "innde mun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ina wuuri duuɓi"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "cappanɗe jeegom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "nde o jibini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:41:44.631954909Z",
+  "model": "glm-5.3"
+}

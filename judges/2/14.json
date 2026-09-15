@@ -1,1 +1,89 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "judges 2:14", "book": "judges", "lang": "ff", "chapter": 2, "translation": "Yiite Yaawe yakkitii e Israayiila, o woddi ⟨את⟩ ɓe e junngo wujjooɓe, ɓe wujji ɓe, o fecci ɓe e junngo baasayeeɓe maɓɓe woɗɓe caggi", "tokens": [{"surface": "ויחר", "gloss": "yakkitii"}, {"surface": "אף", "gloss": "yiite"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "בישראל", "gloss": "e Israayiila"}, {"surface": "ויתנם", "gloss": "o woddi ɓe"}, {"surface": "ביד", "gloss": "e junngo"}, {"surface": "שסים", "gloss": "wujjooɓe"}, {"surface": "וישסו", "gloss": "ɓe wujji"}, {"surface": "אותם", "gloss": "⟨את⟩ ɓe"}, {"surface": "וימכרם", "gloss": "o fecci ɓe"}, {"surface": "ביד", "gloss": "e junngo"}, {"surface": "אויביהם", "gloss": "baasayeeɓe maɓɓe"}, {"surface": "מסביב", "gloss": "woɗɓe caggi"}, {"surface": "ולא", "gloss": "ɓe ɓeydaa"}, {"surface": "יכלו", "gloss": "waawde"}, {"surface": "עוד", "gloss": ""}, {"surface": "לעמד", "gloss": "dariinde"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "אויביהם", "gloss": "baasayeeɓe maɓɓe"}], "timestamp": "2026-09-14T06:22:04.751692079Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 2:14",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Yiite Yaawe yakkitii e Israa'iila, o woddi ⟨את⟩ ɓe e junngo wujjooɓe, ɓe wujji ɓe, o fecci ɓe e junngo baasayeeɓe maɓɓe woɗɓe caggi",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "yakkitii"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yiite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iila"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "o woddi ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "wujjooɓe"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "ɓe wujji"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ɓe"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "o fecci ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "baasayeeɓe maɓɓe"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "woɗɓe caggi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ɓe ɓeydaa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "waawde"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "dariinde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "baasayeeɓe maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:22:04.751692079Z",
+  "model": "glm-5.3"
+}

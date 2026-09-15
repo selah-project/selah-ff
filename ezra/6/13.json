@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":13,"ref":"ezra 6:13","book":"ezra","lang":"ff","chapter":6,"translation":"Ndeen Tattenay, laamɗo bannge keeriiɗo maayo ngoo, Shetar-Boznay e wondiiɓe maɓɓe ɓen, no Daryawes laamɗo on neldiri nii, ɓe ngolliri ɗum yaajtuɗum.","tokens":[{"surface":"אדין","gloss":"ndeen"},{"surface":"תתני","gloss":"Tattenay"},{"surface":"פחת","gloss":"laamɗo diiwaan"},{"surface":"עבר","gloss":"bannge keeriiɗo"},{"surface":"נהרה","gloss":"maayo ngoo"},{"surface":"שתר","gloss":"Shetar-"},{"surface":"בוזני","gloss":"Boznay"},{"surface":"וכנותהון","gloss":"e wondiiɓe maɓɓe ɓen"},{"surface":"לקבל","gloss":"sabu"},{"surface":"די","gloss":"konngol"},{"surface":"שלח","gloss":"neldiri"},{"surface":"דריוש","gloss":"Daryawes"},{"surface":"מלכא","gloss":"laamɗo on"},{"surface":"כנמא","gloss":"no ... nii"},{"surface":"אספרנא","gloss":"yaajtuɗum"},{"surface":"עבדו","gloss":"ɓe ngolliri ɗum"}],"timestamp":"2026-09-14T10:43:08.265872303Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 6:13",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Ndeen Tattenay, laamɗo bannge keeriiɗo maayo ngoo, Shetar-Boznay e wondiiɓe maɓɓe ɓen, no Daryawes laamɗo on neldiri nii, ɓe ngolliri ɗum yaajtuɗum.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "Tattenay"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "laamɗo diiwaan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bannge keeriiɗo"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "maayo ngoo"
+    },
+    {
+      "surface": "שתר",
+      "gloss": "Shetar-"
+    },
+    {
+      "surface": "בוזני",
+      "gloss": "Boznay"
+    },
+    {
+      "surface": "וכנותהון",
+      "gloss": "e wondiiɓe maɓɓe ɓen"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "די",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldiri"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daryawes"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "אספרנא",
+      "gloss": "yaajtuɗum"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ɓe ngolliri ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T10:43:08.265872303Z",
+  "model": "glm-5.3"
+}

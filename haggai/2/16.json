@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":16,"ref":"haggai 2:16","book":"haggai","lang":"ff","chapter":2,"translation":"Tuma ɓe ngolluɗo: so neɗɗo arii e kolleese sappo e ɗiɗi, ɗum laatiike sappo; so arii e [pooli] nyaamdu ngam ittude cappanɗe jeegom, ɗum laatiike sappo e ɗiɗi.","tokens":[{"surface":"מהיותם","gloss":"Tuma ɓe ngolluɗo"},{"surface":"בא","gloss":"arii"},{"surface":"אל","gloss":"e"},{"surface":"ערמת","gloss":"kolleese"},{"surface":"עשרים","gloss":"sappo e ɗiɗi"},{"surface":"והיתה","gloss":"ɗum laatiike"},{"surface":"עשרה","gloss":"sappo"},{"surface":"בא","gloss":"arii"},{"surface":"אל","gloss":"e"},{"surface":"היקב","gloss":"[pooli] nyaamdu"},{"surface":"לחשף","gloss":"ngam ittude"},{"surface":"חמשים","gloss":"cappanɗe jeegom"},{"surface":"פורה","gloss":"pooli"},{"surface":"והיתה","gloss":"ɗum laatiike"},{"surface":"עשרים","gloss":"sappo e ɗiɗi"}],"timestamp":"2026-09-14T09:11:25.179256572Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Tuma ɓe ngolluɗo: so neɗɗo arii e kolleese sappo e ɗiɗi, ɗum laatiike sappo; so arii e ⟨pooli⟩ nyaamdu ngam ittude cappanɗe jeegom, ɗum laatiike sappo e ɗiɗi.",
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "Tuma ɓe ngolluɗo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kolleese"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "sappo e ɗiɗi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ɗum laatiike"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "arii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "⟨pooli⟩ nyaamdu"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "ngam ittude"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cappanɗe jeegom"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "pooli"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ɗum laatiike"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "sappo e ɗiɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:25.179256572Z",
+  "model": "glm-5.3"
+}

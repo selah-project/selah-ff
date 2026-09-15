@@ -1,1 +1,124 @@
-{"tier": "glm-5.2", "verse": 17, "ref": "ezekiel 8:17", "book": "ezekiel", "lang": "ff", "chapter": 8, "translation": "O wi'i am: a yi'i ɗum, ɓiɗɗo aadam? Jaŋte wonata ɗum e saare Yahuuda waɗde ⟨את⟩ ɗee noddaali ɗi ɓe ngollu ɗoo? Tawa ɓe helni ⟨את⟩ leydi ndin e fitina, ɓe artiti e saleede Am; e tawa ɓe neldi ⟨את⟩ ɓesngu nguu faade e neene maɓɓe.", "tokens": [{"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אלי", "gloss": "am"}, {"surface": "הראית", "gloss": "a yi'i"}, {"surface": "בן", "gloss": "ɓiɗɗo"}, {"surface": "אדם", "gloss": "aadam"}, {"surface": "הנקל", "gloss": "jaŋte wonata"}, {"surface": "לבית", "gloss": "e saare"}, {"surface": "יהודה", "gloss": "Yahuuda"}, {"surface": "מעשות", "gloss": "waɗde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗee noddaali"}, {"surface": "התועבות", "gloss": "ɗee noddaali"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "עשו", "gloss": "ɓe ngollu"}, {"surface": "פה", "gloss": "ɗoo"}, {"surface": "כי", "gloss": "tawa"}, {"surface": "מלאו", "gloss": "ɓe helni"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leydi ndin"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "חמס", "gloss": "e fitina"}, {"surface": "וישבו", "gloss": "ɓe artiti"}, {"surface": "להכעיסני", "gloss": "e saleede Am"}, {"surface": "והנם", "gloss": "e tawa"}, {"surface": "שלחים", "gloss": "ɓe neldi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓesngu nguu"}, {"surface": "הזמורה", "gloss": "ɓesngu nguu"}, {"surface": "אל", "gloss": "faade e"}, {"surface": "אפם", "gloss": "neene maɓɓe"}], "timestamp": "2026-09-14T08:36:49.879344222Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 8:17",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 8,
+  "translation": "O wi'i am: a yi'i ɗum, ɓiɗɗo aadam? Jaŋte wonata ɗum e saare Yahuuda waɗde ⟨את⟩ ɗee noddaali ɗi ɓe ngollu ɗoo? Tawa ɓe helni ⟨את⟩ leydi ndin e fitina, ɓe artiti e saleede am; e tawa ɓe neldi ⟨את⟩ ɓesngu nguu faade e neene maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "am"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "a yi'i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "aadam"
+    },
+    {
+      "surface": "הנקל",
+      "gloss": "jaŋte wonata"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "e saare"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "waɗde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗee noddaali"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "ɗee noddaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe ngollu"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ɓe helni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "e fitina"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ɓe artiti"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "e saleede am"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "e tawa"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "ɓe neldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓesngu nguu"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "ɓesngu nguu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "neene maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:36:49.879344222Z",
+  "model": "glm-5.3"
+}

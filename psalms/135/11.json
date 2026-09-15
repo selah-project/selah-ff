@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 135:11","book":"psalms","lang":"ff","chapter":135,"translation":"Siihon laamɗo ⟨ɗum⟩ Amoriyankooɓe, e Oog laamɗo Bashan, e laamuuli Kanaan fuu —","tokens":[{"surface":"לסיחון","gloss":"Siihon (fii)"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"האמרי","gloss":"Amoriyankooɓe"},{"surface":"ולעוג","gloss":"e Oog (fii)"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"הבשן","gloss":"Bashan"},{"surface":"ולכל","gloss":"e ... fuu"},{"surface":"ממלכות","gloss":"laamuuli"},{"surface":"כנען","gloss":"Kanaan"}],"timestamp":"2026-09-15T05:53:03.123295165Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 135,
+  "translation": "Siihon laamɗo ⟨ɗum⟩ Amoriyankooɓe, e Oog laamɗo Bashan, e laamuuli Kanaan fuu —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Siihon (fii)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriyankooɓe"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "e Oog (fii)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "laamuuli"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-15T05:53:03.123295165Z",
+  "model": "glm-5.3"
+}

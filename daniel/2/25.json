@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":25,"ref":"daniel 2:25","book":"daniel","lang":"ff","chapter":2,"translation":"Ñaamo Arjok e jaawgol naatni Daniyel ka ñaawoore laamɗo on, o wi'i mo ɗum: mi tawii gorko jeyaaɗo e ɓiɓɓe nanngaaɓe ɓen ley Yahuudah, mo waawi hollude laamɗo on firo ngoo.","tokens":[{"surface":"אדין","gloss":"Ñaamo"},{"surface":"אריוך","gloss":"Arjok"},{"surface":"בהתבהלה","gloss":"e jaawgol"},{"surface":"הנעל","gloss":"naatni"},{"surface":"לדניאל","gloss":"Daniyel"},{"surface":"קדם","gloss":"ka ñaawoore"},{"surface":"מלכא","gloss":"laamɗo on"},{"surface":"וכן","gloss":"ɗum"},{"surface":"אמר","gloss":"o wi'i"},{"surface":"לה","gloss":"mo"},{"surface":"די","gloss":"nden"},{"surface":"השכחת","gloss":"mi tawii"},{"surface":"גבר","gloss":"gorko"},{"surface":"מן","gloss":"e"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"גלותא","gloss":"nanngaaɓe"},{"surface":"די","gloss":"jeyaaɗo"},{"surface":"יהוד","gloss":"Yahuudah"},{"surface":"די","gloss":"mo"},{"surface":"פשרא","gloss":"firo"},{"surface":"למלכא","gloss":"laamɗo on"},{"surface":"יהודע","gloss":"waawi hollude"}],"timestamp":"2026-09-14T10:33:56.576268919Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 2:25",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ñaamo Arjok e jaawgol naatni Daniyel ka ñaawoore laamɗo on, o wi'i mo ɗum: mi tawii gorko jeyaaɗo e ɓiɓɓe nanngaaɓe ɓen ley Yahuuda, mo waawi hollude laamɗo on firo ngoo.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Ñaamo"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "Arjok"
+    },
+    {
+      "surface": "בהתבהלה",
+      "gloss": "e jaawgol"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "naatni"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ka ñaawoore"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ɗum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "די",
+      "gloss": "nden"
+    },
+    {
+      "surface": "השכחת",
+      "gloss": "mi tawii"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "nanngaaɓe"
+    },
+    {
+      "surface": "די",
+      "gloss": "jeyaaɗo"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Yahuudah"
+    },
+    {
+      "surface": "די",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "firo"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "יהודע",
+      "gloss": "waawi hollude"
+    }
+  ],
+  "timestamp": "2026-09-14T10:33:56.576268919Z",
+  "model": "glm-5.3"
+}

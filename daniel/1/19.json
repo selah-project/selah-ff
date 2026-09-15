@@ -1,1 +1,66 @@
-{"tier": "glm-5.2", "verse": 19, "ref": "daniel 1:19", "book": "daniel", "lang": "ff", "chapter": 1, "translation": "Laamɗo on haaldiri ⟨אתם⟩ e ɓe, e nder ɓe fuu tawaaka hay gooto nannduɗo e Daniyel, Hananya, Mishael e Azarya; ɓe darii yeeso ⟨את⟩ laamɗo on.", "tokens": [{"surface": "וידבר", "gloss": "haaldiri"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "המלך", "gloss": "laamɗo on"}, {"surface": "ולא", "gloss": "wanaa"}, {"surface": "נמצא", "gloss": "tawaaka"}, {"surface": "מכלם", "gloss": "e nder ɓe fuu"}, {"surface": "כדניאל", "gloss": "nannduɗo e Daniyel"}, {"surface": "חנניה", "gloss": "Hananya"}, {"surface": "מישאל", "gloss": "Mishael"}, {"surface": "ועזריה", "gloss": "e Azarya"}, {"surface": "ויעמדו", "gloss": "ɓe darii"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "המלך", "gloss": "laamɗo on"}], "timestamp": "2026-09-14T13:01:00.297387679Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Laamɗo on haaldiri e ɓe, e nder ɓe fuu tawaaka hay gooto nannduɗo e Daniyel, Hananya, Mishael e Azarya; ɓe darii yeeso ⟨את⟩ laamɗo on.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "haaldiri"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tawaaka"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "e nder ɓe fuu"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "nannduɗo e Daniyel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "e Azarya"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    }
+  ],
+  "timestamp": "2026-09-14T13:01:00.297387679Z",
+  "model": "glm-5.3"
+}

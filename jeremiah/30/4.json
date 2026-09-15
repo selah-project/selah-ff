@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 30:4","book":"jeremiah","lang":"ff","chapter":30,"translation":"Ɗoo'ee konngi ɗin ɗi Yaawe haali to Israa'iil e to Yuuda.","tokens":[{"surface":"ואלה","gloss":"Ɗoo'ee"},{"surface":"הדברים","gloss":"konngi ɗin"},{"surface":"אשר","gloss":"ɗi"},{"surface":"דבר","gloss":"haali"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אל","gloss":"to"},{"surface":"ישראל","gloss":"Israa'iil"},{"surface":"ואל","gloss":"e to"},{"surface":"יהודה","gloss":"Yuuda"}],"timestamp":"2026-09-14T08:18:54.426081720Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Ɗoo'ee konngi ɗin ɗi Yaawe haali to Israa'iil e to Yahuuda.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ɗoo'ee"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "haali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    }
+  ],
+  "timestamp": "2026-09-14T08:18:54.426081720Z",
+  "model": "glm-5.3"
+}

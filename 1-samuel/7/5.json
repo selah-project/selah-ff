@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "1-samuel 7:5", "book": "1-samuel", "lang": "ff", "chapter": 7, "translation": "Samuwi'li wi'i: “Mɓadindee ⟨את⟩ fuu Israa'iila to Mitspa, miñen, mbe mi Du'aanii fii mon to Yaawe.”", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "שמואל", "gloss": "Samuwi'li"}, {"surface": "קבצו", "gloss": "mɓadindee"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fuu Israa'iila"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "המצפתה", "gloss": "to Mitspa"}, {"surface": "ואתפלל", "gloss": "mi Du'aanii"}, {"surface": "בעדכם", "gloss": "fii mon"}, {"surface": "אל", "gloss": "to"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T06:38:35.198494914Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Shemu'eel wi'i: “Mɓadindee ⟨את⟩ fuu Israa'iila to Mitspa, miñen, mbe mi Du'aanii fii mon to Yaawe.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'eel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "mɓadindee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fuu Israa'iila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "to Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "mi Du'aanii"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "fii mon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:38:35.198494914Z",
+  "model": "glm-5.3"
+}

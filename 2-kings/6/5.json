@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "2-kings 6:5", "book": "2-kings", "lang": "ff", "chapter": 6, "translation": "Nde wonnoo, gooto e ɓe mujjataa leggel mawngel, ⟨את⟩ ɓetali ngal (teefoore) yani e ndiyam ɗin; o ƴaawi o wi'i: “Ahaa, Adonaay am! Nde ⟨lenanaa⟩.”", "tokens": [{"surface": "ויהי", "gloss": "nde wonnoo"}, {"surface": "האחד", "gloss": "gooto"}, {"surface": "מפיל", "gloss": "mujjataa"}, {"surface": "הקורה", "gloss": "leggel mawngel"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "ɓetali ngal"}, {"surface": "הברזל", "gloss": "ɓetali ngal"}, {"surface": "נפל", "gloss": "yani"}, {"surface": "אל", "gloss": "e"}, {"surface": "המים", "gloss": "ndiyam ɗin"}, {"surface": "ויצעק", "gloss": "o ƴaawi"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אהה", "gloss": "Ahaa"}, {"surface": "אדני", "gloss": "Adonaay am"}, {"surface": "והוא", "gloss": "kanko"}, {"surface": "שאול", "gloss": "lenanaa"}], "timestamp": "2026-09-14T07:28:07.206616248Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "Nde wonnoo, gooto e ɓe mujjataa leggel mawngel, ⟨את⟩ ɓetali ngal (teefoore) yani e ndiyam ɗin; o ƴaawi o wi'i: “Ahaa, Joomi am! Nde ⟨lenanaa⟩.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nde wonnoo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "mujjataa"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "leggel mawngel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓetali ngal"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ɓetali ngal"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "yani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "o ƴaawi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahaa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lenanaa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:28:07.206616248Z",
+  "model": "glm-5.3"
+}

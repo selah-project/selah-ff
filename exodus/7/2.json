@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 7:2","book":"exodus","lang":"ff","chapter":7,"translation":"A dannday ⟨את⟩ konnguɗi ɗin fof ɗi mi yamirta ma, kadi Aharon miñi maa danndata e Fir'awn, o nelday ⟨את⟩ ɓiɓɓe Israa'iila ummoraade e leydi makko.","tokens":[{"surface":"אתה","gloss":"a"},{"surface":"תדבר","gloss":"dannday"},{"surface":"את","gloss":"⟨את⟩","marks":"konnguɗi ɗin fof"},{"surface":"כל","gloss":"fof"},{"surface":"אשר","gloss":"ɗi"},{"surface":"אצוך","gloss":"mi yamirta ma"},{"surface":"ואהרן","gloss":"kadi Aharon"},{"surface":"אחיך","gloss":"miñi maa"},{"surface":"ידבר","gloss":"danndata"},{"surface":"אל","gloss":"e"},{"surface":"פרעה","gloss":"Fir'awn"},{"surface":"ושלח","gloss":"o nelday"},{"surface":"את","gloss":"⟨את⟩","marks":"ɓiɓɓe Israa'iila"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"ישראל","gloss":"Israa'iila"},{"surface":"מארצו","gloss":"ummoraade e leydi makko"}],"timestamp":"2026-09-14T04:57:31.341024155Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "A dannday ⟨את⟩ konnguɗi ɗin fof ɗi mi yamirta ma, kadi Aharon miñi maa danndata e Paroh, o nelday ⟨את⟩ ɓiɓɓe Israa'iila ummoraade e leydi makko.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "dannday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "mi yamirta ma"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "kadi Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miñi maa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "danndata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "o nelday"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Israa'iila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ummoraade e leydi makko"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:31.341024155Z",
+  "model": "glm-5.3"
+}

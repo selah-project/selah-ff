@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 43:15","book":"genesis","lang":"ff","chapter":43,"translation":"Worɓe ɓen neddii ⟨את⟩ dokkal ngal, ɓe jogitii kaalis ɗiɗaɓo e juuɗe mun en, e ⟨את⟩ Binjamin; ɓe ummii, ɓe naaɗi Misrayim, ɓe darii juudu Yosef.","tokens":[{"surface":"ויקחו","gloss":"ɓe neddii"},{"surface":"האנשים","gloss":"worɓe ɓen"},{"surface":"את","gloss":"⟨את⟩","marks":"dokkal ngal"},{"surface":"המנחה","gloss":"dokkal ngal"},{"surface":"הזאת","gloss":"ngal"},{"surface":"ומשנה","gloss":"kaalis ɗiɗaɓo"},{"surface":"כסף","gloss":"kaalis"},{"surface":"לקחו","gloss":"ɓe jogitii"},{"surface":"בידם","gloss":"e juuɗe mun en"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"Binjamin"},{"surface":"בנימן","gloss":"Binjamin"},{"surface":"ויקמו","gloss":"ɓe ummii"},{"surface":"וירדו","gloss":"ɓe naaɗi"},{"surface":"מצרים","gloss":"Misrayim"},{"surface":"ויעמדו","gloss":"ɓe darii"},{"surface":"לפני","gloss":"juudu"},{"surface":"יוסף","gloss":"Yosef"}],"timestamp":"2026-09-14T04:51:59.518176242Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 43:15",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 43,
+  "translation": "Worɓe ɓen neddii ⟨את⟩ dokkal ngal, ɓe jogitii kaalis ɗiɗaɓo e juuɗe mun en, e ⟨את⟩ Binjamin; ɓe ummii, ɓe naaɗi Misrayim, ɓe darii juudu Yoseef.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe neddii"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dokkal ngal"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dokkal ngal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "kaalis ɗiɗaɓo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ɓe jogitii"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e juuɗe mun en"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummii"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ɓe naaɗi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "juudu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    }
+  ],
+  "timestamp": "2026-09-14T04:51:59.518176242Z",
+  "model": "glm-5.3"
+}

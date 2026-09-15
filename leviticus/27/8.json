@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "leviticus 27:8", "book": "leviticus", "lang": "ff", "chapter": 27, "translation": "Kono si o alɗinaani no ƴeewte maa nden wi'ata, ndeen ⟨o⟩ daraa yeeso ⟨את⟩ cinngo on, cinngo on ƴeewtanay mo; no junngo noddo on heɓirta nii, nii cinngo on ƴeewtanay mo.", "tokens": [{"surface": "ואם", "gloss": "kono si"}, {"surface": "מך", "gloss": "alɗinaani"}, {"surface": "הוא", "gloss": "o"}, {"surface": "מערכך", "gloss": "no ƴeewte maa nden wi'ata"}, {"surface": "והעמידו", "gloss": "daraa"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "הכהן", "gloss": "cinngo on"}, {"surface": "והעריך", "gloss": "ƴeewtanay"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "הכהן", "gloss": "cinngo on"}, {"surface": "על", "gloss": "no ... nii"}, {"surface": "פי", "gloss": "no ... wi'irta"}, {"surface": "אשר", "gloss": "no"}, {"surface": "תשיג", "gloss": "heɓirta"}, {"surface": "יד", "gloss": "junngo"}, {"surface": "הנדר", "gloss": "noddo on"}, {"surface": "יעריכנו", "gloss": "ƴeewtanay"}, {"surface": "הכהן", "gloss": "cinngo on"}], "timestamp": "2026-09-14T05:32:35.091730188Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 27,
+  "translation": "Kono si o alɗinaani no ƴeewte maa nden wi'ata, ndeen ⟨o⟩ daraa yeeso ⟨את⟩ cinngo on, cinngo on ƴeewtanay mo; no junngo noddo on heɓirta nii, nii cinngo on ƴeewtanay mo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kono si"
+    },
+    {
+      "surface": "מך",
+      "gloss": "alɗinaani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "no ƴeewte maa nden wi'ata"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "daraa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cinngo on"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "ƴeewtanay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cinngo on"
+    },
+    {
+      "surface": "על",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "פי",
+      "gloss": "no... wi'irta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "heɓirta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "junngo"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "noddo on"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "ƴeewtanay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "cinngo on"
+    }
+  ],
+  "timestamp": "2026-09-14T05:32:35.091730188Z",
+  "model": "glm-5.3"
+}

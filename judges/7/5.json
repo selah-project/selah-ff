@@ -1,1 +1,123 @@
-{"tier":"glm-5.2","verse":5,"ref":"judges 7:5","book":"judges","lang":"ff","chapter":7,"translation":"O loowti ⟨את⟩ yimɓe ɓen faade e ndiyam ɗin, Yaawe wi'i e Gid'on: kala mo ƴattata e ɗemngal mun ngal e nder ndiyam ɗin, no widdo ƴattirta nii, waɗan mo ⟨את⟩ tan wanaa goɗɗo; e kala mo ɗooftoo e koyɗe mun ngolu fii yaruɗe.","tokens":[{"surface":"ויורד","gloss":"O loowti"},{"surface":"את","gloss":"⟨את⟩","marks":"yimɓe ɓen"},{"surface":"העם","gloss":"yimɓe ɓen"},{"surface":"אל","gloss":"faade e"},{"surface":"המים","gloss":"ndiyam ɗin"},{"surface":"ויאמר","gloss":"wi'i"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אל","gloss":"e"},{"surface":"גדעון","gloss":"Gid'on"},{"surface":"כל","gloss":"kala"},{"surface":"אשר","gloss":"mo"},{"surface":"ילק","gloss":"ƴattata"},{"surface":"בלשונו","gloss":"e ɗemngal mun ngal"},{"surface":"מן","gloss":"e nder"},{"surface":"המים","gloss":"ndiyam ɗin"},{"surface":"כאשר","gloss":"no ... nii"},{"surface":"ילק","gloss":"ƴattirta"},{"surface":"הכלב","gloss":"widdo on"},{"surface":"תציג","gloss":"waɗan"},{"surface":"אותו","gloss":"⟨את⟩","marks":"mo (ƴattooɗo on) — tan"},{"surface":"לבד","gloss":"tan wanaa goɗɗo"},{"surface":"וכל","gloss":"e kala"},{"surface":"אשר","gloss":"mo"},{"surface":"יכרע","gloss":"ɗooftoo"},{"surface":"על","gloss":"e"},{"surface":"ברכיו","gloss":"koyɗe mun ngolu"},{"surface":"לשתות","gloss":"fii yaruɗe"}],"timestamp":"2026-09-14T06:26:41.901458610Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 7:5",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "O loowti ⟨את⟩ yimɓe ɓen faade e ndiyam ɗin, Yaawe wi'i e Gid'on: kala mo ƴattata e ɗemngal mun ngal e nder ndiyam ɗin, no widdo ƴattirta nii, waɗan mo ⟨את⟩ tan wanaa goɗɗo; e kala mo ɗooftoo e koyɗe mun ngolu fii yaruɗe.",
+  "tokens": [
+    {
+      "surface": "ויורד",
+      "gloss": "O loowti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "ƴattata"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "e ɗemngal mun ngal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ndiyam ɗin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "ילק",
+      "gloss": "ƴattirta"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "widdo on"
+    },
+    {
+      "surface": "תציג",
+      "gloss": "waɗan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (ƴattooɗo on) — tan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tan wanaa goɗɗo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "ɗooftoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "koyɗe mun ngolu"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "fii yaruɗe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:26:41.901458610Z",
+  "model": "glm-5.3"
+}

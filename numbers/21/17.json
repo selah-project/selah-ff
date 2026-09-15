@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":17,"ref":"numbers 21:17","book":"numbers","lang":"ff","chapter":21,"translation":"E oon saaha Yisraa'el yiimi ⟨את⟩ ndee yimre: “Ummito, a kulol, yimmin fii mayre.”","tokens":[{"surface":"אז","gloss":"E oon saaha"},{"surface":"ישיר","gloss":"yiimi"},{"surface":"ישראל","gloss":"Yisraa'el"},{"surface":"את","gloss":"⟨את⟩","marks":"ndee yimre"},{"surface":"השירה","gloss":"ndee yimre"},{"surface":"הזאת","gloss":"ɗoo"},{"surface":"עלי","gloss":"Ummito"},{"surface":"באר","gloss":"a kulol"},{"surface":"ענו","gloss":"yimmin"},{"surface":"לה","gloss":"fii mayre"}],"timestamp":"2026-09-14T05:43:31.524936791Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "E oon saaha Israa'iil yiimi ⟨את⟩ ndee yimre: “Ummito, a kulol, yimmin fii mayre.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "E oon saaha"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "yiimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndee yimre"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ndee yimre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ummito"
+    },
+    {
+      "surface": "באר",
+      "gloss": "a kulol"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "yimmin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "fii mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T05:43:31.524936791Z",
+  "model": "glm-5.3"
+}

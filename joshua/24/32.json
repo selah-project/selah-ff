@@ -1,1 +1,119 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "joshua 24:32", "book": "joshua", "lang": "ff", "chapter": 24, "translation": "Kadi ⟨את⟩ ƴi'e Yuusufa ɗe ɓiɓɓe Israa'iil addi Misrayim, ɓe nguddii ɗe to Sekem, e taƴre ladde nden nde Yaaqoob soodi ⟨את⟩ ɓiɓɓe Hamor baaba Sekem, teemedere kesita; ɗe laati jeyi ngesa ɓiɓɓe Yuusufa.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "ƴi'e Yuusufa"}, {"surface": "עצמות", "gloss": "ƴi'e"}, {"surface": "יוסף", "gloss": "Yuusufa"}, {"surface": "אשר", "gloss": "ɗe"}, {"surface": "העלו", "gloss": "addi"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "ממצרים", "gloss": "Misrayim"}, {"surface": "קברו", "gloss": "ɓe nguddii ɗe"}, {"surface": "בשכם", "gloss": "to Sekem"}, {"surface": "בחלקת", "gloss": "e taƴre"}, {"surface": "השדה", "gloss": "ladde nden"}, {"surface": "אשר", "gloss": "nde"}, {"surface": "קנה", "gloss": "soodi"}, {"surface": "יעקב", "gloss": "Yaaqoob"}, {"surface": "מאת", "gloss": "⟨את⟩", "marks": "ɓiɓɓe Hamor"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "חמור", "gloss": "Hamor"}, {"surface": "אבי", "gloss": "baaba"}, {"surface": "שכם", "gloss": "Sekem"}, {"surface": "במאה", "gloss": "teemedere"}, {"surface": "קשיטה", "gloss": "kesita"}, {"surface": "ויהיו", "gloss": "ɗe laati"}, {"surface": "לבני", "gloss": "jeyi ɓiɓɓe"}, {"surface": "יוסף", "gloss": "Yuusufa"}, {"surface": "לנחלה", "gloss": "ngesa"}], "timestamp": "2026-09-14T06:23:09.787845910Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 24:32",
+  "book": "joshua",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Kadi ⟨את⟩ ƴi'e Yoseef ɗe ɓiɓɓe Israa'iil addi Misrayim, ɓe nguddii ɗe to Sekem, e taƴre ladde nden nde Ya'aqob soodi ⟨את⟩ ɓiɓɓe Hamor baaba Sekem, teemedere kesita; ɗe laati jeyi ngesa ɓiɓɓe Yoseef.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ƴi'e Yuusufa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ƴi'e"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗe"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "addi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ɓe nguddii ɗe"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "to Sekem"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "e taƴre"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ladde nden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "soodi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe Hamor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baaba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekem"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "kesita"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ɗe laati"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "jeyi ɓiɓɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ngesa"
+    }
+  ],
+  "timestamp": "2026-09-14T06:23:09.787845910Z",
+  "model": "glm-5.3"
+}

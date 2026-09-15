@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "isaiah 36:9", "book": "isaiah", "lang": "ff", "chapter": 36, "translation": "No e holno mbaɗtiirtaa woɗɗinde ⟨את⟩ yeeso ofisaajo gooto, ganndiraaɗo famɗuɗo e nder gollooɓe Adonaay am, a waɗtii fijaade e Misrayim fii kalase e pucci?", "tokens": [{"surface": "ואיך", "gloss": "No e holno"}, {"surface": "תשיב", "gloss": "mbaɗtiirtaa woɗɗinde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yeeso"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "פחת", "gloss": "ofisaajo"}, {"surface": "אחד", "gloss": "gooto"}, {"surface": "עבדי", "gloss": "gollooɓe"}, {"surface": "אדני", "gloss": "Adonaay"}, {"surface": "הקטנים", "gloss": "famɗuɗo"}, {"surface": "ותבטח", "gloss": "a waɗtii fijaade"}, {"surface": "לך", "gloss": "e maa"}, {"surface": "על", "gloss": "e"}, {"surface": "מצרים", "gloss": "Misrayim"}, {"surface": "לרכב", "gloss": "fii kalase"}, {"surface": "ולפרשים", "gloss": "e pucci"}], "timestamp": "2026-09-14T07:53:27.551036572Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "No e holno mbaɗtiirtaa woɗɗinde ⟨את⟩ yeeso ofisaajo gooto, ganndiraaɗo famɗuɗo e nder gollooɓe Joomi am, a waɗtii fijaade e Misrayim fii kalase e pucci?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "No e holno"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "mbaɗtiirtaa woɗɗinde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeeso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ofisaajo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "gollooɓe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "famɗuɗo"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "a waɗtii fijaade"
+    },
+    {
+      "surface": "לך",
+      "gloss": "e maa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "fii kalase"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "e pucci"
+    }
+  ],
+  "timestamp": "2026-09-14T07:53:27.551036572Z",
+  "model": "glm-5.3"
+}

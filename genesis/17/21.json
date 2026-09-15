@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 21, "ref": "genesis 17:21", "book": "genesis", "lang": "ff", "chapter": 17, "translation": "Kono ⟨את⟩ jaaɓgol Am mi laatinay e ⟨את⟩ Isxaak, mo Saara dingoyan maa, e ndee yontere laaɓnde, e hitaande nden woɗnde.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "jaaɓgol Am"}, {"surface": "בריתי", "gloss": "jaaɓgol Am"}, {"surface": "אקים", "gloss": "mi laatinay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Isxaak"}, {"surface": "יצחק", "gloss": "Isxaak"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "תלד", "gloss": "dingoyan"}, {"surface": "לך", "gloss": "maa"}, {"surface": "שרה", "gloss": "Saara"}, {"surface": "למועד", "gloss": "e ndee yontere laaɓnde"}, {"surface": "הזה", "gloss": "nde"}, {"surface": "בשנה", "gloss": "e hitaande"}, {"surface": "האחרת", "gloss": "nden woɗnde"}], "timestamp": "2026-09-14T04:38:01.052791650Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kono ⟨את⟩ jaaɓgol am mi laatinay e ⟨את⟩ Yitshaq, mo Saara dingoyan maa, e ndee yontere laaɓnde, e hitaande nden woɗnde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jaaɓgol Am"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "jaaɓgol am"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mi laatinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isxaak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "dingoyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saara"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "e ndee yontere laaɓnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "e hitaande"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "nden woɗnde"
+    }
+  ],
+  "timestamp": "2026-09-14T04:38:01.052791650Z",
+  "model": "glm-5.3"
+}

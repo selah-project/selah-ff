@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":12,"ref":"leviticus 10:12","book":"leviticus","lang":"ff","chapter":10,"translation":"Muusaa wowli dow Aharuuna, e dow Elasaaru e dow Itamaar, ɓiɓɓe mun ɗimɓe heddhiiɓe: “Njogee ⟨את⟩ sadakkaa on hedduɗo nder ɲeeɓe Yaawe, ngulee ɗum ko ɓuuɓtinaandi, sara alteer on, nde tawno ko sakruɗe sakruɗe ɗum.”","tokens":[{"surface":"וידבר","gloss":"wowli"},{"surface":"משה","gloss":"Muusaa"},{"surface":"אל","gloss":"dow"},{"surface":"אהרן","gloss":"Aharuuna"},{"surface":"ואל","gloss":"e dow"},{"surface":"אלעזר","gloss":"Elasaaru"},{"surface":"ואל","gloss":"e dow"},{"surface":"איתמר","gloss":"Itamaar"},{"surface":"בניו","gloss":"ɓiɓɓe mun"},{"surface":"הנותרים","gloss":"heddhiiɓe"},{"surface":"קחו","gloss":"njogee"},{"surface":"את","gloss":"⟨את⟩","marks":"sadakkaa on"},{"surface":"המנחה","gloss":"sadakkaa on"},{"surface":"הנותרת","gloss":"hedduɗo"},{"surface":"מאשי","gloss":"nder ɲeeɓe"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"ואכלוה","gloss":"ngulee ɗum"},{"surface":"מצות","gloss":"ko ɓuuɓtinaandi"},{"surface":"אצל","gloss":"sara"},{"surface":"המזבח","gloss":"alteer on"},{"surface":"כי","gloss":"nde tawno"},{"surface":"קדש","gloss":"sakruɗe"},{"surface":"קדשים","gloss":"sakruɗe"},{"surface":"הוא","gloss":"ɗum"}],"timestamp":"2026-09-14T11:40:26.540534770Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 10:12",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Moshe wowli dow Aharona, e dow Elasaaru e dow Itamaar, ɓiɓɓe mun ɗimɓe heddhiiɓe: “Njogee ⟨את⟩ sadakkaa on hedduɗo nder ɲeeɓe Yaawe, ngulee ɗum ko ɓuuɓtinaandi, sara alteer on, nde tawno ko sakruɗe sakruɗe ɗum.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wowli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dow"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasaaru"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamaar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "heddhiiɓe"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "njogee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadakkaa on"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sadakkaa on"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "hedduɗo"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "nder ɲeeɓe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ואכלוה",
+      "gloss": "ngulee ɗum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ko ɓuuɓtinaandi"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alteer on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde tawno"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sakruɗe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sakruɗe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ɗum"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:26.540534770Z",
+  "model": "glm-5.3"
+}

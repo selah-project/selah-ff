@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":8,"ref":"judges 17:8","book":"judges","lang":"ff","chapter":17,"translation":"Ndeen neɗɗo on yahi e wuro ngoo, e Beit-Lehem Yehuda, ngam gillaade ɗo o waawi heɓde; o ariii to woowru Efrayim, haa e suudu Mika, ngam waɗde laawol mun.","tokens":[{"surface":"וילך","gloss":"yahi"},{"surface":"האיש","gloss":"neɗɗo on"},{"surface":"מהעיר","gloss":"e wuro ngoo"},{"surface":"מבית","gloss":"e"},{"surface":"לחם","gloss":"Beit-Lehem"},{"surface":"יהודה","gloss":"Yehuda"},{"surface":"לגור","gloss":"ngam gillaade"},{"surface":"באשר","gloss":"ɗo"},{"surface":"ימצא","gloss":"o waawi heɓde"},{"surface":"ויבא","gloss":"o ariii"},{"surface":"הר","gloss":"to woowru"},{"surface":"אפרים","gloss":"Efrayim"},{"surface":"עד","gloss":"haa"},{"surface":"בית","gloss":"e suudu"},{"surface":"מיכה","gloss":"Mika"},{"surface":"לעשות","gloss":"ngam waɗde"},{"surface":"דרכו","gloss":"laawol mun"}],"timestamp":"2026-09-14T06:32:39.587325831Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 17:8",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Ndeen neɗɗo on yahi e wuro ngoo, e Beit-Lehem Yahuuda, ngam gillaade ɗo o waawi heɓde; o ariii to woowru Efrayim, haa e suudu Mika, ngam waɗde laawol mun.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "neɗɗo on"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "e wuro ngoo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lehem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ngam gillaade"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "o waawi heɓde"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ariii"
+    },
+    {
+      "surface": "הר",
+      "gloss": "to woowru"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngam waɗde"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "laawol mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:32:39.587325831Z",
+  "model": "glm-5.3"
+}

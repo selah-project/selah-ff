@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "genesis 42:9", "book": "genesis", "lang": "ff", "chapter": 42, "translation": "Yuusufa jaɓanoo ⟨את⟩ fiyeeji ɗi o fiyi heen ɓe, o wi'i ɓe: on ko toppuɓe-waasooje; ngallaade nji'a-ɗon ⟨את⟩ nuɗɗudi leydi ndin on arii.", "tokens": [{"surface": "ויזכר", "gloss": "jaɓanoo"}, {"surface": "יוסף", "gloss": "Yuusufa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "fiyeeji ɗin"}, {"surface": "החלמות", "gloss": "fiyeeji ɗin"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "חלם", "gloss": "o fiyi"}, {"surface": "להם", "gloss": "heen ɓe"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אלהם", "gloss": "ɓe"}, {"surface": "מרגלים", "gloss": "toppuɓe-waasooje"}, {"surface": "אתם", "gloss": "on"}, {"surface": "לראות", "gloss": "ngallaade nji'a-ɗon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nuɗɗudi leydi ndin"}, {"surface": "ערות", "gloss": "nuɗɗudi"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "באתם", "gloss": "on arii"}], "timestamp": "2026-09-14T04:50:23.366288745Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 42,
+  "translation": "Yoseef jaɓanoo ⟨את⟩ fiyeeji ɗi o fiyi heen ɓe, o wi'i ɓe: on ko toppuɓe-waasooje; ngallaade nji'a-ɗon ⟨את⟩ nuɗɗudi leydi ndin on arii.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "jaɓanoo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiyeeji ɗin"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "fiyeeji ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "o fiyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heen ɓe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "toppuɓe-waasooje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ngallaade nji'a-ɗon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuɗɗudi leydi ndin"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nuɗɗudi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "on arii"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:23.366288745Z",
+  "model": "glm-5.3"
+}

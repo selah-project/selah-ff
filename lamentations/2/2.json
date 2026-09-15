@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "lamentations 2:2", "book": "lamentations", "lang": "ff", "chapter": 2, "translation": "Adonaay ƴami, o moƴƴinaani nokkuuje Yaakuuba ɗen ⟨את⟩ fuu; o yani e crossaare mun cemeneeri ɓiyum Yahuuda, o werlii ɗi e leydi; o losni laamu nguu e mawɓe mum.", "tokens": [{"surface": "בלע", "gloss": "ƴami"}, {"surface": "אדני", "gloss": "Adonaay"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "חמל", "gloss": "o moƴƴinaani"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nokkuuje Yaakuuba ɗen fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "נאות", "gloss": "nokkuuje"}, {"surface": "יעקב", "gloss": "Yaakuuba"}, {"surface": "הרס", "gloss": "yani"}, {"surface": "בעברתו", "gloss": "e crossaare mun"}, {"surface": "מבצרי", "gloss": "cemeneeri"}, {"surface": "בת", "gloss": "ɓiyum"}, {"surface": "יהודה", "gloss": "Yahuuda"}, {"surface": "הגיע", "gloss": "werlii"}, {"surface": "לארץ", "gloss": "e leydi"}, {"surface": "חלל", "gloss": "losni"}, {"surface": "ממלכה", "gloss": "laamu"}, {"surface": "ושריה", "gloss": "e mawɓe mum"}], "timestamp": "2026-09-14T12:57:44.697144835Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Adonaay ƴami, o moƴƴinaani nokkuuje Ya'aqob ɗen ⟨את⟩ fuu; o yani e crossaare mun cemeneeri ɓiyum Yahuuda, o werlii ɗi e leydi; o losni laamu nguu e mawɓe mum.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ƴami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "o moƴƴinaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nokkuuje Yaakuuba ɗen fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "nokkuuje"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "yani"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "e crossaare mun"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "cemeneeri"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiyum"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "werlii"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "losni"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "laamu"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "e mawɓe mum"
+    }
+  ],
+  "timestamp": "2026-09-14T12:57:44.697144835Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,72 @@
-{"tier": "glm-5.2", "verse": 53, "ref": "ezekiel 16:53", "book": "ezekiel", "lang": "ff", "chapter": 16, "translation": "Kadi Mi artirta ⟨את⟩ artugol maɓɓe: ⟨את⟩ artugol Sedom e ɓiɗɓe mum, e ⟨את⟩ artugol Shomron e ɓiɗɓe mum, e artugol nanngaaɓe maa nder maɓɓe.", "tokens": [{"surface": "ושבתי", "gloss": "Kadi Mi artirta"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "artugol maɓɓe"}, {"surface": "שביתהן", "gloss": "artugol maɓɓe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "artugol Sedom"}, {"surface": "שבית", "gloss": "artugol"}, {"surface": "סדם", "gloss": "Sedom"}, {"surface": "ובנותיה", "gloss": "e ɓiɗɓe mum"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "artugol Shomron"}, {"surface": "שבית", "gloss": "artugol"}, {"surface": "שמרון", "gloss": "Shomron"}, {"surface": "ובנותיה", "gloss": "e ɓiɗɓe mum"}, {"surface": "ושבית", "gloss": "e artugol"}, {"surface": "שביתיך", "gloss": "nanngaaɓe maa"}, {"surface": "בתוכהנה", "gloss": "nder maɓɓe"}], "timestamp": "2026-09-14T08:40:53.930108376Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kadi mi artirta ⟨את⟩ artugol maɓɓe: ⟨את⟩ artugol Sedom e ɓiɗɓe mum, e ⟨את⟩ artugol Shomron e ɓiɗɓe mum, e artugol nanngaaɓe maa nder maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Kadi mi artirta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "artugol maɓɓe"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "artugol maɓɓe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "artugol Sedom"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "artugol"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "e ɓiɗɓe mum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "artugol Shomron"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "artugol"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "e ɓiɗɓe mum"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "e artugol"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "nanngaaɓe maa"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "nder maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:40:53.930108376Z",
+  "model": "glm-5.3"
+}

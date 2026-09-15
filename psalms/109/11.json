@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 109:11","book":"psalms","lang":"ff","chapter":109,"translation":"Yaa ñaawoowo-kaalis on fooña konngol fuu ngol heɗi; yaa ali en wujju gollal makko ngal.","tokens":[{"surface":"ינקש","gloss":"fooña"},{"surface":"נושה","gloss":"ñaawoowo-kaalis on"},{"surface":"לכל","gloss":"konngol fuu ngol"},{"surface":"אשר","gloss":"ngol heɗi"},{"surface":"לו","gloss":"makko"},{"surface":"ויבזו","gloss":"yaa ... wujju"},{"surface":"זרים","gloss":"ali en"},{"surface":"יגיעו","gloss":"gollal makko ngal"}],"timestamp":"2026-09-14T12:45:50.433505916Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 109,
+  "translation": "Yaa ñaawoowo-kaalis on fooña konngol fuu ngol heɗi; yaa ali en wujju gollal makko ngal.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "fooña"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "ñaawoowo-kaalis on"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konngol fuu ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol heɗi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "makko"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "yaa... wujju"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ali en"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "gollal makko ngal"
+    }
+  ],
+  "timestamp": "2026-09-14T12:45:50.433505916Z",
+  "model": "glm-5.3"
+}

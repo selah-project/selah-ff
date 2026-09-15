@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":52,"ref":"1-samuel 17:52","book":"1-samuel","lang":"ff","chapter":17,"translation":"Worɓe Israa'iila e Yuuda ɓe ummii, ɓe ɓelli, ɓe rewindi ⟨את⟩ Filistiinɓe ɓe haa ⟨a⟩ naata e ƴiiƴere e haa dame Ekeron; warɓe Filistiinɓe ɓe nayi e laawol Shaarayim haa Gat e haa Ekeron.","tokens":[{"surface":"ויקמו","gloss":"ɓe ummii"},{"surface":"אנשי","gloss":"worɓe"},{"surface":"ישראל","gloss":"Israa'iila"},{"surface":"ויהודה","gloss":"e Yuuda"},{"surface":"וירעו","gloss":"ɓe ɓelli"},{"surface":"וירדפו","gloss":"ɓe rewindi"},{"surface":"את","gloss":"⟨את⟩","marks":"Filistiinɓe ɓe"},{"surface":"הפלשתים","gloss":"Filistiinɓe ɓe"},{"surface":"עד","gloss":"haa"},{"surface":"בואך","gloss":"a naata"},{"surface":"גיא","gloss":"ƴiiƴere"},{"surface":"ועד","gloss":"e haa"},{"surface":"שערי","gloss":"dame"},{"surface":"עקרון","gloss":"Ekeron"},{"surface":"ויפלו","gloss":"ɓe nayi"},{"surface":"חללי","gloss":"warɓe"},{"surface":"פלשתים","gloss":"Filistiinɓe"},{"surface":"בדרך","gloss":"e laawol"},{"surface":"שערים","gloss":"Shaarayim"},{"surface":"ועד","gloss":"haa"},{"surface":"גת","gloss":"Gat"},{"surface":"ועד","gloss":"e haa"},{"surface":"עקרון","gloss":"Ekeron"}],"timestamp":"2026-09-14T06:47:44.635434085Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Worɓe Israa'iila e Yahuuda ɓe ummii, ɓe ɓelli, ɓe rewindi ⟨את⟩ Filistiinɓe ɓe haa ⟨a⟩ naata e ƴiiƴere e haa dame Ekeron; warɓe Filistiinɓe ɓe nayi e laawol Shaarayim haa Gat e haa Ekeron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ɓe ummii"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "e Yahuuda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "ɓe ɓelli"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ɓe rewindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiinɓe ɓe"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistiinɓe ɓe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "a naata"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ƴiiƴere"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e haa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dame"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekeron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ɓe nayi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "warɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiinɓe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "e laawol"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Shaarayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "e haa"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekeron"
+    }
+  ],
+  "timestamp": "2026-09-14T06:47:44.635434085Z",
+  "model": "glm-5.3"
+}

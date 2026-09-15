@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":11,"ref":"daniel 12:11","book":"daniel","lang":"ff","chapter":12,"translation":"E tuggude sahaa ɗo duwaaji duwayɗi ɗin itta, e ɗo kiɓɓe bonnde hunnunde ndee darce, balɗe mbaɗata ujunere, teemedere ɗiɗi, e cappande nayi e sappo.","tokens":[{"surface":"ומעת","gloss":"e tuggude sahaa"},{"surface":"הוסר","gloss":"itta"},{"surface":"התמיד","gloss":"duwaaji duwayɗi ɗin"},{"surface":"ולתת","gloss":"e ɗo ... darce"},{"surface":"שקוץ","gloss":"kiɓɓe bonnde"},{"surface":"שמם","gloss":"hunnunde"},{"surface":"ימים","gloss":"balɗe"},{"surface":"אלף","gloss":"ujunere"},{"surface":"מאתים","gloss":"teemedere ɗiɗi"},{"surface":"ותשעים","gloss":"e cappande nayi e sappo"}],"timestamp":"2026-09-14T10:40:33.177293513Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 12:11",
+  "book": "daniel",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "E tuggude sahaa ɗo duwaaji duwayɗi ɗin itta, e ɗo kiɓɓe bonnde hunnunde ndee darce, balɗe mbaɗata ujunere, teemedere ɗiɗi, e cappande nayi e sappo.",
+  "tokens": [
+    {
+      "surface": "ומעת",
+      "gloss": "e tuggude sahaa"
+    },
+    {
+      "surface": "הוסר",
+      "gloss": "itta"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "duwaaji duwayɗi ɗin"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "e ɗo... darce"
+    },
+    {
+      "surface": "שקוץ",
+      "gloss": "kiɓɓe bonnde"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hunnunde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ujunere"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "teemedere ɗiɗi"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "e cappande nayi e sappo"
+    }
+  ],
+  "timestamp": "2026-09-14T10:40:33.177293513Z",
+  "model": "glm-5.3"
+}

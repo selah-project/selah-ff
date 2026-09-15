@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":6,"ref":"isaiah 44:6","book":"isaiah","lang":"ff","chapter":44,"translation":"Ko noon Yaawe wiyi, laamɗo Israa'iila e ballowo mun, Yaawe sabuuji: Miin ko mi pellet-aranoore, miin kadi ko mi kootoore; ceŋondiral e am, Eloohim woodaani.","tokens":[{"surface":"כה","gloss":"ko noon"},{"surface":"אמר","gloss":"wiyi"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"ישראל","gloss":"Israa'iila"},{"surface":"וגאלו","gloss":"e ballowo mun"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"צבאות","gloss":"sabuuji"},{"surface":"אני","gloss":"miin"},{"surface":"ראשון","gloss":"pellet-aranoore"},{"surface":"ואני","gloss":"miin kadi"},{"surface":"אחרון","gloss":"kootoore"},{"surface":"ומבלעדי","gloss":"ceŋondiral e am"},{"surface":"אין","gloss":"woodaani"},{"surface":"אלהים","gloss":"Eloohim"}],"timestamp":"2026-09-14T07:56:11.711122139Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 44:6",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Ko noon Yaawe wiyi, laamɗo Israa'iila e ballowo mun, Yaawe Tsevaot: Miin ko mi pellet-aranoore, miin kadi ko mi kootoore; ceŋondiral e am, Eloohim woodaani.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ko noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "e ballowo mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pellet-aranoore"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "miin kadi"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "kootoore"
+    },
+    {
+      "surface": "ומבלעדי",
+      "gloss": "ceŋondiral e am"
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T07:56:11.711122139Z",
+  "model": "glm-5.3"
+}

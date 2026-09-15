@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 40:8","book":"genesis","lang":"ff","chapter":40,"translation":"Ɓe wi'i mo: “Koyɗol men koyii, ta'uɗo ⟨את⟩ alaa.” Yoosef wi'i ɓe: “E wonaa Eloohim jeyi ta'uɗi? Haalan min, ko adii.”","tokens":[{"surface":"ויאמרו","gloss":"ɓe wi'i"},{"surface":"אליו","gloss":"mo"},{"surface":"חלום","gloss":"koyɗol"},{"surface":"חלמנו","gloss":"men koyii"},{"surface":"ופתר","gloss":"ta'uɗo"},{"surface":"אין","gloss":"alaa"},{"surface":"אתו","gloss":"⟨את⟩","marks":"ta'uɗo"},{"surface":"ויאמר","gloss":"wi'i"},{"surface":"אלהם","gloss":"ɓe"},{"surface":"יוסף","gloss":"Yoosef"},{"surface":"הלוא","gloss":"e wonaa"},{"surface":"לאלהים","gloss":"Eloohim"},{"surface":"פתרנים","gloss":"ta'uɗi"},{"surface":"ספרו","gloss":"haalan"},{"surface":"נא","gloss":"ko adii"},{"surface":"לי","gloss":"min"}],"timestamp":"2026-09-14T04:49:15.595988862Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 40,
+  "translation": "Ɓe wi'i mo: “Koyɗol men koyii, ta'uɗo ⟨את⟩ alaa.” Yoseef wi'i ɓe: “E wonaa Eloohim jeyi ta'uɗi? Haalan min, ko adii.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "koyɗol"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "men koyii"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "ta'uɗo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta'uɗo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "e wonaa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ta'uɗi"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "haalan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ko adii"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:15.595988862Z",
+  "model": "glm-5.3"
+}

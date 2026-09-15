@@ -1,1 +1,126 @@
-{"tier":"glm-5.2","verse":15,"ref":"1-kings 21:15","book":"1-kings","lang":"ff","chapter":21,"translation":"Nde Ijezebel nanii wonde Nabot ɓuccaama o maayi, Ijezebel wi’i to Ahab: Ummu, jeyu ⟨את⟩ inaari Nabot Yizreelaaɗo on, mo salii hokkude ma kaalis; tawde Nabot alaa hoore-wuuru, tawde o maayii.","tokens":[{"surface":"ויהי","gloss":"nd’en"},{"surface":"כשמע","gloss":"nde nanii"},{"surface":"איזבל","gloss":"Ijezebel"},{"surface":"כי","gloss":"wonde"},{"surface":"סקל","gloss":"ɓuccaama"},{"surface":"נבות","gloss":"Nabot"},{"surface":"וימת","gloss":"o maayi"},{"surface":"ותאמר","gloss":"wi’i"},{"surface":"איזבל","gloss":"Ijezebel"},{"surface":"אל","gloss":"to"},{"surface":"אחאב","gloss":"Ahab"},{"surface":"קום","gloss":"ummu"},{"surface":"רש","gloss":"jeyu"},{"surface":"את","gloss":"⟨את⟩","marks":"inaari Nabot"},{"surface":"כרם","gloss":"inaari"},{"surface":"נבות","gloss":"Nabot"},{"surface":"היזרעאלי","gloss":"Yizreelaaɗo"},{"surface":"אשר","gloss":"mo"},{"surface":"מאן","gloss":"salii"},{"surface":"לתת","gloss":"hokkude"},{"surface":"לך","gloss":"ma"},{"surface":"בכסף","gloss":"kaalis"},{"surface":"כי","gloss":"tawde"},{"surface":"אין","gloss":"alaa"},{"surface":"נבות","gloss":"Nabot"},{"surface":"חי","gloss":"hoore-wuuru"},{"surface":"כי","gloss":"tawde"},{"surface":"מת","gloss":"o maayii"}],"timestamp":"2026-09-14T07:24:28.119083345Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 21:15",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Nde Ijezebel nanii wonde Nabot ɓuccaama o maayi, Ijezebel wi'i to Ahab: Ummu, jeyu ⟨את⟩ inaari Nabot Yizreelaaɗo on, mo salii hokkude ma kaalis; tawde Nabot alaa hoore-wuuru, tawde o maayii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nd'en"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nde nanii"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ijezebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonde"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "ɓuccaama"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ijezebel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ummu"
+    },
+    {
+      "surface": "רש",
+      "gloss": "jeyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inaari Nabot"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "inaari"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Yizreelaaɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "salii"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hokkude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kaalis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hoore-wuuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tawde"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o maayii"
+    }
+  ],
+  "timestamp": "2026-09-14T07:24:28.119083345Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 41, "ref": "numbers 3:41", "book": "numbers", "lang": "ff", "chapter": 3, "translation": "Aƴa ñaawu dewel ⟨את⟩ Lewi'en ɓen fii am — miin Yaawe woni — e lesodu kala ɓiy-aranoore nder ɓiɓɓe Israai'il, e ⟨את⟩ neembaaɗe Lewi'en ɓen e lesodu kala ɓiy-aranoore nder neembaaɗe ɓiɓɓe Israai'il.", "tokens": [{"surface": "ולקחת", "gloss": "aƴa ñaawu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "dewel Lewi'en ɓen"}, {"surface": "הלוים", "gloss": "Lewi'en ɓen"}, {"surface": "לי", "gloss": "fii am"}, {"surface": "אני", "gloss": "miin"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "תחת", "gloss": "e lesodu"}, {"surface": "כל", "gloss": "kala"}, {"surface": "בכר", "gloss": "ɓiy-aranoore"}, {"surface": "בבני", "gloss": "nder ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israai'il"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "neembaaɗe Lewi'en ɓen"}, {"surface": "בהמת", "gloss": "neembaaɗe"}, {"surface": "הלוים", "gloss": "Lewi'en ɓen"}, {"surface": "תחת", "gloss": "e lesodu"}, {"surface": "כל", "gloss": "kala"}, {"surface": "בכור", "gloss": "ɓiy-aranoore"}, {"surface": "בבהמת", "gloss": "nder neembaaɗe"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israai'il"}], "timestamp": "2026-09-14T05:33:50.830952274Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 3:41",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Aƴa ñaawu dewel ⟨את⟩ Lewi'en ɓen fii am — miin Yaawe woni — e lesodu kala ɓiy-aranoore nder ɓiɓɓe Israa'iil, e ⟨את⟩ neembaaɗe Lewi'en ɓen e lesodu kala ɓiy-aranoore nder neembaaɗe ɓiɓɓe Israa'iil.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "aƴa ñaawu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dewel Lewi'en ɓen"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi'en ɓen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fii am"
+    },
+    {
+      "surface": "אני",
+      "gloss": "miin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e lesodu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ɓiy-aranoore"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "nder ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "neembaaɗe Lewi'en ɓen"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "neembaaɗe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi'en ɓen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "e lesodu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ɓiy-aranoore"
+    },
+    {
+      "surface": "בבהמת",
+      "gloss": "nder neembaaɗe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:33:50.830952274Z",
+  "model": "glm-5.3"
+}

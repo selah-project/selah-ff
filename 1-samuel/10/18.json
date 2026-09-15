@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "1-samuel 10:18", "book": "1-samuel", "lang": "ff", "chapter": 10, "translation": "O wi'i ɓe ɓiɓɓe ⟨את⟩ Israa'el: Ko noon Yaawe, Eloohim ⟨את⟩ Israa'el, wi'i: Mi ƴetti ⟨את⟩ Israa'el ummoraade Misrayim, mi hisni on juuɗe Mirayimnaaɓe e juuɗe laamuuli ɗin fuu ɗi ƴoƴƴinoo on.", "tokens": [{"surface": "ויאמר", "gloss": "O wi'i"}, {"surface": "אל", "gloss": "ɓe"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'el"}, {"surface": "כה", "gloss": "Ko noon"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israa'el"}, {"surface": "אנכי", "gloss": "Mi"}, {"surface": "העליתי", "gloss": "ƴetti"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'el"}, {"surface": "ישראל", "gloss": "Israa'el"}, {"surface": "ממצרים", "gloss": "ummoraade Misrayim"}, {"surface": "ואציל", "gloss": "mi hisni"}, {"surface": "אתכם", "gloss": "⟨את⟩ on", "marks": "on"}, {"surface": "מיד", "gloss": "juuɗe"}, {"surface": "מצרים", "gloss": "Mirayimnaaɓe"}, {"surface": "ומיד", "gloss": "e juuɗe"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הממלכות", "gloss": "laamuuli ɗin"}, {"surface": "הלחצים", "gloss": "ɗi ƴoƴƴinoo"}, {"surface": "אתכם", "gloss": "⟨את⟩ on"}], "timestamp": "2026-09-14T06:41:31.700195729Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 10:18",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "O wi'i ɓe ɓiɓɓe ⟨את⟩ Israa'iil: Ko noon Yaawe, Eloohim ⟨את⟩ Israa'iil, wi'i: Mi ƴetti ⟨את⟩ Israa'iil ummoraade Misrayim, mi hisni on juuɗe Mirayimnaaɓe e juuɗe laamuuli ɗin fuu ɗi ƴoƴƴinoo on.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ko noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ummoraade Misrayim"
+    },
+    {
+      "surface": "ואציל",
+      "gloss": "mi hisni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "juuɗe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mirayimnaaɓe"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "laamuuli ɗin"
+    },
+    {
+      "surface": "הלחצים",
+      "gloss": "ɗi ƴoƴƴinoo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    }
+  ],
+  "timestamp": "2026-09-14T06:41:31.700195729Z",
+  "model": "glm-5.3"
+}

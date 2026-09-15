@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":34,"ref":"exodus 30:34","book":"exodus","lang":"ff","chapter":30,"translation":"Yaawe wi'i Musa: heɓan maa cuuɗri — natap, e shehelet, e chelbena — cuuɗri ɗen e levona laaɓndu; bad e bad ⟨en⟩ fotondirtet.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אל","gloss":"e"},{"surface":"משה","gloss":"Musa"},{"surface":"קח","gloss":"heɓan"},{"surface":"לך","gloss":"maa"},{"surface":"סמים","gloss":"cuuɗri"},{"surface":"נטף","gloss":"natap"},{"surface":"ושחלת","gloss":"e shehelet"},{"surface":"וחלבנה","gloss":"e chelbena"},{"surface":"סמים","gloss":"cuuɗri"},{"surface":"ולבנה","gloss":"e levona"},{"surface":"זכה","gloss":"laaɓndu"},{"surface":"בד","gloss":"bad"},{"surface":"בבד","gloss":"e bad"},{"surface":"יהיה","gloss":"fotondirtet"}],"timestamp":"2026-09-14T18:54:59.663091744Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 30:34",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 30,
+  "translation": "Yaawe wi'i Moshe: heɓan maa cuuɗri — natap, e shehelet, e chelbena — cuuɗri ɗen e levona laaɓndu; bad e bad ⟨en⟩ fotondirtet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "heɓan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "cuuɗri"
+    },
+    {
+      "surface": "נטף",
+      "gloss": "natap"
+    },
+    {
+      "surface": "ושחלת",
+      "gloss": "e shehelet"
+    },
+    {
+      "surface": "וחלבנה",
+      "gloss": "e chelbena"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "cuuɗri"
+    },
+    {
+      "surface": "ולבנה",
+      "gloss": "e levona"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "laaɓndu"
+    },
+    {
+      "surface": "בד",
+      "gloss": "bad"
+    },
+    {
+      "surface": "בבד",
+      "gloss": "e bad"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "fotondirtet"
+    }
+  ],
+  "timestamp": "2026-09-14T18:54:59.663091744Z",
+  "model": "glm-5.3"
+}

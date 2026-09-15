@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"hosea 12:1","book":"hosea","lang":"ff","chapter":12,"translation":"Efrayim sabbunii ⟨mi⟩ e faayiida, wuro Yisrael e mbaylaandi; Yehuuda kadi heddii e woolaango e Eel, e seniiɓe ⟨o⟩ goonguɗo.","tokens":[{"surface":"סבבני","gloss":"sabbunii mi"},{"surface":"בכחש","gloss":"e faayiida"},{"surface":"אפרים","gloss":"Efrayim"},{"surface":"ובמרמה","gloss":"e mbaylaandi"},{"surface":"בית","gloss":"wuro"},{"surface":"ישראל","gloss":"Yisrael"},{"surface":"ויהודה","gloss":"Yehuuda kadi"},{"surface":"עד","gloss":"heddii"},{"surface":"רד","gloss":"e woolaango"},{"surface":"עם","gloss":"e"},{"surface":"אל","gloss":"Eel"},{"surface":"ועם","gloss":"e"},{"surface":"קדושים","gloss":"seniiɓe"},{"surface":"נאמן","gloss":"goonguɗo"}],"timestamp":"2026-09-14T08:59:22.265171141Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Efrayim sabbunii ⟨mi⟩ e faayiida, wuro Israa'iil e mbaylaandi; Yahuuda kadi heddii e woolaango e Eel, e seniiɓe ⟨o⟩ goonguɗo.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "sabbunii mi"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "e faayiida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "e mbaylaandi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yahuuda kadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heddii"
+    },
+    {
+      "surface": "רד",
+      "gloss": "e woolaango"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "e"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "seniiɓe"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "goonguɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T08:59:22.265171141Z",
+  "model": "glm-5.3"
+}

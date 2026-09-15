@@ -1,1 +1,42 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "jeremiah 13:5", "book": "jeremiah", "lang": "ff", "chapter": 13, "translation": "Ndeen ⟨את⟩ mi yahi, mi suuɗi ɗum to Perat, no Yaawe yamiriri mi nii.", "tokens": [{"surface": "ואלך", "gloss": "Ndeen mi yahi"}, {"surface": "ואטמנהו", "gloss": "mi suuɗi ɗum"}, {"surface": "בפרת", "gloss": "to Perat"}, {"surface": "כאשר", "gloss": "no ... nii"}, {"surface": "צוה", "gloss": "yamiriri"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אותי", "gloss": "⟨את⟩ mi", "marks": ""}], "timestamp": "2026-09-14T08:11:27.080037216Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ndeen ⟨את⟩ mi yahi, mi suuɗi ɗum to Perat, no Yaawe yamiriri mi nii.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Ndeen mi yahi"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "mi suuɗi ɗum"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "to Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "yamiriri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mi",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-14T08:11:27.080037216Z",
+  "model": "glm-5.3"
+}

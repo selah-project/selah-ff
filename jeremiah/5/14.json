@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 5:14","book":"jeremiah","lang":"ff","chapter":5,"translation":"Sabu ɗum, ko nii Yaawe, Eloohim Sabaoth, wi'i: sabu wowlaade mon ⟨את⟩ konngol ngol, ƴeew, mi waɗata kelme am ɗen e nder hundudo maa laa yoolde, e yimɓe ɓanngu ɗoo laata leɗɗe, ɗe yoolde ndee naa ɓe.","tokens":[{"surface":"לכן","gloss":"Sabu ɗum"},{"surface":"כה","gloss":"ko nii"},{"surface":"אמר","gloss":"wi'i"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"צבאות","gloss":"Sabaoth"},{"surface":"יען","gloss":"sabu"},{"surface":"דברכם","gloss":"wowlaade mon"},{"surface":"את","gloss":"⟨את⟩","marks":"konngol ngol"},{"surface":"הדבר","gloss":"konngol ngol"},{"surface":"הזה","gloss":"ngol"},{"surface":"הנני","gloss":"ƴeew"},{"surface":"נתן","gloss":"mi waɗata"},{"surface":"דברי","gloss":"kelme am ɗen"},{"surface":"בפיך","gloss":"e nder hundudo maa"},{"surface":"לאש","gloss":"laa yoolde"},{"surface":"והעם","gloss":"e yimɓe ɓanngu ɗoo"},{"surface":"הזה","gloss":"ɓee"},{"surface":"עצים","gloss":"leɗɗe"},{"surface":"ואכלתם","gloss":"ɗe yoolde ndee naa ɓe"}],"timestamp":"2026-09-14T08:07:27.529302986Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 5:14",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Sabu ɗum, ko nii Yaawe, Eloohim Tsevaot, wi'i: sabu wowlaade mon ⟨את⟩ konngol ngol, ƴeew, mi waɗata kelme am ɗen e nder hundudo maa laa yoolde, e yimɓe ɓanngu ɗoo laata leɗɗe, ɗe yoolde ndee naa ɓe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sabu ɗum"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "דברכם",
+      "gloss": "wowlaade mon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ƴeew"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mi waɗata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kelme am ɗen"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "e nder hundudo maa"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "laa yoolde"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "e yimɓe ɓanngu ɗoo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ɓee"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "leɗɗe"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ɗe yoolde ndee naa ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:07:27.529302986Z",
+  "model": "glm-5.3"
+}

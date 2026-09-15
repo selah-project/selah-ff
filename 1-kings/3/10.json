@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-kings 3:10","book":"1-kings","lang":"ff","chapter":3,"translation":"Konngol ngol moƴƴii e gite Adonaay, sabu Shelomom ɗaɓɓunoo ⟨את⟩ konngol ngol.","tokens":[{"surface":"וייטב","gloss":"moƴƴii"},{"surface":"הדבר","gloss":"konngol ngol"},{"surface":"בעיני","gloss":"e gite"},{"surface":"אדני","gloss":"Adonaay"},{"surface":"כי","gloss":"sabu"},{"surface":"שאל","gloss":"ɗaɓɓunoo"},{"surface":"שלמה","gloss":"Shelomom"},{"surface":"את","gloss":"⟨את⟩","marks":"konngol ngol"},{"surface":"הדבר","gloss":"konngol ngol"},{"surface":"הזה","gloss":"ngol"}],"timestamp":"2026-09-14T07:10:47.119206788Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Konngol ngol moƴƴii e gite Adonaay, sabu Shelomoh ɗaɓɓunoo ⟨את⟩ konngol ngol.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "moƴƴii"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "e gite"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ɗaɓɓunoo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngol ngol"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "konngol ngol"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:47.119206788Z",
+  "model": "glm-5.3"
+}

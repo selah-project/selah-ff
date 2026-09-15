@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":47,"ref":"ezekiel 16:47","book":"ezekiel","lang":"ff","chapter":16,"translation":"Kono a yahaali e laabi maɓɓe, waɗaali kulholi maɓɓe; no ko seeɗa tan nii, a bonnii ko ɓuri ɓe e laabi maa' fof.","tokens":[{"surface":"ולא","gloss":"kono ... a yahaali"},{"surface":"בדרכיהן","gloss":"e laabi maɓɓe"},{"surface":"הלכת","gloss":"a yahaali"},{"surface":"ובתועבותיהן","gloss":"kulholi maɓɓe"},{"surface":"עשיתי","gloss":"a waɗaali"},{"surface":"כמעט","gloss":"no ko seeɗa tan"},{"surface":"קט","gloss":"seeɗa"},{"surface":"ותשחתי","gloss":"a bonnii"},{"surface":"מהן","gloss":"ko ɓuri ɓe"},{"surface":"בכל","gloss":"e ... fof"},{"surface":"דרכיך","gloss":"laabi maa'"}],"timestamp":"2026-09-14T08:40:46.151207932Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 16:47",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Kono a yahaali e laabi maɓɓe, waɗaali kulholi maɓɓe; no ko seeɗa tan nii, a bonnii ko ɓuri ɓe e laabi maa' fof.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kono... a yahaali"
+    },
+    {
+      "surface": "בדרכיהן",
+      "gloss": "e laabi maɓɓe"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "a yahaali"
+    },
+    {
+      "surface": "ובתועבותיהן",
+      "gloss": "kulholi maɓɓe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "a waɗaali"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "no ko seeɗa tan"
+    },
+    {
+      "surface": "קט",
+      "gloss": "seeɗa"
+    },
+    {
+      "surface": "ותשחתי",
+      "gloss": "a bonnii"
+    },
+    {
+      "surface": "מהן",
+      "gloss": "ko ɓuri ɓe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e... fof"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "laabi maa'"
+    }
+  ],
+  "timestamp": "2026-09-14T08:40:46.151207932Z",
+  "model": "glm-5.3"
+}

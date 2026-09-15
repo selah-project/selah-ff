@@ -1,1 +1,77 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "deuteronomy 28:14", "book": "deuteronomy", "lang": "ff", "chapter": 28, "translation": "wanaa ⟨את⟩ on dippoto e konngi ɗin fof, ɗi mi njamirirta on hannde, ñaamo walla nano, fii yahde caggal Eloohim goɗɗi, fii gollude ɓe.", "tokens": [{"surface": "ולא", "gloss": "wanaa"}, {"surface": "תסור", "gloss": "on dippoto"}, {"surface": "מכל", "gloss": "e ... fof"}, {"surface": "הדברים", "gloss": "konngi ɗin"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "אנכי", "gloss": "mi"}, {"surface": "מצוה", "gloss": "njamirirta"}, {"surface": "אתכם", "gloss": "⟨את⟩ on"}, {"surface": "היום", "gloss": "hannde"}, {"surface": "ימין", "gloss": "ñaamo"}, {"surface": "ושמאול", "gloss": "walla nano"}, {"surface": "ללכת", "gloss": "fii yahde"}, {"surface": "אחרי", "gloss": "caggal"}, {"surface": "אלהים", "gloss": "Eloohim"}, {"surface": "אחרים", "gloss": "goɗɗi"}, {"surface": "לעבדם", "gloss": "fii gollude ɓe"}], "timestamp": "2026-09-14T06:04:21.306971183Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "wanaa ⟨את⟩ on dippoto e konngi ɗin fof, ɗi mi njamirirta on hannde, ñaamo walla nano, fii yahde caggal Eloohim goɗɗi, fii gollude ɓe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "on dippoto"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e... fof"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "njamirirta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ on"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hannde"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ñaamo"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "walla nano"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "fii yahde"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "caggal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "goɗɗi"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "fii gollude ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:04:21.306971183Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"numbers 32:4","book":"numbers","lang":"ff","chapter":32,"translation":"leydi ndi Yaawe fiyi yeeso delluɗe Yisraa'el, leydi mooddi ⟨ko⟩ ndi, e jeyaaɓe maa mooddi ngoni.","tokens":[{"surface":"הארץ","gloss":"leydi ndi"},{"surface":"אשר","gloss":"ndi"},{"surface":"הכה","gloss":"fiyi"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"לפני","gloss":"yeeso"},{"surface":"עדת","gloss":"delluɗe"},{"surface":"ישראל","gloss":"Yisraa'el"},{"surface":"ארץ","gloss":"leydi"},{"surface":"מקנה","gloss":"mooddi"},{"surface":"הוא","gloss":"ko ndi"},{"surface":"ולעבדיך","gloss":"e jeyaaɓe maa"},{"surface":"מקנה","gloss":"mooddi"}],"timestamp":"2026-09-14T05:50:03.475180850Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 32:4",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "leydi ndi Yaawe fiyi yeeso delluɗe Israa'iil, leydi mooddi ⟨ko⟩ ndi, e jeyaaɓe maa mooddi ngoni.",
+  "tokens": [
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "fiyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "delluɗe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mooddi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko ndi"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "e jeyaaɓe maa"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mooddi"
+    }
+  ],
+  "timestamp": "2026-09-14T05:50:03.475180850Z",
+  "model": "glm-5.3"
+}

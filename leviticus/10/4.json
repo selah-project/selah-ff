@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "leviticus 10:4", "book": "leviticus", "lang": "ff", "chapter": 10, "translation": "Mosheh noddii Miishaael e Eltsaafan, ɓiɓɓe Uuzziyel, miñiiko baaba Aharon, o wi'i ɓe: Ɓadee, ƴettu ⟨את⟩ miñiraaɓe mon ɓen ⟨את⟩ ummoraade yeeso senaande nden, yoɓe woŋŋa kaŋŋe to ladde kaampaŋŋa nde.", "tokens": [{"surface": "ויקרא", "gloss": "noddii"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "אל", "gloss": "to"}, {"surface": "מישאל", "gloss": "Miishaael"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "אלצפן", "gloss": "Eltsaafan"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "עזיאל", "gloss": "Uuzziyel"}, {"surface": "דד", "gloss": "miñiiko baaba"}, {"surface": "אהרן", "gloss": "Aharon"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "אלהם", "gloss": "ɓe"}, {"surface": "קרבו", "gloss": "ɓadee"}, {"surface": "שאו", "gloss": "ƴettu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "miñiraaɓe mon ɓen"}, {"surface": "אחיכם", "gloss": "miñiraaɓe mon ɓen"}, {"surface": "מאת", "gloss": "⟨את⟩ ummoraade"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "הקדש", "gloss": "senaande nden"}, {"surface": "אל", "gloss": "to"}, {"surface": "מחוץ", "gloss": "woŋŋa kaŋŋe"}, {"surface": "למחנה", "gloss": "ladde kaampaŋŋa nde"}], "timestamp": "2026-09-14T11:39:29.715594075Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 10:4",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Moshe noddii Miishaael e Eltsaafan, ɓiɓɓe Uuzziyel, miñiiko baaba Aharon, o wi'i ɓe: Ɓadee, ƴettu ⟨את⟩ miñiraaɓe mon ɓen ⟨את⟩ ummoraade yeeso senaande nden, yoɓe woŋŋa kaŋŋe to ladde kaampaŋŋa nde.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Miishaael"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "אלצפן",
+      "gloss": "Eltsaafan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uuzziyel"
+    },
+    {
+      "surface": "דד",
+      "gloss": "miñiiko baaba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ɓadee"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ƴettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miñiraaɓe mon ɓen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "miñiraaɓe mon ɓen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ummoraade"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "senaande nden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "woŋŋa kaŋŋe"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ladde kaampaŋŋa nde"
+    }
+  ],
+  "timestamp": "2026-09-14T11:39:29.715594075Z",
+  "model": "glm-5.3"
+}

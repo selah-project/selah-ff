@@ -1,1 +1,99 @@
-{"tier": "glm-5.2", "verse": 27, "ref": "genesis 45:27", "book": "genesis", "lang": "ff", "chapter": 45, "translation": "Ɓe kaalaani ⟨את⟩ mo konnguɗi Yoosëf ɗin ⟨את⟩ fof ɗi o wi'i ɓe; o yi'i kadi ⟨את⟩ pucci-geɗe ɗe Yoosëf neldi ngowaddude mo — ruuhu Yaakob baaba maɓɓe wuuriiti.", "tokens": [{"surface": "וידברו", "gloss": "ɓe kaalaani"}, {"surface": "אליו", "gloss": "mo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konnguɗi ɗin fof"}, {"surface": "כל", "gloss": "fof"}, {"surface": "דברי", "gloss": "konnguɗi"}, {"surface": "יוסף", "gloss": "Yoosëf"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "דבר", "gloss": "o wi'i"}, {"surface": "אלהם", "gloss": "ɓe"}, {"surface": "וירא", "gloss": "o yi'i"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "pucci-geɗe ɗen"}, {"surface": "העגלות", "gloss": "pucci-geɗe ɗen"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "שלח", "gloss": "neldi"}, {"surface": "יוסף", "gloss": "Yoosëf"}, {"surface": "לשאת", "gloss": "ngowaddude"}, {"surface": "אתו", "gloss": "⟨את⟩ mo"}, {"surface": "ותחי", "gloss": "wuuriiti"}, {"surface": "רוח", "gloss": "ruuhu"}, {"surface": "יעקב", "gloss": "Yaakob"}, {"surface": "אביהם", "gloss": "baaba maɓɓe"}], "timestamp": "2026-09-14T04:53:13.988767298Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 45:27",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 45,
+  "translation": "Ɓe kaalaani ⟨את⟩ mo konnguɗi Yoseef ɗin ⟨את⟩ fof ɗi o wi'i ɓe; o yi'i kadi ⟨את⟩ pucci-geɗe ɗe Yoseef neldi ngowaddude mo — ruuhu Ya'aqob baaba maɓɓe wuuriiti.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe kaalaani"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnguɗi ɗin fof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konnguɗi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "o yi'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucci-geɗe ɗen"
+    },
+    {
+      "surface": "העגלות",
+      "gloss": "pucci-geɗe ɗen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ngowaddude"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "wuuriiti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruuhu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "baaba maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:53:13.988767298Z",
+  "model": "glm-5.3"
+}

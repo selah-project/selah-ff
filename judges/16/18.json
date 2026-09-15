@@ -1,1 +1,127 @@
-{"tier": "glm-5.2", "verse": 18, "ref": "judges 16:18", "book": "judges", "lang": "ff", "chapter": 16, "translation": "Nde Delila yi'i o winndii mo ɓernde mun ⟨את⟩ fuu, o neldi, o noddi sarwaaɓe Filistina enɓe, o wi'a: \"Yuɓɓit-ɗen ɗoo sahaa, wano o winndii am ɓernde mun ⟨את⟩ fuu.\" Sarwaaɓe Filistina enɓe yuɓɓi faade e makko, ɓe addi kaalis on e junnde maɓɓe.", "tokens": [{"surface": "ותרא", "gloss": "Nde ... yi'i"}, {"surface": "דלילה", "gloss": "Delila"}, {"surface": "כי", "gloss": "wano"}, {"surface": "הגיד", "gloss": "o winndii"}, {"surface": "לה", "gloss": "mo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓernde mun fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "לבו", "gloss": "ɓernde mun"}, {"surface": "ותשלח", "gloss": "o neldi"}, {"surface": "ותקרא", "gloss": "o noddi"}, {"surface": "לסרני", "gloss": "sarwaaɓe"}, {"surface": "פלשתים", "gloss": "Filistina enɓe"}, {"surface": "לאמר", "gloss": "o wi'a"}, {"surface": "עלו", "gloss": "yuɓɓit-ɗen"}, {"surface": "הפעם", "gloss": "ɗoo sahaa"}, {"surface": "כי", "gloss": "wano"}, {"surface": "הגיד", "gloss": "o winndii"}, {"surface": "לה", "gloss": "am"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓernde mun fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "לבו", "gloss": "ɓernde mun"}, {"surface": "ועלו", "gloss": "yuɓɓi"}, {"surface": "אליה", "gloss": "faade e makko"}, {"surface": "סרני", "gloss": "sarwaaɓe"}, {"surface": "פלשתים", "gloss": "Filistina enɓe"}, {"surface": "ויעלו", "gloss": "ɓe addi"}, {"surface": "הכסף", "gloss": "kaalis on"}, {"surface": "בידם", "gloss": "e junnde maɓɓe"}], "timestamp": "2026-09-14T06:34:07.291111257Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 16:18",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Nde Delila yi'i o winndii mo ɓernde mun ⟨את⟩ fuu, o neldi, o noddi sarwaaɓe Filistina enɓe, o wi'a: \"Yuɓɓit-ɗen ɗoo sahaa, wano o winndii am ɓernde mun ⟨את⟩ fuu.\" Sarwaaɓe Filistina enɓe yuɓɓi faade e makko, ɓe addi kaalis on e junnde maɓɓe.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Nde... yi'i"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "Delila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wano"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "o winndii"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "o noddi"
+    },
+    {
+      "surface": "לסרני",
+      "gloss": "sarwaaɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina enɓe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o wi'a"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "yuɓɓit-ɗen"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ɗoo sahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wano"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "o winndii"
+    },
+    {
+      "surface": "לה",
+      "gloss": "am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓernde mun fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ɓernde mun"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "yuɓɓi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "faade e makko"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarwaaɓe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina enɓe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ɓe addi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kaalis on"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "e junnde maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:34:07.291111257Z",
+  "model": "glm-5.3"
+}

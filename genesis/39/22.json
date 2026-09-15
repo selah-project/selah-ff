@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":22,"ref":"genesis 39:22","book":"genesis","lang":"ff","chapter":39,"translation":"Hooreejo suudu kasoo ndin wakkili e junngo Yuusufa ⟨את⟩ kala nanngaaɓe ɓe ngonnoo e suudu kasoo ndin, e ⟨את⟩ kala huunde ɓe mbaɗata to ɗon, ko kanko wonnoo waɗoowo mayre.","tokens":[{"surface":"ויתן","gloss":"wakkili"},{"surface":"שר","gloss":"hooreejo"},{"surface":"בית","gloss":"suudu"},{"surface":"הסהר","gloss":"kasoo"},{"surface":"ביד","gloss":"e junngo"},{"surface":"יוסף","gloss":"Yuusufa"},{"surface":"את","gloss":"⟨את⟩","marks":"kala nanngaaɓe"},{"surface":"כל","gloss":"kala"},{"surface":"האסירם","gloss":"nanngaaɓe ɓen"},{"surface":"אשר","gloss":"ɗi"},{"surface":"בבית","gloss":"e suudu"},{"surface":"הסהר","gloss":"kasoo"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"kala huunde"},{"surface":"כל","gloss":"kala"},{"surface":"אשר","gloss":"huunde"},{"surface":"עשים","gloss":"ɓe mbaɗata"},{"surface":"שם","gloss":"to ɗon"},{"surface":"הוא","gloss":"ko kanko"},{"surface":"היה","gloss":"wonnoo"},{"surface":"עשה","gloss":"waɗoowo mayre"}],"timestamp":"2026-09-14T04:49:01.964742602Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Hooreejo suudu kasoo ndin wakkili e junngo Yoseef ⟨את⟩ kala nanngaaɓe ɓe ngonnoo e suudu kasoo ndin, e ⟨את⟩ kala huunde ɓe mbaɗata to ɗon, ko kanko wonnoo waɗoowo mayre.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wakkili"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kasoo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e junngo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala nanngaaɓe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "nanngaaɓe ɓen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kasoo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "kala huunde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "huunde"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ɓe mbaɗata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "to ɗon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗoowo mayre"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:01.964742602Z",
+  "model": "glm-5.3"
+}

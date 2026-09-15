@@ -1,1 +1,63 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "genesis 21:4", "book": "genesis", "lang": "ff", "chapter": 21, "translation": "Awraham sunnii ⟨את⟩ Isaaqa ɓiɗɗo mun, ɓiɗɗo balɗe jeegom, hono ⟨את⟩ Eloohim amariri mo.", "tokens": [{"surface": "וימל", "gloss": "sunnii"}, {"surface": "אברהם", "gloss": "Awraham"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Isaaqa"}, {"surface": "יצחק", "gloss": "Isaaqa"}, {"surface": "בנו", "gloss": "ɓiɗɗo mun"}, {"surface": "בן", "gloss": "ɓiɗɗo"}, {"surface": "שמנת", "gloss": "jeegom"}, {"surface": "ימים", "gloss": "balɗe"}, {"surface": "כאשר", "gloss": "hono"}, {"surface": "צוה", "gloss": "amariri"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "אלהים", "gloss": "Eloohim"}], "timestamp": "2026-09-14T04:39:57.400529332Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Awraham sunnii ⟨את⟩ Yitshaq ɓiɗɗo mun, ɓiɗɗo balɗe jeegom, hono ⟨את⟩ Eloohim amariri mo.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "sunnii"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isaaqa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ɓiɗɗo mun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiɗɗo"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "jeegom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amariri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloohim"
+    }
+  ],
+  "timestamp": "2026-09-14T04:39:57.400529332Z",
+  "model": "glm-5.3"
+}

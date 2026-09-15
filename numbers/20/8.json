@@ -1,1 +1,117 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "numbers 20:8", "book": "numbers", "lang": "ff", "chapter": 20, "translation": "Jooɗo ⟨את⟩ laana nden, kawtin ⟨את⟩ kawtal ngal — a e Haarun miiraa maaɗa —, haalanee heege ngee yeeso maɓɓe, nde immintinoyoy ndiyam mun, yaltin min ndiyam ummoraade heege ngee, ndaaran ⟨את⟩ kawtal ngal e ⟨את⟩ na'i maɓɓe.", "tokens": [{"surface": "קח", "gloss": "jooɗo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "laana nden"}, {"surface": "המטה", "gloss": "laana nden"}, {"surface": "והקהל", "gloss": "kawtin"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kawtal ngal"}, {"surface": "העדה", "gloss": "kawtal ngal"}, {"surface": "אתה", "gloss": "a"}, {"surface": "ואהרן", "gloss": "e Haarun"}, {"surface": "אחיך", "gloss": "miiraa maaɗa"}, {"surface": "ודברתם", "gloss": "haalanee"}, {"surface": "אל", "gloss": "e"}, {"surface": "הסלע", "gloss": "heege ngee"}, {"surface": "לעיניהם", "gloss": "yeeso maɓɓe"}, {"surface": "ונתן", "gloss": "nde immintinoyoy"}, {"surface": "מימיו", "gloss": "ndiyam mun"}, {"surface": "והוצאת", "gloss": "yaltin"}, {"surface": "להם", "gloss": "min"}, {"surface": "מים", "gloss": "ndiyam"}, {"surface": "מן", "gloss": "ummoraade"}, {"surface": "הסלע", "gloss": "heege ngee"}, {"surface": "והשקית", "gloss": "ndaaran"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kawtal ngal"}, {"surface": "העדה", "gloss": "kawtal ngal"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "na'i maɓɓe"}, {"surface": "בעירם", "gloss": "na'i maɓɓe"}], "timestamp": "2026-09-14T05:43:22.293038114Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 20:8",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Jooɗo ⟨את⟩ laana nden, kawtin ⟨את⟩ kawtal ngal — a e Aharon miiraa maaɗa —, haalanee heege ngee yeeso maɓɓe, nde immintinoyoy ndiyam mun, yaltin min ndiyam ummoraade heege ngee, ndaaran ⟨את⟩ kawtal ngal e ⟨את⟩ na'i maɓɓe.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "jooɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laana nden"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "laana nden"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "kawtin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawtal ngal"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kawtal ngal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "e Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "miiraa maaɗa"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "haalanee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "heege ngee"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "yeeso maɓɓe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "nde immintinoyoy"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ndiyam mun"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "yaltin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "min"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ummoraade"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "heege ngee"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ndaaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawtal ngal"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kawtal ngal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "na'i maɓɓe"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "na'i maɓɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:43:22.293038114Z",
+  "model": "glm-5.3"
+}

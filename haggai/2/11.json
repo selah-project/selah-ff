@@ -1,1 +1,54 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "haggai 2:11", "book": "haggai", "lang": "ff", "chapter": 2, "translation": "Ko nii Yaawe Saba'ot wi'i: naamnoo, mi ŋakku, ⟨את⟩ calaafoɗɓe ɓen ɗaɓɓu Tora, wata mbi'aa.", "tokens": [{"surface": "כה", "gloss": "Ko nii"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "Saba'ot"}, {"surface": "שאל", "gloss": "naamnoo"}, {"surface": "נא", "gloss": "mi ŋakku"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "calaafoɗɓe ɓen"}, {"surface": "הכהנים", "gloss": "calaafoɗɓe ɓen"}, {"surface": "תורה", "gloss": "Tora"}, {"surface": "לאמר", "gloss": "wata mbi'aa"}], "timestamp": "2026-09-14T09:11:15.378700563Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ko nii Yaawe Tsevaot wi'i: naamnoo, mi ŋakku, ⟨את⟩ calaafoɗɓe ɓen ɗaɓɓu Tora, wata mbi'aa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "naamnoo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mi ŋakku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "calaafoɗɓe ɓen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "calaafoɗɓe ɓen"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wata mbi'aa"
+    }
+  ],
+  "timestamp": "2026-09-14T09:11:15.378700563Z",
+  "model": "glm-5.3"
+}

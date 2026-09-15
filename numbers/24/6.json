@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":6,"ref":"numbers 24:6","book":"numbers","lang":"ff","chapter":24,"translation":"Ndiyo koŋe, ɓe yaajninaama; ndiyo jarneje daande maayo; ndiyo lekki aloe ɗe Yaawe ngesii ; ndiyo cedarje daande ndiyam.","tokens":[{"surface":"כנחלים","gloss":"ndiyo koŋe"},{"surface":"נטיו","gloss":"ɓe yaajninaama"},{"surface":"כגנת","gloss":"ndiyo jarneje"},{"surface":"עלי","gloss":"daande"},{"surface":"נהר","gloss":"maayo"},{"surface":"כאהלים","gloss":"ndiyo lekki aloe"},{"surface":"נטע","gloss":"ngesii"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"כארזים","gloss":"ndiyo cedarje"},{"surface":"עלי","gloss":"daande"},{"surface":"מים","gloss":"ndiyam"}],"timestamp":"2026-09-14T18:57:08.979142034Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 24:6",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Ndiyo koŋe, ɓe yaajninaama; ndiyo jarneje daande maayo; ndiyo lekki aloe ɗe Yaawe ngesii; ndiyo cedarje daande ndiyam.",
+  "tokens": [
+    {
+      "surface": "כנחלים",
+      "gloss": "ndiyo koŋe"
+    },
+    {
+      "surface": "נטיו",
+      "gloss": "ɓe yaajninaama"
+    },
+    {
+      "surface": "כגנת",
+      "gloss": "ndiyo jarneje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כאהלים",
+      "gloss": "ndiyo lekki aloe"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ngesii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כארזים",
+      "gloss": "ndiyo cedarje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "daande"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ndiyam"
+    }
+  ],
+  "timestamp": "2026-09-14T18:57:08.979142034Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,123 @@
-{"tier": "glm-5.2", "verse": 32, "ref": "numbers 13:32", "book": "numbers", "lang": "ff", "chapter": 13, "translation": "Ɓe njaltini fenaare ⟨את⟩ leydi ndin ɓe ndaarnoo ndi ⟨את⟩ faade e ɓiɓɓe Israai'iil, ɓe mbi'a: Leydi ndi min nbarti ndi ngam ndaarde ndi, ko leydi ñamminooɓe hoɗɓe mun; yimɓe fuu ɓe min ndiiri nder mum ene waɗi worɓe dimɗinɓe.", "tokens": [{"surface": "ויוציאו", "gloss": "Ɓe njaltini"}, {"surface": "דבת", "gloss": "fenaare"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "תרו", "gloss": "ndaarnoo"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "ndi"}, {"surface": "אל", "gloss": "faade e"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israai'iil"}, {"surface": "לאמר", "gloss": "ɓe mbi'a"}, {"surface": "הארץ", "gloss": "Leydi ndin"}, {"surface": "אשר", "gloss": "ndi"}, {"surface": "עברנו", "gloss": "min nbarti"}, {"surface": "בה", "gloss": "nder ndi"}, {"surface": "לתור", "gloss": "ngam ndaarde"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "ndi"}, {"surface": "ארץ", "gloss": "leydi"}, {"surface": "אכלת", "gloss": "ñamminooɓe"}, {"surface": "יושביה", "gloss": "hoɗɓe mun"}, {"surface": "הוא", "gloss": "ko"}, {"surface": "וכל", "gloss": "yimɓe fuu"}, {"surface": "העם", "gloss": "ɓe"}, {"surface": "אשר", "gloss": "ɓe"}, {"surface": "ראינו", "gloss": "min ndiiri"}, {"surface": "בתוכה", "gloss": "nder mum"}, {"surface": "אנשי", "gloss": "worɓe"}, {"surface": "מדות", "gloss": "dimɗinɓe"}], "timestamp": "2026-09-14T05:40:18.573421633Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 13:32",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 13,
+  "translation": "Ɓe njaltini fenaare ⟨את⟩ leydi ndin ɓe ndaarnoo ndi ⟨את⟩ faade e ɓiɓɓe Israa'iil, ɓe mbi'a: Leydi ndi min nbarti ndi ngam ndaarde ndi, ko leydi ñamminooɓe hoɗɓe mun; yimɓe fuu ɓe min ndiiri nder mum ene waɗi worɓe dimɗinɓe.",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "Ɓe njaltini"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "fenaare"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "תרו",
+      "gloss": "ndaarnoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faade e"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe mbi'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Leydi ndin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndi"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "min nbarti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nder ndi"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ngam ndaarde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ñamminooɓe"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "hoɗɓe mun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yimɓe fuu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "min ndiiri"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "nder mum"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "dimɗinɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:40:18.573421633Z",
+  "model": "glm-5.3"
+}

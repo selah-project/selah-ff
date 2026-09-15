@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":12,"ref":"1-kings 3:12","book":"1-kings","lang":"ff","chapter":3,"translation":"Ƴeew, mi waɗii no konngu-maa nii; Ƴeew, mi ndokkii maa ɓernde haajunde e faamuɗo, tawa hay gooto hono maa woodaano yeeso maa, caggal maa kadi hay gooto hono maa ummotoo.","tokens":[{"surface":"הנה","gloss":"Ƴeew"},{"surface":"עשיתי","gloss":"mi waɗii"},{"surface":"כדבריך","gloss":"no konngu-maa nii"},{"surface":"הנה","gloss":"Ƴeew"},{"surface":"נתתי","gloss":"mi ndokkii"},{"surface":"לך","gloss":"maa"},{"surface":"לב","gloss":"ɓernde"},{"surface":"חכם","gloss":"haajunde"},{"surface":"ונבון","gloss":"faamuɗo"},{"surface":"אשר","gloss":"tawa"},{"surface":"כמוך","gloss":"hono maa"},{"surface":"לא","gloss":"haya gooto ... woodaano"},{"surface":"היה","gloss":"woodi"},{"surface":"לפניך","gloss":"yeeso maa"},{"surface":"ואחריך","gloss":"caggal maa kadi"},{"surface":"לא","gloss":"haya gooto"},{"surface":"יקום","gloss":"ummatoo"},{"surface":"כמוך","gloss":"hono maa"}],"timestamp":"2026-09-14T07:10:47.120240359Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ƴeew, mi waɗii no konngu-maa nii; Ƴeew, mi ndokkii maa ɓernde haajunde e faamuɗo, tawa hay gooto hono maa woodaano yeeso maa, caggal maa kadi hay gooto hono maa ummotoo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mi waɗii"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "no konngu-maa nii"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ƴeew"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mi ndokkii"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "haajunde"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "faamuɗo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hono maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haya gooto... woodaano"
+    },
+    {
+      "surface": "היה",
+      "gloss": "woodi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yeeso maa"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "caggal maa kadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "haya gooto"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ummatoo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hono maa"
+    }
+  ],
+  "timestamp": "2026-09-14T07:10:47.120240359Z",
+  "model": "glm-5.3"
+}

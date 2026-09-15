@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"hosea 5:15","book":"hosea","lang":"ff","chapter":5,"translation":"Mi yahata, mi artata to nokkuure Am, haa ɓe jaɓa wonde ɓe bakkaatii, ɓe ɗaɓɓira tonngoode Am; e musiiba maɓɓe ɓe mari mi subaka-subaka.","tokens":[{"surface":"אלך","gloss":"Mi yahata"},{"surface":"אשובה","gloss":"mi artata"},{"surface":"אל","gloss":"to"},{"surface":"מקומי","gloss":"nokkuure Am"},{"surface":"עד","gloss":"haa"},{"surface":"אשר","gloss":""},{"surface":"יאשמו","gloss":"ɓe jaɓa wonde ɓe bakkaatii"},{"surface":"ובקשו","gloss":"ɓe ɗaɓɓira"},{"surface":"פני","gloss":"tonngoode Am"},{"surface":"בצר","gloss":"e musiiba maɓɓe"},{"surface":"להם","gloss":"maɓɓe"},{"surface":"ישחרנני","gloss":"ɓe mari mi subaka-subaka"}],"timestamp":"2026-09-14T08:57:04.636527053Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 5,
+  "translation": "Mi yahata, mi artata to nokkuure am, haa ɓe jaɓa wonde ɓe bakkaatii, ɓe ɗaɓɓira tonngoode am; e musiiba maɓɓe ɓe mari mi subaka-subaka.",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "Mi yahata"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "mi artata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "nokkuure am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ɓe jaɓa wonde ɓe bakkaatii"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ɓe ɗaɓɓira"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tonngoode am"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "e musiiba maɓɓe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maɓɓe"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ɓe mari mi subaka-subaka"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:04.636527053Z",
+  "model": "glm-5.3"
+}

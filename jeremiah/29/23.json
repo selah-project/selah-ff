@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":23,"ref":"jeremiah 29:23","book":"jeremiah","lang":"ff","chapter":29,"translation":"Sababu ɓe mbaɗii bonannde e Yisraayel, ɓe ɓeŋtinaali ⟨את⟩ rewɓe sehilaaɓe maɓɓe, ɓe wi'i kadi konngol e innde am ɗeɗtiri, ko mi ɗaɓɓiraani ɓe; kanko mi anndi, kadi mi woni seedo — naamuske Yaawe.","tokens":[{"surface":"יען","gloss":"sababu"},{"surface":"אשר","gloss":""},{"surface":"עשו","gloss":"ɓe mbaɗii"},{"surface":"נבלה","gloss":"bonannde"},{"surface":"בישראל","gloss":"e Yisraayel"},{"surface":"וינאפו","gloss":"ɓe ɓeŋtinaali"},{"surface":"את","gloss":"⟨את⟩","marks":"rewɓe sehilaaɓe maɓɓe"},{"surface":"נשי","gloss":"rewɓe"},{"surface":"רעיהם","gloss":"sehilaaɓe maɓɓe"},{"surface":"וידברו","gloss":"ɓe wi'i kadi"},{"surface":"דבר","gloss":"konngol"},{"surface":"בשמי","gloss":"e innde am"},{"surface":"שקר","gloss":"ɗeɗtiri"},{"surface":"אשר","gloss":"ko"},{"surface":"לוא","gloss":"ala"},{"surface":"צויתם","gloss":"mi ɗaɓɓiraani ɓe"},{"surface":"ואנכי","gloss":"kanko mi"},{"surface":"הו","gloss":""},{"surface":"ידע","gloss":"anndi"},{"surface":"ועד","gloss":"kadi mi woni seedo"},{"surface":"נאם","gloss":"naamuske"},{"surface":"יהוה","gloss":"Yaawe"}],"timestamp":"2026-09-14T08:19:00.240583570Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 29:23",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Sababu ɓe mbaɗii bonannde e Israa'iil, ɓe ɓeŋtinaali ⟨את⟩ rewɓe sehilaaɓe maɓɓe, ɓe wi'i kadi konngol e innde am ɗeɗtiri, ko mi ɗaɓɓiraani ɓe; kanko mi anndi, kadi mi woni seedo — naamuske Yaawe.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sababu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ɓe mbaɗii"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bonannde"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e Israa'iil"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "ɓe ɓeŋtinaali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe sehilaaɓe maɓɓe"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "sehilaaɓe maɓɓe"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe wi'i kadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "konngol"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "e innde am"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ɗeɗtiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ala"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "mi ɗaɓɓiraani ɓe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "הו",
+      "gloss": ""
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kadi mi woni seedo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "naamuske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:19:00.240583570Z",
+  "model": "glm-5.3"
+}

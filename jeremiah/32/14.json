@@ -1,1 +1,125 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "jeremiah 32:14", "book": "jeremiah", "lang": "ff", "chapter": 32, "translation": "Ko non Yaawe Sabaot, Eloohim Yisraayel, wi'i: Ƴettu ⟨את⟩ defte ɗen, ⟨את⟩ deftere nden jawleindi nden, ⟨את⟩ nde okayiri nden e ⟨את⟩ deftere nden udditiri nden, waɗu ɗum e nder wutte lelldu, fii no ɗe darii duuɓi keewɗi.", "tokens": [{"surface": "כה", "gloss": "Ko non"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "Sabaot"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Yisraayel"}, {"surface": "לקוח", "gloss": "Ƴettu"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "defte ɗen"}, {"surface": "הספרים", "gloss": "defte ɗen"}, {"surface": "האלה", "gloss": "ɗen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "deftere jawleindi nden"}, {"surface": "ספר", "gloss": "deftere"}, {"surface": "המקנה", "gloss": "jawleindi"}, {"surface": "הזה", "gloss": "nden"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "nde okayiri nden"}, {"surface": "החתום", "gloss": "nde okayiri"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "deftere udditiri nden"}, {"surface": "ספר", "gloss": "deftere"}, {"surface": "הגלוי", "gloss": "dditiri"}, {"surface": "הזה", "gloss": "nden"}, {"surface": "ונתתם", "gloss": "waɗu ɗum"}, {"surface": "בכלי", "gloss": "e nder wutte"}, {"surface": "חרש", "gloss": "lelldu"}, {"surface": "למען", "gloss": "fii no"}, {"surface": "יעמדו", "gloss": "ɗe darii"}, {"surface": "ימים", "gloss": "duuɓi"}, {"surface": "רבים", "gloss": "keewɗi"}], "timestamp": "2026-09-14T08:20:18.029272907Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 32:14",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 32,
+  "translation": "Ko non Yaawe Tsevaot, Eloohim Israa'iil, wi'i: Ƴettu ⟨את⟩ defte ɗen, ⟨את⟩ deftere nden jawleindi nden, ⟨את⟩ nde okayiri nden e ⟨את⟩ deftere nden udditiri nden, waɗu ɗum e nder wutte lelldu, fii no ɗe darii duuɓi keewɗi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko non"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "Ƴettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "defte ɗen"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "defte ɗen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deftere jawleindi nden"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "jawleindi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "nde okayiri nden"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "nde okayiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "deftere udditiri nden"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "deftere"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "dditiri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nden"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "waɗu ɗum"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "e nder wutte"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "lelldu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fii no"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ɗe darii"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "duuɓi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "keewɗi"
+    }
+  ],
+  "timestamp": "2026-09-14T08:20:18.029272907Z",
+  "model": "glm-5.3"
+}

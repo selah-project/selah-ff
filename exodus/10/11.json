@@ -1,1 +1,83 @@
-{"tier": "glm-5.2", "verse": 11, "ref": "exodus 10:11", "book": "exodus", "lang": "ff", "chapter": 10, "translation": "« Alaa, wano noon: yahon nacco, worɓe ɓen, naflon ⟨את⟩ Yaawe ⟨את⟩, fimmini ⟨את⟩ ko ɗum ɗon luaa. » O ɓooyi walla o podi ɓe ⟨את⟩ e yeeso Parʿo.", "tokens": [{"surface": "לא", "gloss": "alaa"}, {"surface": "כן", "gloss": "wano noon"}, {"surface": "לכו", "gloss": "yahon"}, {"surface": "נא", "gloss": "nacco"}, {"surface": "הגברים", "gloss": "worɓe ɓen"}, {"surface": "ועבדו", "gloss": "naflon"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "כי", "gloss": "fimmini"}, {"surface": "אתה", "gloss": "⟨את⟩ ko ɗum"}, {"surface": "אתם", "gloss": "on"}, {"surface": "מבקשים", "gloss": "ɗon luaa"}, {"surface": "ויגרש", "gloss": "o podi ɓe"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "מאת", "gloss": "⟨את⟩ e"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "פרעה", "gloss": "Parʿo"}], "timestamp": "2026-09-14T04:58:54.473631319Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "«Alaa, wano noon: yahon nacco, worɓe ɓen, naflon ⟨את⟩ Yaawe ⟨את⟩, fimmini ⟨את⟩ ko ɗum ɗon luaa. » o ɓooyi walla o podi ɓe ⟨את⟩ e yeeso Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "wano noon"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "yahon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nacco"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "worɓe ɓen"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "naflon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fimmini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ko ɗum"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ɗon luaa"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "o podi ɓe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-14T04:58:54.473631319Z",
+  "model": "glm-5.3"
+}

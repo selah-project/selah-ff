@@ -1,1 +1,138 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "1-samuel 21:10", "book": "1-samuel", "lang": "ff", "chapter": 21, "translation": "Kohel on wi'i: Gelaawu Golyat Palistiniyanke on, mo fiyii-ɗaa e nder ɓural Elah, ɗoo ko — lomtinaa e comci ɓaawo efod on; si ⟨אתה⟩ ⟨את⟩ jogorii to maa, jogor; fii goo woodaani so wonde mayre ɗoo. Dawidi wi'i: woodaani nannduɗe e mayre; ndokku lam.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "הכהן", "gloss": "kohel on"}, {"surface": "חרב", "gloss": "gelaawu"}, {"surface": "גלית", "gloss": "Golyat"}, {"surface": "הפלשתי", "gloss": "Palistiniyanke on"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "הכית", "gloss": "fiyii-ɗaa"}, {"surface": "בעמק", "gloss": "e nder ɓural"}, {"surface": "האלה", "gloss": "Elah"}, {"surface": "הנה", "gloss": "ɗoo"}, {"surface": "היא", "gloss": "ko"}, {"surface": "לוטה", "gloss": "lomtinaa"}, {"surface": "בשמלה", "gloss": "e comci"}, {"surface": "אחרי", "gloss": "ɓaawo"}, {"surface": "האפוד", "gloss": "efod on"}, {"surface": "אם", "gloss": "si"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "jogor — naatnugol gelaawu Golyat ngun"}, {"surface": "תקח", "gloss": "jogor"}, {"surface": "לך", "gloss": "to maa"}, {"surface": "קח", "gloss": "jogor"}, {"surface": "כי", "gloss": "fii"}, {"surface": "אין", "gloss": "woodaani"}, {"surface": "אחרת", "gloss": "goo"}, {"surface": "זולתה", "gloss": "so wonde mayre"}, {"surface": "בזה", "gloss": "ɗoo"}, {"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "דוד", "gloss": "Dawidi"}, {"surface": "אין", "gloss": "woodaani"}, {"surface": "כמוה", "gloss": "nannduɗe e mayre"}, {"surface": "תננה", "gloss": "ndokku"}, {"surface": "לי", "gloss": "lam"}], "timestamp": "2026-09-14T06:50:42.957762157Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 21:10",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kohel on wi'i: Gelaawu Golyat Palistiniyanke on, mo fiyii-ɗaa e nder ɓural Elah, ɗoo ko — lomtinaa e comci ɓaawo efod on; si ⟨את⟩ jogorii to maa, jogor; fii goo woodaani so wonde mayre ɗoo. Daawuudi wi'i: woodaani nannduɗe e mayre; ndokku lam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohel on"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gelaawu"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Palistiniyanke on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "fiyii-ɗaa"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "e nder ɓural"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לוטה",
+      "gloss": "lomtinaa"
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": "e comci"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jogor — naatnugol gelaawu Golyat ngun"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "jogor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "to maa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "jogor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fii"
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "goo"
+    },
+    {
+      "surface": "זולתה",
+      "gloss": "so wonde mayre"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "woodaani"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "nannduɗe e mayre"
+    },
+    {
+      "surface": "תננה",
+      "gloss": "ndokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lam"
+    }
+  ],
+  "timestamp": "2026-09-14T06:50:42.957762157Z",
+  "model": "glm-5.3"
+}

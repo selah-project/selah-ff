@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 24, "ref": "isaiah 44:24", "book": "isaiah", "lang": "ff", "chapter": 44, "translation": "Ko noon Yaawe wi'i, Nannginoo-do maa, ko kaŋŋe tagi-maaɗa gila e reedu: ko miin woni Yaawe, waɗo kala huunde, longuɗo kammuuli e hoore ⟨את⟩ Am tan, balbalu-do leydi ndi — ko hommbo woni Am?", "tokens": [{"surface": "כה", "gloss": "Ko noon"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "גאלך", "gloss": "Nannginoo-do maa"}, {"surface": "ויצרך", "gloss": "ko kaŋŋe tagi-maaɗa"}, {"surface": "מבטן", "gloss": "gila e reedu"}, {"surface": "אנכי", "gloss": "ko miin woni"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "עשה", "gloss": "waɗo"}, {"surface": "כל", "gloss": "kala"}, {"surface": "נטה", "gloss": "longuɗo"}, {"surface": "שמים", "gloss": "kammuuli"}, {"surface": "לבדי", "gloss": "e hoore Am tan"}, {"surface": "רקע", "gloss": "balbalu-do"}, {"surface": "הארץ", "gloss": "leydi ndi"}, {"surface": "מי", "gloss": "ko hommbo woni"}, {"surface": "אתי", "gloss": "⟨את⟩ Am", "marks": "Am"}], "timestamp": "2026-09-14T07:57:05.885184349Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Ko noon Yaawe wi'i, Nannginoo-do maa, ko kaŋŋe tagi-maaɗa gila e reedu: ko miin woni Yaawe, waɗo kala huunde, longuɗo kammuuli e hoore ⟨את⟩ am tan, balbalu-do leydi ndi — ko hommbo woni am?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ko noon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "Nannginoo-do maa"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "ko kaŋŋe tagi-maaɗa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gila e reedu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ko miin woni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "longuɗo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kammuuli"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "e hoore am tan"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "balbalu-do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko hommbo woni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ am",
+      "marks": "Am"
+    }
+  ],
+  "timestamp": "2026-09-14T07:57:05.885184349Z",
+  "model": "glm-5.3"
+}

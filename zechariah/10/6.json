@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "zechariah 10:6", "book": "zechariah", "lang": "ff", "chapter": 10, "translation": "Mi ɓeyday doole ⟨את⟩ galle Yuuda, ⟨את⟩ galle Yuusufa mi hisnay, mi artiray ɓe hoɗnde, sabu mi yurmi ɓe, ɓe mbaɗay hono no mi riddaani ɓe nih, sabu kanko mi Yaawe, Eloohim maɓɓe, mi jaabay ɓe.", "tokens": [{"surface": "וגברתי", "gloss": "mi ɓeyday doole"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "galle Yuuda"}, {"surface": "בית", "gloss": "galle"}, {"surface": "יהודה", "gloss": "Yuuda"}, {"surface": "ואת", "gloss": "⟨את⟩", "marks": "galle Yuusufa"}, {"surface": "בית", "gloss": "galle"}, {"surface": "יוסף", "gloss": "Yuusufa"}, {"surface": "אושיע", "gloss": "mi hisnay"}, {"surface": "והושבותים", "gloss": "mi artiray ɓe hoɗnde"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "רחמתים", "gloss": "mi yurmi ɓe"}, {"surface": "והיו", "gloss": "ɓe mbaɗay"}, {"surface": "כאשר", "gloss": "hono no"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "זנחתים", "gloss": "mi riddi ɓe"}, {"surface": "כי", "gloss": "sabu"}, {"surface": "אני", "gloss": "kanko mi"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהיהם", "gloss": "Eloohim maɓɓe"}, {"surface": "ואענם", "gloss": "mi jaabay ɓe"}], "timestamp": "2026-09-14T12:39:42.026427097Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi ɓeyday doole ⟨את⟩ galle Yahuuda, ⟨את⟩ galle Yoseef mi hisnay, mi artiray ɓe hoɗnde, sabu mi yurmi ɓe, ɓe mbaɗay hono no mi riddaani ɓe nih, sabu kanko mi Yaawe, Eloohim maɓɓe, mi jaabay ɓe.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "mi ɓeyday doole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galle Yuuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "galle Yuusufa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "mi hisnay"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "mi artiray ɓe hoɗnde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "mi yurmi ɓe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe mbaɗay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "mi riddi ɓe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kanko mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "mi jaabay ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T12:39:42.026427097Z",
+  "model": "glm-5.3"
+}

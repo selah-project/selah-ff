@@ -1,1 +1,134 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "2-kings 3:13", "book": "2-kings", "lang": "ff", "chapter": 3, "translation": "Eliisha wi'i laamɗo Israa'ila on: ko woni hakkunde ami e maaɗa? Yaha to annabaaɓe baaba maaɗa e to annabaaɓe yumma maaɗa. Kono laamɗo Israa'ila on wi'i mo: Alaa, ko Yaawe noddi ɗee laamɓe tato ɗee, fii jooɗnude ɓe ⟨את⟩ e juuɗe Moowaab.", "tokens": [{"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "אלישע", "gloss": "Eliisha"}, {"surface": "אל", "gloss": "to"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "ישראל", "gloss": "Israa'ila"}, {"surface": "מה", "gloss": "ko woni"}, {"surface": "לי", "gloss": "hakkunde ami"}, {"surface": "ולך", "gloss": "e maaɗa"}, {"surface": "לך", "gloss": "yaha"}, {"surface": "אל", "gloss": "to"}, {"surface": "נביאי", "gloss": "annabaaɓe"}, {"surface": "אביך", "gloss": "baaba maaɗa"}, {"surface": "ואל", "gloss": "e to"}, {"surface": "נביאי", "gloss": "annabaaɓe"}, {"surface": "אמך", "gloss": "yumma maaɗa"}, {"surface": "ויאמר", "gloss": "wi'i"}, {"surface": "לו", "gloss": "mo"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "ישראל", "gloss": "Israa'ila"}, {"surface": "אל", "gloss": "alaa"}, {"surface": "כי", "gloss": "ko"}, {"surface": "קרא", "gloss": "noddi"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "לשלשת", "gloss": "tato"}, {"surface": "המלכים", "gloss": "laamɓe"}, {"surface": "האלה", "gloss": "ɗee"}, {"surface": "לתת", "gloss": "fii jooɗnude"}, {"surface": "אותם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "ביד", "gloss": "e juuɗe"}, {"surface": "מואב", "gloss": "Moowaab"}], "timestamp": "2026-09-14T07:26:55.593874590Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 3:13",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Eliisha wi'i laamɗo Israa'iila on: ko woni hakkunde ami e maaɗa? Yaha to annabaaɓe baaba maaɗa e to annabaaɓe yumma maaɗa. Kono laamɗo Israa'iila on wi'i mo: Alaa, ko Yaawe noddi ɗee laamɓe tato ɗee, fii jooɗnude ɓe ⟨את⟩ e juuɗe Moowaab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliisha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko woni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hakkunde ami"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "e maaɗa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yaha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "annabaaɓe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba maaɗa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "e to"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "annabaaɓe"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yumma maaɗa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "fii jooɗnude"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moowaab"
+    }
+  ],
+  "timestamp": "2026-09-14T07:26:55.593874590Z",
+  "model": "glm-5.3"
+}

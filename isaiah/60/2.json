@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 60:2","book":"isaiah","lang":"ff","chapter":60,"translation":"Sabu ƴeewo, niɓɓere nden muddoto leydi ndin, e niɓɓi mawɗi jammuuje ɗen; kono e dow maa Yaawe lelnoto, e teddungal Makko feeñoto e dow maa.","tokens":[{"surface":"כי","gloss":"Sabu"},{"surface":"הנה","gloss":"ƴeewo"},{"surface":"החשך","gloss":"niɓɓere nden"},{"surface":"יכסה","gloss":"muddoto"},{"surface":"ארץ","gloss":"leydi"},{"surface":"וערפל","gloss":"e niɓɓi mawɗi"},{"surface":"לאמים","gloss":"jammuuje ɗen"},{"surface":"ועליך","gloss":"kono e dow maa"},{"surface":"יזרח","gloss":"lelnoto"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"וכבודו","gloss":"e teddungal Makko"},{"surface":"עליך","gloss":"e dow maa"},{"surface":"יראה","gloss":"feeñoto"}],"timestamp":"2026-09-14T12:17:02.204721189Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ff",
+  "chapter": 60,
+  "translation": "Sabu ƴeewo, niɓɓere nden muddoto leydi ndin, e niɓɓi mawɗi jammuuje ɗen; kono e dow maa Yaawe lelnoto, e teddungal makko feeñoto e dow maa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeewo"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "niɓɓere nden"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "muddoto"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leydi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "e niɓɓi mawɗi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "jammuuje ɗen"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "kono e dow maa"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "lelnoto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "e teddungal makko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "e dow maa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "feeñoto"
+    }
+  ],
+  "timestamp": "2026-09-14T12:17:02.204721189Z",
+  "model": "glm-5.3"
+}

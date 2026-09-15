@@ -1,1 +1,108 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "1-samuel 28:9", "book": "1-samuel", "lang": "ff", "chapter": 28, "translation": "Debbo on wi'i mo: Ɗoo, aɗa anndaa ⟨את⟩ ko Shaa'ool waɗi, hono o momtiri ⟨את⟩ waɗooɓe aadaaji ɓee e ⟨את⟩ annduɓe leydi ɓee e nder leydi ndin; ko fii honde aɗa leelnii nguurndam am fii warde lam?", "tokens": [{"surface": "ותאמר", "gloss": "wi'i"}, {"surface": "האשה", "gloss": "debbo on"}, {"surface": "אליו", "gloss": "mo"}, {"surface": "הנה", "gloss": "ɗoo"}, {"surface": "אתה", "gloss": "aɗa"}, {"surface": "ידעת", "gloss": "anndaa"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ko Shaa'ool waɗi"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "עשה", "gloss": "waɗi"}, {"surface": "שאול", "gloss": "Shaa'ool"}, {"surface": "אשר", "gloss": "hono"}, {"surface": "הכרית", "gloss": "momtiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "waɗooɓe aadaaji ɓee"}, {"surface": "האבות", "gloss": "waɗooɓe aadaaji ɓee"}, {"surface": "ואת", "gloss": "e ⟨את⟩", "marks": "annduɓe leydi ɓee"}, {"surface": "הידעני", "gloss": "annduɓe leydi ɓee"}, {"surface": "מן", "gloss": "e nder"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "ולמה", "gloss": "ko fii honde"}, {"surface": "אתה", "gloss": "aɗa"}, {"surface": "מתנקש", "gloss": "leelnii"}, {"surface": "בנפשי", "gloss": "nguurndam am"}, {"surface": "להמיתני", "gloss": "fii warde lam"}], "timestamp": "2026-09-14T06:52:17.689894740Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 28,
+  "translation": "Debbo on wi'i mo: Ɗoo, aɗa anndaa ⟨את⟩ ko Sha'uul waɗi, hono o momtiri ⟨את⟩ waɗooɓe aadaaji ɓee e ⟨את⟩ annduɓe leydi ɓee e nder leydi ndin; ko fii honde aɗa leelnii nguurndam am fii warde lam?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "debbo on"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "anndaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Shaa'ool waɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "momtiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waɗooɓe aadaaji ɓee"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "waɗooɓe aadaaji ɓee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "annduɓe leydi ɓee"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "annduɓe leydi ɓee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e nder"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ko fii honde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "aɗa"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "leelnii"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nguurndam am"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "fii warde lam"
+    }
+  ],
+  "timestamp": "2026-09-14T06:52:17.689894740Z",
+  "model": "glm-5.3"
+}

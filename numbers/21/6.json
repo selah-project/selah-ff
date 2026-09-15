@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "numbers 21:6", "book": "numbers", "lang": "ff", "chapter": 21, "translation": "Yaawe neldi e nder ⟨את⟩ yimɓe ɓen ⟨את⟩ majjirɓe ɓooyɓe ɗin, ɗi ƴetti yimɓe ɓen, keewal yimɓe Israayil maayi heen.", "tokens": [{"surface": "וישלח", "gloss": "o neldi"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "בעם", "gloss": "e nder yimɓe ɓen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "majjirɓe ɓooyɓe ɗin"}, {"surface": "הנחשים", "gloss": "majjirɓe ɓooyɓe ɗin"}, {"surface": "השרפים", "gloss": "ɓooyuɓe ɗin"}, {"surface": "וינשכו", "gloss": "ɗi ƴetti"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "yimɓe ɓen"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "וימת", "gloss": "o maayi"}, {"surface": "עם", "gloss": "yimɓe"}, {"surface": "רב", "gloss": "keewal"}, {"surface": "מישראל", "gloss": "Israayil"}], "timestamp": "2026-09-14T05:44:18.230578802Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Yaawe neldi e nder ⟨את⟩ yimɓe ɓen ⟨את⟩ majjirɓe ɓooyɓe ɗin, ɗi ƴetti yimɓe ɓen, keewal yimɓe Israa'iil maayi heen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "o neldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "e nder yimɓe ɓen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "majjirɓe ɓooyɓe ɗin"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "majjirɓe ɓooyɓe ɗin"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ɓooyuɓe ɗin"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ɗi ƴetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yimɓe ɓen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o maayi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yimɓe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "keewal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T05:44:18.230578802Z",
+  "model": "glm-5.3"
+}

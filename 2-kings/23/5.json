@@ -1,1 +1,103 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-kings 23:5","book":"2-kings","lang":"ff","chapter":23,"translation":"O dartinii ⟨את⟩ kemarim en ɗi laamɓe Yuuda ñiñunoo, ngam nyuurnaade e banmooje cafrirɗe ɗe leydi Yuuda e ko taarii Yerushalayim; e ⟨את⟩ ɓen nyuurnooɓe fii Baal, fii naange, fii lewru, fii hoodere, e fii konu kammuuli fuu.","tokens":[{"surface":"והשבית","gloss":"o dartinii"},{"surface":"את","gloss":"⟨את⟩","marks":"kemarim en"},{"surface":"הכמרים","gloss":"kemarim en"},{"surface":"אשר","gloss":"ɗi"},{"surface":"נתנו","gloss":"ñiñunoo"},{"surface":"מלכי","gloss":"laamɓe"},{"surface":"יהודה","gloss":"Yuuda"},{"surface":"ויקטר","gloss":"nyuurnooɓe"},{"surface":"בבמות","gloss":"e banmooje cafrirɗe"},{"surface":"בערי","gloss":"cafrirɗe leydi"},{"surface":"יהודה","gloss":"Yuuda"},{"surface":"ומסבי","gloss":"e ko taarii"},{"surface":"ירושלם","gloss":"Yerushalayim"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"ɓen nyuurnooɓe"},{"surface":"המקטרים","gloss":"ɓen nyuurnooɓe"},{"surface":"לבעל","gloss":"fii Baal"},{"surface":"לשמש","gloss":"fii naange"},{"surface":"ולירח","gloss":"e fii lewru"},{"surface":"ולמזלות","gloss":"e fii hoodere"},{"surface":"ולכל","gloss":"e fii fuu"},{"surface":"צבא","gloss":"konu"},{"surface":"השמים","gloss":"kammuuli"}],"timestamp":"2026-09-14T07:38:30.106308791Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 23,
+  "translation": "O dartinii ⟨את⟩ kemarim en ɗi laamɓe Yahuuda ñiñunoo, ngam nyuurnaade e banmooje cafrirɗe ɗe leydi Yahuuda e ko taarii Yerushalayim; e ⟨את⟩ ɓen nyuurnooɓe fii Baal, fii naange, fii lewru, fii hoodere, e fii konu kammuuli fuu.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "o dartinii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemarim en"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemarim en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ñiñunoo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "laamɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nyuurnooɓe"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "e banmooje cafrirɗe"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "cafrirɗe leydi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "e ko taarii"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ɓen nyuurnooɓe"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "ɓen nyuurnooɓe"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fii Baal"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "fii naange"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "e fii lewru"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "e fii hoodere"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "e fii fuu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kammuuli"
+    }
+  ],
+  "timestamp": "2026-09-14T07:38:30.106308791Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,107 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "genesis 29:13", "book": "genesis", "lang": "ff", "chapter": 29, "translation": "Nde Laaban nanri ⟨את⟩ kabaruuji Yaakuuba ɓiy debbo mun giɗo, o dogi fii yi'ude mo, o muṇñi mo, o ñaami mo, o naatni mo e suudu mun; o wi'i Laaban ⟨את⟩ ɗuum fuu.", "tokens": [{"surface": "ויהי", "gloss": "Nde"}, {"surface": "כשמע", "gloss": "nanri"}, {"surface": "לבן", "gloss": "Laaban"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kabaruuji"}, {"surface": "שמע", "gloss": "kabaruuji"}, {"surface": "יעקב", "gloss": "Yaakuuba"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "אחתו", "gloss": "debbo mun giɗo"}, {"surface": "וירץ", "gloss": "o dogi"}, {"surface": "לקראתו", "gloss": "fii yi'ude mo"}, {"surface": "ויחבק", "gloss": "o muṇñi mo"}, {"surface": "לו", "gloss": "mo"}, {"surface": "וינשק", "gloss": "o ñaami mo"}, {"surface": "לו", "gloss": "mo"}, {"surface": "ויביאהו", "gloss": "o naatni mo"}, {"surface": "אל", "gloss": "e"}, {"surface": "ביתו", "gloss": "suudu mun"}, {"surface": "ויספר", "gloss": "o wi'i"}, {"surface": "ללבן", "gloss": "Laaban"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɗuum fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הדברים", "gloss": "ɗuum"}, {"surface": "האלה", "gloss": "ɗee ɗo"}], "timestamp": "2026-09-14T04:43:42.113650807Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 29:13",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Nde Laaban nanri ⟨את⟩ kabaruuji Ya'aqob ɓiy debbo mun giɗo, o dogi fii yi'ude mo, o muṇñi mo, o ñaami mo, o naatni mo e suudu mun; o wi'i Laaban ⟨את⟩ ɗuum fuu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nanri"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabaruuji"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kabaruuji"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'aqob"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "debbo mun giɗo"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "o dogi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "fii yi'ude mo"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "o muṇñi mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "o ñaami mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "o naatni mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "suudu mun"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Laaban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɗuum fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ɗuum"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee ɗo"
+    }
+  ],
+  "timestamp": "2026-09-14T04:43:42.113650807Z",
+  "model": "glm-5.3"
+}

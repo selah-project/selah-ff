@@ -1,1 +1,110 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "ezekiel 2:3", "book": "ezekiel", "lang": "ff", "chapter": 2, "translation": "O wi'i min: ɓiy neɗɗo, min nulata ⟨אתך⟩ to ɓiɓɓe Israa'iila, to leƴƴi muurtuɗi, ɗi muurtu e am; kamɓe e baabiraaɓe ⟨את⟩ maɓɓe faasi e am, haa e hoore ñalawma ngol.", "tokens": [{"surface": "ויאמר", "gloss": "O wi'i"}, {"surface": "אלי", "gloss": "min"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "אדם", "gloss": "neɗɗo"}, {"surface": "שולח", "gloss": "nulata"}, {"surface": "אני", "gloss": "min"}, {"surface": "אותך", "gloss": "⟨את⟩ ma", "marks": "min (ko nulanaa)"}, {"surface": "אל", "gloss": "to"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "אל", "gloss": "to"}, {"surface": "גוים", "gloss": "leƴƴi"}, {"surface": "המורדים", "gloss": "muurtuɗi"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "מרדו", "gloss": "muurtu"}, {"surface": "בי", "gloss": "e am"}, {"surface": "המה", "gloss": "kamɓe"}, {"surface": "ואבותם", "gloss": "e baabiraaɓe maɓɓe"}, {"surface": "פשעו", "gloss": "faasi"}, {"surface": "בי", "gloss": "e am"}, {"surface": "עד", "gloss": "haa e"}, {"surface": "עצם", "gloss": "hoore"}, {"surface": "היום", "gloss": "ñalawma"}, {"surface": "הזה", "gloss": "ngol"}], "timestamp": "2026-09-14T08:33:49.495325927Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 2:3",
+  "book": "ezekiel",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "O wi'i min: ɓiy neɗɗo, min nulata to ɓiɓɓe Israa'iila, to leƴƴi muurtuɗi, ɗi muurtu e am; kamɓe e baabiraaɓe ⟨את⟩ maɓɓe faasi e am, haa e hoore ñalawma ngol.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O wi'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "min"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "nulata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "min"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ma",
+      "marks": "min (ko nulanaa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "leƴƴi"
+    },
+    {
+      "surface": "המורדים",
+      "gloss": "muurtuɗi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "muurtu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kamɓe"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "e baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "faasi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "e am"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa e"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T08:33:49.495325927Z",
+  "model": "glm-5.3"
+}

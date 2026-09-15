@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "1-samuel 19:7", "book": "1-samuel", "lang": "ff", "chapter": 19, "translation": "Yehonatan noddi Dawid, Yehonatan humpaddii mo konngi ɗin ⟨את⟩ fuu; Yehonatan addi ⟨את⟩ Dawid to Sha'uul, o darii yeeso mun no ḱeƴii-ɓennuɗe nii.", "tokens": [{"surface": "ויקרא", "gloss": "noddi"}, {"surface": "יהונתן", "gloss": "Yehonatan"}, {"surface": "לדוד", "gloss": "Dawid"}, {"surface": "ויגד", "gloss": "humpaddii"}, {"surface": "לו", "gloss": "mo"}, {"surface": "יהונתן", "gloss": "Yehonatan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "konngi ɗin fuu"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "הדברים", "gloss": "konngi ɗin"}, {"surface": "האלה", "gloss": "ɗee"}, {"surface": "ויבא", "gloss": "addi"}, {"surface": "יהונתן", "gloss": "Yehonatan"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Dawid"}, {"surface": "דוד", "gloss": "Dawid"}, {"surface": "אל", "gloss": "to"}, {"surface": "שאול", "gloss": "Sha'uul"}, {"surface": "ויהי", "gloss": "o darii"}, {"surface": "לפניו", "gloss": "yeeso mun"}, {"surface": "כאתמול", "gloss": "no ḱeƴii-ɓennuɗe nii"}, {"surface": "שלשום", "gloss": ""}], "timestamp": "2026-09-14T06:46:56.952685801Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 19,
+  "translation": "Yehonatan noddi Daawuud, Yehonatan humpaddii mo konngi ɗin ⟨את⟩ fuu; Yehonatan addi ⟨את⟩ Daawuud to Sha'uul, o darii yeeso mun no ḱeƴii-ɓennuɗe nii.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "noddi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "humpaddii"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗin fuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "konngi ɗin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ɗee"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "addi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o darii"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "yeeso mun"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "no ḱeƴii-ɓennuɗe nii"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:56.952685801Z",
+  "model": "glm-5.3"
+}

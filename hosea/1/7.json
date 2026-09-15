@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 7, "ref": "hosea 1:7", "book": "hosea", "lang": "ff", "chapter": 1, "translation": "Kono ⟨את⟩ suudu Yahuudah mi yurminay, mi hisnay ɓe e Yaawe Eloohim maɓɓe, mi hisnanaa ɓe e kaasgol, wanaa e boɗe, wanaa e konu, wanaa e pucci, wanaa e pucci-woyɓe.", "tokens": [{"surface": "ואת", "gloss": "⟨את⟩", "marks": "suudu Yahuudah"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "יהודה", "gloss": "Yahuudah"}, {"surface": "ארחם", "gloss": "mi yurminay"}, {"surface": "והושעתים", "gloss": "mi hisnay ɓe"}, {"surface": "ביהוה", "gloss": "e Yaawe"}, {"surface": "אלהיהם", "gloss": "Eloohim maɓɓe"}, {"surface": "ולא", "gloss": "mi hisnanaa"}, {"surface": "אושיעם", "gloss": "ɓe"}, {"surface": "בקשת", "gloss": "e kaasgol"}, {"surface": "ובחרב", "gloss": "wanaa e boɗe"}, {"surface": "ובמלחמה", "gloss": "wanaa e konu"}, {"surface": "בסוסים", "gloss": "wanaa e pucci"}, {"surface": "ובפרשים", "gloss": "wanaa e pucci-woyɓe"}], "timestamp": "2026-09-14T08:57:50.103647067Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Kono ⟨את⟩ suudu Yahuuda mi yurminay, mi hisnay ɓe e Yaawe Eloohim maɓɓe, mi hisnanaa ɓe e kaasgol, wanaa e boɗe, wanaa e konu, wanaa e pucci, wanaa e pucci-woyɓe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yahuudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "mi yurminay"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "mi hisnay ɓe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "e Yaawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Eloohim maɓɓe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mi hisnanaa"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "e kaasgol"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "wanaa e boɗe"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "wanaa e konu"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "wanaa e pucci"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "wanaa e pucci-woyɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:50.103647067Z",
+  "model": "glm-5.3"
+}

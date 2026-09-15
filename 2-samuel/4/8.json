@@ -1,1 +1,139 @@
-{"tier": "glm-5.2", "verse": 8, "ref": "2-samuel 4:8", "book": "2-samuel", "lang": "ff", "chapter": 4, "translation": "Ɓe addi ⟨את⟩ hoore Is-Boshet to Daawuuda, to Hebron, ɓe wi'i laamɗo on: Ndaar, ɗoo ko ⟨את⟩ hoore Is-Boshet ɓiy Sauul, gañɗo maa on, wi'noo⟨o⟩ ƴami nguurndam maa; Yaawe hokkii joomi laamɗo on haaje ñalnde hee, haaje Sauul e daɓɓu mun.", "tokens": [{"surface": "ויבאו", "gloss": "Ɓe addi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "hoore Is-Boshet"}, {"surface": "ראש", "gloss": "hoore"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "בשת", "gloss": "Is-Boshet"}, {"surface": "אל", "gloss": "to"}, {"surface": "דוד", "gloss": "Daawuuda"}, {"surface": "חברון", "gloss": "Hebron"}, {"surface": "ויאמרו", "gloss": "ɓe wi'i"}, {"surface": "אל", "gloss": "to"}, {"surface": "המלך", "gloss": "laamđo on"}, {"surface": "הנה", "gloss": "Ndaar"}, {"surface": "ראש", "gloss": "hoore"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "בשת", "gloss": "Is-Boshet"}, {"surface": "בן", "gloss": "ɓiy"}, {"surface": "שאול", "gloss": "Sauul"}, {"surface": "איבך", "gloss": "gañđo maa on"}, {"surface": "אשר", "gloss": "on"}, {"surface": "בקש", "gloss": "wi'noo ƴami"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "nguurndam maa"}, {"surface": "נפשך", "gloss": "nguurndam maa"}, {"surface": "ויתן", "gloss": "hokkii"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "לאדני", "gloss": "joomi"}, {"surface": "המלך", "gloss": "laamđo on"}, {"surface": "נקמות", "gloss": "haaje"}, {"surface": "היום", "gloss": "ñalnde"}, {"surface": "הזה", "gloss": "hee"}, {"surface": "משאול", "gloss": "haaje Sauul"}, {"surface": "ומזרעו", "gloss": "e daɓɓu mun"}], "timestamp": "2026-09-14T06:55:42.225024788Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 4:8",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Ɓe addi ⟨את⟩ hoore Is-Boshet to Daawuuda, to Hebron, ɓe wi'i laamɗo on: Ndaar, ɗoo ko ⟨את⟩ hoore Is-Boshet ɓiy Sha'uul, gañɗo maa on, wi'noo⟨o⟩ ƴami nguurndam maa; Yaawe hokkii joomi laamɗo on haaje ñalnde hee, haaje Sha'uul e daɓɓu mun.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ɓe addi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoore Is-Boshet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Is-Boshet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ɓe wi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ndaar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoore"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Is-Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "gañđo maa on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "on"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "wi'noo ƴami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguurndam maa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nguurndam maa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hokkii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "joomi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "haaje"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hee"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "haaje Sha'uul"
+    },
+    {
+      "surface": "ומזרעו",
+      "gloss": "e daɓɓu mun"
+    }
+  ],
+  "timestamp": "2026-09-14T06:55:42.225024788Z",
+  "model": "glm-5.3"
+}

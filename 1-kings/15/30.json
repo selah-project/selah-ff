@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "1-kings 15:30", "book": "1-kings", "lang": "ff", "chapter": 15, "translation": "Sabu junubiiji Yaarobeam ɗin ɗi o junuɓi, e ɗi o waɗi ⟨את⟩ Israayiil junfaade, e bàmmude mun ndu o ustiri Yaawe, Eloohim ⟨את⟩ Israayiil", "tokens": [{"surface": "על", "gloss": "Sabu"}, {"surface": "חטאות", "gloss": "junubiiji"}, {"surface": "ירבעם", "gloss": "Yaarobeam"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "חטא", "gloss": "o junuɓi"}, {"surface": "ואשר", "gloss": "e ɗi"}, {"surface": "החטיא", "gloss": "o waɗi junfaade"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israayiil"}, {"surface": "ישראל", "gloss": "Israayiil"}, {"surface": "בכעסו", "gloss": "e bàmmude mun"}, {"surface": "אשר", "gloss": "ndu"}, {"surface": "הכעיס", "gloss": "o ustiri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yaawe, Eloohim Israayiil"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אלהי", "gloss": "Eloohim"}, {"surface": "ישראל", "gloss": "Israayiil"}], "timestamp": "2026-09-14T07:20:46.513087723Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Sabu junubiiji Yaarobeam ɗin ɗi o junuɓi, e ɗi o waɗi ⟨את⟩ Israa'iil junfaade, e bàmmude mun ndu o ustiri Yaawe, Eloohim ⟨את⟩ Israa'iil",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sabu"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "junubiiji"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "o junuɓi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "e ɗi"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "o waɗi junfaade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israayiil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "e bàmmude mun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndu"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "o ustiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaawe, Eloohim Israayiil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T07:20:46.513087723Z",
+  "model": "glm-5.3"
+}

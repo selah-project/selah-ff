@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-kings 12:3","book":"1-kings","lang":"ff","chapter":12,"translation":"Ɓe neldi, ɓe noddi mo; Yaroboam e kala renndo Israayiil ari, ɓe wowli Rehoboam, ɓe wi'i:","tokens":[{"surface":"וישלחו","gloss":"Ɓe neldi"},{"surface":"ויקראו","gloss":"ɓe noddi"},{"surface":"לו","gloss":"mo"},{"surface":"ויבאו","gloss":"ari"},{"surface":"ירבעם","gloss":"Yaroboam"},{"surface":"וכל","gloss":"e kala"},{"surface":"קהל","gloss":"renndo"},{"surface":"ישראל","gloss":"Israayiil"},{"surface":"וידברו","gloss":"ɓe wowli"},{"surface":"אל","gloss":"to"},{"surface":"רחבעם","gloss":"Rehoboam"},{"surface":"לאמר","gloss":"ɓe wi'i"}],"timestamp":"2026-09-14T12:06:28.939816799Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 12,
+  "translation": "Ɓe neldi, ɓe noddi mo; Yaroboam e kala renndo Israa'iil ari, ɓe wowli Rehoboam, ɓe wi'i:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ɓe neldi"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ɓe noddi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ari"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroboam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e kala"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ɓe wowli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ɓe wi'i"
+    }
+  ],
+  "timestamp": "2026-09-14T12:06:28.939816799Z",
+  "model": "glm-5.3"
+}

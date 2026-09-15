@@ -1,1 +1,130 @@
-{"tier":"glm-5.2","verse":6,"ref":"leviticus 10:6","book":"leviticus","lang":"ff","chapter":10,"translation":"Moshe wi'i e Aharon, e Elazar e Itamar ɓiɓɓe mun: hoore mon wota udditu, comci mon wota teeru, wata on maay, nde tikkere fewata e jamaa on fuu; kono jawle mon, galle Israayil on fuu, ɓe mbuya ⟨את⟩ ɓuuɓnagol ngol Yaawe ɓuuɓnuni.","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"משה","gloss":"Moshe"},{"surface":"אל","gloss":"e"},{"surface":"אהרן","gloss":"Aharon"},{"surface":"ולאלעזר","gloss":"e Elazar"},{"surface":"ולאיתמר","gloss":"e Itamar"},{"surface":"בניו","gloss":"ɓiɓɓe mun"},{"surface":"ראשיכם","gloss":"hoore mon"},{"surface":"אל","gloss":"wota"},{"surface":"תפרעו","gloss":"udditu"},{"surface":"ובגדיכם","gloss":"comci mon"},{"surface":"לא","gloss":"wota"},{"surface":"תפרמו","gloss":"teeru"},{"surface":"ולא","gloss":"wata"},{"surface":"תמתו","gloss":"on maay"},{"surface":"ועל","gloss":"e"},{"surface":"כל","gloss":"fuu"},{"surface":"העדה","gloss":"jamaa on"},{"surface":"יקצף","gloss":"tikkere fewata"},{"surface":"ואחיכם","gloss":"jawle mon"},{"surface":"כל","gloss":"fuu"},{"surface":"בית","gloss":"galle"},{"surface":"ישראל","gloss":"Israayil"},{"surface":"יבכו","gloss":"ɓe mbuya"},{"surface":"את","gloss":"⟨את⟩","marks":"ɓuuɓnagol ngol"},{"surface":"השרפה","gloss":"ɓuuɓnagol ngol"},{"surface":"אשר","gloss":"ngol"},{"surface":"שרף","gloss":"ɓuuɓnuni"},{"surface":"יהוה","gloss":"Yaawe"}],"timestamp":"2026-09-14T05:21:34.761056386Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 10:6",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Moshe wi'i e Aharon, e Elazar e Itamar ɓiɓɓe mun: hoore mon wota udditu, comci mon wota teeru, wata on maay, nde tikkere fewata e jamaa on fuu; kono jawle mon, galle Israa'iil on fuu, ɓe mbuya ⟨את⟩ ɓuuɓnagol ngol Yaawe ɓuuɓnuni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולאלעזר",
+      "gloss": "e Elazar"
+    },
+    {
+      "surface": "ולאיתמר",
+      "gloss": "e Itamar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ɓiɓɓe mun"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hoore mon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wota"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "udditu"
+    },
+    {
+      "surface": "ובגדיכם",
+      "gloss": "comci mon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wota"
+    },
+    {
+      "surface": "תפרמו",
+      "gloss": "teeru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "on maay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamaa on"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "tikkere fewata"
+    },
+    {
+      "surface": "ואחיכם",
+      "gloss": "jawle mon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "galle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ɓe mbuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓuuɓnagol ngol"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "ɓuuɓnagol ngol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngol"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ɓuuɓnuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:21:34.761056386Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":27,"ref":"exodus 39:27","book":"exodus","lang":"ff","chapter":39,"translation":"Ɓe tagi ⟨את⟩ koonce ɗen ñaawɗe-dooku, golle muuɗo, fii Aharoon e fii ɓiɓɓe mun.","tokens":[{"surface":"ויעשו","gloss":"Ɓe tagi"},{"surface":"את","gloss":"⟨את⟩","marks":"koonce ɗen"},{"surface":"הכתנת","gloss":"koonce ɗen"},{"surface":"שש","gloss":"ñaawɗe-dooku"},{"surface":"מעשה","gloss":"golle"},{"surface":"ארג","gloss":"muuɗo"},{"surface":"לאהרן","gloss":"fii Aharoon"},{"surface":"ולבניו","gloss":"e fii ɓiɓɓe mun"}],"timestamp":"2026-09-14T11:37:26.536365398Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Ɓe tagi ⟨את⟩ koonce ɗen ñaawɗe-dooku, golle muuɗo, fii Aharon e fii ɓiɓɓe mun.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ɓe tagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koonce ɗen"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "koonce ɗen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ñaawɗe-dooku"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "muuɗo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fii Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "e fii ɓiɓɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T11:37:26.536365398Z",
+  "model": "glm-5.3"
+}

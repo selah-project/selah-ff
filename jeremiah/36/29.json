@@ -1,1 +1,135 @@
-{"tier": "glm-5.2", "verse": 29, "ref": "jeremiah 36:29", "book": "jeremiah", "lang": "ff", "chapter": 36, "translation": "Nde fii Yehojakim laamɗo Yahuuda mbi'a: Ndeen Yaawe wi'i: A ngulliino ⟨את⟩ maggel ngel, nde mbi'i: Ko fii waɗɗun a winndi e mayre wi'ude: Laamɗo Babilon aray e muñaali, o bonnanta ⟨את⟩ leydi ndin, o itta ton neɗɗo e behemaa?", "tokens": [{"surface": "ועל", "gloss": "nde fii"}, {"surface": "יהויקים", "gloss": "Yehojakim"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "יהודה", "gloss": "Yahuuda"}, {"surface": "תאמר", "gloss": "mbi'a"}, {"surface": "כה", "gloss": "ndeen"}, {"surface": "אמר", "gloss": "wi'i"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אתה", "gloss": "a"}, {"surface": "שרפת", "gloss": "ngulliino"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "maggel ngel"}, {"surface": "המגלה", "gloss": "maggel ngel"}, {"surface": "הזאת", "gloss": "ngel"}, {"surface": "לאמר", "gloss": "nde mbi'i"}, {"surface": "מדוע", "gloss": "ko fii waɗɗun"}, {"surface": "כתבת", "gloss": "a winndi"}, {"surface": "עליה", "gloss": "e mayre"}, {"surface": "לאמר", "gloss": "wi'ude"}, {"surface": "בא", "gloss": "aray"}, {"surface": "יבוא", "gloss": "e muñaali"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "והשחית", "gloss": "o bonnanta"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "leydi ndin"}, {"surface": "הארץ", "gloss": "leydi ndin"}, {"surface": "הזאת", "gloss": "ndin"}, {"surface": "והשבית", "gloss": "o itta"}, {"surface": "ממנה", "gloss": "ton"}, {"surface": "אדם", "gloss": "neɗɗo"}, {"surface": "ובהמה", "gloss": "e behemaa"}], "timestamp": "2026-09-14T08:25:34.034804789Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 36:29",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 36,
+  "translation": "Nde fii Yehojakim laamɗo Yahuuda mbi'a: Ndeen Yaawe wi'i: A ngulliino ⟨את⟩ maggel ngel, nde mbi'i: Ko fii waɗɗun a winndi e mayre wi'ude: Laamɗo Baabel aray e muñaali, o bonnanta ⟨את⟩ leydi ndin, o itta ton neɗɗo e behemaa?",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "nde fii"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mbi'a"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndeen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "a"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "ngulliino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maggel ngel"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "maggel ngel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ngel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nde mbi'i"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ko fii waɗɗun"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "a winndi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "e mayre"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wi'ude"
+    },
+    {
+      "surface": "בא",
+      "gloss": "aray"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e muñaali"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "והשחית",
+      "gloss": "o bonnanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leydi ndin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leydi ndin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ndin"
+    },
+    {
+      "surface": "והשבית",
+      "gloss": "o itta"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ton"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "e behemaa"
+    }
+  ],
+  "timestamp": "2026-09-14T08:25:34.034804789Z",
+  "model": "glm-5.3"
+}

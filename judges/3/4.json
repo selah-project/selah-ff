@@ -1,1 +1,80 @@
-{"tier": "glm-5.2", "verse": 4, "ref": "judges 3:4", "book": "judges", "lang": "ff", "chapter": 3, "translation": "Ɓe ngoni heen fii ñawnditaade ⟨את⟩ Israa'iil, ngam anndude so ɓe nanoyoyay ⟨את⟩ pine Yaawe, ɗe o amariri ⟨את⟩ baabiraaɓe maɓɓe e juuɗe Muusaa.", "tokens": [{"surface": "ויהיו", "gloss": "Ɓe ngoni"}, {"surface": "לנסות", "gloss": "fii ñawnditaade"}, {"surface": "בם", "gloss": "heen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Israa'iil"}, {"surface": "ישראל", "gloss": "Israa'iil"}, {"surface": "לדעת", "gloss": "ngam anndude"}, {"surface": "הישמעו", "gloss": "so ɓe nanoyoyay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "pine Yaawe"}, {"surface": "מצות", "gloss": "pine"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "אשר", "gloss": "ɗi"}, {"surface": "צוה", "gloss": "amariri"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "baabiraaɓe maɓɓe"}, {"surface": "אבותם", "gloss": "baabiraaɓe maɓɓe"}, {"surface": "ביד", "gloss": "e juuɗe"}, {"surface": "משה", "gloss": "Muusaa"}], "timestamp": "2026-09-14T11:54:36.840880509Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ff",
+  "chapter": 3,
+  "translation": "Ɓe ngoni heen fii ñawnditaade ⟨את⟩ Israa'iil, ngam anndude so ɓe nanoyoyay ⟨את⟩ pine Yaawe, ɗe o amariri ⟨את⟩ baabiraaɓe maɓɓe e juuɗe Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ɓe ngoni"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "fii ñawnditaade"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israa'iil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ngam anndude"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "so ɓe nanoyoyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pine Yaawe"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "pine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amariri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "baabiraaɓe maɓɓe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-14T11:54:36.840880509Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,58 @@
-{"tier": "glm-5.2", "verse": 2, "ref": "genesis 39:2", "book": "genesis", "lang": "ff", "chapter": 39, "translation": "Yaawe wonnoo ⟨e⟩ ⟨את⟩ Yusuufu, o laati neɗɗo mo yahrata yeeso; o wonnoo e nder suudu joomi mun Misrayimnaajo on.", "tokens": [{"surface": "ויהי", "gloss": "wonnoo"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Yusuufu"}, {"surface": "יוסף", "gloss": "Yusuufu"}, {"surface": "ויהי", "gloss": "o laati"}, {"surface": "איש", "gloss": "neɗɗo"}, {"surface": "מצליח", "gloss": "mo yahrata yeeso"}, {"surface": "ויהי", "gloss": "o wonnoo"}, {"surface": "בבית", "gloss": "e nder suudu"}, {"surface": "אדניו", "gloss": "joomi mun"}, {"surface": "המצרי", "gloss": "Misrayimnaajo on"}], "timestamp": "2026-09-14T04:49:36.470951798Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 39,
+  "translation": "Yaawe wonnoo ⟨e⟩ ⟨את⟩ Yoseef, o laati neɗɗo mo yahrata yeeso; o wonnoo e nder suudu joomi mun Misrayimnaajo on.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wonnoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuufu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o laati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "mo yahrata yeeso"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "o wonnoo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e nder suudu"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "joomi mun"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Misrayimnaajo on"
+    }
+  ],
+  "timestamp": "2026-09-14T04:49:36.470951798Z",
+  "model": "glm-5.3"
+}

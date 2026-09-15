@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-samuel 20:6","book":"1-samuel","lang":"ff","chapter":20,"translation":"Si baaba maa lamndam, wi'u: “Daawuda ɗaɓɓii e am no feewi ngam dogaade Bet Lehem, wuro makko, sabu ɗoo ko sadak hitaande fii ngurlaaku nguu fuu.”","tokens":[{"surface":"אם","gloss":"Si"},{"surface":"פקד","gloss":"yiyto"},{"surface":"יפקדני","gloss":"lamndam"},{"surface":"אביך","gloss":"baaba-maa"},{"surface":"ואמרת","gloss":"wi'u"},{"surface":"נשאל","gloss":"ɗaɓɓii"},{"surface":"נשאל","gloss":"welli"},{"surface":"ממני","gloss":"e-am"},{"surface":"דוד","gloss":"Daawuda"},{"surface":"לרוץ","gloss":"ngam-dogaade"},{"surface":"בית","gloss":"Bet"},{"surface":"לחם","gloss":"Lehem"},{"surface":"עירו","gloss":"wuro-makko"},{"surface":"כי","gloss":"sabu"},{"surface":"זבח","gloss":"sadak"},{"surface":"הימים","gloss":"hitaande"},{"surface":"שם","gloss":"ɗoo"},{"surface":"לכל","gloss":"fii-fuu"},{"surface":"המשפחה","gloss":"ngurlaaku"}],"timestamp":"2026-09-14T11:59:22.679396435Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 20,
+  "translation": "Si baaba maa lamndam, wi'u: “Daawuuda ɗaɓɓii e am no feewi ngam dogaade Bet Lehem, wuro makko, sabu ɗoo ko sadak hitaande fii ngurlaaku nguu fuu.”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Si"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yiyto"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "lamndam"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "baaba-maa"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "wi'u"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "ɗaɓɓii"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "welli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "e-am"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ngam-dogaade"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "wuro-makko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sadak"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "hitaande"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ɗoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fii-fuu"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "ngurlaaku"
+    }
+  ],
+  "timestamp": "2026-09-14T11:59:22.679396435Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":47,"ref":"jeremiah 51:47","book":"jeremiah","lang":"ff","chapter":51,"translation":"Sabu ɗuum, laatoo, balɗe ngaray; mi yillowat ɗow cuttinɗe Baabilon, leydi mun fuu ⟨ina⟩ hersa, warɓe mun fuu mbaroo nder mum.","tokens":[{"surface":"לכן","gloss":"sabu ɗuum"},{"surface":"הנה","gloss":"laatoo"},{"surface":"ימים","gloss":"balɗe"},{"surface":"באים","gloss":"ngaray"},{"surface":"ופקדתי","gloss":"mi yillowat"},{"surface":"על","gloss":"ɗow"},{"surface":"פסילי","gloss":"cuttinɗe"},{"surface":"בבל","gloss":"Baabilon"},{"surface":"וכל","gloss":"fuu"},{"surface":"ארצה","gloss":"leydi mun"},{"surface":"תבוש","gloss":"hersa"},{"surface":"וכל","gloss":"fuu"},{"surface":"חלליה","gloss":"warɓe mun"},{"surface":"יפלו","gloss":"mbaroo"},{"surface":"בתוכה","gloss":"nder mum"}],"timestamp":"2026-09-14T08:32:47.970365547Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 51:47",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 51,
+  "translation": "Sabu ɗuum, laatoo, balɗe ngaray; mi yillowat ɗow cuttinɗe Baabel, leydi mun fuu ⟨ina⟩ hersa, warɓe mun fuu mbaroo nder mum.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sabu ɗuum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "laatoo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "balɗe"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ngaray"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "mi yillowat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ɗow"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "cuttinɗe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "leydi mun"
+    },
+    {
+      "surface": "תבוש",
+      "gloss": "hersa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "חלליה",
+      "gloss": "warɓe mun"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mbaroo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "nder mum"
+    }
+  ],
+  "timestamp": "2026-09-14T08:32:47.970365547Z",
+  "model": "glm-5.3"
+}

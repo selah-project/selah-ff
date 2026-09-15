@@ -1,1 +1,95 @@
-{"tier": "glm-5.2", "verse": 54, "ref": "numbers 31:54", "book": "numbers", "lang": "ff", "chapter": 31, "translation": "Moshe e Elasar alkuɗo on nelda ⟨את⟩ kaŋe ngam ⟨את⟩ ummorde e mawɓe ujunnaaje ɗen e teemedeeje ɗen, ɓe naatni ⟨את⟩ ɗum to suudu kawtal ndun, si ciftorgol ngam ɓiɓɓe Yisrael, yeeso Yaawe.", "tokens": [{"surface": "ויקח", "gloss": "nelda"}, {"surface": "משה", "gloss": "Moshe"}, {"surface": "ואלעזר", "gloss": "e Elasar"}, {"surface": "הכהן", "gloss": "alkuɗo on"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kaŋe ngam"}, {"surface": "הזהב", "gloss": "kaŋe ngam"}, {"surface": "מאת", "gloss": "ummorde e ⟨את⟩"}, {"surface": "שרי", "gloss": "mawɓe"}, {"surface": "האלפים", "gloss": "ujunnaaje ɗen"}, {"surface": "והמאות", "gloss": "e teemedeeje ɗen"}, {"surface": "ויבאו", "gloss": "ɓe naatni"}, {"surface": "אתו", "gloss": "⟨את⟩", "marks": "ɗum"}, {"surface": "אל", "gloss": "to"}, {"surface": "אהל", "gloss": "suudu"}, {"surface": "מועד", "gloss": "kawtal"}, {"surface": "זכרון", "gloss": "ciftorgol"}, {"surface": "לבני", "gloss": "ngam ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Yisrael"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T05:48:49.105260279Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 31:54",
+  "book": "numbers",
+  "lang": "ff",
+  "chapter": 31,
+  "translation": "Moshe e Elasar alkuɗo on nelda ⟨את⟩ kaŋe ngam ⟨את⟩ ummorde e mawɓe ujunnaaje ɗen e teemedeeje ɗen, ɓe naatni ⟨את⟩ ɗum to suudu kawtal ndun, si ciftorgol ngam ɓiɓɓe Israa'iil, yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nelda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "e Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "alkuɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaŋe ngam"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kaŋe ngam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ummorde e ⟨את⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ujunnaaje ɗen"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "e teemedeeje ɗen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ɓe naatni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ɗum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawtal"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ciftorgol"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngam ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:48:49.105260279Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":15,"ref":"micah 1:15","book":"micah","lang":"ff","chapter":1,"translation":"Ko kanko, jeyoowo on, mi addan maaɗa, ko on jooɗiiɗo Maresha; haa Adullam naata teddungal Israayil ngal.","tokens":[{"surface":"עד","gloss":"ko kanko"},{"surface":"הירש","gloss":"jeyoowo on"},{"surface":"אבי","gloss":"mi addan"},{"surface":"לך","gloss":"maaɗa"},{"surface":"יושבת","gloss":"jooɗiiɗo"},{"surface":"מרשה","gloss":"Maresha"},{"surface":"עד","gloss":"haa"},{"surface":"עדלם","gloss":"Adullam"},{"surface":"יבוא","gloss":"naata"},{"surface":"כבוד","gloss":"teddungal"},{"surface":"ישראל","gloss":"Israayil"}],"timestamp":"2026-09-14T09:05:41.273198781Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "Ko kanko, jeyoowo on, mi addan maaɗa, ko on jooɗiiɗo Maresha; haa Adullam naata teddungal Israa'iil ngal.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ko kanko"
+    },
+    {
+      "surface": "הירש",
+      "gloss": "jeyoowo on"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mi addan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "maaɗa"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "jooɗiiɗo"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "haa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "naata"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    }
+  ],
+  "timestamp": "2026-09-14T09:05:41.273198781Z",
+  "model": "glm-5.3"
+}

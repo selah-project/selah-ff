@@ -1,1 +1,71 @@
-{"tier": "glm-5.2", "verse": 1, "ref": "genesis 4:1", "book": "genesis", "lang": "ff", "chapter": 4, "translation": "Nden neɗɗo on (Aadamu) anndi ⟨את⟩ Hawwa debbo mun; o heɓi reedu, o jibini ⟨את⟩ Kayin, o wi'i: “Mi soodi gorko ⟨את⟩ ka Yaawe .”", "tokens": [{"surface": "והאדם", "gloss": "Nden neɗɗo on"}, {"surface": "ידע", "gloss": "anndi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Hawwa"}, {"surface": "חוה", "gloss": "Hawwa"}, {"surface": "אשתו", "gloss": "debbo mun"}, {"surface": "ותהר", "gloss": "o heɓi reedu"}, {"surface": "ותלד", "gloss": "o jibini"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Kayin"}, {"surface": "קין", "gloss": "Kayin"}, {"surface": "ותאמר", "gloss": "o wi'i"}, {"surface": "קניתי", "gloss": "mi soodi"}, {"surface": "איש", "gloss": "gorko"}, {"surface": "את", "gloss": "⟨את⟩ ka"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T04:32:59.842777887Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Nden neɗɗo on (Aadamu) anndi ⟨את⟩ Hawwa debbo mun; o heɓi reedu, o jibini ⟨את⟩ Kayin, o wi'i: “Mi soodi gorko ⟨את⟩ ka Yaawe.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Nden neɗɗo on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "anndi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hawwa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hawwa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "debbo mun"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "o heɓi reedu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o jibini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "mi soodi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "gorko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T04:32:59.842777887Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":1,"ref":"genesis 46:1","book":"genesis","lang":"ff","chapter":46,"translation":"Isiraa'el dilli e fuu ko no woodi, o ari Beeru-Sheba, o waddi sadakaaji sadakaaji ɗin fii Eloohim baaba mum Isaaka.","tokens":[{"surface":"ויסע","gloss":"dilli"},{"surface":"ישראל","gloss":"Isiraa'el"},{"surface":"וכל","gloss":"e fuu"},{"surface":"אשר","gloss":"ko"},{"surface":"לו","gloss":"no woodi"},{"surface":"ויבא","gloss":"o ari"},{"surface":"בארה","gloss":"Beeru"},{"surface":"שבע","gloss":"Sheba"},{"surface":"ויזבח","gloss":"o waddi sadakaaji"},{"surface":"זבחים","gloss":"sadakaaji ɗin"},{"surface":"לאלהי","gloss":"fii Eloohim"},{"surface":"אביו","gloss":"baaba mun"},{"surface":"יצחק","gloss":"Isaaka"}],"timestamp":"2026-09-14T04:52:43.185921824Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 46,
+  "translation": "Israa'iil dilli e fuu ko no woodi, o ari Beeru-Sheba, o waddi sadakaaji sadakaaji ɗin fii Eloohim baaba mum Yitshaq.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "dilli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e fuu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no woodi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "o ari"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "Beeru"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "o waddi sadakaaji"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "sadakaaji ɗin"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fii Eloohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshaq"
+    }
+  ],
+  "timestamp": "2026-09-14T04:52:43.185921824Z",
+  "model": "glm-5.3"
+}

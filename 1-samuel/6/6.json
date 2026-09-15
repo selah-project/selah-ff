@@ -1,1 +1,79 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "1-samuel 6:6", "book": "1-samuel", "lang": "ff", "chapter": 6, "translation": "E ko waɗi mbaɗdata ⟨את⟩ ɓerɗe mon tedduɗe, hono Misrayim e Farawo ɓe ɓe mbadtiri ⟨את⟩ ɓerɗe maɓɓe? Non wonaali tawa o nastirii ɓe kaasa, ɓe ndimi ɓe, ɓe njahi?", "tokens": [{"surface": "ולמה", "gloss": "e ko waɗi"}, {"surface": "תכבדו", "gloss": "mbaɗdata tedduɗe"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓerɗe mon"}, {"surface": "לבבכם", "gloss": "ɓerɗe mon"}, {"surface": "כאשר", "gloss": "hono"}, {"surface": "כבדו", "gloss": "mbadtiri tedduɗe"}, {"surface": "מצרים", "gloss": "Misrayim"}, {"surface": "ופרעה", "gloss": "e Farawo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓerɗe maɓɓe"}, {"surface": "לבם", "gloss": "ɓerɗe maɓɓe"}, {"surface": "הלוא", "gloss": "non wonaali"}, {"surface": "כאשר", "gloss": "tawa"}, {"surface": "התעלל", "gloss": "o nastirii ɓe kaasa"}, {"surface": "בהם", "gloss": "ɓe"}, {"surface": "וישלחום", "gloss": "ɓe ndimi ɓe"}, {"surface": "וילכו", "gloss": "ɓe njahi"}], "timestamp": "2026-09-14T06:39:17.007530940Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 6,
+  "translation": "E ko waɗi mbaɗdata ⟨את⟩ ɓerɗe mon tedduɗe, hono Misrayim e Paroh ɓe ɓe mbadtiri ⟨את⟩ ɓerɗe maɓɓe? Non wonaali tawa o nastirii ɓe kaasa, ɓe ndimi ɓe, ɓe njahi?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "e ko waɗi"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "mbaɗdata tedduɗe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓerɗe mon"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ɓerɗe mon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hono"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "mbadtiri tedduɗe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "e Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓerɗe maɓɓe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ɓerɗe maɓɓe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "non wonaali"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "o nastirii ɓe kaasa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ɓe ndimi ɓe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ɓe njahi"
+    }
+  ],
+  "timestamp": "2026-09-14T06:39:17.007530940Z",
+  "model": "glm-5.3"
+}

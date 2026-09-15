@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":1,"ref":"2-samuel 22:1","book":"2-samuel","lang":"ff","chapter":22,"translation":"Daawuda wi'i Yaawe ⟨את⟩ konngi ɗaande yimre nde, ñalnde Yaawe hisnuno ⟨את⟩ mo e juuɗe pale mun fof ɓe muñii mo, e juuɗe pale Shaawul.","tokens":[{"surface":"וידבר","gloss":"wi'i"},{"surface":"דוד","gloss":"Daawuda"},{"surface":"ליהוה","gloss":"Yaawe"},{"surface":"את","gloss":"⟨את⟩","marks":"konngi ɗaande yimre nde"},{"surface":"דברי","gloss":"konngi"},{"surface":"השירה","gloss":"ɗaande yimre"},{"surface":"הזאת","gloss":"nde"},{"surface":"ביום","gloss":"ñalnde"},{"surface":"הציל","gloss":"hisnuno"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אתו","gloss":"⟨את⟩ mo"},{"surface":"מכף","gloss":"e juuɗe pale"},{"surface":"כל","gloss":"fof"},{"surface":"איביו","gloss":"ɓe muñii mo"},{"surface":"ומכף","gloss":"e juuɗe pale"},{"surface":"שאול","gloss":"Shaawul"}],"timestamp":"2026-09-14T07:06:38.758817477Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 22,
+  "translation": "Daawuuda wi'i Yaawe ⟨את⟩ konngi ɗaande yimre nde, ñalnde Yaawe hisnuno ⟨את⟩ mo e juuɗe pale mun fof ɓe muñii mo, e juuɗe pale Sha'uul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konngi ɗaande yimre nde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "konngi"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ɗaande yimre"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nde"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hisnuno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "e juuɗe pale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fof"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ɓe muñii mo"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "e juuɗe pale"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    }
+  ],
+  "timestamp": "2026-09-14T07:06:38.758817477Z",
+  "model": "glm-5.3"
+}

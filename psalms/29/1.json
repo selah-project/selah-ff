@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 29:1","book":"psalms","lang":"ff","chapter":29,"translation":"Mizmoor Daawuda. Ndokkee Yaawe, ɓiɓɓe Eel-en, ndokkee Yaawe teddungal e doole.","tokens":[{"surface":"מזמור","gloss":"Mizmoor"},{"surface":"לדוד","gloss":"Daawuda"},{"surface":"הבו","gloss":"ndokkee"},{"surface":"ליהוה","gloss":"Yaawe"},{"surface":"בני","gloss":"ɓiɓɓe"},{"surface":"אלים","gloss":"Eel-en"},{"surface":"הבו","gloss":"ndokkee"},{"surface":"ליהוה","gloss":"Yaawe"},{"surface":"כבוד","gloss":"teddungal"},{"surface":"ועז","gloss":"e doole"}],"timestamp":"2026-09-14T12:40:32.483683399Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ff",
+  "chapter": 29,
+  "translation": "Mizmoor Daawuuda. Ndokkee Yaawe, ɓiɓɓe Eel-en, ndokkee Yaawe teddungal e doole.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daawuuda"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ndokkee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Eel-en"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ndokkee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "teddungal"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "e doole"
+    }
+  ],
+  "timestamp": "2026-09-14T12:40:32.483683399Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,86 @@
-{"tier": "glm-5.2", "verse": 14, "ref": "1-samuel 25:14", "book": "1-samuel", "lang": "ff", "chapter": 25, "translation": "Ndeen gooto e suukaaɓe ɓen haali Abiigayil debbo Nabal, wiyude: \"Ƴeeto, Dawuuli neldi jaŋataaɓe ka ladde ngam du'aade ⟨את⟩ Joomi amen; kono o ƴoƴi ɓe.\"", "tokens": [{"surface": "ולאביגיל", "gloss": "Abiigayil"}, {"surface": "אשת", "gloss": "debbo"}, {"surface": "נבל", "gloss": "Nabal"}, {"surface": "הגיד", "gloss": "haali"}, {"surface": "נער", "gloss": "sukaaɗo"}, {"surface": "אחד", "gloss": "gooto"}, {"surface": "מהנערים", "gloss": "e suukaaɓe ɓen"}, {"surface": "לאמר", "gloss": "wiyude"}, {"surface": "הנה", "gloss": "ƴeeto"}, {"surface": "שלח", "gloss": "neldi"}, {"surface": "דוד", "gloss": "Dawuudi"}, {"surface": "מלאכים", "gloss": "jaŋataaɓe"}, {"surface": "מהמדבר", "gloss": "ka ladde"}, {"surface": "לברך", "gloss": "ngam du'aade"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Joomi amen"}, {"surface": "אדנינו", "gloss": "Joomi amen"}, {"surface": "ויעט", "gloss": "o ƴoƴi ɓe"}, {"surface": "בהם", "gloss": "ɓe"}], "timestamp": "2026-09-14T06:51:02.295181518Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 25:14",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "Ndeen gooto e suukaaɓe ɓen haali Abiigayil debbo Nabal, wiyude: \"Ƴeeto, Dawuuli neldi jaŋataaɓe ka ladde ngam du'aade ⟨את⟩ Joomi amen; kono o ƴoƴi ɓe.\"",
+  "tokens": [
+    {
+      "surface": "ולאביגיל",
+      "gloss": "Abiigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "debbo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "haali"
+    },
+    {
+      "surface": "נער",
+      "gloss": "sukaaɗo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "gooto"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "e suukaaɓe ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyude"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ƴeeto"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "neldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "jaŋataaɓe"
+    },
+    {
+      "surface": "מהמדבר",
+      "gloss": "ka ladde"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ngam du'aade"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joomi amen"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Joomi amen"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "o ƴoƴi ɓe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T06:51:02.295181518Z",
+  "model": "glm-5.3"
+}

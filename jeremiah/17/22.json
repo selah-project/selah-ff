@@ -1,1 +1,87 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "jeremiah 17:22", "book": "jeremiah", "lang": "ff", "chapter": 17, "translation": "Wanaa yaltina on muddaaji cuuɗi mon ⟨את⟩ ñalnde Shabbat, golle fof wanaa ngolla; laaɓtinon-ɗen ⟨את⟩ ñalnde Shabbat nden, no mi wi'unoo baabiraaɓe mon ɗen nii.", "tokens": [{"surface": "ולא", "gloss": "wanaa"}, {"surface": "תוציאו", "gloss": "yaltina on"}, {"surface": "משא", "gloss": "muddaaji"}, {"surface": "מבתיכם", "gloss": "cuuɗi mon"}, {"surface": "ביום", "gloss": "ñalnde"}, {"surface": "השבת", "gloss": "Shabbat"}, {"surface": "וכל", "gloss": "golle fof"}, {"surface": "מלאכה", "gloss": "golle"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "תעשו", "gloss": "ngolla"}, {"surface": "וקדשתם", "gloss": "laaɓtinon-ɗen"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ñalnde Shabbat nden"}, {"surface": "יום", "gloss": "ñalnde"}, {"surface": "השבת", "gloss": "Shabbat"}, {"surface": "כאשר", "gloss": "no ... nii"}, {"surface": "צויתי", "gloss": "mi wi'unoo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "baabiraaɓe mon ɗen"}, {"surface": "אבותיכם", "gloss": "baabiraaɓe mon"}], "timestamp": "2026-09-15T07:49:54.670610001Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 17:22",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Wanaa yaltina on muddaaji cuuɗi mon ⟨את⟩ ñalnde Shabbat, golle fof wanaa ngolla; laaɓtinon-ɗen ⟨את⟩ ñalnde Shabbat nden, no mi wi'unoo baabiraaɓe mon ɗen nii.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "yaltina on"
+    },
+    {
+      "surface": "משא",
+      "gloss": "muddaaji"
+    },
+    {
+      "surface": "מבתיכם",
+      "gloss": "cuuɗi mon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "golle fof"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "golle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ngolla"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "laaɓtinon-ɗen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñalnde Shabbat nden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ñalnde"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "mi wi'unoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baabiraaɓe mon ɗen"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baabiraaɓe mon"
+    }
+  ],
+  "timestamp": "2026-09-15T07:49:54.670610001Z",
+  "model": "glm-5.3"
+}

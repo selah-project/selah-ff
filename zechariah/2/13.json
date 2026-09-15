@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 13, "ref": "zechariah 2:13", "book": "zechariah", "lang": "ff", "chapter": 2, "translation": "Sababu woni, taƴgol, miɗon moofta ⟨את⟩ junnde am dow maɓɓe, ɓe laatoy jawleero fii maccuɓe maɓɓe; on ndaftay wonnde Yaawe Sabaoth neldi lam.", "tokens": [{"surface": "כי", "gloss": "sababu woni"}, {"surface": "הנני", "gloss": "taƴgol, miɗon"}, {"surface": "מניף", "gloss": "moofta"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "junnde am"}, {"surface": "ידי", "gloss": "junnde am"}, {"surface": "עליהם", "gloss": "dow maɓɓe"}, {"surface": "והיו", "gloss": "ɓe laatoy"}, {"surface": "שלל", "gloss": "jawleero"}, {"surface": "לעבדיהם", "gloss": "fii maccuɓe maɓɓe"}, {"surface": "וידעתם", "gloss": "on ndaftay"}, {"surface": "כי", "gloss": "wonnde"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "צבאות", "gloss": "Sabaoth"}, {"surface": "שלחני", "gloss": "neldi lam"}], "timestamp": "2026-09-14T09:12:16.458866229Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 2:13",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Sababu woni, taƴgol, miɗon moofta ⟨את⟩ junnde am dow maɓɓe, ɓe laatoy jawleero fii maccuɓe maɓɓe; on ndaftay wonnde Yaawe Tsevaot neldi lam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sababu woni"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "taƴgol, miɗon"
+    },
+    {
+      "surface": "מניף",
+      "gloss": "moofta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "junnde am"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "junnde am"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dow maɓɓe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ɓe laatoy"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "jawleero"
+    },
+    {
+      "surface": "לעבדיהם",
+      "gloss": "fii maccuɓe maɓɓe"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "on ndaftay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wonnde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "neldi lam"
+    }
+  ],
+  "timestamp": "2026-09-14T09:12:16.458866229Z",
+  "model": "glm-5.3"
+}

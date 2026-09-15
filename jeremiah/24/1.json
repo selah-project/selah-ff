@@ -1,1 +1,141 @@
-{"tier":"glm-5.2","verse":1,"ref":"jeremiah 24:1","book":"jeremiah","lang":"ff","chapter":24,"translation":"Yaawe hollu mi, e nden yiyere: hoɗɗe ɗiɗi tinƴe wannginooɗe yeeso suudu Yaawe — ɓaawo nde Nebukadneceer, laamɗo Baabilon, eggini ⟨את⟩ Yekonjaahu ɓiy Yehojaakiim laamɗo Yahuuda, e ⟨את⟩ mawɓe Yahuuda, e ⟨את⟩ ñeeñuɓe ɗen e ⟨את⟩ potdiraaɓe njamlaaɗi ɗen, iwɗe Yerushalaam, o naatni ɓe Baabilon.","tokens":[{"surface":"הראני","gloss":"hollu mi"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"והנה","gloss":"e nden yiyere"},{"surface":"שני","gloss":"ɗiɗi"},{"surface":"דודאי","gloss":"hoɗɗe"},{"surface":"תאנים","gloss":"tinƴe"},{"surface":"מועדים","gloss":"wannginooɗe"},{"surface":"לפני","gloss":"yeeso"},{"surface":"היכל","gloss":"suudu"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אחרי","gloss":"ɓaawo"},{"surface":"הגלות","gloss":"eggini"},{"surface":"נבוכדראצר","gloss":"Nebukadneceer"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"בבל","gloss":"Baabilon"},{"surface":"את","gloss":"⟨את⟩","marks":"Yekonjaahu ɓiy Yehojaakiim laamɗo Yahuuda"},{"surface":"יכניהו","gloss":"Yekonjaahu"},{"surface":"בן","gloss":"ɓiy"},{"surface":"יהויקים","gloss":"Yehojaakiim"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"יהודה","gloss":"Yahuuda"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"mawɓe Yahuuda"},{"surface":"שרי","gloss":"mawɓe"},{"surface":"יהודה","gloss":"Yahuuda"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"ñeeñuɓe ɗen"},{"surface":"החרש","gloss":"ñeeñuɓe"},{"surface":"ואת","gloss":"e ⟨את⟩","marks":"potdiraaɓe njamlaaɗi ɗen"},{"surface":"המסגר","gloss":"potdiraaɓe njamlaaɗi"},{"surface":"מירושלם","gloss":"iwɗe Yerushalaam"},{"surface":"ויבאם","gloss":"o naatni ɓe"},{"surface":"בבל","gloss":"Baabilon"}],"timestamp":"2026-09-14T08:16:45.360506269Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 24:1",
+  "book": "jeremiah",
+  "lang": "ff",
+  "chapter": 24,
+  "translation": "Yaawe hollu mi, e nden yiyere: hoɗɗe ɗiɗi tinƴe wannginooɗe yeeso suudu Yaawe — ɓaawo nde Nebukadneceer, laamɗo Baabel, eggini ⟨את⟩ Yekonjaahu ɓiy Yehojaakiim laamɗo Yahuuda, e ⟨את⟩ mawɓe Yahuuda, e ⟨את⟩ ñeeñuɓe ɗen e ⟨את⟩ potdiraaɓe njamlaaɗi ɗen, iwɗe Yerushalaam, o naatni ɓe Baabel.",
+  "tokens": [
+    {
+      "surface": "הראני",
+      "gloss": "hollu mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "e nden yiyere"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ɗiɗi"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "hoɗɗe"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "tinƴe"
+    },
+    {
+      "surface": "מועדים",
+      "gloss": "wannginooɗe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ɓaawo"
+    },
+    {
+      "surface": "הגלות",
+      "gloss": "eggini"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadneceer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonjaahu ɓiy Yehojaakiim laamɗo Yahuuda"
+    },
+    {
+      "surface": "יכניהו",
+      "gloss": "Yekonjaahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojaakiim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "mawɓe Yahuuda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "ñeeñuɓe ɗen"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ñeeñuɓe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "e ⟨את⟩",
+      "marks": "potdiraaɓe njamlaaɗi ɗen"
+    },
+    {
+      "surface": "המסגר",
+      "gloss": "potdiraaɓe njamlaaɗi"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iwɗe Yerushalaam"
+    },
+    {
+      "surface": "ויבאם",
+      "gloss": "o naatni ɓe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    }
+  ],
+  "timestamp": "2026-09-14T08:16:45.360506269Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-samuel 15:16","book":"2-samuel","lang":"ff","chapter":15,"translation":"Laamɗo on yalti, e nder galle mun fuu, caggal makko; laamɗo on acci ⟨את⟩ rewɓe sappo ɓen palagshuujey goo, ngam reende saare nden.","tokens":[{"surface":"ויצא","gloss":"yalti"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"וכל","gloss":"e ... fuu"},{"surface":"ביתו","gloss":"nder galle mun"},{"surface":"ברגליו","gloss":"caggal makko"},{"surface":"ויעזב","gloss":"acci"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"את","gloss":"⟨את⟩","marks":"rewɓe sappo ɓen palagshuujey goo"},{"surface":"עשר","gloss":"sappo"},{"surface":"נשים","gloss":"rewɓe"},{"surface":"פלגשים","gloss":"palagshuujey goo"},{"surface":"לשמר","gloss":"ngam reende"},{"surface":"הבית","gloss":"saare nden"}],"timestamp":"2026-09-14T07:01:34.826078880Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ff",
+  "chapter": 15,
+  "translation": "Laamɗo on yalti, e nder galle mun fuu, caggal makko; laamɗo on acci ⟨את⟩ rewɓe sappo ɓen palagshuujey goo, ngam reende saare nden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "e... fuu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nder galle mun"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "caggal makko"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "acci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rewɓe sappo ɓen palagshuujey goo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sappo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "rewɓe"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "palagshuujey goo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ngam reende"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "saare nden"
+    }
+  ],
+  "timestamp": "2026-09-14T07:01:34.826078880Z",
+  "model": "glm-5.3"
+}

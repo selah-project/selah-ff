@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":54,"ref":"1-chronicles 2:54","book":"1-chronicles","lang":"ff","chapter":2,"translation":"Ɓiɓɓe Salma: Bet-lehem, e Netofaati, e ʿAtarot Bet-Yoʼab, e feccede Manahati, ɓe Tsareʼa.","tokens":[{"surface":"בני","gloss":"Ɓiɓɓe"},{"surface":"שלמא","gloss":"Salma"},{"surface":"בית","gloss":"Bet"},{"surface":"לחם","gloss":"lehem"},{"surface":"ונטופתי","gloss":"e Netofaati"},{"surface":"עטרות","gloss":"ʿAtarot"},{"surface":"בית","gloss":"Bet"},{"surface":"יואב","gloss":"Yoʼab"},{"surface":"וחצי","gloss":"e feccede"},{"surface":"המנחתי","gloss":"Manahati"},{"surface":"הצרעי","gloss":"ɓe Tsareʼa"}],"timestamp":"2026-09-14T18:53:39.563653166Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 2,
+  "translation": "Ɓiɓɓe Salma: Bet-lehem, e Netofaati, e ʿAtarot Bet-Yo'ab, e feccede Manahati, ɓe Tsare'a.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ɓiɓɓe"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "e Netofaati"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ʿAtarot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yo'ab"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "e feccede"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "Manahati"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "ɓe Tsare'a"
+    }
+  ],
+  "timestamp": "2026-09-14T18:53:39.563653166Z",
+  "model": "glm-5.3"
+}

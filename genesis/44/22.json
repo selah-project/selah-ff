@@ -1,1 +1,67 @@
-{"tier": "glm-5.2", "verse": 22, "ref": "genesis 44:22", "book": "genesis", "lang": "ff", "chapter": 44, "translation": "Min mbi'i e Adonaay am: suka on waawaa yaltude ⟨את⟩ baaba mun; so o yaltii ⟨את⟩ baaba mun, o maayata.", "tokens": [{"surface": "ונאמר", "gloss": "min mbi'i"}, {"surface": "אל", "gloss": "e"}, {"surface": "אדני", "gloss": "Adonaay am"}, {"surface": "לא", "gloss": "waawaa"}, {"surface": "יוכל", "gloss": "waawaa"}, {"surface": "הנער", "gloss": "suka on"}, {"surface": "לעזב", "gloss": "yaltude"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "baaba mun"}, {"surface": "אביו", "gloss": "baaba mun"}, {"surface": "ועזב", "gloss": "so o yaltii"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "baaba mun"}, {"surface": "אביו", "gloss": "baaba mun"}, {"surface": "ומת", "gloss": "o maayata"}], "timestamp": "2026-09-14T04:50:54.532197362Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ff",
+  "chapter": 44,
+  "translation": "Min mbi'i e Joomi am: suka on waawaa yaltude ⟨את⟩ baaba mun; so o yaltii ⟨את⟩ baaba mun, o maayata.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "min mbi'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Joomi am"
+    },
+    {
+      "surface": "לא",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "waawaa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "suka on"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "yaltude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "so o yaltii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaba mun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "baaba mun"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o maayata"
+    }
+  ],
+  "timestamp": "2026-09-14T04:50:54.532197362Z",
+  "model": "glm-5.3"
+}

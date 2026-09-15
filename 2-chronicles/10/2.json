@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-chronicles 10:2","book":"2-chronicles","lang":"ff","chapter":10,"translation":"Nde Yarobowam ɓiy Nebat nano ɗum — kanko o woni ko e Misrayim, ɗo o dognoo wuro Solomon laamɗo on — o arti Yarobowam ummii e Misrayim.","tokens":[{"surface":"ויהי","gloss":"Nde"},{"surface":"כשמע","gloss":"nano"},{"surface":"ירבעם","gloss":"Yarobowam"},{"surface":"בן","gloss":"ɓiy"},{"surface":"נבט","gloss":"Nebat"},{"surface":"והוא","gloss":"kanko o"},{"surface":"במצרים","gloss":"e Misrayim"},{"surface":"אשר","gloss":"ɗo"},{"surface":"ברח","gloss":"dognoo"},{"surface":"מפני","gloss":"wuro"},{"surface":"שלמה","gloss":"Solomon"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"וישב","gloss":"arti"},{"surface":"ירבעם","gloss":"Yarobowam"},{"surface":"ממצרים","gloss":"e Misrayim"}],"timestamp":"2026-09-14T11:13:24.381668406Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 10:2",
+  "book": "2-chronicles",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Nde Yarobowam ɓiy Nebat nano ɗum — kanko o woni ko e Misrayim, ɗo o dognoo wuro Shelomoh laamɗo on — o arti Yarobowam ummii e Misrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nde"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nano"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobowam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ɓiy"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kanko o"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "e Misrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ɗo"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "dognoo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "wuro"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobowam"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "e Misrayim"
+    }
+  ],
+  "timestamp": "2026-09-14T11:13:24.381668406Z",
+  "model": "glm-5.3"
+}

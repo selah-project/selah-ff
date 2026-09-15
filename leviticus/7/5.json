@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "leviticus 7:5", "book": "leviticus", "lang": "ff", "chapter": 7, "translation": "Kohen on ⟨את⟩ ɓeƴinta ⟨אתם⟩ e dow jaŋngal ngal — hiisa fii Yaawe; ko asham ⟨wonii⟩.", "tokens": [{"surface": "והקטיר", "gloss": "ɓeƴinta"}, {"surface": "אתם", "gloss": "⟨את⟩ ɓe", "marks": "ƴi'e ɗen e bertuuji ɗiɗo (jeertinɓe e aaya 7:4)"}, {"surface": "הכהן", "gloss": "Kohen on"}, {"surface": "המזבחה", "gloss": "e dow jaŋngal ngal"}, {"surface": "אשה", "gloss": "hiisa"}, {"surface": "ליהוה", "gloss": "fii Yaawe"}, {"surface": "אשם", "gloss": "asham"}, {"surface": "הוא", "gloss": "ko ... wonii"}], "timestamp": "2026-09-14T11:40:24.604511903Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 7,
+  "translation": "Kohen on ⟨את⟩ ɓeƴinta e dow jaŋngal ngal — hiisa fii Yaawe; ko asham ⟨wonii⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ɓeƴinta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ɓe",
+      "marks": "ƴi'e ɗen e bertuuji ɗiɗo (jeertinɓe e aaya 7:4)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen on"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e dow jaŋngal ngal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hiisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ko... wonii"
+    }
+  ],
+  "timestamp": "2026-09-14T11:40:24.604511903Z",
+  "model": "glm-5.3"
+}

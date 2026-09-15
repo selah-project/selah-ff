@@ -1,1 +1,74 @@
-{"tier": "glm-5.2", "verse": 5, "ref": "leviticus 9:5", "book": "leviticus", "lang": "ff", "chapter": 9, "translation": "Ɓe keɓi ⟨את⟩ ko Muusaa dameri, to yeeso teentedo kawral ngal; kawtal ngal fuu ɓaɗtii, ɓe darii yeeso Yaawe.", "tokens": [{"surface": "ויקחו", "gloss": "ɓe keɓi"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ko Muusaa dameri"}, {"surface": "אשר", "gloss": "ko"}, {"surface": "צוה", "gloss": "dameri"}, {"surface": "משה", "gloss": "Muusaa"}, {"surface": "אל", "gloss": "to"}, {"surface": "פני", "gloss": "yeeso"}, {"surface": "אהל", "gloss": "teentedo"}, {"surface": "מועד", "gloss": "kawral"}, {"surface": "ויקרבו", "gloss": "ɓe ɓaɗtii"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "העדה", "gloss": "kawtal ngal"}, {"surface": "ויעמדו", "gloss": "ɓe darii"}, {"surface": "לפני", "gloss": "yeeso"}, {"surface": "יהוה", "gloss": "Yaawe"}], "timestamp": "2026-09-14T05:20:50.647649504Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Ɓe keɓi ⟨את⟩ ko Moshe dameri, to yeeso teentedo kawral ngal; kawtal ngal fuu ɓaɗtii, ɓe darii yeeso Yaawe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ɓe keɓi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko Muusaa dameri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dameri"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teentedo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kawral"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ɓe ɓaɗtii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kawtal ngal"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ɓe darii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yeeso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    }
+  ],
+  "timestamp": "2026-09-14T05:20:50.647649504Z",
+  "model": "glm-5.3"
+}

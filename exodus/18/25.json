@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 18:25","book":"exodus","lang":"ff","chapter":18,"translation":"Mosheh suɓii worɓe doole e nder Israa'iila fuu, o waɗi ⟨את⟩ ɓe hooreeji dow yimɓe ɓen — sarɗiibi ujuneere, sarɗiibi teemedere, sarɗiibi cappanɗe jowi e sarɗiibi sappo.","tokens":[{"surface":"ויבחר","gloss":"suɓii"},{"surface":"משה","gloss":"Mosheh"},{"surface":"אנשי","gloss":"worɓe"},{"surface":"חיל","gloss":"doole"},{"surface":"מכל","gloss":"e nder ... fuu"},{"surface":"ישראל","gloss":"Israa'iila"},{"surface":"ויתן","gloss":"o waɗi"},{"surface":"אתם","gloss":"⟨את⟩","marks":"ɓe"},{"surface":"ראשים","gloss":"hooreeji"},{"surface":"על","gloss":"dow"},{"surface":"העם","gloss":"yimɓe ɓen"},{"surface":"שרי","gloss":"sarɗiibi"},{"surface":"אלפים","gloss":"ujuneere"},{"surface":"שרי","gloss":"sarɗiibi"},{"surface":"מאות","gloss":"teemedere"},{"surface":"שרי","gloss":"sarɗiibi"},{"surface":"חמשים","gloss":"cappanɗe jowi"},{"surface":"ושרי","gloss":"e sarɗiibi"},{"surface":"עשרת","gloss":"sappo"}],"timestamp":"2026-09-14T05:02:11.934666292Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 18,
+  "translation": "Moshe suɓii worɓe doole e nder Israa'iila fuu, o waɗi ⟨את⟩ ɓe hooreeji dow yimɓe ɓen — sarɗiibi ujuneere, sarɗiibi teemedere, sarɗiibi cappanɗe jowi e sarɗiibi sappo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "suɓii"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "worɓe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "doole"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "e nder... fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o waɗi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hooreeji"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarɗiibi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ujuneere"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarɗiibi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "teemedere"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarɗiibi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cappanɗe jowi"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "e sarɗiibi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sappo"
+    }
+  ],
+  "timestamp": "2026-09-14T05:02:11.934666292Z",
+  "model": "glm-5.3"
+}

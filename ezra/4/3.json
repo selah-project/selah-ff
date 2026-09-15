@@ -1,1 +1,121 @@
-{"tier":"glm-5.2","verse":3,"ref":"ezra 4:3","book":"ezra","lang":"ff","chapter":4,"translation":"Zerubbabel e Yeshuwa e keddiiɓe mawɓe baabiraaɓe ɓen Israyiil wi'i ɓe: “Namaa on, minen nganndu minen, mahirgo suudu fii Eloohim amen; kono minen e hoore amen en mahata fii Yaawe, Eloohim Israyiil, no laamɗo Koros, laamɗo Persi, jammini minen nii.”","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"להם","gloss":"ɓe"},{"surface":"זרבבל","gloss":"Zerubbabel"},{"surface":"וישוע","gloss":"e Yeshuwa"},{"surface":"ושאר","gloss":"e keddiiɓe"},{"surface":"ראשי","gloss":"mawɓe"},{"surface":"האבות","gloss":"baabiraaɓe ɓen"},{"surface":"לישראל","gloss":"Israyiil"},{"surface":"לא","gloss":"namaa"},{"surface":"לכם","gloss":"on"},{"surface":"ולנו","gloss":"e minen"},{"surface":"לבנות","gloss":"mahirgo"},{"surface":"בית","gloss":"suudu"},{"surface":"לאלהינו","gloss":"fii Eloohim amen"},{"surface":"כי","gloss":"kono"},{"surface":"אנחנו","gloss":"minen"},{"surface":"יחד","gloss":"e hoore amen"},{"surface":"נבנה","gloss":"en mahata"},{"surface":"ליהוה","gloss":"fii Yaawe"},{"surface":"אלהי","gloss":"Eloohim"},{"surface":"ישראל","gloss":"Israyiil"},{"surface":"כאשר","gloss":"no... nii"},{"surface":"צונו","gloss":"jammini minen"},{"surface":"המלך","gloss":"laamɗo on"},{"surface":"כורש","gloss":"Koros"},{"surface":"מלך","gloss":"laamɗo"},{"surface":"פרס","gloss":"Persi"}],"timestamp":"2026-09-14T13:04:00.810710324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 4:3",
+  "book": "ezra",
+  "lang": "ff",
+  "chapter": 4,
+  "translation": "Zerubbabel e Yeshuwa e keddiiɓe mawɓe baabiraaɓe ɓen Israa'iil wi'i ɓe: “Namaa on, minen nganndu minen, mahirgo suudu fii Eloohim amen; kono minen e hoore amen en mahata fii Yaawe, Eloohim Israa'iil, no laamɗo Koros, laamɗo Persi, jammini minen nii.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "e Yeshuwa"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "e keddiiɓe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mawɓe"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baabiraaɓe ɓen"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "namaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "e minen"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "mahirgo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "fii Eloohim amen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "minen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "e hoore amen"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "en mahata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fii Yaawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "no... nii"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "jammini minen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamɗo on"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koros"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persi"
+    }
+  ],
+  "timestamp": "2026-09-14T13:04:00.810710324Z",
+  "model": "glm-5.3"
+}

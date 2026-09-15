@@ -1,1 +1,135 @@
-{"tier": "glm-5.2", "verse": 3, "ref": "exodus 16:3", "book": "exodus", "lang": "ff", "chapter": 16, "translation": "Ɓiɓɓe Israa'iila wi'i ɓe: “Yi'i hombo yedda ⟨את⟩ min maayirno e juuɗe Yaawe e leydi Misraam, tawa min darii e dow ɓuuɓri yamre, tawa min nguura ñameende haa min heɓi; ggunɗo on neldi ⟨אתנו⟩ min e jeereende nde, ngam warde ⟨את⟩ kala renndo ngal e heegu.”", "tokens": [{"surface": "ויאמרו", "gloss": "wi'i"}, {"surface": "אלהם", "gloss": "ɓe"}, {"surface": "בני", "gloss": "ɓiɓɓe"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "מי", "gloss": "yi'i hombo"}, {"surface": "יתן", "gloss": "yedda"}, {"surface": "מותנו", "gloss": "min maayirno"}, {"surface": "ביד", "gloss": "e juuɗe"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "בארץ", "gloss": "e leydi"}, {"surface": "מצרים", "gloss": "Misraam"}, {"surface": "בשבתנו", "gloss": "tawa min darii"}, {"surface": "על", "gloss": "e dow"}, {"surface": "סיר", "gloss": "ɓuuɓri"}, {"surface": "הבשר", "gloss": "yamre"}, {"surface": "באכלנו", "gloss": "tawa min nguura"}, {"surface": "לחם", "gloss": "ñameende"}, {"surface": "לשבע", "gloss": "haa min heɓi"}, {"surface": "כי", "gloss": "ggunɗo"}, {"surface": "הוצאתם", "gloss": "on neldi"}, {"surface": "אתנו", "gloss": "⟨את⟩ min", "marks": "min"}, {"surface": "אל", "gloss": "e"}, {"surface": "המדבר", "gloss": "jeereende nde"}, {"surface": "הזה", "gloss": "nde"}, {"surface": "להמית", "gloss": "ngam warde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "kala renndo ngal"}, {"surface": "כל", "gloss": "kala"}, {"surface": "הקהל", "gloss": "renndo"}, {"surface": "הזה", "gloss": "ngal"}, {"surface": "ברעב", "gloss": "e heegu"}], "timestamp": "2026-09-14T05:01:58.238604552Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 16:3",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Ɓiɓɓe Israa'iila wi'i ɓe: “Yi'i hombo yedda ⟨את⟩ min maayirno e juuɗe Yaawe e leydi Misraam, tawa min darii e dow ɓuuɓri yamre, tawa min nguura ñameende haa min heɓi; ggunɗo on neldi min e jeereende nde, ngam warde ⟨את⟩ kala renndo ngal e heegu.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ɓe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ɓiɓɓe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yi'i hombo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yedda"
+    },
+    {
+      "surface": "מותנו",
+      "gloss": "min maayirno"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "e juuɗe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "e leydi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misraam"
+    },
+    {
+      "surface": "בשבתנו",
+      "gloss": "tawa min darii"
+    },
+    {
+      "surface": "על",
+      "gloss": "e dow"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ɓuuɓri"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "yamre"
+    },
+    {
+      "surface": "באכלנו",
+      "gloss": "tawa min nguura"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ñameende"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "haa min heɓi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ggunɗo"
+    },
+    {
+      "surface": "הוצאתם",
+      "gloss": "on neldi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ min",
+      "marks": "min"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "jeereende nde"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ngam warde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kala renndo ngal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "renndo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ngal"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "e heegu"
+    }
+  ],
+  "timestamp": "2026-09-14T05:01:58.238604552Z",
+  "model": "glm-5.3"
+}

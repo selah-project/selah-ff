@@ -1,1 +1,46 @@
-{"tier": "glm-5.2", "verse": 9, "ref": "zechariah 10:9", "book": "zechariah", "lang": "ff", "chapter": 10, "translation": "Mi ndañay ɓe yeru nder yimɓe, e nder leyɗe woɗɗuɗe ɓe mawnitoray Mi, ɓe wuurnay e ⟨את⟩ ɓiɓɓe mum en, ɓe ruttortoo.", "tokens": [{"surface": "ואזרעם", "gloss": "mi ndañay ɓe yeru"}, {"surface": "בעמים", "gloss": "nder yimɓe"}, {"surface": "ובמרחקים", "gloss": "e nder leyɗe woɗɗuɗe"}, {"surface": "יזכרוני", "gloss": "ɓe mawnitoray Mi"}, {"surface": "וחיו", "gloss": "ɓe wuurnay"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ɓiɓɓe mum en"}, {"surface": "בניהם", "gloss": "ɓiɓɓe mum en"}, {"surface": "ושבו", "gloss": "ɓe ruttortoo"}], "timestamp": "2026-09-14T09:13:38.944224035Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "ff",
+  "chapter": 10,
+  "translation": "Mi ndañay ɓe yeru nder yimɓe, e nder leyɗe woɗɗuɗe ɓe mawnitoray mi, ɓe wuurnay e ⟨את⟩ ɓiɓɓe mum en, ɓe ruttortoo.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "mi ndañay ɓe yeru"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "nder yimɓe"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "e nder leyɗe woɗɗuɗe"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "ɓe mawnitoray mi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ɓe wuurnay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ɓiɓɓe mum en"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ɓiɓɓe mum en"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ɓe ruttortoo"
+    }
+  ],
+  "timestamp": "2026-09-14T09:13:38.944224035Z",
+  "model": "glm-5.3"
+}

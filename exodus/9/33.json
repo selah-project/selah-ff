@@ -1,1 +1,82 @@
-{"tier": "glm-5.2", "verse": 33, "ref": "exodus 9:33", "book": "exodus", "lang": "ff", "chapter": 9, "translation": "Mosheh yalti ⟨את⟩ wuro ngun e ka Paroh, o werlii juuɗe mun ka Yaawe; ɗaɗe ɗen e coktirgal ngal nattii, duule ɗe ƴoƴaaki e leydi ndin.", "tokens": [{"surface": "ויצא", "gloss": "yalti"}, {"surface": "משה", "gloss": "Mosheh"}, {"surface": "מעם", "gloss": "e ka"}, {"surface": "פרעה", "gloss": "Paroh"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "wuro ngun"}, {"surface": "העיר", "gloss": "wuro ngun"}, {"surface": "ויפרש", "gloss": "o werlii"}, {"surface": "כפיו", "gloss": "juuɗe mun"}, {"surface": "אל", "gloss": "ka"}, {"surface": "יהוה", "gloss": "Yaawe"}, {"surface": "ויחדלו", "gloss": "nattii"}, {"surface": "הקלות", "gloss": "ɗaɗe ɗen"}, {"surface": "והברד", "gloss": "coktirgal ngal"}, {"surface": "ומטר", "gloss": "duule ɗen"}, {"surface": "לא", "gloss": "wanaa"}, {"surface": "נתך", "gloss": "ƴoƴaaki"}, {"surface": "ארצה", "gloss": "e leydi ndin"}], "timestamp": "2026-09-14T04:57:55.098959574Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ff",
+  "chapter": 9,
+  "translation": "Moshe yalti ⟨את⟩ wuro ngun e ka Paroh, o werlii juuɗe mun ka Yaawe; ɗaɗe ɗen e coktirgal ngal nattii, duule ɗe ƴoƴaaki e leydi ndin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yalti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "e ka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wuro ngun"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wuro ngun"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "o werlii"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "juuɗe mun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "nattii"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "ɗaɗe ɗen"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "coktirgal ngal"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "duule ɗen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wanaa"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "ƴoƴaaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "e leydi ndin"
+    }
+  ],
+  "timestamp": "2026-09-14T04:57:55.098959574Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 10, "ref": "leviticus 17:10", "book": "leviticus", "lang": "ff", "chapter": 17, "translation": "Kala neɗɗo e nder ɓesngu Israa'iila, walla e ɓe wonduɓe hoɗnooɓe hakkunde maɓɓe, mo ñaamata ⟨את⟩ ƴiiƴam kala — Mi waɗirta hoore-petto am dow neɗɗo ñaamotooɗo ⟨את⟩ ƴiiƴam on, e momtirta mo e ɗoŋŋre yimɓe mun.", "tokens": [{"surface": "ואיש", "gloss": "e neɗɗo"}, {"surface": "איש", "gloss": "kala neɗɗo"}, {"surface": "מבית", "gloss": "e nder ɓesngu"}, {"surface": "ישראל", "gloss": "Israa'iila"}, {"surface": "ומן", "gloss": "walla e"}, {"surface": "הגר", "gloss": "ɓe wonduɓe"}, {"surface": "הגר", "gloss": "hoɗnooɓe"}, {"surface": "בתוכם", "gloss": "hakkunde maɓɓe"}, {"surface": "אשר", "gloss": "mo"}, {"surface": "יאכל", "gloss": "ñaamata"}, {"surface": "כל", "gloss": "kala"}, {"surface": "דם", "gloss": "ƴiiƴam"}, {"surface": "ונתתי", "gloss": "Mi waɗirta"}, {"surface": "פני", "gloss": "hoore-petto am"}, {"surface": "בנפש", "gloss": "dow neɗɗo"}, {"surface": "האכלת", "gloss": "ñaamotooɗo"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "ƴiiƴam on"}, {"surface": "הדם", "gloss": "ƴiiƴam on"}, {"surface": "והכרתי", "gloss": "e momtirta mo"}, {"surface": "אתה", "gloss": "⟨את⟩", "marks": "mo"}, {"surface": "מקרב", "gloss": "e ɗoŋŋre"}, {"surface": "עמה", "gloss": "yimɓe mun"}], "timestamp": "2026-09-14T05:27:16.594594919Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Kala neɗɗo e nder ɓesngu Israa'iila, walla e ɓe wonduɓe hoɗnooɓe hakkunde maɓɓe, mo ñaamata ⟨את⟩ ƴiiƴam kala — mi waɗirta hoore-petto am dow neɗɗo ñaamotooɗo ⟨את⟩ ƴiiƴam on, e momtirta mo e ɗoŋŋre yimɓe mun.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "e neɗɗo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kala neɗɗo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "e nder ɓesngu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iila"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "walla e"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ɓe wonduɓe"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hoɗnooɓe"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "hakkunde maɓɓe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ñaamata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kala"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ƴiiƴam"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mi waɗirta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "hoore-petto am"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "dow neɗɗo"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "ñaamotooɗo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ƴiiƴam on"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ƴiiƴam on"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "e momtirta mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "e ɗoŋŋre"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "yimɓe mun"
+    }
+  ],
+  "timestamp": "2026-09-14T05:27:16.594594919Z",
+  "model": "glm-5.3"
+}

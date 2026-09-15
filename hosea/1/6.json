@@ -1,1 +1,102 @@
-{"tier": "glm-5.2", "verse": 6, "ref": "hosea 1:6", "book": "hosea", "lang": "ff", "chapter": 1, "translation": "O hebani kadi, o danyi ɓiɗɗo debbo; o wi'i mo: Noddu innde makko Lo-Ruhamah, hari mi ɓeydataa woore yurminde ⟨את⟩ suudu Yisraa'el, kono mi itanay ɓe e maayo timmungo.", "tokens": [{"surface": "ותהר", "gloss": "o hebani"}, {"surface": "עוד", "gloss": "kadi"}, {"surface": "ותלד", "gloss": "o danyi"}, {"surface": "בת", "gloss": "ɓiɗɗo debbo"}, {"surface": "ויאמר", "gloss": "o wi'i"}, {"surface": "לו", "gloss": "mo"}, {"surface": "קרא", "gloss": "noddu"}, {"surface": "שמה", "gloss": "innde makko"}, {"surface": "לא", "gloss": "Lo-"}, {"surface": "רחמה", "gloss": "Ruhamah"}, {"surface": "כי", "gloss": "hari"}, {"surface": "לא", "gloss": "walaa"}, {"surface": "אוסיף", "gloss": "mi ɓeydataa"}, {"surface": "עוד", "gloss": "woore"}, {"surface": "ארחם", "gloss": "yurminde"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "suudu Yisraa'el"}, {"surface": "בית", "gloss": "suudu"}, {"surface": "ישראל", "gloss": "Yisraa'el"}, {"surface": "כי", "gloss": "kono"}, {"surface": "נשא", "gloss": "mi itanay"}, {"surface": "אשא", "gloss": "e maayo timmungo"}, {"surface": "להם", "gloss": "ɓe"}], "timestamp": "2026-09-14T08:57:50.102223971Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 1:6",
+  "book": "hosea",
+  "lang": "ff",
+  "chapter": 1,
+  "translation": "O hebani kadi, o danyi ɓiɗɗo debbo; o wi'i mo: Noddu innde makko Lo-Ruhamah, hari mi ɓeydataa woore yurminde ⟨את⟩ suudu Israa'iil, kono mi itanay ɓe e maayo timmungo.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "o hebani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "o danyi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ɓiɗɗo debbo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o wi'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "noddu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "innde makko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walaa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "mi ɓeydataa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "woore"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "yurminde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suudu Yisraa'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suudu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kono"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mi itanay"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "e maayo timmungo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ɓe"
+    }
+  ],
+  "timestamp": "2026-09-14T08:57:50.102223971Z",
+  "model": "glm-5.3"
+}

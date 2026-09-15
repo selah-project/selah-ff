@@ -1,1 +1,103 @@
-{"tier": "glm-5.2", "verse": 16, "ref": "1-kings 16:16", "book": "1-kings", "lang": "ff", "chapter": 16, "translation": "Yimɓe ɓen ndariiɗo ɓe nan'i wiyde: 'Zimrii sodondiri, o wari kadi ⟨את⟩ laamɗo on'; yimɓe Yisraayel fuu ɓe waɗinii ⟨את⟩ Omrii, hooreejo konu, laamɗo dow Yisraayel, ñalawma kan e kaampol ngol.", "tokens": [{"surface": "וישמע", "gloss": "ɓe nan'i"}, {"surface": "העם", "gloss": "yimɓe ɓen"}, {"surface": "החנים", "gloss": "ndaariiɗo ɓen"}, {"surface": "לאמר", "gloss": "wiyde"}, {"surface": "קשר", "gloss": "sodondiri"}, {"surface": "זמרי", "gloss": "Zimrii"}, {"surface": "וגם", "gloss": "kadi"}, {"surface": "הכה", "gloss": "o wari"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "laamɗo on"}, {"surface": "המלך", "gloss": "laamđo on"}, {"surface": "וימלכו", "gloss": "ɓe wađanii laamđo"}, {"surface": "כל", "gloss": "fuu"}, {"surface": "ישראל", "gloss": "Yisraayel"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "Omrii"}, {"surface": "עמרי", "gloss": "Omrii"}, {"surface": "שר", "gloss": "hooreejo"}, {"surface": "צבא", "gloss": "konu"}, {"surface": "על", "gloss": "dow"}, {"surface": "ישראל", "gloss": "Yisraayel"}, {"surface": "ביום", "gloss": "ñalawma"}, {"surface": "ההוא", "gloss": "kan"}, {"surface": "במחנה", "gloss": "e kaampol ngol"}], "timestamp": "2026-09-14T07:21:11.453151660Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "ff",
+  "chapter": 16,
+  "translation": "Yimɓe ɓen ndariiɗo ɓe nan'i wiyde: 'Zimrii sodondiri, o wari kadi ⟨את⟩ laamɗo on'; yimɓe Israa'iil fuu ɓe waɗinii ⟨את⟩ Omrii, hooreejo konu, laamɗo dow Israa'iil, ñalawma kan e kaampol ngol.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ɓe nan'i"
+    },
+    {
+      "surface": "העם",
+      "gloss": "yimɓe ɓen"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "ndaariiɗo ɓen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wiyde"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sodondiri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrii"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kadi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "o wari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laamɗo on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "laamđo on"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ɓe wađanii laamđo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "fuu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrii"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrii"
+    },
+    {
+      "surface": "שר",
+      "gloss": "hooreejo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "konu"
+    },
+    {
+      "surface": "על",
+      "gloss": "dow"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israa'iil"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ñalawma"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "e kaampol ngol"
+    }
+  ],
+  "timestamp": "2026-09-14T07:21:11.453151660Z",
+  "model": "glm-5.3"
+}

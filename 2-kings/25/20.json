@@ -1,1 +1,59 @@
-{"tier": "glm-5.2", "verse": 20, "ref": "2-kings 25:20", "book": "2-kings", "lang": "ff", "chapter": 25, "translation": "⟨את⟩ Nebuzaradan, mawɗo garbooje ɗen, jogitini ⟨את⟩ ɓe, o addi ɓe to laamɗo Babilon, to Ribla.", "tokens": [{"surface": "ויקח", "gloss": "jogitini"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "נבוזראדן", "gloss": "Nebuzaradan"}, {"surface": "רב", "gloss": "mawɗo"}, {"surface": "טבחים", "gloss": "garbooje ɗen"}, {"surface": "וילך", "gloss": "addi"}, {"surface": "אתם", "gloss": "⟨את⟩", "marks": "ɓe"}, {"surface": "על", "gloss": "to"}, {"surface": "מלך", "gloss": "laamɗo"}, {"surface": "בבל", "gloss": "Babilon"}, {"surface": "רבלתה", "gloss": "Ribla"}], "timestamp": "2026-09-14T12:11:33.721182331Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ff",
+  "chapter": 25,
+  "translation": "⟨את⟩ Nebuzaradan, mawɗo garbooje ɗen, jogitini ⟨את⟩ ɓe, o addi ɓe to laamɗo Baabel, to Ribla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "jogitini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mawɗo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "garbooje ɗen"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "addi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ɓe"
+    },
+    {
+      "surface": "על",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "laamɗo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Ribla"
+    }
+  ],
+  "timestamp": "2026-09-14T12:11:33.721182331Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":32,"ref":"1-samuel 17:32","book":"1-samuel","lang":"ff","chapter":17,"translation":"Dawuudi wi'i Shaawul: \"Wata ɓernde neɗɗo liɗo e makko; jeyaaɗo maa yahata, o haɓata e Filistiiŋke oo.\"","tokens":[{"surface":"ויאמר","gloss":"wi'i"},{"surface":"דוד","gloss":"Dawuudi"},{"surface":"אל","gloss":"e"},{"surface":"שאול","gloss":"Shaawul"},{"surface":"אל","gloss":"wata"},{"surface":"יפל","gloss":"liɗo"},{"surface":"לב","gloss":"ɓernde"},{"surface":"אדם","gloss":"neɗɗo"},{"surface":"עליו","gloss":"e makko"},{"surface":"עבדך","gloss":"jeyaaɗo maa"},{"surface":"ילך","gloss":"yahata"},{"surface":"ונלחם","gloss":"o haɓata"},{"surface":"עם","gloss":"e"},{"surface":"הפלשתי","gloss":"Filistiiŋke"},{"surface":"הזה","gloss":"oo"}],"timestamp":"2026-09-14T06:46:21.212823991Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "ff",
+  "chapter": 17,
+  "translation": "Daawuudi wi'i Sha'uul: \"Wata ɓernde neɗɗo liɗo e makko; jeyaaɗo maa yahata, o haɓata e Filistiiŋke oo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wi'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daawuudi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'uul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "liɗo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ɓernde"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "neɗɗo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "e makko"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jeyaaɗo maa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yahata"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "o haɓata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistiiŋke"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oo"
+    }
+  ],
+  "timestamp": "2026-09-14T06:46:21.212823991Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-chronicles 21:29","book":"1-chronicles","lang":"ff","chapter":21,"translation":"Kono suudu Yaawe ndun, ndun Muuessa waɗunoo e nder ladde ndee, e jaɓunde coofal ngal mun, ngonnoo e saa'a mun reedu-deero to Gibaon.","tokens":[{"surface":"ומשכן","gloss":"e suudu"},{"surface":"יהוה","gloss":"Yaawe"},{"surface":"אשר","gloss":"ndun"},{"surface":"עשה","gloss":"waɗunoo"},{"surface":"משה","gloss":"Muuessa"},{"surface":"במדבר","gloss":"e nder ladde ndee"},{"surface":"ומזבח","gloss":"e jaɓunde"},{"surface":"העולה","gloss":"coofal ngal mun"},{"surface":"בעת","gloss":"e saa'a mun"},{"surface":"ההיא","gloss":"reedu-deero"},{"surface":"בבמה","gloss":"to duɗal teddungal"},{"surface":"בגבעון","gloss":"to Gibaon"}],"timestamp":"2026-09-14T10:59:56.477952500Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 21:29",
+  "book": "1-chronicles",
+  "lang": "ff",
+  "chapter": 21,
+  "translation": "Kono suudu Yaawe ndun, ndun Moshe waɗunoo e nder ladde ndee, e jaɓunde coofal ngal mun, ngonnoo e saa'a mun reedu-deero to Gibaon.",
+  "tokens": [
+    {
+      "surface": "ומשכן",
+      "gloss": "e suudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ndun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "waɗunoo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "e nder ladde ndee"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "e jaɓunde"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "coofal ngal mun"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "e saa'a mun"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "reedu-deero"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "to duɗal teddungal"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "to Gibaon"
+    }
+  ],
+  "timestamp": "2026-09-14T10:59:56.477952500Z",
+  "model": "glm-5.3"
+}
