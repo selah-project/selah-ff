@@ -146,3 +146,48 @@ press list 116 + stragglers); three hand passes recorded in
 `dev/scripts/ff_flow_hand_pass.py` (selah repo). Rails:
 `docs/methodology/translation-discipline/ff.md` (written in
 Fulfulde), commit d99563fa.
+
+---
+
+## v1.1 — the Class-B rulings (2026-09-15, same day as the seal)
+
+Scott ruled the twelve Class-B questions as **a posture, not
+cases**: *"bring the Hebrew to the reader unapologetically … we
+are authorized to tear down altars … some languages have the
+perfect word, and in that case we pick it."* Applied as
+`dev/scripts/ff_class_b_sweep.py` (selah repo; idempotent; 5,433
+files, 11,803 edits; battery all-exact after apply; Yaawe
+6,828/6,828 and ⟨את⟩ 11,866 unchanged).
+
+**The name canon (Hebraic register):** Moshe · Aharon · Awraham ·
+Yitshaq · Yoseef · Shelomoh · Shemu'eel · Paroh · Eliyahu ·
+Daawuud · Ya'aqob · Sha'uul · Tsiyon · **Baabel** (the Hebrew
+name replaces the Greek Babilon — Gen 11:9 now names itself) ·
+Israa'iil and Yahuuda kept as the chair's own stems ·
+Yerushalayim/Misrayim/Efrayim already converged. A variant's
+trailing -a/-i survives as Fulfulde case on the normalized stem;
+Arabic-register forms took the bare canon. Abram (אברם) was never
+collapsed into Awraham; Ashdod/Dodo/Elihu/Salmon/Sheol guarded by
+surface+floor seat checks.
+
+**Also applied:** Tsevaot at all 284 divine-title seats (the
+Hebrew צ, not the Greek ear) · Adonaay reserved for the divine,
+117+ human-master seats to the chair's own `Joomi` + possessive ·
+the Arabic loan family (ilaaji/Allaaji/allu) out of the false-god
+seats → Eloohim · Aramaic מרא → **Mare** (Dan 2:47, 5:23; human
+מראי untouched) · divine-seat appositions stripped bare
+(Deut 23:6 ×3, Zech 4:14) · Ex 3:14 **Mi Laatii Ko Mi Laatii**
+(אשר is the relative) · reverential pronoun capitals retired
+(823 flow + 740 gloss — typography the Hebrew never had) · the
+62 suffixed flow-brackets deleted · apostrophe canon U+0027
+(466) · `[…]` → `⟨…⟩` (69) · parenthetical Hebrew term-glosses
+KEPT (the chair teaching its reader Hebrew is the mission).
+
+**Still open, deliberately:** the pagan-Eloohim casing (Scott
+weighing the shared-word question — one word אלהים for Him and
+for the others is itself the finding); gentilic/derivational
+forms (~40, Q1c unruled); 428 stale name spellings in the
+`marks` field (ruling named gloss+flow); 50/77 stale forms at
+non-guarded seats below the sweep threshold; the native-check
+words; nefesh + ⟨ית⟩ ride the floor-and-fleet queue (nefesh
+transliterates, ית joins the marker family — ruled, fleet-wide).
