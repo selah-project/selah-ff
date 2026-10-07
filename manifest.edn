@@ -21,11 +21,15 @@
               :license
               :catalog],
              :declared
-             [:role :open-questions :rendering/adjudication]},
+             [:role
+              :open-questions
+              :rendering/adjudication
+              :rendering/process
+              :rendering/checks]},
             :role :served,
             :produced {:from "2026-09-14", :to "2026-09-15"},
-            :id "ff.v1",
-            :catalog {:ui nil},
+            :id "ff.v1.1",
+            :catalog {:ui "resources/i18n/ui/ff.edn"},
             :license "CC BY-SA 4.0 (The Selah Fulfulde Rendering)",
             :model
             {:provider :z.ai,
@@ -35,7 +39,7 @@
              :canonical-forms "data/translation/canonical-forms.edn"},
             :discipline
             {:rails "docs/methodology/translation-discipline/ff.md",
-             :rails-commit "d99563fa",
+             :rails-commit "d99563fa7",
              :foundation
              [:hebrew-first
               :deut-6-4-double-fidelity
@@ -103,13 +107,27 @@
               "NEVER TAIL A VERIFIER: 67 spine mismatches sat invisible behind tail -N for three rounds; Jer 8:13's phantom token 'וין' json-errored all four rungs and was deleted by hand"
               "native-check words flagged not swept: waaworde (Gen 3:15), ƴi'e horns (Gen 22:13), lelwude swallow (Jonah 2:1), Gen 8:16 ɓe-for-worɓe, and lane-4's new-lexicon duppeteendi/cukkuri/lonto/teppere/helay/goopi/liingu/gaawe"
               "740 empty glosses are the nan/mai posture (compound numerals + merged function words, meaning whole on the neighbor token; nan sealed with 614, mai 309)"]},
-            :version "v1",
+            :checks
+            {:v1.1
+             {:parity-clean 23213,
+              :parity-failures "0/0/0",
+              :restore "0/0",
+              :census 0,
+              :marker-dry "0/0",
+              :yaawe "6,828/6,828",
+              :aleph-tav "11,866 = 11,866"}},
+            :version "v1.1",
             :lineage
             {:git
              {:repo "selah-project/selah-ff",
-              :ref "v1-final",
-              :commit "88a7d360",
+              :ref "v1.1",
+              :commit "f551aab0",
               :tags ["v1-final" "v1.1"],
               :branches ["main"]},
-             :parents []},
-            :lang :ff}
+             :parents ["ff.v1"]},
+            :lang :ff,
+            :process
+            [{:stage :update,
+              :version "v1.1",
+              :note
+              "the Class-B rulings applied (the posture of the chairs, Scott 2026-09-15): the name canon in the Hebraic register, Tsevaot at all 284 title seats, Adonaay reserved for the divine, the Arabic loan family out of the false-god seats, Mare for Aramaic mara, appositions stripped, reverential capitals retired, brackets and apostrophe canon swept — 5,433 files, 11,803 field edits (dev/scripts/ff_class_b_sweep.py)"}]}
