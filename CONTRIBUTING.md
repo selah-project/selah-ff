@@ -8,7 +8,7 @@ masin on. Ngol ɗerewol holla no mballirtaa.
 
 - Uddit **Issue** e repo on: <https://github.com/selah-project/selah-ff>
 - Walla, si aɗa waawi feewnude, neldu **Pull request**.
-- Walla winndu: <support@selahproject.com>
+- Walla winndu: <https://s33k3r.com/learn/support>
 
 ## Ko winndataa
 
@@ -44,7 +44,7 @@ goonga — addu; min ndaarii ɗum.
 
 **English.** Contributions welcome: open an Issue or Pull request
 at <https://github.com/selah-project/selah-ff>, or write to
-<support@selahproject.com>. One file = one verse; token count
+<https://s33k3r.com/learn/support>. One file = one verse; token count
 equals gloss count; ⟨את⟩ markers are never deleted or added. The
 D1 Names (Yaawe, Eloohim, Eel, Elooha, Adonaay, Shadday, Yaah)
 never yield to a tradition-title — not Alla, not Joomiraawo at a
